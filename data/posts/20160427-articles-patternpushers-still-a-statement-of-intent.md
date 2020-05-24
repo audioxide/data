@@ -9,8 +9,7 @@ featuredimage: 2016/05/image2.jpg
 title: PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 27\.05.02016
 ------
 

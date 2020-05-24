@@ -9,8 +9,7 @@ featuredimage: 2016/05/flume-skin.jpg
 title: Flume covers considerable ground with &#8216;Skin&#8217;
 author: andrew
 ---
-### [<u>Andrew</u>
-](<https://twitter.com/AndrewBridge>)
+### [Andrew](<https://twitter.com/AndrewBridge>)
 #### 01\.06.02016
 ------
 

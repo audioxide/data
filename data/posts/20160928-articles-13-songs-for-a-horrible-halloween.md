@@ -20,8 +20,7 @@ featuredimage: 2016/10/red-thom.jpg
 title: 13 Songs for a Horrible Halloween
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 28\.10.02016
 ------
 Let’s face it, Halloween playlists can be awful. “Monster Mash”, “Ghostbusters”, theme tunes from dated horror flicks… hell, even “Thriller” has become tainted. As a tasteful alternative, here lies a less conventional collection of frightening contemporary songs. Tracks that are fantastic in their own right, but flourish in an ambience of horror. More treats than tricks, I promise.

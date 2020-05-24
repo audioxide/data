@@ -9,8 +9,7 @@ featuredimage: 2016/06/Future-Present-Past.png
 title: The Strokes continue their search for a sound
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 06\.06.02016
 ------
 

@@ -10,8 +10,7 @@ featuredimage: 2016/05/Richard-Ashcroft.jpg
 title: Richard Ashcroft Wasting His Northern Soul
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 23\.05.02016
 ------
 

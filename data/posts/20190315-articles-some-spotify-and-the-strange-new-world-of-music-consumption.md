@@ -9,8 +9,7 @@ featuredimage: 2019/01/Soma-Spotify-main-image.png
 title: Soma, Spotify, and the brave new world of music consumption
 author: fred
 ---
-### [<u>Fred</u>
-](<https://twitter.com/thewhalelines>)
+### [Fred](<https://twitter.com/thewhalelines>)
 #### 15\.04.02019
 ------
 *Streaming services like Spotify have revolutionised listening habits. Anyone, anywhere, can listen to just about anything. In 2012, David Byrne wrote that music risked becoming a soma-like drug. Today his concerns may be the reality.<br>

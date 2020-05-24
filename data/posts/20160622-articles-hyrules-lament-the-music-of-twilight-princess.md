@@ -10,8 +10,7 @@ featuredimage: 2016/07/instatwilight.jpg
 title: "Hyrule&#8217;s Lament: the Music of Twilight Princess"
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 22\.07.02016
 ------
 *This is the first in [a series of articles](<https://audioxide.com/themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
