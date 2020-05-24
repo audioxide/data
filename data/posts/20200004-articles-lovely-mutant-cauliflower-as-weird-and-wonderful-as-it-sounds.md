@@ -10,8 +10,7 @@ title: This frilly ape&#8217;s &#8216;Lovely mutant cauliflower&#8217; as weird
   and wonderful as it sounds
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 04\.01.02020
 ------
 

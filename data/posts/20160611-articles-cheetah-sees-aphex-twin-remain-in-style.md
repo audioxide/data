@@ -9,8 +9,7 @@ featuredimage: 2016/07/Cheetah.jpg
 title: "&#8216;Cheetah&#8217; sees Aphex Twin remain in style"
 author: andre
 ---
-### [<u>ANDRÉ</u>
-](<https://twitter.com/AndreDack>)
+### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 11\.07.02016
 ------
 

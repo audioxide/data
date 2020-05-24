@@ -9,8 +9,7 @@ featuredimage: 2016/05/skepta-konnichiwa.jpg
 title: Skepta returns with international support
 author: andrew
 ---
-### [<u>Andrew</u>
-](<https://twitter.com/AndrewBridge>)
+### [Andrew](<https://twitter.com/AndrewBridge>)
 #### 30\.05.02016
 ------
 
