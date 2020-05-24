@@ -1,5 +1,5 @@
 const fs = require('fs');
-const YAML = require('YAML');
+const YAML = require('yaml');
 const showdown = require('showdown');
 const { get, set, startCase } = require('lodash');
 
