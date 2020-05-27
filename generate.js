@@ -1,24 +1,14 @@
 const fs = require('fs');
 const YAML = require('yaml');
 const showdown = require('showdown');
-const { get, set, startCase } = require('lodash');
+const { deburr, set, startCase } = require('lodash');
 
 const mdConverter = new showdown.Converter();
 
 const base = './data';
 const data = {};
 
-const parseFile = async (path) => {
-    const fileData = await fs.promises.readFile(base + path, { encoding: 'utf8' });
-    // The file has to have content, and it has to have separators
-    if (fileData.length === 0
-        || !fileData.match(/(^|\n)---\n/g)) return;
-    // Split the segments to get legal YAML
-    const segments = fileData.split('\n---\n');
-    // Each file should contain some metadata and some content
-    if (segments.length < 2) return;
-    // Metadata is always first, the rest is content
-    const [metadataYAML, ...contentSegments] = segments;
+const processContentFile = async (path, metadataYAML, contentSegments) => {
     // We infer some information from the filename
     const [match, year, month, day, type, slug] = path.match(/(\d{4})(\d{2})(\d{2})-([^-]+?)-(.+?)\.md$/);
     const title = startCase(slug);
@@ -58,7 +48,29 @@ const parseFile = async (path) => {
         if (parsed) return parsed;
         return contentStr;
     });
-    set(data, path.substr(1, path.length - 4).replace(/\//g, '.'), { metadata, content });
+    return { metadata, content };
+};
+
+const parseFile = async (path) => {
+    const fileData = await fs.promises.readFile(base + path, { encoding: 'utf8' });
+    // The file has to have content, and it has to have separators
+    if (fileData.length === 0
+        || !fileData.match(/(^|\n)---\n/g)) return;
+    // Split the segments to get legal YAML
+    const segments = fileData.split('\n---\n');
+    // Metadata is always first, the rest is content
+    const [metadataYAML, ...contentSegments] = segments;
+    // Each file should at least contain some metadata
+    if (!metadataYAML) return;
+    let item;
+    if (contentSegments.length > 0) {
+        // We're reading a content file, they require further processing
+        item = await processContentFile(path, metadataYAML, contentSegments);
+    }
+    if (!item) {
+        item = YAML.parse(metadataYAML);
+    }
+    set(data, path.substr(1, path.length - 4).replace(/\//g, '.'), item);
 };
 
 const parseDir = async (path) => {
@@ -74,15 +86,83 @@ const parseDir = async (path) => {
     }));
 };
 
+const resolveAuthor = (obj) => {
+    if ('author' in obj) {
+        const author = obj.author.toLowerCase();
+        const deburred = deburr(author);
+        if (author in data.authors) {
+            obj.author = data.authors[author];
+        }
+        if (deburred in data.authors) {
+            obj.author = data.authors[deburred];
+        }
+    }
+}
+
+const generateResponse = (obj, name) => {
+    return fs.promises.writeFile(`./dist/${name}.json`, JSON.stringify(obj));
+};
+
 const init = async () => {
+    // Parse data
     await parseDir('');
-    console.log(data);
-    console.log(data.posts[Object.keys(data.posts)[0]]);
+
+    const postsArr = Object.values(data.posts).sort((a, b) => {
+        const aDate = new Date(a.metadata.created);
+        const bDate = new Date(b.metadata.created);
+        return ((aDate < bDate) * 2) - 1;
+    });
+
+    // Group posts by type
+    const typeGrouping = {};
+    // Group posts by tag
+    const tagGrouping = {};
+    for (let post of postsArr) {
+        // Author resolution
+        resolveAuthor(post.metadata);
+        post.content.forEach(item => {
+            if (typeof item === 'object' && item !== null) {
+                resolveAuthor(item);
+            }
+        });
+
+        // Type grouping
+        const type = post.metadata.type;
+        if (!(type in typeGrouping)) {
+            typeGrouping[type] = [];
+        }
+        typeGrouping[type].push(post.metadata);
+
+        // Tag aggregation
+        const postTags = post.metadata.tags;
+        if (Array.isArray(postTags)) {
+            postTags.forEach(tag => {
+                if (!(tag in tagGrouping)) {
+                    tagGrouping[tag] = [];
+                }
+                tagGrouping[tag].push(post.metadata);
+            })
+        }
+    }
+
     if (!fs.existsSync('./dist')) {
         await fs.promises.mkdir('./dist');
     }
-    await fs.promises.writeFile('./dist/reviews.json', JSON.stringify(Object.values(data.posts).filter(i => i.metadata.type === 'reviews')));
-    await fs.promises.writeFile('./dist/articles.json', JSON.stringify(Object.values(data.posts).filter(i => i.metadata.type === 'articles')));
+    if (!fs.existsSync('./dist/posts')) {
+        await fs.promises.mkdir('./dist/posts');
+    }
+    if (!fs.existsSync('./dist/tags')) {
+        await fs.promises.mkdir('./dist/tags');
+    }
+
+    await Promise.all([
+        ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post, type)),
+        generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9) }), {}), 'latest'),
+        ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.slug}`)))),
+        generateResponse(data.authors, 'authors'),
+        generateResponse(Object.keys(tagGrouping), 'tags'),
+        ...Object.entries(tagGrouping).map(([tag, post]) => generateResponse(post, `tags/${tag}`)),
+    ]);
 };
 
 init();
