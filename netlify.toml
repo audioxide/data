@@ -1,0 +1,17 @@
+[build]
+    publish = "dist/"
+    command = "sed -e s/ALLOWED_URL/${SITE_URL}/g netlify.toml && yarn && node generate.js"
+[context.production]
+    environment = { SITE_URL = "https:\/\/audioxide.com" }
+[context.beta]
+    environment = { SITE_URL = "https:\/\/beta.audioxide.com" }
+[context.alpha]
+    environment = { SITE_URL = "https:\/\/alpha.audioxide.com" }
+
+
+[[headers]]
+    for = "/*"
+    [headers.value]
+        Content-Type = "application/json"
+        Access-Control-Allow-Origin = "ALLOWED_URL"
+        Vary = "Origin"

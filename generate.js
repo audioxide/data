@@ -91,11 +91,20 @@ const resolveAuthor = (obj) => {
         const author = obj.author.toLowerCase();
         const deburred = deburr(author);
         if (author in data.authors) {
-            obj.author = data.authors[author];
+            obj.author = { ...data.authors[author], slug: author };
+            return;
         }
         if (deburred in data.authors) {
-            obj.author = data.authors[deburred];
+            obj.author = { ...data.authors[deburred], slug: deburred };
+            return;
         }
+        Object.entries(data.authors).some(([key, value]) => {
+            if (deburr(key) === deburred) {
+                obj.author = { ...value, slug: key };
+                return true;
+            }
+            return false;
+        });
     }
 }
 
@@ -131,7 +140,7 @@ const init = async () => {
         if (!(type in typeGrouping)) {
             typeGrouping[type] = [];
         }
-        typeGrouping[type].push(post.metadata);
+        typeGrouping[type].push(post);
 
         // Tag aggregation
         const postTags = post.metadata.tags;
@@ -140,7 +149,7 @@ const init = async () => {
                 if (!(tag in tagGrouping)) {
                     tagGrouping[tag] = [];
                 }
-                tagGrouping[tag].push(post.metadata);
+                tagGrouping[tag].push(post);
             })
         }
     }
@@ -156,12 +165,12 @@ const init = async () => {
     }
 
     await Promise.all([
-        ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post, type)),
-        generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9) }), {}), 'latest'),
-        ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.slug}`)))),
+        ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => post.metadata), type)),
+        generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => post.metadata) }), {}), 'latest'),
+        ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
         generateResponse(data.authors, 'authors'),
         generateResponse(Object.keys(tagGrouping), 'tags'),
-        ...Object.entries(tagGrouping).map(([tag, post]) => generateResponse(post, `tags/${tag}`)),
+        ...Object.entries(tagGrouping).map(([tag, post]) => generateResponse(post.map(post => post.metadata), `tags/${tag}`)),
     ]);
 };
 
