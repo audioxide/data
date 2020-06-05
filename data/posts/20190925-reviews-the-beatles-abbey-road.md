@@ -44,10 +44,9 @@ review: >-
 tracks:
   - I Want You (She’s So Heavy)
   - ­­Oh! Darling
-  - ­­Final medley of <span id="cch_f160fe52c9adf62" class="_mh6 _wsc"><span
-    class="_3oh- _58nk">Mean Mr Mustard – Polythene Pam – She Came in Through
+  - ­­Final medley of Mean Mr Mustard – Polythene Pam – She Came in Through
     the Bathroom Window – Golden Slumbers – Carry that Weight – The
-    End</span></span>
+    End
 score:
   score: 8
   max: 10
