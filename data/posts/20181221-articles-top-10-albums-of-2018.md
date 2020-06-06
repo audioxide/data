@@ -17,6 +17,8 @@ tags:
 featuredimage: 2018/12/IDLES.png
 title: Our 10 Favourite Albums of 2018
 author: admin
+blurb: It's the end of the year, and that means it's time for fond remembrances.
+  From hip-hop to folk, and R&B to rock, here lies our favourite albums of 2017.
 ---
 #### 21\.12.02018
 

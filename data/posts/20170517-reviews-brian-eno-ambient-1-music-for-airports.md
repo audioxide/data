@@ -29,6 +29,10 @@ summary: Music for Airports is comprised of calming tones that induce sedation
   listeners are obliged to attach their own emotions, and this continues to be
   one of the significant and long-lasting appeals of ambient music.
 week: 98
+blurb: Music for Airports comprises of calming tones that induce sedation and
+  tranquillity. The sound, or lack thereof, is so loose and open-ended that
+  listeners are obliged to attach their own emotions, which continues to be one
+  of the significant and long-lasting appeals of ambient music.
 ---
 author: ANDRÉ
 review: >-

@@ -29,6 +29,8 @@ summary: Pretty much everything about Unknown Pleasures was, and continues to
   so emotionally detached and theatrically passionate can still inspire music
   listeners in 2020.
 week: 220
+blurb: Pretty much everything about Unknown Pleasures was, and continues to be,
+  a total fucking triumph in cathartic misery.
 ---
 author: André
 review: >-

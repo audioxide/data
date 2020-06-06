@@ -29,6 +29,8 @@ summary: While much of the tracklist doesn't feel as though it explores its
   see why some regard this as Khan's best work, but it isn't without its
   missteps.
 week: 184
+blurb: While much of the Two Sun's tracklist doesn't feel as though it explores
+  its ideas far enough, its highlights go a long way to make up for it.
 ---
 author: André
 review: >-

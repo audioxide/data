@@ -28,6 +28,9 @@ pullquote: Fine basslines
 summary: Once the more textured songs rear their heads the whole album falls
   together a little better. The last few tracks are top notch.
 week: 2
+blurb: The Chemical Brothers' second album is likely to please a number of
+  electric tastes. It seldom rises above a good beat, but then it doesn't need
+  to.
 ---
 author: André
 review: Despite my love and appreciation for electronic music, *Dig Your Own

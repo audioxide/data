@@ -29,6 +29,8 @@ summary: Given the melancholic tone, it's amazing just how easy and enjoyable it
   to the point of being an excellent backdrop, which is both a blessing and a
   curse.
 week: 178
+blurb: "Things Fall Apart is a fluid, continuous listen: understated to the
+  point of being an excellent backdrop, which is both a blessing and a curse."
 ---
 author: André
 review: >-

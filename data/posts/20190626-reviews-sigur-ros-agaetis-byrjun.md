@@ -29,6 +29,8 @@ summary: I'd argue 70 minutes of lush ambient art-rock does actually get tiring
   soundscapes, and ghostly vocals combine to create an record that is
   impressive, yet frustratingly fatiguing.
 week: 198
+blurb: Layers upon layers of sensuous strings, steady soundscapes, and ghostly
+  vocals combine to create an record that is impressive, yet fatiguing.
 ---
 author: André
 review: >-

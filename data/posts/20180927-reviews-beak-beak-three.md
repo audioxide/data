@@ -28,6 +28,9 @@ summary: "The record feels intentionally eroded: instrumentals strike upon funky
   yet claustrophobic grooves, awaiting Barrow’s vocals to emerge from the mire.
   It’s a weird but often wonderful formula."
 week: 65
+blurb: Instrumentals strike upon funky-yet-claustrophobic grooves, awaiting
+  Barrow’s vocals to emerge from the mire. It’s a weird but often wonderful
+  formula.
 ---
 author: André
 review: >-

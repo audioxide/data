@@ -1,11 +1,18 @@
 const fs = require('fs');
 const YAML = require('yaml');
 const showdown = require('showdown');
+const sharp = require('sharp');
 const { deburr, set, startCase } = require('lodash');
 
 const mdConverter = new showdown.Converter();
 
-const base = './data';
+const inputBase = './data';
+const outputBase = './dist';
+const postBase = '/posts'
+const imagesBase = '/images';
+const tagsBase = '/tags';
+
+let imagesSizes = [];
 const data = {};
 
 const processContentFile = async (path, metadataYAML, contentSegments) => {
@@ -26,6 +33,33 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
     } catch {}
     if (!('modified' in metadata)) {
         metadata.modified = metadata.created;
+    }
+    if (!('blurb' in metadata) && 'summary' in metadata) {
+        metadata.blurb = metadata.summary;
+    }
+    if ('featuredimage' in metadata) {
+        const sizeObj = {};
+        const imagePath = `/${metadata.featuredimage}`;
+        const [
+            match,
+            outputImagePath,
+            outputImageFile,
+            extension
+        ] = imagePath.match(/^(.+?)([^/]+?)(\.[a-zA-Z]{1,4})$/);
+        if (!fs.existsSync(outputBase + imagesBase + outputImagePath)) {
+            await fs.promises.mkdir(outputBase + imagesBase + outputImagePath, { recursive: true });
+        }
+        const image = sharp(inputBase + imagesBase + imagePath);
+        await Promise.all(
+            imagesSizes.map(([label, { w, h }]) => {
+                const sizePath = `${imagesBase}${outputImagePath}${outputImageFile}-${label}${extension}`;
+                sizeObj[label] = sizePath;
+                return image.clone()
+                    .resize(w, h, { withoutEnlargement: true })
+                    .toFile(outputBase + sizePath);
+            }),
+        );
+        metadata.featuredimage = sizeObj;
     }
     // For each further segment, attempt to parse it as YAML, Markdown or just return plain text
     content = contentSegments.map(contentStr => {
@@ -52,7 +86,7 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
 };
 
 const parseFile = async (path) => {
-    const fileData = await fs.promises.readFile(base + path, { encoding: 'utf8' });
+    const fileData = await fs.promises.readFile(inputBase + path, { encoding: 'utf8' });
     // The file has to have content, and it has to have separators
     if (fileData.length === 0
         || !fileData.match(/(^|\n)---\n/g)) return;
@@ -74,10 +108,10 @@ const parseFile = async (path) => {
 };
 
 const parseDir = async (path) => {
-    const files = await fs.promises.readdir(base + path);
+    const files = await fs.promises.readdir(inputBase + path);
     await Promise.all(files.map(async file => {
         const filePath = `${path}/${file}`;
-        const stat = await fs.promises.stat(base + filePath);
+        const stat = await fs.promises.stat(inputBase + filePath);
         if (stat.isDirectory()) {
             await parseDir(filePath);
         } else if (stat.isFile()) {
@@ -113,6 +147,16 @@ const generateResponse = (obj, name) => {
 };
 
 const init = async () => {
+    // Load image sizes
+    imagesSizes = Object.entries(
+        JSON.parse(
+            await fs.promises.readFile(
+                `${inputBase}${imagesBase}/sizes.json`,
+                { encoding: 'utf8' },
+            ),
+        ),
+    );
+
     // Parse data
     await parseDir('');
 
@@ -154,15 +198,13 @@ const init = async () => {
         }
     }
 
-    if (!fs.existsSync('./dist')) {
-        await fs.promises.mkdir('./dist');
-    }
-    if (!fs.existsSync('./dist/posts')) {
-        await fs.promises.mkdir('./dist/posts');
-    }
-    if (!fs.existsSync('./dist/tags')) {
-        await fs.promises.mkdir('./dist/tags');
-    }
+    await Promise.all(['', postBase, imagesBase, tagsBase].map(dir => {
+        const checkPath = outputBase + dir;
+        if (!fs.existsSync(checkPath)) {
+            return fs.promises.mkdir(checkPath);
+        }
+        return Promise.resolve();
+    }))
 
     await Promise.all([
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => post.metadata), type)),

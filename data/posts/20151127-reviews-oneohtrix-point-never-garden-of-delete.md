@@ -29,6 +29,10 @@ summary: Twisting and turning and purposely blindsiding its listener, Garden of
   structure it can at times feel like a conscious stream of thought immortalised
   in music. A single listen simply won’t be enough to take it all in.
 week: 32
+blurb: Twisting and turning and purposely blindsiding its listener, Garden of
+  Delete doesn’t stop evolving, and without conforming to any one kind of
+  structure it can at times feel like a stream of thought immortalised in music.
+  A single listen simply won’t be enough to take it all in.
 ---
 author: ANDRÉ
 review: Approach *Garden of Delete* with caution. Both terrifying and amusing in

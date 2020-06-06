@@ -29,6 +29,8 @@ summary: Psyence Fiction attempts to be the sonic equivalent of the visual
   not quite the epic statement that Shadow and Lavelle so wished it to be, but
   it remains a fine achievement, though faintly undercooked.
 week: 157
+blurb: Psyence Fiction attempts to be the sonic equivalent of the visual cinema
+  experience — a lofty ambition, but UNKLE give it a bloody good go.
 ---
 author: André
 review: >-

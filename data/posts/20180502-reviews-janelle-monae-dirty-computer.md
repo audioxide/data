@@ -30,6 +30,9 @@ summary: As enjoyable as Dirty Computer is, it’s far from perfect, and some of
   all is said and done, this is likely the record that makes Janelle Monáe a
   superstar.
 week: 144
+blurb: As enjoyable, sometimes euphoric, as Dirty Computer is, it’s far from
+  perfect. Some of the trap-tinged beats will likely sound redundant in a few
+  years.
 ---
 author: ANDRÉ
 review: >-

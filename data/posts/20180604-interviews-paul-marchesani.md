@@ -9,6 +9,8 @@ featuredimage: 2018/06/Paul-1-min.jpg
 title: "Paul Marchesani: &#8216;I always knew my music was connected in some
   way.&#8217;"
 author: fred
+blurb: "'I was always a visual music creator. After a while it just kind of
+  snapped like hey, this is a universe. This can be a world.'"
 ---
 ### [FRED](<https://twitter.com/thewhalelines>)
 #### 04\.06.02018

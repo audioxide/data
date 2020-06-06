@@ -29,6 +29,9 @@ summary: Synth tunes plod along with all the charisma of a mumbler with a weak
   absence of drive or direction. If Little Dark Age went nowhere but sounded
   great, ok, but it goes nowhere and sounds fine. It’s utterly middling.
 week: 132
+blurb: MGMT plod along with all the charisma of a mumbler with a weak chin, and
+  it’s not as if the mix is lush enough to distract from the total absence of
+  drive or direction.
 ---
 author: ANDRÉ
 review: "*Little Dark Age* was supposed to be an encouraging new dawn for MGMT,

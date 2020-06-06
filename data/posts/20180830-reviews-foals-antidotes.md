@@ -29,6 +29,8 @@ summary: Foals leaned into their restless, agitated, math-rock roots and carved
   that has a distinctive, angsty vibe throughout, from the initial competing
   horns of the opener to the minor twinkling of the closer's end.
 week: 161
+blurb: Foals leaned into their restless, agitated, math-rock roots and carved
+  out a niche in the mainstream indie rock of the time.
 ---
 author: Gabriel
 review: >-

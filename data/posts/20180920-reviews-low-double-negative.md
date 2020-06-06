@@ -29,6 +29,8 @@ summary: There’s a constant stream of static with blunt edges, and the glitche
   overbearing. It’s soothing, and occasionally cathartic when the smudged out
   instrumentation reaches a crescendo.
 week: 164
+blurb: A constant stream of static with blunt edges, and the glitches are rarely
+  more than a few moments apart, but it doesn’t come off as overbearing.
 ---
 author: MARCUS
 review: >-

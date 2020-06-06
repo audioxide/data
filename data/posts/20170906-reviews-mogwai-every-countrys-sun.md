@@ -29,6 +29,8 @@ summary: As is probably appropriate, Every Country’s Sun listens like an immen
   post-rock mass of warmth, light, and/or incineration. Think of it as a spa day
   for your ears with the promise of a light singe.
 week: .nan
+blurb: As is probably appropriate, Every Country’s Sun listens like an immense
+  post-rock mass of warmth, light, and/or incineration.
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>Whilst it doesn’t necessarily reach the heights of

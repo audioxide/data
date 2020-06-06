@@ -8,6 +8,8 @@ tags:
 featuredimage: 2019/01/Soma-Spotify-main-image.png
 title: Soma, Spotify, and the brave new world of music consumption
 author: fred
+blurb: In 2012, David Byrne wrote that music risked becoming a soma-like drug.
+  Today his concerns are closer to the truth than we would like to think.
 ---
 ### [Fred](<https://twitter.com/thewhalelines>)
 #### 15\.04.02019

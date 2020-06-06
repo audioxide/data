@@ -7,6 +7,8 @@ tags: []
 featuredimage: 2018/12/This-is-America.jpg
 title: Our 10 Favourite Singles of 2018
 author: admin
+blurb: What would the end of the year be without some lists? Here lies our
+  favourite singles of 2018.
 ---
 #### 18\.12.02018
 <div></div>

@@ -9,6 +9,8 @@ featuredimage: 2019/07/Thomas-Ashby-performing-1.jpg
 title: "Thomas Ashby: &#8216;When you’re in a studio that’s your space to be the
   biggest you you can be.’"
 author: fred
+blurb: Thomas Ashby is a singer/songwriter from Herne Bay. We discuss living
+  together during the time he recorded and released his third EP - 'Backlash'.
 ---
 ### [FREDerick O’Brien](<https://twitter.com/thewhalelines>)
 #### 22\.07.02019

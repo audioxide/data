@@ -28,6 +28,8 @@ summary: Nine Inch Nails rapidly became renowned for emotive and affecting
   music. Pretty Hate Machine contains all of these qualities, albeit in anxious
   tidbits.
 week: 210
+blurb: Nine Inch Nails rapidly became renowned for emotive and affecting music.
+  Pretty Hate Machine contains those qualities, albeit in anxious tidbits.
 ---
 author: André
 review: >-

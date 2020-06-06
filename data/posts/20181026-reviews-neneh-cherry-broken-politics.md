@@ -28,6 +28,8 @@ summary: Broken Politics projects a great deal of wisdom with tremendous
   humility and sincerity. It's a low-key listen that will resonate with some,
   whilst leaving others slightly underwhelmed.
 week: 169
+blurb: For every moment of serenity there's a feeling of incompleteness, and the
+  result is an album that's sadly unmemorable.
 ---
 author: André
 review: >-

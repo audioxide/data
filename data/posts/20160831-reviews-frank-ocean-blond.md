@@ -29,6 +29,10 @@ summary: The bottom line is that Blonde simply isn’t as accomplished as Channe
   about manages to stay grounded. It’s an account of slight thoughts, vague
   ideas and delicate musings.
 week: 68
+blurb: The bottom line is that Blonde simply isn’t as accomplished as Channel
+  Orange, nor is it as infinitely listenable. It flirts on indulgence but just
+  about manages to stay grounded. It’s an account of slight thoughts, vague
+  ideas, and delicate musings.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>After months of build-up, speculation and <a

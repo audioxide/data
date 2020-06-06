@@ -30,6 +30,8 @@ summary: Blackstar is an exquisite work made tenderly and against time. It will
   which I suppose was its purpose. The last word. Trust Bowie to turn dying into
   performance art. Ain’t it just like him.
 week: 36
+blurb: A portal into the world of remembrances that grief gives birth to... and
+  the last word. Trust Bowie to turn dying into performance art.
 ---
 author: ANDRÉ
 review: "*Blackstar* wasn’t fully realised until a few days after its release.

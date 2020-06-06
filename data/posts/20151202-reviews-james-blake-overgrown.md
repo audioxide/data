@@ -30,6 +30,11 @@ summary: It’s beautifully discreet, formed with an elegance that virtually
   not into what Blake is doing here, the passive nature of the songwriting will
   likely turn you away.
 week: 33
+blurb: It’s beautifully discreet, formed with an elegance that pushes it to the
+  point of invisibility — blissful for some, but perhaps too despondent for
+  others. Tracks often linger in a cold ambiance, and if you’re not into what
+  Blake is doing here, the passive nature of the songwriting will likely turn
+  you away.
 ---
 author: ANDRÉ
 review: Two years prior to the release of *Overgrown*, James Blake dropped his

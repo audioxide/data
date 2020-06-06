@@ -30,6 +30,8 @@ summary: Each player is a master of their craft, yet not one of them flaunts
   understanding between the performers under the rule of improvisation. It plays
   out like a beautiful alien language.
 week: 134
+blurb: Each player is a master of their craft, yet not one of them flaunts their
+  talent. Kind of Blue plays out like a beautiful alien language.
 ---
 author: ANDRÉ
 review: >-

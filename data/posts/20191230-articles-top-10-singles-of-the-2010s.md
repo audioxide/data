@@ -17,6 +17,7 @@ tags:
 featuredimage: 2019/12/Dont-Delete-the-Kisses.jpg
 title: Our 10 favourite singles of the 2010s
 author: admin
+blurb: The decade had some doozies. Here were our favourites.
 ---
 #### 30\.12.02019
 ------

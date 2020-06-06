@@ -29,6 +29,8 @@ summary: The songwriting is unbelievably good, to the point where it sounds
   humour, and even a little arrogance. In many ways, it was the sign of things
   to come.
 week: 175
+blurb: The songwriting is unbelievably good, to the point where it sounds
+  effortless. Bowie shows sensitivity, humour, and even a little arrogance.
 ---
 author: André
 review: >-

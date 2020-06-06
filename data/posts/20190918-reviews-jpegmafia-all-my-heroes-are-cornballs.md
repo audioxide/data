@@ -28,6 +28,8 @@ summary: There's a glaring sense of lunacy throughout. It's as though JPEGMAFIA
   is snapping between multiple identities. I actually find the madness quite
   soothing, though I'm not really sure how or why.
 week: 208
+blurb: There's a glaring sense of lunacy throughout. It's as though JPEGMAFIA is
+  snapping between multiple identities, and yet still manages to be soothing.
 ---
 author: André
 review: >-

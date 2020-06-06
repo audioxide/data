@@ -30,6 +30,9 @@ summary: Long-term fans will find plenty to love across the duration, and there
   dull, as it flicks from freeform jazz to sizzling garage-rock without any
   hesitancy. It’s captivating and close to being fantastic.
 week: 130
+blurb: To an extent Freedom’s Goblin is a victim of its own ambition and of
+  Segall’s protean talent. A laudable amount of ground is covered, but the
+  album’s identity fails to click into place as a whole.
 ---
 author: ANDRÉ
 review: >-

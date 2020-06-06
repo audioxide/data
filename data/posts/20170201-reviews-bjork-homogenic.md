@@ -30,6 +30,11 @@ summary: 20 years on Björk has not stopped searching, reinventing herself; and
   understood as the point at which she realised this – declaring herself 'The
   Hunter' – and the nadir of her brilliant work.
 week: 83
+blurb: Homogenic is a stunning work. The music of Björk, who is righty credited
+  as one of the most creative and unique artists of the past few decades, can
+  often defy categorisation, but there is little doubt that her third studio
+  album benefits from a coherence often missing from the majority of her other
+  records.
 ---
 author: ANDRÉ
 review: >-

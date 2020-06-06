@@ -29,6 +29,10 @@ summary: "I find Jackrabbit to be a somewhat irregular experience: whilst it's
   its entirety can feel slightly taxing due to the bloated, overstuffed nature
   of the songwriting."
 week: 16
+blurb: Jackrabbit is a somewhat irregular experience. Whilst it's carefully
+  constructed, flowing beautifully from beginning to end, the album in its
+  entirety can feel slightly taxing due to the bloated, overstuffed nature of
+  the songwriting.
 ---
 author: André
 review: "Being unfamiliar with San Fermin allowed me to go into *Jackrabbit*

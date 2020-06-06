@@ -28,6 +28,9 @@ summary: Solo material from a band as prolific as Radiohead can go one of two
   ways, and for EOB it contributes towards the impression that the band is
   greater than the sum of its parts.
 week: 230
+blurb: Solo material from a band as prolific as Radiohead can go one of two
+  ways. Here it leaves the impression the band is greater than the sum of its
+  parts.
 ---
 author: André
 review: >-

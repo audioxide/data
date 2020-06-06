@@ -29,6 +29,8 @@ summary: In a lot of ways I love this album. But stood in a row with its
   boundary warping, or the self-assured, unrepentant coolness with which every
   other album has been delivered.
 week: 167
+blurb: QOTSA’s debut serves as a glimpse into their career as princesses, before
+  being made queens. There's always time for good ol’ sleazy rock’n’roll.
 ---
 author: André
 review: >-

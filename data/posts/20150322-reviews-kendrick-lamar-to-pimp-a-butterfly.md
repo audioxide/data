@@ -31,6 +31,9 @@ summary: If Good Kid, M.A.A.D City introduced Kendrick Lamar to the masses, To
   Pimp A Butterfly cements his place in the hip-hop hall of fame. This is an
   instant classic.
 week: 8
+blurb: If Good Kid, M.A.A.D City introduced Kendrick Lamar to the masses, To
+  Pimp A Butterfly cements his place in the hip hop hall of fame. This is an
+  instant classic.
 ---
 author: André
 review: Ambitious in its attempt to inspire a generation to change a damaging

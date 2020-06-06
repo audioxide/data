@@ -29,6 +29,8 @@ summary: The sonic scenery is colourful and smoky, and the band sound like
   search of a refined sound, and whilst that comes with its degree of
   frustrations, the general looseness is actually rather endearing.
 week: 155
+blurb: The sonic scenery is colourful and smoky, and the band sound like they’re
+  having the time of their lives. It's loose, but it's endearing too.
 ---
 author: André
 review: Aside from being cited as one of the pioneers of hard rock, I knew

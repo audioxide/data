@@ -7,6 +7,9 @@ tags: []
 featuredimage: 2018/08/Statsioxide.jpg
 title: "Statsioxide: Our First 150 Reviews in Numbers"
 author: fred
+blurb: Reviews make a lot more sense when they can be put into context. After
+  passing 150 albums reviewed we thought it was high time to look at some
+  statistics.
 ---
 #### 21\.08.02018
 ------

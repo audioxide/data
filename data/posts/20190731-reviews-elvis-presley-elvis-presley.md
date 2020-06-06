@@ -28,6 +28,9 @@ summary: A record can be iconic and flawed at the same time. This is unrefined,
   hit and miss, and sometimes irresistible. I don’t think it should have been
   any other way.
 week: 202
+blurb: A record can be iconic and flawed at the same time. Elvis' desbut is
+  unrefined, hit and miss, and sometimes irresistible. Could it be any other
+  way?
 ---
 author: André
 review: >-

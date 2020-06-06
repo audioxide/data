@@ -30,6 +30,9 @@ pullquote: Undeniably special
 summary: The Dark Side of the Moon is one of those high-water marks of artistic
   expression. It's just sublime. I don't have a bad thing to say about it.
 week: 5
+blurb: The Dark Side of the Moon is one of those high-water marks of artistic
+  expression. It's just sublime. If I wasn't such an impassive git this album
+  probably would have changed my life.
 ---
 author: André
 review: Undeniably special, *The Dark Side of the Moon* is an iconic record that

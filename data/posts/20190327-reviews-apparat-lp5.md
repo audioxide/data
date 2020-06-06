@@ -29,6 +29,8 @@ summary: LP5 seems comfortable not pushing any boundaries. Tracks unravel
   of which are the album's strong points). Rarely are there any momentous
   changes to melodic composition, such is the ambient nature of the work.
 week: 185
+blurb: LP5 seems comfortable not pushing any boundaries. Tracks unravel
+  steadily, with heavy attention shown towards atmosphere and production.
 ---
 author: André
 review: >-

@@ -29,6 +29,8 @@ summary: In terms of style, substance, and general quality, it's absolutely all
   rap-metal, and if that depiction sounds ridiculous... well that's because it
   is.
 week: 196
+blurb: Faith No More create a journey of funky new wave rap-metal, and if that
+  depiction sounds ridiculous... well that's because it is.
 ---
 author: André
 review: >-

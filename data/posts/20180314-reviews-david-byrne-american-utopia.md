@@ -29,6 +29,10 @@ summary: Those expecting a Blackstar will be disappointed. American Utopia is
   masterclass, but there are still enough dashes of genius to make it one of the
   stronger releases of the year. A reason to be cheerful? Certainly.
 week: 136
+blurb: Those expecting a Blackstar will be disappointed. American Utopia is far
+  too playful for that, for better and for worse. The record isn’t a
+  masterclass, but there are still enough dashes of genius to make it one of the
+  strongest releases of the year.
 ---
 author: ANDRÉ
 review: >-

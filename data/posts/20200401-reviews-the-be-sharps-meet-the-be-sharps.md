@@ -29,6 +29,9 @@ summary: Some of the richest and most melodious harmonisations of four men since
   John, Mark, Luke, and Matthew collaborated on their bestselling project some
   2,000 years ago.
 week: 226
+blurb: The richest and most melodious harmonisations of four men since John,
+  Mark, Luke, and Matthew collaborated on their bestselling project some 2,000
+  years ago.
 ---
 author: André
 review: >-

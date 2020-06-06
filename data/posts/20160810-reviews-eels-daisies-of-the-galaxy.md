@@ -28,6 +28,10 @@ summary: Daisies of the Galaxy is a beautiful place to be for a time, but it
   isn’t a masterpiece. It’s the black dog curling up in your lap and wagging its
   tail. We savour that frame of mind more than we care to admit, I think.
 week: 65
+blurb: Daisies of the Galaxy comes to terms with the torment that constructed
+  the deeply bleak and reflective Electro-Shock Blues, and injects a taste of
+  happiness. The album is summery and cheerful on the surface (helped by its
+  quirky, upbeat aesthetic) but contains cynical undertones.
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>Mark Everett, known simply as E, occupies a

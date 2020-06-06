@@ -31,6 +31,9 @@ summary: Saul Williams' latest album has had a relatively quiet release, but it
   rapidly evolving in instrumentation and atmosphere, with Williams' vocals
   sitting firmly in the middle of it all.
 week: 40
+blurb: Martyr Loser King has a distinctive, explorative, industrial sound that
+  melds analogue and digital effortlessly, rapidly evolving in instrumentation
+  and atmosphere, with Williams' vocals sitting firmly in the middle of it all.
 ---
 author: ANDRÉ
 review: Born out of ongoing activism that stems back to mid the ‘90s, Saul

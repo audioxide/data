@@ -28,6 +28,8 @@ summary: Let England Shake sounds impeccable on all fronts. It is, quite simply,
   one of the greatest anti-war albums of all time. In this current political
   climate, its significance has only ascended.
 week: 215
+blurb: Quite simply one of the greatest anti-war albums of all time. In this
+  current political climate its significance has only increased.
 ---
 author: André
 review: >-

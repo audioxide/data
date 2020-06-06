@@ -30,6 +30,10 @@ summary: Atomic can be exhausting, but in a manner that exhilarates rather than
   see that the band are showing no signs of faulting in their efforts to create
   heavily-textured soundscapes that are so pleasing to listen to.
 week: 48
+blurb: Atomic can be exhausting, but in a manner that exhilarates rather than
+  drains. Mogwai will find a lot to love here, and it’s reassuring to see that
+  the band are showing no signs of faulting in their efforts to create
+  heavily-textured soundscapes that are so pleasing to listen to.
 ---
 author: ANDRÉ
 review: >-

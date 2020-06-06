@@ -30,6 +30,10 @@ summary: Beautifully crafted in its arrangement and narrative, Joanna Newsom
   because frankly, Divers is a triumph; a whimsical journey that is simply too
   intriguing to disregard.
 week: 30
+blurb: Joanna Newsom creates a world on Divers that is both wonderful and
+  despairing. Music of such dainty character will inevitably turn certain
+  audiences away, which is a shame because frankly, Divers is a triumph; a
+  whimsical journey that is simply too intriguing to disregard.
 ---
 author: André
 review: Beautifully crafted in its arrangement and narrative, Joanna Newsom

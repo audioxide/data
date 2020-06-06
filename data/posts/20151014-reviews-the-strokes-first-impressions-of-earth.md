@@ -29,6 +29,10 @@ summary: First Impressions of Earth is a model misunderstood album; flawed,
   to a unique and worthwhile character. It is tremendously raw, a pained scrawl
   of an album, and I find that rather endearing.
 week: 27
+blurb: First Impressions of Earth is a model misunderstood album; flawed,
+  overdrawn, deserving of a good deal of its harsh reviews, and yet still host
+  to a unique and worthwhile character. It's a pained scrawl of an album, and I
+  find that rather endearing.
 ---
 author: André
 review: ‘We could drag it out, but that’s for other bands to do,’ Julian

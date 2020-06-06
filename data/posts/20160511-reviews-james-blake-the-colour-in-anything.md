@@ -29,6 +29,10 @@ summary: For an album that clocks in well over the hour mark, it’s regrettably
   Blake on autopilot. There is little progression between this and Overgrown to
   convince those who are yet to be sold on his passive style of song writing.
 week: 53
+blurb: For an album that clocks in well over the hour mark, it’s regrettably
+  unambitious and even a little safe. This is effectively James Blake on
+  autopilot. There is little progression between this and Overgrown to convince
+  those yet to be sold on his passive style of song writing.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>Though James Blake tells us that he’s removed

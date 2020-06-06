@@ -7,6 +7,7 @@ tags: []
 featuredimage: 2019/12/Funnyfarm-2...-Bas.jpg
 title: "Funnyfarm II: Bas"
 author: fred
+blurb: In which a second guitarist is sourced at a local car park.
 ---
 ## *In which a second guitarist is sourced at a local car park*
 

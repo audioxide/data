@@ -29,6 +29,8 @@ summary: This is the first Spiritualized album in six years, so I’m left
   cohesive, and there are some gorgeous moments, but it ultimately winds up
   being forgettable.
 week: 163
+blurb: This is the first Spiritualized album in six years, so it's bizarre to
+  hear something that sounds like the product of artistic saturation.
 ---
 author: André
 review: >-

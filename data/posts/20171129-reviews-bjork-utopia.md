@@ -29,6 +29,10 @@ summary: The world Björk has designed is an irrefutable wonder - I’m just not
   that ultimately feel like a tease. Utopia occasionally grips its claws in,
   only to let go seconds later.
 week: 126
+blurb: The world Björk has designed is an irrefutable wonder – I’m just not
+  given a reason to explore it. The record is scattered with gorgeous moments
+  that ultimately feel like a tease. Utopia occasionally grips its claws in,
+  only to let go seconds later.
 ---
 author: ANDRE
 review: >-

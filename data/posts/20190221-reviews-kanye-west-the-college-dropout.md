@@ -29,6 +29,9 @@ summary: A defiant record. Turning its back not only on the college path, but
   in weird, supremely catchy ways. The record is more measured than his later
   work, but there’s still plenty of nuttiness.
 week: 180
+blurb: Turning its back not only on the college path, but tropes of gangster rap
+  as well, The College Dropout dares to be different in weird, supremely catchy
+  ways.
 ---
 author: André
 review: >-

@@ -29,6 +29,9 @@ summary: Springsteen’s music has such an up-front quality to it. There’s no
   honest-to-god ‘Murican wailing about everything from young love to the plight
   of the working classes; take it or leave it.
 week: 148
+blurb: There’s no pretence. Here stands an honest-to-god ‘Murican wailing about
+  everything from young love to the plight of the working classes; take it or
+  leave it.
 ---
 author: ANDRÉ
 review: >-

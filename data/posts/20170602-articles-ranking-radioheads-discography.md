@@ -9,6 +9,9 @@ tags:
 featuredimage: 2017/06/Band-Picture-2.jpg
 title: "2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked"
 author: admin
+blurb: Be it anxious art-rock, spasmodic electronica, or jazz-tinged
+  soundscapes, Thom & Co. have you covered. Here's Radiohead's albums ranked
+  worst-to-best.
 ---
 #### 05\.06.02017
 ------

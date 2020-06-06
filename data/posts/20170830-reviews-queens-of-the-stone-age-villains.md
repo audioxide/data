@@ -30,6 +30,9 @@ summary: Mark Ronson’s production makes things sound pristine, which is
   seems a bit unnecessary given that Josh Homme could slur his way through a
   phonebook and still be the coolest man in the room.
 week: 113
+blurb: Mark Ronson’s production makes things sound pristine, which is impressive
+  from a technical standpoint, but not always appropriate. It makes the music
+  sound kitschy, like a gigantic quiff's greatest hits.
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>It’s universally known that Queens of the Stone

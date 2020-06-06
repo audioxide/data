@@ -28,6 +28,9 @@ summary: Thundercat rides the album like a surfer hanging ten on the world’s
   smallest, smoothest, slowest wave. It’s drifting with style, a good time but
   not terribly eventful.
 week: 228
+blurb: Thundercat rides the album like a surfer hanging ten on the world’s
+  smallest, smoothest, slowest wave. It’s drifting with style, an uneventful
+  good time.
 ---
 author: André
 review: >-

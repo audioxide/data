@@ -7,6 +7,8 @@ tags: []
 featuredimage: 2020/03/Good-as-Gould.jpg
 title: "Funnyfarm IV: Good as Gould"
 author: fred
+blurb: In which the band members sign away their children’s inheritances. And
+  their grandchildren’s.
 ---
 ## *In which the band members sign away their children’s inheritances. And their grandchildren’s*
 

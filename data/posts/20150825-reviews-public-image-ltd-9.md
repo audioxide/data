@@ -28,6 +28,9 @@ summary: It isn’t a classic, it isn’t conventional, it’s oftentimes a bit 
   but it does what it does terribly well. It’s a loud and peppy splash of
   creativity, and sometimes that’s all an album needs to be.
 week: 25
+blurb: It isn’t a classic, it isn’t conventional, it’s oftentimes a bit daft,
+  but the record does what it does terribly well. It’s a loud and peppy splash
+  of creativity, and sometimes that’s all an album needs to be.
 ---
 author: André
 review: Simultaneously slick and silly in its alternative rock/dance fusion, *9*

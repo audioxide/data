@@ -28,6 +28,8 @@ summary: Titanic Rising goes above and beyond to attempt something
   extraordinary, and even if it doesn't quite reach those desired heights, Weyes
   Blood deserves serious commendation.
 week: 187
+blurb: Despite its glistening arrangements and ethereal production, this is a
+  cheesy, yet excellently realised, pop album at heart; bold and forthright.
 ---
 author: André
 review: >-

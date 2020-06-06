@@ -10,6 +10,8 @@ tags:
 featuredimage: 2017/12/bwah.jpg
 title: My Favourite Game Soundtracks of 2017
 author: andre
+blurb: The video game industry sucks. Luckily, its music doesn't. 2017 produced
+  some terrific game soundtracks, and here lies my pick of the bunch.
 ---
 ### [ANDRE](<https://twitter.com/AndreDack>)
 #### 04\.12.02017

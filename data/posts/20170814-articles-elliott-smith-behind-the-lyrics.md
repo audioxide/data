@@ -8,6 +8,8 @@ tags:
 featuredimage: 2017/08/Elliott_Smith2.jpg
 title: "Elliott Smith: Behind the Lyrics"
 author: ruya
+blurb: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott
+  Smith's words still cut deep, as darkly precious now as they've ever been.
 ---
 ### [Rüya](<https://twitter.com/ymagination_>)
 #### 14\.08.02017

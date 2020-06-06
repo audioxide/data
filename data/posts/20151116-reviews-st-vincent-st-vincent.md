@@ -30,6 +30,10 @@ summary: In capturing the middle ground between passion and precision, Annie
   jittery guitars, shifty synthesisers, and noise-influenced textures that are
   welcoming rather than challenging.
 week: 31
+blurb: Annie Clark achieves a distinct sound that can only be described as some
+  sort of melodic computer malfunction, her sweet voice combining effortlessly
+  with jittery guitars, shifty synthesisers, and noise-influenced textures that
+  are welcoming rather than challenging.
 ---
 author: ANDRÉ
 review: Avoiding the pitfalls that can often appear on art-rock records, St.

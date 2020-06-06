@@ -28,6 +28,8 @@ pullquote: Amazingly catchy riffs
 summary: Without the raw energy of Surfer Rosa and cohesiveness of Doolittle,
   Bossanova is simply a solid album from a remarkable band.
 week: 1
+blurb: Our first ever review. Reads like it too. In any case, the album can
+  certainly boast a groove, but it lacks the edge of Pixies' best work.
 ---
 author: André
 review: Without the raw energy of *Surfer Rosa* and cohesiveness of *Doolittle*,

@@ -29,6 +29,10 @@ summary: I find the composition of the album to be desperately uninspiring.
   utterly devoid of surprises or even basic variety. The 32-minute runtime
   blasts by as a blur of repetitive noise.
 week: 122
+blurb: The composition of the album is desperately uninspiring. There’s a
+  mindlessness to the instrumentation, lyricism, and vocals that is utterly
+  devoid of surprises or even basic variety. The 32-minute runtime blasts by as
+  a blur of repetitive noise.
 ---
 author: ANDRÉ
 review: >-

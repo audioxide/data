@@ -28,6 +28,8 @@ summary: From the unravelled instrumentals to the tongue-in-cheek packaging,
   it’s a kind of anti-epic; 70 minutes of exploratory rock with a flagrant
   disregard for pacing or commercial viability.
 week: 166
+blurb: Noisy and arty, the album remains a kind of anti-epic; 70 minutes of
+  exploratory rock with a flagrant disregard for pacing or commercial viability.
 ---
 author: André
 review: >-

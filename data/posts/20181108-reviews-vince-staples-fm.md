@@ -28,6 +28,8 @@ summary: There’s an audacity to the concept that’s hard to ignore. FM! reall
   does sound like a cartoonish snippet of overblown California radio, with all
   the pomp and sunshine and shadow that entails.
 week: 171
+blurb: An audacious project, FM! sounds like a cartoonish snippet of overblown
+  California radio, with all the pomp and sunshine and shadow that entails.
 ---
 author: André
 review: >-

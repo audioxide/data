@@ -28,6 +28,9 @@ summary: There is plenty of anger in The Specials, but it is used in service of
   its songwriting. At a time when much music seemed obsessed with rejection, The
   Specials were bold enough — and talented enough — to provide affirmation.
 week: 177
+blurb: There is plenty of anger in the album, but it is used constructively. At
+  a time when much music was obsessed with rejection, The Specials gave
+  affirmation.
 ---
 author: Marcus
 review: >-

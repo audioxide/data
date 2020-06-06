@@ -29,6 +29,9 @@ summary: Singularity is ultimately a record to admire rather than cherish, but
   To any fan of electronic music, we suggest you strap yourself in and enjoy the
   ride. There’s a good chance you’ll love it.
 week: 145
+blurb: Singularity is ultimately a record to admire rather than cherish, but
+  there’s enough scope here for it to become a favourite for electronic
+  listeners.
 ---
 author: ANDRÉ
 review: >-

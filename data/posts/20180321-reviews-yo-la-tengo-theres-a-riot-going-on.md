@@ -29,6 +29,9 @@ summary: There’s a Riot Going On is neither immersive nor memorable. The sonic
   passable bass line or soothing melody they run it into the ground in some sort
   of slow motion indie panic.
 week: .nan
+blurb: Neither immersive nor memorable. Any time the group stumble onto a
+  passable bass line or gentle melody they run it into the ground in a slow
+  motion indie panic.
 ---
 author: ANDRÉ
 review: By the time I had finished my first listen of *There’s a Riot Going On*,

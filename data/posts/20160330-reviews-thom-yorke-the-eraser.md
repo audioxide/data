@@ -30,6 +30,10 @@ summary: The Eraser is a wonderful listen that comes with some baggage. It’s n
   Radiohead timeline. If you’re able to handle its intensity, it’s actually a
   very beautiful record.
 week: 47
+blurb: The Eraser is a wonderful listen that comes with some baggage. It’s not
+  on the level of OK Computer, In Rainbows, or Kid A, but remains a significant
+  entry in the Radiohead timeline. If you’re able to handle its intensity, it’s
+  actually a very beautiful record.
 ---
 author: ANDRÉ
 review: It’s difficult to explain the enjoyment to be acquired from *The

@@ -10,6 +10,7 @@ featuredimage: 2019/03/Rob-Wilson.jpg
 title: "Colourful Sevens: &#8216;I love making music by myself &#8211; I can
   treat my songs as diary entries.&#8217;"
 author: fred
+blurb: "'I love making music by myself - I can treat my songs as diary entries.'"
 ---
 ### [FRED](<https://twitter.com/thewhalelines>)
 #### 06\.03.02019

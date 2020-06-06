@@ -28,6 +28,8 @@ summary: From the lush, low-key title track to the gentle pleading of “Baby
   Forgive Me”, Honey delights in a downtempo sensuality. It finds voice in not
   being larger than life, delving instead into the deeply personal.
 week: 170
+blurb: Honey delights in a downtempo sensuality. It finds voice in not being
+  larger than life, delving instead into the deeply personal.
 ---
 author: André
 review: >-

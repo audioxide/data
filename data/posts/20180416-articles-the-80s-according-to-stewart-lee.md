@@ -10,6 +10,9 @@ tags:
 featuredimage: 2018/04/Morrissey-lets-himself-go-e1523711937859.jpg
 title: The &#8217;80s according to Stewart Lee
 author: fred
+blurb: The most miserable man in comedy has five favourite albums from
+  everyone's least favourite decade. We explore Stewart Lee's highlights of the
+  '80s
 ---
 ### [FRED](<https://twitter.com/thewhalelines>)
 #### 16\.04.02018

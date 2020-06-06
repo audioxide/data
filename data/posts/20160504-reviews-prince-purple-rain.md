@@ -28,6 +28,10 @@ summary: Purple Rain was the monumental record that truly cemented Prince's
   record of mystery and wonder, deftly inheriting elements from a wide selection
   of genres that amalgamate to create a category of its own.
 week: 52
+blurb: Purple Rain was the monumental record that cemented Prince's position of
+  power and distinguished him from his peers. It’s an endearing record of
+  mystery and wonder, deftly inheriting elements from a wide selection of genres
+  that amalgamate to create a category of its own.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p></p><p><em>Purple Rain</em> was the monumental

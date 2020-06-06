@@ -30,6 +30,10 @@ summary: It listens like a therapy session — sometimes basely sincere and
   in 1970, but looking at it with the benefit of hindsight I’m not wholly
   convinced its content is all that staggering.
 week: 43
+blurb: It listens like a therapy session — sometimes basely sincere and
+  beautiful, others fidgety, inelegant, and crass. Such a degree of
+  self-reflection made the record something of a sensation when it was, but in
+  today's world its content isn't quite as staggering.
 ---
 author: ANDRÉ
 review: Almost fifty years after its release, *John Lennon/Plastic Ono Band*

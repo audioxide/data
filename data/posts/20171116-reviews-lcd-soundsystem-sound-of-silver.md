@@ -30,6 +30,10 @@ summary: "While LCD Soundsystem is undoubtedly a product of nostalgia, Murphy
   delving into the past to forge something new, producing a heady, indelible
   blend of electronica and rock."
 week: 124
+blurb: While LCD Soundsystem is undoubtedly a product of nostalgia, Murphy does
+  well to interrogate this nostalgia. He’s not merely indulging his influences
+  or recreating the past, rather he’s delving into the past to forge something
+  new, producing a heady, indelible blend of electronica and rock.
 ---
 author: MICHAEL
 review: >-

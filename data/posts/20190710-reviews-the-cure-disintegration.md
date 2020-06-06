@@ -29,6 +29,8 @@ summary: Creating a distinctive, ethereal sound that feels suitably of its time,
   towards the end, there's certainly nothing bad here. An excellent album that's
   stood the test of time.
 week: 200
+blurb: It’s like Frankenstein in a dinner jacket. Gothic synth rock sounds like
+  a recipe for disaster, but it sounds delicious when The Cure does it.
 ---
 author: André
 review: >-

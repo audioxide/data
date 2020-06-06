@@ -29,6 +29,9 @@ summary: Substandard mixing and monotonous vocals hints at a lack of finesse
   concept deserves admiration, and the songwriting is satisfying on the whole,
   but it’s missing the finishing touch.
 week: 197
+blurb: Gold & Grey strives to be an epic of sorts, with its sprawling tracklist
+  and adventurous sonic deviations. Despite some frustrations, it largely
+  succeeds.
 ---
 author: André
 review: >-

@@ -30,6 +30,8 @@ summary: Between the delicious bite-sized servings of vintage Bowie glam-rock
   album; something that adapts the format and twists it to its own ends. What
   results is a delicate and insightful balance of showmanship and reflection.
 week: 23
+blurb: Bite-sized servings of vintage Bowie glam-rock combine with brooding
+  instrumental beauty to make Low something truly special.
 ---
 author: André
 review: In alliance with Tony Visconti and [Brian

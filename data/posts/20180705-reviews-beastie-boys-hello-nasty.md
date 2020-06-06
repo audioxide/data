@@ -29,6 +29,9 @@ summary: Whether the Beasties are rapping or singing, an infectious adolescent
   replicated. Hello Nasty has been hailed as a great hip-hop album, but I'd
   sooner call it a great party album.
 week: 153
+blurb: Whether the Beasties are rapping or singing, an infectious adolescent
+  vigour radiates throughout. 20 years on and that energy has rarely been
+  replicated.
 ---
 author: ANDRÉ
 review: >-

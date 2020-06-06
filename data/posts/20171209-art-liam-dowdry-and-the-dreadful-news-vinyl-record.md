@@ -7,6 +7,7 @@ tags: []
 featuredimage: 2020/01/Liam-Dowdry-ink-vinyl.jpg
 title: Liam Dowdry &#038; The Dreadful News vinyl record // Ink // 02017
 author: fred
+blurb: Ink drawing of nonsense fictional vinyl album.
 ---
 ### [Fred](<https://twitter.com/thewhalelines>)
 #### 09\.12.02017

@@ -29,6 +29,9 @@ summary: SOPHIE’s production style is her primary asset, and I’m certain tha
   production ideas here, there’s also a notable absence of creativity in actual
   song writing.
 week: 151
+blurb: Production is where SOPHIE shines. Whilst there is a plethora of
+  interesting ideas here, there’s also a notable absence of creativity in actual
+  song writing.
 ---
 author: ANDRÉ
 review: >-

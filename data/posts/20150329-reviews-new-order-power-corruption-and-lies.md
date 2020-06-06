@@ -31,6 +31,11 @@ summary: The undeniable significance of New Order is admirable, no question, but
   precisely the problem – stubborn in nature, with very little desire to change,
   they are just there.
 week: 9
+blurb: The significance of New Order is admirable, no question, but in the
+  present day the core of their music feels regrettably lifeless. With this
+  release, the catchy riffs and toe-tapping beats are there, but that's
+  precisely the problem – stubborn in nature, with very little desire to change,
+  they are just there.
 ---
 author: André
 review: The undeniable significance of New Order is admirable, no question, but

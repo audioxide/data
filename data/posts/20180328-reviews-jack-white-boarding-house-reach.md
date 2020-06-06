@@ -30,6 +30,9 @@ summary: "Those looking for the red, white, and black muscle of The White
   accomplished, but there’s plenty to be gained by approaching Boarding House
   Reach on its own terms."
 week: 138
+blurb: Those looking for the muscle of The White Stripes should just listen to
+  The White Stripes. Jack White’s output here is chillier, more demanding...
+  stranger.
 ---
 author: ANDRÉ
 review: >-

@@ -29,6 +29,9 @@ summary: Relaxer falls together for spells, sometimes I quite like it, but for
   inelegant and sloppy. I don’t understand what Relaxer is for or what it’s
   trying to do or say.
 week: 101
+blurb: Relaxer falls together for spells, sometimes very well, but for the most
+  part the music sounds drunk. The general impression it leaves is inelegant and
+  sloppy. It isn't clear what Relaxer is for or what it’s trying to do or say.
 ---
 author: ANDRÉ
 review: "2012’s *An Awesome Wave* caught the attention of both listeners and

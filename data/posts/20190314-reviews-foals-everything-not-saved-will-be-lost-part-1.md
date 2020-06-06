@@ -29,6 +29,8 @@ summary: Foals’ experimentation with synths and funky instrumentals is bold,
   (part one of) an ambitious project that gets away from itself. Disparate
   elements are pulled together lovingly, but certainly not seamlessly.
 week: 183
+blurb: Foals’ experimentation with synths and funky instrumentals is bold, often
+  promising, but the pieces never quite fall together.
 ---
 author: Gabriel
 review: >-

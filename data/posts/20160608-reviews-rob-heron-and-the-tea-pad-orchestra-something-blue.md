@@ -28,6 +28,11 @@ summary: The songwriting is dynamic and fun, the group is delightfully tight on
   a technical level, Heron’s lyrics are sprite and clever, and I can barely
   enjoy any of it because it’s like I’m hearing it through a wall.
 week: 56
+blurb: Brimming with catchy vocal hooks and harmonious moments, Something Blue
+  is a pleasant record that revels in its spirit. But for all its charm, a
+  prominent deficiency lies in its production. The album reveals the
+  difficulties of attempting to capture the energy of a live performance on a
+  studio recording.
 ---
 author: André
 review: 'Brimming with catchy vocal hooks and

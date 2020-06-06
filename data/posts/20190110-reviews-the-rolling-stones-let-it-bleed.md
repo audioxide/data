@@ -29,6 +29,8 @@ summary: Blues, psychedelia, jazz, and gospel are all deeply ingrained in at
   key to its success is the wide influences that give each track a flavour of
   its own.
 week: 174
+blurb: Blues, psychedelia, jazz, and gospel are all deeply ingrained in the
+  music. This is a rock record, but every track has a flavour of its own.
 ---
 author: André
 review: >-

@@ -7,6 +7,8 @@ tags: []
 featuredimage: 2019/12/Funnyfarm-1...-Genesis.jpg
 title: "Funnyfarm I: Genesis"
 author: fred
+blurb: In the beginning there was Alan Hazard and Ray O. Sunshine. These were
+  their real names.
 ---
 ## *In which two hapless dreamers form a band*
 

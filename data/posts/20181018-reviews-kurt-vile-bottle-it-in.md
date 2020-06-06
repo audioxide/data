@@ -29,6 +29,8 @@ summary: The whole record has an easiness of manner, content to be the sonic
   colours all this perfectly. Vile's explorations deserve an expansive setting,
   and they get one.
 week: 168
+blurb: The whole record has an easiness of manner, content to be the sonic
+  backdrop for a wanderer with no particular destination in mind.
 ---
 author: André
 review: >-

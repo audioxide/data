@@ -29,6 +29,8 @@ summary: When I Get Home, unfortunately, feels like neither a continuation nor
   feels less the result of the near-angelic demeanour with which she sang on A
   Seat at the Table, and more that of sheer emptiness.
 week: 182
+blurb: When I Get Home feels like neither a continuation nor progression from
+  its predecessor. Here Solange’s airy delivery is empty rather than angelic.
 ---
 author: André
 review: >-

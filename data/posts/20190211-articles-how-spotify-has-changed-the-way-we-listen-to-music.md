@@ -7,6 +7,8 @@ tags: []
 featuredimage: 2019/01/spencer-imbrock.jpg
 title: How Spotify has changed the way we listen to music
 author: ruya
+blurb: Spotify has revolutionised how we consume music. From mood playlists to
+  machine learning algorithms, it has become the definitive tastemaker.
 ---
 ### [Rüya](<https://twitter.com/ymagination_>)
 #### 11\.02.02019

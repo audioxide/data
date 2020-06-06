@@ -9,6 +9,10 @@ tags:
 featuredimage: 2016/07/instatwilight.jpg
 title: "Hyrule&#8217;s Lament: the Music of Twilight Princess"
 author: andre
+blurb: Music and sound design are key components of the Legend of
+  Zelda franchise, fundamental to making its hero's journeys feel so engrossing,
+  epic, and vast. Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack
+  for Twilight Princess had bolder intentions than it is often given credit for.
 ---
 ### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 22\.07.02016

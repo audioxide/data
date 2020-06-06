@@ -28,6 +28,8 @@ summary: In a time where singer-songwriters are ten a penny, Julia Jacklin has
   created an album that stands out from the crowd. It doesn't reach heady
   heights or make grand proclamations, but it's made for a wonderful listen.
 week: 181
+blurb: In a time where singer-songwriters are ten a penny, Julia Jacklin has
+  created an album that stands out from the crowd. She's one to watch.
 ---
 author: André
 review: >-

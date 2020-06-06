@@ -10,6 +10,9 @@ tags:
 featuredimage: 2017/05/wl5.jpg
 title: "Keep Playing: the Fire at the Heart of Whiplash"
 author: fred
+blurb: However grotesque Terence Fletcher may be, he leaves the impression
+  he does because we recognise him in ourselves and understand his value. In the
+  world of Whiplash, the forgotten are those cowed by failure.
 ---
 ### [FRED](<https://www.youtube.com/watch?v=8oSDxMHrREg>)
 #### 09\.06.02017

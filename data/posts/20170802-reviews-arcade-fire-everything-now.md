@@ -29,6 +29,10 @@ summary: It’s hard to believe everyone involved was on the same page. Although
   of the time it is oddly clunky. The music just doesn’t seem comfortable in its
   own skin.
 week: 109
+blurb: It’s hard to believe everyone involved in Everything Now was on the same
+  page. Although the record sometimes drifts into a genuinely colourful,
+  confident sound, most of the time it is oddly clunky. The music just doesn’t
+  seem comfortable in its own skin.
 ---
 author: ANDRÉ
 review: >-

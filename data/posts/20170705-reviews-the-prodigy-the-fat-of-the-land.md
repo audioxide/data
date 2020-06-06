@@ -29,6 +29,10 @@ summary: "Despite fluctuations in intensity, the general vibe is very much the
   consistency: pulsating basslines and thrilling beats, polished with a
   grittiness that, at the time, was exclusive to The Prodigy."
 week: 105
+blurb: "Despite fluctuations in intensity, the general vibe is very much the
+  same throughout. What The Fat of the Land lacks in diversity, it makes up in
+  consistency: pulsating basslines and thrilling beats, delivered with a
+  grittiness that, at the time, was exclusive to The Prodigy."
 ---
 author: ANDRÉ
 review: "When it comes to the ‘90s, opinions often sway to both extremes, but

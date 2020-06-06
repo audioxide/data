@@ -28,6 +28,8 @@ summary: Ultimately, Lost Girls stands firm as a satisfying-yet-unspectacular
   entry in the Bat for Lashes discography. It's practically impossible not to
   recommend it to those who share Khan's affection for the '80s.
 week: 207
+blurb: A satisfying-yet-unspectacular entry in the Bat for Lashes discography.
+  Heartily recommended to those who share Khan's affection for the '80s.
 ---
 author: André
 review: >-

@@ -30,6 +30,9 @@ summary: Artists can and should take their voice to different plains, but I
   seem to take pleasure in the staggering realisation that humans are capable of
   being affected by things.
 week: 129
+blurb: Artists can and should take their voice to different plains, but I don’t
+  hear exploration on Ruins; I hear safety. I hear Americana in pristine studios
+  with air conditioning.
 ---
 author: ANDRÉ
 review: First Aid Kit have enjoyed a great deal of success since the release of

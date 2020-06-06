@@ -28,6 +28,8 @@ summary: A bit of raucousness would be nice, a bit of grit. Ventura is nothing
   if not steady. It makes for a super consistent hip hop experience, but I can’t
   help but wonder what might have been achieved with the safety wheels off.
 week: 188
+blurb: Ventura is super consistent hip hop experience, but we can’t help but
+  wonder what might have been achieved with the safety wheels off.
 ---
 author: André
 review: >-

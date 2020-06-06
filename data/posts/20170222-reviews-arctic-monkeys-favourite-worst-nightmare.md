@@ -28,6 +28,9 @@ summary: Favourite Worst Nightmare may just be the best album to come from
   Arctic Monkeys yet. Riffs in giant proportions, subtleties hidden between the
   pedal switches and Turner’s Sheffield charm in spades.
 week: 86
+blurb: Favourite Worst Nightmare may just be the best album to come from Arctic
+  Monkeys yet. Riffs in giant proportions, subtleties hidden between the pedal
+  switches, and Turner’s Sheffield charm in spades.
 ---
 author: André
 review: The release of Arctic Monkeys’ debut album was a monumental occasion.

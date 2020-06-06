@@ -8,6 +8,8 @@ tags:
 featuredimage: 2019/09/Mirrors-Edge-music.jpg
 title: "Keep Faith: the music of Mirror&#8217;s Edge"
 author: fred
+blurb: The Mirror's Edge OST is tuned perfectly to the game’s tone. Elegant,
+  adaptive, and constantly on the move, it is proper parkour music.
 ---
 ### [Fred](<https://twitter.com/thewhalelines>)
 #### 06\.10.02019

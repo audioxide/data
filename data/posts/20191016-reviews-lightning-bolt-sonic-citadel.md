@@ -29,6 +29,9 @@ summary: I have it on good authority that this duo is formed of stellar talent,
   Citadel sticks around for too long on the same idea for the effect to carry
   over here.
 week: 212
+blurb: Sonic Citadel leans into the grubby, raw, jam-like nature of the duo's
+  live performances, records it, and calls it a day. It's like a whirring
+  motorcycle.
 ---
 author: André
 review: >-

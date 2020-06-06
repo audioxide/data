@@ -29,6 +29,10 @@ summary: The record feels alive; it lives and breathes like a fully formed
   and vibrant, and the drums are wonderfully expressive. Sometimes, it just
   feels too familiar.
 week: 80
+blurb: The record feels alive; it lives and breathes like a fully formed
+  reincarnation of disco. The melodies are infectious, the bass lines are rich
+  and vibrant, and the drums are wonderfully expressive. Sometimes, though, it
+  just feels too familiar.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>Justice’s debut album, released almost 10 years ago

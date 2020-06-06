@@ -9,6 +9,9 @@ tags:
 featuredimage: 2017/08/Trent_Reznor-FEB2008.jpg
 title: "All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked"
 author: andre
+blurb: For years now the music of Trent Reznor has proved to be, yes, The
+  Perfect Drug. Here lies my worst-to-best list of Nine Inch Nails studio
+  albums.
 ---
 ### [Andre](<https://twitter.com/AndreDack>)
 #### 24\.08.02017 (updated 29.01.02020)

@@ -28,6 +28,8 @@ summary: What a way to introduce yourselves to the world. Rock and roll
   delivered with swagger is such a buzz, and that’s more or less the game on
   Definitely Maybe; relentless and unstoppable.
 week: 102
+blurb: Rock and roll delivered with swagger is such a buzz, and that’s more or
+  less the game on Definitely Maybe; relentless and unstoppable.
 ---
 author: ANDRÉ
 review: >-

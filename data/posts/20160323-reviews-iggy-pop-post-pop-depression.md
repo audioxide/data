@@ -30,6 +30,10 @@ summary: For the most part Post Pop Depression settles on a clean, crisp,
   work, but I can't shake a lingering sense of disappointment that all the
   talent involved couldn’t culminate in something more substantial.
 week: 46
+blurb: For the most part Post Pop Depression settles on a clean, crisp, Homme-y
+  tone that’s easy on the ears and not very memorable. It’s a solid work, but
+  with a lingering sense of disappointment that all the talent involved couldn’t
+  create something more substantial.
 ---
 author: ANDRÉ
 review: The emergence of old age must be a surreal reality for rock stars,

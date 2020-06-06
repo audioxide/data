@@ -9,6 +9,8 @@ featuredimage: 2018/03/Dylan-Seeger-resized.png
 title: "Dylan Seeger: &#8216;Albums take you on a journey that 4-minute singles
   will never replicate.&#8217;"
 author: fred
+blurb: "'Once you learn how to edit your ideas and be critical of your own work,
+  it’s very possible to create a great record alone.'"
 ---
 ### [FRED](<https://twitter.com/thewhalelines>)
 #### 05\.03.02018
