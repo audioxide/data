@@ -28,6 +28,8 @@ summary: There’s easy listening, and then there’s something like Weather. Th
   is ambient Muzak. For all its smoothness and gentleness it barely leaves any
   impression at all.
 week: 201
+blurb: This is ambient Muzak. For all its smoothness and gentleness it barely
+  leaves any impression at all.
 ---
 author: André
 review: >-

@@ -29,6 +29,10 @@ summary: I don’t have a lot of time for pop, but when I do I want it to sound
   that was true for a lot of people. There’s a gimmickry to Bad which doesn’t
   always sit right.
 week: 110
+blurb: Following an album on the sheer scale of Thriller is no easy task, even
+  for the King of Pop. It took Michael Jackson five years to follow up the
+  greatest selling album of all time, and despite showing drastic signs of age,
+  I'd say he gave it a damn good go with Bad.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>Following an album on the sheer scale of

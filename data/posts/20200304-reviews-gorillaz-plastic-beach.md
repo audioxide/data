@@ -28,6 +28,8 @@ summary: Plastic Beach’s finest moments sound, appropriately, like synthetic
   luxury. It’s buoyant and aspirational, feeling like a release of tension after
   the comparative harshness of Demon Days.
 week: 223
+blurb: Classic Gorillaz. Buoyant and aspirational, the project feels like a
+  release of tension after the comparative harshness of Demon Days.
 ---
 author: André
 review: "<div class=\"_aok _7i2m\" aria-label=\"With Plastic Beach celebrating

@@ -30,6 +30,10 @@ summary: Its release in 1997 captured a moment in time that was somehow ahead of
   insight—in 2016, OK Computer is as relevant now as ever, both culturally and
   sonically.
 week: 55
+blurb: Its release in 1997 captured a moment in time that was somehow ahead of
+  its own. To merely brand it a landmark of the '90s is a disservice to its
+  insight. OK Computer is as relevant now as ever, both culturally and
+  sonically.
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>The term ‘timeless’ is often carelessly applied.

@@ -28,6 +28,8 @@ summary: It all winds up feeling a bit clean cut, a bit airbrushed. The album’
   a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and
   out the other.
 week: 225
+blurb: It's all a bit clean cut, a perfectly pleasant smorgasbord of gothy synth
+  pop which goes in one ear and out the other.
 ---
 author: André
 review: >-

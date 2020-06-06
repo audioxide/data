@@ -28,6 +28,8 @@ summary: This is a veteran of electronic music who has nothing else to prove.
   The album isn't a game changer; instead a proud statement, delivered with
   finesse and flair by one of the true masters of IDM.
 week: 219
+blurb: This isn't a game changer; instead a proud statement, delivered with
+  finesse and flair by one of the true masters of IDM.
 ---
 author: André
 review: >-

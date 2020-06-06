@@ -17,6 +17,8 @@ tags:
 featuredimage: 2019/12/Queens-of-the-Stone-Age.jpg
 title: Our 10 favourite albums of the 2010s
 author: admin
+blurb: The end of the 2010s is upon us, which means we are bound by obscure 16th
+  century law to rank our favourite albums of the decade.
 ---
 #### 31\.12.02019
 ------

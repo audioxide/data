@@ -29,6 +29,8 @@ summary: "A consistent string of exciting, chilling, and innovative experimental
   same way that I imagine a vampire's glamouring might be: warm, cold, hypnotic,
   enticing, and foreboding as all Hell."
 week: 213
+blurb: "The album is enthralling in the same way a vampire's glamouring might
+  be: warm, cold, hypnotic, enticing, and foreboding as all Hell."
 ---
 author: André
 review: >-

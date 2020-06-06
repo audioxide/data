@@ -29,6 +29,9 @@ summary: Tim Hecker is often credited as an ambient producer, but Anoyo is at
   To get the most out of the record, listeners must embrace the obscurity and
   relish the moments of discomfort; probing shadows in order to find answers.
 week: 192
+blurb: To get the most out of the record, listeners must embrace the obscurity
+  and relish the moments of discomfort; probing shadows in order to find
+  answers.
 ---
 author: André
 review: >-

@@ -29,6 +29,8 @@ summary: The aura of each composition is beautiful, yet there's also the aching
   entitity. However, without specific songs standing out, it's surprisingly
   forgettable.
 week: 211
+blurb: The aura of each composition is beautiful, yet there's also the aching
+  feeling of something missing. Stunning, and yet also oddly forgettable.
 ---
 author: André
 review: >-

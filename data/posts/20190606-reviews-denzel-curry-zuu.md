@@ -29,6 +29,8 @@ summary: "ZUU is a tour de force in the bait and switch: for every blunt or
   that borders on genius. I’d argue that Denzel Curry even crosses that border
   every so often."
 week: 195
+blurb: The heated, high-tempered attitude that Curry carried on 2018's TA13OO
+  has been replaced by a less hostile outlook. ZUU is a fun ride.
 ---
 author: André
 review: >-

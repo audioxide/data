@@ -7,6 +7,8 @@ tags: []
 featuredimage: 2016/06/Out-of-Mind-1.jpg
 title: Confessions of an album reviewer
 author: fred
+blurb: For reasons known not even to himself, Fred decides to disparage the
+  memory of George Orwell's essay 'Confessions of a Book Reviewer'.
 ---
 ### [FREDerick O’Brien](<https://twitter.com/thewhalelines>)
 #### 08\.09.02019

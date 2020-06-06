@@ -19,6 +19,8 @@ tags:
 featuredimage: 2016/10/red-thom.jpg
 title: 13 Songs for a Horrible Halloween
 author: andre
+blurb: Let's face it, Halloween playlists can be awful. Here lies an alternative
+  lineup of frightening contemporary songs. More treats than tricks, we promise.
 ---
 ### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 28\.10.02016

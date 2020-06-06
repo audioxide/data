@@ -28,6 +28,8 @@ summary: With PJ Harvey it feels like you’ve stumbled across the ad hoc
   performance of a travelling mystic. It’s black magic with a smile. There’s
   blood trickling from the corner of its mouth, but then who are we to judge?
 week: 222
+blurb: With Harvey it feels like you’ve stumbled across the ad hoc performance
+  of a travelling mystic. It’s black magic with a smile.
 ---
 author: André
 review: >-

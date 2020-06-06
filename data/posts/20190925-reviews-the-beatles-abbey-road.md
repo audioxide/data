@@ -28,6 +28,8 @@ summary: The last word of a band with nothing left to prove, and it sounds like
   it. Exceptional without being seminal, the record is not a high watermark, but
   then it didn’t need to be.
 week: 209
+blurb: The last word of a band with nothing left to prove, and it sounds like
+  it. Exceptional without being seminal, but with some truly classic songs.
 ---
 author: Gabriel
 review: >-

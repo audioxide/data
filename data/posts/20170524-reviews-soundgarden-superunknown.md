@@ -28,6 +28,9 @@ summary: Superunknown is a sprawling record, spanning grunge, alternative metal,
   stoner rock, and psychedelia; streamlined under a pop supervision that makes
   it one of the most accessible and infectious rock albums of the decade.
 week: 99
+blurb: Superunknown is a sprawling record, spanning grunge, alternative metal,
+  stoner rock, and psychedelia, all streamlined under a pop supervision that
+  makes it one of the most accessible and infectious rock albums of the '90s.
 ---
 author: ANDRÉ
 review: >-

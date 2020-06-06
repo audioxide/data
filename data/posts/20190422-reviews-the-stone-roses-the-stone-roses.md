@@ -29,6 +29,8 @@ summary: Though clearly a product of the ‘80s the album wears its age with
   electronic music quite unlike anything made before or since, even by The Stone
   Roses.
 week: 189
+blurb: A broody, elegant, sometimes transcendent blend of rock and electronic
+  music unlike anything made before or since, even by The Stone Roses.
 ---
 author: André
 review: >-

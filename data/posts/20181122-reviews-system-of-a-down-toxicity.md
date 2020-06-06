@@ -29,6 +29,8 @@ summary: It may not be the best in its class, but Toxicity still has a charm to
   pack, the record is a worthwhile listen for a turn of the century flavour of
   metal.
 week: 173
+blurb: It may not be the best in its class, but Toxicity still has a charm to
+  it. The record is a worthwhile listen for turn of the century flavour metal.
 ---
 author: André
 review: >-

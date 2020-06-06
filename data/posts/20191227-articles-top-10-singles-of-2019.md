@@ -16,6 +16,8 @@ tags:
 featuredimage: 2019/12/Angel-Olsen.jpg
 title: Our 10 favourite singles of 2019
 author: admin
+blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the
+  most un-single-like list of year-end singles we ever do.
 ---
 #### 27\.12.02019
 ------

@@ -30,6 +30,9 @@ summary: The album doesn’t justify its length, and the consistency in both its
   knock, and Damon Albarn leads the pack well with his social satires and
   cutting commentary.
 week: 143
+blurb: Inconsistent, but there's a lot to dig. The songwriting is hard to knock,
+  and Damon Albarn leads the pack well with his social satires and cutting
+  commentary.
 ---
 author: ANDRÉ
 review: >-

@@ -29,6 +29,8 @@ summary: Following 2017’s brutally beautiful Underside of Power, There is No
   the brim, bursting with potential for something greater than what it
   ultimately settles for.
 week: 218
+blurb: Throughout much of its run-time, There is No Year seems content revelling
+  in its own (admittedly awe-inspiring) ambience.
 ---
 author: André
 review: >-

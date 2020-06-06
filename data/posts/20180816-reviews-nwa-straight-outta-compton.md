@@ -28,6 +28,8 @@ summary: It has its lulls, but when Straight Outta Compton blows hot it feels
   unstoppable. The legacy of that underlying energy lives on in the artists
   N.W.A. touched. They modelled a spirit of expression impossible to ignore.
 week: 159
+blurb: It has its lulls, but when Straight Outta Compton blows hot it feels
+  unstoppable. N.W.A. modelled a spirit of expression impossible to ignore.
 ---
 author: André
 review: >-

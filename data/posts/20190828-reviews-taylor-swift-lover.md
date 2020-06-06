@@ -28,6 +28,8 @@ summary: Hip, catchy… all that stuff. Lover isn’t as expansive as Kate Bush 
   as daring as St. Vincent, but it is accessible and intelligent, which I think
   are the hallmarks of Swift at her best.
 week: 205
+blurb: Lover isn’t as expansive as Kate Bush or as daring as St. Vincent, but it
+  is accessible and intelligent, which are the hallmarks of Swift at her best.
 ---
 author: André
 review: >-

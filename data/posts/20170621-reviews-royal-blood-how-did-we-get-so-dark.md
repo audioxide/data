@@ -29,6 +29,10 @@ summary: The character is far more impressive than the substance. The general
   myself asking why it isn’t more. The album gives a far clearer impression of
   who Royal Blood want to sound like than it does what their vibe is.
 week: 103
+blurb: The character is far more impressive than the substance. The general tone
+  of the record never shifts, and as agreeable as that tone is I often find
+  myself asking why it isn’t more. The album gives a far clearer impression of
+  who Royal Blood want to sound like than it does what their actual vibe is.
 ---
 author: ANDRÉ
 review: >-

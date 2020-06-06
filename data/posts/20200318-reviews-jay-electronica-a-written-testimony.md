@@ -28,6 +28,8 @@ summary: The sampling is seriously inventive and a joy to behold, the production
   is consistently phenomenal, and the thoughtful lyrical content rewards further
   listens.
 week: 224
+blurb: A distinctive project that showcases exactly what Jay Electronica is all
+  about. With a little help from a friend, of course.
 ---
 author: André
 review: >-

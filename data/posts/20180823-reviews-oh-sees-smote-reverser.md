@@ -29,6 +29,8 @@ summary: If you can tap into Oh Sees' frequency there’s no reason why this can
   I find it hard to escape the feeling the band are getting a lot more out of
   all this than I am.
 week: 160
+blurb: If you can tap into Oh Sees' frequency there’s no reason why this can’t
+  be a lovely hour in the haze. The record needs that buy-in, though.
 ---
 author: Marcus
 review: >-

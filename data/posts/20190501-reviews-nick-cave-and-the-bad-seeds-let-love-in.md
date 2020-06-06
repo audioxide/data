@@ -28,6 +28,8 @@ summary: The arrangements are expansive and diverse, with coarse guitars
   blending between the lines of timpani, bells, piano, and organ. Lots of organ.
   The Bad Seeds set a perfect scene for Cave's poignant poetry.
 week: 190
+blurb: The arrangements are expansive and diverse, with coarse guitars blending
+  between the lines of timpani, bells, piano, and organ. Lots of organ.
 ---
 author: Andre
 review: >-

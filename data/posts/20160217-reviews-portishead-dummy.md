@@ -29,6 +29,8 @@ summary: Melding orchestral and jazz samples with beats that often surge tracks
   necessary despite their minimal construction, Dummy remains intriguing for the
   listener throughout.
 week: 41
+blurb: Melding orchestral and jazz samples with beats that surge tracks forward,
+  Dummy remains intriguing for the listener throughout. An iconic album.
 ---
 author: ANDRÉ
 review: As tempting as it is to brand Portishead’s debut as the definitive

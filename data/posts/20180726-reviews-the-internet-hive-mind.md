@@ -29,6 +29,8 @@ summary: Each song starts promisingly enough, but Hive Mind is guilty of not
   admittedly a rather lavish one. It’s frustrating to hear an album so content
   with being unrefined.
 week: 156
+blurb: The record stagnates into a smooth R&B mood, though admittedly a rather
+  lavish one. It’s frustrating to hear an album so content with being unrefined.
 ---
 author: André
 review: Lush R&B is often the perfect supplement for a sweltering hot summer,

@@ -8,6 +8,9 @@ tags:
 featuredimage: 2018/01/qotsa.jpg
 title: André and Fred listen to r/qotsa&#8217;s Best Of album
 author: admin
+blurb: "r/qotsa put together the ultimate Queens of the Stone Age playlist:
+  ...Vulgar Songs for Villains (Rated R). We treated ourselves to a listening
+  party."
 ---
 <div><p><em>This is part of&nbsp;<a href="http://audioxide.com/listeningparties/" target="_blank" rel="noopener noreferrer">a series</a> in which two or more members of the Audioxide team listen to an album for the first time.&nbsp;Any moments of interest or insight are purely coincidental.</em></p><p></p></div>
 ![](<https://audioxide.com/wp-content/uploads/2018/01/qotsa.jpg> =1280x720)

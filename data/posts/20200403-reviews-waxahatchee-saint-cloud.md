@@ -28,6 +28,8 @@ summary: Crutchfield’s delicate vocals come through with majestic force. To
   witness these songs being played live in a chapel would be quite the
   experience. Someone should work on that.
 week: 227
+blurb: To witness these songs being played live in a chapel would be quite the
+  experience. Someone should work on that.
 ---
 author: André
 review: >-

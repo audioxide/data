@@ -29,6 +29,10 @@ summary: Wolf Alice have clearly experimented with a lot of very good ideas in
   single sound and concentrate their efforts on that, they will certainly be a
   band to watch throughout the second half.
 week: 22
+blurb: Wolf Alice have clearly experimented with a lot of very good ideas in the
+  first half of the 2010s. Once they find their sound and concentrate their
+  efforts on that, they will certainly be a band to watch throughout the second
+  half.
 ---
 author: André
 review: Though far from the finished article, Wolf Alice show plenty of promise

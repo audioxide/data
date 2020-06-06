@@ -29,6 +29,9 @@ summary: HEALTH have continued their trend of making exhilarating music, but
   Jupiter Keyes has likely played a major part, though its Jacob Duzsik's faint
   whines that proves to be the most underwhelming aspect.
 week: 179
+blurb: HEALTH have continued their trend of making exhilarating music, but
+  something feels off this time round. A record this polished shouldn't feel so
+  flat.
 ---
 author: André
 review: >-

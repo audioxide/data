@@ -29,6 +29,9 @@ summary: Björk creates her own identity by combining seemingly contrasting
   innovation in her career, breaking the mould of what it means to be a new,
   exciting artist.
 week: 154
+blurb: Björk creates her own identity by combining contrasting into something
+  entirely unique. This broke the mould of what it means to be a new, exciting
+  artist.
 ---
 author: ANDRÉ
 review: >-

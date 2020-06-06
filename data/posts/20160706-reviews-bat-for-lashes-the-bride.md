@@ -29,6 +29,10 @@ summary: A few interesting instrumentals are peppered throughout the album, but
   Khan's vocals are as beautiful and delicate as expected, but are noticeably
   safer than in tracks such as "Laura".
 week: 60
+blurb: A few interesting instrumentals are peppered throughout the album, but
+  these largely don't evolve from the opening moments of each track. Natasha
+  Khan's vocals are as beautiful and delicate as expected, but are noticeably
+  safer than in tracks like "Laura".
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>With an adept ability for creating whimsical

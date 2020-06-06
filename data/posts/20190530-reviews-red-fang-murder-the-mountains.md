@@ -28,6 +28,8 @@ summary: Murder the Mountains might not be trying to something more than face
   value here, but it doesn’t need to. This album is a solid and grounded rock
   offering with interesting vocal themes, expansive drums, and raucous riffs.
 week: 194
+blurb: This album is a solid and grounded metal music offering with interesting
+  vocal themes, expansive drums, and raucous riffs. Well worth a try.
 ---
 author: Gabriel
 review: >-

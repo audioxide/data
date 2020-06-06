@@ -28,6 +28,8 @@ summary: While I can appreciate a slow build, a rolling riff, and an expansive
   soundscape, I don't feel like that's what I'm getting here. For the most part,
   I find boredom and frustration during the 90-minute playtime.
 week: 206
+blurb: While we can all appreciate a slow build, a rolling riff, and an
+  expansive soundscape, TOOL's 90-minute non-epic leaves much to be desired.
 ---
 author: André
 review: >-

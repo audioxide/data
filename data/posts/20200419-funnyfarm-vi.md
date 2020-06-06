@@ -7,6 +7,8 @@ tags: []
 featuredimage: 2020/04/Whats-in-a-Name.jpg
 title: "Funnyfarm VI: What&#8217;s in a Name"
 author: fred
+blurb: In which an astonishing lack of imagination is shown by the band, the
+  manager, and the author
 ---
 ## *In which an astonishing lack of imagination is shown by the band, the manager, and the author*
 ![](<https://audioxide.com/wp-content/uploads/2020/04/Whats-in-a-Name.jpg> =1620x1080)‘Soul Reel?’

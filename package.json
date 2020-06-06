@@ -13,6 +13,7 @@
   "dependencies": {
     "jsdom": "^16.2.2",
     "lodash": "^4.17.15",
+    "sharp": "^0.25.3",
     "showdown": "^1.9.1",
     "wpapi": "^1.2.1",
     "yaml": "^1.9.2"

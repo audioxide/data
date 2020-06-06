@@ -29,6 +29,8 @@ summary: Blake's words are far more direct than ever before, and it suits the
   half. Blake has always been excellent at setting a mood, but for the first
   time in his career he actually exudes genuine emotive qualities.
 week: 176
+blurb: Blake has always been hugely successful at setting a mood, but for the
+  first time in his career he actually exudes genuine emotive qualities.
 ---
 author: André
 review: >-

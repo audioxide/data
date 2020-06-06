@@ -9,6 +9,10 @@ tags:
 featuredimage: 2016/10/Liam-e1477496839194.jpg
 title: Be Here Now and Mr. Hyde
 author: fred
+blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented
+  popular rise, veins caked thick with drugs, and surrounded by a writhing
+  legion of Yes Men, Oasis produced something profoundly overblown in their
+  third studio album.
 ---
 ### [FRED](<https://www.youtube.com/watch?v=6X3TE8dKdrA>)
 #### 14\.10.02016

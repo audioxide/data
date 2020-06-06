@@ -29,6 +29,10 @@ summary: The Blue Album is simple, but immensely enjoyable, and happens to be
   weird, yet strangely glamorous, which in itself brought a warming message;
   they showed us that it was cool to be uncool.
 week: 37
+blurb: The Blue Album is simple, but immensely enjoyable, and happens to be one
+  of the most iconic albums of the '90s. Weezer were unapologetically weird, yet
+  strangely glamorous, which in itself brought a warming message; they showed us
+  that it was cool to be uncool.
 ---
 author: ANDRÉ
 review: A key part of what makes Weezer’s early albums so enjoyable is the sheer

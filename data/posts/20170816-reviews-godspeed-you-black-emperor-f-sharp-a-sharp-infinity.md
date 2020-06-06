@@ -29,6 +29,8 @@ summary: Godspeed You! Black Emperor’s debut gets deep into the minutia of wha
   instrumental, the music twangs and moans through a sumptuous range of
   soundscapes, sounding as fresh as it does apocalyptic.
 week: 111
+blurb: Almost entirely instrumental, the music twangs and moans through a
+  sumptuous range of soundscapes, sounding as fresh as it does apocalyptic.
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>Godspeed You! Black Emperor’s debut record

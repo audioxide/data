@@ -8,6 +8,8 @@ tags:
 featuredimage: 2019/06/Featured-image.jpg
 title: "Mr. Tambourine Fan: Bob Dylan&#8217;s studio albums ranked"
 author: charlie-clissitt
+blurb: Who would be mad enough to single-handedly rank Bob Dylan's 38 studio
+  albums? Why, Charlie Clissitt of course. Two great minds for the price of one.
 ---
 ### [Charlie Clissitt](<https://twitter.com/charlieclissitt?lang=en>)
 #### 12\.07.02019

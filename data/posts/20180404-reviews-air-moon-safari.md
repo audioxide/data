@@ -29,6 +29,9 @@ summary: Air combined chillout aesthetic with downtempo percussion, whilst
   pleasant, comforting, and frequently absorbing. I can’t imagine anyone not
   having a good time with it.
 week: 140
+blurb: Air combined chillout aesthetic with downtempo percussion, adding the pop
+  element that made them such a success. Pleasant, familiar, and frequently
+  absorbing.
 ---
 author: ANDRÉ
 review: >-

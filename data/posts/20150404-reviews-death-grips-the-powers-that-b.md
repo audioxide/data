@@ -29,6 +29,9 @@ summary: As with a lot of Death Grips' output, a great deal of The Power That B
   seems like it shouldn't work, it's just a huge, crazy wall of sound, and that
   makes for an exhausting listen; yet it works well despite it all.
 week: 10
+blurb: As with a lot of Death Grips' output, a great deal of The Power That B
+  seems like it shouldn't work. It's a huge, crazy wall of sound, and that makes
+  for an exhausting listen; yet it works well despite it all.
 ---
 author: André
 review: I certainly enjoy *The Powers That B*, but I unfortunately see no need

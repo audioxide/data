@@ -29,6 +29,9 @@ summary: Whilst I did expect a caustic, mocking tone, I did not foresee a
   quirks, but when all is said and done, This Nation’s Saving Grace is in fact a
   great album in its own musical right.
 week: 131
+blurb: There’s a lot to be said for the album's quirks, but when all is said and
+  done, This Nation’s Saving Grace is in fact a great album in its own musical
+  right.
 ---
 author: ANDRÉ
 review: >-

@@ -33,6 +33,10 @@ summary: The Downward Spiral serves as a reminder that music can often be the
   millions of angst-filled listeners who inevitably soaked up his devastating
   portrayal of nihilism.
 week: 6
+blurb: The Downward Spiral serves as a reminder that music can often be the
+  purest form of human expression. Reznor set a benchmark in the genre of
+  industrial rock, whilst simultaneously providing a form of therapy for
+  millions of angst-filled listeners.
 ---
 author: André
 review: "*The Downward Spiral* serves as a reminder that music can often be the

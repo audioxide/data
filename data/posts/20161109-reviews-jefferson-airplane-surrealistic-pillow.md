@@ -29,6 +29,10 @@ summary: It remains a staple of the genre today, feeling as fresh and vibrant
   by The Rolling Stones and The Beatles.  It sounds like a wonderful montage of
   the ’60s.
 week: 78
+blurb: The record remains a staple of the psychedelic folk-rock, feeling as
+  fresh and vibrant now as it did in 1967, and stands as tall as the finest
+  works of the same era by The Rolling Stones and The Beatles.  It sounds like a
+  wonderful montage of the ’60s.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p><em>Surrealistic Pillow</em> was a pioneering piece

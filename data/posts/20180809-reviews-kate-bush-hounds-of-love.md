@@ -29,6 +29,8 @@ summary: Whilst Hounds of Love is not without its defects, it’s held high on t
   deliriously weird and wild yet also break through to the mainstream world is
   great proof of her powers.
 week: 158
+blurb: That Bush could create something so deliriously weird and wild yet also
+  break through to the mainstream world is great proof of her powers.
 ---
 author: André
 review: >-

@@ -28,6 +28,8 @@ summary: Dreamy psychedelia takes centre stage, with very little shift in pace
   or tone. I'm hugely enamoured with the first handful of tracks, but gradually
   become numb to the music's whimsical nature.
 week: 221
+blurb: Kevin Parker’s latest project has all the hallmarks of what came before,
+  and it pushes harder on his more avant garde sensibilities.
 ---
 author: André
 review: >-

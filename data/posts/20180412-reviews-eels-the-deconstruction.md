@@ -30,6 +30,9 @@ summary: E’s songwriting has found fresh form. His songs, and the immaculate
   like “Sweet Scorched Earth”, which is the closest we’ve come to an Eels
   ‘classic’ in quite some time.
 week: 141
+blurb: Mr. E’s found fresh form. Only he could write something like “Sweet
+  Scorched Earth”, which is the closest we’ve come to an Eels ‘classic’ in quite
+  some time.
 ---
 author: ANDRÉ
 review: >-

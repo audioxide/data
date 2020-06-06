@@ -30,6 +30,11 @@ summary: It’s convenient to find here a record so blatantly demonstrative of
   frustrate me, but which can also be somewhat forgiven for serving the primary
   purpose of the genre.
 week: 49
+blurb: It’s convenient to find here a record so blatantly demonstrative of EDM’s
+  pitfalls. Formulaic song writing; a complete absence of dynamics; a detachment
+  in structure… these are tropes of dance music that will continue to frustrate,
+  but which can also be somewhat forgiven for serving the primary purpose of the
+  genre.
 ---
 author: ANDRÉ
 review: EDM is undoubtedly one of the more divisive genres in modern music. Even

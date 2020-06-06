@@ -30,6 +30,9 @@ summary: Pulp nail the pop/rock formula to near perfection, and the result is so
   Class aren’t necessarily cheerful — in fact they’re mostly very cynical — yet
   the album sounds like a celebration from beginning to end.
 week: 150
+blurb: Pulp nail the pop/rock formula to near perfection. The themes aren’t
+  necessarily cheerful, yet the album sounds like a celebration from beginning
+  to end.
 ---
 author: ANDRÉ
 review: >-

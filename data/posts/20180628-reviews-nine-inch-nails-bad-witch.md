@@ -28,6 +28,9 @@ summary: It’s far from the best NIN album, but it’s probably the most crucia
   and downright exciting one in quite some time. This is a grubby, disheveled,
   and damaged album composed, produced, and arranged as such.
 week: 152
+blurb: The most downright exciting NIN album in quite some time. This is a
+  grubby, disheveled, and damaged album composed, produced, and arranged as
+  such.
 ---
 author: ANDRÉ
 review: >-

@@ -7,6 +7,7 @@ tags: []
 featuredimage: 2020/03/The-Van.jpg
 title: "Funnyfarm V: The Van"
 author: fred
+blurb: In which Soviet manufacturing holds up surprisingly well.
 ---
 ## *In which Soviet manufacturing holds up surprisingly well<br>
 *

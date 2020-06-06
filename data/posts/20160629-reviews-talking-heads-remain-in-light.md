@@ -30,6 +30,8 @@ summary: This is one for the audiophiles. Under the Midas wing of Brian Eno,
   innovative digital play, glazing the whole affair with almost delirious David
   Byrne lyrics and delivery.
 week: 59
+blurb: Under the Midas wing of Brian Eno, Talking Heads juggle African genres
+  with Western experimentation and innovative digital play.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p><em>Remain in Light</em> is a sheer delight to

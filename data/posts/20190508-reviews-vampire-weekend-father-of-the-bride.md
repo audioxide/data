@@ -28,6 +28,8 @@ summary: The songwriting, performances and production are all top notch. But my
   word is it sterile. The majority of these songs wouldn't feel out of place in
   an advert for Google, such is the clinical nature of their formation.
 week: 191
+blurb: Catchy and sterile. The majority of these songs wouldn't feel out of
+  place in an advert for Google, such is the clinical nature of their formation.
 ---
 author: André
 review: >-

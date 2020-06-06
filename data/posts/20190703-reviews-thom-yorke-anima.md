@@ -29,6 +29,9 @@ summary: ANIMA has the hallmark Yorke oddball jumpiness, but there are some
   wanderings are pleasant enough to leave most fans satisfied. Does the album
   surprise and delight? No, but it does please.
 week: 199
+blurb: ANIMA has the Yorke's classic oddball jumpiness, but there are some
+  really fluid sounds at play too. Does the album delight? No, but it does
+  satisfy.
 ---
 author: André
 review: >-

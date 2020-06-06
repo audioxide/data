@@ -29,6 +29,10 @@ summary: Luciferian Towers’ major achievement, for me, is in the willingness
   signposts as it rolls through sonic aesthetics lifted from Scottish Highlands
   and the streets of dusty towns in the Old West.
 week: 117
+blurb: Luciferian Towers’ major achievement is the willingness with which you’ll
+  fill in the gaps for yourself, drawing lines between its signposts as it rolls
+  through sonic aesthetics lifted from Scottish Highlands and the streets of
+  dusty towns in the Old West.
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>It wouldn’t be a new record from post-rock’s most

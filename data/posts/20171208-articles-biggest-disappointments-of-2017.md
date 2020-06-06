@@ -10,6 +10,8 @@ tags:
 featuredimage: 2017/12/the-flaming-lips.jpg
 title: Our Biggest Disappointments of 2017
 author: admin
+blurb: It's time to put on our cynical hats. The artists featured here have set
+  such a high standard that it's upsetting when they fall (considerably) short.
 ---
 2017 has been a wonderful year for music, but alas, it’s time to put on our cynical hats. The artists featured here have set such a standard that it becomes naturally upsetting when they fall considerably short. As you read us trash your favourite artist, try to remember that we are all fans here. Besides, what is life without disappointment?
 ------

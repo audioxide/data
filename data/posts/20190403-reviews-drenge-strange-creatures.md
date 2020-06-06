@@ -28,6 +28,8 @@ summary: Strange Creatures is a solid entry into the band's catalogue and
   certainly worth a listen. As to whether it'll stick around until the end of
   the year? I'm a lot less sure.
 week: 186
+blurb: A solid entry into the band's catalogue and certainly worth a listen. As
+  to whether it'll stick around until the end of the year? I'm a lot less sure.
 ---
 author: Gabriel
 review: >-

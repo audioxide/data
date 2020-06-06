@@ -28,6 +28,9 @@ summary: There's nothing mind-blowing here, and there's no pretence that there
   should be. This is instead a solid, albeit unassuming, indie rock record that
   makes for an enjoyable listen.
 week: 147
+blurb: There's nothing mind-blowing here and no pretence that there should be. A
+  solid, albeit unassuming, indie rock record that makes for an enjoyable
+  listen.
 ---
 author: ANDRÉ
 review: "Three years after the release of her invigorating debut

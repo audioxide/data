@@ -7,6 +7,7 @@ tags: []
 featuredimage: 2019/12/Funnyfarm-3...-4-1-2-3-4....jpg
 title: "Funnyfarm III: 4, 1, 2, 3, 4&#8230;"
 author: fred
+blurb: In which the value of a rhythm section quickly becomes clear.
 ---
 ## *In which the value of a rhythm section quickly becomes clear<br>
 *

@@ -28,6 +28,7 @@ summary: MAGDALENE strives for an understated pop epic, yet this is a curious
   contradiction in itself. For all its instances of greatness and undeniable
   beauty, the record gets tangled in its own aspirations.
 week: 216
+blurb: ""
 ---
 author: André
 review: >-

@@ -29,6 +29,8 @@ summary: The Desert Sessions project has always been a lot of fun. It's sincere
   absence of 16 (!!!) years, I'm pleased to report nothing has really changed on
   that front.
 week: 214
+blurb: The Desert Sessions project has always been a lot of fun. Returning from
+  an absence of 16 (!!!) years, nothing has really changed on that front.
 ---
 author: André
 review: >-

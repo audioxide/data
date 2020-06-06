@@ -29,6 +29,10 @@ summary: "The least I anticipated was an array of huge, theatrical arrangements
   majority of songs on News of the World are weirdly tame: there’s no
   headbang-inducing rock epic, nor is there a funky dance number."
 week: 121
+blurb: "The least I anticipated was an array of huge, theatrical arrangements
+  topped with sizzling guitar solos, but this wasn’t to be. The majority of
+  songs on News of the World are weirdly tame: there’s no headbang-inducing rock
+  epic, nor is there a funky dance number."
 ---
 author: ANDRÉ
 review: >-

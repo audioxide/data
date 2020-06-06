@@ -28,6 +28,8 @@ summary: As far as straight up heavy metal goes, I think Black Sabbath's
   Paranoid is one of the very best. It's very sincere and reliably silly. And
   when it rocks, it fucking rocks.
 week: 217
+blurb: As far as straight up heavy metal goes, Black Sabbath's Paranoid is one
+  of the very best. It's very sincere and reliably silly.
 ---
 author: André
 review: >-

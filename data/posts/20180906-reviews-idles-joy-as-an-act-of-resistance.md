@@ -29,6 +29,8 @@ summary: Refreshingly sincere and positive in a time where artists are finding
   fast-paced as one might expect of punk rock, but they retain a weight that
   often gets lost in the blasts of drums and guitars synonymous with the genre.
 week: 162
+blurb: Joy as an Act of Resistance is refreshingly sincere and positive in a
+  time where artists are finding it easy to sensationalise and despair.
 ---
 author: André
 review: >-

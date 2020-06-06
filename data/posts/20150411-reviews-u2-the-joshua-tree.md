@@ -32,6 +32,11 @@ summary: With the assistance of both Brian Eno and Daniel Lanois, U2 achieved a
   excruciating self-indulgence that turns listeners away from the band's more
   recent works
 week: 11
+blurb: With the assistance of both Brian Eno and Daniel Lanois, U2 achieved a
+  vast and powerful sound that crucially stopped itself from treading into the
+  territory of the overly bombastic. Here we experience U2 without the
+  excruciating self-indulgence that turns listeners away from the band's more
+  recent works
 ---
 author: André
 review: With the assistance of both Brian Eno and Daniel Lanois, U2 achieved a

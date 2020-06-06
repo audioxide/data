@@ -29,6 +29,9 @@ summary: Music has the Right to Children is immaculately layered. It often seems
   It’s constantly evolving. The rare moments of tranquility take your breath
   away; they feel important and momentous due to the vast textural contrast.
 week: 142
+blurb: It’s constantly evolving. The rare moments of tranquility take your
+  breath away; they feel important and momentous due to the vast textural
+  contrast.
 ---
 author: ANDRÉ
 review: >-

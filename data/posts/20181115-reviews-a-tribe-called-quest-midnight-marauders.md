@@ -29,6 +29,8 @@ summary: An exhibition of seemingly boundless creativity, each track distinct,
   thread of lounge-esque chill throughout — sit back and relax, you’re in the
   best of hands.
 week: 172
+blurb: Midnight Marauders’ tracklist is an exhibition of seemingly boundless
+  creativity, each track distinct, original, and memorable.
 ---
 author: Marcus
 review: >-

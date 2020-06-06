@@ -10,6 +10,10 @@ tags:
 featuredimage: 2017/08/vault-boy-shadow.jpg
 title: "World On Fire: the Music of Fallout 3"
 author: fred
+blurb: From Galaxy News Radio to the old-school homages of Inon Zur's ambient
+  soundtrack, Fallout 3 owes much of its brilliance to its music. Haunting
+  ambience and crackling tunes together provided the perfect accompaniment to
+  the fresh, terrifying possibilities of the Wasteland
 ---
 ### [Fred](<https://www.youtube.com/watch?v=W773ZPJhcVw>)
 #### 11\.08.02017

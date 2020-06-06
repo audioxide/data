@@ -30,6 +30,8 @@ summary: The riffs, energy, and force of will grasp from the ’60s to the prese
   equivalent of the Beats in their indifference to the status quo and their
   willingness to swivel it on the tips of their middle fingers.
 week: 128
+blurb: Tapping into the bohemian sensibilities of the era, Led Zeppelin feel
+  like a sonic equivalent of the Beats in their indifference to the status quo.
 ---
 author: Marcus
 review: >-

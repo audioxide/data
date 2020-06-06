@@ -9,6 +9,8 @@ featuredimage: 2020/01/Lovely-mutant-couliflower.jpg
 title: This frilly ape&#8217;s &#8216;Lovely mutant cauliflower&#8217; as weird
   and wonderful as it sounds
 author: andre
+blurb: It's quite the fusion of sounds, and huge credit goes to Rumerio for
+  creating something so distinctive. It's rather captivating, truth be told.
 ---
 ### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 04\.01.02020

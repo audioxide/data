@@ -17,6 +17,8 @@ tags:
 featuredimage: 2019/12/Tyler-The-Creator.jpg
 title: Our 10 favourite albums of 2019
 author: admin
+blurb: It's the end of the year, which means we're legally obliged to round up
+  our favourite albums. Here are our picks in the year of our Lorde 2019.
 ---
 #### 28\.12.02019
 ------

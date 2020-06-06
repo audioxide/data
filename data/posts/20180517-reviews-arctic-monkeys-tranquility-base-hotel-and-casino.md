@@ -28,6 +28,9 @@ summary: Hushed, husky Turner monologues drift over sophisticated arrangements
   with retro sheens, the whole affair playing out at strolling pace, as if
   basking in the seedy buzz of a make-believe underworld.
 week: 146
+blurb: Hushed, husky Turner monologues drift over sophisticated arrangements
+  with retro sheens. The whole show basks in the seedy buzz of a make-believe
+  underworld.
 ---
 author: ANDRÉ
 review: >-

@@ -28,6 +28,8 @@ pullquote: Cheesy & well-worn
 summary: AOARS is an okay take on playful, skit-heavy hip-hop, but it has some
   low points, and these are aggravated by a pretty corny superhero conceit.
 week: 203
+blurb: Krafty Kuts and Chali 2na seem to lack conviction on this album, never
+  attempting anything overly exciting, content with being serviceable.
 ---
 author: KIERAN
 review: >-

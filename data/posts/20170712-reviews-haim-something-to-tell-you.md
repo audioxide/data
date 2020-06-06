@@ -29,6 +29,9 @@ summary: Something to Tell You is an album of inoffensive and enjoyable pop
   production is surplus to requirements and can often be my main critique of
   tracks.
 week: 106
+blurb: Something to Tell You is an album of inoffensive and enjoyable pop music.
+  With strong instrumentals that step above the norm, the shiny production is
+  surplus to requirements and can often be the main pitfall of tracks.
 ---
 author: ANDRÉ
 review: '<div class="_d97"><p>Californian sisters Haim are in no hurry to

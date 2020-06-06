@@ -16,6 +16,8 @@ tags:
 featuredimage: 2017/12/Kisses.jpg
 title: Our 10 Favourite Tracks of 2017
 author: admin
+blurb: It's year's end, and that means it's time for fond remembrances. From
+  lovesick shoegazing to rock epics, here lies our favourite tracks of 2017.
 ---
 #### 13\.12.02017
 <div></div>

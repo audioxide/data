@@ -29,6 +29,10 @@ summary: It has moments of quite profound Marley charm, but such peaks are
   listen to Exodus I don't hear a great album; I hear a good album with a
   handful of iconic songs.
 week: 21
+blurb: It has moments of quite profound Marley charm, but such peaks are matched
+  by plateaus of what I can only describe as banal pleasantness. When listening
+  to Exodus I don't hear a great album; I hear a good album with a handful of
+  iconic songs.
 ---
 author: André
 review: Following failed attempts of assassination, *Exodus* featured a

@@ -29,6 +29,9 @@ summary: Nothing here feels heavy-handed or crass. OPN purposefully avoids the
   fascination. Age Of is a little unfocused at times, but it’s too intriguing
   for that to ever be a problem.
 week: 149
+blurb: Nothing feels heavy-handed or crass. OPN purposefully avoids the tired
+  tropes of electronic music, which always results in at least a degree of
+  fascination.
 ---
 author: ANDRÉ
 review: >-
