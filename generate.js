@@ -11,6 +11,8 @@ const outputBase = './dist';
 const postBase = '/posts'
 const imagesBase = '/images';
 const tagsBase = '/tags';
+const segmentDetector = /(^|\r?\n?)---\r?\n/;
+const segmentDivisor = /\r?\n---\r?\n/;
 
 let imagesSizes = [];
 const data = {};
@@ -92,12 +94,10 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
 const parseFile = async (path) => {
     const fileData = await fs.promises.readFile(inputBase + path, { encoding: 'utf8' });
     // The file has to have content, and it has to have separators
-    const splitMatch = fileData.match(/(^|\r?\n)---(\r?\n)/);
     if (fileData.length === 0
-        || !splitMatch) return;
-    const [match, start, newline] = splitMatch;
+        || !fileData.match(segmentDetector)) return;
     // Split the segments to get legal YAML
-    const segments = fileData.split(`${newline}---${newline}`);
+    const segments = fileData.split(segmentDivisor);
     // Metadata is always first, the rest is content
     const [metadataYAML, ...contentSegments] = segments;
     // Each file should at least contain some metadata
@@ -207,7 +207,7 @@ const init = async () => {
     await Promise.all(['', postBase, imagesBase, tagsBase].map(dir => {
         const checkPath = outputBase + dir;
         if (!fs.existsSync(checkPath)) {
-            return fs.promises.mkdir(checkPath);
+            return fs.promises.mkdir(checkPath, { recursive: true });
         }
         return Promise.resolve();
     }))
