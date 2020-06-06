@@ -49,7 +49,11 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
         if (!fs.existsSync(outputBase + imagesBase + outputImagePath)) {
             await fs.promises.mkdir(outputBase + imagesBase + outputImagePath, { recursive: true });
         }
-        const image = sharp(inputBase + imagesBase + imagePath);
+        const inputImageFilePath = inputBase + imagesBase + imagePath;
+        if (!fs.existsSync(inputImageFilePath)) {
+            throw Error(`"${path}" uses "${inputImageFilePath}" but the image could not be found.`);
+        }
+        const image = sharp(inputImageFilePath);
         await Promise.all(
             imagesSizes.map(([label, { w, h }]) => {
                 const sizePath = `${imagesBase}${outputImagePath}${outputImageFile}-${label}${extension}`;
@@ -88,10 +92,12 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
 const parseFile = async (path) => {
     const fileData = await fs.promises.readFile(inputBase + path, { encoding: 'utf8' });
     // The file has to have content, and it has to have separators
+    const splitMatch = fileData.match(/(^|\r?\n)---(\r?\n)/);
     if (fileData.length === 0
-        || !fileData.match(/(^|\n)---\n/g)) return;
+        || !splitMatch) return;
+    const [match, start, newline] = splitMatch;
     // Split the segments to get legal YAML
-    const segments = fileData.split('\n---\n');
+    const segments = fileData.split(`${newline}---${newline}`);
     // Metadata is always first, the rest is content
     const [metadataYAML, ...contentSegments] = segments;
     // Each file should at least contain some metadata

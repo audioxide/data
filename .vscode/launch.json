@@ -8,6 +8,9 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
+            "runtimeArgs": [
+                "--unhandled-rejections=strict"
+            ],
             "skipFiles": [
                 "<node_internals>/**"
             ],
