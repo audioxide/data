@@ -8,7 +8,7 @@
   "license": "CC-BY-NC-SA-4.0",
   "private": false,
   "scripts": {
-    "dev": "yarn && node generate.js && npx http-server dist -p 8888 --cors -c-1"
+    "dev": "yarn && node --unhandled-rejections=strict generate.js && npx http-server dist -p 8888 --cors -c-1"
   },
   "dependencies": {
     "jsdom": "^16.2.2",
