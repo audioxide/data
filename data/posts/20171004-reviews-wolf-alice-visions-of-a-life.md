@@ -28,7 +28,7 @@ pullquote: Rock’s overdue renaissance
 summary: Whereas My Love is Cool was guilty of trying too hard, no such thing
   can be said of Visions. The riffs roar and the melodies soar, with the band
   playing beautifully to Ellie Rowsell's strengths.
-week: .nan
+week: 118
 blurb: A triumph of contemporary British rock. The riffs roar and the melodies
   soar, with the band playing beautifully to Ellie Rowsell's strengths.
 ---
