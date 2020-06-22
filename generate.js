@@ -219,6 +219,13 @@ const init = async () => {
         generateResponse(data.authors, 'authors'),
         generateResponse(Object.keys(tagGrouping), 'tags'),
         ...Object.entries(tagGrouping).map(([tag, post]) => generateResponse(post.map(post => post.metadata), `tags/${tag}`)),
+        generateResponse(typeGrouping.reviews.slice(0, 22).map(({ metadata }) => ({
+            image: metadata.featuredimage['small-square'],
+            score: metadata.totalscore.given,
+            artist: metadata.artist,
+            album: metadata.album,
+            slug: metadata.slug,
+        })), 'albumbanner'),
     ]);
 };
 
