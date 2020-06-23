@@ -79,6 +79,9 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
             if ('content' in yaml) {
                 yaml.content = mdConverter.makeHtml(yaml.content);
             }
+            if ('body' in yaml) {
+                yaml.body = mdConverter.makeHtml(yaml.body);
+            }
             parsed = yaml;
         } catch {}
         if (parsed) return parsed;
