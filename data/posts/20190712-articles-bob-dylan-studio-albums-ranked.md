@@ -29,7 +29,7 @@ Anyway, here are Dylan’s 38 studio albums ranked from worst to best. I’m fai
 
 ### 38\. *Down in the Groove* (1988)
 
-![](<https://audioxide.com/wp-content/uploads/2019/07/Down-in-the-Groove.jpg> =1000x1000)
+![Album artwork of 'Down in the Groove' by Bob Dylan](<https://audioxide.com/wp-content/uploads/2019/07/Down-in-the-Groove.jpg> =1000x1000)
 
 Not many people have heard of this one, and rightly so. It’s Dylan at his most disappointing, following up 1987’s (mostly) mediocre *Knocked Out Loaded* with something even worse. He’d clearly decided to stop trying. The only track worthy of note is the jaunty “Silvio”, co-written with The Grateful Dead. It’s fun and features several ‘woop-woops’, but it’s not very Dylan.
 
