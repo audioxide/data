@@ -1,5 +1,5 @@
 ---
-name: Andrew
+name: Andrew Bridge
 links:
   twitter: andrewbridge
   github: andrewbridge
