@@ -5,6 +5,9 @@ slug: bob-dylan-studio-albums-ranked
 type: articles
 tags:
   - bob dylan
+  - david bowie
+  - frank zappa
+  - u2
 featuredimage: 2019/06/Featured-image.jpg
 title: "Mr. Tambourine Fan: Bob Dylan&#8217;s studio albums ranked"
 author: charlie-clissitt
@@ -205,66 +208,106 @@ Dylan almost left the slow version of “Forever Young” off the album when his
 
 However, it’s actually the work of Mick Taylor that provides the album highlight, his brilliant flourishes on guitar combining with Dylan’s vivid, lyrical brilliance in “I And I”. Bafflingly, Dylan couldn’t find space on *Infidels* for “Blind Willie McTell”, an atmospheric, piano-driven number that deserves a space on *any* Dylan album. It’s one of his greatest compositions, and nobody’s sure why it got left behind.
 
-12. ## 12\. *Love and Theft* (2001)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Love-and-Theft.jpg> =1000x1000)Dylan started the millennium with a bang; *Love and Theft *really packs a punch. During a press conference in Rome shortly before the album’s release, a reporter told Dylan that it was ‘the first Dylan album you can dance to’, to which he replied: ‘Oh, I’m sorry’. People weren’t ready for the raunchy swagger of *Love and Theft*, especially given the largely slow, reflective nature of its predecessor (1997’s *Time Out Of Mind*), but nobody was complaining, either.
-The songs are mostly a mix of electric blues, roots rock, and punchy folk (with a bit of jazz thrown in). Amidst the record’s noise and fun (“Lonesome Day Blues” has both of these in abundance), there is the magnificent “Mississippi”; a jangly, five-minute number that Dylan rescued from his *Time Out Of Mind *outtakes. The song ranked a respectable 260th on *Rolling Stone’s *list of the ‘500 Greatest Songs Of All Time’ — not bad for a man who was supposedly 25 years past his prime.
+### 12\. *Love and Theft* (2001)
 
-11. ## 11\. *New Morning* (1970)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/New-Morning.jpg> =1000x1000)*New Morning *is probably Dylan’s happiest album. It marked a shift to a more ‘conventional’ style of songwriting after the silliness of *Self Portrait*, and Dylan sounds quite cheery about the whole thing. The music has a soft, inoffensive sound, and Dylan’s singing is the least contrived of his career — no nasal drawl or soft croon, just straight-down-the-middle singing.
+![](<https://audioxide.com/wp-content/uploads/2019/07/Love-and-Theft.jpg> =1000x1000)
+
+Dylan started the millennium with a bang; *Love and Theft* really packs a punch. During a press conference in Rome shortly before the album’s release, a reporter told Dylan that it was ‘the first Dylan album you can dance to’, to which he replied: ‘Oh, I’m sorry’. People weren’t ready for the raunchy swagger of *Love and Theft*, especially given the largely slow, reflective nature of its predecessor (1997’s *Time Out Of Mind*), but nobody was complaining, either.
+
+The songs are mostly a mix of electric blues, roots rock, and punchy folk (with a bit of jazz thrown in). Amidst the record’s noise and fun (“Lonesome Day Blues” has both of these in abundance), there is the magnificent “Mississippi”; a jangly, five-minute number that Dylan rescued from his *Time Out Of Mind *outtakes. The song ranked a respectable 260th on *Rolling Stone*’s list of the ‘500 Greatest Songs Of All Time’ - not bad for a man who was supposedly 25 years past his prime.
+
+### 11\. *New Morning* (1970)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/New-Morning.jpg> =1000x1000)
+
+*New Morning* is probably Dylan’s happiest album. It marked a shift to a more ‘conventional’ style of songwriting after the silliness of *Self Portrait*, and Dylan sounds quite cheery about the whole thing. The music has a soft, inoffensive sound, and Dylan’s singing is the least contrived of his career — no nasal drawl or soft croon, just straight-down-the-middle singing.
+
 Most of the songs are simple, piano-backed pieces (sometimes piano is the only backing you get), but it’s when the whole band comes together that the album really enters its stride – particularly in the uplifting title track, and the excellent “The Man In Me”. There’s a time and a place for Dylan’s challenging side, but it’s not here.
 
-10. ## 10\. *Time Out of Mind* (1997)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Time-Out-of-Mind.jpg> =1000x1000)The artistic comeback of all artistic comebacks, *Time Out Of Mind *showed the music world that Dylan still had it. Joining up once again with U2 producer Daniel Lanois, Dylan put out his best record for over 20 years. From the menacing “Lovesick” to the vast, 16-minute “Highlands” (Dylan’s longest song), there isn’t a weak track on this record. Lanois’s trademark ‘swampy’ production washes over every song, blending together distant guitar sounds and muffled drum beats seamlessly behind Dylan’s voice.
-Amidst all the great songs, there is one masterpiece: the sublime “Not Dark Yet”. It’s a stunning reflection on mortality, featuring echoing guitar chords and some of Dylan’s most philosophical lyrics, including the ominous refrain, ‘It’s not dark yet, but it’s getting there’. Strangely, Dylan was so unhappy with Lanois’s production on *Time Out Of Mind *that he’s been his own producer ever since.
+### 10\. *Time Out of Mind* (1997)
 
-9. ## 9\. *Street-Legal* (1978)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Street-Legal.jpg> =1000x1000)*Street-Legal *was Dylan’s seriously underrated switch to pop-rock, marking a conscious shift to a more tight, polished, and commercial sound. The joyous atmosphere of the album has a strangely addictive quality, and Steve Douglas’s regular bursts of saxophone are timed to perfection.
+![](<https://audioxide.com/wp-content/uploads/2019/07/Time-Out-of-Mind.jpg> =1000x1000)
+
+The artistic comeback of all artistic comebacks, *Time Out Of Mind* showed the music world that Dylan still had it. Joining up once again with U2 producer Daniel Lanois, Dylan put out his best record for over 20 years. From the menacing “Lovesick” to the vast, 16-minute “Highlands” (Dylan’s longest song), there isn’t a weak track on this record. Lanois’s trademark ‘swampy’ production washes over every song, blending together distant guitar sounds and muffled drum beats seamlessly behind Dylan’s voice.
+
+Amidst all the great songs, there is one masterpiece: the sublime “Not Dark Yet”. It’s a stunning reflection on mortality, featuring echoing guitar chords and some of Dylan’s most philosophical lyrics, including the ominous refrain, ‘It’s not dark yet, but it’s getting there’. Strangely, Dylan was so unhappy with Lanois’s production on *Time Out Of Mind* that he’s been his own producer ever since.
+
+### 9\. *Street-Legal* (1978)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Street-Legal.jpg> =1000x1000)
+
+*Street-Legal* was Dylan’s seriously underrated switch to pop-rock, marking a conscious shift to a more tight, polished, and commercial sound. The joyous atmosphere of the album has a strangely addictive quality, and Steve Douglas’s regular bursts of saxophone are timed to perfection.
+
 Tracks like “Changing of the Guards” and “No Time to Think” have a hypnotic repetitiveness, and they’re some of the most lyrically ambitious songs that Dylan ever put on record (the rhyming of ‘decoys’ with ‘turquoise’ is particularly imaginative). Billy Cross’s guitar solo in “True Love Tends to Forget” is another highlight, along with the triumphant album closer, “Where Are You Tonight?”, which Dylan sings with infectious energy.
 
-8. ## 8\. *Another Side of Bob Dylan* (1964)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Another-Side-of-Bob-Dylan.jpg> =1000x1000)Recorded in just one evening, *Another Side of Bob Dylan* was Dylan’s final album before going electric. In hindsight, the signs were all there; he adds piano to his music for the first time, he sings about sex, and he stops addressing any big political issues (‘there aren’t any finger-pointin’ songs’, Dylan told *The New Yorker* at the time). Almost half of the album is a little frothy, particularly the first three tracks, but the other half of the album is magnificent: a tour-de-force of vivid lyricism and ingenious songwriting, ranging from the dazzling verses of “Chimes of Freedom” and “My Back Pages” to the near-perfect “It Ain’t Me Babe”. Dylan left behind some superb outtakes from the lone recording session, including “Mr. Tambourine Man”, which he wisely chose to revisit a year later.
+### 8\. *Another Side of Bob Dylan* (1964)
 
-7. ## 7\. *Desire* (1976)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Desire.jpg> =1000x1000)There’s a lot going on in *Desire*. Dylan co-wrote the album with theatre director (and clinical psychologist) Jacques Levy, so it’s no surprise that the album begins with stage directions: ‘Pistol shots ring out in the barroom night. Enter Patty Valentine from the upper hall’.
+![](<https://audioxide.com/wp-content/uploads/2019/07/Another-Side-of-Bob-Dylan.jpg> =1000x1000)
+
+Recorded in just one evening, *Another Side of Bob Dylan* was Dylan’s final album before going electric. In hindsight, the signs were all there; he adds piano to his music for the first time, he sings about sex, and he stops addressing any big political issues (‘there aren’t any finger-pointin’ songs’, Dylan told *The New Yorker* at the time). Almost half of the album is a little frothy, particularly the first three tracks, but the other half of the album is magnificent: a tour-de-force of vivid lyricism and ingenious songwriting, ranging from the dazzling verses of “Chimes of Freedom” and “My Back Pages” to the near-perfect “It Ain’t Me Babe”. Dylan left behind some superb outtakes from the lone recording session, including “Mr. Tambourine Man”, which he wisely chose to revisit a year later.
+
+### 7\. *Desire* (1976)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Desire.jpg> =1000x1000)
+
+There’s a lot going on in *Desire*. Dylan co-wrote the album with theatre director (and clinical psychologist) Jacques Levy, so it’s no surprise that the album begins with stage directions: ‘Pistol shots ring out in the barroom night. Enter Patty Valentine from the upper hall’.
+
 The opener, “Hurricane”, is one of Dylan’s greatest storytelling songs, combining his fiercely-delivered verses and Scarlet Rivera’s swirling violin with a foot-tapping rhythm, plus a seriously catchy chorus. The narrative style of the song sets the tone for the rest of the album; Dylan tells tales of Egyptian tomb raiders, Italian mobsters, Mexican outlaws, and – on a more personal level — his wife Sara (who he would divorce a year later).
+
 Rivera’s violin snakes its way through every song, joined by a rather international ensemble of instruments along the way, including mandolins, congos, accordions, and bouzoukis.
 
-6. ## 6\. *The Freewheelin’ Bob Dylan* (1963)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/The-Freewheelin-Bob-Dylan.jpg> =1000x1000)This is the album that turned Dylan into ‘the Spokesman of a Generation’. Following on from his largely covers-based debut, Dylan tried his hand at songwriting and found out he was rather good at it. Before his 22nd birthday, Dylan had crafted three timeless folk anthems; “Blowin’ in the Wind”, “Masters of War”, and the lyrically spellbinding “A Hard Rain’s a-Gonna Fall”. In his poetic visions of apocalypse, nuclear war, and widespread human suffering, Dylan well and truly staked his claim as the most important songwriter of the 1960s.
-*The Freewheelin’ Bob Dylan *also has an equally brilliant romantic side, found in songs like “Girl from the North Country” and “Don’t Think Twice, It’s Alright”. As the album continually switches between the political and the personal, it feels as if Dylan is still working out exactly what he wants his focus to be.
+### 6\. *The Freewheelin’ Bob Dylan* (1963)
 
-5. ## 5\. *The Times They Are a-Changin’* (1964)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/The-Times-They-Are-a-Changin.jpg> =1000x1000)Just half a year after the release of *The Freewheelin’ Bob Dylan*, the up-and-coming singer-songwriter put out his third album, and it was decidedly darker than its predecessor.
-*The Times They Are A-Changin’ *is a bleak, powerful record, painting scenes of crushing rural poverty, murder, racial injustice, and bitterly collapsed relationships. The instrumentation is sparse (Dylan plays nothing more than his acoustic guitar and harmonica for the entirety of the record), but there’s a stark beauty to it.
+![](<https://audioxide.com/wp-content/uploads/2019/07/The-Freewheelin-Bob-Dylan.jpg> =1000x1000)
+
+This is the album that turned Dylan into ‘the Spokesman of a Generation’. Following on from his largely covers-based debut, Dylan tried his hand at songwriting and found out he was rather good at it. Before his 22nd birthday, Dylan had crafted three timeless folk anthems; “Blowin’ in the Wind”, “Masters of War”, and the lyrically spellbinding “A Hard Rain’s a-Gonna Fall”. In his poetic visions of apocalypse, nuclear war, and widespread human suffering, Dylan well and truly staked his claim as the most important songwriter of the 1960s.
+*The Freewheelin’ Bob Dylan* also has an equally brilliant romantic side, found in songs like “Girl from the North Country” and “Don’t Think Twice, It’s Alright”. As the album continually switches between the political and the personal, it feels as if Dylan is still working out exactly what he wants his focus to be.
+
+### 5\. *The Times They Are a-Changin’* (1964)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/The-Times-They-Are-a-Changin.jpg> =1000x1000)
+
+Just half a year after the release of *The Freewheelin’ Bob Dylan*, the up-and-coming singer-songwriter put out his third album, and it was decidedly darker than its predecessor.
+*The Times They Are A-Changin’* is a bleak, powerful record, painting scenes of crushing rural poverty, murder, racial injustice, and bitterly collapsed relationships. The instrumentation is sparse (Dylan plays nothing more than his acoustic guitar and harmonica for the entirety of the record), but there’s a stark beauty to it.
+
 From the rousing, title-track opener to the concluding “Restless Farewell”, the album is a stunning piece of work, perfectly showcasing Dylan’s knack for emotional storytelling. His fictional tales are evocative stuff (particularly “Ballad of Hollis Brown” with its grim conclusion), but it’s when Dylan eventually turns to the real life murder of Hattie Carroll that the record truly peaks.
 
-4. ## 4\. *Bringing it All Back Home* (1965)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Bringing-It-All-Back-Home.jpg> =1000x1000)Ironically, *Bringing It All Back Home *was very unfamiliar territory for Dylan. After four albums of hard-hitting protest songs and folk ballads, he took a left turn and switched to rock ‘n’ roll.
-The first half of *Bringing It All Back Home *is a crashing, thumping performance of first-rate rock songs, beginning with inimitable “Subterranean Homesick Blues”. In this tour-de-force of vehement folk abandonment, Dylan talks proto-rap style through four quickfire verses, punctuated by delicious blasts on his harmonica.
+### 4\. *Bringing it All Back Home* (1965)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Bringing-It-All-Back-Home.jpg> =1000x1000)
+
+Ironically, *Bringing It All Back Home* was very unfamiliar territory for Dylan. After four albums of hard-hitting protest songs and folk ballads, he took a left turn and switched to rock ‘n’ roll.
+
+The first half of *Bringing It All Back Home* is a crashing, thumping performance of first-rate rock songs, beginning with inimitable “Subterranean Homesick Blues”. In this tour-de-force of vehement folk abandonment, Dylan talks proto-rap style through four quickfire verses, punctuated by delicious blasts on his harmonica.
+
 The second half of the record is a far less ferocious affair (there are no drums or loud guitars), featuring a run of four near-perfect songs. “Mr. Tambourine Man” is the best one there — made beautiful by Bruce Langhorne’s delicate accompaniment on electric guitar — but it’s in excellent company. Lyrically speaking, things don’t get much better than the nihilistic poetry of “It’s Alright Ma (I’m Only Bleeding)”.
 
-3. 3. ## 3\. [*Highway 61 Revisited*](<https://audioxide.com/reviews/bob-dylan-highway-61-revisited/>) (1965)
-    <!-- -->
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Highway-61-Revisited.jpg> =1000x1000)With “Like a Rolling Stone” at the start and “Desolation Row” at the end, no Dylan album (or, perhaps, any album) wields better bookends than *Highway 61 Revisited. *Bizarrely, “Like a Rolling Stone” started out as a 20-page poem (‘a long piece of vomit’, as Dylan described it) before becoming a brilliant, sneering slice of rock ‘n’ roll.
+### 3\. *Highway 61 Revisited* (1965)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Highway-61-Revisited.jpg> =1000x1000)
+
+With “Like a Rolling Stone” at the start and “Desolation Row” at the end, no Dylan album (or, perhaps, any album) wields better bookends than *Highway 61 Revisited*. Bizarrely, “Like a Rolling Stone” started out as a 20-page poem (‘a long piece of vomit’, as Dylan described it) before becoming a brilliant, sneering slice of rock ‘n’ roll.
+
 At the other end of the record, “Desolation Row” is an entirely different kettle of fish, comprising 11 glorious minutes of ethereal lyrics, Charlie McCoy’s sublime improvisations on acoustic guitar, and two blistering harmonica solos at the end. Dylan populates the song with an ambitiously wide-ranging cast of characters, including Biblical figures, eminent poets, English outlaws, American actresses, and Shakespearean heroes.
+
 At the heart of the album is “Ballad of a Thin Man”, Dylan’s fiery attack on a certain ‘Mr Jones’. He plays lead piano in this song, slamming his way through sombre chords and lampooning his target. It’s brilliant stuff (and Dylan’s first song to feature a middle eight). After *Highway 61 Revisited*, Dylan would never get rock so right again.
 
-## 2\. *Blood on the Tracks* (1975)
-![](<https://audioxide.com/wp-content/uploads/2019/07/Blood-on-the-Tracks.jpg> =1000x1000)It’s fascinating what marital estrangement can do for your creativity. In 1975, a year after the passable *Planet Waves *and with his marriage to Sara Lownds on the rocks, Dylan released one of his greatest records. *Blood on the Tracks *is a stunningly beautiful, mostly stripped back album, comprising ten outstanding songs that are all as good as each other. Many people have assumed the album is autobiographical (Dylan’s son, Jakob, has described the songs as ‘my parents talking’), but Dylan himself has quashed the idea, claiming that it was inspired by the short stories of Anton Chekhov.
-Either way, *Blood on the Tracks *is a far cry from Dylan’s esoteric lyrics of the 1960s, focusing almost entirely on the painful erosion of love. Some songs deal tenderly with the subject, such as the captivating “If You See Her, Say Hello”, while others take a more bitter approach, particularly the indomitable “Idiot Wind”, which Dylan practically howls his way through. By the final few verses of the album closer, “Buckets Of Rain”, Dylan sounds totally spent, as if he’s just completed some kind of catharsis.
+Read [the full *Audioxide* review of *Highway 61 Revisited*](https://audioxide.com/reviews/bob-dylan-highway-61-revisited/) →
 
-1. ## 1\. *Blonde on Blonde* (1966)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Blonde-on-Blonde.jpg> =1000x1000)This is Dylan’s magnum opus: a sprawling double album of coruscating folk-rock utterly unlike anything else on record. More than a decade after its release, Dylan himself reflected: ‘The closest I ever got to the sound I hear in my mind was … in the *Blonde on Blonde *album. It’s that thin, that wild mercury sound. It’s metallic and bright gold, with whatever that conjures up’.
+## 2\. *Blood on the Tracks* (1975)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Blood-on-the-Tracks.jpg> =1000x1000)
+
+It’s fascinating what marital estrangement can do for your creativity. In 1975, a year after the passable *Planet Waves* and with his marriage to Sara Lownds on the rocks, Dylan released one of his greatest records. *Blood on the Tracks* is a stunningly beautiful, mostly stripped back album, comprising ten outstanding songs that are all as good as each other. Many people have assumed the album is autobiographical (Dylan’s son, Jakob, has described the songs as ‘my parents talking’), but Dylan himself has quashed the idea, claiming that it was inspired by the short stories of Anton Chekhov.
+
+Either way, *Blood on the Tracks* is a far cry from Dylan’s esoteric lyrics of the 1960s, focusing almost entirely on the painful erosion of love. Some songs deal tenderly with the subject, such as the captivating “If You See Her, Say Hello”, while others take a more bitter approach, particularly the indomitable “Idiot Wind”, which Dylan practically howls his way through. By the final few verses of the album closer, “Buckets Of Rain”, Dylan sounds totally spent, as if he’s just completed some kind of catharsis.
+
+### 1\. *Blonde on Blonde* (1966)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Blonde-on-Blonde.jpg> =1000x1000)
+
+This is Dylan’s magnum opus: a sprawling double album of coruscating folk-rock utterly unlike anything else on record. More than a decade after its release, Dylan himself reflected: ‘The closest I ever got to the sound I hear in my mind was … in the *Blonde on Blonde* album. It’s that thin, that wild mercury sound. It’s metallic and bright gold, with whatever that conjures up’.
+
 To realise the sound in his mind, Dylan took an unconventional route; he went to Nashville and hired country musicians to play a rock album. The record is a brilliantly versatile mix of bluesy, folky rock ‘n’ roll, opening with the raucous, brass-backed “Rainy Day Women #12 & 35” and closing with the enchanting carnival music of “Sad Eyed Lady of the Lowlands”. Dylan’s lyrics oscillate between the visionary and mystifying to the downright bawdy, colouring the record with colloquialisms, poetic expressions, and dozens of eccentric characters.
-If there’s one song that lifts *Blonde on Blonde *above *Blood on the Tracks*, it’s “Visions Of Johanna” — the surreal, seven-minute ramblings of a man utterly incapable of taking his mind off Johanna. Backed by Joe South’s rhythmically perfect bassline and Kenny Buttrey’s understated drumming, Dylan drawls his way through the greatest lyrics of his career, stopping only for flourishes on his harmonica. Not many musicians have mastered the art of the double album, but *Blonde On Blonde *is a decent template to follow.
+
+If there’s one song that lifts *Blonde on Blonde *above *Blood on the Tracks*, it’s “Visions Of Johanna” — the surreal, seven-minute ramblings of a man utterly incapable of taking his mind off Johanna. Backed by Joe South’s rhythmically perfect bassline and Kenny Buttrey’s understated drumming, Dylan drawls his way through the greatest lyrics of his career, stopping only for flourishes on his harmonica. Not many musicians have mastered the art of the double album, but *Blonde On Blonde* is a decent template to follow.
