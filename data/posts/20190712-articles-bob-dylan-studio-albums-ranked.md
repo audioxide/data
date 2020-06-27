@@ -23,7 +23,7 @@ Anyway, here are Dylan’s 38 studio albums ranked from worst to best. I’m fai
 
 ------
 
-## 38\. *Down in the Groove* (1988)
+### 38\. *Down in the Groove* (1988)
 
 ![](https://audioxide.com/wp-content/uploads/2019/07/Down-in-the-Groove.jpg =1000x)
 
