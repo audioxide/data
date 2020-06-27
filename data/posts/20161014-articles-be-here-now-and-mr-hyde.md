@@ -14,7 +14,7 @@ blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented
   legion of Yes Men, Oasis produced something profoundly overblown in their
   third studio album.
   
------
+---
 
 ![Liam Gallagher circa 1997](<https://audioxide.com/wp-content/uploads/2016/10/Liam-1024x1024.jpg> =680x680 "Liam Gallagher circa 1997")
 
