@@ -292,7 +292,7 @@ At the other end of the record, “Desolation Row” is an entirely different ke
 
 At the heart of the album is “Ballad of a Thin Man”, Dylan’s fiery attack on a certain ‘Mr Jones’. He plays lead piano in this song, slamming his way through sombre chords and lampooning his target. It’s brilliant stuff (and Dylan’s first song to feature a middle eight). After *Highway 61 Revisited*, Dylan would never get rock so right again.
 
-Read [the full *Audioxide* review of *Highway 61 Revisited*](https://audioxide.com/reviews/bob-dylan-highway-61-revisited/) →
+[**Read the full *Audioxide* review of *Highway 61 Revisited***](https://audioxide.com/reviews/bob-dylan-highway-61-revisited/) →
 
 ## 2\. *Blood on the Tracks* (1975)
 
