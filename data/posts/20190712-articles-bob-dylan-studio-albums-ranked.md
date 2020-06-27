@@ -25,10 +25,12 @@ Anyway, here are Dylan’s 38 studio albums ranked from worst to best. I’m fai
 ------
 
 ## 38\. *Down in the Groove* (1988)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Down-in-the-Groove.jpg> =1000x1000)Not many people have heard of this one, and rightly so. It’s Dylan at his most disappointing, following up 1987’s (mostly) mediocre *Knocked Out Loaded *with something even worse. He’d clearly decided to stop trying. The only track worthy of note is the jaunty “Silvio”, co-written with The Grateful Dead. It’s fun and features several ‘woop-woops’, but it’s not very Dylan.
 
-37. ## 37\. *Triplicate* (2017)
+![](<https://audioxide.com/wp-content/uploads/2019/07/Down-in-the-Groove.jpg> =1000x1000)
+
+Not many people have heard of this one, and rightly so. It’s Dylan at his most disappointing, following up 1987’s (mostly) mediocre *Knocked Out Loaded* with something even worse. He’d clearly decided to stop trying. The only track worthy of note is the jaunty “Silvio”, co-written with The Grateful Dead. It’s fun and features several ‘woop-woops’, but it’s not very Dylan.
+
+## 37\. *Triplicate* (2017)
 <!-- -->
 ![](<https://audioxide.com/wp-content/uploads/2019/07/Triplicate.jpg> =1000x1000)After releasing two whole albums of syrupy Sinatra covers that nobody really wanted, Dylan thought he’d release a *triple *album with even more syrup. It’s an overwhelmingly long record (30 songs), and the plodding instrumentation doesn’t do much to keep listeners engaged. *Triplicate’s *opening track, “I Guess I’ll Have To Change My Plans”, is pleasantly upbeat, but after that it’s a dreary road ahead.
 
