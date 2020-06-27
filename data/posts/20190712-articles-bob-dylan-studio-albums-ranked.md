@@ -30,36 +30,52 @@ Anyway, here are Dylan’s 38 studio albums ranked from worst to best. I’m fai
 Not many people have heard of this one, and rightly so. It’s Dylan at his most disappointing, following up 1987’s (mostly) mediocre *Knocked Out Loaded* with something even worse. He’d clearly decided to stop trying. The only track worthy of note is the jaunty “Silvio”, co-written with The Grateful Dead. It’s fun and features several ‘woop-woops’, but it’s not very Dylan.
 
 ## 37\. *Triplicate* (2017)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Triplicate.jpg> =1000x1000)After releasing two whole albums of syrupy Sinatra covers that nobody really wanted, Dylan thought he’d release a *triple *album with even more syrup. It’s an overwhelmingly long record (30 songs), and the plodding instrumentation doesn’t do much to keep listeners engaged. *Triplicate’s *opening track, “I Guess I’ll Have To Change My Plans”, is pleasantly upbeat, but after that it’s a dreary road ahead.
 
-36. ## 36\. *Fallen Angels* (2016)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Fallen-Angels.jpg> =1000x1000)The second album of Dylan’s ‘Sinatra period’ is a marginally more interesting affair, but it’s lacking a lot of inspiration. *Fallen Angels *beats *Triplicate *only by being less tediously long. “Skylark” features some nice guitar work, and “That Old Black Magic” injects some energy at the end, but the album is little more than an elderly man indulging himself.
+![](<https://audioxide.com/wp-content/uploads/2019/07/Triplicate.jpg> =1000x1000)
 
-35. ## 35\. *Christmas in the Heart* (2009)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Christmas-in-the-Heart.jpg> =1000x1000)Bob Dylan singing Christmas songs just seems wrong. People generally assumed that this album of hymns, carols, and popular festive songs was ironic, but Dylan insisted otherwise. Although hard to believe, apparently he was actually feeling genuinely merry — and generous too, giving 100% of his royalties to various homeless charities. Dylan growls his way through the record, his voice often contrasting terribly with the angelic chorus of backing singers. The only song worth listening to is “Must Be Santa”, which is just jolly good Christmas fun.
+After releasing two whole albums of syrupy Sinatra covers that nobody really wanted, Dylan thought he’d release a *triple* album with even more syrup. It’s an overwhelmingly long record (30 songs), and the plodding instrumentation doesn’t do much to keep listeners engaged. *Triplicate*’s opening track, “I Guess I’ll Have To Change My Plans”, is pleasantly upbeat, but after that it’s a dreary road ahead.
 
-34. ## 34\. *Under the Red Sky* (1990)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Under-the-Red-Sky.jpg> =1000x1000)After 1989’s *Oh Mercy*, which was hailed as something of a comeback, fans expected a lot more from its follow-up. The most striking thing about *Under The Red Sky* is its weirdness; it’s dedicated to his four-year-old daughter (“Gabby Goo Goo”), it’s full of unexpected cameos (including Slash and Elton John), and half the songs feel like nursery rhymes. The opening track, “Wiggle Wiggle”, features what might be Dylan’s worst ever lyric: ‘Wiggle wiggle wiggle like a bowl of soup’. *Under The Red Sky*’s better points lie in the organ-driven “Handy Dandy” and the up-tempo “God Knows”.
+## 36\. *Fallen Angels* (2016)
 
-33. ## 33\. *Dylan* (1973)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Dylan.jpg> =1000x1000)This self-titled album was compiled and issued with no input from Dylan himself, and it’s quite easy to tell. He had recently left Columbia Records for pastures new, leaving behind a bunch of half-hearted covers that the label decided to monetize. It’s a nice collection of songs, although never anything more than that. “Sarah Jane” and “Mr. Bojangles” are fine covers, but other songs (e.g. “Big Yellow Taxi”) make you realise why this material was shelved in the first place. Perhaps Dylan’s multicoloured rainbow hair on the album’s cover is the only real highlight here.
+![](<https://audioxide.com/wp-content/uploads/2019/07/Fallen-Angels.jpg> =1000x1000)
 
-32. ## 32\. *Empire Burlesque* (1985)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Empire-Burlesque.jpg> =1000x1000)This was when the Eighties really got to Dylan. He took a handful of half-decent songs and almost ruined them with crass, overblown production. The album opener, “Tight Connection To My Heart”, is a fantastic, summery number, but the record is mostly a disappointment. Bizarrely, the album closer, “Dark Eyes”, is a purely acoustic song, breaking away from the rest of the album’s nauseating production. It’s a plaintive, stripped-back tune that shows you just what *Empire Burlesque *could have been.
+The second album of Dylan’s ‘Sinatra period’ is a marginally more interesting affair, but it’s lacking a lot of inspiration. *Fallen Angels* beats *Triplicate* only by being less tediously long. “Skylark” features some nice guitar work, and “That Old Black Magic” injects some energy at the end, but the album is little more than an elderly man indulging himself.
 
-31. ## 31\. *Knocked Out Loaded* (1986)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Knocked-Out-Loaded.jpg> =1000x1000)To put it simply, *Knocked Out Loaded* is good for one track; the 11-minute epic “Brownsville Girl”. Co-written with playwright Sam Sheppard, it might be Dylan’s best song from the 1980s (competing with 1983’s “Blind Willie McTell”). It’s as overblown as anything from *Empire Burlesque*, but in “Brownsville Girl” the contrived gusto feels essential, from the high-powered brass and energetic backing singers to Dylan’s vivid, melodramatic lyrics. In his swooping visions of vast, sunbaked deserts, faded car seat covers, and fraught love, Dylan creates some unforgettable images. Elsewhere on the album, the music is fairly routine and indifferent (including three covers). “Knocked Out Loaded” is ultimately one great song with a lot of baggage.
+## 35\. *Christmas in the Heart* (2009)
 
-30. ## 30\. *Pat Garrett and Billy the Kid* (1973)
-<!-- -->
-![](<https://audioxide.com/wp-content/uploads/2019/07/Pat-Garrett-Billy-the-Kidd.jpg> =1000x1000)Speaking of one-song albums, no Dylan record is more reliant on one track than *Pat Garrett and Billy the Kid*, his half-instrumental soundtrack for the film of the same name. Amongst some pleasant flute music and uninspiringly-named cowboy songs (“Billy 1”, “Billy 4”, “Billy 7”), there is “Knockin’ On Heaven’s Door”. During Dylan’s fairly unexceptional period between the late ‘60s and mid ‘70s, this song stands out as a bafflingly brilliant outlier. Guns N’ Roses tried their best to make it their own, but the understated, tired vocal delivery in Dylan’s original is impossible to beat (yes, that’s right: an uncoverable Dylan song).
+![](<https://audioxide.com/wp-content/uploads/2019/07/Christmas-in-the-Heart.jpg> =1000x1000)
+
+Bob Dylan singing Christmas songs just seems wrong. People generally assumed that this album of hymns, carols, and popular festive songs was ironic, but Dylan insisted otherwise. Although hard to believe, apparently he was actually feeling genuinely merry - and generous too, giving 100% of his royalties to various homeless charities. Dylan growls his way through the record, his voice often contrasting terribly with the angelic chorus of backing singers. The only song worth listening to is “Must Be Santa”, which is just jolly good Christmas fun.
+
+## 34\. *Under the Red Sky* (1990)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Under-the-Red-Sky.jpg> =1000x1000)
+
+After 1989’s *Oh Mercy*, which was hailed as something of a comeback, fans expected a lot more from its follow-up. The most striking thing about *Under The Red Sky* is its weirdness; it’s dedicated to his four-year-old daughter (“Gabby Goo Goo”), it’s full of unexpected cameos (including Slash and Elton John), and half the songs feel like nursery rhymes. The opening track, “Wiggle Wiggle”, features what might be Dylan’s worst ever lyric: ‘Wiggle wiggle wiggle like a bowl of soup’. *Under The Red Sky*’s better points lie in the organ-driven “Handy Dandy” and the up-tempo “God Knows”.
+
+## 33\. *Dylan* (1973)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Dylan.jpg> =1000x1000)
+
+This self-titled album was compiled and issued with no input from Dylan himself, and it’s quite easy to tell. He had recently left Columbia Records for pastures new, leaving behind a bunch of half-hearted covers that the label decided to monetize. It’s a nice collection of songs, although never anything more than that. “Sarah Jane” and “Mr. Bojangles” are fine covers, but other songs (e.g. “Big Yellow Taxi”) make you realise why this material was shelved in the first place. Perhaps Dylan’s multicoloured rainbow hair on the album’s cover is the only real highlight here.
+
+## 32\. *Empire Burlesque* (1985)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Empire-Burlesque.jpg> =1000x1000)
+
+This was when the Eighties really got to Dylan. He took a handful of half-decent songs and almost ruined them with crass, overblown production. The album opener, “Tight Connection To My Heart”, is a fantastic, summery number, but the record is mostly a disappointment. Bizarrely, the album closer, “Dark Eyes”, is a purely acoustic song, breaking away from the rest of the album’s nauseating production. It’s a plaintive, stripped-back tune that shows you just what *Empire Burlesque* could have been.
+
+## 31\. *Knocked Out Loaded* (1986)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Knocked-Out-Loaded.jpg> =1000x1000)
+
+To put it simply, *Knocked Out Loaded* is good for one track; the 11-minute epic “Brownsville Girl”. Co-written with playwright Sam Sheppard, it might be Dylan’s best song from the 1980s (competing with 1983’s “Blind Willie McTell”). It’s as overblown as anything from *Empire Burlesque*, but in “Brownsville Girl” the contrived gusto feels essential, from the high-powered brass and energetic backing singers to Dylan’s vivid, melodramatic lyrics. In his swooping visions of vast, sunbaked deserts, faded car seat covers, and fraught love, Dylan creates some unforgettable images. Elsewhere on the album, the music is fairly routine and indifferent (including three covers). “Knocked Out Loaded” is ultimately one great song with a lot of baggage.
+
+## 30\. *Pat Garrett and Billy the Kid* (1973)
+
+![](<https://audioxide.com/wp-content/uploads/2019/07/Pat-Garrett-Billy-the-Kidd.jpg> =1000x1000)
+
+Speaking of one-song albums, no Dylan record is more reliant on one track than *Pat Garrett and Billy the Kid*, his half-instrumental soundtrack for the film of the same name. Amongst some pleasant flute music and uninspiringly-named cowboy songs (“Billy 1”, “Billy 4”, “Billy 7”), there is “Knockin’ On Heaven’s Door”. During Dylan’s fairly unexceptional period between the late ‘60s and mid ‘70s, this song stands out as a bafflingly brilliant outlier. Guns N’ Roses tried their best to make it their own, but the understated, tired vocal delivery in Dylan’s original is impossible to beat (yes, that’s right: an uncoverable Dylan song).
 
 29. ## 29\. *Shadows in the Night* (2015)
 <!-- -->
