@@ -8,6 +8,7 @@ tags:
   - david bowie
   - frank zappa
   - u2
+  - the grateful dead
 featuredimage: 2019/06/Featured-image.jpg
 title: "Mr. Tambourine Fan: Bob Dylan&#8217;s studio albums ranked"
 author: charlie-clissitt
