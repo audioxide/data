@@ -15,9 +15,13 @@ blurb: Who would be mad enough to single-handedly rank Bob Dylan's 38 studio
 #### 12\.07.02019
 ------
 I started listening to Bob Dylan about four years ago, having put a few of his albums (pilfered from my Dad’s collection) onto my iPod Classic before a trip through Eastern Europe. It didn’t feel pretentious at the time, I swear.
-I think *Blonde On Blonde *was the first album I tried, and I found it to be pretty difficult listening. Bad singing, abrasive harmonica, overly long songs, etc. For some reason I persevered, and it wasn’t long before I was searching for Dylan box-sets on Amazon (still the best purchase I ever made).
+
+I think *Blonde On Blonde* was the first album I tried, and I found it to be pretty difficult listening. Bad singing, abrasive harmonica, overly long songs, etc. For some reason I persevered, and it wasn’t long before I was searching for Dylan box-sets on Amazon (still the best purchase I ever made).
+
 There aren’t many musical discographies quite so gargantuan as Bob Dylan’s, containing an almighty **38 studio albums**. On top of that, he’s put out 15 live albums (comprising 68 CDs), and 14 volumes of his *Bootleg Series* (that’s another 58 CDs). It turns out you can have too much of a good thing.
+
 Anyway, here are Dylan’s 38 studio albums ranked from worst to best. I’m fairly sure most of this ranking could change tomorrow, but #38 and #1 are set in stone.
+
 ------
 
 ## 38\. *Down in the Groove* (1988)
