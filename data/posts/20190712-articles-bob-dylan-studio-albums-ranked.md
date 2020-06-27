@@ -7,6 +7,7 @@ tags:
   - bob dylan
   - david bowie
   - frank zappa
+  - frank sinatra
   - u2
   - the grateful dead
 featuredimage: 2019/06/Featured-image.jpg
@@ -35,7 +36,7 @@ Not many people have heard of this one, and rightly so. It’s Dylan at his most
 
 ### 37\. *Triplicate* (2017)
 
-![](<https://audioxide.com/wp-content/uploads/2019/07/Triplicate.jpg> =1000x1000)
+![Album artwork of 'Triplicate' by Bob Dylan](<https://audioxide.com/wp-content/uploads/2019/07/Triplicate.jpg> =1000x1000)
 
 After releasing two whole albums of syrupy Sinatra covers that nobody really wanted, Dylan thought he’d release a *triple* album with even more syrup. It’s an overwhelmingly long record (30 songs), and the plodding instrumentation doesn’t do much to keep listeners engaged. *Triplicate*’s opening track, “I Guess I’ll Have To Change My Plans”, is pleasantly upbeat, but after that it’s a dreary road ahead.
 
