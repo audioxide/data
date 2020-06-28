@@ -16,7 +16,7 @@ blurb: Spotify has revolutionised how we consume music. From mood playlists to
 *Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker.*
 ------
 
-<div id="attachment_7401" style="width: 1510px" class="wp-caption alignright"><img class="wp-image-7401 size-full" src="2019/01/spencer-imbrock.jpg" alt="Woman standing in front of musical imagery" width="1500" height="1000" srcset="2019/01/spencer-imbrock.jpg 1500w, 2019/01/spencer-imbrock-300x200.jpg 300w, 2019/01/spencer-imbrock-768x512.jpg 768w, 2019/01/spencer-imbrock-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px"><p class="wp-caption-text">Image by Spencer Imbrock from Unsplash</p></div>
+<div id="attachment_7401" style="width: 1510px" class="wp-caption alignright"><img class="wp-image-7401 size-full" src="2019/01/spencer-imbrock.jpg" alt="Woman standing in front of musical imagery" width="1500" height="1000" srcset="2019/01/spencer-imbrock.jpg 1500w, 2019/01/spencer-imbrock.jpg 300w, 2019/01/spencer-imbrock.jpg 768w, 2019/01/spencer-imbrock.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px"><p class="wp-caption-text">Image by Spencer Imbrock from Unsplash</p></div>
 
 ------
 From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and access new music.

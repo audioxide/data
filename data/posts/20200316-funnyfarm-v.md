@@ -11,7 +11,7 @@ blurb: In which Soviet manufacturing holds up surprisingly well.
 ---
 ## *In which Soviet manufacturing holds up surprisingly well<br>
 *
-![](<2020/03/The-Van.jpg> =1638x1092)The band’s first gig was a riot. Literally. Halfway through the second song the pub’s occupants broke out in a fit of frustration and despair, unwilling to distance themselves from the bar but also loathe to listen to another second of such astonishing drivel.
+![](<2020/03/The-Van.jpg>)The band’s first gig was a riot. Literally. Halfway through the second song the pub’s occupants broke out in a fit of frustration and despair, unwilling to distance themselves from the bar but also loathe to listen to another second of such astonishing drivel.
 Theo Stone’s exceedingly broad presence prevented any outright violence being directed towards the band, but on reflection they decided it was best to vacate the premises. Having done so and caught their collective breath around a nearby corner, they further decided it was best that they leave town altogether.
 Elaine Gould caught up with them just as they arrived at this conclusion. She looked worryingly pleased with herself.
 ‘Where were you?’ Hazard and Sunshine said together.

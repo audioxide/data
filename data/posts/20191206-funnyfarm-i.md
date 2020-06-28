@@ -4,7 +4,7 @@ modified: 2020-03-06T12:47:33.000Z
 slug: i
 type: funnyfarm
 tags: []
-featuredimage: 2019/12/Funnyfarm-1...-Genesis.jpg
+featuredimage: 2019/12/Funnyfarm-1-Genesis.jpg
 title: "Funnyfarm I: Genesis"
 author: fred
 blurb: In the beginning there was Alan Hazard and Ray O. Sunshine. These were
@@ -12,7 +12,7 @@ blurb: In the beginning there was Alan Hazard and Ray O. Sunshine. These were
 ---
 ## *In which two hapless dreamers form a band*
 
-![](<2019/12/Funnyfarm-1...-Genesis.jpg> =1500x1000)
+![](<2019/12/Funnyfarm-1-Genesis.jpg>)
 In the beginning there was Alan Hazard and Raymond Oliver Sunshine. These were their real names.
 Hazard was a poet of sorts, which is to say he plagiarized the work of other poets. In his seemingly endless spare time he backcombed his hair and smoked cigarettes while leaning against alley walls, staring wistfully up at the moon whenever he thought someone was looking at him.
 Sunshine was a guitarist of sorts, which is to say he owned a guitar and was able to play mostly the right notes at mostly the right times. He called the guitar Betsy. Why he called it that is best left to the imagination.

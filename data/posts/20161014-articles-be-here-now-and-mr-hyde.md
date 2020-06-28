@@ -16,7 +16,7 @@ blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented
 
 ---
 
-![Liam Gallagher circa 1997](<2016/10/Liam-1024x1024.jpg> =680x680 "Liam Gallagher circa 1997")
+![Liam Gallagher circa 1997](<2016/10/Liam.jpg> =680x680 "Liam Gallagher circa 1997")
 
 Oasis’s infamous 1997 mad fer it cocaine extravaganza *Be Here Now* was re-released today, joining last week’s documentary about the band’s early years - *[Supersonic](<http://www.imdb.com/title/tt5213534/>)*. Both have generated press, which has got me thinking about the group. I have a lot of time for Oasis, which is fairly easy to get away with. I’m also quite fond of *Be Here Now*, which is harder to justify. I like it for many of the same reasons I like the band. There’s a mangled innocence about Oasis, and their third album showcases that quite well.
 

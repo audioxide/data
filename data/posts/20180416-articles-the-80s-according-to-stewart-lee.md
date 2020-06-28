@@ -19,12 +19,13 @@ summary: The most miserable man in comedy has five favourite albums from everyon
   Stewart Lee devotee vehicle? Don’t answer that.
 ---
 <figure class="wide">
+
   ![Morrissey lets himself go](2018/04/Morrissey-lets-himself-go-e1523711937859.jpg)
   <figcaption>Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke</figcaption>
 </figure>
 
 Stewart Lee is a fat British comedian known for his unfunny routines and holding audiences in contempt. As a smug, pseudointellectual leftist, I naturally hold Stewart Lee in sycophantic high regard, to such an extent that I actually write a little bit like he does when I’m writing about him, though less articulately.[^\*]
-I recently read Stewart’s book *How I Escaped My Certain Fate*, in one of the pages-long footnotes of which he lists his favourite albums of the 1980s: *Handful of Earth* by Dick Gaughan, *Hex Enduction Hour *by The Fall, *Days of Wine and Roses *by The Dream Syndicate, *Pigs on Purpose *by The Nightingales, and *Prairie School Freakout *byEleventh Dream Day.
+I recently read Stewart’s book *How I Escaped My Certain Fate*, in one of the pages-long footnotes of which he lists his favourite albums of the 1980s: *Handful of Earth* by Dick Gaughan, *Hex Enduction Hour* by The Fall, *Days of Wine and Roses* by The Dream Syndicate, *Pigs on Purpose* by The Nightingales, and *Prairie School Freakout* by Eleventh Dream Day.
 Naturally, I felt compelled to listen to all of them. Stewart Lee is quite possibly the only person on earth who looks back on the ’80s with any degree of affection, and it was clear this list held the key to why.
 Beneath the decadence and depravity of those years, was there some god-honest filth worth liking? Had I, a 20-something liberal arts graduate with no cultural clout, been wrong to dismiss an entire decade out of hand? With Stewart, who will henceforth be referred to as Stewie, as my spiritual guide, I was ready to find out. Prepared for the worst, I set off.
 
@@ -33,7 +34,7 @@ Beneath the decadence and depravity of those years, was there some god-honest fi
 This kicked things off with unexpected dignity and tenderness. The ‘80s is typically (and rightfully) associated with ruin, but *Handful of Earth* is a purer animal than that. There’s a nobleness to Gaughan’s delivery that’s utterly disarming, the songs almost mythical in their simplicity and power. As Stewie puts it, [‘He’s one of those people who’s so good at folk guitar that it almost becomes avant garde.’](<http://thequietus.com/articles/06324-stewart-lee-interview-favourite-albums?page=4>) The Scotch should be proud.
 
 <span class="pull-right">
-  ![Album artwork of 'Handful of Earth' by Dick Gaughan](<2018/04/Handful-of-Earth-small-square.jpg>)
+  ![Album artwork of 'Handful of Earth' by Dick Gaughan](<2018/04/Handful-of-Earth.jpg>)
 </span>
 
 *Handful of Earth* was made as a response to the Conservative Party sweeping to power in the 1979 election. Guaghan had a nervous breakdown and disappeared for a couple of years before returning to face down the Margaret Thatcher juggernaut with an abject defiance befitting socialists of the time (and since). [‘What seemed to be required was to openly stand up and be counted’](<http://www.dickgaughan.co.uk/discography/dsc-hoe.html>), says Gaughan.
@@ -47,7 +48,7 @@ Stewart Lee’s career is largely The Fall’s fault. I’m not saying he’s Ma
 In any case, this, [‘probably the best album of all time’](<http://thequietus.com/articles/06324-stewart-lee-interview-favourite-albums?page=5>), was more like it. A rollicking mad journey through the underworld. We have previous with The Fall, having reviewed [*This Nation’s Saving Grace*](<reviews/the-fall-this-nations-saving-grace/>) earlier this year. We dug its sleazy, delirious energy, and there’s plenty more of that knocking about in *Hex Enduction Hour*, which is indeed one hour long. It really is quite joyous in its blackened, miserable, lunatic way. It has an uncanny knack of making the world seem stupid and unnecessary — another Stewie linchpin.
 
 <span class="pull-right">
-  ![Album artwork of 'Hex Enduction Hour' by The Fall](2018/04/Hex-Enduction-Hour-small-square.jpg)
+  ![Album artwork of 'Hex Enduction Hour' by The Fall](2018/04/Hex-Enduction-Hour.jpg)
 </span>
 
 *Hex Enduction Hour* is no great surprise as a choice for Stewie. He’s a faithful MES disciple. Remember when he was a thin, insufferable yob with an earring and floppy hair in the ‘90s? I can’t either, but there are YouTube videos of it. It happened. It was a proper post-punk vibe. The Fall inspired all manner of alternative artists, so it only makes sense for alternative comedians to be among them.
@@ -61,7 +62,7 @@ MES and SL are kindred spirits here. Blackened, hateful spirits, but spirits all
 Moving on from the irredeemable farce of Stewie’s origin story, *The Days of Wine and Roses *glides in with sophistication and elegance. A lot of the same energies as *Hex Enduction Hour *are here, but the finish is slicker. This is extra impressive given the album was [recorded and mixed in three consecutive night sessions, from midnight to 8am](<https://www.stevewynn.net/days_of_wine_and_roses.php>). It sounds phenomenal. The record channels post-punk, 2-tone, and other genres with names. It’s good fun with marvellous energy.
 
 <span class="pull-right">
-  ![Album artwork of 'The Days of Wine and Roses' by The Dream Syndicate](2018/04/The-Days-of-Wine-and-Roses-square-small.jpg)
+  ![Album artwork of 'The Days of Wine and Roses' by The Dream Syndicate](2018/04/The-Days-of-Wine-and-Roses.jpg)
 </span>
 
 In a lot of ways Stewie’s sets are like records; they’re the same every time, but that doesn’t matter if the one time is good enough. Albums at their best are sublime moments captured in ember, and the same can arguably be said of stand up routines, though that would of course be ridiculous.
@@ -74,7 +75,7 @@ The Dream Syndicate presumably practiced a lot to be ready to make The Moment co
 Initially I didn’t think this was as good as the others. Having had time and repeat listens to think about it, I still don’t. *Pigs on Purpose* is yet another post-punk serving, and a decent one at that, with more of the faux-unfiltered, yobbish charm we know and tolerate.
 
 <span class="pull-right">
-  ![Album artwork of 'Pigs on Purpose' by The Nightingales](2018/04/Pigs-on-Purpose-small-square.jpg)
+  ![Album artwork of 'Pigs on Purpose' by The Nightingales](2018/04/Pigs-on-Purpose.jpg)
 </span>
 
 Stewie claims, [‘In 1982, The Nightingales were the Birmingham Fall, and The Fall were the Manchester Nightingales, and it could have gone either way.’](<http://thequietus.com/articles/06324-stewart-lee-interview-favourite-albums?page=5>) Be this as it may, the production lets the album down. The trick of *Hex Enduction Hour *and *The Days of Wine and Roses *is their loose, frenetic energies are at the same time strangely immaculate, giving you the best of both worlds. *Pigs on Purpose*, however, sounds as you’d expect a low-cost post-punk band from the midlands to sound.
@@ -86,7 +87,7 @@ Does it have the raw energy of *Hex Enduction Hour*? No. Does it bottle lightni
 This might be the best of them. It listens like a marvelous jam, which it basically was. Recorded [‘on a hot pollution alert day during July 1987 in Louisville, Kentucky … between 11pm and 5am,’](<https://www.thetimes.co.uk/article/eleventh-day-dream-prairie-school-freakout-ch9kkz25sq7>) It seems appropriate that half that time was spent ‘trying to fix the wild buzz coming out of [guitarist] Rick’s amp.’ *P**rairie School Freakout *is nothing if not a mad buzz. It’s relentlessly brilliant.
 
 <span class="pull-right">
-  ![Album artwork of 'Prairie School Freakout' by Eleventh Dream Day](2018/04/Prairie-School-Freakout-small-square.jpg)
+  ![Album artwork of 'Prairie School Freakout' by Eleventh Dream Day](2018/04/Prairie-School-Freakout.jpg)
 </span>
 
 Stewie has a thing for spontaneity, and this caters to that nicely. Although his sets are laboriously scripted and refined over months, dashes of improvisation are one of his favourite aspects of performing. He doesn’t overdo it, because he isn’t funny in real life, but it’d unthinkable for Stewie not to dedicate parts of his acts to responding to the energies of the room.

@@ -12,7 +12,7 @@ blurb: In which the band members sign away their children’s inheritances. And
 ---
 ## *In which the band members sign away their children’s inheritances. And their grandchildren’s*
 
-![Funnyfarm: Good as Gould](<2020/03/Good-as-Gould.jpg> =1886x1257)
+![Funnyfarm: Good as Gould](<2020/03/Good-as-Gould.jpg>)
 Laina Gould had an eye for talent, an ear for hits, and a nose for the finest cocaine north of Grimsby. These qualities had contributed to a career that had been nothing if not eventful – the bits she could remember at any rate – and a personal fortune that had been nothing if not depleted. She was, as the old saying goes, finished. Washed up. Yesterday’s news. Broke.
 For years she had been the record label’s darling, seeking out marketable talent, wooing them into signing contracts they didn’t understand, and making for the nearest exit when they’d realised what had happened. She fully believed in artists finding an audience. She also believed in being paid a healthy percentage of their earnings when it happened. Liam Dowdry & The Dreadful News? That was her. Fio Morden? You bet. Half of Britain’s finest artists were nurtured under Laina Gould’s bleached blonde wing.
 Given her own contribution to the music industry’s nastiness, Gould should perhaps have been better prepared to be on the receiving end of it. The label, pressured by shareholders who were ‘deeply concerned’ by her diminishing returns and ballooning expenses, cut her loose.
