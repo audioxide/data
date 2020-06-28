@@ -20,7 +20,7 @@ blurb: However grotesque Terence Fletcher may be, he leaves the impression
 *Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of *Whiplash*, the forgotten are those cowed by failure. *
 ------
 
-![Keep Playing: the Fire at the Heart of Whiplash](<https://audioxide.com/wp-content/uploads/2017/05/wl5.jpg> =2012x1166 "Keep Playing: the Fire at the Heart of Whiplash")
+![Keep Playing: the Fire at the Heart of Whiplash](<2017/05/wl5.jpg> =2012x1166 "Keep Playing: the Fire at the Heart of Whiplash")
 ------
 *Whiplash* hit — and shot — plenty of nerves when it was released in 2014. It lit up the year’s film awards season and will in all likelihood endure as a classic piece of cinema. But why? What about the film strikes so deep, is so morbidly absorbing? *Whiplash *is ostensibly about jazz, but its core speaks to something more fundamental than even music, and often in ways difficult to stomach. It speculates that love of a craft isn’t enough to master it; disdain for one’s shortcomings is crucial.
 Why is Terence Fletcher frightening? It isn’t because he’s mean. That would just make him unpleasant. The true power of Fletcher is that he challenges people with the possibility that where they are now is not enough. He says as much himself. His function is ‘to push people beyond what’s expected of them.’ Ominous, sure, but only to those who share its motivations, however begrudgingly. Fletcher aggressively enforces a standard Andrew Neiman, a budding young drummer, aspires to. That is the challenge he represents, and why Neiman yearns to work with him in the first place.

@@ -11,7 +11,7 @@ blurb: In which an astonishing lack of imagination is shown by the band, the
   manager, and the author
 ---
 ## *In which an astonishing lack of imagination is shown by the band, the manager, and the author*
-![](<https://audioxide.com/wp-content/uploads/2020/04/Whats-in-a-Name.jpg> =1620x1080)‘Soul Reel?’
+![](<2020/04/Whats-in-a-Name.jpg> =1620x1080)‘Soul Reel?’
 ‘No.’
 ‘The Soul Birds?’
 ‘No.’
@@ -23,13 +23,13 @@ blurb: In which an astonishing lack of imagination is shown by the band, the
 ‘Oh. No.’
 Ray Sunshine slumped back in his seat and put on his best pout. He had a world class pout, developed during years of spoiling. The rest of the band was not overly fussed by Hazard’s decision to keep moving. They were on the run, after all. Ten miles out of Coppleton they had stopped for snacks and Laina Gould picked up a copy of that morning’s *Yorkshire Beagle*. Its front page gave them rather a start:
 > **BAND INCITES RIOT, ARSON AT HISTORIC PUB**
-> 
+>
 > The humble pub goers of Coppleton were left bewildered last night by the exploits of a mysterious, quite possibly dangerous new musical act.
-> 
+>
 > Fronted by notorious troublemaker Alan Hazard, the five-piece outfit tormented onlookers for eight straight minutes before fist fights and fires broke out. As of this morning most of the structure is ash and the in-house drum kit is reportedly missing.
-> 
+>
 > “It was one of the greatest exploits of rock and roll I’ve ever seen,’ said local beauty Elaine Gold. “Wherever they’ve gone I sure do hope people go see them play.”
-> 
+>
 > Police are making enquiries into the incident. At press time the band’s location is unknown.
 As pleased as everyone was by this inaugural piece of press (and infamy) it did spark a rather keen desire to stay on the move, a desire compounded by the distant sound of sirens. They’d piled back into the van and had been racing south since.
 Hazard was at the wheel, a show of authority he thought vitally important at this early stage in the band’s development. Sunshine sat next to him, a tepid show of defiance he likewise thought vitally important at this early stage in the band’s development. Bas and Stone sat at the rear of the van playing around with some tunes. Waltz was hyperventilating in his bunk.

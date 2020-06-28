@@ -15,7 +15,7 @@ blurb: For reasons known not even to himself, Fred decides to disparage the
 ------
 *For reasons known not even to himself, Fred decides to disparage the memory of George Orwell’s essay ‘[Confessions of a Book Reviewer](<http://orwell.ru/library/articles/reviewer/english/e_bkrev>)‘. Scathing reviews of this piece are welcome and deserved.*
 ------
-![](https://audioxide.com/wp-content/uploads/2016/06/Out-of-Mind-1.jpg)
+![](2016/06/Out-of-Mind-1.jpg)
 ------
 In an expensive yet strangely characterless flat in some important city or other a man sits unblinking before a computer screen. His hands tremble over the keyboard in anticipation of words that have not come for hours and will not come for hours yet. Countless pairs of headphones litter the floor and one wall is piled high with speakers. After years of listening and thousands of pounds of debt incurred, our hero has resigned himself to the fact that most music sounds irredeemably awful.
 And yet he must write, for he is a music reviewer and the world waits with bated breath for his verdict on a smorgasbord of songs he’s barely had time to listen to once. More often than not the prospect of listening a second time fills him with unspeakable dread. It is exhausting to be so unaffected so often. There are no words for his indifference, so he must invent them. A thesaurus tab is open on his computer. It his always open. Words like ‘texture’ and ‘immersive’ and ‘emotive’ have lost all meaning. The album he is writing about has been out for two hours. Before the end of the day he must know how he will feel about it for the rest of his life.

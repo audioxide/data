@@ -13,6 +13,6 @@ blurb: Ink drawing of nonsense fictional vinyl album.
 #### 09\.12.02017
 ------
 
-![](<https://audioxide.com/wp-content/uploads/2020/01/Liam-Dowdry-ink-vinyl.jpg> =1500x1482)
+![](<2020/01/Liam-Dowdry-ink-vinyl.jpg> =1500x1482)
 ------
 Drawn with Pilot Vball black ink pen on paper, the vinyl groove is a single uninterrupted line. I was sharing a flat with [Thomas Ashby](<https://audioxide.com/interviews/thomas-ashby/>) at the time. It was because of this drawing that he suggested we work together on the artwork for his *Backlash* EP, which we did.

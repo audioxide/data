@@ -17,7 +17,7 @@ blurb: The Mirror's Edge OST is tuned perfectly to the game’s tone. Elegant,
 *This is part of [a series of articles](<https://audioxide.com/themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
 ------
 
-![The music of Mirror's Edge](https://audioxide.com/wp-content/uploads/2019/09/Mirrors-Edge-music.jpg)
+![The music of Mirror's Edge](2019/09/Mirrors-Edge-music.jpg)
 ------
 Every so often a game comes along that really jibes with people’s imaginations. *Mirror’s Edge* is one of those games. Released in 2008, the first-person parkour adventure served up a gorgeous blend of art style, story, gameplay, and music that led to millions of sales.
 To my mind, what’s so compelling about the game is the complete lack of ego or cynicism that went into its making. It is not a perfect game, but the creative vision behind is as clear and fresh as a spring day. No aspect of the game is inflated or muscling in where it shouldn’t be. A spirit of camaraderie underpins the entire mood.

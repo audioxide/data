@@ -11,7 +11,7 @@ title: "&#8220;This is like a classy Disney tune&#8221; &#8211; André and Fred
 author: admin
 ---
 *This is part of [a series](<http://audioxide.com/listeningparties/>) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.*
-![](<https://audioxide.com/wp-content/uploads/2017/06/lordebabble-1024x547.jpg> =680x363)**[“Green Light”]**
+![](<2017/06/lordebabble-1024x547.jpg> =680x363)**[“Green Light”]**
 **André<br>
 **Well the album title is fitting.<br>
  Oh, wait. Is this turning into a house track?
