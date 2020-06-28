@@ -2,7 +2,7 @@
   publish = "dist/"
   command = "sed -i \"s|ALLOWED_URL|${SITE_URL}|g\" netlify.toml && yarn && node --unhandled-rejections=strict generate.js"
 [context.production]
-  environment = { SITE_URL = "https://audioxide.com", API_URL = "https://audioxide.com/api" }
+  environment = { SITE_URL = "https://alpha.audioxide.com", API_URL = "https://alpha.audioxide.com/api" }
 [context.beta]
   environment = { SITE_URL = "https://beta.audioxide.com", API_URL = "https://beta.audioxide.com/api" }
 [context.alpha]
