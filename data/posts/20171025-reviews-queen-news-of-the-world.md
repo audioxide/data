@@ -47,9 +47,9 @@ review: >-
   number](<https://www.youtube.com/watch?v=rY0WxgSXdEE>). At its best, the
   record succeeds as a sing-along playlist. The opening two tracks, whilst
   legendary in status, are perfect karaoke fodder. [Considering how lenient I
-  am](<https://audioxide.com/reviews/kings-of-leon-because-of-the-times/>) [when
+  am](<reviews/kings-of-leon-because-of-the-times/>) [when
   it comes to stadium
-  rock](<https://audioxide.com/reviews/u2-the-joshua-tree/>), my own level of
+  rock](<reviews/u2-the-joshua-tree/>), my own level of
   apathy surprises me. “We Will Rock You” and “We are the Champions” are not
   epic — they’re just repetitive and, quite frankly, annoying.
 
@@ -119,7 +119,7 @@ review: "For all its shortcomings, I have a real urge to defend Queen’s sixth
   and “Sheer Heart Attack” in particular, and I’m instantly reminded of more
   contemporary artists during several tracks [(I’m certain Muse are avoiding a
   lawsuit by the skin of their
-  teeth)](<https://audioxide.com/reviews/muse-drones/>). Despite “Who Needs You”
+  teeth)](<reviews/muse-drones/>). Despite “Who Needs You”
   feeling a little off-piste with the rest of the album, it’s a pleasant
   surprise for me that acts as an interlude between the mid-section I’m less
   fond of, and the closing moments that I prefer a lot more. I don’t have any

@@ -33,11 +33,11 @@ week: 62
 author: ANDRÉ
 review: '<div class="_d97"><p>Jimi Hendrix changed everything. Each of us have
   contemporary guitarists that we <a
-  href="https://audioxide.com/reviews/like-clockwork/" target="_blank"
+  href="reviews/like-clockwork/" target="_blank"
   rel="noopener">adore</a>, <a
-  href="https://audioxide.com/reviews/radiohead-ok-computer/" target="_blank"
+  href="reviews/radiohead-ok-computer/" target="_blank"
   rel="noopener">appreciate</a>, and <a
-  href="https://audioxide.com/reviews/muse-origin-of-symmetry/" target="_blank"
+  href="reviews/muse-origin-of-symmetry/" target="_blank"
   rel="noopener">admire</a>, and they&nbsp;owe much of their expertise Hendrix.
   On <em>Electric Ladyland</em>, the ultimate guitar hero lays out the entirety
   of his artistic ambition, resulting in a long and colourful trip that
@@ -53,7 +53,7 @@ review: '<div class="_d97"><p>Jimi Hendrix changed everything. Each of us have
   never outshining him.</p><p>The improvised nature of the albums extended
   instrumental segments radiate a dynamic spirit that remains thrilling today,
   as intense as any of Swans’ breathless grooves that comprise their <a
-  href="https://audioxide.com/reviews/swans-the-glowing-man/" target="_blank"
+  href="reviews/swans-the-glowing-man/" target="_blank"
   rel="noopener">monstrous records</a>. Hendrix and co jam with steaming
   passion, and that type of heat is timeless, but it can also be taxing after a
   period of time. Perhaps the main issue with <em>Electric Ladyland</em> (and
@@ -62,7 +62,7 @@ review: '<div class="_d97"><p>Jimi Hendrix changed everything. Each of us have
   whether certain tracks drag due to lesser songwriting, or because they simply
   merge with the rest of the action — even if the quality is high. It’s a
   question that we find ourselves asking <a
-  href="https://audioxide.com/reviews/the-avalanches-wildflower/"
+  href="reviews/the-avalanches-wildflower/"
   target="_blank" rel="noopener">all too often</a>: can you have too much of a
   good thing? Maybe. Even so, if The Jimi Hendrix Experience do fatigue their
   listeners, they sound great doing it. You don’t need to be totally tuned in to

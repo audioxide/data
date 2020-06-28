@@ -50,21 +50,21 @@ review: <div class="_d97"><p>Due to the sheer lack of any standout hard-rock
   hysteria, like in “Low Feels Blvd”, before crashing straight back into their
   organised chaos. On “Fugue”, they go one further and essentially roll out an
   <a
-  href="https://audioxide.com/articles/cheetah-sees-aphex-twin-remain-in-style/"
+  href="articles/cheetah-sees-aphex-twin-remain-in-style/"
   target="_blank" rel="noopener">Aphex Twin</a> track — it’s a strange
   diversion, but it’s one that certainly offers you some time to breathe.
   Perhaps its early inclusion is necessary, because the second side of
   <em>Dissociation</em> is absolutely relentless. It captures the numbing sweet
   spot that the likes of <a
-  href="https://audioxide.com/reviews/death-grips-the-powers-that-b/"
+  href="reviews/death-grips-the-powers-that-b/"
   target="_blank" rel="noopener">Death Grips achieve so regularly</a>. It’s an
   enjoyable sensation that can be difficult to describe for the faint-hearted.
   As proceedings draw to a close with the gorgeous title track, you’re finally
   left with time to reflect. It seems that this is to be The Dillinger Escape
   Plan’s final album, which is a great shame. We’ve experienced some&nbsp;<a
-  href="https://audioxide.com/reviews/deftones-gore/" target="_blank"
+  href="reviews/deftones-gore/" target="_blank"
   rel="noopener">solid releases</a>¨NBSP;<a
-  href="https://audioxide.com/reviews/swans-the-glowing-man/" target="_blank"
+  href="reviews/swans-the-glowing-man/" target="_blank"
   rel="noopener">from their peers</a>, but there’s been nothing quite like
   <em>Dissociation</em> in 2016. The music is technically stunning, and is
   performed with an intensity that is unparalleled. They choose to be going out
@@ -119,7 +119,7 @@ review: This album is certainly no walk in the park. The final release from The
   polyrhythms, many undetectable without really listening in, busy melody lines,
   and varied vocal styles. It’s a tracklist to appreciate even if the style is
   not to your tastes. Besides this, we hear
-  [Squarepusher-esque](<https://audioxide.com/reviews/squarepusher-damogen-furies/>)
+  [Squarepusher-esque](<reviews/squarepusher-damogen-furies/>)
   glitch-ridden electronica and on-trend though still tightly coordinated jazz,
   proving their flexibility as a band. I do have a ‘but’ though, and it is
   purely one of preference. While I can certainly enjoy the weight of a majority

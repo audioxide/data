@@ -122,7 +122,7 @@ review: >-
   “Dancin’ In Circles” then clears the table of any atmosphere, theme, or
   cohesion, instead flirting with reggae, ska, and female masturbation — and the
   collaboration with Beck on the track makes it all the more curious. While I
-  don’t hate it, or the [M.I.A-like](<https://audioxide.com/reviews/mia-aim/>)
+  don’t hate it, or the [M.I.A-like](<reviews/mia-aim/>)
   delivery, it marks a point of jarring disruption in the album as the turn of
   the millennia styled “Perfect Illusion” follows it, seemingly forgetting any
   focus on country music. *Joanne* continues along a similar path to the end,

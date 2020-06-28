@@ -38,12 +38,12 @@ review: >-
   entirely sure how accurate that depiction is, but then Titanic Rising is
   proving a difficult album to nail down. I hear glimpses of Joni Mitchell,
   Perfume Genius, Ariel Pink, and even a flash of
-  [Muse](<https://audioxide.com/reviews/muse-origin-of-symmetry/>). The variety
+  [Muse](<reviews/muse-origin-of-symmetry/>). The variety
   on show is quite extraordinary, and it’s something that separates this work
   from the recent releases of artists like [Julia
-  Jacklin](<https://audioxide.com/reviews/julia-jacklin-crushing/>), and perhaps
+  Jacklin](<reviews/julia-jacklin-crushing/>), and perhaps
   even [Courtney
-  Barnett](<https://audioxide.com/reviews/courtney-barnett-tell-me-how-you-really-feel/>).
+  Barnett](<reviews/courtney-barnett-tell-me-how-you-really-feel/>).
   Whilst I wouldn’t claim *Titanic Rising* to be a masterpiece, I’d rank it
   alongside many of this decades finest pop albums without hesitation. And
   there’s been quite a few of those.

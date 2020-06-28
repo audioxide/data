@@ -34,7 +34,7 @@ review: '<div class="_d97"><p><em>Illmatic</em> is a milestone in hip-hop, an
   undisputed classic that is held on a pedestal to this day. Though there are
   many albums with greater highs, you’d be hard pressed to find one with fewer
   flaws. It captures a cultural scene so poignantly to achieve a timeless status
-  that only <a href="https://audioxide.com/reviews/radiohead-ok-computer/"
+  that only <a href="reviews/radiohead-ok-computer/"
   target="_blank" rel="noopener">a few albums</a> hold alongside it. Nas calmly
   and smoothly uses the stories of city life to form an account that remains
   relatable to any culture, race, or religion: here is the tale of a talented

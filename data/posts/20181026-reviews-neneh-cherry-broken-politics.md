@@ -59,9 +59,9 @@ review: >-
   tenderness deserve at least some in return, but there’s been no getting past
   the fact this album doesn’t stick. Neneh Cherry weaves an eclectic, vibrant
   world here — parts [Saul
-  Williams](<https://audioxide.com/reviews/saul-williams-martyr-loser-king/>),
-  parts [Joanna Newsom](<https://audioxide.com/reviews/joanna-newsom-divers/>),
-  parts [Solange](<https://audioxide.com/reviews/solange-a-seat-at-the-table/>),
+  Williams](<reviews/saul-williams-martyr-loser-king/>),
+  parts [Joanna Newsom](<reviews/joanna-newsom-divers/>),
+  parts [Solange](<reviews/solange-a-seat-at-the-table/>),
   all very much her domain. In full flow it’s a delight. “Natural Skin Deep”
   jangles and gyrates, partylike in its energy. The vocals on “Kong” are
   measured and elegant, lending the track an elegance beyond that of its
@@ -89,7 +89,7 @@ review: >-
 
   This happens all too rarely, and by “Synchronised Devotion” we’ve moved on to Blockhead-esque piano work and a xylophone (?) melody that’s, again, very pleasant, but that’s all it is. This weightlessness can only go so far, particularly when compared to giants of downtempo who can build tracks that are part-meanderings through gentle textures and part-nagging earworms.
 
-  *Broken Politics* borrows so much from so many — the aforementioned artists are joined by composition and instrumentation reminiscent of [Joanna Newsom](<https://audioxide.com/reviews/joanna-newsom-divers/>) and [Bjork](<https://audioxide.com/reviews/bjork-debut/>) — which works against it in the more indulgent tracks (looking at you, “Deep Vein Thrombosis”) if only because I’m constantly feeling inspired to listen to somebody else.
+  *Broken Politics* borrows so much from so many — the aforementioned artists are joined by composition and instrumentation reminiscent of [Joanna Newsom](<reviews/joanna-newsom-divers/>) and [Bjork](<reviews/bjork-debut/>) — which works against it in the more indulgent tracks (looking at you, “Deep Vein Thrombosis”) if only because I’m constantly feeling inspired to listen to somebody else.
 
   When Cherry reminds you to pay attention, the album’s undeniable beauty can be breathtaking. Even so, by failing to separate beauty from torpidity, the sum is forgettable.
 

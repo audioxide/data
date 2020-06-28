@@ -65,7 +65,7 @@ review: >-
 
   Most of what follows is a couple of levels below. That’s the record’s main issue really. It’s one big pleasant plateau. A song like “Don’t Know How to Keep Loving You” should hit harder than it does, but the choruses are delivered at exactly the same pace as the verses. The same is true of “Good Guy”, which stays perfectly level from start to finish. The album’s colourful, hazy sound is pleasant enough but more often than not Jacklin feels like a passenger in her own songs. It’s not until the gentle crescendo of “Turn Me Down” that you get a second glimpse of Jacklin at her best. In a better album it would be a wonderful climax. In this album it only serves to highlight what’s been missing for the 30 minutes prior.
 
-  In all *Crushing *feels like a personal diary in indie folk form. You can probably count on a diary to be sincere, even intimate, but there’s no guarantee of it being interesting. The same is true here. For every tender, captivating moment on *Crushing* there are solid stretch of murky, pedestrian folk rock in the same vein as [Courtney Barnett](<https://audioxide.com/reviews/courtney-barnett-tell-me-how-you-really-feel/>). It is a sound many connect with — and fair enough — but it isn’t for me.
+  In all *Crushing *feels like a personal diary in indie folk form. You can probably count on a diary to be sincere, even intimate, but there’s no guarantee of it being interesting. The same is true here. For every tender, captivating moment on *Crushing* there are solid stretch of murky, pedestrian folk rock in the same vein as [Courtney Barnett](<reviews/courtney-barnett-tell-me-how-you-really-feel/>). It is a sound many connect with — and fair enough — but it isn’t for me.
 tracks:
   - Body
   - ­­Turn Me Down
@@ -83,7 +83,7 @@ review: >-
 
   While an album focussing on a breakup isn’t a new idea, Jacklin manages to provide something compelling with her lyrics. Reframing and reflecting her feelings on the situation makes for some captivating passages. “You Were Right” does this particularly well as the singer reconsiders many of the long-held opinions and decisions made within the relationship. “Turn Me Down” makes for one of the best moments across the tracklist, breaking out into Jacklin alone with her guitar and erupting into an emotion-filled swell as she describes her internal monologue.
 
-  Tracks earlier on in the album like “Pressure To Party” are probably those that pass me by most easily. Taking on a [Courtney Barnett](<https://audioxide.com/reviews/courtney-barnett-tell-me-how-you-really-feel/>) style without as much punch, the instrumental tends to be busier, often detracting from the vocal. The instrumentals are otherwise lush, warm and satisfying and are a big part of what makes this an enjoyable album.
+  Tracks earlier on in the album like “Pressure To Party” are probably those that pass me by most easily. Taking on a [Courtney Barnett](<reviews/courtney-barnett-tell-me-how-you-really-feel/>) style without as much punch, the instrumental tends to be busier, often detracting from the vocal. The instrumentals are otherwise lush, warm and satisfying and are a big part of what makes this an enjoyable album.
 
   *Crushing* is good at what it does, in a time where singer-songwriters are ten a penny, Julia Jacklin has created an album that stands out from the crowd. It doesn’t reach heady heights or make grand proclamations, and I’m unsure whether it will have the staying power that other releases will this year, but it’s made for a wonderful listen this week.
 tracks:

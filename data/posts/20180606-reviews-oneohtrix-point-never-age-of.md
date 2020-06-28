@@ -37,7 +37,7 @@ author: ANDRÉ
 review: >-
   I’ve become rather attached to Daniel Lopatin’s latest work. It’s hardly a
   surprise really, given my fondness for 2015’s [*Garden of
-  Delete*](<https://audioxide.com/reviews/oneohtrix-point-never-garden-of-delete/>),
+  Delete*](<reviews/oneohtrix-point-never-garden-of-delete/>),
   an album that brutally demonstrated that Oneohtrix Point Never is one of the
   most vital artists working in the electronic music field. With *Age Of*, his
   10th studio album (or 8th, depending on who you ask), Lopatin has constructed
@@ -73,7 +73,7 @@ review: >-
   while making this record. That comes through. There’s an unlikely liquidity to
   the arrangements that’s refreshing to hear after the death by icy shards
   approach of [*Garden of
-  Delete*](<https://audioxide.com/reviews/oneohtrix-point-never-garden-of-delete/>).
+  Delete*](<reviews/oneohtrix-point-never-garden-of-delete/>).
   Still, aesthetic isn’t enough for me on its own. Sloshing around inside
   Lopatin’s head can be pretty neat, but it’s not always terribly affecting.
 
@@ -91,7 +91,7 @@ author: ANDREW
 review: It seems all three of us have come at *Age Of* from different starting
   points and all arrived at roughly the same conclusion. For me, Oneohtrix Point
   Never’s [previous
-  release](<https://audioxide.com/reviews/oneohtrix-point-never-garden-of-delete/>)
+  release](<reviews/oneohtrix-point-never-garden-of-delete/>)
   was rather too rich for my blood, often building a mania of pretty ominous
   layers of sound then dropping everything and doing something totally
   different. It honestly made for a frustrating listen where I just wanted a
@@ -113,7 +113,7 @@ review: It seems all three of us have come at *Age Of* from different starting
   across its 4-minute play time, it builds layer upon churning layer and bends
   itself into a rather breathtaking sound by its final minute. “Same” has a
   similar grandeur and gives me a strong
-  [Björk](<https://audioxide.com/reviews/bjork-homogenic/>) vibe which I
+  [Björk](<reviews/bjork-homogenic/>) vibe which I
   certainly appreciate. It makes for a very engaging listening experience and,
   while there are definitely still issues in terms of the album’s focus, I’ll
   take a lack of focus over mundanity any day.

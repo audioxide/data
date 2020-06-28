@@ -39,7 +39,7 @@ review: <div class="_d97"><p><em>Surrealistic Pillow</em> was a pioneering piece
   of psychedelic folk-rock, filled to the brim with creativity. It remains a
   staple of the genre today, feeling as fresh and vibrant now as it did in 1967,
   and stands as tall as the finest works of the same era by The Rolling Stones
-  and <a href="https://audioxide.com/reviews/the-beatles-revolver/"
+  and <a href="reviews/the-beatles-revolver/"
   target="_blank" rel="noopener">The Beatles</a>. The music is so accomplished,
   and so varied, that it sounds like a wonderful montage of the ’60s. Jefferson
   Airplane had an ear for dynamics that other bands had yet to expose, which
@@ -84,7 +84,7 @@ review: You get the full Summer of Love package with *Surrealistic Pillow*.
   Jefferson Airplane’s sound you start hearing it all over the place. It’s a
   wonder the songs complement each other as well as they do, frankly. They soar
   from the realm of The Mamas & The Papas to [The Jimi Hendrix
-  Experience](<https://audioxide.com/reviews/the-jimi-hendrix-experience-electric-ladyland/>)
+  Experience](<reviews/the-jimi-hendrix-experience-electric-ladyland/>)
   without batting an eyelid, and they nail it. Everyone shows up. In returning
   to the album I was surprised to be reminded that Grace Slick only sings lead
   vocals on two tracks (“Somebody to Love” and “White Rabbit”). Her presence is
@@ -129,9 +129,9 @@ review: "It’s hard not to be at all aware of Jefferson Airplane, but after
   each track is well formed and developed, and does what it’s set out to
   achieve. No hanging about, and never outstaying their welcome. It’s refreshing
   to listen to, especially given some of the [new
-  releases](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>)
-  [we’ve reviewed](<https://audioxide.com/reviews/swans-the-glowing-man/>)[this
-  year](<https://audioxide.com/reviews/the-avalanches-wildflower/>). With all
+  releases](<reviews/james-blake-the-colour-in-anything/>)
+  [we’ve reviewed](<reviews/swans-the-glowing-man/>)[this
+  year](<reviews/the-avalanches-wildflower/>). With all
   that said, the heavy exploration of style can sometimes make the tracklist
   feel like it’s held together by a thread, and while the highlights are very
   enjoyable to listen to, the mid-section of the album does lose the pace a

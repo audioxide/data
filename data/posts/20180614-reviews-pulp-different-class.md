@@ -44,7 +44,7 @@ review: >-
   released good records prior, particularly *His ‘N Hers*, but this was where
   everything fell into place. The hooks are irresistibly catchy, the music is
   adventurous, and [Jarvis
-  Cocker](<https://audioxide.com/reviews/jarvis-cocker-jarvis/>)’s vocals are
+  Cocker](<reviews/jarvis-cocker-jarvis/>)’s vocals are
   astonishingly good, though not exactly in the traditional sense. To merely
   brand him a singer would be a disservice: he’s as much a narrator, delving
   into the stories of different characters, of which most revolve around social
@@ -52,7 +52,7 @@ review: >-
   mistake: this is a sleazy record. Cocker’s words are sultry and provocative,
   his delivery sensuous and alluring. Nobody does it better.
 
-  It’s not just about ol’ Jarv, of course. It’s a great testament to the songwriting that *Different Class* still sounds so ridiculously good in 2018. The majority of [records released](<https://audioxide.com/reviews/blur-modern-life-is-rubbish/>) [by Pulp’s peers](<https://audioxide.com/reviews/oasis-definitely-maybe/>) haven’t aged so well. There’s a whole bunch of reasons why, but it’s ultimately because the songwriting, production, and sequencing is just not as good as this. “Common People” and “Disco 2000” are immense pop tunes, the former standing as the quintessential Britpop anthem, but I’m quite confident that almost every song here could have been a hit single. Pulp nail the pop/rock formula to near perfection, and the result is so utterly listenable, albeit in a very British manner. The themes of *Different Class* aren’t necessarily cheerful — in fact they’re mostly very cynical — yet the album sounds like a celebration from beginning to end. Well, almost the end. My sole criticism is that the record loses momentum towards the conclusion. It deserves a closer on the level of “Champagne Supernova”, and I don’t think “Bar Italia” is close to getting there. Thankfully, this doesn’t prevent *Different Class* from fulfilling its full potential. *Morning Glory* has mammoth hits, but the album isn’t as consistently fantastic as this, and as good as *Parklife* is, there’s a certain novelty about it. Ultimately, *this* was Britpop’s finest hour. Unless you count *The Bends*, of course.
+  It’s not just about ol’ Jarv, of course. It’s a great testament to the songwriting that *Different Class* still sounds so ridiculously good in 2018. The majority of [records released](<reviews/blur-modern-life-is-rubbish/>) [by Pulp’s peers](<reviews/oasis-definitely-maybe/>) haven’t aged so well. There’s a whole bunch of reasons why, but it’s ultimately because the songwriting, production, and sequencing is just not as good as this. “Common People” and “Disco 2000” are immense pop tunes, the former standing as the quintessential Britpop anthem, but I’m quite confident that almost every song here could have been a hit single. Pulp nail the pop/rock formula to near perfection, and the result is so utterly listenable, albeit in a very British manner. The themes of *Different Class* aren’t necessarily cheerful — in fact they’re mostly very cynical — yet the album sounds like a celebration from beginning to end. Well, almost the end. My sole criticism is that the record loses momentum towards the conclusion. It deserves a closer on the level of “Champagne Supernova”, and I don’t think “Bar Italia” is close to getting there. Thankfully, this doesn’t prevent *Different Class* from fulfilling its full potential. *Morning Glory* has mammoth hits, but the album isn’t as consistently fantastic as this, and as good as *Parklife* is, there’s a certain novelty about it. Ultimately, *this* was Britpop’s finest hour. Unless you count *The Bends*, of course.
 tracks:
   - Common People
   - ­­Disco 2000
@@ -68,7 +68,7 @@ review: >-
   Britpop sound rubbish in comparison. The soaring choruses, the la la las, the
   acute class consciousness — all the hallmarks are there, and they’re all the
   better for being delivered by [Jarvis
-  Cocker](<https://audioxide.com/reviews/jarvis-cocker-jarvis/>). His offbeat
+  Cocker](<reviews/jarvis-cocker-jarvis/>). His offbeat
   lyricism sits so well throughout that it’s easy to forget how impressive it is
   that it works at all. Jangling pop-rock probably isn’t the natural bedfellow
   of spoken-word musings on knickers and trust fund babies, but you wouldn’t
@@ -76,7 +76,7 @@ review: >-
 
   Pulp pushed the limits of just how dry pop could be. At the best of times it’s hard to tell if you’re in on the joke or being strung along for the ride. It’s wicked fun, but I wonder if that’s also why I can’t get into the album beyond a certain point. This is some of the best — possibly *the *best — music Britpop has to offer, but that’s still like being the most dignified person at a dog show. Even in pushing beyond the boundaries of its genre, *Different Class* betrays its own limitations. Anthems like “Common People” and “Disco Whatever” are iconic; the album as a whole is entertaining. By the time it’s over I’m just about burnt out by the spectacle put on. It gets into such a rollicking flow that it’s a smidge deflating when it fails to come to a head.
 
-  That said, there’s no denying this is essential pop listening, a testament to the unbridled power of weird with a good mix. It’s a wry, saucy lynchpin of ‘90s culture. While [*Modern Life is Rubbish*](<https://audioxide.com/reviews/blur-modern-life-is-rubbish/>) was British in a way that made me want to apologise to non-Brits and the North, *Different Class* owes no apologies to anyone. Pulp got their right to be different and used it. Cocker runs the show, the band run riot, and I’ve run out of things to say. It’s true high common art.
+  That said, there’s no denying this is essential pop listening, a testament to the unbridled power of weird with a good mix. It’s a wry, saucy lynchpin of ‘90s culture. While [*Modern Life is Rubbish*](<reviews/blur-modern-life-is-rubbish/>) was British in a way that made me want to apologise to non-Brits and the North, *Different Class* owes no apologies to anyone. Pulp got their right to be different and used it. Cocker runs the show, the band run riot, and I’ve run out of things to say. It’s true high common art.
 tracks:
   - Common People
   - ­­Something Changed
@@ -91,16 +91,16 @@ review: "*Different Class* is the Britpop album that sits above the rest for me.
   Quintessentially British without shoving it down your neck, it delivers a
   collection of long-lasting, catchy instrumentals which complement distinctive,
   brilliant vocals. Where many of its contemporaries suffered issues with [muddy
-  production](<https://audioxide.com/reviews/oasis-definitely-maybe/>) or
+  production](<reviews/oasis-definitely-maybe/>) or
   [stagnated in the four-piece rock-band set
-  up](<https://audioxide.com/reviews/blur-modern-life-is-rubbish/>), *Different
+  up](<reviews/blur-modern-life-is-rubbish/>), *Different
   Class* brings a menagerie of instrumentation, and a clean, crisp sound to
   boot. Even “Common People”, a track that by all rights should be tired and
   overplayed by now, still sounds excellent. Between the mundane narrative in
   the lyrics, and the electronically flavoured instrumental that soars towards
   each chorus, I’ve never found myself bored, regardless of how many times I’ve
   heard it. [Jarvis
-  Cocker](<https://audioxide.com/reviews/jarvis-cocker-jarvis/>)’s vocals
+  Cocker](<reviews/jarvis-cocker-jarvis/>)’s vocals
   always manage to steal centre stage, even for my ears which really struggle to
   focus on the vocalist and prefer to deviate to an instrumental at any chance.
   Here, however, Jarvis’ combination of whispering, hollering, and snarling

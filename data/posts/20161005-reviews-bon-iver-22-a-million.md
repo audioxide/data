@@ -40,17 +40,17 @@ review: '<div class="_d97"><p><em>22, A Million</em> feels like a nondescript
   processed vocals, chopped-up lyrics, and saturated samples are the prime
   focus, overruling any instance of decent songwriting that you’d usually come
   to expect from Bon Iver. It follows a ridiculous trend that was prominent on
-  Kanye West’s <a href="https://audioxide.com/reviews/the-life-of-pablo/"
+  Kanye West’s <a href="reviews/the-life-of-pablo/"
   target="_blank" rel="noopener">The Life of Pablo</a> and carried over to
   recent releases from <a
-  href="https://audioxide.com/reviews/frank-ocean-blond/" target="_blank"
+  href="reviews/frank-ocean-blond/" target="_blank"
   rel="noopener">Frank Ocean</a> and <a
-  href="https://audioxide.com/reviews/james-blake-the-colour-in-anything/"
+  href="reviews/james-blake-the-colour-in-anything/"
   target="_blank" rel="noopener">James Blake</a>&nbsp;— for whatever reason,
   albums must now be messy, vague, and incoherent. The emphasis has shifted from
   being focused to feeling esoteric and excessively unconventional. Yet the best
   records from these artists —&nbsp;<em>The College Dropout, <a
-  href="https://audioxide.com/reviews/frank-ocean-channel-orange/"
+  href="reviews/frank-ocean-channel-orange/"
   target="_blank" rel="noopener">Channel Orange</a>, For Emma, Forever Ago
   —&nbsp;</em>didn’t require obscure mixing or wobbly structures. Instead, they
   thrived on brilliant, dynamic songwriting, and this is something <em>22, A
@@ -119,7 +119,7 @@ review: >-
   hovering around the 2 minute mark. This often leaves them just as ideas,
   without any expansion.
 
-  By “8 (circle)” though, I begin to feel as though I’ve been overly harsh on *22, A Million*, as I thoroughly enjoy moments in it and the horn section and layered vocals work really well. “\_\_\_45\_\_\_\_\_” (seriously, these track titles) builds upon it and works in a twinkling banjo and produces the ethereal, entrancing sound that will feel familiar to listeners of Bon Iver’s previous work. The closer feels like a campfire, warming a frosty night sky, and pulls heavily from gospel and folk music, at which point I’ve warmed to the album as it has promptly ended. While I understand the desire to break out into something new, to make a statement and to give music a higher meaning, I still return to my central question — ‘Why?’. The changes to the norm here don’t seem to have purpose, and without purpose they need to improve the aesthetic or atmosphere of the album which, for me, they certainly don’t. I’ve also noted a lot of the hallmarks of many other ‘hugely anticipated’ albums that we’ve seen this year, whether it’s [Frank Ocean](<https://audioxide.com/reviews/frank-ocean-blond/>), [Kanye West](<https://audioxide.com/reviews/the-life-of-pablo/>), [M.I.A.](<https://audioxide.com/reviews/mia-aim/>), or even [James Blake](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>), faux-lo-fi production, fleeting ideas without expansion, fragmentation in tracks or throughout the whole track listing, needless overproduction all make appearances and all make this a lesser album for me. I don’t see myself returning to this as an album, largely out of sheer frustration, especially given the previous two releases I could choose to return to instead. This is one Internet frenzy I won’t be joining unfortunately, though to its credit, it has made me feel and think enough to make this one of my longest reviews yet. So for that, I congratulate *22, A Million*.
+  By “8 (circle)” though, I begin to feel as though I’ve been overly harsh on *22, A Million*, as I thoroughly enjoy moments in it and the horn section and layered vocals work really well. “\_\_\_45\_\_\_\_\_” (seriously, these track titles) builds upon it and works in a twinkling banjo and produces the ethereal, entrancing sound that will feel familiar to listeners of Bon Iver’s previous work. The closer feels like a campfire, warming a frosty night sky, and pulls heavily from gospel and folk music, at which point I’ve warmed to the album as it has promptly ended. While I understand the desire to break out into something new, to make a statement and to give music a higher meaning, I still return to my central question — ‘Why?’. The changes to the norm here don’t seem to have purpose, and without purpose they need to improve the aesthetic or atmosphere of the album which, for me, they certainly don’t. I’ve also noted a lot of the hallmarks of many other ‘hugely anticipated’ albums that we’ve seen this year, whether it’s [Frank Ocean](<reviews/frank-ocean-blond/>), [Kanye West](<reviews/the-life-of-pablo/>), [M.I.A.](<reviews/mia-aim/>), or even [James Blake](<reviews/james-blake-the-colour-in-anything/>), faux-lo-fi production, fleeting ideas without expansion, fragmentation in tracks or throughout the whole track listing, needless overproduction all make appearances and all make this a lesser album for me. I don’t see myself returning to this as an album, largely out of sheer frustration, especially given the previous two releases I could choose to return to instead. This is one Internet frenzy I won’t be joining unfortunately, though to its credit, it has made me feel and think enough to make this one of my longest reviews yet. So for that, I congratulate *22, A Million*.
 tracks:
   - 8 (circle)
   - ­33 “GOD”

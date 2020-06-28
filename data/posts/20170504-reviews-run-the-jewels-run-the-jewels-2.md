@@ -85,7 +85,7 @@ review: Having already thoroughly enjoyed *Run the Jewels 3*, their previous
   switching up the entire sound midway through. There’s an abrasive, industrial
   style that runs throughout the record that confidently holds the listener’s
   attention. It certainly shares a lot of features with the output of [Death
-  Grips](<https://audioxide.com/reviews/death-grips-the-powers-that-b/>), but
+  Grips](<reviews/death-grips-the-powers-that-b/>), but
   with a little more sanity. “Blockbuster Night Part 1” is a star example of a
   track made of a strong, intense instrumental, paired with vocals that flow and
   handoff between the duo effortlessly. “Lie, Cheat, Steal” is another sure

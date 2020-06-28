@@ -44,7 +44,7 @@ review: >-
   post-hardcore in the main to be somewhat difficult to stomach, then why not
   this?
 
-  Perhaps it’s a certain sentimentality for the numerous influences the band employs without ever feeling artificial. Whether they’re channelling The Cranberries or Bloc Party, there’s a reinvention of those textures that feels genuine. Piano and string sections reminiscent of [Radiohead](<https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/>), vocal strains at either end of the spectrum inspiring comparisons to a young Matt Bellamy, a stop-start funk to many of the basslines that could have been taken from [*Favourite Worst Nightmare*](<https://audioxide.com/reviews/arctic-monkeys-favourite-worst-nightmare/>) — it’s all here in some form, repackaged with heavy, crunching guitar work and incredibly catchy, rhythmic lyricism. This is no criticism of the way the music sounds; in tandem with so many familiar flavours, Marmozets successfully carve out their own tangible and charismatic personality. It is, however, disappointing to feel a necessity in referring to other bands whilst describing them.
+  Perhaps it’s a certain sentimentality for the numerous influences the band employs without ever feeling artificial. Whether they’re channelling The Cranberries or Bloc Party, there’s a reinvention of those textures that feels genuine. Piano and string sections reminiscent of [Radiohead](<reviews/radiohead-a-moon-shaped-pool/>), vocal strains at either end of the spectrum inspiring comparisons to a young Matt Bellamy, a stop-start funk to many of the basslines that could have been taken from [*Favourite Worst Nightmare*](<reviews/arctic-monkeys-favourite-worst-nightmare/>) — it’s all here in some form, repackaged with heavy, crunching guitar work and incredibly catchy, rhythmic lyricism. This is no criticism of the way the music sounds; in tandem with so many familiar flavours, Marmozets successfully carve out their own tangible and charismatic personality. It is, however, disappointing to feel a necessity in referring to other bands whilst describing them.
 
   The question these factors pose is whether this is a sound built to last. While the riffs and breakdowns are charging, raucous, and spine-tingling, the lyrics fall apart if you look too closely at them, and the range of influences can often be distracting. It’s hard to concentrate wholly on the band’s vision when you’re busy wondering which Garbage track they’re reminding you of. The album also suffers from poor structure and a lack of a coherent theme, coming off as a collection of great to decent tracks rather than a considered 45-minute exercise in the art form. All of that being said, I’ve enjoyed my time with this album an awful lot. My hope now is that Marmozets have the legs to maintain this enjoyment in the long run.
 tracks:
@@ -64,9 +64,9 @@ review: >-
   record plays through an impressive spectrum of sounds and sonic energies, but
   it frustrates as much as it entertains. It’s a true hodgepodge of influences.
   Listening through I hear
-  [Muse](<https://audioxide.com/reviews/muse-origin-of-symmetry/>), I hear
+  [Muse](<reviews/muse-origin-of-symmetry/>), I hear
   [Queens of the Stone
-  Age](<https://audioxide.com/reviews/queens-of-the-stone-age-like-clockwork/>),
+  Age](<reviews/queens-of-the-stone-age-like-clockwork/>),
   I hear Green Day… I hear all sorts of bands that are only tangentially
   connected outside of the album.
 

@@ -39,11 +39,11 @@ review: >-
   definitive declaration of Gothic artistry that spawned a host of followers and
   imitators, and a perfect case of cathartic despair that continues to inspire
   artists of all genres: from skilful rockers such as
-  [Radiohead](<https://audioxide.com/reviews/radiohead-ok-computer/>) and [Nine
+  [Radiohead](<reviews/radiohead-ok-computer/>) and [Nine
   Inch
-  Nails](<https://audioxide.com/reviews/nine-inch-nails-pretty-hate-machine/>),
+  Nails](<reviews/nine-inch-nails-pretty-hate-machine/>),
   to hip-hop darlings like Danny Brown and [Vince
-  Staples](<https://audioxide.com/reviews/vince-staples-fm/>). The record still
+  Staples](<reviews/vince-staples-fm/>). The record still
   feels sincerely disturbing – nothing about it is phoned in. Learning of the
   tragic story that led to Ian Curtis’ eventual suicide provides a layer of
   context that certainly enhances the bleakness, but the album is haunting
@@ -75,7 +75,7 @@ review: >-
 
   It’s well convered ground, but mention must go to the bass sound. Now there’s a meat cleaver of a noise, fit for bludgeoning, and the guitars aren’t half bad either. *Unknown Pleasures* is what the ‘80s wish they sounded like. When the band gets harsh it gets really harsh, and when it gets weird- as it does at the ends of “Insight” and “She’s Lost Control” – it’s as if the whole album is warping out of shape and buckling at the joints.
 
-  Needless to say, Ian Curtis is astonishing. The voice of god couldn’t have more boom. It’s impossible to imagine Joy Division working without Curtis (indeed, [it didn’t](<https://audioxide.com/reviews/new-order-power-corruption-and-lies/>)). *Unknown Pleasures* has a monstrously big sound and he still manages to loom over it. If the album is a storm then he is its thunder.
+  Needless to say, Ian Curtis is astonishing. The voice of god couldn’t have more boom. It’s impossible to imagine Joy Division working without Curtis (indeed, [it didn’t](<reviews/new-order-power-corruption-and-lies/>)). *Unknown Pleasures* has a monstrously big sound and he still manages to loom over it. If the album is a storm then he is its thunder.
 
   *Unknown Pleasures* still has a timelessness about it, and for all its solemn qualities it’s hardly a dirge. The album is exploratory in every sense of the word. It still feels brave in that sense. We’re accustomed to loneliness in pop music nowadays, but it wasn’t always so common. Joy Division brought misery to the masses in a way few have matched since.
 tracks:

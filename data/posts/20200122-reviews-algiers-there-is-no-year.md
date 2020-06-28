@@ -35,7 +35,7 @@ blurb: Throughout much of its run-time, There is No Year seems content revelling
 author: André
 review: >-
   The release of clipping’s 2019 record [*There an Existed an Addiction to
-  Blood*](<https://audioxide.com/reviews/clipping-there-existed-an-addiction-to-blood/>)
+  Blood*](<reviews/clipping-there-existed-an-addiction-to-blood/>)
   was a huge indulgence for my listening habits. I am drawn to deeply engaging
   ambience, particularly that of the gloomy kind. A glorified mood junkie, if
   you will. As such, I was immediately taken to Algiers’ latest release. *There
@@ -48,7 +48,7 @@ review: >-
   ‘we all dancing to the fire.’
 
 
-  Such dramatic climaxes are curiously rare, however. Throughout much of its run-time, *There is No Year* seems content revelling in its own (admittedly awe-inspiring) ambience. With their radical politics and instrumental passages draped in dread, it feels like Algiers are about to burn the house down at any moment. But the record never truly explodes until the very end, and does so with the disappointingly drab “Void”, essentially sounding like [NIN’s “March of the Pigs”](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>) without any of the weight. Following 2017’s brutally beautiful *Underside of Power*, *There is No Year* feels light in comparison, and even slightly unfinished. A record full to the brim, bursting with potential for something greater than what it ultimately settles for. Personally recommended, albeit with a significant caveat.
+  Such dramatic climaxes are curiously rare, however. Throughout much of its run-time, *There is No Year* seems content revelling in its own (admittedly awe-inspiring) ambience. With their radical politics and instrumental passages draped in dread, it feels like Algiers are about to burn the house down at any moment. But the record never truly explodes until the very end, and does so with the disappointingly drab “Void”, essentially sounding like [NIN’s “March of the Pigs”](<reviews/nine-inch-nails-the-downward-spiral/>) without any of the weight. Following 2017’s brutally beautiful *Underside of Power*, *There is No Year* feels light in comparison, and even slightly unfinished. A record full to the brim, bursting with potential for something greater than what it ultimately settles for. Personally recommended, albeit with a significant caveat.
 tracks:
   - Hour of the Furnaces
   - ­­Unoccupied

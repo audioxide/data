@@ -42,8 +42,8 @@ review: >-
   and My Bloody Valentine, so I can appreciate the legacy that *Daydream Nation*
   left behind. Unfortunately, the album mostly serves as a personal inspiration
   to listen to [*Visions of a
-  Life*](<https://audioxide.com/reviews/wolf-alice-visions-of-a-life/>) and [*In
-  Utero*](<https://audioxide.com/reviews/nirvana-in-utero/>). It earns my utmost
+  Life*](<reviews/wolf-alice-visions-of-a-life/>) and [*In
+  Utero*](<reviews/nirvana-in-utero/>). It earns my utmost
   respect, rather than securing a place in my musical heart.
 
   One thing’s for sure, the formula here undoubtedly works. The balance between clever songwriting and crafted noise is spot on, and there’s a huge affirmation of punkish, anti-establishment values that is still proving poignant today. The prolonged jams are joyful, and the guitar interplay between Thurston Moore and Lee Ranaldo is a constant highlight. The overall vibe is a very good one, and I wish I loved it more. To me, *Daydream Nation* feels like a relative triumph rather than an unequivocal masterpiece. It’s an extremely long album, but not quite rousing enough to warrant such a length. There are different moods and degrees of character to *Daydream Nation*, but they’re simply not strong enough. More importantly, the way in which the album is mixed and produced doesn’t allow the music to be as dramatic or as dreamy as it strives to be. It’s both enjoyable and frustrating at the same time.
@@ -68,7 +68,7 @@ review: >-
   stepping stone for betters versions of itself. The guitar work meanders, the
   mix has the murky, cluttered feel of a polluted river, and the vocals are
   shouted rather than sung. This is a winning formula for many an album —
-  [*Doolittle *](<https://audioxide.com/reviews/pixies-doolittle/>)and
+  [*Doolittle *](<reviews/pixies-doolittle/>)and
   *Nevermind *to name a couple — but here it isn’t nearly as incisive.
 
   I hesitate to call this a ‘problem’ with *Daydream Nation*, because the record clearly doesn’t want to be otherwise. From the unravelled instrumentals to the [tongue-in-cheek packaging](<https://gizmodo.com/sonic-youths-daydream-nation-art-had-an-odd-led-zeppel-1448098258>), it’s a kind of anti-epic; 70 minutes of exploratory rock with a flagrant disregard for pacing or commercial viability. When Kim Gordon says ‘fuck you’ in “The Sprawl”, it’s not shocking, nor is it an eye-roller. You just nod and say, ‘ok, tell me more.’ Noisy and arty to the nth degree, *Daydream Nation *will always find an adoring audience — I just wish I could be part of it. There’s no question Sonic Youth were pioneers of sorts, but listening to them today I can’t help but feel the frontier has outstripped them.

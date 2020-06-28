@@ -41,9 +41,9 @@ review: >-
   release of this thing. The instrumentals seem to only exist to support
   Turner’s crooning — almost every song sounds the same. This is nowhere near as
   interesting, or stylish, as Turner thinks it is. Christ, he thinks he’s [Tom
-  Waits](<https://audioxide.com/reviews/tom-waits-rain-dogs/>). Here he is
+  Waits](<reviews/tom-waits-rain-dogs/>). Here he is
   nonchalantly reciting through songs like the [Jarvis
-  Cocker](<https://audioxide.com/reviews/jarvis-cocker-jarvis/>) of LA. He
+  Cocker](<reviews/jarvis-cocker-jarvis/>) of LA. He
   thinks he’s the absolute shit. The smugness is practically drenching from
   “American Sports”. These monologues are so self-indulgent. ‘I’m so full of
   shite,’ he sings on “She Looks Like Fun”. Too fucking right you are, mate.
@@ -94,9 +94,9 @@ review: The Arctic Monkeys have made a considerable departure from their
   one-speed, seemingly style over substance nature of the whole thing. Then I
   found myself reminded of some of my favourite vocalists as I listened to some
   of Alex Turner’s soft croons. I found moments of [later era
-  Bowie](<https://audioxide.com/reviews/david-bowie-blackstar/>) in the title
+  Bowie](<reviews/david-bowie-blackstar/>) in the title
   track and even some [Jarvis
-  Cocker](<https://audioxide.com/reviews/jarvis-cocker-jarvis/>)\-esque points
+  Cocker](<reviews/jarvis-cocker-jarvis/>)\-esque points
   dotted around in the likes of “American Sports”. The instrumentals, similarly,
   are growers, initially coming across slightly too restrained. While I still
   think that Matt Helders’ talent is largely wasted throughout, there are some
@@ -110,7 +110,7 @@ review: The Arctic Monkeys have made a considerable departure from their
   It’s a fresh and welcome change for the band, for sure, and it may well pave
   the way for more exciting things to come, but by itself, I don’t see myself
   returning to much of this, especially given the quality of the [other
-  material](<https://audioxide.com/reviews/arctic-monkeys-favourite-worst-nightmare/>)
+  material](<reviews/arctic-monkeys-favourite-worst-nightmare/>)
   in the band’s discography that I could revisit instead.
 tracks:
   - Star Treatment

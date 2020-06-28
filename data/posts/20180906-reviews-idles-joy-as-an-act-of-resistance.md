@@ -93,7 +93,7 @@ review: >-
   prime example of Talbot’s way with words that elicit wry smirks from a
   listener. To top it off, the ongoing riff contributes towards a stonking,
   galloping instrumental that vaguely reminds me of a rough, punky
-  [Foals](<https://audioxide.com/reviews/foals-antidotes/>) during the verse,
+  [Foals](<reviews/foals-antidotes/>) during the verse,
   before descending into a cacophony of satisfying noise during the chorus.
   “June” is also notable in its profoundly personal subject matter and its
   appropriately sombre pace.

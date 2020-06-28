@@ -46,12 +46,12 @@ review: >-
   it remains a fine achievement, though faintly undercooked. A small percentage
   of cuts have only gotten clumsier with age, such as “The Knock (Drums of
   Death, Pt.2)”, where [Mike
-  D](<https://audioxide.com/reviews/beastie-boys-hello-nasty/>)’s appearance
+  D](<reviews/beastie-boys-hello-nasty/>)’s appearance
   seems awkward and inappropriate. Yet I find myself strangely forgiving of
   *Psyence Fiction*’s flaws. UNKLE’s vision is just as enticing as the execution
   itself, perhaps even more so. It remains a unique experience.
 
-  Coming off the back of the groundbreaking *Endtroducing*, anticipation was certainly high. For certain fans and critics, *Psyence Fiction* was a colossal disappointment. It’s not nearly as accomplished as *Endtroducing*, true, nor is it as revolutionary. Yet the sampling on show is still, frankly, ingenious, and the sound is just as rich and multi-faceted. The construction and design of the soundscapes are outrageously good. Occasionally the beats do feel like outtakes of *Endtroducing*, though I’m not convinced that’s necessarily a bad thing. The measure and stride of “Lonely Soul” isn’t all too dissimilar to the likes of “Building Steam With a Grain of Salt” and “Midnight in a Perfect World”, and it’s undoubtedly one of the crowning jewels. “Rabbit in Your Headlights” is the other treasure, adapting a theatrical temperament that seems only fitting for [Thom Yorke](<https://audioxide.com/reviews/thom-yorke-the-eraser/>)’s astonishingly beautiful vocals. These two monuments are the optimum products of Shadow and Lavelle’s grand vision. Two bull’s-eyes from eleven attempts may at first seem a luckless proportion, but to experience UNKLE striving for something truly extraordinary is a worthwhile experience in itself.
+  Coming off the back of the groundbreaking *Endtroducing*, anticipation was certainly high. For certain fans and critics, *Psyence Fiction* was a colossal disappointment. It’s not nearly as accomplished as *Endtroducing*, true, nor is it as revolutionary. Yet the sampling on show is still, frankly, ingenious, and the sound is just as rich and multi-faceted. The construction and design of the soundscapes are outrageously good. Occasionally the beats do feel like outtakes of *Endtroducing*, though I’m not convinced that’s necessarily a bad thing. The measure and stride of “Lonely Soul” isn’t all too dissimilar to the likes of “Building Steam With a Grain of Salt” and “Midnight in a Perfect World”, and it’s undoubtedly one of the crowning jewels. “Rabbit in Your Headlights” is the other treasure, adapting a theatrical temperament that seems only fitting for [Thom Yorke](<reviews/thom-yorke-the-eraser/>)’s astonishingly beautiful vocals. These two monuments are the optimum products of Shadow and Lavelle’s grand vision. Two bull’s-eyes from eleven attempts may at first seem a luckless proportion, but to experience UNKLE striving for something truly extraordinary is a worthwhile experience in itself.
 tracks:
   - Rabbit in Your Headlights
   - ­­Lonely Soul
@@ -68,10 +68,10 @@ review: >-
   silly. If anything the album is stubbornly scattergun in its approach. Some
   grunge here, a sprinkle of trip hop there… and some orchestral spells of
   course. There’s a daring to that, win or lose. Throwing [Richard
-  Ashcroft](<https://audioxide.com/reviews/the-verve-urban-hymns/>) into the
+  Ashcroft](<reviews/the-verve-urban-hymns/>) into the
   midst of a downtempo flow is audacious, but “Lonely Soul” pulls it off. Doing
   sombre, cooing Thom Yorke [years before he was doing it
-  himself](<https://audioxide.com/reviews/thom-yorke-the-eraser/>) is something
+  himself](<reviews/thom-yorke-the-eraser/>) is something
   we probably take for granted now, but it really is quite impressive given
   *Psyence Fiction *came out in 1998.
 
@@ -91,9 +91,9 @@ review: Sample heavy albums usually appeal to me through their sheer creativity
   The Beastie Boys have piqued my interest during our reviews for similar
   reasons. Where *Psyence Fiction*, with DJ Shadow in tow, makes a stark
   difference is in the moods that result. Far from the cartoonesque quirk of
-  [*Wildflower*](<https://audioxide.com/reviews/the-avalanches-wildflower/>), or
+  [*Wildflower*](<reviews/the-avalanches-wildflower/>), or
   the bombast of [*Hello
-  Nasty*](<https://audioxide.com/reviews/beastie-boys-hello-nasty/>), *Psyence
+  Nasty*](<reviews/beastie-boys-hello-nasty/>), *Psyence
   Fiction* gives us “Bloodstain”. Its eerie, sullen guitar line creates a far
   more distinctive atmosphere that builds through its six-minute play time to
   wailing guitars that echo out across the stereo field. Distinction is *Psyence

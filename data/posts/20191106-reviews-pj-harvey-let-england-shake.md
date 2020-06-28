@@ -72,7 +72,7 @@ review: >-
   arrangements, the lyrics, the vocals — pulls in the same direction, and the
   results are haunting.
 
-  Harvey is obviously the lynchpin. She casts her spell immediately in the opening track, her sing-song lyrics seeping out of the mix like a Siren in the mist. That eerie childishness underpins a lot of what goes on. I suppose it helps make talk of war crimes and xenophobia and propaganda that much more depressing. The album’s quite reminiscent of [*Arthur*](<https://audioxide.com/reviews/the-kinks-arthur/>) by the Kinks in that sense, with jangly guitars, swelling horns, and featherlight melodies juxtaposed against visions of poor bastards being blown apart in fields. Defeated British irony at its best.
+  Harvey is obviously the lynchpin. She casts her spell immediately in the opening track, her sing-song lyrics seeping out of the mix like a Siren in the mist. That eerie childishness underpins a lot of what goes on. I suppose it helps make talk of war crimes and xenophobia and propaganda that much more depressing. The album’s quite reminiscent of [*Arthur*](<reviews/the-kinks-arthur/>) by the Kinks in that sense, with jangly guitars, swelling horns, and featherlight melodies juxtaposed against visions of poor bastards being blown apart in fields. Defeated British irony at its best.
 
   All this said, I’m never quite overwhelmed by *Let England Shake*. It’s close to sublime, but not quite. It’s a foggy, drizzly English dream with a handful of vivid moments. A dirge has never sounded so funky as “The Last Living Rose” does, while “All and Everyone” is sodden and beautiful in ways I think only PJ Harvey could manage. She’s a force of nature, and in Let England Shake she produced one of the 2010s’ finest records.
 tracks:

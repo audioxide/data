@@ -70,7 +70,7 @@ review: "*Compton* is a polished, lumbering beast of an album. Not so much
   things Compton, Dr. Dre’s latest concoction rides a peculiar line between
   celebration and reflection. The album’s who’s who of collaborators blows hot
   and lukewarm — [Kendrick
-  Lamar](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>)
+  Lamar](<reviews/kendrick-lamar-to-pimp-a-butterfly/>)
   and Snoop Dogg in particular deserve plaudits — and the result of this is an
   endearing tribute to the creative energies that made the work possible. It
   feels like something to be admired, rather than engaged with. This makes for
@@ -96,7 +96,7 @@ review: This is Dr. Dre’s first album in 16 years and, unsurprisingly, there
   filled to the brim with collaborators, and it’s clear that each was given a
   fair amount of control over the tracks they featured on. Kendrick Lamar
   applying his signature style that we heard from [*To Pimp a
-  Butterfly*](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>),
+  Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>),
   to Genocide and Snoop Dogg delivering a fierce vocal on “One Shot One Kill”.
   Aside from the collaborators though, the instrumentation across the album is
   impressive on its own. From rolling, swooping basslines in “Genocide” to

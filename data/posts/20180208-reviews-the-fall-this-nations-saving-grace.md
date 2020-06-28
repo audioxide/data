@@ -48,7 +48,7 @@ review: >-
   album’s quirks, but when all is said and done, *This Nation’s Saving Grace* is
   in fact a great album in its own musical right.
 
-  Songs often start with an outrageously catchy bass riff — a component of the record that brings with it a strange sense of accessibility — as Smith murmurs and mumbles his way through amusing verses like a drunk poet. His delirious vocal delivery is a constant oddity that meant The Fall would always be too divisive to become as universally popular as a band like Joy Division. Even so, the consequence of The Fall is most telling. Brit-Pop inherited the same cynicism, but merely delivered it in a more digestible manner. John Leckie, responsible for the fantastic production on *This Nation’s Saving Grace*, was also the man at the controls for [Radiohead](<https://audioxide.com/reviews/radiohead-ok-computer/>), The Stone Roses and [The Verve](<https://audioxide.com/reviews/the-verve-urban-hymns/>) during the ’90s, so he was presumably a big part of that sound carrying over. And what a glorious sound it is. I’ve thoroughly enjoyed my first experience with The Fall, and, despite its quirks, I’d sooner recommend *This Nation’s Saving Grace* than any [New Order](<https://audioxide.com/reviews/new-order-power-corruption-and-lies/>) album. How’s that for an endorsement?
+  Songs often start with an outrageously catchy bass riff — a component of the record that brings with it a strange sense of accessibility — as Smith murmurs and mumbles his way through amusing verses like a drunk poet. His delirious vocal delivery is a constant oddity that meant The Fall would always be too divisive to become as universally popular as a band like Joy Division. Even so, the consequence of The Fall is most telling. Brit-Pop inherited the same cynicism, but merely delivered it in a more digestible manner. John Leckie, responsible for the fantastic production on *This Nation’s Saving Grace*, was also the man at the controls for [Radiohead](<reviews/radiohead-ok-computer/>), The Stone Roses and [The Verve](<reviews/the-verve-urban-hymns/>) during the ’90s, so he was presumably a big part of that sound carrying over. And what a glorious sound it is. I’ve thoroughly enjoyed my first experience with The Fall, and, despite its quirks, I’d sooner recommend *This Nation’s Saving Grace* than any [New Order](<reviews/new-order-power-corruption-and-lies/>) album. How’s that for an endorsement?
 tracks:
   - My New House
   - ­­Spoilt Victorian Child
@@ -63,7 +63,7 @@ review: >-
   *This Nation’s Saving Grace *has been a pleasure to discover. A gross, seedy,
   cheerful pleasure. This is probably the first album I’ve listened to that
   literally sounded inebriated. It’s like Tom Waits’ *[Rain
-  Dogs](<https://audioxide.com/reviews/tom-waits-rain-dogs/>)*without the
+  Dogs](<reviews/tom-waits-rain-dogs/>)*without the
   dignity. There’s a looseness to what goes on, a chummy sleaze as distinct in
   the drums as in Mark E. Smith’s delivery. The Fall are on marvelous form here,
   and John Leckie’s production does them complete justice throughout. The songs

@@ -41,16 +41,16 @@ review: '<div class="_d97"><p>Before the remarkable rise to fame and fortune,
   we will be there’. As it turns out, ‘Mad Richard’ wasn’t so mad after all.
   It’s a testament to <em>Urban Hymns</em>, The Verve’s definitive album, that
   it still manages to stand out in such an incredible year. 1997 was host to
-  a&nbsp;<a href="https://audioxide.com/reviews/radiohead-ok-computer/"
+  a&nbsp;<a href="reviews/radiohead-ok-computer/"
   target="_blank" rel="noopener">handful of timeless records</a>,&nbsp;<a
-  href="https://audioxide.com/reviews/bjork-homogenic/" target="_blank"
+  href="reviews/bjork-homogenic/" target="_blank"
   rel="noopener">some outright</a><a
-  href="https://audioxide.com/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/"
+  href="reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/"
   target="_blank" rel="noopener">masterpieces</a>. <i>Hymns&nbsp;</i>may not be
   on the same level, which is no major criticism given the sheer mastery of
   those other releases, but it remains a great record of its time. For some
   critics, Oasis’s third album of the same year, <a
-  href="https://audioxide.com/articles/be-here-now-and-mr-hyde/" target="_blank"
+  href="articles/be-here-now-and-mr-hyde/" target="_blank"
   rel="noopener"><em>Be Here Now</em></a>, was the moment that the Britpop
   movement ended, and<em> Urban Hymns</em> is often viewed as the hangover. But
   this doesn’t do Ashcroft and company justice. This wasn’t so much the end of

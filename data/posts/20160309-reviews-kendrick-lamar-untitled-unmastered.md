@@ -35,7 +35,7 @@ author: ANDRÉ
 review: Kendrick Lamar’s sparse activity in the past 12 months has been an
   intriguing conversion in hip-hop. Most rappers would find it difficult to
   leave the limelight after releasing such an acclaimed record as *[To Pimp a
-  Butterfly](<http://audioxide.com/reviews/to-pimp-a-butterfly/>)*, but aside
+  Butterfly](<reviews/to-pimp-a-butterfly/>)*, but aside
   from some excellent TV performances Kendrick has laid relatively low. This in
   mind, *untitled unmastered.* is a pretty startling release, offering a natural
   extension to the poignant voice found on *TPaB*. This collection of demos,
@@ -43,7 +43,7 @@ review: Kendrick Lamar’s sparse activity in the past 12 months has been an
   full-length albums released by Kendrick Lamar’s peers, and it’s a testament to
   his craft that the record sounds even mildly cohesive. As opposed to Kanye
   West’s *[The Life of
-  Pablo](<http://audioxide.com/reviews/the-life-of-pablo/>)*, *untitled
+  Pablo](<reviews/the-life-of-pablo/>)*, *untitled
   unmastered.*’s incomplete nature is one of its most endearing
   qualities, providing an informative and rewarding insight into the man behind
   the magnificence of *TPaB*. Due to the rough nature of its formation, this
@@ -72,7 +72,7 @@ review: Can’t argue with more Kendrick. Refreshingly up-front about the jumble
   of its composition, *untitled unmastered. *is a welcome surprise and a worthy
   addition to Lamar’s already outrageous resume. Comprised primarily of dabbles
   and snippets from the formative months of *[To Pimp a
-  Butterfly](<http://audioxide.com/reviews/to-pimp-a-butterfly/>)*, this album
+  Butterfly](<reviews/to-pimp-a-butterfly/>)*, this album
   embraces its status as a patchwork and in doing so manages to sound more
   complete than many ‘real’ records do. In the absence of production’s gloss
   what really characterises *untitled unmastered. *is its grit. It’s a bare
@@ -101,7 +101,7 @@ review: "Here’s my disclaimer before we go any further: if this release had be
   and miss after all; it’s usually obvious why the tracks had been discarded in
   the first place. The good news? I don’t need be sympathetic, I don’t need to
   skirt around ugly truths, I don’t need to polish a turd. The sweepings from
-  *[To Pimp a Butterfly](<http://audioxide.com/reviews/to-pimp-a-butterfly/>)*‘s
+  *[To Pimp a Butterfly](<reviews/to-pimp-a-butterfly/>)*‘s
   cutting room floor include some treasures, all threaded together in a
   surprisingly consistent package. Many of the tracks here have all the
   hallmarks of tracks from *TPaB*: a healthy list of featured artists, jazz

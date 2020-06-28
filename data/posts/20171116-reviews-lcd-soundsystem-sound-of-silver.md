@@ -58,7 +58,7 @@ review: >-
   in particular, we can still hear him putting on all the parties he wasn’t able
   to attend.
 
-  This goes some way to explaining the magpie tendencies that guide Murphy’s songwriting, the clear imprint left by the likes of [Talking Heads](<https://audioxide.com/reviews/talking-heads-remain-in-light/>), [Brian Eno](<https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/>), Giorgio Morodor, and Lou Reed, as well as his decision to privilege analogue equipment over digital software when creating the record. Admittedly, it also invites accusations of conservativism, of the project being little more than an exercise in a borrowed nostalgia for the unremembered seventies and eighties, but I’m unconvinced by such charges for a couple of reasons. First, while LCD Soundsystem is undoubtedly a product of nostalgia, Murphy also interrogates it. He’s not merely indulging his influences or recreating the past; he’s delving into the past to forge something new, to connect the dots between disparate sounds and movements and producing a heady, indelible blend of electronica and rock. Second, the sense of longing inherent in this album’s aesthetic serves as the base for what is Murphy’s most sincere, mature, and emotionally complicated record to date. Indeed, the lyrical content here is frequently somber and contemplative, with songs addressing the trials and tribulations of life on the road, the loss of friendship, and the gentrification of his adopted city (within which he was complicit). Given this, then, a retreat to the sounds of one’s adolescence, that party music of one’s heart, would seem like a natural comfort. But it’s never that easy, because, as the title track reminds us, that adolescent state is patently undesirable because being a teenager fucking sucked. So we are left with an unresolved contradiction, one of the many that mark this record as one of the most complex, affecting, and goddamn thrilling of its generation.
+  This goes some way to explaining the magpie tendencies that guide Murphy’s songwriting, the clear imprint left by the likes of [Talking Heads](<reviews/talking-heads-remain-in-light/>), [Brian Eno](<reviews/brian-eno-ambient-1-music-for-airports/>), Giorgio Morodor, and Lou Reed, as well as his decision to privilege analogue equipment over digital software when creating the record. Admittedly, it also invites accusations of conservativism, of the project being little more than an exercise in a borrowed nostalgia for the unremembered seventies and eighties, but I’m unconvinced by such charges for a couple of reasons. First, while LCD Soundsystem is undoubtedly a product of nostalgia, Murphy also interrogates it. He’s not merely indulging his influences or recreating the past; he’s delving into the past to forge something new, to connect the dots between disparate sounds and movements and producing a heady, indelible blend of electronica and rock. Second, the sense of longing inherent in this album’s aesthetic serves as the base for what is Murphy’s most sincere, mature, and emotionally complicated record to date. Indeed, the lyrical content here is frequently somber and contemplative, with songs addressing the trials and tribulations of life on the road, the loss of friendship, and the gentrification of his adopted city (within which he was complicit). Given this, then, a retreat to the sounds of one’s adolescence, that party music of one’s heart, would seem like a natural comfort. But it’s never that easy, because, as the title track reminds us, that adolescent state is patently undesirable because being a teenager fucking sucked. So we are left with an unresolved contradiction, one of the many that mark this record as one of the most complex, affecting, and goddamn thrilling of its generation.
 tracks:
   - Someone Great
   - ­­All My Friends
@@ -73,8 +73,8 @@ review: >-
   I struggled with this one. Listening through it’s obvious how much love and
   craftsmanship went into making *Sound of Silver*, and the influences — from
   [Talking
-  Heads](<https://audioxide.com/reviews/talking-heads-remain-in-light/>) to
-  [Bowie](<https://audioxide.com/reviews/david-bowie-low/>) — bounce around
+  Heads](<reviews/talking-heads-remain-in-light/>) to
+  [Bowie](<reviews/david-bowie-low/>) — bounce around
   quite happily, but I can never really get on board with what’s happening. For
   every dance stormer like “Get Innocuous!” there’s a track I find repetitive
   and frigid. When the record lets its hair down and gets to the point it’s a
@@ -100,8 +100,8 @@ review: When *Sound of Silver* first released, I listened without much of a
   having a lot of fun with the album. Returning now, nostalgia intact, and
   knowing a little more about the album and its obvious influencers, I can’t
   help but still be totally charmed by it. With big dollops of [Talking
-  Heads](<https://audioxide.com/reviews/talking-heads-remain-in-light/>) and a
-  fair helping of [Bowie](<https://audioxide.com/reviews/david-bowie-low/>) too,
+  Heads](<reviews/talking-heads-remain-in-light/>) and a
+  fair helping of [Bowie](<reviews/david-bowie-low/>) too,
   it mixes its influencers with its own flavour of rolling dance tracks and
   fidgety indie rock that I can make a lot of time for. “Get Innocuous!”, “North
   American Scum” and “New York, I Love you[…]” are the most popular, and very

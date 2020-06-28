@@ -31,10 +31,10 @@ week: 71
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>2016 has been a harrowing year for music. Legendary
-  artists have left us —&nbsp;<a href="https://audioxide.com/reviews/blackstar/"
+  artists have left us —&nbsp;<a href="reviews/blackstar/"
   target="_blank" rel="noopener">some in dramatic fashion</a>&nbsp;— whilst
   others have <a
-  href="https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/"
+  href="reviews/radiohead-a-moon-shaped-pool/"
   target="_blank" rel="noopener">delivered their bleakest offerings yet</a>.
   <em>Skeleton Tree</em>, the latest record from Nick Cave &amp; The Bad Seeds,
   falls right in line. Deep, dark, and despondent, it is a suitable

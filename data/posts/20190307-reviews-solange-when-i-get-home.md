@@ -35,7 +35,7 @@ blurb: When I Get Home feels like neither a continuation nor progression from
 author: André
 review: >-
   [Though we were all fairly lukewarm on its
-  release](<https://audioxide.com/reviews/solange-a-seat-at-the-table/>), *A
+  release](<reviews/solange-a-seat-at-the-table/>), *A
   Seat at the Table* eventually became one of my favourite records of 2016. It
   flowed like a written diary, and its sound was sumptuous. More importantly,
   its power grew over time. My initial reaction to Solange’s latest release,
@@ -57,7 +57,7 @@ score:
 author: MARCUS
 review: >-
   [*A Seat at the
-  Table*](<https://audioxide.com/reviews/solange-a-seat-at-the-table/>) is a
+  Table*](<reviews/solange-a-seat-at-the-table/>) is a
   wonderful album, bursting with well-developed creativity and the perfect
   balance of carefree serenity and intrigue. Solange’s gracefulness felt like
   the core of the album’s success, underpinning every track with elegance and
@@ -86,7 +86,7 @@ review: >-
   album, and that it’s the listener’s responsibility to dive deeper, I find
   myself struggling not to float away, let alone dive in.
 
-  That doesn’t mean this is a tiresome listen though. There are some great moments here and the overall vibe and tone of the album is pleasant enough despite not holding my attention throughout. “Stay Flo” has a delicate instrumental and involvement across the track from Metro Boomin. “Almeda” has a great flow and a similarly solid instrumental. “Sound of Rain”, my album highlight, has an infectious quality to it and a breezy vocal. But the main reason that these are the album’s best moments is more likely because of their solid structure, focus and personality. Each track stands out from the rest of the tracklist and many of the stronger themes from [*A Seat at the Table*](<https://audioxide.com/reviews/solange-a-seat-at-the-table/>) are present in the vocals.
+  That doesn’t mean this is a tiresome listen though. There are some great moments here and the overall vibe and tone of the album is pleasant enough despite not holding my attention throughout. “Stay Flo” has a delicate instrumental and involvement across the track from Metro Boomin. “Almeda” has a great flow and a similarly solid instrumental. “Sound of Rain”, my album highlight, has an infectious quality to it and a breezy vocal. But the main reason that these are the album’s best moments is more likely because of their solid structure, focus and personality. Each track stands out from the rest of the tracklist and many of the stronger themes from [*A Seat at the Table*](<reviews/solange-a-seat-at-the-table/>) are present in the vocals.
 
   For the most part, however, the rest of the tracklist escapes me, and that’s especially true in the final third where tracks appear in quick succession. Vocals appear to waver and float through, instrumentals are well produced but can often blend together in a mesh of beats and Moog murmurs.
 

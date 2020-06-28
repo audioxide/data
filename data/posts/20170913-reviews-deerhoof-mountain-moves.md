@@ -38,14 +38,14 @@ review: <div class="_d97"><p>Deerhoof are amongst the finest acts in indie rock;
   all these years, it’s practically a given that charming noise pop doesn’t come
   much sweeter than Deerhoof, and the level of consistency they have achieved is
   almost unprecedented — you’d have to look at a band as gigantic as <a
-  href="https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/"
+  href="reviews/radiohead-a-moon-shaped-pool/"
   target="_blank" rel="noopener">Radiohead</a> to even start comparisons. If the
   Deerhoof catalogue lacks anything, it’s probably that <a
-  href="https://audioxide.com/reviews/radiohead-ok-computer/" target="_blank"
+  href="reviews/radiohead-ok-computer/" target="_blank"
   rel="noopener">one</a>¨NBSP;<a
-  href="https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/"
+  href="reviews/nine-inch-nails-the-downward-spiral/"
   target="_blank" rel="noopener">essential</a><a
-  href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/"
+  href="reviews/kendrick-lamar-to-pimp-a-butterfly/"
   target="_blank" rel="noopener">album</a> that will keep listeners hooked for
   decades to come. <em>Mountain Moves</em>, their 14th studio album, isn’t the
   crucial masterstroke we crave, but it is another vastly enjoyable dose of

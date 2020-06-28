@@ -60,10 +60,10 @@ review: >-
   foundations are solid, but there’s not much on top. The grooves are
   relentless, sometimes even catchy. There just isn’t that finesse. Much of the
   album has the muscle of a [Queens of the Stone
-  Age](<https://audioxide.com/reviews/queens-of-the-stone-age-queens-of-the-stone-age/>)
+  Age](<reviews/queens-of-the-stone-age-queens-of-the-stone-age/>)
   record, but none of the swagger.
 
-  The “Hank is Dead” solo isn’t bad, managing to step away from the dense, guitar sound that is apparently compulsory in metal bands. And “The Undertow” almost, *almost* sounds like something [Godspeed You! Black Emperor](<https://audioxide.com/reviews/godspeed-you-black-emperor-f%e2%99%af-a%e2%99%af-infinity/>) could put out. I am reaching here though. There’s really not much to hold on to. When the growling and power chords and sextuple bass pedals are doing their thing I can’t help but phase out. It’s the musical equivalent of bodybuilders admiring themselves in the gym mirror.
+  The “Hank is Dead” solo isn’t bad, managing to step away from the dense, guitar sound that is apparently compulsory in metal bands. And “The Undertow” almost, *almost* sounds like something [Godspeed You! Black Emperor](<reviews/godspeed-you-black-emperor-f%e2%99%af-a%e2%99%af-infinity/>) could put out. I am reaching here though. There’s really not much to hold on to. When the growling and power chords and sextuple bass pedals are doing their thing I can’t help but phase out. It’s the musical equivalent of bodybuilders admiring themselves in the gym mirror.
 tracks:
   - The Undertow
 score:

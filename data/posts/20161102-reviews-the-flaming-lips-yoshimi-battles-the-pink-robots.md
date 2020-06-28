@@ -109,7 +109,7 @@ review: I’ve got a lot of love for The Flaming Lips’ tenth studio album. Set
   their previous work can be heard next to washes of otherworldly and squelchy
   synths and effects, giving the album its neo-psychedelic tinge and drawing a
   lot of comparisons with artists like Air and [Daft
-  Punk](<https://audioxide.com/reviews/daft-punk-discovery/>) around the same
+  Punk](<reviews/daft-punk-discovery/>) around the same
   period. Slow moving strings and additional percussion including tubular bells
   and timpani drums add a cinematic, interesting, warm sound to many tracks too.
   The instrumentals are where this melting pot of sound is allowed to shine,

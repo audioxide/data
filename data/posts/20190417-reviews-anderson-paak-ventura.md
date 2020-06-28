@@ -39,14 +39,14 @@ review: >-
   for the summer. It packs a punch, though it’s missing that knockout blow,
   which largely comes down to a lack of originality. The substantial nods to
   funk rock and [golden-age Stevie
-  Wonder](<https://audioxide.com/reviews/stevie-wonder-songs-in-the-key-of-life/>)
+  Wonder](<reviews/stevie-wonder-songs-in-the-key-of-life/>)
   are nice, but perhaps lay it on slightly too thick. Influences very quickly
   become imitation. There’s something slightly cynical about replicating a sound
   so closely without including anything meaningful to the formula.
 
-  Paak doesn’t do much in the way of rapping on *Ventura*, which is a shame given how good he sounds spitting on “Yada Yada”, with its focus on creative freedom in an exploitative industry: ‘came a long way from them open mics at Leimert/forgive me if I walk like I got a chip on my shoulder/label tried to play me like I didn’t do all the work/I found another way through the open gate and my purpose’. It’s a clear highlight, and the flow is reminiscent of [peak Kendrick Lamar](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>).
+  Paak doesn’t do much in the way of rapping on *Ventura*, which is a shame given how good he sounds spitting on “Yada Yada”, with its focus on creative freedom in an exploitative industry: ‘came a long way from them open mics at Leimert/forgive me if I walk like I got a chip on my shoulder/label tried to play me like I didn’t do all the work/I found another way through the open gate and my purpose’. It’s a clear highlight, and the flow is reminiscent of [peak Kendrick Lamar](<reviews/kendrick-lamar-to-pimp-a-butterfly/>).
 
-  *Ventura* is an enjoyable record, for sure, but it’s always a shame when great talent settles for something less. [Frank Ocean](<https://audioxide.com/reviews/frank-ocean-channel-orange/>) pushes R&B to all sorts of weird and wonderful places, and that’s why Channel Orange will be remembered in 10 years time. For all its positives, I doubt *Ventura* will be looked back on with such fondness, and there’s very little doubt that Paak’s best work still lies ahead of him.
+  *Ventura* is an enjoyable record, for sure, but it’s always a shame when great talent settles for something less. [Frank Ocean](<reviews/frank-ocean-channel-orange/>) pushes R&B to all sorts of weird and wonderful places, and that’s why Channel Orange will be remembered in 10 years time. For all its positives, I doubt *Ventura* will be looked back on with such fondness, and there’s very little doubt that Paak’s best work still lies ahead of him.
 tracks:
   - Make It Better
   - ­­Yada Yada
@@ -86,7 +86,7 @@ review: >-
 
   Kicking off with a very welcome feature from Andre 3000, opener “Come Home” sets a good pace for the rest of the album. Instrumentals are backed by suave basslines that saunter smartly under proceedings, while crisp guitar lines and warm keys fill out the space comfortably. “Make It Better” dusts doting strings throughout as Paak’s vocal takes centre stage.
 
-  *Ventura* isn’t making any effort to hide its influences, while there are a lot of contemporary artists’ influence in the mix, [Kendrick Lamar](<https://audioxide.com/reviews/kendrick-lamar-untitled-unmastered/>) and [Frank Ocean](<https://audioxide.com/reviews/frank-ocean-blond/>) to name just two, the funk and disco here teeters on the line so much it may well stub Stevie Wonder’s toes at times. On the other hand, “Twilight” is the exception to that rule and stands out from the rest of the tracklist as a result, and while the closer, “What Can We Do?”, returns to the ’70s funk and soul, it too stands out as a highlight here and really does leave me wanting something more, for better or worse.
+  *Ventura* isn’t making any effort to hide its influences, while there are a lot of contemporary artists’ influence in the mix, [Kendrick Lamar](<reviews/kendrick-lamar-untitled-unmastered/>) and [Frank Ocean](<reviews/frank-ocean-blond/>) to name just two, the funk and disco here teeters on the line so much it may well stub Stevie Wonder’s toes at times. On the other hand, “Twilight” is the exception to that rule and stands out from the rest of the tracklist as a result, and while the closer, “What Can We Do?”, returns to the ’70s funk and soul, it too stands out as a highlight here and really does leave me wanting something more, for better or worse.
 
   As has become a trend this year, however, I don’t get much more than a pleasant yet unremarkable listening experience. *Ventura* has a polished sound without doing much with it or treading new ground, and while neither is a requirement of a great album, it’s something that Paak has achieved in the past, so it’s hard not to see it as a slight step down. This latest release will no doubt stick around for the summer sound it exudes, but whether it stays longer than that is less certain.
 tracks:

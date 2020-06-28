@@ -18,7 +18,7 @@ blurb: Reviews make a lot more sense when they can be put into context. After
 
 ![Collage of the first 150 albums we've reviewed](<2018/08/Statsioxide.jpg> =1500x1000)
 ------
-We’ve been [reviewing an album a week for over three years now](<https://audioxide.com/reviews/>). There have been lulls, bumps in the road, but we’ve finally got 150 under our belt. To celebrate the milestone we took some cues from [Statstano](<http://www.statstano.com/>) and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.
+We’ve been [reviewing an album a week for over three years now](<reviews/>). There have been lulls, bumps in the road, but we’ve finally got 150 under our belt. To celebrate the milestone we took some cues from [Statstano](<http://www.statstano.com/>) and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.
 
 ## Average scores
 First things first: average scores. The three of us each assign a personal score out of 10 to the album we’re reviewing. Those three are then combined into an overall score out of 30. We all need to like an album for it to score well. It also takes more than one of us disliking an album for it to do badly.
@@ -32,9 +32,9 @@ The remaining 73 were oldies — retrospective reviews of old favourites, suppos
 Our individual scores are where things start to fragment a little. We’ve each settled into a role of sorts for our reviews, and that bears out in the numbers.
 ![Individual review score averages](<2018/08/Individual-review-score-averages.png> =1146x588)[André](<https://twitter.com/andredack>) is the most forgiving of new releases, while [Andrew](<https://twitter.com/andrewbridge>) has the highest average for oldies. Andrew also has the highest overall average: 7.26. [Fred](<https://twitter.com/thewhalelines>) confirmed his status as resident grinch by having the lowest average score across the board.
 Andrew gave a score of nine or higher in 17.93% of his reviews, André 13.60%, and Fred 9.02%. We’ve each given two perfect scores so far:
-- **André:** [*The Downward Spiral*](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>) by Nine Inch Nails & [*OK Computer*](<https://audioxide.com/reviews/radiohead-ok-computer/>) by Radiohead
-- **Fred:**[*The Dark Side of the Moon*](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>) by Pink Floyd & [*On the Beach*](<https://audioxide.com/reviews/neil-young-on-the-beach/>) by Neil Young
-- **Andrew:***OK Computer *by Radiohead & [*Can I Borrow a Feeling?*](<https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/>) By Kirk Van Houten.
+- **André:** [*The Downward Spiral*](<reviews/nine-inch-nails-the-downward-spiral/>) by Nine Inch Nails & [*OK Computer*](<reviews/radiohead-ok-computer/>) by Radiohead
+- **Fred:**[*The Dark Side of the Moon*](<reviews/pink-floyd-the-dark-side-of-the-moon/>) by Pink Floyd & [*On the Beach*](<reviews/neil-young-on-the-beach/>) by Neil Young
+- **Andrew:***OK Computer *by Radiohead & [*Can I Borrow a Feeling?*](<reviews/kirk-van-houten-can-i-borrow-a-feeling/>) By Kirk Van Houten.
 <!-- -->
 All worthy works to be sure.
 The three of us accounted for 425 of the first 450 individual summaries on the site, but sometimes life gets in the way. When one of us couldn’t make it, friends would step in. Our guest writers contributed as follows:
@@ -42,35 +42,35 @@ The three of us accounted for 425 of the first 450 individual summaries on the s
 
 ## Time spent listening
 The combined length of the albums we’ve reviewed is **123 hours 52 minutes 40 seconds** — over 5 straight days of music. Given we each try to listen to an album at least three times before reviewing it, **a minimum of ****46 days of listening has gone into the site so far**.
-The longest album we reviewed was [*The Glowing Man *](<https://audioxide.com/reviews/swans-the-glowing-man/>)by Swans at **1 hour 58 minutes 3 seconds**, while the shortest was *[Rocket to Russia](<https://audioxide.com/reviews/ramones-rocket-to-russia/>)*by Ramones at **31 minutes 46 seconds**. The average album length was **49 minutes 33 seconds**.
+The longest album we reviewed was [*The Glowing Man *](<reviews/swans-the-glowing-man/>)by Swans at **1 hour 58 minutes 3 seconds**, while the shortest was *[Rocket to Russia](<reviews/ramones-rocket-to-russia/>)*by Ramones at **31 minutes 46 seconds**. The average album length was **49 minutes 33 seconds**.
 [A record needle travels nearly two-thirds of a mile in 48 minutes](<https://www.vinylengine.com/turntable_forum/viewtopic.php?f=41&t=17225>) (just over 1 kilometer). Using that estimate, a needle would have to travel just short of 100 miles (or 160 kilometers) to get through our first 150 albums. Pretty groovy.
 Album length numbers also shed light on a funny little oddity. Andrew has insisted for years that album length should sit in the sweet spot between 36 and 44 minutes, otherwise they are too short or too long. It was curious then to find that Andrew’s average score for albums in that length range is actually *lower* than his overall average. He insists these are the exceptions that prove the rule.
 
 ## The 27+ Club
 It’s rare for an album to score 27 or higher. It’s not enough for one of us to love it, we all need to. When a album pulls off this feat it joins the 27+ Club.
 Ten albums have made it so far — eight oldies and two new releases:
-- [*OK Computer*](<https://audioxide.com/reviews/radiohead-ok-computer/>) by Radiohead
-- [*The Downward Spiral*](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>) by Nine Inch Nails
-- [*Homogenic*](<https://audioxide.com/reviews/bjork-homogenic/>) by Bjork
-- [*On the Beach*](<https://audioxide.com/reviews/neil-young-on-the-beach/>) by Neil Young
-- [*Low*](<https://audioxide.com/reviews/david-bowie-low/>) by David Bowie
-- [*Songs in the Key of Life*](<https://audioxide.com/reviews/stevie-wonder-songs-in-the-key-of-life/>) by Stevie Wonder
-- [*The Dark Side of the Moon*](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>) by Pink Floyd
-- [*Kind of Blu*e](<https://audioxide.com/reviews/miles-davis-kind-of-blue/>) by Miles Davis
-- [*To Pimp a Butterfly*](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>) by Kendrick Lamar
-- [*Visions of a Life*](<https://audioxide.com/reviews/wolf-alice-visions-of-a-life/>) by Wolf Alice
+- [*OK Computer*](<reviews/radiohead-ok-computer/>) by Radiohead
+- [*The Downward Spiral*](<reviews/nine-inch-nails-the-downward-spiral/>) by Nine Inch Nails
+- [*Homogenic*](<reviews/bjork-homogenic/>) by Bjork
+- [*On the Beach*](<reviews/neil-young-on-the-beach/>) by Neil Young
+- [*Low*](<reviews/david-bowie-low/>) by David Bowie
+- [*Songs in the Key of Life*](<reviews/stevie-wonder-songs-in-the-key-of-life/>) by Stevie Wonder
+- [*The Dark Side of the Moon*](<reviews/pink-floyd-the-dark-side-of-the-moon/>) by Pink Floyd
+- [*Kind of Blu*e](<reviews/miles-davis-kind-of-blue/>) by Miles Davis
+- [*To Pimp a Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>) by Kendrick Lamar
+- [*Visions of a Life*](<reviews/wolf-alice-visions-of-a-life/>) by Wolf Alice
 <!-- -->
 **Only 6.67% of the albums we’ve reviewed so far have joined the 27+ Club.** 10\.95% of oldies were inducted, but only 2.59% of new releases so far have made the cut. There were 13 albums that missed out by one point, usually because of Fred.
 The average length of a 27+ Club album was 55 minutes, 53 seconds.
 
 ## The dregs
 We tend to be quite indulgent of the music we listen to. Only reviewing one album a week means we can be picky about what we listen to. We’d sooner do an oldie review than spend a week listening to something we know we’re likely to loath. Accordingly, even our lowest reviews aren’t *that *low compared to [some floating around](<https://pitchfork.com/reviews/albums/5799-the-fragile/>).
-The lowest rated album to date is [*AIM*](<https://audioxide.com/reviews/mia-aim/>) by Mia, a new release. It clocked in with a meagre 12 out of 30, gettings fours from each of us. The lowest rated oldie was [*Power, Corruption & Lies*](<https://audioxide.com/reviews/new-order-power-corruption-and-lies/>) by New Order. We gave it 14 out of 30, an act of sacrilege we stand firmly by.
+The lowest rated album to date is [*AIM*](<reviews/mia-aim/>) by Mia, a new release. It clocked in with a meagre 12 out of 30, gettings fours from each of us. The lowest rated oldie was [*Power, Corruption & Lies*](<reviews/new-order-power-corruption-and-lies/>) by New Order. We gave it 14 out of 30, an act of sacrilege we stand firmly by.
 
 ## Genres & geography
 Rock has been by far and away our favourite genre to review. **81 of our first 150 albums were rock albums. **The second highest genre was electronic clocking in with 23, with hip hop in third with 15.
 ![Genres reviewed](<2018/08/Genres-reviewed.png> =1085x668)Rock was also our highest rated genre, with an average score of 21.94. Hip hop was a close second with 21.73, while the mishmash of ‘other’ genres came third with 21.98. Electronic did comparatively poorly, which was a little surprising. A good few of our favourite albums so far have been electronic. Our snobbishness was laid bare in regard to pop albums, which averaged 19.42.
-![Average score by genre](<2018/08/Average-Score-by-Genre.png> =1295x632)As for region, 50% of albums reviewed were by artists from the United States (averaging 21.55) with a further 34.7% from England (averaging 21.46). The remaining 15.3% were a mix of Canada, Scotland, Australia, France, Iceland (read: [Bjork](<https://audioxide.com/reviews/bjork-homogenic/>)), Ireland, Norway, Jamaica, New Zealand, Belgium, and Sweden.
+![Average score by genre](<2018/08/Average-Score-by-Genre.png> =1295x632)As for region, 50% of albums reviewed were by artists from the United States (averaging 21.55) with a further 34.7% from England (averaging 21.46). The remaining 15.3% were a mix of Canada, Scotland, Australia, France, Iceland (read: [Bjork](<reviews/bjork-homogenic/>)), Ireland, Norway, Jamaica, New Zealand, Belgium, and Sweden.
 
 ## Postscript
 And that’s that, more or less. A lot of this confirmed what we suspected, but there’s value even in that. Reviews make a lot more sense in context. Hopefully these numbers provide that. We’ve loved the experience so far, even Fred. We’ve introduced each other to incredible artists, shared unforgettable listening experiences (good and bad), and we’re hopefully only just getting started.

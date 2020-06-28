@@ -71,7 +71,7 @@ review: >-
 
   The good tracks are really good, and the forgettable ones are so short that they don’t have time to weigh the experience down. Presley fronts with impressive ooh la la, and Scotty Moore’s guitar work hops around with a rascal-like energy perfect for the occasion. The occasion being an assortment of altogether unrelated songs fronted by kid who had something special.
 
-  Albums were a different animal back when *Elvis Presley* came out, though that didn’t stop [another ‘50s album](<https://audioxide.com/reviews/miles-davis-kind-of-blue/>) being one of our highest rated ever. A record can be iconic and flawed at the same time. This is unrefined, hit and miss, and sometimes irresistible. I don’t think it should have been any other way. Presley would go on to become the King of Rock, but on his debut you hear him when he was still a prince.
+  Albums were a different animal back when *Elvis Presley* came out, though that didn’t stop [another ‘50s album](<reviews/miles-davis-kind-of-blue/>) being one of our highest rated ever. A record can be iconic and flawed at the same time. This is unrefined, hit and miss, and sometimes irresistible. I don’t think it should have been any other way. Presley would go on to become the King of Rock, but on his debut you hear him when he was still a prince.
 tracks:
   - Tryin’ to Get to You
   - ­­Blue Suede Shoes

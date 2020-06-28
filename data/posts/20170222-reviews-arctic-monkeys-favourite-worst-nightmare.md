@@ -37,8 +37,8 @@ review: The release of Arctic Monkeys’ debut album was a monumental occasion.
   *Whatever People Say I Am, That’s What I’m Not* broke numerous British
   records, and it remains the fastest selling album by a band in the UK to date.
   At the time, comparisons were made with cultural giants on the scale of
-  [Oasis](<https://audioxide.com/reviews/oasis-definitely-maybe/>) and [The
-  Beatles](<https://audioxide.com/reviews/the-beatles-revolver/>), whilst
+  [Oasis](<reviews/oasis-definitely-maybe/>) and [The
+  Beatles](<reviews/the-beatles-revolver/>), whilst
   frontman Alex Turner was being described as a [‘master of
   observation’](<http://www.nme.com/reviews/album/reviews-arctic-monkeys-7837>).
   For a band who were still in their teens, the accolades were maybe a little

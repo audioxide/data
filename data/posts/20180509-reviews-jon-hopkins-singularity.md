@@ -51,7 +51,7 @@ review: >-
   [“Open Eye Signal”](<https://www.youtube.com/watch?v=Q04ILDXe3QE>) did in
   2013.
 
-  Creating a compelling 10-minute techno tune, simply by manipulating moody bass growls and vigorous drum breaks, has become a Hopkins trademark at this point. After years of listening to his work, I still get a buzz from the hypnotic nature of songs like “Singularity” and “Everything Connected”. The sounds are rich enough for your mind to wander, but this is no disservice to the music itself, such is the nature of ambient music, which *Singularity* does flirt with. My favourite moments on the album are indeed those that evoke [Eno’s early ambient works](<https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/>). “Recovery” and “Feel First Life” are composed in a way that holds real potential to evoke emotion from a listener; offering a delicate space to sustain any level of comedown. Hopkins’ interest in meditation becomes more noticeable with each passing record, to the point where it’s becoming a categorical influence. *Singularity* is ultimately a record I admire rather than cherish, but there’s enough scope here for it to become a favourite for certain listeners. To any fan of electronic music, I suggest you strap yourself in and enjoy the ride. There’s a good chance you’ll love it.
+  Creating a compelling 10-minute techno tune, simply by manipulating moody bass growls and vigorous drum breaks, has become a Hopkins trademark at this point. After years of listening to his work, I still get a buzz from the hypnotic nature of songs like “Singularity” and “Everything Connected”. The sounds are rich enough for your mind to wander, but this is no disservice to the music itself, such is the nature of ambient music, which *Singularity* does flirt with. My favourite moments on the album are indeed those that evoke [Eno’s early ambient works](<reviews/brian-eno-ambient-1-music-for-airports/>). “Recovery” and “Feel First Life” are composed in a way that holds real potential to evoke emotion from a listener; offering a delicate space to sustain any level of comedown. Hopkins’ interest in meditation becomes more noticeable with each passing record, to the point where it’s becoming a categorical influence. *Singularity* is ultimately a record I admire rather than cherish, but there’s enough scope here for it to become a favourite for certain listeners. To any fan of electronic music, I suggest you strap yourself in and enjoy the ride. There’s a good chance you’ll love it.
 tracks:
   - Recovery
   - ­­Feel First Life
@@ -72,7 +72,7 @@ review: It bothers me not liking music like *Singularity *more than I do. There
   participation hardly seems necessary. When the aesthetic is applied to
   concrete arrangements, as it is in “Emerald Rush”, the results are really
   quite beautiful. [We all know what can be achieved when texture is wedded with
-  purpose](<https://audioxide.com/reviews/boards-of-canada-music-has-the-right-to-children/>),
+  purpose](<reviews/boards-of-canada-music-has-the-right-to-children/>),
   but purpose keeps things casual on this record. On *Singularity* function
   seems to follow form, and it’s hard to get on board with that. I understand
   why many will love *Singularity*, but I suspect the itch it scratches is quite
@@ -100,7 +100,7 @@ review: Jon Hopkins hasn’t thrown any surprises into the mix with *Singularity
   into a rolling, cavernous track, with layer upon layer unfurling steadily
   through its play time. And even at the album’s calmer moments during “Feel
   First Life” and the closer, “Recovery”, both beautiful,
-  [Eno-esque](<https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/>),
+  [Eno-esque](<reviews/brian-eno-ambient-1-music-for-airports/>),
   piano focused interludes, I’m drawn in by the evocative soundscape Hopkins
   sets out. Objectively, however, I can see *Singularity*’s imperfections. If
   you’ve not been gripped by the former half of the album, the latter half may

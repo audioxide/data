@@ -53,7 +53,7 @@ review: '<div class="_d97"><p>Godspeed You! Black Emperor’s debut record
   melody, and sometimes Godspeed You! Black Emperor flourish when barely any
   music is playing at all. “East Hastings” evokes a sense of isolation that
   would be perfect for the barren wastelands of <em><a
-  href="https://audioxide.com/articles/world-on-fire-the-music-of-fallout-3/"
+  href="articles/world-on-fire-the-music-of-fallout-3/"
   target="_blank" rel="noopener">Fallout</a></em>, whilst “The Dead Flag Blues”
   depicts a Gothic Hawaii, with its sublime slide guitars and bass-driven
   melody. <em>F♯ A♯ ∞</em> slips out of different styles and genres with ease,

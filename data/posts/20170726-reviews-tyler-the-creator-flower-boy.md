@@ -39,7 +39,7 @@ review: >-
   with an endearing spirit, but much of the music itself was ultimately
   underwhelming. Fast forward to 2017, and it’s only Tyler, The Creator, Earl
   Sweatshirt, and of course [Frank
-  Ocean](<https://audioxide.com/reviews/frank-ocean-channel-orange/>), who have
+  Ocean](<reviews/frank-ocean-channel-orange/>), who have
   sustained some degree of success. However, whilst the latter two have allowed
   their music to carry their reputation, a lot of Tyler’s relevance can be put
   down to multiple controversies and instances of exclusion. His output has been
@@ -66,9 +66,9 @@ review: Having never listened to Tyler, the Creator before, I thoroughly enjoyed
   quite a feat in any genre, let alone R&B. Production is polished, but all the
   individual elements have space to voice themselves. Affairs float from
   brutalist grinds worthy of [Death
-  Grips](<https://audioxide.com/reviews/death-grips-the-powers-that-b/>) to
+  Grips](<reviews/death-grips-the-powers-that-b/>) to
   glimmering [Pink
-  Floyd](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>)
+  Floyd](<reviews/pink-floyd-the-dark-side-of-the-moon/>)
   guitar odes… and it makes sense. It feels right. The fuck? The makeup of each
   song is super solid, with just the right overlap to keep overall tone
   consistent. If anything, the care clearly taken with each track has come at
@@ -98,7 +98,7 @@ review: "This could’ve easily been a lightweight, offensive, puff of smoke tha
   for an album that I can’t help but return to. From the solid, albeit slightly
   abrupt opener, it’s clear that a change of pace has occurred: both “Foreword”
   and “Where This Flower Blooms” sound close to [Frank
-  Ocean](<https://audioxide.com/reviews/frank-ocean-blond/>) tracks.
+  Ocean](<reviews/frank-ocean-blond/>) tracks.
   Instrumentals across the album are very satisfying by themselves, mixing solid
   beats with a good variety of styles, from the cinematic opening to the lazy
   psychedelic vibe in “Garden Shed” and the bass heavy grittier pace in the

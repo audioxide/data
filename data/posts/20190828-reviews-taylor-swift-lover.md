@@ -35,10 +35,10 @@ author: André
 review: >-
   This is a golden age of female pop stars. In the past few years we’ve had
   fabulous records from
-  [Lorde](<https://audioxide.com/listeningparties/lorde-melodrama/>), Billie
+  [Lorde](<listeningparties/lorde-melodrama/>), Billie
   Eilish, [Janelle
-  Monae](<https://audioxide.com/reviews/janelle-monae-dirty-computer/>),
-  [Robyn](<https://audioxide.com/reviews/robyn-honey/>), Ariana Grande, and many
+  Monae](<reviews/janelle-monae-dirty-computer/>),
+  [Robyn](<reviews/robyn-honey/>), Ariana Grande, and many
   more of this generation’s finest talents. The most frustrating thing about
   Taylor Swift’s latest album is just how close it flirts to the greatness of
   those records. I certainly haven’t enjoyed any of her previous releases as
@@ -66,14 +66,14 @@ review: >-
   heartfelt pop record that would have benefitted from killing some of its
   darlings. Flagship tracks like “Lover”, “The Man”, and “Cruel Summer” are
   brilliant — hip, catchy… all that stuff. *Lover* isn’t as expansive as [Kate
-  Bush](<https://audioxide.com/reviews/kate-bush-hounds-of-love/>) or as daring
-  as [St. Vincent](<https://audioxide.com/reviews/st-vincent-masseduction/>),
+  Bush](<reviews/kate-bush-hounds-of-love/>) or as daring
+  as [St. Vincent](<reviews/st-vincent-masseduction/>),
   but it is accessible and intelligent, which I think are the hallmarks of Swift
   at her best.
 
   Are the lyrics clunky at times? Oh yes. (“London Boy” especially, good lord. It sounds like it was co-written with an A-Z map.) But generally the album is fun without being totally surface level pop fluff. “You Need to Calm Down”, which makes no bones about mocking online trolls, is as sassy as it is catchy. That’s not usually my vibe, but if you own it you own it, and I’m all for pop music engaging with real things in real ways. “The Man” is a highlight for the same reasons.
 
-  That’s not to say I’m enamoured with *Lover*. The magic of pop, for me, is how much larger than life it can be. Listen to prime [Michael Jackson](<https://audioxide.com/reviews/michael-jackson-bad/>), Lady Gaga, or [Robyn](<https://audioxide.com/reviews/robyn-honey/>) and you hear titans. Not so with Swift. It’s almost charming how ordinary her A-list budget worlds feel. Almost. If the record was a little shorter and a little looser, I think it’d be one of the releases of the year. All the same, it deserves a listen or two. There’s plenty to like.
+  That’s not to say I’m enamoured with *Lover*. The magic of pop, for me, is how much larger than life it can be. Listen to prime [Michael Jackson](<reviews/michael-jackson-bad/>), Lady Gaga, or [Robyn](<reviews/robyn-honey/>) and you hear titans. Not so with Swift. It’s almost charming how ordinary her A-list budget worlds feel. Almost. If the record was a little shorter and a little looser, I think it’d be one of the releases of the year. All the same, it deserves a listen or two. There’s plenty to like.
 tracks:
   - Cruel Summer
   - ­­Lover

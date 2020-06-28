@@ -18,7 +18,7 @@ blurb: From Galaxy News Radio to the old-school homages of Inon Zur's ambient
 ### [Fred](<https://www.youtube.com/watch?v=W773ZPJhcVw>)
 #### 11\.08.02017
 ------
-*This is part of [a series of articles](<https://audioxide.com/themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
+*This is part of [a series of articles](<themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
 ------
 ![Vault Boy enjoying the 'Fallout 3' soundtrack](<2017/08/vault-boy-shadow-1024x910.jpg> =680x604 "Vault Boy enjoying the 'Fallout 3' soundtrack")------
 *Fallout 3* is a unique beast, something taken for granted sometimes. Generally — [though not quite universally](<https://www.youtube.com/watch?v=mLJ1gyIzg78&t=154s>) — adored, the game occupies a peculiar space between continuity and innovation. Inheriting the legacy of an acquired franchise, yet announcing itself to millions of console players, [*Fallout 3*’s soundtrack](<https://www.youtube.com/watch?v=Q0D5IB3C14E>) is crucial to both the game’s atmosphere and its lasting impact. Composer Inon Zur’s ambient work, juxtaposed with the warm, crackling tunes of Galaxy News Radio, provided the perfect accompaniment to the fresh, terrifying possibilities of the Wasteland.

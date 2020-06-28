@@ -38,10 +38,10 @@ author: ANDRÉ
 review: "When it comes to the ‘90s, opinions often sway to both extremes, but
   there’s no denying that it was host to a wide variety of excellent electronic
   music. Whilst [Aphex
-  Twin](<https://audioxide.com/reviews/aphex-twin-richard-d-james-album/>) and
+  Twin](<reviews/aphex-twin-richard-d-james-album/>) and
   Air were offering a calmness that was otherwise absent from dance music, [The
   Chemical
-  Brothers](<https://audioxide.com/reviews/the-chemical-brothers-dig-your-own-h\
+  Brothers](<reviews/the-chemical-brothers-dig-your-own-h\
   ole/>) and Fatboy Slim tapped into huge arena-rock sensibilities, propelling
   big beat to the very forefront of popular culture. The Prodigy, meanwhile,
   took one step further by applying a punk aesthetic to the electronic field,

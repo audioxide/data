@@ -42,7 +42,7 @@ review: >-
   tropes of all things Halloween, the experimental hip-hop group don’t rely on
   gimmicks to shock its listeners. Everything is constructed with precision and
   skill. As a huge fan of early
-  [Eminem](<https://audioxide.com/reviews/eminem-the-marshall-mathers-lp/>),
+  [Eminem](<reviews/eminem-the-marshall-mathers-lp/>),
   it’s no surprise that I’m totally infatuated with what’s on display.
 
 
@@ -85,7 +85,7 @@ score:
 author: Marcus
 review: >-
   Reminiscent of the demonic glitching of *You Won’t Get What you Want* and
-  [*Double Negative*](<https://audioxide.com/reviews/low-double-negative/>) of
+  [*Double Negative*](<reviews/low-double-negative/>) of
   last year, clipping.’s *There Existed an Addiction to Blood* has spent the
   past week taking my breath away and rattling around my skull. The album’s name
   – itself likely salvaged from the sparsely-populated folder titled ‘We Came as

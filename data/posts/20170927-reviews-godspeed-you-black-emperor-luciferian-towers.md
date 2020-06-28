@@ -45,7 +45,7 @@ review: <div class="_d97"><p>It wouldn’t be a new record from post-rock’s mo
   up Godspeed You! Black Emperor for their most furious album yet. Whilst the
   sound is vast and menacing in stature,<em> Luciferian Towers</em> lacks the
   abrasive power that made <a
-  href="https://audioxide.com/reviews/godspeed-you-black-emperor-f%E2%99%AF-a%E2%99%AF-infinity/"
+  href="reviews/godspeed-you-black-emperor-f%E2%99%AF-a%E2%99%AF-infinity/"
   target="_blank" rel="noopener">their debut such an authoritative
   record</a>.</p><p>Godspeed aimed for ‘wrong notes that explode’, which is
   immediately evident on the throbbing opener. Like most songs on the record,
@@ -79,7 +79,7 @@ review: >-
   lulls here. In the spaces between the fury there are things weightless and
   beautiful. Guitars and drums and strings roar and sing, and horns rise to the
   sun. This is a world away from pensive wanderings of [*F♯ A♯
-  ∞*](<https://audioxide.com/reviews/godspeed-you-black-emperor-f%e2%99%af-a%e2%99%af-infinity/>).
+  ∞*](<reviews/godspeed-you-black-emperor-f%e2%99%af-a%e2%99%af-infinity/>).
   I’m thankful for the existence of both, but *Luciferian Towers* is purposeful
   in ways most of the post-rock albums we’ve listened to are not.
 

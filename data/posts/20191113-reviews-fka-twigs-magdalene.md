@@ -38,14 +38,14 @@ review: >-
   Certainly, it stands as one of the year’s most striking pop albums. It’s often
   bursting with ideas, though you can almost pinpoint them track-for-track. The
   piano chords on “home with you” are taken directly from [Thom Yorke’s pamphlet
-  of solemnity and sadness](<https://audioxide.com/reviews/thom-yorke-anima/>),
+  of solemnity and sadness](<reviews/thom-yorke-anima/>),
   whilst “sad day” is pretty much a 2019 reimagining of [*Hounds of
-  Love*](<https://audioxide.com/reviews/kate-bush-hounds-of-love/>). To be
+  Love*](<reviews/kate-bush-hounds-of-love/>). To be
   clear, this is far from a bad thing: there are worse influences to have than
   Radiohead and Kate Bush. However, I do think *MAGDALENE* suffers from a lack
   of originality.
 
-  When the plan comes together, it results in some stunning moments. “fallen alien” is a sci-fi banger that even [Björk](<https://audioxide.com/reviews/bjork-homogenic/>) would be proud of, with multiple musical passages and riveting spots of production. Most importantly, it sounds wholly unique. Although it gets somewhat lost amongst the back-end lull, “cellophane” is another fine example. There is no doubting the spirit behind FKA Twigs’ music, and whilst I think LP1 remains her most enjoyable work, her words have reached greater depths here. There’s proof of artistic maturity, which makes the inclusion of a mediocre Future-featured hip-hop cut even stranger, and so much more disappointing. It seems as though *MAGDALENE* strives for an understated pop epic, yet this is a curious contradiction in itself. For all its instances of greatness and undeniable beauty, the record gets tangled in its own aspirations.
+  When the plan comes together, it results in some stunning moments. “fallen alien” is a sci-fi banger that even [Björk](<reviews/bjork-homogenic/>) would be proud of, with multiple musical passages and riveting spots of production. Most importantly, it sounds wholly unique. Although it gets somewhat lost amongst the back-end lull, “cellophane” is another fine example. There is no doubting the spirit behind FKA Twigs’ music, and whilst I think LP1 remains her most enjoyable work, her words have reached greater depths here. There’s proof of artistic maturity, which makes the inclusion of a mediocre Future-featured hip-hop cut even stranger, and so much more disappointing. It seems as though *MAGDALENE* strives for an understated pop epic, yet this is a curious contradiction in itself. For all its instances of greatness and undeniable beauty, the record gets tangled in its own aspirations.
 tracks:
   - fallen alien
   - ­­sad day
@@ -58,7 +58,7 @@ score:
 author: Fred
 review: >-
   When we reviewed
-  [*Ghosteen*](<https://audioxide.com/reviews/nick-cave-and-the-bad-seeds-ghosteen/>)
+  [*Ghosteen*](<reviews/nick-cave-and-the-bad-seeds-ghosteen/>)
   by Nick Cave & The Bad Seeds, my main issue with the album was its tendency to
   drift. Although the production and arrangements formed a grand backdrop for
   Cave’s musings, there was no real impetus to drive things along. It felt more
@@ -85,7 +85,7 @@ review: >-
   composition there’s not a huge deal to get excited about.
 
 
-  The album is a pleasant experience with excellent production, some really punchy hooks, and undeniably gorgeous vocals. Despite those qualities, I can’t help but be disappointed by the safe choices that have been made throughout. For supposedly avant-garde pop it’s extremely familiar ground, coming together like a mash-up of ideas taken from [Janelle Monae](<https://audioxide.com/reviews/janelle-monae-dirty-computer/>), [St. Vincent](<https://audioxide.com/reviews/st-vincent-masseduction/>), [James Blake](<https://audioxide.com/reviews/james-blake-assume-form/>), and even Ariana Grande. The result is an album that sounds great and has some brilliant moments, particularly on “mary magdalene” and “fallen alien”, but never seems to break any ground that hasn’t already been mined by FKA Twigs’ contemporaries. Perhaps I’m wrong to expect boundary-bending ideas, but for an artist that seems to thrive on the transgressive and non-conformist, *MAGDALENE* is quite paint by numbers.
+  The album is a pleasant experience with excellent production, some really punchy hooks, and undeniably gorgeous vocals. Despite those qualities, I can’t help but be disappointed by the safe choices that have been made throughout. For supposedly avant-garde pop it’s extremely familiar ground, coming together like a mash-up of ideas taken from [Janelle Monae](<reviews/janelle-monae-dirty-computer/>), [St. Vincent](<reviews/st-vincent-masseduction/>), [James Blake](<reviews/james-blake-assume-form/>), and even Ariana Grande. The result is an album that sounds great and has some brilliant moments, particularly on “mary magdalene” and “fallen alien”, but never seems to break any ground that hasn’t already been mined by FKA Twigs’ contemporaries. Perhaps I’m wrong to expect boundary-bending ideas, but for an artist that seems to thrive on the transgressive and non-conformist, *MAGDALENE* is quite paint by numbers.
 
 
   The writing is impactful, but it’s not anything we’ve not heard before. Breakups are awful – did you know? The sincerity of her delivery and the rawness of such personal lyricism is lost on me while I wait to be reminded why FKA Twigs is a big deal. It’s not bad, but it is disappointing.

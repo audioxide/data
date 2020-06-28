@@ -31,13 +31,13 @@ week: 88
 ---
 author: ANDRÉ
 review: Another year, another
-  [comeback](<https://audioxide.com/reviews/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service/>)
-  [album](<https://audioxide.com/reviews/blur-the-magic-whip/>). A little over a
+  [comeback](<reviews/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service/>)
+  [album](<reviews/blur-the-magic-whip/>). A little over a
   decade after disbanding, Grandaddy return with what is, thankfully, a
   Grandaddy album. *Last Place* opens strongly, with an irresistible trio of
   songs that are comprised of quirky guitar riffs, catchy vocals hooks, and the
   kind of fuzzy, chugging power chords that would get a
-  [Weezer](<https://audioxide.com/reviews/the-blue-album/>) fan’s heart racing.
+  [Weezer](<reviews/the-blue-album/>) fan’s heart racing.
   This initial section is vital in *Last Place*’s master plan — these tracks
   buzz with an upbeat peculiarity that results in an immediate accessibility. If
   you’re not hooked after the first ten minutes, chances are you never will be.
@@ -47,7 +47,7 @@ review: Another year, another
   of ‘please keep fucking going’. The moments that follow are still undoubtedly
   catchy, yet ring with a solemn expression. “I Don’t Wanna Live Here Anymore”
   and “That’s What You Get for Gettin’ Outta Bed” have the bittersweet charm of
-  an early [Eels](<https://audioxide.com/reviews/eels-daisies-of-the-galaxy/>)
+  an early [Eels](<reviews/eels-daisies-of-the-galaxy/>)
   classic. From these moments and beyond, *Last Place* is extremely
   contemplative, and not all listeners will be willing to indulge the misery,
   however bouncy it may sound. “This is the Part” is a major latter-end

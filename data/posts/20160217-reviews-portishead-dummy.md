@@ -50,7 +50,7 @@ review: As tempting as it is to brand Portishead’s debut as the definitive
   outlawed desires seeping through the dark web that only partially covers the
   shadowy tones of “Mysterons” and “Numb”. By the time we reach “Glory Box”, the
   only love/lust song of ‘94 to rival
-  [“Closer”](<http://audioxide.com/reviews/the-downward-spiral/>) in sheer
+  [“Closer”](<reviews/the-downward-spiral/>) in sheer
   sincerity, the secret is out. *Dummy* is a wonderful record that is
   undoubtedly of its time, yet continues to thrive in the headspace of the
   modern listener.

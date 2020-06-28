@@ -10,7 +10,7 @@ title: "&#8220;This is like a classy Disney tune&#8221; &#8211; André and Fred
   listen to Lorde"
 author: admin
 ---
-*This is part of [a series](<http://audioxide.com/listeningparties/>) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.*
+*This is part of [a series](<listeningparties/>) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.*
 ![](<2017/06/lordebabble-1024x547.jpg> =680x363)**[“Green Light”]**
 **André<br>
 **Well the album title is fitting.<br>
@@ -204,6 +204,6 @@ author: admin
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-like" data-href="https://audioxide.com/listeningparties/lorde-melodrama/" data-width="20" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+<div class="fb-like" data-href="listeningparties/lorde-melodrama/" data-width="20" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
 [Tweet](<https://twitter.com/share>) <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <br>

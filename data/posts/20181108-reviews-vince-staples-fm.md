@@ -45,7 +45,7 @@ review: >-
   concept and its popping, bouncing instrumentals, as well as the fabulous
   production by Kenny Beats and Hagler.
 
-  This is an extremely consistent work, and enjoyable to boot, but it does feel like a tease; something of a stopgap. That’s not to say it’s throwaway of course, you just get the feeling that something more substantial is around the corner. It has a similar vibe to Kendrick Lamar’s [*untitled unmastered.*](<https://audioxide.com/reviews/kendrick-lamar-untitled-unmastered/>), an album sandwiched between two monumental works. *FM!* feels like the product of Vince pretty much doing whatever he feels like, and that sort of creativity is most welcome. Hopefully, the next project is the devastating achievement we’ve all been waiting for.
+  This is an extremely consistent work, and enjoyable to boot, but it does feel like a tease; something of a stopgap. That’s not to say it’s throwaway of course, you just get the feeling that something more substantial is around the corner. It has a similar vibe to Kendrick Lamar’s [*untitled unmastered.*](<reviews/kendrick-lamar-untitled-unmastered/>), an album sandwiched between two monumental works. *FM!* feels like the product of Vince pretty much doing whatever he feels like, and that sort of creativity is most welcome. Hopefully, the next project is the devastating achievement we’ve all been waiting for.
 tracks:
   - FUN!
   - ­­Relay
@@ -65,7 +65,7 @@ review: >-
   cartoonish snippet of overblown California radio, with all the pomp and
   sunshine and shadow that entails.
 
-  [I’ve not been convinced by past Vince Staples releases](<https://audioxide.com/reviews/vince-staples-big-fish-theory/>), but here his caustic demeanour is a fine, often amusing foil to Kenny Beats’ bombastic production. The tracks ebb into each other seamlessly, to the point where our tradition of choosing favourites misrepresents what the album does. *FM! *flows as a single hip hop onslaught, all tempered by a radio sheen. It’s no *Songs for the Deaf,* but then it’s not meant to be. *FM! *frames itself as disposable, but in doing so also feels oddly precious. A one-off.
+  [I’ve not been convinced by past Vince Staples releases](<reviews/vince-staples-big-fish-theory/>), but here his caustic demeanour is a fine, often amusing foil to Kenny Beats’ bombastic production. The tracks ebb into each other seamlessly, to the point where our tradition of choosing favourites misrepresents what the album does. *FM! *flows as a single hip hop onslaught, all tempered by a radio sheen. It’s no *Songs for the Deaf,* but then it’s not meant to be. *FM! *frames itself as disposable, but in doing so also feels oddly precious. A one-off.
 tracks:
   - Relay
   - ­­FUN!

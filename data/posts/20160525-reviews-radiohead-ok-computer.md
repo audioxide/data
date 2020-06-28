@@ -92,7 +92,7 @@ review: "Radiohead’s famed 1997 sedative for the unhappinesses of modern life
   to the point that it becomes reassuring to find oneself in the thick of it. No
   band does alone together quite like Radiohead. While the likes of Blur were
   sneering ‘[modern life is
-  rubbish](<https://audioxide.com/reviews/blur-modern-life-is-rubbish/>),’
+  rubbish](<reviews/blur-modern-life-is-rubbish/>),’
   Radiohead sharpened that sound to whisper the unpleasant truth: ‘No, you don’t
   understand, it *really is*.’ The album’s texture, solemn and cerebral, still
   sounds like it’s being played for the first time whenever I listen to it.

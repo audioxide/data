@@ -47,7 +47,7 @@ review: >-
   with finesse and flair by one of the true masters of IDM.
 
 
-  The record progresses in stages, initially starting with gleeful electronica, bursting with colour and character, before delving into the deep, dark depths of hardcore jungle and drum ‘n’ bass. True to form, Jenkinson also includes a couple of ambient respites to calm the nerves, with the beautiful “Detroit People Mover” being the more effective of the two. Once again playing on the wistfulness that *Be Up A Hello* showcases so assuredly, this track sounds as though it was taken straight from Vangelis’ *Blade Runner* score. It ranks as one of Squarepusher’s most magnificent and graceful songs in years, and is a necessary antidote to the fidgety percussion that can prove exhausting to even the most religious fans. As a self-proclaimed Squarepusher junkie myself, however, I’m generally delighted with what *Be Up A Hello* offers. Whilst I continue to enjoy 2015’s [*Damogen Furies*](<https://audioxide.com/reviews/squarepusher-damogen-furies/>), this latest release offers up an greater assortment of styles than the last, and provides those crucial moments of relief. In fact, I think it ranks as one of his very best records to date. Fifteen albums into his illustrious career and Squarepusher is still releasing some of the most riveting electronic music imaginable. May it long continue.
+  The record progresses in stages, initially starting with gleeful electronica, bursting with colour and character, before delving into the deep, dark depths of hardcore jungle and drum ‘n’ bass. True to form, Jenkinson also includes a couple of ambient respites to calm the nerves, with the beautiful “Detroit People Mover” being the more effective of the two. Once again playing on the wistfulness that *Be Up A Hello* showcases so assuredly, this track sounds as though it was taken straight from Vangelis’ *Blade Runner* score. It ranks as one of Squarepusher’s most magnificent and graceful songs in years, and is a necessary antidote to the fidgety percussion that can prove exhausting to even the most religious fans. As a self-proclaimed Squarepusher junkie myself, however, I’m generally delighted with what *Be Up A Hello* offers. Whilst I continue to enjoy 2015’s [*Damogen Furies*](<reviews/squarepusher-damogen-furies/>), this latest release offers up an greater assortment of styles than the last, and provides those crucial moments of relief. In fact, I think it ranks as one of his very best records to date. Fifteen albums into his illustrious career and Squarepusher is still releasing some of the most riveting electronic music imaginable. May it long continue.
 tracks:
   - Oberlove
   - ­­Detroit People Mover
@@ -70,7 +70,7 @@ review: >-
 
   My main gripe with a lot of IDM is the lack of direction. All too often tracks sound more like audio experiments than fully fleshed out songs. The genre feels a bit like postmodern literature in that sense; for the most part it’s miserable to read, but it gets away with it because we’ve convinced ourselves it’s not poorly written, it’s just really clever. *Be Up Hello* is miles away from being a miserable listen, but there’s a kindred sense of denseness and complexity for the sake of it. While a few tracks (“Hitsonu” and “Terminal Slam” mainly) manage to cobble together a vibrant, stimulating atmosphere, seven-minute drum seizures like “Mekrev Bass” do a pretty good job of ruining it.
 
-  We know from the likes of [Boards of Canada](<https://audioxide.com/reviews/boards-of-canada-music-has-the-right-to-children/>) and [Aphex Twin](<https://audioxide.com/reviews/aphex-twin-richard-d-james-album/>) that IDM can be more disciplined than this, so why treat it with kid gloves? [We rip enough artists in other genres for clinging to familiar sounds and not venturing further](<https://audioxide.com/reviews/eels-the-deconstruction/>), but not in electronic land. Here we’re happy with less, so that’s what we get. (This is a perfectly fine album and deserves a listen, it’s just the latest in a long line of safe, indistinguishable electronic material we’ve reviewed.)
+  We know from the likes of [Boards of Canada](<reviews/boards-of-canada-music-has-the-right-to-children/>) and [Aphex Twin](<reviews/aphex-twin-richard-d-james-album/>) that IDM can be more disciplined than this, so why treat it with kid gloves? [We rip enough artists in other genres for clinging to familiar sounds and not venturing further](<reviews/eels-the-deconstruction/>), but not in electronic land. Here we’re happy with less, so that’s what we get. (This is a perfectly fine album and deserves a listen, it’s just the latest in a long line of safe, indistinguishable electronic material we’ve reviewed.)
 tracks:
   - Hitsonu
   - ­­Terminal Slam
@@ -82,7 +82,7 @@ score:
 author: Andrew
 review: >-
   It’s been five years since [*Damogen
-  Furies*](<https://audioxide.com/reviews/squarepusher-damogen-furies/>) slapped
+  Furies*](<reviews/squarepusher-damogen-furies/>) slapped
   us across the face with its frenetic fizz of drum-heavy electronica. At the
   time I sheepishly proposed that the album might not ‘give the listener much of
   a break.’ With that thought in the back of my mind, I dived into *Be Up A

@@ -62,12 +62,12 @@ review: >-
   thought they were onto something. They were wrong. Tracks crackled into dead
   ends and perfectly good arrangements were buried alive by gratuitous effects.
   Bon Iver’s [*22, A
-  Million*](<https://audioxide.com/reviews/bon-iver-22-a-million/>) was possibly
+  Million*](<reviews/bon-iver-22-a-million/>) was possibly
   the most egregious example, a jittery hodgepodge of glitches that mercifully
   faded from memory almost as soon as they ended. The fad passed and the world
   found other ways to disappoint. I thought we were in the clear.
 
-  That is until Low released *Double Negative*, a record which takes up the tech malfunction torch and, surprisingly, makes some progress with it. There’s a nuance to the approach here that I haven’t heard before. The electronic foundations almost sound sleep-deprived, strained and delirious. It grates, but it also scratches a distinctly 21st century itch. Low produce enough otherworldly frenzies here to keep former reservations at bay for the most part. There’s a particularly brutal, brittle edge to “Always Trying to Work It Out” and “Rome” that’s exhilarating. That said, at other times *Double Negative *barely manages to be tolerable. As with [SOPHIE](<https://audioxide.com/reviews/sophie-oil-of-every-pearls-uninsides/>) earlier in the year, the technical feats far outweigh the musical journey.
+  That is until Low released *Double Negative*, a record which takes up the tech malfunction torch and, surprisingly, makes some progress with it. There’s a nuance to the approach here that I haven’t heard before. The electronic foundations almost sound sleep-deprived, strained and delirious. It grates, but it also scratches a distinctly 21st century itch. Low produce enough otherworldly frenzies here to keep former reservations at bay for the most part. There’s a particularly brutal, brittle edge to “Always Trying to Work It Out” and “Rome” that’s exhilarating. That said, at other times *Double Negative *barely manages to be tolerable. As with [SOPHIE](<reviews/sophie-oil-of-every-pearls-uninsides/>) earlier in the year, the technical feats far outweigh the musical journey.
 
   I feel like one of those snobs who sneered at [Marcel Duchamp’s *Fountain*](<https://en.wikipedia.org/wiki/Fountain_(Duchamp)>), but then I am a bit of a snob. I don’t care much for music that sounds like a static malfunction — much in the same way I don’t care much for books with smudged, ineligible text. Or food poisoning. Or film reels bursting into flames. Fragmenting why a medium works makes for a curious intellectual exercise, but it seldom achieves more for me here. I do recommend listening to it though. The record does feel like it’s scratching at the frontier of something; I just wish the scratching sounded less like nails on a chalkboard.
 tracks:
@@ -87,7 +87,7 @@ review: >-
   for an atmospheric, ambient, electronic sound that feels refreshing and
   intense all at once.
 
-  Between the rippling sea of noise in “Quorum” and the ominous, droning pads in “Dancing and Blood”, the albums opening moments certainly aren’t the most welcoming, and it sets a precedent for the brittle, lo-fi sound that makes up the whole tracklist. “Always Trying to Work It Out” is probably the first point that feels accessible, with twinkling guitars and thumping drums slightly reminiscent of [Alt-J](<https://audioxide.com/reviews/alt-j-relaxer/>)‘s debut album, but even here the production choices mean everything gets squeezed, as instrumentation fights amongst itself to get a space on stage.
+  Between the rippling sea of noise in “Quorum” and the ominous, droning pads in “Dancing and Blood”, the albums opening moments certainly aren’t the most welcoming, and it sets a precedent for the brittle, lo-fi sound that makes up the whole tracklist. “Always Trying to Work It Out” is probably the first point that feels accessible, with twinkling guitars and thumping drums slightly reminiscent of [Alt-J](<reviews/alt-j-relaxer/>)‘s debut album, but even here the production choices mean everything gets squeezed, as instrumentation fights amongst itself to get a space on stage.
 
   “Rome (Always In the Dark)” makes for a similar story, and on its own it could be mistaken for a turn of the decade post-dubstep track without merit, but the production choices make it stand out from the crowd, for better or worse. It’s the real prominence in the production that makes this album such an interesting one, crunching and distorting to the point that it adds a real weight to each track even on the tinniest speakers, but to the detriment of the overall quality of sound at times.
 

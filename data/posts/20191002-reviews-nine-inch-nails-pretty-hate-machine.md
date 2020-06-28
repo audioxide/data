@@ -49,7 +49,7 @@ review: >-
   blast through the bullshit by turning the guitars, angst and nihilism up to
   11. It’s almost absurd to think that *Broken* would be released only three
   years after the release of *Pretty Hate Machine*, and [*The Downward
-  Spiral*](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>)
+  Spiral*](<reviews/nine-inch-nails-the-downward-spiral/>)
   two years after that – a shift that still stands as one of the most remarkable
   transitions in modern music.
 
@@ -57,7 +57,7 @@ review: >-
   One of the reasons why Nine Inch Nails managed to sneak into the mainstream is because Reznor always had an ear for a catchy hook, whether it be a memorable vocal refrain (the post-chorus singalong on “Head Like a Hole”), a sumptuous bassline (“Sanctified”) or an irresistibly addictive riff of some description (“The Only Time”, “Terrible Lie” and “Kinda I Want To”). Indeed, *Pretty Hate Machine* remains the work that best demonstrates Reznor’s ability to incorporate elements of pop music, despite some frankly ridiculous moments. The outrageously goofy “Down In It” may be entertaining as a novelty, but I’d still insist it’s the weakest song on any official NIN release. Still, it does successfully epitomise what made *Pretty Hate Machine* so compelling upon its release. Rarely had industrial music sounded so melodic.
 
 
-  *Pretty Hate Machine* is not perfect, then, but there is a certain charm even to the lapses. Labelling the lyrics as ‘raw’ would be a severe understatement; there’s a great degree of naivety, confusion and even innocence inside Reznor’s words. Sometimes it’s alluring, in a way that will no doubt be relatable for any misunderstood adolescent, and other times it’s outright preposterous. Though Reznor never exactly developed into a masterful poet, I can say with some confidence that things improved dramatically from, ‘I’m slipping on the tears you made me cry’. With time he has gone on to become an expert in other musical aspects, such as texture, ambience and, of course, catharsis. Nine Inch Nails rapidly became renowned for emotive and affecting music. *Pretty Hate Machine* contains all of these qualities, albeit in anxious tidbits, whilst still standing strong as an album of its own kind. It may not be [the greatest NIN album](<https://audioxide.com/articles/ranking-nine-inch-nails-studio-albums/>), but it’s quite possibly the most unique.
+  *Pretty Hate Machine* is not perfect, then, but there is a certain charm even to the lapses. Labelling the lyrics as ‘raw’ would be a severe understatement; there’s a great degree of naivety, confusion and even innocence inside Reznor’s words. Sometimes it’s alluring, in a way that will no doubt be relatable for any misunderstood adolescent, and other times it’s outright preposterous. Though Reznor never exactly developed into a masterful poet, I can say with some confidence that things improved dramatically from, ‘I’m slipping on the tears you made me cry’. With time he has gone on to become an expert in other musical aspects, such as texture, ambience and, of course, catharsis. Nine Inch Nails rapidly became renowned for emotive and affecting music. *Pretty Hate Machine* contains all of these qualities, albeit in anxious tidbits, whilst still standing strong as an album of its own kind. It may not be [the greatest NIN album](<articles/ranking-nine-inch-nails-studio-albums/>), but it’s quite possibly the most unique.
 tracks:
   - Sin
   - ­­Kinda I Want To
@@ -76,7 +76,7 @@ review: >-
   a precursor than anything else.
 
 
-  I don’t think it’s much of a stretch to describe most of Reznor’s music as some shade or other of tortured. *Pretty Hate Machine* is not tortured. It’s angsty. Really, really angsty. This is [*The Downward Spiral*](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>) with acne and a bad haircut. Is that a bad thing? Not particularly. Despite getting slightly bogged down in ‘80s muck, the album is industrious enough to feel at ease in its pasty white skin. It is what it is, and there’s more than enough quality to understand why Reznor grew an audience in the first place.
+  I don’t think it’s much of a stretch to describe most of Reznor’s music as some shade or other of tortured. *Pretty Hate Machine* is not tortured. It’s angsty. Really, really angsty. This is [*The Downward Spiral*](<reviews/nine-inch-nails-the-downward-spiral/>) with acne and a bad haircut. Is that a bad thing? Not particularly. Despite getting slightly bogged down in ‘80s muck, the album is industrious enough to feel at ease in its pasty white skin. It is what it is, and there’s more than enough quality to understand why Reznor grew an audience in the first place.
 
 
   The opening two tracks are especially strong, highlighting Reznor’s lifelong knack for hooks in the most unlikely circumstances. From then on it blows hot and cold. At some points, like in “Sanctified” you almost fall under the NIN spell. At others you find yourself thinking the bass sounds like something out of *Seinfeld*. So it goes. Reznor’s done better work since, but *Pretty Hate Machine* still stands as a bold foray into a dark new world.

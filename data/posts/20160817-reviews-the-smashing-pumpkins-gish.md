@@ -47,7 +47,7 @@ review: <div class="_d97"><p><em>Gish</em> serves as a fine example of what a
   with an added injection of psychedelic rock to ensure&nbsp;The Pumpkins nail
   down a sound of their own. The distinction of <em>Gish</em> isn’t always all
   that clear — the dynamic contrast shown on “Siva” was essentially <a
-  href="https://audioxide.com/reviews/pixies-bossanova/" target="_blank"
+  href="reviews/pixies-bossanova/" target="_blank"
   rel="noopener">a Pixies trademark</a> in 1991 — but it’s helped out
   tremendously by compelling song arrangements and notable flexibility with
   structure. The Pumpkins occupy a great space; it’s not always polished, but it
@@ -57,9 +57,9 @@ review: <div class="_d97"><p><em>Gish</em> serves as a fine example of what a
   Me”, before singing hopelessly about love on “Crush” (comparing the warmth of
   love to a liquid peppermint) and channelling their inner Doors on “Suffer”.
   It’s as good as ’90s alt rock gets. <em>Gish</em> is far from perfect, but <a
-  href="https://audioxide.com/reviews/dummy/" target="_blank"
+  href="reviews/dummy/" target="_blank"
   rel="noopener">only a</a>¨NBSP;<a
-  href="https://audioxide.com/reviews/funeral/" target="_blank"
+  href="reviews/funeral/" target="_blank"
   rel="noopener">few debuts</a> manage to get even close to those realms. An
   essential listen for any alternative rock fan.</p></div>
 tracks:
@@ -77,7 +77,7 @@ review: Prior to *Gish* my only exposure to The Smashing Pumpkins was by way of
   expand on that. This introduction has been pleasant in ways only debuts can
   be. It has that perfect tottering aliveness that comes with first steps —
   reminiscent of Wolf Alice’s *[My Love Is
-  Cool](<https://audioxide.com/reviews/wolf-alice-my-love-is-cool/>) *in that
+  Cool](<reviews/wolf-alice-my-love-is-cool/>) *in that
   respect. The music tempers murkiness with edge, occupying a peculiar space
   between psychedelia and grunge. Opener “I Am One” storms out of the blocks
   with a disciplined frenzy typical of much of *Grish*, but it’s the record’s

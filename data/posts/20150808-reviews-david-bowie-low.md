@@ -35,7 +35,7 @@ blurb: Bite-sized servings of vintage Bowie glam-rock combine with brooding
 ---
 author: André
 review: In alliance with Tony Visconti and [Brian
-  Eno](<https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/>),
+  Eno](<reviews/brian-eno-ambient-1-music-for-airports/>),
   Bowie achieved a striking balance on *Low*, an equilibrium uncovered between
   the experimentation of avant-garde electronic music and the melodic
   sensibilities of pop and glam-rock that Bowie was already familiar with. The

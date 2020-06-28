@@ -14,7 +14,7 @@ blurb: The Mirror's Edge OST is tuned perfectly to the game’s tone. Elegant,
 ### [Fred](<https://twitter.com/thewhalelines>)
 #### 06\.10.02019
 ------
-*This is part of [a series of articles](<https://audioxide.com/themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
+*This is part of [a series of articles](<themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
 ------
 
 ![The music of Mirror's Edge](2019/09/Mirrors-Edge-music.jpg)
@@ -42,7 +42,7 @@ That is the real charm of the OST for me. While maintaining his creative indepen
 ## Keep Faith
 The *Mirror’s Edge* OST is a testament to collaborative game design. Different teams were not kept in their bubbles. Interaction was encouraged, and the proof is in the pudding. You get a game that has aged very well, with a soundtrack that fits with its tone and enhances its gameplay.
 There’s a long, storied history of incredible video game music, but I do think *Mirror’s Edge* coincided witht the beginning of an era where it generally became more subtle, like a dancing shadow of the game proper. As games became more sophisticated, so too did the role of their soundtracks.
-Indeed, it occurred to me while writing this that the three pieces Andre and I have written so far about video game music ([*Twilight Princess*](<https://audioxide.com/articles/hyrules-lament-the-music-of-twilight-princess/>), [*Fallout 3*](<https://audioxide.com/articles/world-on-fire-the-music-of-fallout-3/>), and this) focus on games from 2006 and 2008, when the seventh generation of consoles was getting into the swing of things. That’s admitedy a pretty small sample, but maybe soundtracks were stepping up their game around that time, or rather, stepping back.
+Indeed, it occurred to me while writing this that the three pieces Andre and I have written so far about video game music ([*Twilight Princess*](<articles/hyrules-lament-the-music-of-twilight-princess/>), [*Fallout 3*](<articles/world-on-fire-the-music-of-fallout-3/>), and this) focus on games from 2006 and 2008, when the seventh generation of consoles was getting into the swing of things. That’s admitedy a pretty small sample, but maybe soundtracks were stepping up their game around that time, or rather, stepping back.
 Birgersson himself has noticed a shift in the way video game music has been treated both inside and outside the studios:
 > There is a huge interest today in video game soundtracks compared to say 15 years ago. I think it is also due to the fact that the game development studios today acknowledge and include the music as a big part of the overall experience which improves the quality for the gamer.
 Video games in general have earned more cultural prestige in recent years, in no small part due to their soundtracks. I’d consider *Mirror’s Edge* one of the trailblazers in that sense, in its own subtle way. It’s one of those games that stand tall in people’s memories, alive and wonderful, imperfections and all.

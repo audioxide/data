@@ -70,7 +70,7 @@ review: "*Anything Now* sounds like the kind of thing you make when you’re
   Régine Chassagne’s voice, in isolation, is soft, fluttering, and beautiful.
   This is known. Combined with disco-rock it sounds like nails on a chalkboard.
   Something like that isn’t anyone’s fault — the Bee Gees doing
-  [*Funeral*](<https://audioxide.com/reviews/funeral/>) would sound just as bad,
+  [*Funeral*](<reviews/funeral/>) would sound just as bad,
   maybe worse — but it is neatly symbolic of how ill at ease Arcade Fire sound
   on *Everything Now*. It lacks self-assurance. By the time the record bumbles
   into reggae hoedown “Chemistry” and *Big Bang Theory*\\-worthy punk epic
@@ -91,7 +91,7 @@ score:
 author: ANDREW
 review: There is no two ways about it, *Everything Now* is not a patch on Arcade
   Fire’s previous output. Going from strength to strength from their [2004
-  debut](<https://audioxide.com/reviews/funeral/>) right through to their
+  debut](<reviews/funeral/>) right through to their
   similarly disco-heavy 2013 release, *Reflektor*, I’ve long held high
   expectations for a new release from the band. *Everything Now* feels like a
   misstep though. While the opening minutes aren’t a cause for concern, things

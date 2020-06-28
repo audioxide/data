@@ -37,7 +37,7 @@ review: Despite their arena-rock ambitions, Kings of Leon operate within a
   dream of a vast and momentous sound, proceeding to work well within their
   personal boundaries; without any hint of historical significance. Whilst they
   are undoubtedly a talented outfit, a cultural landmark in the realms of [*The
-  Joshua Tree* ](<https://audioxide.com/reviews/u2-the-joshua-tree/>)and *Born
+  Joshua Tree* ](<reviews/u2-the-joshua-tree/>)and *Born
   to Run* is obviously out of their reach. There is a noticeable limit to their
   grand and spacious sound, which will continue to prevent them from being
   anything more than a decent arena-rock band. But, in the defence of Kings of
@@ -90,7 +90,7 @@ author: ANDREW
 review: "*Because of the Times* is an album filled with nostalgia, even for the
   first time listener. From the first twelve minutes, you’ll hear sounds that
   defined key areas of music in the 2000s: “Knocked Up”, a folky, busy track not
-  dissimilar to an [Arcade Fire](<https://audioxide.com/reviews/funeral/>)
+  dissimilar to an [Arcade Fire](<reviews/funeral/>)
   single, runs for seven minutes without becoming tired; “Charmer” feels like
   the rougher side of rock that sat on the periphery at the time; “On Call”
   features airy synths and a lethargic rhythm section that could apply to any

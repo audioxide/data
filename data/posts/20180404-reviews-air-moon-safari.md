@@ -84,7 +84,7 @@ review: >-
   that’ll stay with you long after you’ve finished listening. “La femme
   d’argent” is a sensational opener, starting strong and setting the mood for
   the rest of the album. Where Beth Hirsch’s vocals feature, they shine,
-  reminiscent of [Portishead](<https://audioxide.com/reviews/portishead-dummy/>)
+  reminiscent of [Portishead](<reviews/portishead-dummy/>)
   frontwoman, Beth Gibbons, albeit with a tad more sunshine and calm mixed in.
   Even midway through, in the depths of the album, “Talisman” and “Remember”
   both hold their own as a lounging Bond theme and robot ballad respectively.

@@ -52,7 +52,7 @@ review: "In spite of two exceptional singles, *Out of Time* isn’t quite the
   outline a simple-to-replicate template for [modern arena-rock
   ](<https://www.youtube.com/watch?v=RF0HhrwIwp0>)bands to follow. With
   hindsight, it feels as though R.E.M were striving for their own *[Joshua
-  Tree](<https://audioxide.com/reviews/u2-the-joshua-tree/>)*, but unfortunately
+  Tree](<reviews/u2-the-joshua-tree/>)*, but unfortunately
   their ambitions were not to be matched. Moments of the sublime are followed by
   instances of the ordinary. *Out of Time* is a good album, but my honest and
   downright repulsive opinion is that most of us are better suited to the bands

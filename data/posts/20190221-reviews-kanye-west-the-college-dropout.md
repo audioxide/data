@@ -42,7 +42,7 @@ review: >-
   musical development, and it makes for a pretty severe nostalgia trip in 2019.
   It’s a great album, that much is obvious, but it’s genuinely startling to go
   back to, [as Ye himself would put
-  it](<https://audioxide.com/reviews/kanye-west-the-life-of-pablo/>), ‘the old
+  it](<reviews/kanye-west-the-life-of-pablo/>), ‘the old
   Kanye’.
 
   This is still the cosiest sound Kanye has ever conceived. Even with visceral songs such as “Jesus Walks”, *The College Dropout* is a comforting album. Gospel hymns and soul samples are partly responsible, but Kanye himself stands as an encouraging and inspirational figure. He raps about family, religion, race, and society — a stark contrast to other mammoth hip-hop albums of the time. It’s also nice to experience Kanye as an underdog (and frankly a little weird given his current status). Sure, he’s still sarcastic, but there’s no real sign of him being totally unhinged yet. His satire is executed far more eloquently here than anything post-*Graduation*. It’s a real pleasure to listen to.
@@ -61,7 +61,7 @@ author: Fred
 review: >-
   I joined the Kanye party late. I’m used to him being a bit loopy, a bit of
   genius, and massively inconsistent. I like that about him. Even [*The Life of
-  Pablo*](<https://audioxide.com/reviews/kanye-west-the-life-of-pablo/>), which
+  Pablo*](<reviews/kanye-west-the-life-of-pablo/>), which
   was frankly a bit of a farce when it first came out, was one of my favourite
   albums of 2016. Kanye has a gift for making music that feels like it’s
   spilling directly out of his head, and because *The College Dropout* comes
@@ -89,7 +89,7 @@ review: >-
 
   While less easy to appreciate after a decade of hip-hop that moved away from flash lifestyles and focused on bigger cultural issues, *The College Dropout* was exceptional for doing so in 2004. For a track like “Jesus Walks” to not only feature, but become a commercially successful single is quite the feat. Elsewhere there are more gems to be found, “The New Workout Plan” is drenched in satire and delivered with an appropriately energetic instrumental and plenty of snark from Kanye, making for one of my favourites across the tracklist. “School Spirit” and the skits that surround it make for another highlight, filled with soulful influences including the Aretha Franklin sample. The likes of “Get Em High” and “Breathe In Breathe Out” even feel a tad sidelined here as tracks that sit closer to straight hip-hop than anything else, but they too make for great entries in the tracklist.
 
-  It’s not a focused album by any means, coming in around 75 minutes with that 12-minute closing track featuring Kanye telling his story that meanders its way along, you’d be hard pushed to use a word like ‘concise’ to describe anything here. But for me, it’s an effortless ride to take. While [I’d typically be the first to complain about an album’s length](<https://audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/>), I’m less willing to do so here, as cutting too much would lose a lot of what makes the album great.
+  It’s not a focused album by any means, coming in around 75 minutes with that 12-minute closing track featuring Kanye telling his story that meanders its way along, you’d be hard pushed to use a word like ‘concise’ to describe anything here. But for me, it’s an effortless ride to take. While [I’d typically be the first to complain about an album’s length](<articles/statsioxide-our-first-150-reviews-in-numbers/>), I’m less willing to do so here, as cutting too much would lose a lot of what makes the album great.
 
   I’ve grown fonder on each listen, smirked more at the skits, and dug deeper into the lyrical twists and instrumental details. I don’t think it’s controversial to say that *The College Dropout* features some of the best material Kanye West has put out and as an album, it ties together fantastically. I’ll continue to return to this for a healthy dose of 00’s hip-hop.
 tracks:

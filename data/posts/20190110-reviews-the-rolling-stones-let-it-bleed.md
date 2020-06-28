@@ -36,16 +36,16 @@ author: André
 review: >-
   *Let It Bleed* inhabits multiple sounds of the ‘60s. I hear the rich
   psychedelic rock of
-  [*Revolver*](<https://audioxide.com/reviews/the-beatles-revolver/>), and the
+  [*Revolver*](<reviews/the-beatles-revolver/>), and the
   country balladry of [*Highway 61
-  Revisited*](<https://audioxide.com/reviews/bob-dylan-highway-61-revisited/>).
+  Revisited*](<reviews/bob-dylan-highway-61-revisited/>).
   It even shares a similar sense of brutality in its lyrical imagery to that of
   The Velvet Underground & Nico. Opening track “Gimme Shelter”, a clear
   highlight on the record, wouldn’t feel too out of place on [a Jefferson
   Airplane
-  record](<https://audioxide.com/reviews/jefferson-airplane-surrealistic-pillow/>),
+  record](<reviews/jefferson-airplane-surrealistic-pillow/>),
   whilst Keith Richards’ guitar licks evoke the aura of
-  [Hendrix](<https://audioxide.com/reviews/the-jimi-hendrix-experience-electric-ladyland/>).
+  [Hendrix](<reviews/the-jimi-hendrix-experience-electric-ladyland/>).
   As a pesky no-good millennial, I wasn’t even close to experiencing life in the
   ‘60s, but I feel like listening to *Let It Bleed* brings me that little bit
   closer.
@@ -68,7 +68,7 @@ review: >-
   listened to. It deals in folk and country almost as much as it does in rock
   and roll.
 
-  Big hitters like “Gimme Shelter” and “Midnight Rambler” hog much of the attention, but it’s actually the folksy numbers around them that give *Let It Bleed *its steady, frontiersman-like character. “Country Honk” skips along like a dusty hoedown, while the dry country twang of “You Got the Silver” wouldn’t sound out of place on [a Bob Dylan record](<https://audioxide.com/reviews/bob-dylan-highway-61-revisited/>). Mick Jagger is good value, as always. He doesn’t so much sing as run his mouth and he sounds marvellous. It’s a real gift.
+  Big hitters like “Gimme Shelter” and “Midnight Rambler” hog much of the attention, but it’s actually the folksy numbers around them that give *Let It Bleed *its steady, frontiersman-like character. “Country Honk” skips along like a dusty hoedown, while the dry country twang of “You Got the Silver” wouldn’t sound out of place on [a Bob Dylan record](<reviews/bob-dylan-highway-61-revisited/>). Mick Jagger is good value, as always. He doesn’t so much sing as run his mouth and he sounds marvellous. It’s a real gift.
 
   There’s enough wrong with *Let It Bleed* for it to be a rung or two below the Stones’ best work. “Live With Me” sounds suspiciously like “Jumpin’ Jack Flash”, while “You Can’t Always Get What You Want” blunders in out of nowhere. I’ve never heard something so pleased with itself for being the closing track. For every great track there’s a perfectly good one. When it’s the Stone, isn’t that enough?
 tracks:

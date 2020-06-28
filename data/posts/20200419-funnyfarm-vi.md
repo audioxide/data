@@ -46,4 +46,4 @@ She eased herself between Hazard and Sunshine and lit a cigarette. For a while t
 ‘Sort of meta,’ Hazard said.
 ‘Next exit,’ Gould said.
 
-<center><strong></strong><p><strong>← <a href="https://audioxide.com/funnyfarm/v/">Previous</a></strong></p></center>
+<center><strong></strong><p><strong>← <a href="funnyfarm/v/">Previous</a></strong></p></center>

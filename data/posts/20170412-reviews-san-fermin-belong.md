@@ -31,7 +31,7 @@ week: 93
 ---
 author: ANDRÉ
 review: <div class="_d97"><p>For <a
-  href="https://audioxide.com/reviews/san-fermin-jackrabbit/" target="_blank"
+  href="reviews/san-fermin-jackrabbit/" target="_blank"
   rel="noopener">our review</a> of San Fermin’s second studio album
   <em>Jackrabbit</em>, I wrote that ‘the album in its entirety can feel slightly
   taxing due to the bloated, overstuffed nature of the songwriting.’ This
@@ -92,7 +92,7 @@ score:
 author: ANDREW
 review: I can’t help but be disappointed. From their distinctive, suspenseful
   debut, to their [follow up
-  album](<https://audioxide.com/reviews/san-fermin-jackrabbit/>) that didn’t
+  album](<reviews/san-fermin-jackrabbit/>) that didn’t
   quite hit the same mark, and now to *Belong*, I’m continuously finding less to
   love in San Fermin. Besides a few standout tracks, a lot of the work here
   feels homogenised. I can draw easy comparisons between these tracks and other

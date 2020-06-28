@@ -47,7 +47,7 @@ review: >-
   who, over the years, have been made to agonisingly wait for new music in the
   past.
 
-  *Bad Witch* is the finale to this trilogy, and it’s undoubtedly the most cohesive release of the lot. It’s clear to see why Reznor made the choice to issue it as an LP, with inventive sequencing and engaging transitions that the two previous EP’s lacked. It’s an album that rewards further listens, but nonetheless tends to remain a mildly frustrating experience. Songs are mixed with the purpose to unsettle and agitate listeners, and they aim to offer a fine contrast by balancing this lo-fi aesthetic with exhilarating choruses and crescendos. The opening two tracks are practically a tease for old-school NIN enthusiasts, especially the blaring chorus on “Ahead of Ourselves”, which is extremely reminiscent of [the early, noisy days](<https://www.youtube.com/watch?v=kuoFiIFkdAA>). From this point on, the record assembles a sound that draws from Reznor/Ross [soundtrack works](<https://youtu.be/PIPHPHWCZWk>), Bowie’s [*Blackstar*](<https://www.youtube.com/watch?v=kszLwBaC4Sw>), and Lynch’s [*Twin Peaks*](<https://www.youtube.com/watch?v=DF43b38k0Mw>). Ominous soundscapes are layered with jazzy saxophones, as Reznor croons in homage to [one of his greatest inspirations](<https://audioxide.com/reviews/david-bowie-blackstar/>). Despite its clear influences, however, *Bad Witch* is nothing if not distinctive, which is most impressive given the amount of works released in a discography that is approaching its 30th year. It’s far from [the best NIN album](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>), but it’s probably the most crucial and downright exciting one in quite some time. This is a grubby, disheveled, and damaged album composed, produced, and arranged as such. In sound and form, there’s nothing else quite like it.
+  *Bad Witch* is the finale to this trilogy, and it’s undoubtedly the most cohesive release of the lot. It’s clear to see why Reznor made the choice to issue it as an LP, with inventive sequencing and engaging transitions that the two previous EP’s lacked. It’s an album that rewards further listens, but nonetheless tends to remain a mildly frustrating experience. Songs are mixed with the purpose to unsettle and agitate listeners, and they aim to offer a fine contrast by balancing this lo-fi aesthetic with exhilarating choruses and crescendos. The opening two tracks are practically a tease for old-school NIN enthusiasts, especially the blaring chorus on “Ahead of Ourselves”, which is extremely reminiscent of [the early, noisy days](<https://www.youtube.com/watch?v=kuoFiIFkdAA>). From this point on, the record assembles a sound that draws from Reznor/Ross [soundtrack works](<https://youtu.be/PIPHPHWCZWk>), Bowie’s [*Blackstar*](<https://www.youtube.com/watch?v=kszLwBaC4Sw>), and Lynch’s [*Twin Peaks*](<https://www.youtube.com/watch?v=DF43b38k0Mw>). Ominous soundscapes are layered with jazzy saxophones, as Reznor croons in homage to [one of his greatest inspirations](<reviews/david-bowie-blackstar/>). Despite its clear influences, however, *Bad Witch* is nothing if not distinctive, which is most impressive given the amount of works released in a discography that is approaching its 30th year. It’s far from [the best NIN album](<reviews/nine-inch-nails-the-downward-spiral/>), but it’s probably the most crucial and downright exciting one in quite some time. This is a grubby, disheveled, and damaged album composed, produced, and arranged as such. In sound and form, there’s nothing else quite like it.
 tracks:
   - God Break Down the Door
   - ­­Ahead of Ourselves
@@ -67,7 +67,7 @@ review: >-
   weaves in some real moments of artistry. “God Break Down the Door” is the
   unquestionable centerpiece of the record, with a brassy grind reminiscent of
   David Bowie’s curtain call,
-  *[Blackstar](<https://audioxide.com/reviews/david-bowie-blackstar/>). *Not a
+  *[Blackstar](<reviews/david-bowie-blackstar/>). *Not a
   coincidental similarity I’m sure. The whole record has that
   lost-in-the-shadows feel, but that’s Reznor’s home turf. He plays around with
   it. Here the unsettlement is measured, which gives it a skin-crawling quality
@@ -92,13 +92,13 @@ review: "*Bad Witch* feels like ‘tour de NIN’ in some respects. Opening with
   incorporate more electronics in their instrumentation, throwing arrangements
   akin to those of *Ghosts* and Reznor/Ross OSTs between grander tracks which
   reek of [late-era
-  Bowie](<https://audioxide.com/reviews/david-bowie-blackstar/>) and Lynchian
+  Bowie](<reviews/david-bowie-blackstar/>) and Lynchian
   ominousness all while keeping their sound firmly in Nine Inch Nails territory.
   Both of these tracks set Reznor’s echoing vocals at the forefront, and in both
   cases his Bowie-esque style will come as a wonderful surprise for listeners as
   they echo across the instrumentals. “God Break Down the Door” feels like a
   manic matching of mournful sax and [Aphex
-  Twin](<https://audioxide.com/reviews/aphex-twin-richard-d-james-album/>) that
+  Twin](<reviews/aphex-twin-richard-d-james-album/>) that
   only increases as the track whirls along. For me, *Bad Witch* makes for a
   thoroughly engaging and enjoyable half hour, and despite being left yearning
   for more, it seems silly to disparage an album based on its length. Where this

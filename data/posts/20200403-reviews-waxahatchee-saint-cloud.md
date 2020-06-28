@@ -51,7 +51,7 @@ author: Fred
 review: >-
   On the album artwork of *Saint Cloud*, Katie Crutchfield sits atop a pickup truck overflowing with roses and gazes up at a clear blue sky. Never has a cover more perfectly captured the character of its music. The album’s like roaming the Great Plains in tasteful knitwear.
 
-  All homely arrangements and honeyed vocals, the album manages to make its country music twang feel contemporary. There are shades of artists like [Julia Jacklin](<https://audioxide.com/reviews/julia-jacklin-crushing/>) and [Courtney Barnett](<https://audioxide.com/reviews/courtney-barnett-tell-me-how-you-really-feel/>) – softly spoken singer-songwriters with more earnestness than focus – but I think this is a step above. The country DNA keeps the album’s back straight and actually makes the fuzzy tenderness all the more touching.
+  All homely arrangements and honeyed vocals, the album manages to make its country music twang feel contemporary. There are shades of artists like [Julia Jacklin](<reviews/julia-jacklin-crushing/>) and [Courtney Barnett](<reviews/courtney-barnett-tell-me-how-you-really-feel/>) – softly spoken singer-songwriters with more earnestness than focus – but I think this is a step above. The country DNA keeps the album’s back straight and actually makes the fuzzy tenderness all the more touching.
 
   I can’t quite snuggle up to what goes on, though. Like so much music from the genre this feels like a love letter to a way of life I don’t understand. It doesn’t quite make the leap out of heartfelt bumpkin territory, closing tracks “Ruby Falls” and “St. Cloud” being the gorgeous exceptions.
 tracks:

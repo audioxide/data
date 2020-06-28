@@ -64,7 +64,7 @@ review: >-
 
   In large part this is due to synergy between music and lyricism. Terry Hall and Neville Staple are commanding, irreverent frontmen, and the arrangements behind them are consistently tight. It adds up to a kind of controlled madness. The farcical courtroom drama of “Stupid Marriage” is a delight, while there are few songs around that capture the noisy nonsense buzz of a night out as well as “Nite Klub” does.
 
-  The group doesn’t pull its punches. From ‘master racial masterbation’ to ‘burdens on the welfare state,’ few are exempt from at least a friendly jab. But any accusations of crassness are shut down by the fact that the whole show is of the highest quality, and produced superbly by [Elvis Costello](<https://audioxide.com/reviews/elvis-costello-my-aim-is-true/>)’s to bring out the best of its live nature.
+  The group doesn’t pull its punches. From ‘master racial masterbation’ to ‘burdens on the welfare state,’ few are exempt from at least a friendly jab. But any accusations of crassness are shut down by the fact that the whole show is of the highest quality, and produced superbly by [Elvis Costello](<reviews/elvis-costello-my-aim-is-true/>)’s to bring out the best of its live nature.
 
   It must be said that *The Specials *feels more like a jumble of great songs than it does an album. There isn’t much in the way of progression or pacing. Perhaps it had to be that way. There is plenty of anger in *The Specials*, but it is used in service of its songwriting. At a time when much music seemed obsessed with rejection, The Specials were bold enough — and talented enough — to provide affirmation.
 tracks:
@@ -83,7 +83,7 @@ review: >-
   the record, giving the rest of the album some focus has uncovered some hidden
   gems for me.
 
-  While the likes of “A Message to You Rudy”, “Monkey Man”, and “Too Much Too Young” have proven their longevity, tracks like “(Dawning of A) New Era” and “Blank Expression” are a far more interesting mix of rock’n’roll, punk, and ska. [Elvis Costello](<https://audioxide.com/reviews/elvis-costello-my-aim-is-true/>)‘s involvement is far more evident here, and that makes for some of the best moments across the tracklist. Elsewhere, the humour and cheek take centre stage and the skit-like decoration on “Nite Klub” and “Stupid Marriage” put them up in the highlights of the album.
+  While the likes of “A Message to You Rudy”, “Monkey Man”, and “Too Much Too Young” have proven their longevity, tracks like “(Dawning of A) New Era” and “Blank Expression” are a far more interesting mix of rock’n’roll, punk, and ska. [Elvis Costello](<reviews/elvis-costello-my-aim-is-true/>)‘s involvement is far more evident here, and that makes for some of the best moments across the tracklist. Elsewhere, the humour and cheek take centre stage and the skit-like decoration on “Nite Klub” and “Stupid Marriage” put them up in the highlights of the album.
 
   Some of the instrumental solos deserve a mention too as they can easily remain unsung heroes. The guitar in “It’s up to You”, the horns in “Nite Klub”, and the organ in “Stupid Marriage” are just a few of the moments that make many of the tracks shine.
 

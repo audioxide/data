@@ -45,7 +45,7 @@ review: <div class="_d97"><p>Following an album on the sheer scale of
   with a slight edge. Michael Jackson feels like a product at this point (he was
   a showman after all) and certain artistic moves feel slightly
   forced.&nbsp;Artists like <a
-  href="https://audioxide.com/reviews/prince-purple-rain/" target="_blank"
+  href="reviews/prince-purple-rain/" target="_blank"
   rel="noopener">Prince</a> show us that pop doesn’t have to feel so artificial
   as it occasionally does on <em>Bad</em>. “Dirty Diana” is a riveting song, but
   still feels like a manufactured move lusting for approval from metalheads.

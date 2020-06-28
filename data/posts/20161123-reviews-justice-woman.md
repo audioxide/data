@@ -54,7 +54,7 @@ review: <div class="_d97"><p>Justice’s debut album, released almost 10 years a
   the drums are wonderfully expressive.</p><p>Sometimes, it just feels too
   familiar. Opening track “Safe and Sound” essentially operates in the same way
   “One More Time” did on <em><a
-  href="https://audioxide.com/reviews/daft-punk-discovery/" target="_blank"
+  href="reviews/daft-punk-discovery/" target="_blank"
   rel="noopener">Discovery</a></em>, and this is certainly not the only
   comparison that could be made to the ‘other’ French dance duo. Feeling
   nostalgic for the ‘70s is one thing, but <em>Discovery</em> is only 15 years

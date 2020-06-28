@@ -50,7 +50,7 @@ review: >-
 
   Though Björk’s stunning vocals are undoubtedly the star of the show, it’s the arrangements that often set the songs apart from generic ’90s dance music. As a major cynic of house music, I find myself both excited and confused by my affection for “Big Time Sensuality”. The inclusion of a playful saxophone part is truly representative of what makes Björk so unique. “Venus As a Boy”, one of her finest ever songs, has an exquisite arrangement, comprised of interesting samples, a textured beat, and gorgeous strings. Björk’s stunning vocal melodies add to what is already a beautiful piece of music. Opening track “Human Behaviour” is another highlight, combining timpani drums with innocent, childlike lyrics.
 
-  If the first half of *Debut* is comprised of the classics, the second half is where Björk delves into the more contemplative, experimental side of her abilities. Once again, the arrangements truly shine, particularly on “One Day” and “Come to Me”, where delightfully subtle melodies are sprinkled across the evolving soundscapes. The mind can be found wandering during these latter cuts, but it’s more of a comforting stroll than a grinding hike. Never does the music become stale. Of course, *Debut* was only a sign of things to come: Björk would go on to expand her sonic reach and release a handful of [incredible records](<https://audioxide.com/reviews/bjork-homogenic/>). There’s a certain charm to her first record, however, that would soon disappear. It’s not the best Björk album, but *Debut* stands out as the most playful, entertaining and jubilant in her entire career.
+  If the first half of *Debut* is comprised of the classics, the second half is where Björk delves into the more contemplative, experimental side of her abilities. Once again, the arrangements truly shine, particularly on “One Day” and “Come to Me”, where delightfully subtle melodies are sprinkled across the evolving soundscapes. The mind can be found wandering during these latter cuts, but it’s more of a comforting stroll than a grinding hike. Never does the music become stale. Of course, *Debut* was only a sign of things to come: Björk would go on to expand her sonic reach and release a handful of [incredible records](<reviews/bjork-homogenic/>). There’s a certain charm to her first record, however, that would soon disappear. It’s not the best Björk album, but *Debut* stands out as the most playful, entertaining and jubilant in her entire career.
 tracks:
   - Venus As a Boy
   - ­­Human Behaviour
@@ -68,7 +68,7 @@ review: >-
   joyous experience. It’s so uninhibited, so powerful. Björk drifts from dance
   to house to electronic, bringing each of them under her spell. When we
   reviewed [a Dylan
-  album](<https://audioxide.com/reviews/bob-dylan-highway-61-revisited/>) a
+  album](<reviews/bob-dylan-highway-61-revisited/>) a
   while back I remember thinking how the instrumentation felt like a natural
   extension of his voice. Björk achieves something similar on *Debut*. The
   arrangements sparkle out from her delivery. It’s unthinkable for them to sound
@@ -90,11 +90,11 @@ review: <div class="_4tdv"><div class="_5wd4 _1nc7 _5ysy"><div class="._1dlq
   class="_3_bl"><div class="_5w1r _3_om _5wdf"><div class="_4gx_"><div
   class="_1aa6"><p></p><p>Björk’s appropriately titled debut album fits itself
   alongside the likes of <a
-  href="https://audioxide.com/reviews/led-zeppelin-led-zeppelin/"
+  href="reviews/led-zeppelin-led-zeppelin/"
   target="_blank" rel="noopener"><em>Led Zepplin</em></a>, <a
-  href="https://audioxide.com/reviews/arcade-fire-funeral/" target="_blank"
+  href="reviews/arcade-fire-funeral/" target="_blank"
   rel="noopener"><em>Funeral</em></a> and <a
-  href="https://audioxide.com/reviews/elvis-costello-my-aim-is-true/"
+  href="reviews/elvis-costello-my-aim-is-true/"
   target="_blank" rel="noopener"><em>My Aim is True</em></a> as an energetic,
   confident release to the world. “Human Behaviour” still stands as one of my
   favourite Björk tracks, and makes for a perfect opener that focuses on
