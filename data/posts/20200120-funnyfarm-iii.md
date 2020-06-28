@@ -12,7 +12,7 @@ blurb: In which the value of a rhythm section quickly becomes clear.
 ## *In which the value of a rhythm section quickly becomes clear<br>
 *
 
-![A hanging metronome](<https://audioxide.com/wp-content/uploads/2019/12/Funnyfarm-3...-4-1-2-3-4....jpg> =1500x1000)
+![A hanging metronome](<2019/12/Funnyfarm-3...-4-1-2-3-4....jpg> =1500x1000)
 
 The first time Alan Hazard, Ray Sunshine, and Bas practiced together the result was a temporal marvel. Although each played their part in perfect time, they were seemingly incapable of playing in the *same* time.
 Whenever Hazard was belting out the second chorus Sunshine was three minutes into a solo and Bas was somehow on the previous song. For hours they persevered in the vague hope that the arrangement would sound sophisticated, like Led Zeppelin. They didn’t. Luckily, their rehearsal space – Sunshine’s garage – was not within earshot of any of the villagers. The only people who could hear them were Sunshine’s parents, and they were used to being disappointed in their son anyway.

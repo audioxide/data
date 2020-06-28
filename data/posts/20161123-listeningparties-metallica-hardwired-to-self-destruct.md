@@ -11,7 +11,7 @@ title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and
 author: admin
 ---
 This is part of [a series](<http://audioxide.com/listeningparties/>) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.
-![metallicababble2](<https://audioxide.com/wp-content/uploads/2016/11/metallicababble2-1024x547.jpg> =680x363)** [“Hardwired”]**
+![metallicababble2](<2016/11/metallicababble2-1024x547.jpg> =680x363)** [“Hardwired”]**
 **André<br>
 **Riffs.
 **Fred<br>

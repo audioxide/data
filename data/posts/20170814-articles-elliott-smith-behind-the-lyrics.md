@@ -17,7 +17,7 @@ blurb: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott
 *Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott Smith’s words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they’ve ever been.*
 ------
 
-![](<https://audioxide.com/wp-content/uploads/2017/08/Elliott_Smith2.jpg> =383x545)
+![](<2017/08/Elliott_Smith2.jpg> =383x545)
 ------
 Chances are, if you listen to Elliott Smith when you are already feeling down, you will start feeling even worse after hearing his sweet voice tell you that he’d rather throw his life away. If you know [he did exactly that in October of 2003](<https://www.theguardian.com/music/2003/oct/22/elliottsmith.popandrock>), it will hurt even more. Especially well-known in Portland, Oregon, Elliott Smith was an indie/folk singer-songwriter who attained international fame after [performing his song “Miss Misery”](<https://www.youtube.com/watch?v=wPf-hRoZDp4>) (featured on the soundtrack for *Good Will Hunting *and nominated for Best Original Song) during the 1998 Oscars.
 If you’ve listened to Elliott before, you probably didn’t stop with one song, and if you’ve never listened before, you ought to. Few understood as he did the sharpest degree of pain you feel when your wound is fresh. You will relate to him when you are in pain, and resonate with the emotions that led him to put a knife in his chest.

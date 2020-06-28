@@ -18,7 +18,7 @@ blurb: In 2012, David Byrne wrote that music risked becoming a soma-like drug.
 *
 ------
 
-![](<https://audioxide.com/wp-content/uploads/2019/01/Soma-Spotify-main-image.png> =2184x1356)
+![](<2019/01/Soma-Spotify-main-image.png> =2184x1356)
 ------
 In 2012 David Byrne asked whether music had become a ‘soma-like drug,’ a kind of emotional medication. He was referring to Aldous Huxley’s dystopian 1932 novel *Brave New World*, in which soma subdues society’s passions and keeps people apart. Faced with the rise of digital distribution and personal audio players, Byrne saw a similar fate awaiting music.
 Streaming services like Spotify were in their infancy at the time. Now they dominate the music industry, and Byrne’s concerns are more relevant than ever. Technology has revolutionised music consumption. Exploring the new terrain through the lens of *Brave New World *can help us guard against missteps. Now more than ever music is treated like a drug. If we are not careful, we risk becoming dependent.

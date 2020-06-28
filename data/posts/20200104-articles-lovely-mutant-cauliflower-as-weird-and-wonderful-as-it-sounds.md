@@ -16,7 +16,7 @@ blurb: It's quite the fusion of sounds, and huge credit goes to Rumerio for
 #### 04\.01.02020
 ------
 
-![Album artwork for 'Lovely mutant couliflower' by This frilly ape](<https://audioxide.com/wp-content/uploads/2020/01/Lovely-mutant-couliflower.jpg> =1000x1000)
+![Album artwork for 'Lovely mutant couliflower' by This frilly ape](<2020/01/Lovely-mutant-couliflower.jpg> =1000x1000)
 ------
 
 According to [Jérémy Rumerio’s bandcamp page](<https://thisfrillyape.bandcamp.com/releases>), This frilly ape plays ‘mainly sad, sometimes, absurd, ironic, self-derisory, aggressive, nostalgic, often pessimistic, tormented, anxiety-inducing music’. With a description like that I wasn’t totally sure what to expect, but the more I’ve listened to *Lovely mutant cauliflower* the more I think that bio is right on the money. The opening track has the sleaziness of classic [Tom Waits](<https://audioxide.com/reviews/tom-waits-rain-dogs/>), but with far more sonic weirdness. The guitars stagger like a drunken sloth, often sounding detuned and mutated, in a wonderfully warped sort of way. It’s mighty difficult to make out what exactly the vocals are saying, or how they’re doing it, but it certainly adds to the absurdity of it all. A right eton mess.

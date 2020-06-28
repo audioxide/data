@@ -13,7 +13,7 @@ author: andrew
 #### 05\.08.02016
 ------
 
-![Green Wing](<https://audioxide.com/wp-content/uploads/2016/04/Green-Wing-500x500.jpg> =500x500)
+![Green Wing](<2016/04/Green-Wing-500x500.jpg> =500x500)
 ------
 Taken from the mid-2000s comedy series of the same name, *Green Wing* does quirkiness exceedingly well. Trellis’s soundtrack for the series takes influence from jazz, latin, and classical music and melds them together with electronica and hip-hop techniques to produce an odd, but enjoyable fusion. It being a soundtrack, many tracks pass by pretty quickly, and it leads to the fuller formed tracks standing out, with [“Fibreoptik”](<https://www.youtube.com/watch?v=MxQRC4qdukA>) making for a guitar led dreamscape over 6 minutes, and [“No Tune”](<https://www.youtube.com/watch?v=8Uqb_EMDE1w>) a jittery, harmonica filled space ride.
 While this may not be a release with a definite place to belong, it makes for terrific oddball background music. Fans of the show will definitely find some nostalgia here, and those that enjoy Lemon Jelly or Mr Scruff should find plenty to enjoy as well.<br>

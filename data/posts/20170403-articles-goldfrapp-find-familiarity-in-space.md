@@ -13,7 +13,7 @@ author: andrew
 #### 03\.04.02017
 ------
 
-![Album cover for "Silver eye" by Goldfrapp](<https://audioxide.com/wp-content/uploads/2017/04/silver-eye-500x500.jpg> =500x500)
+![Album cover for "Silver eye" by Goldfrapp](<2017/04/silver-eye-500x500.jpg> =500x500)
 ------
 Since their debut at the turn of the millennium, Goldfrapp haven’t been afraid to toy with the components that characterise their music. Be it the cinematic, eerie quirk of the debut with tracks like [“Lovely Head”](<https://www.youtube.com/watch?v=v8ZKgJLSoYI>) and [“Oompah Radar”](<https://www.youtube.com/watch?v=boxAAZ6Meoo>), the thumping, rasping electronica of the two releases that followed it, well demonstrated by [“Crystalline Green”](<https://www.youtube.com/watch?v=paLIQHZx7MM>) and [“Ride a White Horse”](<https://www.youtube.com/watch?v=nFF8bubMc40>), or the warm, folksy, hug of their new direction that came eight years later, lead by the likes of [“A&E”](<https://www.youtube.com/watch?v=p7Ptai9I6eo>) and [“Happiness”](<https://www.youtube.com/watch?v=mnHlGONToIc>). Since then, the electronic duo have only continued to remain restless, returning to an, albeit cleaner, neo-retro, electronic sound in 2010, before U-turning back with a dramatic, string-soaked release in 2013.
 Consequently, long time fans have learnt to expect nothing but a synth, some drama, and Alison Goldfrapp’s silky smooth, ethereal vocals in one guise or another. Their latest album certainly brings together all three elements, with a substantial, rasp-laden sound reminiscent of *Black Cherry* and *Supernature*.

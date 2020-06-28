@@ -16,7 +16,7 @@ blurb: Spotify has revolutionised how we consume music. From mood playlists to
 *Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker.*
 ------
 
-<div id="attachment_7401" style="width: 1510px" class="wp-caption alignright"><img class="wp-image-7401 size-full" src="https://audioxide.com/wp-content/uploads/2019/01/spencer-imbrock.jpg" alt="Woman standing in front of musical imagery" width="1500" height="1000" srcset="https://audioxide.com/wp-content/uploads/2019/01/spencer-imbrock.jpg 1500w, https://audioxide.com/wp-content/uploads/2019/01/spencer-imbrock-300x200.jpg 300w, https://audioxide.com/wp-content/uploads/2019/01/spencer-imbrock-768x512.jpg 768w, https://audioxide.com/wp-content/uploads/2019/01/spencer-imbrock-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px"><p class="wp-caption-text">Image by Spencer Imbrock from Unsplash</p></div>
+<div id="attachment_7401" style="width: 1510px" class="wp-caption alignright"><img class="wp-image-7401 size-full" src="2019/01/spencer-imbrock.jpg" alt="Woman standing in front of musical imagery" width="1500" height="1000" srcset="2019/01/spencer-imbrock.jpg 1500w, 2019/01/spencer-imbrock-300x200.jpg 300w, 2019/01/spencer-imbrock-768x512.jpg 768w, 2019/01/spencer-imbrock-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px"><p class="wp-caption-text">Image by Spencer Imbrock from Unsplash</p></div>
 
 ------
 From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and access new music.
@@ -44,7 +44,7 @@ Spotify’s collaboration with Genius has also changed the way we interact with 
 [Genius](<https://www.youtube.com/user/RapGeniusVideo>) opens up a window to the artist’s mind: it has 3.8 million subscribers on YouTube, and uploads interviews with artists every day where they explain what their lyrics mean.
 ## We are more likely to make our own playlists
 Another feature almost all Spotify users use is making playlists. Spotify even makes tailored playlists for individual listeners, called ‘Daily Mix’, using their most listened songs and genres. And they have an iconic yearly marketing campaign that promotes playlists, using their users’ listening habit and playlist making skills.
-![](<https://audioxide.com/wp-content/uploads/2019/01/Spotify-wrapped.jpg> =1080x1920)(If you want to see your #2018wrapped, go to[ spotifywrapped.com](<http://spotifywrapped.com>).)
+![](<2019/01/Spotify-wrapped.jpg> =1080x1920)(If you want to see your #2018wrapped, go to[ spotifywrapped.com](<http://spotifywrapped.com>).)
 Spotify has revolutionised our music listening behaviour. But how does Spotify impact the music industry itself?
 ## Independent artists are more likely to grow
 As non-mainstream music becomes more widely available on Spotify, and the number of playlists dedicated to indie artists increase, listeners are becoming more flexible with their listening habits.
@@ -52,7 +52,7 @@ Eventually this curiosity for new music presents live performance opportunities 
 Spotify also acts as a platform for artists to promote their merchandise on the ‘Merch Bar’ and lets fans and followers know if they have a concert in their city.
 ## We are less likely to pirate music
 With the rise of digital streaming services, the music market has once again gained a foothold after years of instability. But it still has a long way to go to catch up with the physical music era.
-![](<https://audioxide.com/wp-content/uploads/2019/01/Music-industry-income.png> =1083x690)With Spotify, for only £9.99, you get access to ad-free listening of millions of songs. Meanwhile Spotify pays artists $0.00038 per play.
+![](<2019/01/Music-industry-income.png> =1083x690)With Spotify, for only £9.99, you get access to ad-free listening of millions of songs. Meanwhile Spotify pays artists $0.00038 per play.
 So as a band you’d be making decent enough money if you manage to get around a billion plays in total in a year, making up to $380,000. However, this is not a very easy mission for indie artists and an unbalanced royalties system is often why Spotify is criticised.
 According to IFPI’s[ 2018 Global Music Report](<https://www.ifpi.org/downloads/GMR2018.pdf>):
 ‘In 2017, the global recorded music market grew by 8.1%. This was the third consecutive year of global growth and one of the highest rates of growth since IFPI began tracking the market in 1997. Revenues increased in most markets and in eight of the global top 10 markets. Driven by fans’ engagement with streaming – especially paid subscription audio streaming – digital revenues now account for more than half (54%) of the global recorded music market.’

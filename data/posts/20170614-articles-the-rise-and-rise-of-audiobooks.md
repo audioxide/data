@@ -15,7 +15,7 @@ author: fred
 *Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings. *
 ------
 
-![](<https://audioxide.com/wp-content/uploads/2017/06/audiobooks-green.jpg> =1950x1113)
+![](<2017/06/audiobooks-green.jpg> =1950x1113)
 ------
 Last week, the Audio Publishers Association (APA) released the [2016 sales figures for audiobooks](<https://www.audiopub.org/uploads/pdf/APAC2017PR_final.pdf>), and things are looking rosy. There has been a 33.9% increase in the number of audiobooks sold, with sales totalling $2.1 billion (£1.65 billion) in 2016. In the U.S.A. alone 67 million people listened to at least one audiobook last year. The medium is exploding, and the most remarkable thing about these figures is that they’re not terribly remarkabl — they’re the norm. 2016 was the third consecutive year in which audiobook sales increased by over 20%.
 To what do audiobooks owe this success? The answer is actually quite simple: A happy wedding of circumstances and technology. Much like podcasts, audiobooks are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings. They are creating an entirely new market share by filling a space we barely notice is there: Silence.
