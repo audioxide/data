@@ -7,6 +7,8 @@ tags:
   - 2020s
   - "25"
   - laura marling
+  - bob dylan
+  - james taylor
 featuredimage: 2020/04/Song-for-Our-Daughter.jpg
 artist: Laura Marling
 album: Song for Our Daughter
@@ -24,8 +26,7 @@ colours:
   - "#cdced2"
   - "#cdced2"
 pullquote: A Marling masterclass
-summary: Robed in ever so tasteful shades of pinkish beige, bluish beige, and
-  beige, the album is an often sublime Marling masterclass.
+summary: Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, the album is an often sublime Marling masterclass.
 week: 229
 
 ---
