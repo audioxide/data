@@ -13,9 +13,15 @@ const imagesBase = '/images';
 const tagsBase = '/tags';
 const segmentDetector = /(^|\r?\n?)---\r?\n/;
 const segmentDivisor = /\r?\n---\r?\n/;
+const localImage = /(?<=<img)([^>]+?src=")(?!http)([^"]+?)"/g;
+const localLink = /(?<=<a )([^>]*?href=")(?!http)(?!mailto)([^"]+?)"/g;
 
 let imagesSizes = [];
 const data = {};
+
+const resolveLocalUrls = (html) => html
+    .replace(localImage, `$1${process.env.API_URL}/images/$2"`)
+    .replace(localLink, `$1${process.env.SITE_URL}/$2"`);
 
 const processContentFile = async (path, metadataYAML, contentSegments) => {
     // We infer some information from the filename
@@ -59,7 +65,7 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
         await Promise.all(
             imagesSizes.map(([label, { w, h }]) => {
                 const sizePath = `${imagesBase}${outputImagePath}${outputImageFile}-${label}${extension}`;
-                sizeObj[label] = sizePath;
+                sizeObj[label] = process.env.API_URL + sizePath;
                 return image.clone()
                     .resize(w, h, { withoutEnlargement: true })
                     .toFile(outputBase + sizePath);
@@ -74,19 +80,19 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
             const yaml = YAML.parse(contentStr);
             // Reviews and content can both contain markdown
             if ('review' in yaml) {
-                yaml.review = mdConverter.makeHtml(yaml.review);
+                yaml.review = resolveLocalUrls(mdConverter.makeHtml(yaml.review));
             }
             if ('content' in yaml) {
-                yaml.content = mdConverter.makeHtml(yaml.content);
+                yaml.content = resolveLocalUrls(mdConverter.makeHtml(yaml.content));
             }
             if ('body' in yaml) {
-                yaml.body = mdConverter.makeHtml(yaml.body);
+                yaml.body = resolveLocalUrls(mdConverter.makeHtml(yaml.body));
             }
             parsed = yaml;
         } catch {}
         if (parsed) return parsed;
         try {
-            parsed = mdConverter.makeHtml(contentStr);
+            parsed = resolveLocalUrls(mdConverter.makeHtml(contentStr));
         } catch {}
         if (parsed) return parsed;
         return contentStr;
