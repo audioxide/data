@@ -77,8 +77,7 @@ score:
 author: Andrew
 
 review: >-
-  The news of an expedited Laura Marling album certainly made for a positive in the deluge of curveballs flowing out the first half of 2020. Off the back of
-  2017’s [*Semper Femina*](<https://audioxide.com/reviews/laura-marling-semper-femina/>), *Song for Our Daughter* had a tough act to follow.
+  The news of an expedited Laura Marling album certainly made for a positive in the deluge of curveballs flowing out the first half of 2020. Off the back of 2017’s [*Semper Femina*](<https://audioxide.com/reviews/laura-marling-semper-femina/>), *Song for Our Daughter* had a tough act to follow.
 
   Starting as it means to go on, “Alexandra” builds from simple arrangement to warm, lush ensemble. Backing vocals fill out the track while a guitar slides away to the right, rich bass notes line the bottom and Marling’s vocal takes centre stage. “Held Down” sees the satisfying lyrical cadence we’ve seen entwined across her discography and “Strange Girl” embraces the catchy country folk that weaves its way throughout this album.
   
