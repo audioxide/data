@@ -56,9 +56,9 @@ tags:                           # Optional
   - bat for lashes
 featuredimage: 2016/06/file.png # Relates to a path from the ./data/images directory
 author: fred                    # Relates to an author file in ./data/authors directory
-blurb: Lorem ipsum dolor        # Used as a by line in articles, and an SEO description; optional; summary used if unspecified
+blurb: Lorem ipsum dolor        # Used as an SEO description; optional; summary used if unspecified
+summary: Lorem ipsum dolor      # Used as a by line in articles and a long, conclusive review summary; optional for articles
 # All items from here on are only used in reviews. This line is a comment, and not necessary in the file
-summary: Lorem ipsum dolor      # Usually only used by reviews; a long, conclusive review summary
 album: Some Album
 artist: Some Artist
 essentialtracks:                # As with tags, tracks may be specified one per line...
