@@ -1,17 +1,14 @@
 {
-    "xsmall-original": { "w": 300 },
-    "xsmall-square": { "w": 300, "h": 300 },
-    "xsmall": { "w": 300, "h": 200 },
-    "small-original": { "w": 600 },
-    "small-square": { "w": 600, "h": 600 },
-    "small": { "w": 600, "h": 400 },
-    "medium-original": { "w": 768 },
-    "medium-square": { "w": 768, "h": 768 },
-    "medium": { "w": 768, "h": 512 },
-    "large-original": { "w": 1026 },
-    "large-square": { "w": 1026, "h": 1026 },
-    "large": { "w": 1026, "h": 684 },
-    "xlarge-original": { "w": 1500 },
-    "xlarge-square": { "w": 1500, "h": 1500 },
-    "xlarge": { "w": 1500, "h": 1000 }
+    "variations": {
+        "original": null,
+        "square": 1,
+        "standard": 1.5
+    },
+    "sizes": {
+        "xsmall": 300,
+        "small": 600,
+        "medium": 768,
+        "large": 1026,
+        "xlarge": 1500
+    }
 }

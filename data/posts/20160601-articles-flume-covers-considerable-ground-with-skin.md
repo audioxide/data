@@ -13,7 +13,7 @@ author: andrew
 #### 01\.06.02016
 ------
 
-![Album cover for Flume - Skin](<2016/05/flume-skin-500x500.jpg> =500x500)
+![Album cover for Flume - Skin](<2016/05/flume-skin.jpg> =500x500)
 ------
 Flume has made huge strides since his eponymous debut in 2012, rocketing to notoriety earlier this year with his single “Never Be Like You”, which had huge success in his home country of Australia and on an international scale, making it onto primetime radio playlists in the weeks following its release. This has certainly led to an increase in interest surrounding the artist’s followup release, *Skin*.
 This new record sees a heavy focus on collaborative production, with more than half of the tracks featuring guest artists such as Little Dragon, AlunaGeorge and Beck. This can lead the musical direction quite firmly in some cases, with “Lose It” being driven by Vic Mensa’s high energy lines, and closing track “Tiny Cities” having a distinct, albeit electrified, Beck flavour.

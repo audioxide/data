@@ -13,7 +13,7 @@ author: andrew
 #### 06\.05.02016
 ------
 
-![The Colour of Anything](<2016/05/F9GzgaZ1-500x500.jpg> =500x500)
+![The Colour of Anything](<2016/05/F9GzgaZ1.jpg> =500x500)
 ------
 James Blake has been drip feeding fans with new tracks from his latest album since the beginning of the year, and teasers ramped up this week with [posts of Quentin Blake](<https://www.instagram.com/p/BEvxJDQyMyO/>) emblazoning walls with artwork. As Thursday evening rolled around, Blake announced his album would be released at midnight.
 17 tracks, 1 hour and 16 minutes later, I can say I’m very satisfied. *The Colour in Anything* sees a clear return to the experimentation with beats and sampling that made his debut, self-titled album so intriguing and has continued to do so with recent EPs like *200 Press EP*. Tracks like “Put That Away And Talk To Me” and “Noise Above Our Heads” especially show Blake’s more experimental side, and “Waves Know Shores” experiments alongside soulful vocals, another familiar trait of much of his music, which are held up with group harmony and distant horns, only to be interjected later with cavernous, glitchy blips of sound and warm pads as the track progresses.

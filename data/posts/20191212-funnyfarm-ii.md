@@ -4,14 +4,14 @@ modified: 2020-03-06T12:48:33.000Z
 slug: ii
 type: funnyfarm
 tags: []
-featuredimage: 2019/12/Funnyfarm-2...-Bas.jpg
+featuredimage: 2019/12/Funnyfarm-2-2-Bas.jpg
 title: "Funnyfarm II: Bas"
 author: fred
 blurb: In which a second guitarist is sourced at a local car park.
 ---
 ## *In which a second guitarist is sourced at a local car park*
 
-![](<2019/12/Funnyfarm-2...-Bas.jpg> =1500x1000)
+![](<2019/12/Funnyfarm-2-2-Bas.jpg>)
 
 They found him behind a Ford Focus with his head in a cloud. He was slumped at the base of a wall smoking a stupendously large spliff, watching as a ribbon of smoke rippled from its tip and faded into the cool night air.
 Bas — as he was known to everyone in Coppleton, his full name long forgotten — was a man untainted by the vanities of ambition. Locals admired that about him. From an early age he had had the good sense to keep any big ideas to himself. He was content with that. Indeed, his imagination had been quite audacious in his youth, galavanting in exotic, faraway lands where the people were beautiful and every day needed saving.
