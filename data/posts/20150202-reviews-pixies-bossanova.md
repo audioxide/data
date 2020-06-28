@@ -13,7 +13,6 @@ album: Bossanova
 essentialtracks:
   - Cecilia Ann
 favouritetracks:
-  - Cecilia Ann
   - Is She Weird
   - Havalina
 totalscore:
