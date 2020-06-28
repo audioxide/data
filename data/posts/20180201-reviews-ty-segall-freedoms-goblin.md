@@ -69,7 +69,7 @@ review: >-
   really are beautiful. There’s a lot right with it, but there’s almost too many
   pieces for it to click together properly.
 
-  To an extent *Freedom’s Goblin *is a victim of its own ambition and of Segall’s protean talent. A laudable amount of ground is covered, but the album’s identity fails to click into place and as a whole it comes off bloated and aimless. Combine this with a runtime of 75 minutes and you’re in trouble. There’s a slackness to the sound, as if it’s largely incapable of gripping you and holding on. Which is true, at least for me. Bizarrely, the album manages to traverse [The Beatles](<https://audioxide.com/reviews/the-beatles-revolver/>), [Pink Floyd](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>), and [Radiohead](<https://audioxide.com/reviews/radiohead-ok-computer/>) in one fell swoop and I *still *feel let down by it. Maybe that’s a testament to Segall’s talents; maybe to the depths of my joylessness. Who knows.
+  To an extent *Freedom’s Goblin *is a victim of its own ambition and of Segall’s protean talent. A laudable amount of ground is covered, but the album’s identity fails to click into place and as a whole it comes off bloated and aimless. Combine this with a runtime of 75 minutes and you’re in trouble. There’s a slackness to the sound, as if it’s largely incapable of gripping you and holding on. Which is true, at least for me. Bizarrely, the album manages to traverse [The Beatles](<reviews/the-beatles-revolver/>), [Pink Floyd](<reviews/pink-floyd-the-dark-side-of-the-moon/>), and [Radiohead](<reviews/radiohead-ok-computer/>) in one fell swoop and I *still *feel let down by it. Maybe that’s a testament to Segall’s talents; maybe to the depths of my joylessness. Who knows.
 tracks:
   - And, Goodnight
   - ­­Alta
@@ -89,8 +89,8 @@ review: While I’m normally the first one to bemoan an album’s length, Ty Seg
   Ty Segall has a knack for a solid riff and incorporates these well with
   instrumentation that hits the spot, full of ’60s and ’70s guitar crunches and
   wails, at times harking back to [The
-  Beatles](<https://audioxide.com/reviews/the-beatles-revolver/>) and [Pink
-  Floyd](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>)
+  Beatles](<reviews/the-beatles-revolver/>) and [Pink
+  Floyd](<reviews/pink-floyd-the-dark-side-of-the-moon/>)
   era music. It’s hard to pick out highlights from a tracklist like this, due in
   equal parts to its quality and length, but “Rain”, “Cry Cry Cry” and “The Main
   Pretender” all had me coming back to the album for their vastly different

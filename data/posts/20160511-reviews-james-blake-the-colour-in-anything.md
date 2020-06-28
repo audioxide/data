@@ -52,7 +52,7 @@ review: <div class="_d97"><p>Though James Blake tells us that he’s removed
   that clocks in well over the hour mark, it’s regrettably unambitious and even
   a little safe. Dare I say it; this is effectively James Blake on autopilot.
   There is little progression between this and <em><a
-  href="http://audioxide.com/reviews/james-blake-overgrown/" target="_blank"
+  href="reviews/james-blake-overgrown/" target="_blank"
   rel="noopener">Overgrown</a></em> to convince those who are yet to be sold on
   his passive style of song writing. Fortunately, the magnitude of Blake’s
   audience has increased rapidly these past few years, and those who are
@@ -82,7 +82,7 @@ review: Slurring his words over echoey piano, a series of unrelated synth
   creative leap here seems to be doing what he does for longer. The album clocks
   in at over seventy minutes long, and yet there’s very little I can say about
   it that wasn’t during our discussion of
-  [*Overgrown*](<http://audioxide.com/reviews/james-blake-overgrown/>). The
+  [*Overgrown*](<reviews/james-blake-overgrown/>). The
   production is clean and clear, Blake’s voice is pretty, and I’ve already
   forgotten most of what happened. I don’t get lost in the supposed ambience of
   his music. It’s too icy to be enveloping, and rarely dynamic enough to be

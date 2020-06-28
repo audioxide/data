@@ -50,7 +50,7 @@ review: 'Brimming with catchy vocal hooks and
   production simply doesn’t keep up with the ambition of the tunes here: in its
   attempt to sound like a raw re-enactment of a live performance, the result is
   almost the complete opposite. Far be it for me to dictate the artistic vision
-  of such a talented group, but perhaps a [grittier aesthetic](http://audioxide.com/reviews/tom-waits-rain-dogs/)
+  of such a talented group, but perhaps a [grittier aesthetic](reviews/tom-waits-rain-dogs/)
   would have resulted in a more gratifying experience, whilst also establishing
   a distinction between the studio and live sides of Rob Heron and the Tea Pad Orchestra.
   This is merely a personal contemplation at this point, though reflections like
@@ -70,8 +70,8 @@ author: Fred
 review: "*Something Blue *joins a frustrating school of albums we’ve listened to
   in which recording decisions deeply hinder the final product and do a
   disservice to the talents of the artist. Like Lianne La
-  Havas’ *[Blood](<https://audioxide.com/reviews/lianne-la-havas-blood/>) *and
-  Savages’ *[Adore Life](<https://audioxide.com/reviews/adore-life/>)*, Rob
+  Havas’ *[Blood](<reviews/lianne-la-havas-blood/>) *and
+  Savages’ *[Adore Life](<reviews/adore-life/>)*, Rob
   Heron & The Tea Pad Orchestra shoot themselves in the foot here by failing to
   translate their performative energies into a vibrant recorded form. The
   songwriting is dynamic and fun, the group is delightfully tight on a technical

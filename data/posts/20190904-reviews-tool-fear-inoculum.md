@@ -63,7 +63,7 @@ review: >-
   by its length and astonishing lack of urgency. Long, broody,
   instrumental-heavy albums have their place — [I’ve gushed over enough of them
   to
-  know](<https://audioxide.com/reviews/godspeed-you-black-emperor-luciferian-towers/>)
+  know](<reviews/godspeed-you-black-emperor-luciferian-towers/>)
   — but instead of poking into the frontier this gets mired in a kind of
   no-man’s land. This sounds like rock in slow motion.
 

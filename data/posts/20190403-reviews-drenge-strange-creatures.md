@@ -36,7 +36,7 @@ review: >-
   Drenge burst into our eardrums in 2013 with their self-titled debut album. It
   was a welcome opening, at least to me anyway. Drenge were among the raucous
   two-piece outfits that seemed to be periodically emerging. We got [Royal
-  Blood](<https://audioxide.com/reviews/royal-blood-how-did-we-get-so-dark/>),
+  Blood](<reviews/royal-blood-how-did-we-get-so-dark/>),
   but whilst their musings were slick, tight and produced, Drenge were rough,
   ready and ultimately more punk.
 
@@ -63,7 +63,7 @@ review: >-
   them properly. “Autonomy” might have been a banger if it was allowed to be
   dirty.
 
-  As has been the case with most of the new releases we’ve listened to this year, *Strange Creatures* isn’t bad, but I want more than not bad. One great track and a handful of bright moments is barely enough for an EP, let alone an album. With the anger and energy of IDLES’ [*Joy as an Act of Resistance*](<https://audioxide.com/reviews/idles-joy-as-an-act-of-resistance/>) still fresh in my mind I can’t help but find this lacking in comparison. And boy does Eoin Loveless enjoy the sound of his own voice. At least [Alex Turner justifies talking as much as he does](<https://audioxide.com/reviews/arctic-monkeys-tranquility-base-hotel-and-casino/>).
+  As has been the case with most of the new releases we’ve listened to this year, *Strange Creatures* isn’t bad, but I want more than not bad. One great track and a handful of bright moments is barely enough for an EP, let alone an album. With the anger and energy of IDLES’ [*Joy as an Act of Resistance*](<reviews/idles-joy-as-an-act-of-resistance/>) still fresh in my mind I can’t help but find this lacking in comparison. And boy does Eoin Loveless enjoy the sound of his own voice. At least [Alex Turner justifies talking as much as he does](<reviews/arctic-monkeys-tranquility-base-hotel-and-casino/>).
 tracks:
   - When I Look into Your Eyes
   - ­­Strange Creatures

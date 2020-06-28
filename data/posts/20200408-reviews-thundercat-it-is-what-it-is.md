@@ -38,13 +38,13 @@ review: >-
   charisma in spades. He’s contributed to some of the most extraordinary records
   released in the past decade, and even picked up a grammy for his work on
   Kendrick Lamar’s [*To Pimp A
-  Butterfly*](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>).
+  Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>).
   There’s no denying his talents, nor the distinctive mark he commits to a
   variety of musical projects. However, there’s certainly a conversation to be
   had about his quality as an individual recording artist.
 
 
-  For all his tremendous traits, Thundercat has a clear inability to stick to a single sentiment for more than a few minutes. Though I enjoyed 2017’s [*Drunk*](<https://audioxide.com/reviews/thundercat-drunk/>), I took issue with the rapid-fire approach to track sequencing, with some genuinely exciting ideas only lasting for a mere 40 seconds. His latest record, *It Is What It Is*, unfortunately suffers from the same issue, though thankfully to a far lesser extent. This is perhaps a more consistent release, while lacking the highs of its predecessor.
+  For all his tremendous traits, Thundercat has a clear inability to stick to a single sentiment for more than a few minutes. Though I enjoyed 2017’s [*Drunk*](<reviews/thundercat-drunk/>), I took issue with the rapid-fire approach to track sequencing, with some genuinely exciting ideas only lasting for a mere 40 seconds. His latest record, *It Is What It Is*, unfortunately suffers from the same issue, though thankfully to a far lesser extent. This is perhaps a more consistent release, while lacking the highs of its predecessor.
 
 
   *It Is What It Is* is a vibe. Sometimes sublime, sometimes funny, sometimes slightly irritating. But it’s a vibe, nonetheless. “Dragonball Durag” is a clear highlight, standing out as one of the more fully realised and developed songs on the record. If only there were more. *It Is What It Is* often ponders without reaching any conclusions, and whilst that approach does result in some interesting music (and some rather peculiar lyrical themes), it can end up being frustrating.

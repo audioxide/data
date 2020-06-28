@@ -70,7 +70,7 @@ review: Some albums endure through the honesty of their sound. They commit to
   back after a long day and play some basketball. As the track names hint at, G.
   Love doesn’t exactly burrow deep with his subject matter, but then so what?
   Simplicity has its own power, [as we all well
-  know](<https://audioxide.com/reviews/the-blue-album/>). The group is tight,
+  know](<reviews/the-blue-album/>). The group is tight,
   their sound is crisp and spirited, and their mood is something to share in. It
   doesn’t take much of a leap to visualise them [rocking out on a Philadelphia
   sidewalk during the

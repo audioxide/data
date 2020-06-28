@@ -113,7 +113,7 @@ score:
 author: ANDREW
 review: Queens of the Stone Age have enjoyed a lighter, synth-laced sound in
   their more recent material, and it was a roaring success in their previous
-  album, [*…Like Clockwork*](<https://audioxide.com/reviews/like-clockwork/>).
+  album, [*…Like Clockwork*](<reviews/like-clockwork/>).
   This trend was bound to continue with Mark Ronson’s involvement in this latest
   outing for the band, but in places Ronson’s sheen teeters on the overbearing
   cliff edge. Certainly in the first ten minutes, which features the lead single
@@ -129,7 +129,7 @@ review: Queens of the Stone Age have enjoyed a lighter, synth-laced sound in
   minutes, which pulls the instrumental back before letting rip with a rumbling
   bass and a horn section, makes for a satisfying track all round. There’s no
   shortage of variety on *Villains. *With tinges of
-  [Bowie](<https://audioxide.com/reviews/david-bowie-low/>) and dollops of
+  [Bowie](<reviews/david-bowie-low/>) and dollops of
   pop-rock, it’s a fresh look for the band in many ways, but that doesn’t stop
   it from being a solid Queens album, even if I doubt it’ll ever be considered
   their best.

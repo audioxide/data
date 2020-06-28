@@ -39,7 +39,7 @@ review: >-
   talented artists. Returning from an absence of 16 (!!!) years, I’m pleased to
   report nothing has really changed on that front. In fact, *Volumes 11 & 12*
   may just be the most entertainment release yet. The likes of Mike Kerr ([Royal
-  Blood](<https://audioxide.com/reviews/royal-blood-how-did-we-get-so-dark/>)),
+  Blood](<reviews/royal-blood-how-did-we-get-so-dark/>)),
   Jake Shears (Scissor Sisters) and even Matt Berry (Matt Berry) are involved
   this time round, and it sounds like they all had a pretty wild time writing
   and recording the material. Founder and general mastermind Joshua Homme
@@ -70,7 +70,7 @@ review: >-
 
   Those expecting lighting in a bottle will be disappointed. There are good moments to be sure. The funfair absurdity of “Chic Tweetz” — featuring Matt Berry of all people — is a charming novelty which would only work on a project like this. If you can’t do it with Desert Sessions when can you? Meanwhile, “Something You Can’t See” is comfortably the best ‘serious’ song. Its guitar work shimmers and Homme’s vocals ride the wind. In fact, it’s so lovely that it throws into focus how middling a lot of the album really is.
 
-  “Noses in Roses, Forever” sounds like a [*…Like Clockwork*](<https://audioxide.com/reviews/queens-of-the-stone-age-like-clockwork/>) B-side, while “Far East for the Trees” brushes on classic California psychedelia without quite feeling like it belongs. The production somehow manages to feel too polished. It belies the album’s messy premise. If *Vols. 11 & 12* owned how loose it really is I think it would come across a lot better.
+  “Noses in Roses, Forever” sounds like a [*…Like Clockwork*](<reviews/queens-of-the-stone-age-like-clockwork/>) B-side, while “Far East for the Trees” brushes on classic California psychedelia without quite feeling like it belongs. The production somehow manages to feel too polished. It belies the album’s messy premise. If *Vols. 11 & 12* owned how loose it really is I think it would come across a lot better.
 tracks:
   - Something You Can’t See
   - ­­Chic Tweetz

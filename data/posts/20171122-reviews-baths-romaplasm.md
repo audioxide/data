@@ -57,7 +57,7 @@ review: Every so often there comes an album that I have a complete disconnect
   with. It’s there and I’m here and that’s ok. *Romaplasm *is one of those
   records. Over the last couple of years it’s become obvious that skittish drum
   beats and aimless synthesisers [is not a formula I go
-  for](<https://audioxide.com/reviews/thom-yorke-the-eraser/>), and sadly (for
+  for](<reviews/thom-yorke-the-eraser/>), and sadly (for
   me) that’s exactly what Baths delivers. It’s an imposing sensory experience, a
   bulbous, sickly-sweet palette of sounds, and that’s all that really sticks.
   It’s not for everyone, though I’d be very surprised if it was for no-one

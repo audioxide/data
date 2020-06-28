@@ -22,4 +22,4 @@ One night, by the sickly light of neon signs in the pub’s smoking area, the tw
 What was it called? What did it sound like? Did it reach the holy land of a record deal?
 First things first: The band needed another guitarist, and word was the fellow Hazard had in mind was dozing on the top floor of a multi-story car park around the corner.
 
-<center><strong><a href="https://audioxide.com/funnyfarm/ii/">Next</a>¨NBSP;</strong><p><strong>→</strong></p></center>
+<center><strong><a href="funnyfarm/ii/">Next</a>¨NBSP;</strong><p><strong>→</strong></p></center>

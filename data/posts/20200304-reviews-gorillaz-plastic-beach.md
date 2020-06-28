@@ -73,7 +73,7 @@ review: "<div class=\"_aok _7i2m\" aria-label=\"With Plastic Beach celebrating
   date.\"><p>With <em>Plastic Beach</em> celebrating its 10-year anniversary
   this month – a rather frightening fact in itself – I’ve been thinking about
   the journey that the Gorillaz project has gone through since its inception. <a
-  href=\"https://audioxide.com/reviews/gorillaz-demon-days/\"><em>Demon
+  href=\"reviews/gorillaz-demon-days/\"><em>Demon
   Days</em></a>, released in 2005, is widely considered to be the essential
   work, capturing that satisfying sensation of sombre pop with an array of
   fantastic sonic fusions. Although I find the album’s closing moments to be
@@ -84,7 +84,7 @@ review: "<div class=\"_aok _7i2m\" aria-label=\"With Plastic Beach celebrating
   itself to the overriding concept, and it sounds gorgeous. However, it does
   also contain a higher amount of guest features, and this is where many fans
   take issue with recent Gorillaz output. On <a
-  href=\"https://audioxide.com/reviews/gorillaz-humanz/\"><em>Humanz</em></a>,
+  href=\"reviews/gorillaz-humanz/\"><em>Humanz</em></a>,
   Damon Albarn’s vocals were a welcome relief from the overpowering amount of
   collaborations. It just doesn’t ‘feel’ like a Gorillaz album. Conversely, I
   think <em>Plastic Beach</em> gets the balance spot on. Despite more than a
@@ -125,14 +125,14 @@ author: Fred
 review: >-
   What a pleasure it is listening to Gorillaz in full flow. I don’t think
   *Plastic Beach* is the group’s best outing (that would be [*Demon
-  Days*](<https://audioxide.com/reviews/gorillaz-demon-days/>)) but it’s
+  Days*](<reviews/gorillaz-demon-days/>)) but it’s
   probably the most fun. Despite the all-star lineup of collaborators the ‘band’
   still just about holds together, and everything’s packaged in an immutable
   groovy sound. It’s vibing, jiving beach party.
 
-  When the album’s in full swing it’s as good as any pop out there. “Empire Ants” is an all time great Gorillaz track, with Little Dragon’s Yukimi Nagano soaring high. It’s make-you-weak-at-the-knees gorgeous. “Stylo” is another top drawer collaboration, its lush groove irresistible. The band show they can still do it on their own with tracks like “Melancholy Hill”, which is vintage 2-D murmuring. I also have a huge soft spot for “Glitter Freeze”, a kind of Rocky Horror Light Show. Mark E Smith of [The Fall](<https://audioxide.com/reviews/the-fall-this-nations-saving-grace/>) is the perfect man to have at its centre. *Plastic Beach*’s finest moments sound, appropriately, like synthetic luxury. It’s buoyant and aspirational, feeling like a release of tension after the comparative harshness of *Demon Days*.
+  When the album’s in full swing it’s as good as any pop out there. “Empire Ants” is an all time great Gorillaz track, with Little Dragon’s Yukimi Nagano soaring high. It’s make-you-weak-at-the-knees gorgeous. “Stylo” is another top drawer collaboration, its lush groove irresistible. The band show they can still do it on their own with tracks like “Melancholy Hill”, which is vintage 2-D murmuring. I also have a huge soft spot for “Glitter Freeze”, a kind of Rocky Horror Light Show. Mark E Smith of [The Fall](<reviews/the-fall-this-nations-saving-grace/>) is the perfect man to have at its centre. *Plastic Beach*’s finest moments sound, appropriately, like synthetic luxury. It’s buoyant and aspirational, feeling like a release of tension after the comparative harshness of *Demon Days*.
 
-  That said, I do also think this marked the point where [the ‘band’ started to splinter and fade](<https://audioxide.com/articles/gorillaz-go-1-d/>). A few tracks feel like a bridge too far, if not straight up duds. “White Flag” and “Sweepstakes” don’t land, and for all its charm the album does feel a little bloated. It’s a less disciplined iteration of the Gorillaz project, for better and for worse. When all is said and done I’m delighted it’s part of the discography.
+  That said, I do also think this marked the point where [the ‘band’ started to splinter and fade](<articles/gorillaz-go-1-d/>). A few tracks feel like a bridge too far, if not straight up duds. “White Flag” and “Sweepstakes” don’t land, and for all its charm the album does feel a little bloated. It’s a less disciplined iteration of the Gorillaz project, for better and for worse. When all is said and done I’m delighted it’s part of the discography.
 tracks:
   - Empire Ants
   - ­­On Melancholy Hill
@@ -146,7 +146,7 @@ author: Andrew
 review: >-
   *Plastic Beach* was always going to struggle to compete against the runaway
   success of its predecessors. [*Demon
-  Days*](<https://audioxide.com/reviews/gorillaz-demon-days/>) made a hit out of
+  Days*](<reviews/gorillaz-demon-days/>) made a hit out of
   every single that came from it. But ten years on, it feels as though this
   maybe should’ve had more of a look in.
 

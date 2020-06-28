@@ -74,7 +74,7 @@ review: "On a score this low I’d expect to be upset or angry in some undignifi
   to get a kick out of that splattered unruliness, but it isn’t terribly
   enjoyable, or interesting, or anything really. The almost pathological lack of
   form and polish [would make Kanye West
-  blush](<https://audioxide.com/reviews/the-life-of-pablo/>). And in spite of
+  blush](<reviews/the-life-of-pablo/>). And in spite of
   all this, Arulpragasam’s core vibe is clearly something uniquely colourful and
   candid, so it’s a real shame it denies itself the chance to shine. A little
   discipline would have gone a long way."

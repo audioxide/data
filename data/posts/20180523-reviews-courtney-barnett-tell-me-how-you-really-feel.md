@@ -69,7 +69,7 @@ review: This was a case where the best qualities of something threw into sharp
   focus where it was most lacking. Courtney Barnett is a fine centre-piece to
   the album. Her lyrics flow, as does her delivery of them. There are shades of
   [PJ
-  Harvey](<https://audioxide.com/reviews/pj-harvey-the-hope-six-demolition-project/>)
+  Harvey](<reviews/pj-harvey-the-hope-six-demolition-project/>)
   about her, Lou Reed even. That velvet drawl. When the faux-punk instrumentals
   step back and let her dictate, as they do in “Hopefulessness” and “Help Your
   Self”, the whole picture is rock solid. For the most part, though, goings on

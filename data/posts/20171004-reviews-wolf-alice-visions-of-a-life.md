@@ -36,7 +36,7 @@ author: ANDRÉ
 review: '<div class="_d97"><p>My first listen of <em>Visions of a Life</em> was
   far more emotional than I had ever expected. Each of us saw great promise in
   Wolf Alice following <a
-  href="https://audioxide.com/reviews/wolf-alice-my-love-is-cool/"
+  href="reviews/wolf-alice-my-love-is-cool/"
   target="_blank" rel="noopener">our review of their debut record</a> back in
   2015. I wouldn’t have said they were destined for greatness, but the potential
   was undoubtedly there… and here we are. How did they get here so quickly? I
@@ -58,10 +58,10 @@ review: '<div class="_d97"><p>My first listen of <em>Visions of a Life</em> was
   thunderous title track shows that the band don’t have to rely on production
   techniques to stake their claim, and it’s a fucking belter.</p><p>It’s vital
   to understand what <em>Visions</em> is. This is not an <a
-  href="https://audioxide.com/reviews/radiohead-ok-computer/" target="_blank"
+  href="reviews/radiohead-ok-computer/" target="_blank"
   rel="noopener"><em>OK Computer</em></a> moment, nor is it a cultural beast
   like <a
-  href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/"
+  href="reviews/kendrick-lamar-to-pimp-a-butterfly/"
   target="_blank" rel="noopener"><em>To Pimp A Butterfly</em></a>. The record is
   unlikely to change the musical landscape, but that doesn’t mean it’s not an
   important moment. We’ve said it for years now: rock music has been getting
@@ -85,7 +85,7 @@ score:
 author: FRED
 review: >-
   We all liked Wolf Alice’s debut, [*My Love is
-  Cool*](<https://audioxide.com/reviews/wolf-alice-my-love-is-cool/>). We liked
+  Cool*](<reviews/wolf-alice-my-love-is-cool/>). We liked
   it very much. It was imperfect and vivid and we were all excited to hear the
   band grow — and my haven’t they. I think *Visions of a Life *is a masterpiece.
   I’m utterly infatuated with everything about it. The songs, the sound, the
@@ -99,7 +99,7 @@ review: >-
 
   The music’s been built around Ellie Howsell’s voice, and quite right too. Her adaptability is astounding. Spoken word, loving odes, tantrum screams. Name it and it’s there, sounding gorgeous. The sound follows her through every twist and turn, and fits her so snugly that I can only assume she was sewn into it. Not that she’s the sole reason *Visions* is so good. This is not the Ellie Rowsell Show starring The Rest of the Band. Not by a long shot. *Visions of a Life *is a Wolf Alice album, and everyone involved feels essential. Step back and listen to any given piece of a song in isolation and it’s a delight. Joel Amey’s drumming on “Heavenward”; Joff Oddie’s formidably cool guitar on “Formidable Cool”; Theo Ellis’s bassline for “Beautifully Unconventional”. I’m *at least *as taken with that bassline as I am with the album as a whole. On and on it goes. I connect with different songs every time I listen, and for different reasons. There’s a nimbleness to them that invites you to engage with something new every play. Are the songs fierce? Vulnerable? Simple? Transcendent? Depends what you’re focusing on in the moment. It’s all there, waiting to be adored. Massive props to producer Justin Meldal-Johnsen. He nailed it. The band go from punk to dreamscapes to out of orbit and the album’s continuity never falters. The threads never break, and woven together they make for something magical.
 
-  Perhaps most remarkably, I’m not even sure Wolf Alice have peaked… though I don’t mind if they have. I can live with that. They’ve already pushed into that feeling you get with [Pink Floyd](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>) or [The Beatles](<https://audioxide.com/reviews/the-beatles-revolver/>) where the very idea that four people can be so well suited and brush such heights together becomes its own beautiful thing. It’s just wonderful. *Visions of a Life *is everything I wanted. How often do you get everything you wanted? I’ve fallen in love with it. It rocks my world.
+  Perhaps most remarkably, I’m not even sure Wolf Alice have peaked… though I don’t mind if they have. I can live with that. They’ve already pushed into that feeling you get with [Pink Floyd](<reviews/pink-floyd-the-dark-side-of-the-moon/>) or [The Beatles](<reviews/the-beatles-revolver/>) where the very idea that four people can be so well suited and brush such heights together becomes its own beautiful thing. It’s just wonderful. *Visions of a Life *is everything I wanted. How often do you get everything you wanted? I’ve fallen in love with it. It rocks my world.
 tracks:
   - Formidable Cool
   - ­­Don’t Delete the Kisses
@@ -122,7 +122,7 @@ review: >-
   the next best British band, but if he was I’m sure he’d have held his tongue.
   Wolf Alice are, quite simply, one of the most electrifying acts going right
   now. 2015’s *[My Love is
-  Cool](<https://audioxide.com/reviews/wolf-alice-my-love-is-cool/>)* was a
+  Cool](<reviews/wolf-alice-my-love-is-cool/>)* was a
   great debut, full of potential that was easy to notice but clearly not yet
   fully realized. With *Visions of a Life* that potential hasn’t quite been
   tapped in its entirety, but that doesn’t mean Wolf Alice haven’t put out a

@@ -35,4 +35,4 @@ The agreeable visions of the supermarket girl had begun to fade from Bas’ mind
 ‘I think,’ Hazard said, ‘he’s in.’
 ‘Behdhwoah.’
 
-<center><strong></strong><p><strong>← <a href="https://audioxide.com/funnyfarm/i/">Previous</a> // <a href="https://audioxide.com/funnyfarm/iii/">Next</a> →</strong></p></center>
+<center><strong></strong><p><strong>← <a href="funnyfarm/i/">Previous</a> // <a href="funnyfarm/iii/">Next</a> →</strong></p></center>

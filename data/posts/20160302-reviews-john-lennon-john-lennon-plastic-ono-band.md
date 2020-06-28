@@ -50,7 +50,7 @@ review: Almost fifty years after its release, *John Lennon/Plastic Ono Band*
   feel more refined, and are constructed with delicacy; “Working Class Hero” is
   pure, powerful, and profound, its mellow character serving as a real
   premonition to Neil Young’s *[On The
-  Beach](<http://audioxide.com/reviews/on-the-beach/>)*, whilst the gentle
+  Beach](<reviews/on-the-beach/>)*, whilst the gentle
   “Love” exposes Lennon at his very sweetest. Ultimately, the context that
   surrounds *John Lennon/Plastic Ono Band* is what makes it important, even
   necessary, and with Lennon’s confession of ‘I don’t believe in Beatles, I just

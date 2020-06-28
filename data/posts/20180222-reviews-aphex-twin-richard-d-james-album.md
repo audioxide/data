@@ -61,7 +61,7 @@ score:
 author: Fred
 review: >-
   Of all things, this reminded me of our experience with Brian Eno’s [*Music for
-  Airports*](<https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/>).
+  Airports*](<reviews/brian-eno-ambient-1-music-for-airports/>).
   Listening to this was far more relaxing than it had any business being;
   there’s a tranquility to even the most restless arrangements. *Richard D.
   James Album *is kooky to be sure, but it’s also assured. It’s confident in a

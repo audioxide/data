@@ -49,7 +49,7 @@ review: '<div class="_d97"><p>Californian sisters Haim are in no hurry to
   times bordering on homage. “You Never Knew” struts with the confidence of a
   Fleetwood Mac hit; “Found it in Silence” beats with the same pounding pulse of
   Kate Bush’s <em>Hounds of Love</em>; “Walking Away” has the sensual swagger of
-  a <a href="https://audioxide.com/reviews/prince-purple-rain/" target="_blank"
+  a <a href="reviews/prince-purple-rain/" target="_blank"
   rel="noopener noreferrer">Prince</a> track. Whilst there are grounds for
   concern in regards to creativity, or even vague imagination, Haim embrace
   their inspirations in a joyous way that can only be a satisfying listening
@@ -104,8 +104,8 @@ review: "I’ll be honest: I came to Haim’s latest release with needless and
   too: “Nothing’s Wrong” draws the listener in with a punchy chorus that isn’t
   afraid to reveal its influences, while smoother tracks like ‘Walking Away’ are
   reminiscent of contemporary acts such as
-  [Lorde](<https://audioxide.com/listeningparties/lorde-melodrama/>) and [St.
-  Vincent](<https://audioxide.com/reviews/st-vincent-st-vincent/>), and do well
+  [Lorde](<listeningparties/lorde-melodrama/>) and [St.
+  Vincent](<reviews/st-vincent-st-vincent/>), and do well
   to ease the listener into the album’s final moments. It’s a fun listen that’s
   soaked in sunshine, which seems to be the intention of release. Having won me
   over, I can see myself returning *Something to Tell You*, particularly the

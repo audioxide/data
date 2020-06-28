@@ -17,7 +17,7 @@ blurb: Music and sound design are key components of the Legend of
 ### [ANDRÉ](<https://twitter.com/AndreDack>)
 #### 22\.07.02016
 ------
-*This is the first in [a series of articles](<https://audioxide.com/themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
+*This is the first in [a series of articles](<themusicofgames/>) in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.*
 ------
 ![Link enjoying the music of 'Twilight Princess'](<2016/07/twilightvibes.jpg> =1628x984 "Link enjoying the music of 'Twilight Princess'")------
 The music of *The Legend of Zelda* ranks amongst the most iconic in gaming history, capturing the imaginations of millions of gamers for over twenty years. What started as simple 8-bit melodies have blossomed into fully orchestrated arrangements, which have effectively followed in the footsteps of fanfare film music. Although its universe may not be as vast or as intricately detailed, the *Zelda* series has clear parallels with the likes of *Star Wars* and *Indiana Jones*, and much like those beloved franchises it relies heavily on repeated themes and motifs to drive its narrative. This particular entry, 2006’s *Twilight Princess*, was initially well received, but has divided opinion in the time since its release. The game is often placed as one of the weaker entries on the 3D *Zelda* spectrum. Nonetheless, the score had notable changes from previous titles that gave *Twilight Princess* a distinctly destitute atmosphere.

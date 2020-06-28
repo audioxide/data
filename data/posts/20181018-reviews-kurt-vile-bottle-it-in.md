@@ -63,7 +63,7 @@ review: >-
   around like it owns the place, and for long spells it unquestionably does.
   “Check Baby” twangs hard and hits heavy, while the psychedelic swathes in
   tracks like “Hysteria” and “Bassackwards” are [worthy of the
-  ’60s](<https://audioxide.com/reviews/the-jimi-hendrix-experience-electric-ladyland/>).
+  ’60s](<reviews/the-jimi-hendrix-experience-electric-ladyland/>).
   The whole record has an easiness of manner, content to be the sonic backdrop
   for a wanderer with no particular destination in mind. The mix colours all
   this perfectly. Vile’s explorations deserve an expansive setting, and they get

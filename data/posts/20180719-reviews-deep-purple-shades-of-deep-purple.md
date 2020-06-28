@@ -41,7 +41,7 @@ review: Aside from being cited as one of the pioneers of hard rock, I knew
   gate with an ambitious instrumental track lasting five minutes. Lo and behold,
   Deep Purple’s debut record turns out to be none other than a pleasing
   prescription of psychedelic rock. *Shades of Deep Purple* is no [*Surrealistic
-  Pillow*](<https://audioxide.com/reviews/jefferson-airplane-surrealistic-pillow/>)
+  Pillow*](<reviews/jefferson-airplane-surrealistic-pillow/>)
   by any means, but it’s still pretty good going, and the general vibe is spot
   on. The sonic scenery is colourful and smoky, and the band sound like they’re
   having the time of their lives. It’s obvious that they were still in search of
@@ -53,7 +53,7 @@ review: Aside from being cited as one of the pioneers of hard rock, I knew
   purely derived from the fact that its sound had been done better elsewhere,
   even by the time of its release in 1968. Drawing comparisons to albums such as
   *Surrealistic Pillow*,
-  [*Revolver*](<https://audioxide.com/reviews/the-beatles-revolver/>) and *The
+  [*Revolver*](<reviews/the-beatles-revolver/>) and *The
   Piper at the Gates of Dawn* makes for a harsh window of quality, but it’s true
   nonetheless. This a pleasant plunge into the world of psychedlia — a gateway
   to the real stuff. Despite its rawness, *Shades of Deep Purple* remains an
@@ -75,11 +75,11 @@ review: >-
   year after those messy months in San Francisco only seems right. The album
   very much feels like a product of its time, a faithful, occasionally zealous
   disciple of a zeitgeist. The likes of [Jefferson
-  Airplane](<https://audioxide.com/reviews/jefferson-airplane-surrealistic-pillow/>),
+  Airplane](<reviews/jefferson-airplane-surrealistic-pillow/>),
   [Jimi
-  Hendrix](<https://audioxide.com/reviews/the-jimi-hendrix-experience-electric-ladyland/>),
+  Hendrix](<reviews/the-jimi-hendrix-experience-electric-ladyland/>),
   and, of course, [The
-  Beatles](<https://audioxide.com/reviews/the-beatles-revolver/>) loom large
+  Beatles](<reviews/the-beatles-revolver/>) loom large
   over Deep Purple’s own forays down the rabbit hole. There are worse influences
   out there to be sure, and they translate into quite a trip here.
 

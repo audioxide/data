@@ -67,7 +67,7 @@ review: >-
 
   Most of the songs sprint out the gate, and the (frequent and lengthy) instrumental sections breeze by. I’ll admit, when I peeked at the screen for the beginning of “Praying for Rain” and saw six minutes I was worried, but not for long. The tracks get you onside quickly, and they often carry you away too. *Disintegration* is expansive, but it is driven too. This is best demonstrated by flagship songs “Lullaby” and “Lovesong”, but true of practically every track.
 
-  That said, although the lengths of individual songs is not an issue, the sum total of their length does leave me flagging. We’ve listened to [70+ minute albums that earn every second](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>). This isn’t one of them, though it gets closer than most. It really is a pretty epic piece of work, and 30 years later it still sounds fantastic.
+  That said, although the lengths of individual songs is not an issue, the sum total of their length does leave me flagging. We’ve listened to [70+ minute albums that earn every second](<reviews/kendrick-lamar-to-pimp-a-butterfly/>). This isn’t one of them, though it gets closer than most. It really is a pretty epic piece of work, and 30 years later it still sounds fantastic.
 tracks:
   - Lullaby
   - ­­Lovesong

@@ -34,10 +34,10 @@ author: ANDRÉ
 review: <div class="_d97"><p>The third album from Solange is proud, personal,
   and exceedingly pleasing. <em>A Seat at the Table</em> valiantly confronts
   discrimination and oppression in a similar manner to <em><a
-  href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/"
+  href="reviews/kendrick-lamar-to-pimp-a-butterfly/"
   target="_blank" rel="noopener">To Pimp A Butterfly</a></em>, but is also
   understated and extremely modest compared to this year’s <a
-  href="https://audioxide.com/articles/best-of-the-rest-april-2016/"
+  href="articles/best-of-the-rest-april-2016/"
   target="_blank" rel="noopener">brilliant record from Solange’s older sister
   Beyoncé</a>. It’s an extremely smooth ride with no turbulence or unnecessary
   distractions, full to the brim with colourful instrumentals and warm,
@@ -85,7 +85,7 @@ review: This was a nice, fluffy listen. As sumptuous as *A Seat at the Table*
   length. Solange’s engagement is unquestionably sincere, but it feels
   responsive, like listening to a melodic echo. It’s interesting to hear the
   shadow Kendrick Lamar’s *[To Pimp a
-  Butterfly](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>)
+  Butterfly](<reviews/kendrick-lamar-to-pimp-a-butterfly/>)
   *is already casting. A lot of its calls are responded to here. *A Seat at the
   Table *listens like a thoughtful, tender, prim disciple, and deserves its
   success, but it seldom blazes a trail. It reaffirms a cultural swell in a way
@@ -118,7 +118,7 @@ review: There was little fanfare for the release of Solange Knowles latest
   my head. Given the interludes and the lyrical content of much of the album, I
   would take a guess that this is not the image that was intended to be
   conveyed, with many themes similar to those on Kendrick Lamar’s *[To Pimp a
-  Butterfly](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>)*,
+  Butterfly](<reviews/kendrick-lamar-to-pimp-a-butterfly/>)*,
   which dealt with difficult social and racial tensions, with further
   celebration and recounts of black history and culture. This makes for an album
   that should be far more hard hitting and impactful than it was for me.

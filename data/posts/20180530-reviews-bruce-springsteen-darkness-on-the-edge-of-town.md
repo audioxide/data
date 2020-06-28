@@ -48,13 +48,13 @@ review: >-
   narratives, are always captivating, and it’s helped enormously by
   Springsteen’s distinctive, adaptable, and utterly powerful voice (his
   performances here are clearly a huge influence to the likes of [Win
-  Butler](<https://audioxide.com/reviews/arcade-fire-funeral/>)). That said, I
+  Butler](<reviews/arcade-fire-funeral/>)). That said, I
   couldn’t say I ever connect emotionally with the stories, as well told and
   beautifully illustrated as they are. There’s something about the album that
   hits the American dream right on the head, and I’d probably get more out of it
   if felt more passionately about the ethos. I am merely a cynical Brit.
 
-  My endearment with *Darkness* lies mainly in its grandiose makeup and its epic production. The atmosphere is so vast; the overall sound so huge. Albums like [*The Joshua Tree*](<https://audioxide.com/reviews/u2-the-joshua-tree/>), and even more modern efforts like [*Because of the Times*](<https://audioxide.com/reviews/kings-of-leon-because-of-the-times/>), clearly held Springsteen’s records as references. I appreciate that it’s virtually blasphemous to even suggest this, but I think the formula has been bettered. Maybe I’m a spoilt millennial music listener who has the benefit of hearing modern albums heavily influenced by *Darkness*, but I find a great deal of the songwriting to be formulaic and slightly predictable. Put simply, I’ve now heard it all before. I still get a big ol’ buzz from *Born in the USA*, mostly due to the enormous anthemic choruses and the ironic wit. In the case of *Darkness on the Edge of Town*, however, I find myself in a state of admiration rather than satisfaction.
+  My endearment with *Darkness* lies mainly in its grandiose makeup and its epic production. The atmosphere is so vast; the overall sound so huge. Albums like [*The Joshua Tree*](<reviews/u2-the-joshua-tree/>), and even more modern efforts like [*Because of the Times*](<reviews/kings-of-leon-because-of-the-times/>), clearly held Springsteen’s records as references. I appreciate that it’s virtually blasphemous to even suggest this, but I think the formula has been bettered. Maybe I’m a spoilt millennial music listener who has the benefit of hearing modern albums heavily influenced by *Darkness*, but I find a great deal of the songwriting to be formulaic and slightly predictable. Put simply, I’ve now heard it all before. I still get a big ol’ buzz from *Born in the USA*, mostly due to the enormous anthemic choruses and the ironic wit. In the case of *Darkness on the Edge of Town*, however, I find myself in a state of admiration rather than satisfaction.
 tracks:
   - Streets of Fire
   - ­­Racing in the Street

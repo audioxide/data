@@ -35,22 +35,22 @@ author: André
 review: >-
   There was no shortage of moody alternative music in the ’90s. Grunge propelled
   itself to the mainstream in the USA, with
-  [Nirvana](<https://audioxide.com/reviews/nirvana-in-utero/>), [Smashing
-  Pumpkins](<https://audioxide.com/reviews/the-smashing-pumpkins-gish/>), and
-  [Soundgarden](<https://audioxide.com/reviews/soundgarden-superunknown/>) all
+  [Nirvana](<reviews/nirvana-in-utero/>), [Smashing
+  Pumpkins](<reviews/the-smashing-pumpkins-gish/>), and
+  [Soundgarden](<reviews/soundgarden-superunknown/>) all
   flying the angsty flag of melancholy, whilst [Nine Inch
-  Nails](<https://audioxide.com/reviews/nine-inch-nails-pretty-hate-machine/>)
+  Nails](<reviews/nine-inch-nails-pretty-hate-machine/>)
   and [Marilyn
-  Manson](<https://audioxide.com/reviews/review-heaven-upside-down-marilyn-manson/>)
+  Manson](<reviews/review-heaven-upside-down-marilyn-manson/>)
   were working on providing an essential dose of nihilistic despair for the most
   miserable of music listeners. The UK, meanwhile, was mostly occupied with
   Britpop during the early periods of the decade, but thankfully we saw some
   splendidly sulky artists rear their heads, almost as an antidote to the
   colossal culture that bands like
-  [Oasis](<https://audioxide.com/reviews/oasis-definitely-maybe/>) and
-  [Blur](<https://audioxide.com/reviews/blur-modern-life-is-rubbish/>)
+  [Oasis](<reviews/oasis-definitely-maybe/>) and
+  [Blur](<reviews/blur-modern-life-is-rubbish/>)
   galvanised. Radiohead are one such band, of course, but it wasn’t really until
-  1997’s [*OK Computer*](<https://audioxide.com/reviews/radiohead-ok-computer/>)
+  1997’s [*OK Computer*](<reviews/radiohead-ok-computer/>)
   that the Oxfordshire outfit so often, and so flippantly, got branded the
   definitive miseries of contemporary music. The artists mentioned here are
   monstrous in stature, known worldwide with platinum-selling records and vast
@@ -73,7 +73,7 @@ score:
 author: Fred
 review: >-
   If [*Let England
-  Shake*](<https://audioxide.com/reviews/pj-harvey-let-england-shake/>) is PJ
+  Shake*](<reviews/pj-harvey-let-england-shake/>) is PJ
   Harvey’s ethereal peak (it is) then *To Bring You My Love* showcases the best
   of her voodoo depths. Light and shade and all that. From start to finish the
   album is like wading through swampland. The guitar on tracks like “Working for
@@ -84,7 +84,7 @@ review: >-
 
   I’m more taken with the album’s mood than with any one track. Its murky atmosphere is what allows PJ Harvey to holler and moan like no-one else can. Indeed, my favourite song is comfortably “I Think I’m a Mother”, which does a wonderful job of going nowhere. In contrast, the five-minute rollicking of “Long Snake Moan” is probably where I’m least interested. Enough of that noise, get me back to the guttural mysticism.
 
-  Even though the music is dark sonically, and at times even darker lyrically, *To Bring You My Love* has a theatricality that makes it easier to enjoy than other miserable music – [*The Downward Spiral *](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>)or [*Unknown Pleasures*](<https://audioxide.com/reviews/joy-division-unknown-pleasures/>), for example. With Harvey it feels like you’ve stumbled across the ad hoc performance of a travelling mystic. It’s black magic with a smile. There’s blood trickling from the corner of its mouth, but then who are we to judge? I think it’s great.
+  Even though the music is dark sonically, and at times even darker lyrically, *To Bring You My Love* has a theatricality that makes it easier to enjoy than other miserable music – [*The Downward Spiral *](<reviews/nine-inch-nails-the-downward-spiral/>)or [*Unknown Pleasures*](<reviews/joy-division-unknown-pleasures/>), for example. With Harvey it feels like you’ve stumbled across the ad hoc performance of a travelling mystic. It’s black magic with a smile. There’s blood trickling from the corner of its mouth, but then who are we to judge? I think it’s great.
 tracks:
   - I Think I’m a Mother
   - ­­Meet Ze Monsta
@@ -108,7 +108,7 @@ review: >-
   From rich bass to enflamed stresses at her top register, the vocal range and considered dynamics on display are staggering. Each track’s pace and energy is distinct whilst telling tales between them, ebbing and flowing across the album such that ideas come and go with the attention they deserve and without overstaying their welcome. The lyricism’s cryptically personal content, focused largely on the desperations of love and loss, is explored meaningfully by both the haunting arrangements of the ballads and the anthemic tracks’ bouncy, driving riffs. Used sparingly, the vibraphone and organ tie the religious themes into the composition while the note-heavy guitar chord structures ensure each lull in tempo is interrupted by a lurch of energy.
 
 
-  The echoes of *To Bring You My Love* in the likes ot [St. Vincent](<https://audioxide.com/reviews/st-vincent-masseduction/>) and [Courtney Barnett](<https://audioxide.com/reviews/courtney-barnett-tell-me-how-you-really-feel/>)‘s work speak for the resonance of PJ Harvey’s first solo project and the genre-defying qualities of her songwriting. Its dedication, emotive depth, visionary composition and unflinching personality have surely cemented it as an album whose quality and enjoyability will endure for decades to come.
+  The echoes of *To Bring You My Love* in the likes ot [St. Vincent](<reviews/st-vincent-masseduction/>) and [Courtney Barnett](<reviews/courtney-barnett-tell-me-how-you-really-feel/>)‘s work speak for the resonance of PJ Harvey’s first solo project and the genre-defying qualities of her songwriting. Its dedication, emotive depth, visionary composition and unflinching personality have surely cemented it as an album whose quality and enjoyability will endure for decades to come.
 tracks:
   - Long Snake Moan
   - ­­Meet Ze Monsta

@@ -94,7 +94,7 @@ review: André and Andrew are right to admire what they do about *Channel
   sound never quite absorbs me. I’m never really convinced. I wish I
   liked *Channel Orange *more than I do — it is so well crafted — but it has
   precious little sticking power. The unexpected truth is that this gentleman
-  prefers *[Blonde](<https://audioxide.com/reviews/frank-ocean-blond/>).*
+  prefers *[Blonde](<reviews/frank-ocean-blond/>).*
 tracks:
   - Lost
   - ­Bad Religion
@@ -107,7 +107,7 @@ score:
 author: ANDREW
 review: Despite its notoriety and acclaim, I’ve only been listening to *Channel
   Orange* for a similar amount of time
-  as *[Blonde](<https://audioxide.com/reviews/frank-ocean-blond/>),* and it’s
+  as *[Blonde](<reviews/frank-ocean-blond/>),* and it’s
   been an interesting comparison. *Channel Orange* is rife with catchy hooks and
   a huge variety of sounds and atmospheres, memorable lines and
   nostalgia-inducing interludes. Unlike *Blonde*, beats and percussive rhythm

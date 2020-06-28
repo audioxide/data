@@ -106,7 +106,7 @@ review: I was a huge fan of MGMT’s debut, *Oracular Spectacular*, but I missed
   fallen for this album, as, aside from the fact there are definitely the
   makings of a solid album in here, I hear a lot of similarities between the
   likes of Air, [*Dark
-  Side*](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>)
+  Side*](<reviews/pink-floyd-the-dark-side-of-the-moon/>)
   era Pink Floyd and many of the great indie-pop acts from the 00s that I’ve
   loved. Based on the general reception, I must be the one missing something
   too, which is frustrating but I’ve found it difficult to feel anything about

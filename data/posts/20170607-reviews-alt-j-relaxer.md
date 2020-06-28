@@ -109,7 +109,7 @@ review: "*Relaxer* is such a stark contrast to alt-J’s previous output, it beg
   unsatisfying end. Sadly, by this point, I found it hard not to switch off, as
   what had proceeded it just didn’t give me anything to remain interested. The
   most engaging tracks for me were those that featured Ellie Rowsell of [Wolf
-  Alice](<https://audioxide.com/reviews/wolf-alice-my-love-is-cool/>), adding a
+  Alice](<reviews/wolf-alice-my-love-is-cool/>), adding a
   fun dynamic and maintaining an atmosphere that is otherwise bereft across the
   rest of the tracklist. I’m upset that I don’t feel much more about
   *Relaxer.* It has some highlights that are undermined by truly unaffecting

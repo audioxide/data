@@ -79,7 +79,7 @@ review: "*Can I Borrow a Feeling?* still divides opinion. I know where I stand.
   “Savoury”, I still feel sublimely embarrassed listening to this all the way
   through. In a way I suppose we should be grateful. In the same way that The
   Velvet Underground and
-  [Pixies](<https://audioxide.com/reviews/pixies-doolittle/>) inspired listeners
+  [Pixies](<reviews/pixies-doolittle/>) inspired listeners
   to pick up an instrument and start a band, Kirk Van Houten likely convinced a
   number of well-meaning but talentless artists to spare themselves the
   trouble."

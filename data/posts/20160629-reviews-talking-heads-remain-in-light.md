@@ -39,7 +39,7 @@ review: <div class="_d97"><p><em>Remain in Light</em> is a sheer delight to
   entertaining. The opening portion of the record springs along with a playful
   energy, and the second half is a haze that floats by at its own steady pace,
   drawing comparisons to albums of a similar era such as David Bowie’s <em><a
-  href="https://audioxide.com/reviews/david-bowie-low/" target="_blank"
+  href="reviews/david-bowie-low/" target="_blank"
   rel="noopener">Low</a></em>. The music supplies a wonderful backdrop, fuelled
   by percussion and driven with intricate polyrhythms, but the heart and soul
   derives from David Byrne, who recites with humour and wit, at the brink of

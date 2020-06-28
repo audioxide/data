@@ -35,7 +35,7 @@ blurb: The aura of each composition is beautiful, yet there's also the aching
 author: André
 review: >-
   How do you even follow an album like [*Skeleton
-  Tree*](<https://audioxide.com/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/>)?
+  Tree*](<reviews/nick-cave-and-the-bad-seeds-skeleton-tree/>)?
   The 2016 release from Nick Cave & The Bad Seeds was beautiful, powerful, and
   utterly devastating. It stands as one of the most despondent records of recent
   years. We now arrive at *Ghosteen*, where Nick Cave’s sorrow shifts into
@@ -72,7 +72,7 @@ review: >-
 
   So in a lot of ways *Ghosteen* doesn’t surprise at all. The album listens like a book of gothic poetry in sonic form, with the band bleeding into the space around Cave’s vocals. It’s like a fable on opium. This makes for a seductive opening, with the first couple of tracks casting a thick and heavy spell, but the album does struggle to progress from there. Gravelly streams of consciousness in an ambient dream world can be very beautiful, but they can also, dare I say it, be very samey. It’s a muggy affair.
 
-  I want to unconditionally adore Nick Cave, I really do, but I’m again left thinking the project would have benefitted from more Bad Seeds. As was the case in [*Let Love In*](<https://audioxide.com/reviews/nick-cave-and-the-bad-seeds-let-love-in/>) and [*Skeleton Tree*](<https://audioxide.com/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/>), the best moments are when Cave stops muttering and the band starts playing. The crescendo of the title track is gorgeous, as is the mood set by the opener, but that’s as far as my memories go. It’s another slow, broody Nick Cave show. Those ready to like it will like it. Those unconvinced will likely remain so.
+  I want to unconditionally adore Nick Cave, I really do, but I’m again left thinking the project would have benefitted from more Bad Seeds. As was the case in [*Let Love In*](<reviews/nick-cave-and-the-bad-seeds-let-love-in/>) and [*Skeleton Tree*](<reviews/nick-cave-and-the-bad-seeds-skeleton-tree/>), the best moments are when Cave stops muttering and the band starts playing. The crescendo of the title track is gorgeous, as is the mood set by the opener, but that’s as far as my memories go. It’s another slow, broody Nick Cave show. Those ready to like it will like it. Those unconvinced will likely remain so.
 tracks:
   - Ghosteen
   - ­­Sun Forest
@@ -94,7 +94,7 @@ review: >-
   The second half of the album, a three-track, thirty-minute affair, doesn’t help much either, leaning further into the same characteristics. Midway through “Hollywood”, things feel as though they may take a turn or twist, with a droning bass line that begins to twitch, potentially signalling something bigger to come. But, as with much of the album, nothing ever does emerge. The track continues to simmer to its conclusion.
 
 
-  I’m by no means expecting a surprise big band breakdown or a cacophonous electronic frenzy to materialise, but [*Skeleton Tree*](<https://audioxide.com/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/>) gave some variety, seemingly allowed the Bad Seeds to do more with the instrumentals and, of course, gave us the beautiful Else Torp feature, all while packaging it tightly into forty minutes. *Ghosteen* instead demands more for a less eventful payoff and that makes it a hard album for me to return to.
+  I’m by no means expecting a surprise big band breakdown or a cacophonous electronic frenzy to materialise, but [*Skeleton Tree*](<reviews/nick-cave-and-the-bad-seeds-skeleton-tree/>) gave some variety, seemingly allowed the Bad Seeds to do more with the instrumentals and, of course, gave us the beautiful Else Torp feature, all while packaging it tightly into forty minutes. *Ghosteen* instead demands more for a less eventful payoff and that makes it a hard album for me to return to.
 
 
   For fans, this may well be exactly what they want from a Nick Cave album. Technically excellent, *Ghosteen* far from besmirches their discography, but it’s unfortunately not my cup of tea.

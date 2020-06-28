@@ -43,7 +43,7 @@ review: >-
 
   Then there’s the bad. The whole thing is just a little too ludicrous. It’s genuinely funny, but I’m not entirely sure Faith No More are in on the joke. It’s also very long, or at least if feels lengthy, which makes the inclusion of “War Pigs” even weirder. Sure, it’s entertaining, but when a cover song stands out as one of the most focused moments on the entire record, you know the overall quality is somewhat lacking. However, nothing epitomises *The Real Thing* more than its closing moments, with a transition from ‘Black Sabbath classic’ to ‘metal-jazz cafe’. Absurd.
 
-  It’s easy to see why *The Real Thing* has its fair share of fans. Extravagance often comes with great amusement. Faith No More may not have the talent of [Queen](<https://audioxide.com/reviews/queen-news-of-the-world/>), but they create a similar brand of musical theatre. It’s also clear why some listeners dislike the extravagance. Unfortunately, I remain on the fence, though it’s impossible to deny that *The Real Thing* is entertaining. In the same way that Roger Moore-era Bond films are entertaining.
+  It’s easy to see why *The Real Thing* has its fair share of fans. Extravagance often comes with great amusement. Faith No More may not have the talent of [Queen](<reviews/queen-news-of-the-world/>), but they create a similar brand of musical theatre. It’s also clear why some listeners dislike the extravagance. Unfortunately, I remain on the fence, though it’s impossible to deny that *The Real Thing* is entertaining. In the same way that Roger Moore-era Bond films are entertaining.
 tracks:
   - Surprise! You’re Dead!
   - ­­Falling to Pieces

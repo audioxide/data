@@ -44,7 +44,7 @@ review: '<div class="_d97"><p>With an adept ability for creating whimsical
   sadly stopped here. <em>The Bride</em> contains a central narrative that
   should be emotionally stirring, yet ends up flat and entirely forgettable.
   Much like <a
-  href="https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/"
+  href="reviews/radiohead-a-moon-shaped-pool/"
   target="_blank" rel="noopener">Radiohead’s latest triumph</a>, this is Khan’s
   softest and most ethereal effort yet, but isn’t nearly as affective or
   engaging. It starts as it means to go on: flimsy, restrained, and lacking an
@@ -77,7 +77,7 @@ author: FRED
 review: This was fifty minutes of anti-climax. Having been passingly acquainted
   with Bats for Lashes by Natasha Khan aficionado and shrine builder André, I
   was quite looking forward to this one. Khan’s recent side project
-  *[Sexwitch](<https://audioxide.com/reviews/sexwitch-sexwitch/>) *wasn’t
+  *[Sexwitch](<reviews/sexwitch-sexwitch/>) *wasn’t
   without its limitations, but there were enough creative juices flowing through
   it to expect some haunting and groovy ambient splashes from *The Bride*.
   Instead of that, the record is jarringly pedestrian. It lacks any sense of

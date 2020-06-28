@@ -37,7 +37,7 @@ review: '<div class="_d97"><p>The awaited return of A Tribe Called Quest is a
   href="http://www.rollingstone.com/music/news/a-tribe-called-quests-phife-dawg-dead-at-45-20160323"
   target="_blank" rel="noopener">recently deceased Phife Dawg</a>, with
   contributions from friends old (Busta Rhymes, Consequence) and new (<a
-  href="https://audioxide.com/reviews/kendrick-lamar-damn/" target="_blank"
+  href="reviews/kendrick-lamar-damn/" target="_blank"
   rel="noopener">Kendrick Lamar</a>, Andre 3000). Jack White is a notable
   presence, and even Elton John makes an appearance. It has the ingredients to
   be a triumphant reunion, and yet it never quite reaches its full potential.
@@ -87,7 +87,7 @@ review: This was a pretty unique misfire. The songwriting, instrumentation, and
   it is, and it’s a solid hour. Enough of the samples and beats are colourless
   to make the album as a whole lose edge, and some of them are downright bad.
   The Willy Wonka sample is something right out of the [Bon Iver school of
-  subtlety](<https://audioxide.com/reviews/bon-iver-22-a-million/>). Are memes
+  subtlety](<reviews/bon-iver-22-a-million/>). Are memes
   high art now? I don’t feel like I’ve truly heard the album. Only a handful of
   tracks break through the malaise, and even they could sound so much better
   than they do. If *We Got It from Here* was half as long and totally remixed,
@@ -121,7 +121,7 @@ review: >-
   merges together with instrumentation of similar frequency, and what results is
   an album that doesn’t hold a listener’s attention.
 
-  Things only dip on the second side as instrumentals become sparse and less exploratory, and in a few cases sound like standard freestyle instrumentals. While they do rise out of this dip, by the hour mark you’d be forgiven for having switched off. It’s a shame, because it’s clear that there is a sense of raw energy and talent here, but it’s also evident that the album has been created in an expensive studio rather than on a cheap tape deck, and that’s despite the clumsy sample at the end of “The Space Program” that continues to jar on me with successive listens. To be clear, it’s fine to use the professional resources available, but showing them off in the final product is not always a good addition. There is certainly some good music to be had here, with the middle portion of the album (the latter half of the first side) containing the best moments of the album. There are some great features too, notably from [Kendrick Lamar](<https://audioxide.com/reviews/kendrick-lamar-untitled-unmastered/>) and Jack White, which add their own zest to their respective tracks. Despite some reservations, this is probably still the parting gift fans were looking for. Take a listen, you’ll probably enjoy it, especially in the background.
+  Things only dip on the second side as instrumentals become sparse and less exploratory, and in a few cases sound like standard freestyle instrumentals. While they do rise out of this dip, by the hour mark you’d be forgiven for having switched off. It’s a shame, because it’s clear that there is a sense of raw energy and talent here, but it’s also evident that the album has been created in an expensive studio rather than on a cheap tape deck, and that’s despite the clumsy sample at the end of “The Space Program” that continues to jar on me with successive listens. To be clear, it’s fine to use the professional resources available, but showing them off in the final product is not always a good addition. There is certainly some good music to be had here, with the middle portion of the album (the latter half of the first side) containing the best moments of the album. There are some great features too, notably from [Kendrick Lamar](<reviews/kendrick-lamar-untitled-unmastered/>) and Jack White, which add their own zest to their respective tracks. Despite some reservations, this is probably still the parting gift fans were looking for. Take a listen, you’ll probably enjoy it, especially in the background.
 tracks:
   - Enough!!
   - ­Dis Generation

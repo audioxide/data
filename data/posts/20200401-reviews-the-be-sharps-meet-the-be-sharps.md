@@ -38,7 +38,7 @@ review: >-
   Ah, the story of Be Sharps. In a word; bittersweet. So much promise, only to
   end in tragedy. In many ways it’s a narrative that reflects the entire musical
   output of Springfield itself. The dreary songwriting of [Kirk Van
-  Houten](<https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/>)
+  Houten](<reviews/kirk-van-houten-can-i-borrow-a-feeling/>)
   became famous for all the wrong reasons, and the less said about Disco Stu’s
   mixtape the better. The Be Sharps, meanwhile, had the whole World at their
   feet. “Baby on Board” propelled the quartet to fame in rapid fashion with its
@@ -75,7 +75,7 @@ review: >-
   There’s a childish, almost brain damage like simplicity to Homer Simpson’s songwriting, and the group gives the material everything. By and large the record is in the business of soaring, but it’s not afraid to scrape the depths when it has to. “Hard Time Barroom Floor Blues”, a tender ode to the working-hard-or-hardly-working class of America, cuts especially deep. With all its highs and lows *Meet the Be Sharps* is an album that wrings you dry. It’s an exhausting listen, but a rewarding one – an odyssey in 12 parts.
 
 
-  Much like Syd Barrett and [Pink Floyd](<https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/>), Clancy Wiggum’s absence looms large over much of the music, though it’s safe to say The Be Sharps weren’t quite so deferential. The vindictiveness shown by the group at times is truly breathtaking, and I think one of the record’s most overlooked qualities. It’s the crucial nasty streak in an otherwise wholesome, cuddly package. No track showcases this better than the “Glad You’re Not Here”. You almost feel bad for Wiggum by the end. Almost. His ill-fated solo collaboration with Brian Eno, *One Day From Retirement*, showed just how much of a grifter the man really was. Never was an album’s release more prophetic.
+  Much like Syd Barrett and [Pink Floyd](<reviews/pink-floyd-the-dark-side-of-the-moon/>), Clancy Wiggum’s absence looms large over much of the music, though it’s safe to say The Be Sharps weren’t quite so deferential. The vindictiveness shown by the group at times is truly breathtaking, and I think one of the record’s most overlooked qualities. It’s the crucial nasty streak in an otherwise wholesome, cuddly package. No track showcases this better than the “Glad You’re Not Here”. You almost feel bad for Wiggum by the end. Almost. His ill-fated solo collaboration with Brian Eno, *One Day From Retirement*, showed just how much of a grifter the man really was. Never was an album’s release more prophetic.
 
 
   Anyway, Meet the Be Sharps is quality barbershop blues, the group’s chemistry undeniable and irresistable. I don’t care how blindsided Wiggum was or how many restraining orders were filed, Barney Gumble was a mercurial talent, the missing piece in the puzzle. And what a puzzle it turned out to be. Between Gumble’s heart, Skinner’s cheek, de Beaumarchais’ all-American charm, and Simpson’s raw sex appeal, superstardom was inevitable.

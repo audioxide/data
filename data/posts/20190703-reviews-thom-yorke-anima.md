@@ -37,7 +37,7 @@ author: André
 review: >-
   *ANIMA* manifests a brand of bleakness that Thom Yorke has begun to master
   since his first solo effort in 2006, [*The
-  Eraser*](<https://audioxide.com/reviews/thom-yorke-the-eraser/>). 2014’s
+  Eraser*](<reviews/thom-yorke-the-eraser/>). 2014’s
   follow-up *Tomorrow’s Modern Boxes* took the dystopian flavour one step
   further, but its instrumentals too often meandered into the grey. In contrast,
   the immediate reaction to *ANIMA* is just how wonderful the record sounds.
@@ -65,7 +65,7 @@ review: >-
   synthesisers, dissonant keyboards, and a whole lot of tender harmonies. You
   land slap bang in the middle of that world and stay there for 50 minutes.
 
-  I do prefer this to Yorke’s debut solo effort [*The Eraser*](<https://audioxide.com/reviews/thom-yorke-the-eraser/>), an album which mostly makes me thankful Radiohead exists to get the best out of him. *ANIMA* has the Yorke’s classic oddball jumpiness, but there’s some really fluid sounds at play too. The production is top notch, and I expect the wanderings are pleasant enough to leave most fans satisfied. Does the album surprise and delight? No, but it does please.
+  I do prefer this to Yorke’s debut solo effort [*The Eraser*](<reviews/thom-yorke-the-eraser/>), an album which mostly makes me thankful Radiohead exists to get the best out of him. *ANIMA* has the Yorke’s classic oddball jumpiness, but there’s some really fluid sounds at play too. The production is top notch, and I expect the wanderings are pleasant enough to leave most fans satisfied. Does the album surprise and delight? No, but it does please.
 
   The standout tracks are by far and away “I Am a Very Rude Person” and “Twist”, which both make a step into genuine groove land. Most of the record stays within familiar limits though. Thom Yorke is under no obligation to explore new sounds, but I’d sure like it if he tried.
 tracks:

@@ -35,9 +35,9 @@ blurb: Solo material from a band as prolific as Radiohead can go one of two
 author: André
 review: >-
   The name Ed O’Brien may not be known worldwide like [Thom
-  Yorke](<https://audioxide.com/reviews/thom-yorke-anima/>), or even Jonny
+  Yorke](<reviews/thom-yorke-anima/>), or even Jonny
   Greenwood, but ask any
-  [Radiohead](<https://audioxide.com/articles/ranking-radioheads-discography/>)
+  [Radiohead](<articles/ranking-radioheads-discography/>)
   fan and they’ll likely gush over his intricate guitar work, crucial percussion
   parts, and of course those cherished vocal harmonies. His debut solo album has
   been in the works for a while now, and under the alias of EOB his music has
@@ -65,15 +65,15 @@ author: Fred
 review: >-
   I remember once that Graham Coxon made a solo album and someone hit the nail
   in the head by saying it sounded like
-  [Blur](<https://audioxide.com/reviews/blur-modern-life-is-rubbish/>)‘s
+  [Blur](<reviews/blur-modern-life-is-rubbish/>)‘s
   guitarist made a solo album. *Earth*, similarly, is an album by a guitarist
   from Radiohead. That’s what it is, that’s what it sounds like.
 
-  There are worse things to be and sound like, of course. We’ve certainly done our fair share of [sycophantic gushing over Radiohead albums](<https://audioxide.com/reviews/radiohead-ok-computer/>) – some among us even convince themselves Thom Yorke’s solo material is really good – but Ed O’Brien’s inaugural solo effort leaves plenty of room to grow.
+  There are worse things to be and sound like, of course. We’ve certainly done our fair share of [sycophantic gushing over Radiohead albums](<reviews/radiohead-ok-computer/>) – some among us even convince themselves Thom Yorke’s solo material is really good – but Ed O’Brien’s inaugural solo effort leaves plenty of room to grow.
 
   The album’s spacier, acoustic stuff is the best stuff. “Deep Day” hits on a firm groove and rides it all the way, while “Mass” and “Sail On” give O’Brien’s guitar work ample room to hum. Why songs like those are sharing space with lo-key club tracks and bleep-bloop glitch rock jams I don’t know, and none of the material is arresting enough to inspire further investigation.
 
-  As was also the case for me with [Thom Yorke’s solo material](<https://audioxide.com/reviews/thom-yorke-the-eraser/>), the most interesting thing about *Earth* is seeing a Radiohead member do something on his own. The band has no passengers (except Colin, Colin’s obviously a passenger) so it’s nice to hear O’Brien’s measured, sophisticated qualities in isolation.
+  As was also the case for me with [Thom Yorke’s solo material](<reviews/thom-yorke-the-eraser/>), the most interesting thing about *Earth* is seeing a Radiohead member do something on his own. The band has no passengers (except Colin, Colin’s obviously a passenger) so it’s nice to hear O’Brien’s measured, sophisticated qualities in isolation.
 tracks:
   - Deep Days
   - ­­Mass
@@ -94,7 +94,7 @@ review: >-
   Continuing to lead affairs, “Shangri-La” opens with a dynamic, catchy instrumental. There are twinges of Radiohead here, but *Earth*‘s clearly its own project. “Deep Days” is a downtempo track with another great instrumental and an enjoyable vocal, while “Olympik” is a standout track on the album – maybe because it’s heavy on the instrumental.
 
 
-  Vocal lines on *Earth* are by no means bad, but where O’Brien excels with guitar lines, lyrics can be hit or miss and vocals, in general, can a listener you by. “Banksters” is the prime example, a fantastic, punchy instrumental with lyrics that provoke smirking where it probably wasn’t intended. Finally, closer “Cloak of the Night” features Laura Marling, but compared to [Marling’s own release this month](<https://audioxide.com/reviews/laura-marling-song-for-our-daughter/>) it’s a pretty yet ineffectual way to close proceedings.
+  Vocal lines on *Earth* are by no means bad, but where O’Brien excels with guitar lines, lyrics can be hit or miss and vocals, in general, can a listener you by. “Banksters” is the prime example, a fantastic, punchy instrumental with lyrics that provoke smirking where it probably wasn’t intended. Finally, closer “Cloak of the Night” features Laura Marling, but compared to [Marling’s own release this month](<reviews/laura-marling-song-for-our-daughter/>) it’s a pretty yet ineffectual way to close proceedings.
 
 
   *Earth* is a fine album. Ed O’Brien has brought some interesting ideas to the table and I can see myself returning for a handful of individual tracks. Unfortunately, solo material from a band as prolific as Radiohead can go one of two ways, and for EOB it contributes towards the impression that the band is greater than the sum of its parts.

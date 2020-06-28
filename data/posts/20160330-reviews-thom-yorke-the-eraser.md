@@ -55,7 +55,7 @@ review: It’s difficult to explain the enjoyment to be acquired from *The
   sits between the two album sides, it would be one of the finest albums of its
   kind. As it is, *The Eraser* is a wonderful listen that comes with some
   baggage. It’s not on the level of *[OK
-  Computer](<https://audioxide.com/reviews/radiohead-ok-computer/>)*, *In
+  Computer](<reviews/radiohead-ok-computer/>)*, *In
   Rainbows,* or *Kid A — *in fact, it doesn’t even attempt to stand on the same
   pedestal — but remains a significant entry in the Radiohead timeline. If
   you’re able to handle its intensity, it’s actually a very beautiful record.

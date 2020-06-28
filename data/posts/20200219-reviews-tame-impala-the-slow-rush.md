@@ -68,7 +68,7 @@ review: >-
   pretty audacious levels of suaveness. Flutes are always a risky choice so
   credit where credit’s due when it works.
 
-  Sadly that’s as good as the album gets for me. The scenery is pleasant, but once you’ve gotten over the excitement of embarking everything feels like it’s on cruise control. *The Slow Rush* has a lot in common with Justice’s album [*Woman*](<https://audioxide.com/reviews/justice-woman/>) in that sense, though I think this has less staying power. The last 40 minutes or so merge into one big agreeable blur. It’s surreal how quickly the album blunts. There’s plenty for the audiophiles to enjoy, and the funkiness holds steady enough for the album to hold up as mood music, but beyond that there’s not much to hold on to. Not since Muse’s [*Drones *](<https://audioxide.com/reviews/muse-drones/>)have we heard such a concentrated dose of brilliance surrounded by such benign material.
+  Sadly that’s as good as the album gets for me. The scenery is pleasant, but once you’ve gotten over the excitement of embarking everything feels like it’s on cruise control. *The Slow Rush* has a lot in common with Justice’s album [*Woman*](<reviews/justice-woman/>) in that sense, though I think this has less staying power. The last 40 minutes or so merge into one big agreeable blur. It’s surreal how quickly the album blunts. There’s plenty for the audiophiles to enjoy, and the funkiness holds steady enough for the album to hold up as mood music, but beyond that there’s not much to hold on to. Not since Muse’s [*Drones *](<reviews/muse-drones/>)have we heard such a concentrated dose of brilliance surrounded by such benign material.
 tracks:
   - Instant Destiny
   - ­­Borderline
@@ -83,7 +83,7 @@ review: >-
   familiar with Tame Impala’s previous two albums. Kevin Parker’s latest has all
   the hallmarks of what came before, and it pushes harder on his more avant
   garde sensibilities whilst riding a [Daft
-  Punk](<https://audioxide.com/reviews/daft-punk-discovery/>)\-esque,
+  Punk](<reviews/daft-punk-discovery/>)\-esque,
   funk-oriented focus on melodic bass.
 
 

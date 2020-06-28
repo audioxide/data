@@ -39,7 +39,7 @@ review: '<div class="_d97"><p>Whilst it doesn’t necessarily reach the heights 
   strike a fine balance between progression and familiarity. When Mogwai go
   massive, they erupt like a violent volcano that threatens imminent destruction
   — a trait that was at the forefront of 2015’s <a
-  href="https://audioxide.com/reviews/atomic/" target="_blank"
+  href="reviews/atomic/" target="_blank"
   rel="noopener"><em>Atomic</em></a>, and a loose attribute that actually
   stretches back to the band’s earliest works. Significantly, they are just as
   masterful aiming for the other end of the dynamic spectrum, and it’s these
@@ -82,7 +82,7 @@ review: Like a fair few people, I listened to *Every Country’s Sun* for the
   album; boys with their toys finding solace in a soundscape playpen. The old
   school groove of “Crossing the Road Material” is a standout, as are the
   mystical odes of “1000 Foot Face”. The apocalyptic edge of
-  [*Atomic*](<https://audioxide.com/reviews/atomic/>) thunders down from time to
+  [*Atomic*](<reviews/atomic/>) thunders down from time to
   time as well, especially in “20 Size”. The album’s full of powerful, seductive
   moments, no two quite the same. This makes for pleasant listening, though it
   does sometimes feel symptomatic of a lack of cohesion. *Every Country’s Sun
@@ -116,7 +116,7 @@ review: With a number of very solid soundtracks under their belts, Mogwai has
   after a midsection of calm. The contrast of noisy crunch next to placid beauty
   is what makes *Every Country’s Sun* sound more like an LP than an OST and is
   likely what makes this an easier tracklist for me to enjoy next to their
-  [*Atomic*](<https://audioxide.com/reviews/atomic/>) soundtrack. All said,
+  [*Atomic*](<reviews/atomic/>) soundtrack. All said,
   Mogwai have made a successful return to the studio album format, and with a
   good pace and tracklist that, despite its length, doesn’t outstay its welcome.
   I can certainly see myself returning for more.

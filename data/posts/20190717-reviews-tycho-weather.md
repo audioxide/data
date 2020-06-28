@@ -38,7 +38,7 @@ review: >-
   example of overproduction in contemporary music, but sterility hurts even more
   when it manages to infiltrate artists outside of the inflated pop scene. When
   Vampire Weekend released [*Father of the
-  Bride*](<https://audioxide.com/reviews/vampire-weekend-father-of-the-bride/>)
+  Bride*](<reviews/vampire-weekend-father-of-the-bride/>)
   back in May, I wrote that ‘these songs wouldn’t feel out of place in an advert
   for Google, such is the clinical nature of their formation’, and I could apply
   this exact sentiment to *Weather* too. It is recorded, mixed and produced
@@ -65,9 +65,9 @@ review: >-
   too, because I wouldn’t call anything on the album ‘bad’. It just isn’t all
   that good either.
 
-  There are the makings of a good album here, maybe even a really good album. The production is clean and the arrangements aren’t a million miles away being [Air](<https://audioxide.com/reviews/air-moon-safari/>)\-like. I really like the opener, “Easy”. It has drive and fuzz and all that good stuff. But it fades fast after that. A pleasant aura only counts for so much when the tracks drift as much as they do on *Weather*. Warm, cuddly production is all well and good, but not when it rounds the corners of something lacking edge to begin with.
+  There are the makings of a good album here, maybe even a really good album. The production is clean and the arrangements aren’t a million miles away being [Air](<reviews/air-moon-safari/>)\-like. I really like the opener, “Easy”. It has drive and fuzz and all that good stuff. But it fades fast after that. A pleasant aura only counts for so much when the tracks drift as much as they do on *Weather*. Warm, cuddly production is all well and good, but not when it rounds the corners of something lacking edge to begin with.
 
-  I can’t say I’m crazy about the vocals either. Thin, wispy vocals only reenforce the sense that nothing’s really happening. To be utterly unfair to Tycho — listen to David Bowie’s [*Low*](<https://audioxide.com/reviews/david-bowie-low/>). Side B of that record is as fuzzy as fuzzy comes, but Bowie’s vocals are anything but. They’re a superb counterbalance. Does *Weather* need to do the same to succeed? Of course not. But it does all sound a bit safe, and I look for more than things than a bit safe.
+  I can’t say I’m crazy about the vocals either. Thin, wispy vocals only reenforce the sense that nothing’s really happening. To be utterly unfair to Tycho — listen to David Bowie’s [*Low*](<reviews/david-bowie-low/>). Side B of that record is as fuzzy as fuzzy comes, but Bowie’s vocals are anything but. They’re a superb counterbalance. Does *Weather* need to do the same to succeed? Of course not. But it does all sound a bit safe, and I look for more than things than a bit safe.
 tracks:
   - Easy
   - ­­Into the Woods

@@ -63,8 +63,8 @@ review: "The sensation I get when listening to *How Did We Get So Dark? *is
   similar to that of watching a Marvel film: entertained, but not terribly
   invested. The sound is solid, the choruses are catchy, the riffs hook, and so
   on. It’s all there. Elements of strong rock — in the vein of
-  [Muse](<https://audioxide.com/reviews/muse-origin-of-symmetry/>) and [Queens
-  of the Stone Age](<https://audioxide.com/reviews/like-clockwork/>) — litter
+  [Muse](<reviews/muse-origin-of-symmetry/>) and [Queens
+  of the Stone Age](<reviews/like-clockwork/>) — litter
   the album, but they rarely have their own weight. The character is far more
   impressive than the substance. The general tone of the record never shifts,
   and as agreeable as that tone is I often find myself asking why it isn’t more.

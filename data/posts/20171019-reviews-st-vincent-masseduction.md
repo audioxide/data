@@ -44,7 +44,7 @@ review: '<div class="_d97"><p>St Vincent’s fifth studio album
   record after all. There’s just this niggling feeling that
   <em>Masseduction</em> could have been so much more. It feels hollow in spite
   of some somber and despairing themes, and that’s not something you can say
-  about <a href="https://audioxide.com/reviews/st-vincent-st-vincent/"
+  about <a href="reviews/st-vincent-st-vincent/"
   target="_blank" rel="noopener">any St Vincent album prior to
   this</a>.</p><p>Still, there are some sweet spots on <em>Masseduction</em>.
   The aforementioned “Pills” is a clear highlight: the nursery-rhyme nature of
@@ -104,7 +104,7 @@ review: >-
   Clark has ditched her long-time producer, John Congleton, to co-produce
   *Masseduction* alongside fun.’s Jack Antonoff, who has recently produced for
   Taylor Swift and
-  [Lorde](<https://audioxide.com/listeningparties/lorde-melodrama/>). And,
+  [Lorde](<listeningparties/lorde-melodrama/>). And,
   superficially, it seems that Clark had to compromise nothing of her
   characteristic sound while doing this, as this is just as gnarled, vivid, and
   idiosyncratic as any of her other records. There is more of an inclination

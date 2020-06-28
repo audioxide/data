@@ -37,7 +37,7 @@ blurb: The world Björk has designed is an irrefutable wonder – I’m just not
 author: ANDRE
 review: >-
   Following [our retrospective review of the sublime
-  *Homogenic*](<https://audioxide.com/reviews/bjork-homogenic/>), I dived
+  *Homogenic*](<reviews/bjork-homogenic/>), I dived
   straight into the rest of Björk’s catalogue. Unsurprisingly, I was hooked:
   2017 quickly turned into my year of Björk, as *Post* and *Homogenic*
   practically became daily listens, and my adoration grew at a rapid rate.
@@ -87,7 +87,7 @@ review: >-
   *Utopia* has taken another without much impact. Albums of this length begin to
   make me question whether the artist was simply indecisive about what should
   have made the cut, [even for artists I’d normally defend to the
-  hilt](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>). At
+  hilt](<reviews/james-blake-the-colour-in-anything/>). At
   71 minutes, Björk has released a mass of content that can sometimes be hard to
   approach. It’s no wonder then that I’ve often found myself starting around
   twenty minutes in at “Body Memory”, a track that sounds as though it was

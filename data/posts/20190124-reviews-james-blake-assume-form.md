@@ -44,7 +44,7 @@ review: >-
   many elements with very little to hold on to. It’s not until “Tell Them”,
   featuring Moses Sumney, that the album truly starts to unveil itself.
 
-  The guest features on the whole are superb. Andre 3000 is at his very best on the excellent “Where’s the Catch?”, whilst Rosalia injects some serious Latin passion on “Barefoot in the Park”. It’s on these guest tracks where Blake’s production seriously shines, as he makes a stake for being one of the finest sonic architects of his kind. What’s most appealing about *Assume Form*, however, is its change in lyrical tone. Blake’s words are far more direct than ever before, and it suits the more focused nature of his songwriting, particularly in the album’s second half. Blake has always been excellent at setting a mood, but for the first time in his career he actually exudes genuine emotive qualities. Whereas [*The Colour in Anything*](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>) felt like a sombre journal — sometimes overbearingly so — *Assume Form* is an occasionally beautiful statement of love.
+  The guest features on the whole are superb. Andre 3000 is at his very best on the excellent “Where’s the Catch?”, whilst Rosalia injects some serious Latin passion on “Barefoot in the Park”. It’s on these guest tracks where Blake’s production seriously shines, as he makes a stake for being one of the finest sonic architects of his kind. What’s most appealing about *Assume Form*, however, is its change in lyrical tone. Blake’s words are far more direct than ever before, and it suits the more focused nature of his songwriting, particularly in the album’s second half. Blake has always been excellent at setting a mood, but for the first time in his career he actually exudes genuine emotive qualities. Whereas [*The Colour in Anything*](<reviews/james-blake-the-colour-in-anything/>) felt like a sombre journal — sometimes overbearingly so — *Assume Form* is an occasionally beautiful statement of love.
 
   Blake admitted to *Dazed* that since being in a relationship, he ‘wasn’t being encouraged to sit behind metaphor or sit behind long silences or be in a mood without explaining what it’s about.’ It’s interesting to read that even he acknowledges his previous limitations, and encouraging to see that his sweetheart Jameela Jamil has helped him develop his musical capabilities further. *Assume Form* isn’t his best record so far, but it is his most sincere. Less moods, more songs. I’ll take it.
 tracks:
@@ -60,14 +60,14 @@ author: Fred
 review: >-
   The thinking (wo)man’s Sam Smith is back. His fringe is gone, so you know he
   means business. *Assume Form *is true to its name. [Previous James Blake
-  albums](<https://audioxide.com/reviews/james-blake-overgrown/>) had created
+  albums](<reviews/james-blake-overgrown/>) had created
   expectations of slow, aimless tracks with sparkly ambient shimmers, and the
   opening efforts of *Assume Form *do little to dispel that particular
   prejudice. But as the album progresses — and eventually flourishes — I have to
   admit this is Blake’s most ambitious effort to date. It’s not far off being
   wonderful.
 
-  The album’s not 75 minutes long, which is already an improvement on the beached whale that was [*The Colour in Anything*](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>). The discipline required to cut down to a 48 minute run time extends to the songs themselves, which for the most part are focused and distinct. “Into the Red” feels self-contained and confident, while “Where’s the Catch” is already a safe bet for one of my favourite songs of the year. Its blend of spacious, Blake-like production with insistent and soulful beats is catchy as hell. “I’ll Come Too” is a legitimately gorgeous love song, swelling past heights Blake hadn’t dared to approach before. The closing stretch of the album is a pleasure to listen to.
+  The album’s not 75 minutes long, which is already an improvement on the beached whale that was [*The Colour in Anything*](<reviews/james-blake-the-colour-in-anything/>). The discipline required to cut down to a 48 minute run time extends to the songs themselves, which for the most part are focused and distinct. “Into the Red” feels self-contained and confident, while “Where’s the Catch” is already a safe bet for one of my favourite songs of the year. Its blend of spacious, Blake-like production with insistent and soulful beats is catchy as hell. “I’ll Come Too” is a legitimately gorgeous love song, swelling past heights Blake hadn’t dared to approach before. The closing stretch of the album is a pleasure to listen to.
 
   My qualms with James Blake remain, but I’m now quietly excited for his future work. His ear for production has always been top notch, but his obtuse songwriting prior to this release left much to be desired. *Assume Form *feels like a crystallization of the James Blake gloop, and I welcome it. The album is not a triumph, but it is bold in ways I wasn’t expecting from Blake. I’m delighted for him. And myself.
 tracks:
@@ -82,7 +82,7 @@ score:
 author: Andrew
 review: >-
   At the release of James Blake’s last LP, [*The Colour In
-  Anything*](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>),
+  Anything*](<reviews/james-blake-the-colour-in-anything/>),
   I was conflicted. While I found a lot to enjoy, the album as a whole sprawled
   out, unfocused and more unsure of itself as it progressed. *Assume Form* seems
   to be somewhat of an antidote. At 48 minutes the tracklist feels more concise,

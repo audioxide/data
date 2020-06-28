@@ -43,16 +43,16 @@ review: >-
   on alternative radio, before eventually falling to the emergence of Britpop
   and consequently fragmenting into infinite subgenres. Today, it stands as a
   worthy memorial for no-nonsense rock music, and when you consider [the
-  staggering amount](<https://audioxide.com/reviews/nas-illmatic/>) [of
-  great,](<https://audioxide.com/reviews/dummy/>)[genre-defining
-  works](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>)[that
-  were birthed in 1994](<https://audioxide.com/reviews/the-blue-album/>),
+  staggering amount](<reviews/nas-illmatic/>) [of
+  great,](<reviews/dummy/>)[genre-defining
+  works](<reviews/nine-inch-nails-the-downward-spiral/>)[that
+  were birthed in 1994](<reviews/the-blue-album/>),
   *Superunknown*’s enduring legacy only seems more extraordinary. It’s not the
   best record of its kind, but it is one of the finest examples of a band
   capitalising on the growth of a genre, and embracing a newly found mainstream
   audience.
 
-  *Superunknown* is a sprawling record, spanning grunge, alternative metal, stoner rock, and psychedelia; streamlined under a pop supervision that makes it one of the most accessible and infectious rock albums of the decade. It’s the type of album that the genre has been craving for quite some time, with only [a few bands](<https://audioxide.com/reviews/like-clockwork/>) prepared to offer the type of aggressive, confidently cerebral sound that Soundgarden achieve on their breakthrough album. From its opening moments, *Superunknown* rocks out shamelessly: an exhibition of glorious riffs, dynamic drumming, and powerful vocals courtesy of Chris Cornell, who is naturally integral to proceedings. The grunge scene was blessed with great songwriters, but as a vocalist, Cornell stands out as one of the very best. His vocal hooks are instantly engaging, and his strenuous shrieks bring a sense of climax to any song. He doesn’t carry *Superunknown* as much as he manages it. It’s by no means a perfect record, and it could certainly do with some fine-tuning, but I get such a rush from the overall experience to really care about its imperfections. Frankly, it’s a fucking blast.
+  *Superunknown* is a sprawling record, spanning grunge, alternative metal, stoner rock, and psychedelia; streamlined under a pop supervision that makes it one of the most accessible and infectious rock albums of the decade. It’s the type of album that the genre has been craving for quite some time, with only [a few bands](<reviews/like-clockwork/>) prepared to offer the type of aggressive, confidently cerebral sound that Soundgarden achieve on their breakthrough album. From its opening moments, *Superunknown* rocks out shamelessly: an exhibition of glorious riffs, dynamic drumming, and powerful vocals courtesy of Chris Cornell, who is naturally integral to proceedings. The grunge scene was blessed with great songwriters, but as a vocalist, Cornell stands out as one of the very best. His vocal hooks are instantly engaging, and his strenuous shrieks bring a sense of climax to any song. He doesn’t carry *Superunknown* as much as he manages it. It’s by no means a perfect record, and it could certainly do with some fine-tuning, but I get such a rush from the overall experience to really care about its imperfections. Frankly, it’s a fucking blast.
 tracks:
   - Black Hole Sun
   - ­The Day I Tried to Live
@@ -100,7 +100,7 @@ score:
 author: ANDREW
 review: "It’s unsurprising that *Superunknown* received such critical acclaim on
   its release. At a time where [*In
-  Utero*](<https://audioxide.com/reviews/nirvana-in-utero/>) was still rocking
+  Utero*](<reviews/nirvana-in-utero/>) was still rocking
   the world, Britpop was taking hold, and Nine Inch Nails were spreading
   industrial darkness, Soundgarden’s fourth release was well positioned for
   success. “Black Hole Sun” is a stand out track for a reason. Staying above the

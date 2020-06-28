@@ -41,7 +41,7 @@ review: >-
   songwriting is unbelievably good, to the point where it sounds effortless.
   Bowie, fresh from having his first child, shows sensitivity, humour, and even
   a little arrogance. In many ways, it was the sign of things to come. Whereas I
-  see [*Low*](<https://audioxide.com/reviews/david-bowie-low/>) as Bowie’s
+  see [*Low*](<reviews/david-bowie-low/>) as Bowie’s
   masterstroke — his timeless treasure — I rank *Hunky Dory* as his best pop
   album, and the greatest example of his graceful pop sensibilities.
 
@@ -60,7 +60,7 @@ review: >-
   Halfway through *Hunky Dory*, in “Quicksand”, David Bowie says he is ‘just a
   model with potential of a superman.’ That line captures the essence of the
   album for me. It is dazzling listen, but not mighty in the way [Bowie’s
-  greatest works](<https://audioxide.com/reviews/david-bowie-low/>) proved to
+  greatest works](<reviews/david-bowie-low/>) proved to
   be.
 
   *Hunky Dory *has its fair share of magnificent songs. “Life On Mars?” soars and the stop-start swagger of “Changes” remains irresistible. The album has an ear for poppy hooks that gives form and focus to sounds that could have unravelled in lesser hands. Piano, horns, and strings jangle along like some kind of penny theatre musical. I can’t think of a kookier Bowie album than *Hunky Dory *— but then that’s what makes listening to it such a joy. It makes you feel like a playmate in its own little madhouse.

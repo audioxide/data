@@ -42,7 +42,7 @@ review: >-
   artists should aspire to reach: harmonically lush, deliberately structured,
   and wonderfully diverse. Better still, it carries a crucial message that
   promotes freedom and liberation. Think of it as pop’s version of [*To Pimp a
-  Butterfly*](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>),
+  Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>),
   but not quite as brilliant. As enjoyable as *Dirty Computer* is, it’s far from
   perfect, and some of the trap-tinged beats will likely sound redundant in a
   few years. The flaws are minute in comparison to the extreme and euphoric
@@ -51,7 +51,7 @@ review: >-
 
   *Dirty’s Computer*’s opening half hour is simply fabulous. “Crazy, Classic, Life” glows with infectious positivity, setting a heartening tone that the album largely retains throughout. “Screwed” is as joyous as it is brash, and sports one of the catchiest hooks of the year. “Make Me Feel” is possibly the best of the bunch, essentially Monáe’s homage to Prince’s “Kiss”. This song, along with many others, plays with sexuality and passion in an encouraging, progressive manner, and while it’s not always eloquently spoken on Monáe’s behalf, it’s wonderfully pleasing to experience such exultance. “I Got the Juice” is a slight misstep, perhaps the first time on the album that Monáe favours style over substance. Fortunately, this is a rarity.
 
-  “Don’t Judge Me” stands as one of *Dirty Computer*’s most unique tracks: a romantic, dreamy slow-jam trickled with dazzling samples and gorgeous strings. A ’90s R&B throwback on the surface, but one that delves into both blues and jazz. These sorts of fusions are heard throughout the record, and the sheer variety that *Dirty Computer* offers is something that not only rivals, but also surpasses Beyoncé’s *Lemonade*. I’m not sure it’s quite as accomplished as Lorde’s [*Melodrama*](<https://audioxide.com/listeningparties/lorde-melodrama/>), but it’s certainly just as fun. Monáe’s message is one to recognise and to act accordingly. Though there are some clumsy lyrical mishaps, it doesn’t lessen the impact of *Dirty Computer*’s principals. This will likely go down as one of 2018’s finest artistic achievements. Pop has rarely sounded so stylish, nor has it sounded so diverse.
+  “Don’t Judge Me” stands as one of *Dirty Computer*’s most unique tracks: a romantic, dreamy slow-jam trickled with dazzling samples and gorgeous strings. A ’90s R&B throwback on the surface, but one that delves into both blues and jazz. These sorts of fusions are heard throughout the record, and the sheer variety that *Dirty Computer* offers is something that not only rivals, but also surpasses Beyoncé’s *Lemonade*. I’m not sure it’s quite as accomplished as Lorde’s [*Melodrama*](<listeningparties/lorde-melodrama/>), but it’s certainly just as fun. Monáe’s message is one to recognise and to act accordingly. Though there are some clumsy lyrical mishaps, it doesn’t lessen the impact of *Dirty Computer*’s principals. This will likely go down as one of 2018’s finest artistic achievements. Pop has rarely sounded so stylish, nor has it sounded so diverse.
 tracks:
   - Make Me Feel
   - ­­Don’t Judge Me

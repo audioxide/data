@@ -38,7 +38,7 @@ review: >-
   clear that this is not exactly a hip-hop album. Tyler’s rasping vocals are
   replaced by tenderly sung hooks and alluring soul samples. This is something
   2017’s [*Flower
-  Boy*](<https://audioxide.com/reviews/tyler-the-creator-flower-boy/>) touched
+  Boy*](<reviews/tyler-the-creator-flower-boy/>) touched
   upon, and advancing this formula seems like a natural development. Tyler
   deliberately plays against his strengths and manages to push himself to make a
   good non-rap album. That in itself is pretty fucking fascinating.
@@ -58,7 +58,7 @@ score:
 author: Fred
 review: >-
   What I most remember about Tyler, the Creator’s last album, [*Flower
-  Boy*](<https://audioxide.com/reviews/tyler-the-creator-flower-boy/>), is how
+  Boy*](<reviews/tyler-the-creator-flower-boy/>), is how
   much I liked it. That’s as specific as it gets. If you asked now I wouldn’t be
   able to tell you my favourite tracks, or what I think the standout moments
   were. It sits in my memory as a good thing. I expect *IGOR* will leave a more
@@ -67,7 +67,7 @@ review: >-
 
   This looks and feels like a Frankenstein album. A fair few unrelated limbs have been sewn together and untold amounts of electricity have been pumped through them to create a semblance of life. When you step back and take it all in it is undoubtedly a bit strange, but also strangely beautiful. I suppose if you had to summarise Tyler, the Creator at his best ‘strangely beautiful’ wouldn’t be too far off the mark. Hip hop, soul, synthesisers, and mumbling are the main elements at play on *IGOR*, and more often than not they work together (strangely) beautifully.
 
-  Again, none of the tracks particularly grab me on their own, but together they cast a bit of a spell. Each listen gives you something new to focus on, be it gospel harmonies or bleep blooping arrangements that would sound at home on a video game. Along with the likes of [Frank Ocean](<https://audioxide.com/reviews/frank-ocean-blond/>), I think Tyler, the Creator is pushing hip hop into lush, uncharted territory. And the best thing is it feels like everything he does he does for himself. It’s a real treat to tag along.
+  Again, none of the tracks particularly grab me on their own, but together they cast a bit of a spell. Each listen gives you something new to focus on, be it gospel harmonies or bleep blooping arrangements that would sound at home on a video game. Along with the likes of [Frank Ocean](<reviews/frank-ocean-blond/>), I think Tyler, the Creator is pushing hip hop into lush, uncharted territory. And the best thing is it feels like everything he does he does for himself. It’s a real treat to tag along.
 tracks:
   - ARE WE STILL FRIENDS
   - ­­I THINK
@@ -85,7 +85,7 @@ review: >-
   stage before, genuinely well produced, well-written tracks have replaced them
   in the latter end. But *IGOR* has still been something of a grower for me.
 
-  Where previous album, [*Flower Boy*](<https://audioxide.com/reviews/tyler-the-creator-flower-boy/>), had clear highlights for me, it’s been far harder to spot them in IGOR. That may be due, in part, to a slightly tighter cohesion across the tracklist here. Each track laced with slower tempoed, soul-inspired tracks, with hallmark Tyler synths, vocals and snark, there are only a few moments which stand out stylistically. “NEW MAGIC WAND” is driven with a rough synth line and a more forceful vocal.
+  Where previous album, [*Flower Boy*](<reviews/tyler-the-creator-flower-boy/>), had clear highlights for me, it’s been far harder to spot them in IGOR. That may be due, in part, to a slightly tighter cohesion across the tracklist here. Each track laced with slower tempoed, soul-inspired tracks, with hallmark Tyler synths, vocals and snark, there are only a few moments which stand out stylistically. “NEW MAGIC WAND” is driven with a rough synth line and a more forceful vocal.
 
   That cohesion is also a double-edged sword though and likely why it’d be easy to pass this album as a step below *Flower Boy*. With a common style to each track, it can be easy for tracks to meld together. However, there are definite standout moments here, be it the beat and hook on “EARFQUAKE” or the mix and match of early, spoken word angst and weighty yet unassuming chorus in “PUPPET”, I’ve found a lot of love for the album throughout. Even its closer, “ARE WE STILL FRIENDS?”, comes with a dazzling chorus and a smokey, sleepy atmosphere to conclude the album.
 

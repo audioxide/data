@@ -76,4 +76,4 @@ Waltz shrugged.
 Another snort turned all their heads and their eyes fell on a woman careering out from behind a bookshelf. She was wiping something from under her nose.
 ‘Hello,’ she said. ‘My name’s Laina Gould. I was taking my medication in the aisle there and couldn’t help overhearing you need a manager.’
 
-<center><strong></strong><p><strong>← <a href="https://audioxide.com/funnyfarm/ii/">Previous</a> // <a href="https://audioxide.com/funnyfarm/iv/">Next</a> →</strong></p></center>
+<center><strong></strong><p><strong>← <a href="funnyfarm/ii/">Previous</a> // <a href="funnyfarm/iv/">Next</a> →</strong></p></center>

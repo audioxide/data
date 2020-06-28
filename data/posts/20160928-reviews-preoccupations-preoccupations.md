@@ -44,7 +44,7 @@ review: '<div class="_d97"><p>Fresh from releasing one of the finest rock
   and passionate. Combined with the band’s rhythmic mauling, Matt Flegal’s
   harrowing snarls can feel fairly unsettling, capturing an intriguing space
   that evokes both Ian Curtis and <a
-  href="https://audioxide.com/reviews/swans-the-glowing-man/" target="_blank"
+  href="reviews/swans-the-glowing-man/" target="_blank"
   rel="noopener noreferrer">Michael Gira</a>. The music is animated and dynamic
   enough to carry Fegel’s uneasy vocals into the light, but the blend isn’t
   always a unanimous success. There are moments where Preoccupations dare to

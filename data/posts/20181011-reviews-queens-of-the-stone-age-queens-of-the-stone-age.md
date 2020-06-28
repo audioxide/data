@@ -48,7 +48,7 @@ review: >-
   in the vein of metal pioneers Black Sabbath. When *Queens of the Stone Age* is
   good, it’s truly rocking.
 
-  Compared to recent QOTSA releases, their debut is notably raw and far more natural. Josh Homme was still finding his voice, and his lack of confidence is only more obvious due to the subdued mixing of the vocals across the album. Whilst he’s always been a superb guitarist, it clearly took him some time to feel comfortable with his vocal performances, and we’ve seen an influx of slower, steadier ballads in recent albums as a result. However, despite the songwriting on [*Villains*](<https://audioxide.com/reviews/queens-of-the-stone-age-villains/>) being a tad stronger, it definitely doesn’t have the same energy as this (Mark Ronson tends to have that effect). As far as I’m concerned, QOTSA were at their best when Nick Oliveri entered the fray, adding the extra notch of vitality that was required to propel them as one of the World’s greatest rock bands. Celebrating its 20th anniversary this month, QOTSA’s debut album serves as an insightful glimpse into their career as princesses, before being made queens. I’ve always got time for good ol’ sleazy rock’n’roll.
+  Compared to recent QOTSA releases, their debut is notably raw and far more natural. Josh Homme was still finding his voice, and his lack of confidence is only more obvious due to the subdued mixing of the vocals across the album. Whilst he’s always been a superb guitarist, it clearly took him some time to feel comfortable with his vocal performances, and we’ve seen an influx of slower, steadier ballads in recent albums as a result. However, despite the songwriting on [*Villains*](<reviews/queens-of-the-stone-age-villains/>) being a tad stronger, it definitely doesn’t have the same energy as this (Mark Ronson tends to have that effect). As far as I’m concerned, QOTSA were at their best when Nick Oliveri entered the fray, adding the extra notch of vitality that was required to propel them as one of the World’s greatest rock bands. Celebrating its 20th anniversary this month, QOTSA’s debut album serves as an insightful glimpse into their career as princesses, before being made queens. I’ve always got time for good ol’ sleazy rock’n’roll.
 tracks:
   - Mexicola
   - ­­If Only
@@ -94,7 +94,7 @@ review: >-
 
   Every track is vibrant, punchy, and satisfyingly atypical, but the restraint feels almost tragically evident. Homme’s vocals are mixed quietly for the most part, and he doesn’t sing with the authority he would come to show off in “Feel Good Hit of the Summer”. Its absence as a driving force occasionally robs tracks of the identity they need to hit the spot.
 
-  I love Queens of the Stone Age, and in a lot of ways I love this album. But stood in a row with its successors — even the self-fulfilling disappointment of [*Villains*](<https://audioxide.com/reviews/queens-of-the-stone-age-villains/>) — I can’t help but see it as inferior for the lack of arrogant boundary warping, or the self-assured, unrepentant coolness with which every other album has been delivered.
+  I love Queens of the Stone Age, and in a lot of ways I love this album. But stood in a row with its successors — even the self-fulfilling disappointment of [*Villains*](<reviews/queens-of-the-stone-age-villains/>) — I can’t help but see it as inferior for the lack of arrogant boundary warping, or the self-assured, unrepentant coolness with which every other album has been delivered.
 tracks:
   - If Only
   - ­­Regular John

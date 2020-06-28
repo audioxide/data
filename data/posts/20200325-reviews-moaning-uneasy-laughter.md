@@ -61,7 +61,7 @@ review: >-
   west coast breed of gothy synth pop, moody in a painstakingly dyed and
   straightened fringe kind of way.
 
-  Sean Solomon, Moaning’s guitarist/singer, says [he wants listeners to feel less alone](<https://aestheticmagazinetoronto.com/2020/03/05/sxsw-2020-preview-interview-moaning-talks-uneasy-laughter-sobriety-diy-music/>). Finally, music that lets you know you’re not alone. [Why](<https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/>) [didn’t](<https://audioxide.com/reviews/radiohead-ok-computer/>)[someone](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>)[think](<https://audioxide.com/reviews/neil-young-on-the-beach/>)[of](<https://audioxide.com/reviews/solange-a-seat-at-the-table/>)[that](<https://audioxide.com/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/>)[sooner](<https://en.wikipedia.org/wiki/Blues>)? The vibe is solid, to be fair. Moaning’s arrangements are tight and focused, with the synths in particular flourishing in better moments. The way they ripple out on “Stranger” and “Connect the Dots” is especially lovely. Andrew MacKelvie’s fidgety drumming bounces off the loftier sounds nicely, and bassist/keyboardist Pascal Stevenson does an admirable job juggling his responsibilities. Together they weave a decent PG-13 [Joy Division](<https://audioxide.com/reviews/joy-division-unknown-pleasures/>) sound.
+  Sean Solomon, Moaning’s guitarist/singer, says [he wants listeners to feel less alone](<https://aestheticmagazinetoronto.com/2020/03/05/sxsw-2020-preview-interview-moaning-talks-uneasy-laughter-sobriety-diy-music/>). Finally, music that lets you know you’re not alone. [Why](<reviews/nine-inch-nails-the-downward-spiral/>) [didn’t](<reviews/radiohead-ok-computer/>)[someone](<reviews/kendrick-lamar-to-pimp-a-butterfly/>)[think](<reviews/neil-young-on-the-beach/>)[of](<reviews/solange-a-seat-at-the-table/>)[that](<reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/>)[sooner](<https://en.wikipedia.org/wiki/Blues>)? The vibe is solid, to be fair. Moaning’s arrangements are tight and focused, with the synths in particular flourishing in better moments. The way they ripple out on “Stranger” and “Connect the Dots” is especially lovely. Andrew MacKelvie’s fidgety drumming bounces off the loftier sounds nicely, and bassist/keyboardist Pascal Stevenson does an admirable job juggling his responsibilities. Together they weave a decent PG-13 [Joy Division](<reviews/joy-division-unknown-pleasures/>) sound.
 
   There’s no escaping that California throwaway spirit. The ‘LA DIY scene’ might sound rough and ready by the standards of LA coffee shops, but everywhere else this is the kind of stuff we got out of our system ten years ago. It all winds up feeling a bit clean cut, a bit airbrushed. The album’s a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
 tracks:
@@ -76,7 +76,7 @@ score:
 author: Marcus
 review: >-
   *Uneasy Laughter* suffers from a strangely persistent blend of [Joy
-  Division](<https://audioxide.com/reviews/joy-division-unknown-pleasures/>) and
+  Division](<reviews/joy-division-unknown-pleasures/>) and
   Two Door Cinema Club that blunts the edges of the former with the throwaway
   pop rock of the latter. Track by track, very little is being said or
   experimented with, and concentrating on each forgettable song makes for a

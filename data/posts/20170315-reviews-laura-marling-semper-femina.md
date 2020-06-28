@@ -111,7 +111,7 @@ review: Laura Marling’s return is certainly welcome. As an avid listener of he
   familiarity here, as “Don’t Pass Me By” does things not dissimilar to Lou
   Reed’s “Perfect Day” while the drum beat undoubtedly reminds me of the
   mechanical beats of a
-  [Gorillaz](<https://audioxide.com/reviews/gorillaz-demon-days/>) track. “The
+  [Gorillaz](<reviews/gorillaz-demon-days/>) track. “The
   Valley” and “Next Time” both have hallmarks of Joni Mitchell or Goldfrapp’s
   acoustic material too. Despite it all, everything on *Semper Femina* feels
   fresh and remains that way; Marling makes each track her own, everything

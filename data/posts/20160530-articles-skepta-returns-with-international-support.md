@@ -13,7 +13,7 @@ author: andrew
 #### 30\.05.02016
 ------
 
-![Album cover for Skepta - Konnichiwa](<http://audioxide.com/wp-content/uploads/2016/05/skepta-konnichiwa-500x500.jpg> =500x500)
+![Album cover for Skepta - Konnichiwa](<2016/05/skepta-konnichiwa-500x500.jpg> =500x500)
 ------
 Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export. His latest release goes a little further to prove this with featured appearances from British and American rappers including Pharrell Williams.
 Existing fans should find a lot to like on *Konnichiwa*, with some impressive lines on tracks including “Lyrics” and “Crime Riddim”, and a healthy portion of bass led instrumentals that have a familiar grime feel. Those listening more closely however, will hear some slightly more awkward rhymes across the album, with a notable reduction in British slang compared to other grime releases. Collaborations with US rappers also have a noticeable change in instrumental style with “Ladies Hit Squad” and “Numbers” both sounding distinctly different to other tracks.

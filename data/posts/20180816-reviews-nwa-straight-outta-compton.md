@@ -47,13 +47,13 @@ review: >-
   an hour long. I find myself longing for the conclusion of *Straight Outta
   Compton*, which is a damn shame given the quality of the album’s opening four
   or five tracks. In comparison to the likes of
-  [*Illmatic*](<https://audioxide.com/reviews/nas-illmatic/>), *[To Pimp a
-  Butterfly](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>),*
+  [*Illmatic*](<reviews/nas-illmatic/>), *[To Pimp a
+  Butterfly](<reviews/kendrick-lamar-to-pimp-a-butterfly/>),*
   and [*The Marshall Mathers
-  LP*](<https://audioxide.com/reviews/eminem-the-marshall-mathers-lp/>), this is
+  LP*](<reviews/eminem-the-marshall-mathers-lp/>), this is
   where N.W.A’s classic falls short.
 
-  However, perhaps these are unfair comparisons. This is a posse after all, not just a lone MC, and the atmosphere of *Straight Outta Compton* is notably disparate. There is an undercurrent of a party vibe, similar to that of [*Hello Nasty*](<https://audioxide.com/reviews/beastie-boys-hello-nasty/>), and the implications of rebellion only add to that sensation. The chemistry between Ice Cube, Eazy-E, and MC Ren is unparalleled: the way they bounce off each other has been a clear influence on the likes of [*Run the Jewels*](<https://audioxide.com/reviews/run-the-jewels-run-the-jewels-2/>) for example. Whether they’re channelling aggression as an act of social defiance, or simply spitting wacky rhymes about their competitors, the interaction between the group is thoroughly engrossing. Ice Cube feels like the main force, particularly on the sublime trio of tracks that open the album, but it never feels like anyone is letting the side down. It’s always a pleasure to hear Dr. Dre drop in every once and while, particularly on “Express Yourself”, which is wonderfully joyous in its message. While this song in particular is something of a black sheep in its optimism and carefree spirit, it is of course “Fuck Tha Police” that epitomises the real essence of *Straight Outta Compton*: a song inspired by a deadly serious subject matter, yet performed and produced in a way that makes it extraordinarily accessible. The impact of this song, this album, and this impassioned hip-hop assembly, cannot be overstated. Better rap albums have been released since its conception in 1988, but very few have caused quite the same stir.
+  However, perhaps these are unfair comparisons. This is a posse after all, not just a lone MC, and the atmosphere of *Straight Outta Compton* is notably disparate. There is an undercurrent of a party vibe, similar to that of [*Hello Nasty*](<reviews/beastie-boys-hello-nasty/>), and the implications of rebellion only add to that sensation. The chemistry between Ice Cube, Eazy-E, and MC Ren is unparalleled: the way they bounce off each other has been a clear influence on the likes of [*Run the Jewels*](<reviews/run-the-jewels-run-the-jewels-2/>) for example. Whether they’re channelling aggression as an act of social defiance, or simply spitting wacky rhymes about their competitors, the interaction between the group is thoroughly engrossing. Ice Cube feels like the main force, particularly on the sublime trio of tracks that open the album, but it never feels like anyone is letting the side down. It’s always a pleasure to hear Dr. Dre drop in every once and while, particularly on “Express Yourself”, which is wonderfully joyous in its message. While this song in particular is something of a black sheep in its optimism and carefree spirit, it is of course “Fuck Tha Police” that epitomises the real essence of *Straight Outta Compton*: a song inspired by a deadly serious subject matter, yet performed and produced in a way that makes it extraordinarily accessible. The impact of this song, this album, and this impassioned hip-hop assembly, cannot be overstated. Better rap albums have been released since its conception in 1988, but very few have caused quite the same stir.
 tracks:
   - Express Yourself
   - ­­Straight Outta Compton
@@ -74,8 +74,8 @@ review: >-
   of their debut shone a light on a world much of America hadn’t seen, and did
   so in a way that impacted everything that followed. The success of today’s hip
   hop superstars, from [Kendrick
-  Lamar](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>) to
-  [Eminem](<https://audioxide.com/reviews/eminem-the-marshall-mathers-lp/>), is
+  Lamar](<reviews/kendrick-lamar-to-pimp-a-butterfly/>) to
+  [Eminem](<reviews/eminem-the-marshall-mathers-lp/>), is
   built on foundations laid by N.W.A.
 
   The openers — “Straight Outta Compton”, “Fuck tha Police”, and “Gangsta Gangsta” — are what the album is rightly remembered for. They are as striking a trio as you’re ever likely to hear, and the flows of Ice Cube, MC Ren, and Eazy-E bounce off of each other beautifully. The faux-ragtag collaboration throughout is irresistable. Even the conventions of the album format weren’t safe. The producers dropping in for a couple of verses and bossing it? Why not? Dr. Dre and DJ Yella provided the perfect backdrop for the album’s social satire. It only seems fair for them to reap the fruits of their labour.

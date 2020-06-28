@@ -33,18 +33,18 @@ week: 94
 author: ANDRÉ
 review: >-
   Following a record as monumental as [*To Pimp a
-  Butterfly*](<https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/>)
+  Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>)
   is no easy task, even for one of the World’s greatest living artists. At this
   point, there can be no question about his status – Kendrick Lamar’s talent
   feels like a once in a generation occassion. His winning streak in hip-hop is
   so hot that [even his B-sides are making a mockery of his
-  competition](<https://audioxide.com/reviews/untitled-unmastered/>), and he has
+  competition](<reviews/untitled-unmastered/>), and he has
   appropriately become one of the most significant figures in popular culture.
   Kendrick takes his standing seriously, and recognises his responsibilities as
   an idol. *DAMN.* is the result of a deliberate introspection, as he turns the
   spotlight on to himself to deliver his most despondent record yet.
 
-  In comparison to his earlier work, *DAMN.* is an incredibly cold listen, which is an immediate contrast to the tone of *TPaB*. Kendrick opts for a scattergun approach, which means some things work, and other things don’t. “DNA.”, “ELEMENT.”, “LUST.” and “FEAR.” are fine tracks, fit enough to feature on any Kendrick release. “DNA.” is his best banger since [“Backseat Freestyle”](<https://www.youtube.com/watch?v=EZW7et3tPuQ>), opening the record with an aggressive intent that immediately shakes the listener. “ELEMENT.” is another early highlight that sports a fantastic instrumental courtesy of [James Blake](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>), whilst “FEAR.” operates as the latter half centrepiece. “XXX.” is worth mentioning too, for somehow making the combination of Kendrick Lamar and [U2](<https://audioxide.com/reviews/u2-the-joshua-tree/>) work worryingly well. When *DAMN.* hits its stride, it is indeed thoroughly enjoyable, which is the least we expect from such an artist.
+  In comparison to his earlier work, *DAMN.* is an incredibly cold listen, which is an immediate contrast to the tone of *TPaB*. Kendrick opts for a scattergun approach, which means some things work, and other things don’t. “DNA.”, “ELEMENT.”, “LUST.” and “FEAR.” are fine tracks, fit enough to feature on any Kendrick release. “DNA.” is his best banger since [“Backseat Freestyle”](<https://www.youtube.com/watch?v=EZW7et3tPuQ>), opening the record with an aggressive intent that immediately shakes the listener. “ELEMENT.” is another early highlight that sports a fantastic instrumental courtesy of [James Blake](<reviews/james-blake-the-colour-in-anything/>), whilst “FEAR.” operates as the latter half centrepiece. “XXX.” is worth mentioning too, for somehow making the combination of Kendrick Lamar and [U2](<reviews/u2-the-joshua-tree/>) work worryingly well. When *DAMN.* hits its stride, it is indeed thoroughly enjoyable, which is the least we expect from such an artist.
 
   Unfortunately, *DAMN.* is let down by its sheer inconsistency. It has genuine dips in the form of “LOYALTY.” and “GOD.”, which is a new and disturbing sensation for a Kendrick album. Due to an oddly formed tracklist with a lack of coherence, these weaker cuts are only accentuated. For sure, *DAMN.* is a conceptual work, but it’s way too dispersed in its approach to make a significant impact. “DUCKWORTH.” is the albums big pay off, and whilst it does showcase Kendrick’s supreme talent as a storyteller, I’d be shocked if many listeners were invested enough to care all that much about it. “Mortal Man” worked as a closing track because the listener was hooked on an engaging narrative that ran throughout the entirety of that record, and, to its ultimate detriment,* DAMN.* chooses to operate in quite a different way. Kendrick explores a multitude of personal predicaments, but it remains difficult to stay focused on what the record is actually trying to convey. It’s certainly an enjoyable album, but the overall experience feels incomplete. It’s unlikely that *DAMN.* will relish the same prestige as its predecessors, but such a streak can only go so far.
 tracks:

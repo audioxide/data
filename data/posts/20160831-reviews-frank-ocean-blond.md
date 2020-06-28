@@ -41,15 +41,15 @@ review: <div class="_d97"><p>After months of build-up, speculation and <a
   long-awaited second studio album is here. Does it live up to the extravagant
   hype? Probably not. Does it matter? Again, probably not. Ocean is somewhat of
   an elusive character, carrying a limited media presence that mirrors the
-  reticent nature of <a href="https://audioxide.com/reviews/prince-purple-rain/"
+  reticent nature of <a href="reviews/prince-purple-rain/"
   target="_blank" rel="noopener">Prince</a>. He feels the pain of <a
   href="http://frankocean.tumblr.com/post/146249813326/i-read-in-the-paper-that-my-brothers-are-being"
   target="_blank" rel="noopener">social and political injustice</a> just like <a
-  href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/"
+  href="reviews/kendrick-lamar-to-pimp-a-butterfly/"
   target="_blank" rel="noopener">Kendrick Lamar</a> does, but his music remains
   deeply personal and highly reflective. He approaches works with craft and
   care, and though it regrettably follows the <a
-  href="https://audioxide.com/reviews/the-life-of-pablo/" target="_blank"
+  href="reviews/the-life-of-pablo/" target="_blank"
   rel="noopener">curiously prevalent trend of feeling out of focus and slightly
   discordant</a>, <em>Blonde</em> is no exception. With its muted tone and
   severe lack of robust beats, it could most certainly be described as an
@@ -92,7 +92,7 @@ review: I haven’t been sure what to make of *Blonde.* It’s good weird, but i
   White” is particularly lovely, like bursts of light. Ocean’s voice, in
   whatever form it takes, is a captivating central actor. “Self Control” in
   particular holds you in the palm of its hand. Unlike [certain other
-  artists](<https://audioxide.com/reviews/james-blake-the-colour-in-anything/>)
+  artists](<reviews/james-blake-the-colour-in-anything/>)
   we’ve reviewed recently, I believe most of Ocean’s mid-tempo oddities are
   considered, constructive creative choices — I just don’t always click with
   them. When he sings in “Seigfried” about ‘living in an idea in another man’s

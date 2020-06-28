@@ -168,7 +168,7 @@ The harmonica playing is breathlessly energetic (check out “You’re No Good�
 
 ![](<2019/07/Oh-Mercy.jpg> =1000x1000)
 
-The one benefit of having multiple career dips is that they set you up for multiple career comebacks. After Dylan’s ‘return to form’ with *Infidels* in 1983, he went on another spree of average albums until *Oh Mercy* brought it to a halt. Dylan teamed up with [U2](<https://audioxide.com/reviews/u2-the-joshua-tree/>) producer Daniel Lanois to create a record that took everyone by surprise - because it was good.
+The one benefit of having multiple career dips is that they set you up for multiple career comebacks. After Dylan’s ‘return to form’ with *Infidels* in 1983, he went on another spree of average albums until *Oh Mercy* brought it to a halt. Dylan teamed up with [U2](<reviews/u2-the-joshua-tree/>) producer Daniel Lanois to create a record that took everyone by surprise - because it was good.
 
 *Oh Mercy* certainly didn’t break any new ground, but it gave fans ten original songs that sounded like Dylan was putting in the effort again. Lanois’s production gives the album a dark, brooding atmosphere, something Dylan himself quite accurately described as ‘swampy’. Check out “Most of the Time” for the best bassline in a Dylan song.
 
@@ -176,7 +176,7 @@ The one benefit of having multiple career dips is that they set you up for multi
 
 ![](<2019/07/John-Wesley-Harding.jpg> =1000x1000)
 
-After a bad motorcycle crash in 1966, Dylan’s music took a serious stylistic turn. In stark contrast to his trio of mid-60s rock albums, *John Wesley Harding* is austere and stripped back. Dylan sounds tired, his voice is strained, and the instrumentation is sparse. The songs themselves are a mixed bag, ranging from the fairly forgettable (“Down Along The Cove”) to the downright magnificent (“All Along The Watchtower”). Of course, [Jimi Hendrix](<https://audioxide.com/reviews/the-jimi-hendrix-experience-electric-ladyland/>) quickly identified the best song on the album, recording his dazzling version of “All Along The Watchtower” less than a month after hearing it. It’s got to be the greatest Dylan cover of all time (and there’s a lot of competition).
+After a bad motorcycle crash in 1966, Dylan’s music took a serious stylistic turn. In stark contrast to his trio of mid-60s rock albums, *John Wesley Harding* is austere and stripped back. Dylan sounds tired, his voice is strained, and the instrumentation is sparse. The songs themselves are a mixed bag, ranging from the fairly forgettable (“Down Along The Cove”) to the downright magnificent (“All Along The Watchtower”). Of course, [Jimi Hendrix](<reviews/the-jimi-hendrix-experience-electric-ladyland/>) quickly identified the best song on the album, recording his dazzling version of “All Along The Watchtower” less than a month after hearing it. It’s got to be the greatest Dylan cover of all time (and there’s a lot of competition).
 
 ### 16\. *Nashville Skyline* (1969)
 
@@ -206,7 +206,7 @@ Dylan almost left the slow version of “Forever Young” off the album when his
 
 ![](<2019/07/Infidels.jpg> =1000x1000)
 
-*Infidels* was yet another ‘return to form’ for Dylan, following on from his unpopular Christian trilogy. He made a decided move away from evangelizing, which happily coincided with some of his best songwriting since the mid-70s. What’s more, after struggling to find a producer for the album ([Bowie](<https://audioxide.com/reviews/david-bowie-hunky-dory/>), Zappa, and [Costello](<https://audioxide.com/reviews/elvis-costello-my-aim-is-true/>) were all unavailable), Dylan got his hands on Mark Knopfler, whose contributions on guitar would become a big part of the record.
+*Infidels* was yet another ‘return to form’ for Dylan, following on from his unpopular Christian trilogy. He made a decided move away from evangelizing, which happily coincided with some of his best songwriting since the mid-70s. What’s more, after struggling to find a producer for the album ([Bowie](<reviews/david-bowie-hunky-dory/>), Zappa, and [Costello](<reviews/elvis-costello-my-aim-is-true/>) were all unavailable), Dylan got his hands on Mark Knopfler, whose contributions on guitar would become a big part of the record.
 
 However, it’s actually the work of Mick Taylor that provides the album highlight, his brilliant flourishes on guitar combining with Dylan’s vivid, lyrical brilliance in “I And I”. Bafflingly, Dylan couldn’t find space on *Infidels* for “Blind Willie McTell”, an atmospheric, piano-driven number that deserves a space on *any* Dylan album. It’s one of his greatest compositions, and nobody’s sure why it got left behind.
 
@@ -294,7 +294,7 @@ At the other end of the record, “Desolation Row” is an entirely different ke
 
 At the heart of the album is “Ballad of a Thin Man”, Dylan’s fiery attack on a certain ‘Mr Jones’. He plays lead piano in this song, slamming his way through sombre chords and lampooning his target. It’s brilliant stuff (and Dylan’s first song to feature a middle eight). After *Highway 61 Revisited*, Dylan would never get rock so right again.
 
-[**Read the full *Audioxide* review of *Highway 61 Revisited***](https://audioxide.com/reviews/bob-dylan-highway-61-revisited/) →
+[**Read the full *Audioxide* review of *Highway 61 Revisited***](reviews/bob-dylan-highway-61-revisited/) →
 
 ## 2\. *Blood on the Tracks* (1975)
 

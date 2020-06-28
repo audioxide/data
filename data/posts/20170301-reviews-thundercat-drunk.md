@@ -114,7 +114,7 @@ review: "I’m left frustrated by *Drunk*. It’s a grower of an album for sure,
   “Friend Zone” also shine as highlights. Vocals often sound like streams of
   consciousness, but this usually works well, especially on the shorter tracks.
   Features include the likes of [Kendrick
-  Lamar](<https://audioxide.com/reviews/kendrick-lamar-untitled-unmastered/>)
+  Lamar](<reviews/kendrick-lamar-untitled-unmastered/>)
   and Pharrell Williams, making for a star-studded tracklist, but the execution
   is a little patchy, ranging from sounding great to sounding completely off. My
   frustration occurs when I step back to review this album as a whole. I didn’t

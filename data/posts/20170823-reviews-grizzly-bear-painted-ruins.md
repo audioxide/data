@@ -72,7 +72,7 @@ review: In many respects *Painted Ruins* deserves more love, but when push comes
   “Cut-Out” is really very pretty. The crescendo of “Three Rings” should affect
   me more than it does… all these things should. That they don’t is a massive
   black mark on the experience. Where’s the vividness of [Jefferson
-  Airplane](<https://audioxide.com/reviews/jefferson-airplane-surrealistic-pillow/>),
+  Airplane](<reviews/jefferson-airplane-surrealistic-pillow/>),
   or Buffalo Springfield? That’s what they seem to want, but you can’t mesh the
   uninhibited colour of psychedelia with squashed, tepid production. It doesn’t
   work. The album can’t get beyond being a pretty, shimmering thing. Where
