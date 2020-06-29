@@ -9,11 +9,10 @@ tags:
   - spiritualized
 featuredimage: 2015/02/Ladies-and-Gentleman-We-Are-Floating-In-Space.jpg
 artist: Spiritualized
-album: Ladies and Gentleman We Are Floating In Space
+album: Ladies and Gentleman We Are Floating in Space
 essentialtracks:
   - Broken Heart
 favouritetracks:
-  - Broken Heart
   - Ladies and Gentlemen We Are Floating in Space
   - I Think I'm in Love
 totalscore:
@@ -25,19 +24,14 @@ colours:
   - "#ffffff"
   - "#FFF"
 pullquote: A magnificent journey
-summary: Tortured themes, fragile vocals, irresistibly groovy basslines,
-  beautifully spacious production, and such a curious closer. Ladies and
-  Gentlemen We Are Floating In Space has numerous key components.
+summary: Tortured themes, fragile vocals, irresistibly groovy basslines, beautifully spacious production, and such a curious closer. Ladies and Gentlemen We Are Floating in Space has numerous key components.
 week: 3
 ---
 author: André
-review: Jason Pierce sculptured a magnificent journey for listeners to
-  experience. Tortured themes, fragile vocals, irresistibly groovy basslines,
-  beautifully spacious production, and such a curious closer. *Ladies and
-  Gentlemen We Are Floating In Space* has numerous key components. A special
-  album, and one I love dearly.
+review: >-
+  Jason Pierce sculptured a magnificent journey for listeners to experience. Tortured themes, fragile vocals, irresistibly groovy basslines, beautifully spacious production, and such a curious closer. *Ladies and Gentlemen We Are Floating In Space* has numerous key components. A special album, and one I love dearly.
 tracks:
-  - " Ladies and Gentleman We Are Floating in Space"
+  - Ladies and Gentleman We Are Floating in Space
   - ­Broken Heart
   - ­Cool Waves
 score:
@@ -46,13 +40,10 @@ score:
   fraction: 0.9
 ---
 author: Fred
-review: It really is quite beautiful, a proper labour of love. The breadth and
-  layering of sound is stunning. You find new things to admire each time you
-  listen. That said, the middle portion lost me a little, though I’d imagine
-  that’s partially because the opening and closings are so good. “Cop Shoot Cop”
-  is an odd choice of closing track, but it’s as cool as they come.
+review: >- 
+  It really is quite beautiful, a proper labour of love. The breadth and layering of sound is stunning. You find new things to admire each time you listen. That said, the middle portion lost me a little, though I’d imagine that’s partially because the opening and closings are so good. “Cop Shoot Cop” is an odd choice of closing track, but it’s as cool as they come.
 tracks:
-  - " Cop Shoot Cop"
+  - Cop Shoot Cop
   - ­I Think I’m in Love
   - ­Broken Heart
 score:
@@ -61,12 +52,10 @@ score:
   fraction: 0.8
 ---
 author: Andrew
-review: I think we’ve actually spoken about this one less because we’ve all just
-  been in agreement. It’s a great album, it held my attention almost the whole
-  way through with the continually changing and layering sounds. It was great,
-  I’ll definitely be revisiting it.
+review: >-
+  I think we’ve actually spoken about this one less because we’ve all just been in agreement. It’s a great album, it held my attention almost the whole way through with the continually changing and layering sounds. It was great, I’ll definitely be revisiting it.
 tracks:
-  - " Ladies and Gentleman We Are Floating in Space"
+  - Ladies and Gentleman We Are Floating in Space
   - ­No God Only Religion
   - ­Broken Heart
 score:

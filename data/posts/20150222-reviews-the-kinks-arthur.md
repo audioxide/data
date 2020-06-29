@@ -25,18 +25,14 @@ colours:
   - "#050808"
   - "#bdb693"
 pullquote: All very Kinks-y
-summary: A good deal of the songs are beautiful in ways only Ray Davies can
-  achieve, but it has a surprisingly scattered feel which keeps it from being
-  more than the sum of its parts. The lyrics and melodies are graceful and
-  lovely, and the instrumentation supports them with aplomb.
+summary: A good deal of the songs are beautiful in ways only Ray Davies can achieve, but it has a surprisingly scattered feel which keeps it from being more than the sum of its parts. The lyrics and melodies are graceful and lovely, and the instrumentation supports them with aplomb.
 week: 4
 ---
 author: André
-review: An enjoyable album, one that is incredibly easy to consume. The vocal
-  harmonies are a joy to listen to. Whilst nothing particularly stands out, I’ll
-  definitely revisit *Arthur* for the pure pleasure.
+review: >-
+  An enjoyable album, one that is incredibly easy to consume. The vocal harmonies are a joy to listen to. Whilst nothing particularly stands out, I’ll definitely revisit *Arthur* for the pure pleasure.
 tracks:
-  - " Victoria"
+  - Victoria
   - ­Yes Sir No Sir
   - ­Shangri-La
 score:
@@ -45,15 +41,10 @@ score:
   fraction: 0.7
 ---
 author: Fred
-review: It’s a funny old album, *Arthur*. A good deal of the songs are beautiful
-  in ways only Ray Davies can achieve, but it has a surprisingly scattered feel
-  which keeps it from being more than the sum of its parts. That’s a minor
-  qualm, though. The lyrics and melodies are graceful and lovely, and the
-  instrumentation supports them with aplomb. It’s all very Kinks-y, in that the
-  main takeaway is ultimately, ‘Well, that sure was a pleasant listen!’
-  Sometimes that’s all you need.
+review: >-
+  It’s a funny old album, *Arthur*. A good deal of the songs are beautiful in ways only Ray Davies can achieve, but it has a surprisingly scattered feel which keeps it from being more than the sum of its parts. That’s a minor qualm, though. The lyrics and melodies are graceful and lovely, and the instrumentation supports them with aplomb. It’s all very Kinks-y, in that the main takeaway is ultimately, ‘Well, that sure was a pleasant listen!’ Sometimes that’s all you need.
 tracks:
-  - " Some Mother’s Son"
+  - Some Mother’s Son
   - ­Australia
   - ­Yes Sir No Sir
 score:
@@ -62,11 +53,10 @@ score:
   fraction: 0.8
 ---
 author: Andrew
-review: Some interesting melodies and instruments choices, I especially
-  appreciate the horns all over it, and the harmonies are really nice in some
-  tracks.
+review: >-
+  Some interesting melodies and instruments choices, I especially appreciate the horns all over it, and the harmonies are really nice in some tracks.
 tracks:
-  - " Australia"
+  - Australia
   - ­Shangri-La
   - ­Drivin’
 score:
