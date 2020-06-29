@@ -66,7 +66,7 @@ const generateImages = async (originalPath) => {
                     const srcset = Object.entries(imageConfig.sizes)
                         .map(([size, width]) => `${process.env.API_URL}${imagesBase}/${path}${file}-${size}-original${extension} ${Math.min(width, max)}w`);
 
-                    html = html.replace(image, `${image} srcset="${srcset.join(',\n')}"`);
+                    html = html.replace(image, `${image.replace(file, `${file}-medium-original`)} srcset="${srcset.join(',\n')}" sizes="(max-width: ${max}px) 100vw, ${max}px"`);
 
                     return imageGeneration;
                 }),
