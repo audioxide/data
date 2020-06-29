@@ -7,7 +7,7 @@ tags:
   - "19"
   - 1990s
   - pixies
-featuredimage: 2015/11/pixies-bossanova-e1512510032148.jpg
+featuredimage: album-artwork/bossanova-pixies.jpg
 artist: Pixies
 album: Bossanova
 essentialtracks:
