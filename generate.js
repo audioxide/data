@@ -16,62 +16,90 @@ const segmentDivisor = /\r?\n---\r?\n/;
 const localImage = /(?<=<img)([^>]+?src=")(?!http)([^"]+?)"/g;
 const localLink = /(?<=<a )([^>]*?href=")(?!http)(?!mailto)([^"]+?)"/g;
 
-let imagesSizes = [];
+let imageConfig = {};
+const imagesSizes = [];
+const imageMax = {};
 const data = {};
 
-const resolveLocalUrls = (html) => html
-    .replace(localImage, `$1${process.env.API_URL}/images/$2"`)
-    .replace(localLink, `$1${process.env.SITE_URL}/$2"`);
+const getPathParts = filePath => {
+    const [match, path, file, extension] = filePath.match(/^(.+?)([^/]+?)(\.[a-zA-Z]{1,4})$/);
+    return { path, file, extension };
+};
 
-const processContentFile = async (path, metadataYAML, contentSegments) => {
-    // We infer some information from the filename
-    const [match, year, month, day, type, slug] = path.match(/(\d{4})(\d{2})(\d{2})-([^-]+?)-(.+?)\.md$/);
-    const title = startCase(slug);
-    const date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
-    let metadata = {
-        slug,
-        title,
-        type,
-        created: date,
-    };
-    let content = [];
-    try {
-        // Anything parsed from the first segment as YAML will overwrite and add to the defaults
-        Object.assign(metadata, YAML.parse(metadataYAML));
-    } catch {}
-    if (!('modified' in metadata)) {
-        metadata.modified = metadata.created;
+// Pull the image generation out
+// Needs to apply to article images too
+// When resolving images, add in srcset
+const generateImages = async (originalPath) => {
+    const sizeObj = {};
+    const imagePath = `/${originalPath}`;
+    const { path: outputImagePath, file: outputImageFile, extension } = getPathParts(imagePath);
+    if (!fs.existsSync(outputBase + imagesBase + outputImagePath)) {
+        await fs.promises.mkdir(outputBase + imagesBase + outputImagePath, { recursive: true });
     }
+    const inputImageFilePath = inputBase + imagesBase + imagePath;
+    if (!fs.existsSync(inputImageFilePath)) {
+        throw Error(`Image "${inputImageFilePath}" could not be found.`);
+    }
+    const image = sharp(inputImageFilePath);
+    imageMax[originalPath] = (await image.metadata()).width;
+    await Promise.all(
+        imagesSizes.map(({ name, w, h }) => {
+            const sizePath = `${imagesBase}${outputImagePath}${outputImageFile}-${name}${extension}`;
+            sizeObj[name] = process.env.API_URL + sizePath;
+            return image.clone()
+                .resize(w, h, { withoutEnlargement: true })
+                .toFile(outputBase + sizePath);
+        }),
+    );
+    return sizeObj;
+}
+
+    const resolveLocalUrls = async (html) => {
+        const images = html.match(localImage);
+        if (Array.isArray(images)) {
+            await Promise.all(
+                images.map(image => {
+                    const [match, src] = image.match(/src="([^"]+?)"/);
+                    const { path, file, extension } = getPathParts(src);
+                    const imageGeneration = generateImages(src);
+                    const max = imageMax[src] || Infinity;
+                    const srcset = Object.entries(imageConfig.sizes)
+                        .map(([size, width]) => `${path}${file}-original${extension} ${Math.min(width, max)}w`);
+
+                    html = html.replace(image, `${image} srcset="${srcset.join(',\n')}"`);
+
+                    return imageGeneration;
+                }),
+            );
+        }
+        return html.replace(localImage, `$1${process.env.API_URL}/images/$2"`)
+            .replace(localLink, `$1${process.env.SITE_URL}/$2"`);
+    }
+
+    const processContentFile = async (path, metadataYAML, contentSegments) => {
+        // We infer some information from the filename
+        const [match, year, month, day, type, slug] = path.match(/(\d{4})(\d{2})(\d{2})-([^-]+?)-(.+?)\.md$/);
+        const title = startCase(slug);
+        const date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+        let metadata = {
+            slug,
+            title,
+            type,
+            created: date,
+        };
+        let content = [];
+        try {
+            // Anything parsed from the first segment as YAML will overwrite and add to the defaults
+            Object.assign(metadata, YAML.parse(metadataYAML));
+        } catch {}
+        if (!('modified' in metadata)) {
+            metadata.modified = metadata.created;
+        }
     if (!('blurb' in metadata) && 'summary' in metadata) {
         metadata.blurb = metadata.summary;
     }
     if ('featuredimage' in metadata) {
-        const sizeObj = {};
-        const imagePath = `/${metadata.featuredimage}`;
-        const [
-            match,
-            outputImagePath,
-            outputImageFile,
-            extension
-        ] = imagePath.match(/^(.+?)([^/]+?)(\.[a-zA-Z]{1,4})$/);
-        if (!fs.existsSync(outputBase + imagesBase + outputImagePath)) {
-            await fs.promises.mkdir(outputBase + imagesBase + outputImagePath, { recursive: true });
-        }
-        const inputImageFilePath = inputBase + imagesBase + imagePath;
-        if (!fs.existsSync(inputImageFilePath)) {
-            throw Error(`"${path}" uses "${inputImageFilePath}" but the image could not be found.`);
-        }
-        const image = sharp(inputImageFilePath);
-        await Promise.all(
-            imagesSizes.map(([label, { w, h }]) => {
-                const sizePath = `${imagesBase}${outputImagePath}${outputImageFile}-${label}${extension}`;
-                sizeObj[label] = process.env.API_URL + sizePath;
-                return image.clone()
-                    .resize(w, h, { withoutEnlargement: true })
-                    .toFile(outputBase + sizePath);
-            }),
-        );
-        metadata.featuredimage = sizeObj;
+        metadata.featuredimage = await generateImages(metadata.featuredimage);
     }
     // For each further segment, attempt to parse it as YAML, Markdown or just return plain text
     content = contentSegments.map(contentStr => {
@@ -135,6 +163,14 @@ const parseDir = async (path) => {
     }));
 };
 
+const resolveImageSizes = ({ variations, sizes }) => Object.entries(sizes)
+    .forEach(([label, w]) => Object.entries(variations)
+        .forEach(([variation, ratio]) => imagesSizes.push({
+            name: `${label}-${variation}`,
+            h: Number.isFinite(ratio) ? w / ratio : undefined,
+            w,
+        })));
+
 const resolveAuthor = (obj) => {
     if ('author' in obj) {
         const author = obj.author.toLowerCase();
@@ -163,14 +199,13 @@ const generateResponse = (obj, name) => {
 
 const init = async () => {
     // Load image sizes
-    imagesSizes = Object.entries(
-        JSON.parse(
-            await fs.promises.readFile(
-                `${inputBase}${imagesBase}/sizes.json`,
-                { encoding: 'utf8' },
-            ),
+    imageConfig = JSON.parse(
+        await fs.promises.readFile(
+            `${inputBase}${imagesBase}/sizes.json`,
+            { encoding: 'utf8' },
         ),
     );
+    resolveImageSizes(imageConfig);
 
     // Parse data
     await parseDir('');
