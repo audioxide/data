@@ -58,17 +58,15 @@ const generateImages = async (originalPath) => {
         const images = html.match(localImage);
         if (Array.isArray(images)) {
             await Promise.all(
-                images.map(image => {
+                images.map(async (image) => {
                     const [match, src] = image.match(/src="([^"]+?)"/);
                     const { path, file, extension } = getPathParts(src);
-                    const imageGeneration = generateImages(src);
+                    await generateImages(src);
                     const max = imageMax[src] || Infinity;
                     const srcset = Object.entries(imageConfig.sizes)
                         .map(([size, width]) => `${process.env.API_URL}${imagesBase}/${path}${file}-${size}-original${extension} ${Math.min(width, max)}w`);
 
                     html = html.replace(image, `${image.replace(file, `${file}-medium-original`)} srcset="${srcset.join(',\n')}" sizes="(max-width: ${max}px) 100vw, ${max}px"`);
-
-                    return imageGeneration;
                 }),
             );
         }
