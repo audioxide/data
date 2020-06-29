@@ -64,7 +64,7 @@ const generateImages = async (originalPath) => {
                     const imageGeneration = generateImages(src);
                     const max = imageMax[src] || Infinity;
                     const srcset = Object.entries(imageConfig.sizes)
-                        .map(([size, width]) => `${path}${file}-original${extension} ${Math.min(width, max)}w`);
+                        .map(([size, width]) => `${path}${file}-${size}-original${extension} ${Math.min(width, max)}w`);
 
                     html = html.replace(image, `${image} srcset="${srcset.join(',\n')}"`);
 
@@ -102,29 +102,29 @@ const generateImages = async (originalPath) => {
         metadata.featuredimage = await generateImages(metadata.featuredimage);
     }
     // For each further segment, attempt to parse it as YAML, Markdown or just return plain text
-    content = contentSegments.map(contentStr => {
+    content = await Promise.all(contentSegments.map(async (contentStr) => {
         let parsed;
         try {
             const yaml = YAML.parse(contentStr);
             // Reviews and content can both contain markdown
             if ('review' in yaml) {
-                yaml.review = resolveLocalUrls(mdConverter.makeHtml(yaml.review));
+                yaml.review = await resolveLocalUrls(mdConverter.makeHtml(yaml.review));
             }
             if ('content' in yaml) {
-                yaml.content = resolveLocalUrls(mdConverter.makeHtml(yaml.content));
+                yaml.content = await resolveLocalUrls(mdConverter.makeHtml(yaml.content));
             }
             if ('body' in yaml) {
-                yaml.body = resolveLocalUrls(mdConverter.makeHtml(yaml.body));
+                yaml.body = await resolveLocalUrls(mdConverter.makeHtml(yaml.body));
             }
             parsed = yaml;
         } catch {}
         if (parsed) return parsed;
         try {
-            parsed = resolveLocalUrls(mdConverter.makeHtml(contentStr));
+            parsed = await resolveLocalUrls(mdConverter.makeHtml(contentStr));
         } catch {}
         if (parsed) return parsed;
         return contentStr;
-    });
+    }));
     return { metadata, content };
 };
 

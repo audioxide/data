@@ -19,8 +19,7 @@ summary: The most miserable man in comedy has five favourite albums from everyon
   Stewart Lee devotee vehicle? Don’t answer that.
 ---
 <figure class="wide">
-
-  ![Morrissey lets himself go](2018/04/Morrissey-lets-himself-go-e1523711937859.jpg)
+  <img src="2018/04/Morrissey-lets-himself-go-e1523711937859.jpg" alt="Morrissey lets himself go" />
   <figcaption>Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke</figcaption>
 </figure>
 
