@@ -20,4 +20,4 @@ One year in this project remains incredibly enjoyable, and to see each other’s
 So check out the reviews in the [archive](<reviews/>), and please stay tuned—all being well there will be much, much more to come.
 Happy listening, from us all at *Audioxide*.
 
-André.
+André
