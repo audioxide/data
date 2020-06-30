@@ -6,16 +6,15 @@ type: reviews
 tags:
   - 1970s
   - "27"
-  - 27+ Club
+  - 27+ club
   - concept albums
   - pink floyd
-featuredimage: 2015/03/pink-floyd-the-dark-side-of-the-moon.jpg
+featuredimage: album-artwork/the-dark-side-of-the-moon-pink-floyd.jpg
 artist: Pink Floyd
 album: The Dark Side of the Moon
 essentialtracks:
   - Money
 favouritetracks:
-  - Money
   - Us and Them
   - Time
 totalscore:
@@ -27,56 +26,52 @@ colours:
   - "#ffffff"
   - "#b0bbbf"
 pullquote: Undeniably special
-summary: The Dark Side of the Moon is one of those high-water marks of artistic
-  expression. It's just sublime. I don't have a bad thing to say about it.
+summary: The Dark Side of the Moon is one of those high-water marks of artistic expression. It's just sublime. I don't have a bad thing to say about it.
 week: 5
-blurb: The Dark Side of the Moon is one of those high-water marks of artistic
-  expression. It's just sublime. If I wasn't such an impassive git this album
-  probably would have changed my life.
+blurb: The Dark Side of the Moon is one of those high-water marks of artistic expression. It’s just sublime. I don’t have a bad thing to say about it.
 ---
 author: André
-review: Undeniably special, *The Dark Side of the Moon* is an iconic record that
-  will stand the test of time. I do feel, however, that one side is considerably
-  stronger than the other — the first half is a good album, and the second half
-  is a brilliant one. In that sense I’d suggest that it perhaps falls a tad
-  short of the greatness that it so often gets accoladed with.
+
+review: >-
+  Undeniably special, *The Dark Side of the Moon* is an iconic record that will stand the test of time. I do feel, however, that one side is considerably stronger than the other - the first half is a good album, and the second half is a brilliant one. In that sense I’d suggest it perhaps falls a tad short of the greatness that it so often gets accoladed with.
+
 tracks:
-  - " Money"
+  - Money
   - ­Us and Them
   - ­Brain Damage
+
 score:
   score: 8
   max: 10
   fraction: 0.8
+
 ---
 author: Fred
-review: "*The Dark Side of the Moon* is one of those high-water marks of
-  artistic expression. It’s just sublime. I don’t have a bad thing to say about
-  it. I think the two halves need each other, their relationship not unlike the
-  one shared by the beam of light and the prism that adorn the iconic cover. If
-  I wasn’t such an impassive git this album probably would have changed my life.
-  I’ve chosen favourites, but you really should just listen to it all in one
-  go."
+
+review: >-
+  *The Dark Side of the Moon* is one of those high-water marks of artistic expression. It’s just sublime. I don’t have a bad thing to say about it. I think the two halves need each other, their relationship not unlike the one shared by the beam of light and the prism that adorn the iconic cover. If I wasn’t such an impassive git this album probably would have changed my life. I’ve chosen favourites, but you really should just listen to it all in one go.
+
 tracks:
-  - " Money"
+  - Money
   - ­The Great Gig in the Sky
   - ­Time
+
 score:
   score: 10
   max: 10
   fraction: 1
+
 ---
 author: Andrew
-review: I think the fact that I feel almost drained after listening to this
-  album proves that *Dark Side of the Moon* certainly makes me feel something
-  more than an average album, takes me on a journey. There are some stand out
-  tracks, but together, with the range of instruments and the interesting time
-  signatures and melodies sprinkled through it, it really can put you in a dream
-  like trance, which isn’t an easy thing to achieve!
+
+review: >-
+  I think the fact that I feel almost drained after listening to this album proves that *Dark Side of the Moon* certainly makes me feel something more than an average album, takes me on a journey. There are some stand out tracks, but together, with the range of instruments and the interesting time signatures and melodies sprinkled through it, it really can put you in a dream like trance, which isn’t an easy thing to achieve!
+
 tracks:
-  - " Money"
+  - Money
   - ­Breathe
   - ­Any Colour You Like
+
 score:
   score: 9
   max: 10

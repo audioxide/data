@@ -24,19 +24,15 @@ colours:
   - "#000000"
   - "#000000"
 pullquote: Amazingly catchy riffs
-summary: Without the raw energy of Surfer Rosa and cohesiveness of Doolittle,
-  Bossanova is simply a solid album from a remarkable band.
+summary: Without the raw energy of Surfer Rosa and cohesiveness of Doolittle, Bossanova is simply a solid album from a remarkable band.
 week: 1
-blurb: Our first ever review. Reads like it too. In any case, the album can
-  certainly boast a groove, but it lacks the edge of Pixies' best work.
+blurb: Our first ever review. Reads like it too. In any case, the album can certainly boast a groove, but it lacks the edge of Pixies' best work.
 
 ---
 author: André
 
-review: Without the raw energy of *Surfer Rosa* and cohesiveness of [*Doolittle*](reviews/pixies-doolittle/),
-  *Bossanova* is simply a solid album from a remarkable band. By no means their
-  best work, but an enjoyable listen nonetheless (even if a few tracks do drift
-  by).
+review: >- 
+  Without the raw energy of *Surfer Rosa* and cohesiveness of *[Doolittle](reviews/pixies-doolittle/)*, *Bossanova* is simply a solid album from a remarkable band. By no means their best work, but an enjoyable listen nonetheless (even if a few tracks do drift by).
 
 tracks:
   - All Over the World
@@ -51,9 +47,8 @@ score:
 ---
 author: Fred
 
-review: I found a lot of *Bossanova* to be quite forgettable. There is a handful
-  of good tracks, but the album as a whole fails to build up a head of steam. It
-  isn’t bad by any means, though, and certainly merits a listen.
+review: >- 
+  I found a lot of *Bossanova* to be quite forgettable. There is a handful of good tracks, but the album as a whole fails to build up a head of steam. It isn’t bad by any means, though, and certainly merits a listen.
 
 tracks:
   - Havalina
@@ -68,8 +63,8 @@ score:
 ---
 author: Andrew
 
-review: Really my first proper introduction to Pixies and I really enjoyed it.
-  If nothing else there are some amazingly catchy guitar riffs.
+review: >- 
+  Really my first proper introduction to Pixies and I really enjoyed it. If nothing else there are some amazingly catchy guitar riffs.
 
 tracks:
   - Cecilia Ann
@@ -80,3 +75,4 @@ score:
   score: 6
   max: 10
   fraction: 0.6
+  
