@@ -58,6 +58,8 @@ featuredimage: 2016/06/file.png # Relates to a path from the ./data/images direc
 author: fred                    # Relates to an author file in ./data/authors directory
 blurb: Lorem ipsum dolor        # Used as an SEO description; optional; summary used if unspecified
 summary: Lorem ipsum dolor      # Used as a by line in articles and a long, conclusive review summary; optional for articles
+artistMBID: 00000000-0000-0000  # A MusicBrainz ID for the artist; mainly for reviews; used to pull artist information; optional
+albumMBID: 00000000-0000-0000   # A MusicBrainz ID for the album; mainly for reviews; used to pull album information; optional
 # All items from here on are only used in reviews. This line is a comment, and not necessary in the file
 album: Some Album
 artist: Some Artist
@@ -109,6 +111,8 @@ score:          # To make scores even stupider, notice that here, a "score" and 
   score: 7      # This is verbose and inconsistent with the totalscore above and will be better in the future
   max: 10
   fraction: 0.7
+artistMBID: 00000000-0000-0000  # A MusicBrainz ID for the artist solely discussed in this section; used by articles; optional
+albumMBID: 00000000-0000-0000   # A MusicBrainz ID for the album solely discussed in this section; used by articles; optional
 ---
 We can continue to write as many content sections as we like in either format.
 
@@ -118,7 +122,7 @@ to be used in content
 
 #### Author files
 
-Author files are currently simple, they contain a required `name` property and an optional set of `links`. The name property is currently just a first name as authors have not been consulted as to whether they wish their full name to appear on the site.
+Author files are currently simple, they contain a required `name` property and an optional set of `links`. The name property is the authors full name. There is not currently an option to display just a first or last name.
 
 ##### Author links
 
