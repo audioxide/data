@@ -29,6 +29,8 @@ pullquote: Undeniably special
 summary: The Dark Side of the Moon is one of those high-water marks of artistic expression. It's just sublime. I don't have a bad thing to say about it.
 week: 5
 blurb: The Dark Side of the Moon is one of those high-water marks of artistic expression. It’s just sublime. I don’t have a bad thing to say about it.
+artistMBID: 83d91898-7763-47d7-b03b-b92132375c47
+albumMBID: f5093c06-23e3-404f-aeaa-40f72885ee3a
 ---
 author: André
 

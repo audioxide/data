@@ -27,6 +27,8 @@ pullquote: Fine basslines
 summary: Once the more textured songs rear their heads the whole album falls together a little better. The last few tracks are top notch.
 week: 2
 blurb: The Chemical Brothers' second album is likely to please a number of electric tastes. It seldom rises above a good beat, but then it doesn't need to.
+artistMBID: 1946a82a-f927-40c2-8235-38d64f50d043
+albumMBID: 69f4aa7f-d760-3890-bd2a-902fb9abe40b
 ---
 author: André
 
