@@ -27,9 +27,9 @@ colours:
   - "#edeab2"
   - "#edeab2"
 pullquote: A masterpiece
-summary: Reznor set a benchmark in the genre of industrial rock, whilst simultaneously providing a form of therapy for millions of angst-filled listeners who inevitably soaked up his devastating portrayal of nihilism.
+summary: Reznor set a benchmark in the industrial rock genre whilst simultaneously providing a form of therapy for millions of angst-filled listeners, who inevitably soaked up his devastating portrayal of nihilism.
 week: 6
-blurb: Trent Reznor set a benchmark in the genre of industrial rock, whilst simultaneously providing a form of therapy for millions of angst-filled listeners.
+blurb: Trent Reznor set a benchmark in the industrial rock genre whilst simultaneously providing a form of therapy for millions of angst-filled listeners.
 ---
 author: André
 
