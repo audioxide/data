@@ -5,12 +5,12 @@ slug: nine-inch-nails-the-downward-spiral
 type: reviews
 tags:
   - 1990s
-  - 27+ Club
+  - 27+ club
   - "28"
   - concept albums
   - nine inch nails
   - trent reznor
-featuredimage: 2015/03/The-Downward-Spiral.jpg
+featuredimage: album-artwork/the-downward-spiral-nine-inch-nails.jpg
 artist: Nine Inch Nails
 album: The Downward Spiral
 essentialtracks: ""
@@ -27,62 +27,56 @@ colours:
   - "#edeab2"
   - "#edeab2"
 pullquote: A masterpiece
-summary: The Downward Spiral serves as a reminder that music can often be the
-  purest form of human expression. Reznor set a benchmark in the genre of
-  industrial rock, whilst simultaneously providing a form of therapy for
-  millions of angst-filled listeners who inevitably soaked up his devastating
-  portrayal of nihilism.
+summary: Reznor set a benchmark in the genre of industrial rock, whilst simultaneously providing a form of therapy for millions of angst-filled listeners who inevitably soaked up his devastating portrayal of nihilism.
 week: 6
-blurb: The Downward Spiral serves as a reminder that music can often be the
-  purest form of human expression. Reznor set a benchmark in the genre of
-  industrial rock, whilst simultaneously providing a form of therapy for
-  millions of angst-filled listeners.
+blurb: Trent Reznor set a benchmark in the genre of industrial rock, whilst simultaneously providing a form of therapy for millions of angst-filled listeners.
 ---
 author: André
-review: "*The Downward Spiral* serves as a reminder that music can often be the
-  purest form of human expression. As a work of art, Reznor takes us into the
-  deepest and darkest places of the human psyche, questioning the importance of
-  control and the relevance of religion; all the while depicting the bleak
-  dehumanization of society and its effect on ones individuality. As a piece of
-  music, Reznor set a benchmark in the genre of industrial rock, whilst
-  simultaneously providing a form of therapy for millions of angst-filled
-  listeners who inevitably soaked up his devastating portrayal of nihilism. In
-  hindsight the record was truly ahead of its time — even today it feels only
-  the slightest bit aged — and the innovative production techniques used across
-  the album are still getting mimicked to this day. *The Downward Spiral* is a
-  masterpiece, a work of art that has changed my life and will most likely stay
-  with me forever. Who knew despair was so alluring?"
+
+review: >-
+  *The Downward Spiral* serves as a reminder that music can often be the purest form of human expression. As a work of art, Reznor takes us into the deepest and darkest places of the human psyche, questioning the importance of control and the relevance of religion; all the while depicting the bleak dehumanization of society and its effect on ones individuality. 
+  
+  Reznor set a benchmark in the industrial rock genre, whilst simultaneously providing a form of therapy for millions of angst-filled listeners who inevitably soaked up his devastating portrayal of nihilism. In hindsight the record was truly ahead of its time - even today it feels only the slightest bit aged - and the innovative production techniques used across the album are still mimicked to this day. 
+  
+  *The Downward Spiral* is a masterpiece, a work of art that has changed my life and will most likely stay with me forever. Who knew despair was so alluring?
+
 tracks:
   - " Closer"
   - ­Ruiner
   - ­Heresy
+
 score:
   score: 10
   max: 10
   fraction: 1
+
 ---
 author: Fred
-review: It was a horrible experience. I haven’t slept soundly since.
+
+review: >-
+  It was a horrible experience. I haven’t slept soundly since.
+
 tracks:
-  - " A Warm Place"
+  - A Warm Place
   - ­Closer
   - ­Reptile
+
 score:
   score: 9
   max: 10
   fraction: 0.9
+
 ---
 author: Andrew
-review: There’s so much emotion in this album, the themes are pretty dark to
-  begin with and powerful instrumentation and the intricate composition really
-  produces, at least from me, a huge amount of empathy. While I always rush over
-  lyrics, some of the lyrics in the album are intense, veiled, and simply
-  striking. It’s been a slow burner though, it’s certainly not a ‘happy’ album,
-  but one that I’ve really grown to love.
+
+review: >-
+  There’s so much emotion in this album, the themes are pretty dark to begin with and powerful instrumentation and the intricate composition really produces, at least from me, a huge amount of empathy. While I always rush over lyrics, some of the lyrics in the album are intense, veiled, and simply striking. It’s been a slow burner though, it’s certainly not a ‘happy’ album, but one that I’ve really grown to love.
+
 tracks:
-  - " Eraser"
+  - Eraser
   - ­The Downward Spiral
   - ­Ruiner
+
 score:
   score: 9
   max: 10
