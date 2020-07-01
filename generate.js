@@ -41,7 +41,8 @@ const generateImages = async (originalPath) => {
         throw Error(`Image "${inputImageFilePath}" could not be found.`);
     }
     const image = sharp(inputImageFilePath);
-    imageMax[originalPath] = (await image.metadata()).width;
+    const metadata = await image.metadata();
+    imageMax[originalPath] = { w: metadata.width, h: metadata.height };
     await Promise.all(
         imagesSizes.map(({ name, w, h }) => {
             const sizePath = `${imagesBase}${outputImagePath}${outputImageFile}-${name}${extension}`;
@@ -62,11 +63,23 @@ const generateImages = async (originalPath) => {
                     const [match, src] = image.match(/src="([^"]+?)"/);
                     const { path, file, extension } = getPathParts(src);
                     await generateImages(src);
-                    const max = imageMax[src] || Infinity;
-                    const srcset = Object.entries(imageConfig.sizes)
-                        .map(([size, width]) => `${process.env.API_URL}${imagesBase}/${path}${file}-${size}-original${extension} ${Math.min(width, max)}w`);
+                    const max = imageMax[src];
+                    const sizes = Object.entries(imageConfig.sizes);
+                    let srcset = '';
+                    let i = 0;
+                    let joiner = '';
+                    do {
+                        const [size, width] = sizes[i];
+                        srcset += `${joiner}${process.env.API_URL}${imagesBase}/${path}${file}-${size}-original${extension} ${Math.min(width, max.w)}w`;
+                        joiner = ',\n';
+                        i++;
+                    } while (i < sizes.length && sizes[i - 1][1] < max.w);
+                    let imageWithAttributes = `${image.replace(file, `${file}-medium-original`)} srcset="${srcset}" sizes="(max-width: ${max.w}px) 100vw, ${max.w}px" loading="lazy"`;
+                    if (image.indexOf('width=') === -1 && image.indexOf('height=') === -1) {
+                        imageWithAttributes += ` width="${max.w}" height="${max.h}"`;
+                    }
 
-                    html = html.replace(image, `${image.replace(file, `${file}-medium-original`)} srcset="${srcset.join(',\n')}" sizes="(max-width: ${max}px) 100vw, ${max}px"`);
+                    html = html.replace(image, imageWithAttributes);
                 }),
             );
         }
