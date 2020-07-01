@@ -14,7 +14,6 @@ blurb: For years now the music of Trent Reznor has proved to be, yes, The
   albums.
 ---
 Hi, my name is André and I’m a Nine Inch Nails mega-fan. For years now the music of Trent Reznor has proved to be, yes, [The Perfect Drug](<https://www.youtube.com/watch?v=sSLqeZzTU8I>). I’m here without my comrades at Audioxide to provide an ordered list of the NIN discography. As most fans are aware, there are a large number of releases under the NIN name. I didn’t *really* fancy ranking each and every one of the 31 Halos, so I focused purely on studio albums. Surprisingly enough, the list took shape quite naturally, and there wasn’t much deliberation. Barring a few instances, I enjoy all of Reznor’s work, and he remains one of my purest inspirations. So without further ado, here lies my worst-to-best list of Nine Inch Nails albums. Isn’t nihilism delightful?
-------
 
 ### 9\. *Hesitation Marks* (2013)
 
