@@ -7,7 +7,7 @@ tags:
   - 2000s
   - "26"
   - muse
-featuredimage: album-artworl/origin-of-symmetry-muse.jpg
+featuredimage: album-artwork/origin-of-symmetry-muse.jpg
 artist: Muse
 album: Origin of Symmetry
 essentialtracks:
