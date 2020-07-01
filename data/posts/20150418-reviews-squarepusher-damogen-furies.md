@@ -7,7 +7,7 @@ tags:
   - 2010s
   - "21"
   - squarepusher
-featuredimage: 2015/11/squarepusher-damogen-furies.jpg
+featuredimage: album-artwork/damogen-furies-squarepusher.jpg
 artist: Squarepusher
 album: Damogen Furies
 essentialtracks:
@@ -24,56 +24,52 @@ colours:
   - "#8a8a8a"
   - "#FFF"
 pullquote: Classic Squarepusher
-summary: Squarepusher produces another solid album without pushing any
-  particular boundaries or venturing into unfamiliar territory. The beats are as
-  intricate as ever, whilst the melodies, as sporadic as they are, retain the
-  classic Squarepusher charm.
+summary: Squarepusher produces another solid album without pushing any boundaries or venturing into unfamiliar territory. The beats are as intricate as ever, whilst the melodies, as sporadic as they are, retain the classic Squarepusher charm.
 week: 12
+blurb: Squarepusher produces another solid album without pushing any boundaries. The beats are as intricate as ever, whilst the melodies keep their charm.
+artistMBID: 4d86ad4e-28d8-4e9f-8cf4-735c57060fdc
+albumMBID: 42e5557d-1c2e-4b1d-8580-7524ef8c3fd4
 ---
 author: André
-review: In similar fashion to Aphex Twin’s effort last year with *Syro*,
-  Squarepusher produces another solid album without pushing any particular
-  boundaries or venturing into unfamiliar territory. The beats are as intricate
-  as ever, whilst the melodies, as sporadic as they are, retain the classic
-  Squarepusher charm. Whilst it’s not for the faint-hearted, *Damogen Furies* is
-  a well-focused release from one of electronic music’s most respected artists,
-  and it’s well worth exploring.
+
+review: >-
+  In similar fashion to [Aphex Twin](https://audioxide.com/reviews/aphex-twin-richard-d-james-album/)’s effort last year with *Syro*, Squarepusher produces another solid album without pushing any particular boundaries or venturing into unfamiliar territory. The beats are as intricate as ever, whilst the melodies, as sporadic as they are, retain the classic Squarepusher charm. Whilst it’s not for the faint-hearted, *Damogen Furies* is a well-focused release from one of electronic music’s most respected artists, and it’s well worth exploring.
+
 tracks:
-  - " Exjag Nives"
+  - Exjag Nives
   - ­Baltang Ort
   - ­Baltang Arg
+
 score:
   score: 8
   max: 10
   fraction: 0.8
+
 ---
 author: Fred
-review: It’s too abrasive to be my bag. If I were tuned just a little
-  differently I suspect *Damogen Furies* would really push my buttons, but I’m
-  not, so it doesn’t. The music’s more than fine, meticulously mixed; I’m just
-  not sure I want to listen to it ever again. That said, I sincerely look
-  forward to hearing some of Squarepusher’s softer sounds in the future.
+
+review: >-
+  It’s too abrasive to be my bag. If I were tuned just a little differently I suspect *Damogen Furies* would really push my buttons, but I’m not, so it doesn’t. The music’s more than fine, meticulously mixed; I’m just not sure I want to listen to it ever again. That said, I sincerely look forward to hearing some of Squarepusher’s softer sounds in the future.
+
 tracks:
-  - " Exjag Nives"
+  - Exjag Nives
   - ­Stor Eiglass
+
 score:
   score: 6
   max: 10
   fraction: 0.6
+
 ---
 author: Andrew
-review: "*Damogen Furies* is not what I expected to hear given the few
-  Squarepusher tracks I’ve heard. It’s very manic and doesn’t give the listener
-  much of a break. For me, the album started off on a strong note, and there are
-  definitely some stand out tracks here, but other tracks felt more like a jam
-  that you’d relish during a live performance, not in the middle of an album. I
-  appreciate the complexity of the whole album, and some of the beats and
-  melodies are great, but Squarepusher didn’t quite hit the spot for me as much
-  as I’d hoped."
+review: >-
+  *Damogen Furies* is not what I expected to hear given the few Squarepusher tracks I’ve heard. It’s very manic and doesn’t give the listener much of a break. For me, the album started off strongly, and there are definitely some stand out tracks here, but other tracks felt more like a jam that you’d relish during a live performance, not in the middle of an album. I appreciate the complexity of *Damogen Furies*, and some of the beats and melodies are great, but Squarepusher didn’t quite hit the spot for me as much as I’d hoped.
+
 tracks:
-  - " Stor Eiglass"
+  - Stor Eiglass
   - ­Exjag Nives
   - ­Baltang Arg
+
 score:
   score: 7
   max: 10
