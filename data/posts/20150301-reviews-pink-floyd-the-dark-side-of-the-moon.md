@@ -23,7 +23,7 @@ totalscore:
   fraction: 0.9
 colours:
   - "#040404"
-  - "#ffffff"
+  - "linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red)"
   - "#b0bbbf"
 pullquote: Undeniably special
 summary: The Dark Side of the Moon is one of those high-water marks of artistic expression. It's just sublime. I don't have a bad thing to say about it.
