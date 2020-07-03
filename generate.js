@@ -2,9 +2,36 @@ const fs = require('fs');
 const YAML = require('yaml');
 const showdown = require('showdown');
 const sharp = require('sharp');
-const { deburr, set, startCase } = require('lodash');
+const { deburr, set, startCase, uniqueId } = require('lodash');
 
-const mdConverter = new showdown.Converter();
+const footnoteRefExtension = () => [
+    {
+        type: 'lang',
+        filter: (text) => {
+            let newText = text;
+            const matches = newText.match(/^\[\^([^\]]+?)\]: (.+?)$/gm);
+            if (Array.isArray(matches)) {
+                matches.forEach(match => {
+                    const [fullMatch, symbol, fnText] = match.match(/^\[\^([^\]]+?)\]: (.+?)$/m);
+                    const id = uniqueId('footnote-');
+                    const refId = `${id}-ref`;
+                    newText = newText.replace(fullMatch, `<p class="footnote" id="${id}" role="doc-endnote"><sup>${symbol}</sup> ${fnText} <a href="#${refId}" role="doc-backlink">↩</a></p>`);
+                    const refStr = `[^${symbol}]`.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // escape any characters with special meaning
+                    const refs = newText.match(new RegExp(refStr, 'g'));
+                    if (Array.isArray(refs)) {
+                        refs.forEach((ref, pos) => {
+                            const uid = pos === 0 ? refId : uniqueId(refId);
+                            newText = newText.replace(ref, `<sup id="${uid}" role="doc-noteref"><a href="#${id}">${symbol}</a></sup>`)
+                        });
+                    }
+                })
+            }
+            return newText;
+        },
+    },
+]
+
+const mdConverter = new showdown.Converter({ extensions: [footnoteRefExtension] });
 
 const inputBase = './data';
 const outputBase = './dist';
@@ -14,7 +41,7 @@ const tagsBase = '/tags';
 const segmentDetector = /(^|\r?\n?)---\r?\n/;
 const segmentDivisor = /\r?\n---\r?\n/;
 const localImage = /(?<=<img)([^>]+?src=")(?!http)([^"]+?)"/g;
-const localLink = /(?<=<a )([^>]*?href=")(?!http)(?!mailto)([^"]+?)"/g;
+const localLink = /(?<=<a )([^>]*?href=")(?!http)(?!mailto)(?!#)(\/{0,1})([^"]+?)"/g;
 
 let imageConfig = {};
 const imagesSizes = [];
@@ -84,7 +111,7 @@ const generateImages = async (originalPath) => {
             );
         }
         return html.replace(localImage, `$1${process.env.API_URL}/images/$2"`)
-            .replace(localLink, `$1${process.env.SITE_URL}/$2"`);
+            .replace(localLink, `$1${process.env.SITE_URL}/$3"`);
     }
 
     const processContentFile = async (path, metadataYAML, contentSegments) => {
