@@ -8,7 +8,7 @@ tags:
   - "24"
   - jimi hendrix
   - the jimi hendrix experience
-featuredimage: 2016/07/Electric-Ladyland.jpg
+featuredimage: album-artwork/electric-ladyland-jimi-hendrix.jpg
 artist: The Jimi Hendrix Experience
 album: Electric Ladyland
 essentialtracks:
@@ -25,106 +25,54 @@ colours:
   - "#e3b456"
   - "#f2c799"
 pullquote: Red-hot psychedelia
-summary: "To an extent, this is psychedelic background music, the kind only
-  Hendrix, with his divine craft and exquisite ability, could muster. It plays
-  like a vivid dream: beautiful, chaotic, and vigorous. This is prime Hendrix."
+summary: "To an extent, this is psychedelic background music, the kind only Hendrix, with his divine craft and exquisite ability, could muster. It plays like a vivid dream: beautiful, chaotic, and vigorous. This is prime Hendrix."
 week: 62
+blurb:
+artistMBID:
+albumMBID:
 ---
-author: ANDRÉ
-review: '<div class="_d97"><p>Jimi Hendrix changed everything. Each of us have
-  contemporary guitarists that we <a
-  href="reviews/like-clockwork/" target="_blank"
-  rel="noopener">adore</a>, <a
-  href="reviews/radiohead-ok-computer/" target="_blank"
-  rel="noopener">appreciate</a>, and <a
-  href="reviews/muse-origin-of-symmetry/" target="_blank"
-  rel="noopener">admire</a>, and they&nbsp;owe much of their expertise Hendrix.
-  On <em>Electric Ladyland</em>, the ultimate guitar hero lays out the entirety
-  of his artistic ambition, resulting in a long and colourful trip that
-  successfully showcases the depths of his mastery. Though the songwriting is
-  good and often very audacious, the purest display of Hendrix’s creativity is
-  heard through his monumental guitar playing, which is at the forefront&nbsp;of
-  every cut. Tone, composition, technique, finesse, flair — Hendrix’s sound was
-  revolutionary, and on <em>Electric Ladyland</em> it is arranged prominently in
-  the mix, to be admired and treasured by its listeners. It purposefully
-  overshadows his singing (secondary) voice, and it suits the music&nbsp;to do
-  so. The energy of Hendrix’s playing spreads to his associates, who do a fine
-  job of accompanying the guru; matching and sustaining Hendrix’s drive, but
-  never outshining him.</p><p>The improvised nature of the albums extended
-  instrumental segments radiate a dynamic spirit that remains thrilling today,
-  as intense as any of Swans’ breathless grooves that comprise their <a
-  href="reviews/swans-the-glowing-man/" target="_blank"
-  rel="noopener">monstrous records</a>. Hendrix and co jam with steaming
-  passion, and that type of heat is timeless, but it can also be taxing after a
-  period of time. Perhaps the main issue with <em>Electric Ladyland</em> (and
-  why Hendrix is known more for specific performances and songs rather than full
-  albums) is that there’s just so much material here. It’s difficult to gauge
-  whether certain tracks drag due to lesser songwriting, or because they simply
-  merge with the rest of the action — even if the quality is high. It’s a
-  question that we find ourselves asking <a
-  href="reviews/the-avalanches-wildflower/"
-  target="_blank" rel="noopener">all too often</a>: can you have too much of a
-  good thing? Maybe. Even so, if The Jimi Hendrix Experience do fatigue their
-  listeners, they sound great doing it. You don’t need to be totally tuned in to
-  to get everything out of&nbsp;<em>Electric Ladyland</em>; such is the nature
-  of its ambiance. To an extent, this is psychedelic background music, the kind
-  only Hendrix, with his divine craft and exquisite ability, could
-  muster.&nbsp;It plays like a vivid dream: beautiful, chaotic, and vigorous.
-  This is prime Hendrix.</p></div>'
+author: André
+
+review: >-
+  Jimi Hendrix changed everything. Each of us have contemporary guitarists that we <a href="reviews/like-clockwork/" target="_blank" rel="noopener">adore</a>, <a href="reviews/radiohead-ok-computer/" target="_blank" rel="noopener">appreciate</a>, and <a href="reviews/muse-origin-of-symmetry/" target="_blank" rel="noopener">admire</a>, and they owe much of their expertise Hendrix. On <em>Electric Ladyland</em>, the ultimate guitar hero lays out the entirety of his artistic ambition, resulting in a long and colourful trip that successfully showcases the depths of his mastery. Though the songwriting is good and often very audacious, the purest display of Hendrix’s creativity is heard through his monumental guitar playing, which is at the forefront&nbsp;of every cut. Tone, composition, technique, finesse, flair — Hendrix’s sound was revolutionary, and on <em>Electric Ladyland</em> it is arranged prominently in the mix, to be admired and treasured by its listeners. It purposefully overshadows his singing (secondary) voice, and it suits the music&nbsp;to do so. The energy of Hendrix’s playing spreads to his associates, who do a fine job of accompanying the guru; matching and sustaining Hendrix’s drive, but never outshining him.</p><p>The improvised nature of the albums extended instrumental segments radiate a dynamic spirit that remains thrilling today, as intense as any of Swans’ breathless grooves that comprise their <a href="reviews/swans-the-glowing-man/" target="_blank" rel="noopener">monstrous records</a>. Hendrix and co jam with steaming passion, and that type of heat is timeless, but it can also be taxing after a period of time. Perhaps the main issue with <em>Electric Ladyland</em> (and why Hendrix is known more for specific performances and songs rather than full albums) is that there’s just so much material here. It’s difficult to gauge whether certain tracks drag due to lesser songwriting, or because they simply merge with the rest of the action — even if the quality is high. It’s a question that we find ourselves asking <a href="reviews/the-avalanches-wildflower/" target="_blank" rel="noopener">all too often</a>: can you have too much of a good thing? Maybe. Even so, if The Jimi Hendrix Experience do fatigue their listeners, they sound great doing it. You don’t need to be totally tuned in to to get everything out of&nbsp;<em>Electric Ladyland</em>; such is the nature of its ambiance. To an extent, this is psychedelic background music, the kind only Hendrix, with his divine craft and exquisite ability, could muster.&nbsp;It plays like a vivid dream: beautiful, chaotic, and vigorous. This is prime Hendrix.
+
 tracks:
   - All Along the Watchtower
   - ­Voodoo Child (Slight Return)
   - ­House Burning Down
+
 score:
   score: 8
   max: 10
   fraction: 0.8
+
 ---
-author: FRED
-review: It’s obvious why this is considered a classic. It’s also obvious
-  why André, Andrew, and I hadn’t listened to it before. It’s instinctive,
-  messy, and rambling, with shimmers of the divine. *Electric Ladyland* speaks
-  in a kind of rock and roll tongues, sitting Jimi Hendrix front and centre and
-  rolling with it. Hendrix was a peerless talent, and his presence alone is
-  enough to make the album a treat. The pairing of his smooth, homey voice with
-  mind-bending, often obscene guitar work makes for one of the great Jekyll and
-  Hyde music dynamics. This isn’t cuddly, fuzzy psychedelia. Spoony fucky maybe.
-  With Noel Redding and Mitch Mitchell completing the trio in fine style, the
-  tracks — be they atmospheric titbits or epic mystic jams — are always
-  engaging. The record as a whole doesn’t match the heights of “All Along the
-  Watchtower” or “Voodoo Child (Slight Return)”, but then few things do. I find
-  *Electric Ladyland *works better as something to be dipped into than it does
-  as a single-listen experience; that way the intricacies of each track shine
-  through without the onset of solo fatigue.
+author: Fred
+
+review: >-
+  It’s obvious why this is considered a classic. It’s also obvious why André, Andrew, and I hadn’t listened to it before. It’s instinctive, messy, and rambling, with shimmers of the divine. *Electric Ladyland* speaks in a kind of rock and roll tongues, sitting Jimi Hendrix front and centre and rolling with it. Hendrix was a peerless talent, and his presence alone is enough to make the album a treat. The pairing of his smooth, homey voice with mind-bending, often obscene guitar work makes for one of the great Jekyll and Hyde music dynamics. This isn’t cuddly, fuzzy psychedelia. Spoony fucky maybe. With Noel Redding and Mitch Mitchell completing the trio in fine style, the tracks — be they atmospheric titbits or epic mystic jams — are always engaging. The record as a whole doesn’t match the heights of “All Along the Watchtower” or “Voodoo Child (Slight Return)”, but then few things do. I find *Electric Ladyland *works better as something to be dipped into than it does as a single-listen experience; that way the intricacies of each track shine through without the onset of solo fatigue.
+
 tracks:
   - All Along the Watchtower
   - ­Crosstown Traffic
   - ­Voodoo Child (Slight Return)
+
 score:
   score: 8
   max: 10
   fraction: 0.8
+
 ---
-author: ANDREW
-review: ‘Experience’ is a brilliant word to relate to this album. It really is
-  an experience to listen through *Electric Ladyland*‘s constantly changing
-  scenery, jumping between the racous, driving thump of “Crosstown Traffic”, to
-  the swelling virtuoso epic of “Voodoo Chile”, to the Beatles smattered “Little
-  Miss Strange”. All the while, Hendrix has his guitar up front and centre in
-  the mix, pushing his smoother vocals behind it and cutting through the rest of
-  the instrumentation. While some albums fail to recreate the live atmosphere
-  when they need to, *Electric Ladyland* manages it seemingly without effort, as
-  solos flood out into long jams across the entire album. This is however, both
-  a blessing and a curse. As the album continues to flow, an odd fatigue sets
-  in, despite retaining a high quality. You wouldn’t want to cut anything here
-  (especially the closer, delivering a stonking solo to round everything off)
-  but there is perhaps just a tad too much. Still, I consider it an essential
-  and brilliant listen in spite of this, and the legacy *Electric Ladyland*, and
-  Jimi Hendrix himself, has left makes it all the more important.
+author: Andrew
+
+review: >-
+  Experience’ is a brilliant word to relate to this album. It really is an experience to listen through *Electric Ladyland*‘s constantly changing scenery, jumping between the racous, driving thump of “Crosstown Traffic”, to the swelling virtuoso epic of “Voodoo Chile”, to the Beatles smattered “Little Miss Strange”. All the while, Hendrix has his guitar up front and centre in the mix, pushing his smoother vocals behind it and cutting through the rest of the instrumentation. While some albums fail to recreate the live atmosphere when they need to, *Electric Ladyland* manages it seemingly without effort, as solos flood out into long jams across the entire album. This is however, both a blessing and a curse. As the album continues to flow, an odd fatigue sets in, despite retaining a high quality. You wouldn’t want to cut anything here (especially the closer, delivering a stonking solo to round everything off) but there is perhaps just a tad too much. Still, I consider it an essential and brilliant listen in spite of this, and the legacy *Electric Ladyland*, and Jimi Hendrix himself, has left makes it all the more important.
+
 tracks:
   - Voodoo Child (Slight Return)
   - ­All Along the Watchtower
   - ­Crosstown Traffic
+
 score:
   score: 8
   max: 10
