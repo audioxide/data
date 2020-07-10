@@ -21,8 +21,8 @@ totalscore:
   fraction: 0.8
 colours:
   - "#221c21"
-  - "#FFF"
-  - "#FFF"
+  - "#646569"
+  - "#646569"
 pullquote: A haunting goodbye
 summary: Blackstar is an exquisite work made tenderly and against time. It will endure as a portal into the world of remembrances that grief gives birth to — which I suppose was its purpose. The last word. Trust Bowie to turn dying into performance art.
 week: 36
