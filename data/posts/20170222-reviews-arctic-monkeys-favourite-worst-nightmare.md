@@ -7,7 +7,7 @@ tags:
   - "2007"
   - "24"
   - arctic monkeys
-featuredimage: album-artwork/favourite-worst-nightmare-arctic-monkeys.png
+featuredimage: album-artwork/favourite-worst-nightmare-arctic-monkeys.jpg
 artist: Arctic Monkeys
 album: Favourite Worst Nightmare
 essentialtracks: ""
