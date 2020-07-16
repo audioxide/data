@@ -27,8 +27,8 @@ pullquote: A disjointed patchwork
 summary: SOPHIE’s production style is her primary asset, and I’m certain that therein lies the illustrious future. Whilst there is a plethora of interesting production ideas here, there’s also a notable absence of creativity in actual song writing.
 week: 151
 blurb: Production is where SOPHIE shines. Whilst there is a plethora of interesting ideas here, there’s also a notable absence of creativity in actual song writing.
-artistMBID:
-albumMBID:
+artistMBID: 774b02d7-5056-4b0f-9d69-a82b6ae27cde
+albumMBID: e11aa3a6-9820-483c-98f8-603b5823178b
 ---
 author: ANDRÉ
 

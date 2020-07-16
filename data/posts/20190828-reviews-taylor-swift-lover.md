@@ -33,8 +33,8 @@ pullquote: Remarkably addictive
 summary: Hip, catchy… all that stuff. Lover isn’t as expansive as Kate Bush or as daring as St. Vincent, but it is accessible and intelligent, which I think are the hallmarks of Swift at her best.
 week: 205
 blurb: Lover isn’t as expansive as Kate Bush or as daring as St. Vincent, but it is accessible and intelligent, which are the hallmarks of Swift at her best.
-artistMBID:
-albumMBID:
+artistMBID: 20244d07-534f-4eff-b4d4-930878889970
+albumMBID: 30e9785b-7b50-4d29-b3d1-96fb55e3397f
 ---
 author: André
 

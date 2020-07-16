@@ -27,8 +27,8 @@ pullquote: Irresistible
 summary: Air combined chillout aesthetic with downtempo percussion, whilst adding that crucial pop element that made the record such a success. It’s pleasant, comforting, and frequently absorbing. I can’t imagine anyone not having a good time with it.
 week: 140
 blurb: Air combined chillout aesthetic with downtempo percussion, adding the pop element that made them such a success. Pleasant, familiar, and frequently absorbing.
-artistMBID:
-albumMBID:
+artistMBID: cb67438a-7f50-4f2b-a6f1-2bb2729fd538
+albumMBID: b0bf2b77-b8cf-32f6-8893-9741d757b400
 ---
 author: ANDRÉ
 

@@ -28,8 +28,8 @@ pullquote: An IDM masterclass
 summary: This is a veteran of electronic music who has nothing else to prove. The album isn't a game changer; instead a proud statement, delivered with finesse and flair by one of the true masters of IDM.
 week: 219
 blurb: This isn't a game changer; instead a proud statement, delivered with finesse and flair by one of the true masters of IDM.
-artistMBID:
-albumMBID:
+artistMBID: 4d86ad4e-28d8-4e9f-8cf4-735c57060fdc
+albumMBID: 6dc5a5e5-a07b-453e-8423-021dbe199253
 ---
 author: André
 
@@ -87,7 +87,7 @@ tracks:
   - Oberlove
   - ­­Detroit People Mover
   - ­­80 Ondula
-  
+
 score:
   score: 8
   max: 10

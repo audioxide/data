@@ -28,8 +28,8 @@ pullquote: A beautiful statement of love
 summary: Blake's words are far more direct than ever before, and it suits the more focused nature of his songwriting, particularly in the album's second half. Blake has always been excellent at setting a mood, but for the first time in his career he actually exudes genuine emotive qualities.
 week: 176
 blurb: Blake has always been hugely successful at setting a mood, but for the first time in his career he actually exudes genuine emotive qualities.
-artistMBID:
-albumMBID:
+artistMBID: 8dc08b1f-e393-4f85-a5dd-300f7693a8b8
+albumMBID: 8fceea87-5273-408b-a2f3-723d9b64800a
 ---
 author: André
 

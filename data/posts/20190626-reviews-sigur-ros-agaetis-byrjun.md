@@ -27,8 +27,8 @@ pullquote: Glacial
 summary: I'd argue 70 minutes of lush ambient art-rock does actually get tiring when it lacks variety. Layers upon layers of sensuous strings, steady soundscapes, and ghostly vocals combine to create an record that is impressive, yet frustratingly fatiguing.
 week: 198
 blurb: Layers upon layers of sensuous strings, steady soundscapes, and ghostly vocals combine to create an record that is impressive, yet fatiguing.
-artistMBID:
-albumMBID:
+artistMBID: f6f2326f-6b25-4170-b89d-e235b25508e8
+albumMBID: 62b427b8-1c52-34e7-b250-da2aa3e44860
 ---
 author: André
 

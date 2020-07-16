@@ -27,8 +27,8 @@ pullquote: A penny theatre musical
 summary: The songwriting is unbelievably good, to the point where it sounds effortless. Bowie, fresh from having his first child, shows sensitivity, humour, and even a little arrogance. In many ways, it was the sign of things to come.
 week: 175
 blurb: The songwriting is unbelievably good, to the point where it sounds effortless. Bowie shows sensitivity, humour, and even a little arrogance.
-artistMBID:
-albumMBID:
+artistMBID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+albumMBID: 743b0b2e-a23a-3182-950e-232f8cb0dfb7
 ---
 author: André
 

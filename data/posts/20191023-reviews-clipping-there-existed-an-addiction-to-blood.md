@@ -27,8 +27,8 @@ pullquote: Foreboding as all Hell
 summary: "A consistent string of exciting, chilling, and innovative experimental hip hop tracks devoid of cheese or pretence. The album is enthralling in the same way that I imagine a vampire's glamouring might be: warm, cold, hypnotic, enticing, and foreboding as all Hell."
 week: 213
 blurb: "The album is enthralling in the same way a vampire's glamouring might be: warm, cold, hypnotic, enticing, and foreboding as all Hell."
-artistMBID:
-albumMBID:
+artistMBID: 84ca8fa4-7cca-4948-a90a-cb44db29853d
+albumMBID: 16af6d23-9d40-49a6-952b-5631d4ec7981
 ---
 author: André
 

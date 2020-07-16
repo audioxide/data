@@ -29,7 +29,9 @@ summary: AOARS is an okay take on playful, skit-heavy hip-hop, but it has some l
 week: 203
 blurb: Krafty Kuts and Chali 2na seem to lack conviction on this album, never attempting anything overly exciting, content with being serviceable.
 artistMBID:
-albumMBID:
+  - 871c27c9-2121-4eb9-a072-e36a0e367642
+  - d14416ef-2283-49ef-9118-d690613d0bc9
+albumMBID: 5b058e40-25e4-4056-9123-e2315304791a
 ---
 author: Kieran
 

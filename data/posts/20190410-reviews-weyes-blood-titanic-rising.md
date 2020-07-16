@@ -28,8 +28,8 @@ pullquote: Cheesy, excellently realised pop
 summary: Titanic Rising goes above and beyond to attempt something extraordinary, and even if it doesn't quite reach those desired heights, Weyes Blood deserves serious commendation.
 week: 187
 blurb: Despite its glistening arrangements and ethereal production, this is a cheesy, yet excellently realised, pop album at heart; bold and forthright.
-artistMBID:
-albumMBID:
+artistMBID: 469d6414-1f06-43de-80d5-17762d4a356a
+albumMBID: b30447b9-8e32-4e98-a128-9c18d9378e8d
 ---
 author: André
 

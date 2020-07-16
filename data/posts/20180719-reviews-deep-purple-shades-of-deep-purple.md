@@ -27,8 +27,8 @@ pullquote: A psychedelic gateway
 summary: The sonic scenery is colourful and smoky, and the band sound like they’re having the time of their lives. It’s obvious that they were still in search of a refined sound, and whilst that comes with its degree of frustrations, the general looseness is actually rather endearing.
 week: 155
 blurb: The sonic scenery is colourful and smoky, and the band sound like they’re having the time of their lives. It's loose, but it's endearing too.
-artistMBID:
-albumMBID:
+artistMBID: 79491354-3d83-40e3-9d8e-7592d58d790a
+albumMBID: bdb083d6-be5e-32b3-97df-3d899a8ff858
 ---
 author: André
 

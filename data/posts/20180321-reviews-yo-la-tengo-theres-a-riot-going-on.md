@@ -27,8 +27,8 @@ pullquote: Murky and unmemorable
 summary: There’s a Riot Going On is neither immersive nor memorable. The sonic palette is murky and the songwriting is lax. Any time the group stumble onto a passable bass line or soothing melody they run it into the ground in some sort of slow motion indie panic.
 week: 137
 blurb: Neither immersive nor memorable. Any time the group stumble onto a passable bass line or gentle melody they run it into the ground in a slow motion indie panic.
-artistMBID:
-albumMBID:
+artistMBID: 3f542031-b054-454d-b57b-812fa2a81b11
+albumMBID: 91517369-8453-4727-899e-e0b0abacf624
 ---
 author: ANDRÉ
 

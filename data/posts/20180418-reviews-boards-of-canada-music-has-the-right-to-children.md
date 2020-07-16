@@ -28,8 +28,8 @@ pullquote: An IDM milestone
 summary: Music has the Right to Children is immaculately layered. It often seems like very little is happening, but the subtle details drive the music along. It’s constantly evolving. The rare moments of tranquility take your breath away; they feel important and momentous due to the vast textural contrast.
 week: 142
 blurb: It’s constantly evolving. The rare moments of tranquility take your breath away; they feel important and momentous due to the vast textural contrast.
-artistMBID:
-albumMBID:
+artistMBID: 69158f97-4c07-4c4e-baf8-4e4ab1ed666e
+albumMBID: 17d74d52-c92b-3b8d-9f87-218ab2d1c4a0
 ---
 author: ANDRÉ
 

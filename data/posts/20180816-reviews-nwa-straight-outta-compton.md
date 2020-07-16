@@ -27,8 +27,8 @@ pullquote: Unignorable
 summary: It has its lulls, but when Straight Outta Compton blows hot it feels unstoppable. The legacy of that underlying energy lives on in the artists N.W.A. touched. They modelled a spirit of expression impossible to ignore.
 week: 159
 blurb: It has its lulls, but when Straight Outta Compton blows hot it feels unstoppable. N.W.A. modelled a spirit of expression impossible to ignore.
-artistMBID:
-albumMBID:
+artistMBID: 3a54bffa-2314-44a2-927b-60144119c780
+albumMBID: fed1608d-80b7-38d2-aeb8-c6357f0d4c23
 ---
 author: André
 

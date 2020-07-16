@@ -27,8 +27,8 @@ pullquote: Airy tepidness
 summary: When I Get Home, unfortunately, feels like neither a continuation nor progression from its predecessor. The weightlessness of Solange’s delivery feels less the result of the near-angelic demeanour with which she sang on A Seat at the Table, and more that of sheer emptiness.
 week: 182
 blurb: When I Get Home feels like neither a continuation nor progression from its predecessor. Here Solange’s airy delivery is empty rather than angelic.
-artistMBID:
-albumMBID:
+artistMBID: 410e7fd3-b865-4fa0-bb18-1b7fd53382ca
+albumMBID: 3ec17787-1d35-4d05-ac06-5294c99a8d4e
 ---
 author: André
 

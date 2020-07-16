@@ -27,8 +27,8 @@ pullquote: An ideal debut
 summary: Björk creates her own identity by combining seemingly contrasting genres and forming something entirely unique. This was the first sign of innovation in her career, breaking the mould of what it means to be a new, exciting artist.
 week: 154
 blurb: Björk creates her own identity by combining contrasting into something entirely unique. This broke the mould of what it means to be a new, exciting artist.
-artistMBID:
-albumMBID:
+artistMBID: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
+albumMBID: 6891a28c-5865-36e2-9e5f-c9fac1d3595f
 ---
 author: ANDRÉ
 

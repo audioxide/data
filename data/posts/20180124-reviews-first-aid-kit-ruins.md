@@ -27,8 +27,8 @@ pullquote: Safe, pleasant folk
 summary: Artists can and should take their voice to different plains, but I don’t hear exploration on Ruins; I hear safety. I hear Americana in pristine studios with air conditioning. Rather than being affecting, here First Aid Kit seem to take pleasure in the staggering realisation that humans are capable of being affected by things.
 week: 129
 blurb: Artists can and should take their voice to different plains, but I don’t hear exploration on Ruins; I hear safety. I hear Americana in pristine studios with air conditioning.
-artistMBID:
-albumMBID:
+artistMBID: 373faa02-74d7-4b1d-9b47-7574ad510f8d
+albumMBID: 2db65b00-baa9-454d-b4a5-9f9e6f239cd1
 ---
 author: ANDRÉ
 

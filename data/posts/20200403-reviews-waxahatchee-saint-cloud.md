@@ -30,8 +30,8 @@ pullquote: Warm, fuzzy country
 summary: Crutchfield’s delicate vocals come through with majestic force. To witness these songs being played live in a chapel would be quite the experience. Someone should work on that.
 week: 227
 blurb: To witness these songs being played live in a chapel would be quite the experience. Someone should work on that.
-artistMBID:
-albumMBID:
+artistMBID: 42321e24-42b6-4f08-b0d9-8325ee887a20
+albumMBID: 38b46e05-894f-432a-97cb-a3a1219c14bd
 ---
 author: André
 

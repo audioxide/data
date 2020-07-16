@@ -27,8 +27,8 @@ pullquote: Grotty little oddities
 summary: It’s far from the best NIN album, but it’s probably the most crucial and downright exciting one in quite some time. This is a grubby, disheveled, and damaged album composed, produced, and arranged as such.
 week: 152
 blurb: The most downright exciting NIN album in quite some time. This is a grubby, disheveled, and damaged album composed, produced, and arranged as such.
-artistMBID:
-albumMBID:
+artistMBID: b7ffd2af-418f-4be2-bdd1-22f8b48613da
+albumMBID: a63e5fa6-d6ad-47bd-986d-4a27b0c9de70
 ---
 author: ANDRÉ
 

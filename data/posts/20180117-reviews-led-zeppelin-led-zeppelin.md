@@ -27,8 +27,8 @@ pullquote: Urgent and confident
 summary: The riffs, energy, and force of will grasp from the ’60s to the present day with the swagger of being brand new. Tapping into the bohemian change-the-world sensibilities of the era, Led Zeppelin feel like a sonic equivalent of the Beats in their indifference to the status quo and their willingness to swivel it on the tips of their middle fingers.
 week: 128
 blurb: Tapping into the bohemian sensibilities of the era, Led Zeppelin feel like a sonic equivalent of the Beats in their indifference to the status quo.
-artistMBID:
-albumMBID:
+artistMBID: 678d88b2-87b0-403b-b63d-5da7465aecc3
+albumMBID: 0f18ec88-aa87-38a9-8a65-f03d81763560
 ---
 author: Marcus
 

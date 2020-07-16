@@ -27,8 +27,8 @@ pullquote: Mesmerising electronica
 summary: This is a compact record; 30 minutes of mesmerising electronica that is both pleasingly disorientating and emotionally stirring. James strikes a balance that was previously left unfound, which results in one of the most rewarding releases in his entire catalogue of works.
 week: 133
 blurb: This is a compact record; 30 minutes of mesmerising electronica that is both pleasingly disorientating and emotionally stirring. One of the most rewarding releases in Aphex Twin's entire catalogue of works.
-artistMBID:
-albumMBID:
+artistMBID: f22942a1-6f70-4f48-866e-238cb2308fbd
+albumMBID: 84d79dbe-7ac1-3ebc-9b36-238ddfb8229c
 ---
 author: ANDRÉ
 

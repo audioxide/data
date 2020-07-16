@@ -27,8 +27,8 @@ pullquote: A smashing listen
 summary: Long-term fans will find plenty to love across the duration, and there is enough variety to entice listeners who are unfamiliar with Segall’s work. Despite its shortcomings, you couldn’t feasibly accuse the record of being dull, as it flicks from freeform jazz to sizzling garage-rock without any hesitancy. It’s captivating and close to being fantastic.
 week: 130
 blurb: To an extent Freedom’s Goblin is a victim of its own ambition and of Segall’s protean talent. A laudable amount of ground is covered, but the album’s identity fails to click into place as a whole.
-artistMBID:
-albumMBID:
+artistMBID: 07a17571-81fc-4cf8-a634-98f0d926d313
+albumMBID: b413f67f-a68b-48d7-8b33-abbc09e9f763
 ---
 author: ANDRÉ
 

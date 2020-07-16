@@ -27,8 +27,8 @@ pullquote: Restless and prickly
 summary: It may not be the best in its class, but Toxicity still has a charm to it. With several stand-out tracks and variations that set it apart from the pack, the record is a worthwhile listen for a turn of the century flavour of metal.
 week: 173
 blurb: It may not be the best in its class, but Toxicity still has a charm to it. The record is a worthwhile listen for turn of the century flavour metal.
-artistMBID:
-albumMBID:
+artistMBID: cc0b7089-c08d-4c10-b6b0-873582c17fd6
+albumMBID: f50fbcb4-bfcd-3784-b4c9-44f4793e66b2
 ---
 author: André
 

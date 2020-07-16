@@ -27,8 +27,8 @@ pullquote: Sweltering Summer rap
 summary: "ZUU is a tour de force in the bait and switch: for every blunt or cliched element across its 30-minute runtime there’s an immediate follow-up that borders on genius. I’d argue that Denzel Curry even crosses that border every so often."
 week: 195
 blurb: The heated, high-tempered attitude that Curry carried on 2018's TA13OO has been replaced by a less hostile outlook. ZUU is a fun ride.
-artistMBID:
-albumMBID:
+artistMBID: 5f95440d-7737-4a36-9bcf-c05337f7129b
+albumMBID: 03961b3f-23aa-4331-91dc-5598a3f3b0e6
 ---
 author: André
 

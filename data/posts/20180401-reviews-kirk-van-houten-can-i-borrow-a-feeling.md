@@ -28,8 +28,8 @@ pullquote: Profoundly personal
 summary: Van Houten’s first and only studio album is flawed, for sure, but it’s also profoundly personal. The songwriting is ordinary, the production is rather unpleasant, yet there’s a certain charm to the whole affair. After 20+ years of mockery, I feel the album’s reputation is a little unwarranted.
 week: 139
 blurb: Van Houten’s first and only studio album is flawed, for sure, but also profoundly personal. After 20+ years of mockery its reputation seems a tad unwarranted.
-artistMBID:
-albumMBID:
+artistMBID: 951bcda0-9a2f-4a94-a266-f494ff347fd8
+albumMBID: ca7e6f59-67c2-4beb-ad75-df2393cfc23a
 ---
 author: ANDRÉ
 

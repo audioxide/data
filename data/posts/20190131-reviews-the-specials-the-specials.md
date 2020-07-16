@@ -28,8 +28,8 @@ pullquote: Raucous and stylish
 summary: There is plenty of anger in The Specials, but it is used in service of its songwriting. At a time when much music seemed obsessed with rejection, The Specials were bold enough — and talented enough — to provide affirmation.
 week: 177
 blurb: There is plenty of anger in the album, but it is used constructively. At a time when much music was obsessed with rejection, The Specials gave affirmation.
-artistMBID:
-albumMBID:
+artistMBID: 07eb40a2-2914-439c-a01d-15a685b84ddf
+albumMBID: 9c02ca99-df9a-3e48-8b7a-fabb599d19a3
 ---
 author: Marcus
 

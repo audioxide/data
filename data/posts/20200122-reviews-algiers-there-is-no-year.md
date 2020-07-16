@@ -27,8 +27,8 @@ pullquote: "Mood: mood"
 summary: Following 2017’s brutally beautiful Underside of Power, There is No Year feels light in comparison, and even slightly unfinished. A record full to the brim, bursting with potential for something greater than what it ultimately settles for.
 week: 218
 blurb: Throughout much of its run-time, There is No Year seems content revelling in its own (admittedly awe-inspiring) ambience.
-artistMBID:
-albumMBID:
+artistMBID: 258e8672-1db1-469a-a505-00a42aaf0973
+albumMBID: dcfb7546-d9b4-4e12-9ba2-95fda90a52d6
 ---
 author: André
 
@@ -81,7 +81,7 @@ tracks:
   - Hour of the Furnaces
   - ­­Dispossession
   - ­­Losing Is Ours
-  
+
 score:
   score: 5
   max: 10

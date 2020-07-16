@@ -27,8 +27,8 @@ pullquote: Synthetic luxury
 summary: Plastic Beach’s finest moments sound, appropriately, like synthetic luxury. It’s buoyant and aspirational, feeling like a release of tension after the comparative harshness of Demon Days.
 week: 223
 blurb: Classic Gorillaz. Buoyant and aspirational, the project feels like a release of tension after the comparative harshness of Demon Days.
-artistMBID:
-albumMBID:
+artistMBID: e21857d5-3256-4547-afb3-4b6ded592596
+albumMBID: 5a676824-18cd-4f7f-89f0-df21623e2042
 ---
 author: André
 
@@ -89,7 +89,7 @@ tracks:
   - Plastic Beach
   - ­­Sweepstakes
   - ­­Empire Ants
-  
+
 score:
   score: 8
   max: 10

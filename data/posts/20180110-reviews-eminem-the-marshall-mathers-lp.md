@@ -27,8 +27,8 @@ pullquote: Essential hip-hop
 summary: The Marshall Mathers LP is Eminem’s finest accomplishment, but it’s too maniacal to be branded a masterpiece. It succeeds as a surreal yet brilliant expansion of his debut, constantly hovering over the line between reality and the abstract.
 week: 127
 blurb:
-artistMBID:
-albumMBID:
+artistMBID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+albumMBID: b0fa91c8-0996-38f1-ab84-797f58d7c4eb
 ---
 author: ANDRÉ
 

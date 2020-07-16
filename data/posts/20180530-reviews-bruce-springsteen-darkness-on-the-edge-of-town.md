@@ -27,8 +27,8 @@ pullquote: All-American cheese
 summary: Springsteen’s music has such an up-front quality to it. There’s no pretence, especially in Darkness on the Edge of Town. Here stands an honest-to-god ‘Murican wailing about everything from young love to the plight of the working classes; take it or leave it.
 week: 148
 blurb: There’s no pretence. Here stands an honest-to-god ‘Murican wailing about everything from young love to the plight of the working classes; take it or leave it.
-artistMBID:
-albumMBID:
+artistMBID: 70248960-cb53-4ea4-943a-edb18f7d336f
+albumMBID: b613123b-a234-3f48-9c45-e05bf4e6b9e7
 ---
 author: ANDRÉ
 

@@ -6,7 +6,7 @@ type: reviews
 tags:
   - 2010s
   - "21"
-  - janelle monáe
+  - janelle monae
 featuredimage: album-artwork/dirty-computer-janelle-monae.jpg
 artist: Janelle Monáe
 album: Dirty Computer
@@ -27,8 +27,8 @@ pullquote: Stylish protest pop
 summary: As enjoyable as Dirty Computer is, it’s far from perfect, and some of the trap-tinged beats will likely sound redundant in a few years. The flaws are minute in comparison to the extreme and euphoric highs, however, and when all is said and done, this is likely the record that makes Janelle Monáe a superstar.
 week: 144
 blurb: As enjoyable, sometimes euphoric, as Dirty Computer is, it’s far from perfect. Some of the trap-tinged beats will likely sound redundant in a few years.
-artistMBID:
-albumMBID:
+artistMBID: ee190f6b-7d98-43ec-b924-da5f8018eca0
+albumMBID: c3b6435c-2698-4909-9879-d80439e180fe
 ---
 author: ANDRÉ
 review: >-

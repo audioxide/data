@@ -27,8 +27,8 @@ pullquote: Muggy and sorrowful
 summary: The aura of each composition is beautiful, yet there's also the aching feeling of something missing. Ghosteen is quite stunning as an overall entitity. However, without specific songs standing out, it's surprisingly forgettable.
 week: 211
 blurb: The aura of each composition is beautiful, yet there's also the aching feeling of something missing. Stunning, and yet also oddly forgettable.
-artistMBID:
-albumMBID:
+artistMBID: 172e1f1a-504d-4488-b053-6344ba63e6d0
+albumMBID: 99fc75a4-3ff2-4248-9ae2-65d7026c7296
 ---
 author: André
 
@@ -86,7 +86,7 @@ tracks:
   - Bright Horses
   - ­­Night Raid
   - ­­Sun Forest
-  
+
 score:
   score: 6
   max: 10

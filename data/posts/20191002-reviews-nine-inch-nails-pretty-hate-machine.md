@@ -27,8 +27,8 @@ pullquote: Baby Trent Reznor
 summary: Nine Inch Nails rapidly became renowned for emotive and affecting music. Pretty Hate Machine contains all of these qualities, albeit in anxious tidbits.
 week: 210
 blurb: Nine Inch Nails rapidly became renowned for emotive and affecting music. Pretty Hate Machine contains those qualities, albeit in anxious tidbits.
-artistMBID:
-albumMBID:
+artistMBID: b7ffd2af-418f-4be2-bdd1-22f8b48613da
+albumMBID: fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6
 ---
 author: André
 
@@ -87,7 +87,7 @@ tracks:
   - Head Like A Hole
   - ­­Kinda I Want To
   - ­­Get Down, Make Love
-  
+
 score:
   score: 6
   max: 10

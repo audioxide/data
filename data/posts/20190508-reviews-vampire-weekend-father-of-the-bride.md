@@ -27,8 +27,8 @@ pullquote: Google music
 summary: The songwriting, performances and production are all top notch. But my word is it sterile. The majority of these songs wouldn't feel out of place in an advert for Google, such is the clinical nature of their formation.
 week: 191
 blurb: Catchy and sterile. The majority of these songs wouldn't feel out of place in an advert for Google, such is the clinical nature of their formation.
-artistMBID:
-albumMBID:
+artistMBID: af37c51c-0790-4a29-b995-456f98a6b8c9
+albumMBID: 1e083685-2e58-40eb-81ef-4163c26e01d6
 ---
 author: André
 

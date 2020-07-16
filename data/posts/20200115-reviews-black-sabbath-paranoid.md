@@ -27,8 +27,8 @@ pullquote: Pioneering metal
 summary: As far as straight up heavy metal goes, I think Black Sabbath's Paranoid is one of the very best. It's very sincere and reliably silly. And when it rocks, it fucking rocks.
 week: 217
 blurb: As far as straight up heavy metal goes, Black Sabbath's Paranoid is one of the very best. It's very sincere and reliably silly.
-artistMBID:
-albumMBID:
+artistMBID: 5182c1d9-c7d2-4dad-afa0-ccfeada921a8
+albumMBID: cc053745-c447-3566-8f27-bed5438c9133
 ---
 author: André
 
@@ -85,7 +85,7 @@ tracks:
   - Iron Man
   - ­­Paranoid
   - ­­Planet Caravan
-  
+
 score:
   score: 8
   max: 10

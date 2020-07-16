@@ -27,8 +27,8 @@ pullquote: Unkempt, kooky, and completely at ease
 summary: "The record feels intentionally eroded: instrumentals strike upon funky yet claustrophobic grooves, awaiting Barrow’s vocals to emerge from the mire. It’s a weird but often wonderful formula."
 week: 65
 blurb: Instrumentals strike upon funky-yet-claustrophobic grooves, awaiting Barrow’s vocals to emerge from the mire. It’s a weird but often wonderful formula.
-artistMBID:
-albumMBID:
+artistMBID: bda0beab-8c08-4a34-9af0-97a1b647ad9b
+albumMBID: ce6461b2-8393-422a-8caa-5515d02b3bf8
 ---
 author: André
 
