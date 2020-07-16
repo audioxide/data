@@ -27,8 +27,8 @@ pullquote: Radio-friendly pop rock
 summary: While the riffs and breakdowns are charging, raucous, and spine-tingling, the lyrics fall apart if you look too closely at them, and the range of influences can often be distracting. It’s hard to concentrate wholly on the band’s vision when you’re busy wondering which Garbage track they’re reminding you of.
 week: 135
 blurb:
-artistMBID:
-albumMBID:
+artistMBID: a8397de0-fe98-42db-bf19-c26b99ead138
+albumMBID: 05bd1e3b-f355-4c1c-af93-c9e84f50f1f7
 ---
 author: Marcus
 

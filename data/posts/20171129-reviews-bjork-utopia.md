@@ -28,8 +28,8 @@ pullquote: Meandering beauty
 summary: The world Björk has designed is an irrefutable wonder - I’m just not given a reason to explore it. The record is scattered with gorgeous moments that ultimately feel like a tease. Utopia occasionally grips its claws in, only to let go seconds later.
 week: 126
 blurb: The record is scattered with gorgeous moments that ultimately feel like a tease. Utopia occasionally grips its claws in, only to let go seconds later.
-artistMBID:
-albumMBID:
+artistMBID: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
+albumMBID: c137e1f0-00bf-4bee-8d69-631664b52d1f
 ---
 author: ANDRE
 

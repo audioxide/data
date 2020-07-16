@@ -27,8 +27,8 @@ pullquote: Lost in space
 summary: This is the first Spiritualized album in six years, so I’m left wondering why it feels like the product of artistic saturation. It’s certainly cohesive, and there are some gorgeous moments, but it ultimately winds up being forgettable.
 week: 163
 blurb: This is the first Spiritualized album in six years, so it's bizarre to hear something that sounds like the product of artistic saturation.
-artistMBID:
-albumMBID:
+artistMBID: 65041e06-83d2-4987-ae52-c17a915fc82a
+albumMBID: bd913f09-b4bd-4d2f-a5ad-2c2d01419e23
 ---
 author: André
 

@@ -27,8 +27,8 @@ pullquote: Spooky theatre
 summary: The arrangements are expansive and diverse, with coarse guitars blending between the lines of timpani, bells, piano, and organ. Lots of organ. The Bad Seeds set a perfect scene for Cave's poignant poetry.
 week: 190
 blurb: The arrangements are expansive and diverse, with coarse guitars blending between the lines of timpani, bells, piano, and organ. Lots of organ.
-artistMBID:
-albumMBID:
+artistMBID: 172e1f1a-504d-4488-b053-6344ba63e6d0
+albumMBID: f369d4bf-71f1-31f5-9e01-ffdbf15acdbe
 ---
 author: Andre
 

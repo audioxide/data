@@ -27,8 +27,8 @@ pullquote: Worldly whimsy
 summary: An exhibition of seemingly boundless creativity, each track distinct, original, and memorable. Despite the liveliness, the album has a consistent thread of lounge-esque chill throughout — sit back and relax, you’re in the best of hands.
 week: 172
 blurb: Midnight Marauders’ tracklist is an exhibition of seemingly boundless creativity, each track distinct, original, and memorable.
-artistMBID:
-albumMBID:
+artistMBID: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
+albumMBID: b445860f-edd9-4160-841c-fccf5533ecbd
 ---
 author: Marcus
 

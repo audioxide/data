@@ -27,8 +27,8 @@ pullquote: The '90s aggregated
 summary: Psyence Fiction attempts to be the sonic equivalent of the visual cinema experience — a lofty ambition, but UNKLE give it a bloody good go. It’s not quite the epic statement that Shadow and Lavelle so wished it to be, but it remains a fine achievement, though faintly undercooked.
 week: 157
 blurb: Psyence Fiction attempts to be the sonic equivalent of the visual cinema experience — a lofty ambition, but UNKLE give it a bloody good go.
-artistMBID:
-albumMBID:
+artistMBID: 6648391e-7890-4f6c-b939-976f215195d3
+albumMBID: 17027712-7707-3791-ab65-5320e5ebe501
 ---
 author: André
 

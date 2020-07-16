@@ -27,8 +27,8 @@ pullquote: A creative dawn
 summary: A defiant record. Turning its back not only on the college path, but the tropes of gangster rap as well, The College Dropout dares to be different in weird, supremely catchy ways. The record is more measured than his later work, but there’s still plenty of nuttiness.
 week: 180
 blurb: Turning its back not only on the college path, but tropes of gangster rap as well, The College Dropout dares to be different in weird, supremely catchy ways.
-artistMBID:
-albumMBID:
+artistMBID: 164f0d73-1234-4e2c-8743-d77bf2191051
+albumMBID: 8a01217e-6947-3927-a39b-6691104694f1
 ---
 author: André
 

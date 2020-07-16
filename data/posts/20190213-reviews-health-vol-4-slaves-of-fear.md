@@ -27,8 +27,8 @@ pullquote: Concept over execution
 summary: HEALTH have continued their trend of making exhilarating music, but something feels slightly off this time round. The departure of founding member Jupiter Keyes has likely played a major part, though its Jacob Duzsik's faint whines that proves to be the most underwhelming aspect.
 week: 179
 blurb: HEALTH have continued their trend of making exhilarating music, but something feels off this time round. A record this polished shouldn't feel so flat.
-artistMBID:
-albumMBID:
+artistMBID: 6805e4d5-f550-40fe-b731-05dc8229e74b
+albumMBID: f3f9294f-bc21-4b25-b421-d2486d131f42
 ---
 author: André
 

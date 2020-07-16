@@ -28,8 +28,8 @@ pullquote: High common art
 summary: Pulp nail the pop/rock formula to near perfection, and the result is so utterly listenable, albeit in a very British manner. The themes of Different Class aren’t necessarily cheerful — in fact they’re mostly very cynical — yet the album sounds like a celebration from beginning to end.
 week: 150
 blurb: Pulp nail the pop/rock formula to near perfection. The themes aren’t necessarily cheerful, yet the album sounds like a celebration from beginning to end.
-artistMBID:
-albumMBID:
+artistMBID: 76b2e842-5e85-4c97-ab62-d5bc315595b5
+albumMBID: 88f69eab-8f07-343b-847c-b944ad33dfcf
 ---
 author: ANDRÉ
 

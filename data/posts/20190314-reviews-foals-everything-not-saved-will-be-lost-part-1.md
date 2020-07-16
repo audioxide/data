@@ -27,8 +27,8 @@ pullquote: Orchestral and funky
 summary: Foals’ experimentation with synths and funky instrumentals is bold, often promising, but the pieces never quite fall together. This listens like (part one of) an ambitious project that gets away from itself. Disparate elements are pulled together lovingly, but certainly not seamlessly.
 week: 183
 blurb: Foals’ experimentation with synths and funky instrumentals is bold, often promising, but the pieces never quite fall together.
-artistMBID:
-albumMBID:
+artistMBID: 6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
+albumMBID: ebbf6f7c-a843-4de9-96b7-5081dce485c7
 ---
 author: Gabriel
 

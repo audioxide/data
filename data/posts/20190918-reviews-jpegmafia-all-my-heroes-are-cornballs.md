@@ -27,8 +27,8 @@ pullquote: Lush lunacy
 summary: There's a glaring sense of lunacy throughout. It's as though JPEGMAFIA is snapping between multiple identities. I actually find the madness quite soothing, though I'm not really sure how or why.
 week: 208
 blurb: There's a glaring sense of lunacy throughout. It's as though JPEGMAFIA is snapping between multiple identities, and yet still manages to be soothing.
-artistMBID:
-albumMBID:
+artistMBID: c42e60f4-4520-4954-b6e4-82bbdf532c11
+albumMBID: c35a4a3f-d584-42fc-ac0f-b9592aedd3b2
 ---
 author: André
 

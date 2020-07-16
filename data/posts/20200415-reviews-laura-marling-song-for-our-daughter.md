@@ -33,8 +33,8 @@ pullquote: A Marling masterclass
 summary: Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, the album is an often sublime Marling masterclass.
 week: 229
 blurb:
-artistMBID:
-albumMBID:
+artistMBID: cd9713d6-6e5f-4143-9412-4d12b7bd47f2
+albumMBID: 95335b28-967c-49a2-bbc1-952c9fd0fb58
 
 ---
 author: André

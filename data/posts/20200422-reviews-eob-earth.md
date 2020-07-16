@@ -32,8 +32,8 @@ pullquote: An album by a guitarist from Radiohead
 summary: Solo material from a band as prolific as Radiohead can go one of two ways, and for EOB it contributes towards the impression that the band is greater than the sum of its parts.
 week: 230
 blurb: Solo material from a band as prolific as Radiohead can go one of two ways. Here it leaves the impression the band is greater than the sum of its parts.
-artistMBID:
-albumMBID:
+artistMBID: 9ae93352-6da7-4efb-abb2-e43ef51acb25
+albumMBID: 43b0dee9-2952-41ad-a43a-d35d06900603
 ---
 author: André
 

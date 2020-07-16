@@ -27,8 +27,8 @@ pullquote: Ethereal, cavernous
 summary: While much of the tracklist doesn't feel as though it explores its ideas far enough, its highlights go a long way to make up for it. It's easy to see why some regard this as Khan's best work, but it isn't without its missteps.
 week: 184
 blurb: While much of the Two Sun's tracklist doesn't feel as though it explores its ideas far enough, its highlights go a long way to make up for it.
-artistMBID:
-albumMBID:
+artistMBID: 10000730-525f-4ed5-aaa8-92888f060f5f
+albumMBID: d4952445-d143-35a1-8420-d73cc78c668f
 ---
 author: André
 

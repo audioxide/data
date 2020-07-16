@@ -27,8 +27,8 @@ pullquote: Rain and thunder
 summary: Pretty much everything about Unknown Pleasures was, and continues to be, a total fucking triumph in cathartic misery. It's reassuring that a record so emotionally detached and theatrically passionate can still inspire music listeners in 2020.
 week: 220
 blurb: Pretty much everything about Unknown Pleasures was, and continues to be, a total fucking triumph in cathartic misery.
-artistMBID:
-albumMBID:
+artistMBID: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+albumMBID: 42352def-1aab-3000-b548-895ebd869cb6
 ---
 author: André
 
@@ -87,7 +87,7 @@ tracks:
   - Interzone
   - ­­She’s Lost Control
   - ­­Shadowplay
-  
+
 score:
   score: 6
   max: 10

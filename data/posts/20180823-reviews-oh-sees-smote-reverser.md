@@ -27,8 +27,8 @@ pullquote: Filter-free
 summary: If you can tap into Oh Sees' frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
 week: 160
 blurb: If you can tap into Oh Sees' frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though.
-artistMBID:
-albumMBID:
+artistMBID: 194272cc-dcc8-4640-a4a6-66da7d250d5c
+albumMBID: b2cb65f0-2e0f-47cb-aff7-0f6793990e45
 ---
 author: Marcus
 

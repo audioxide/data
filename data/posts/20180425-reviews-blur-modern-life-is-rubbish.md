@@ -28,8 +28,8 @@ pullquote: Cockney vaudeville
 summary: The album doesn’t justify its length, and the consistency in both its instrumentation and its production borders on repetitive. That being said, there’s a lot to like if you dig the general sound. The songwriting is hard to knock, and Damon Albarn leads the pack well with his social satires and cutting commentary.
 week: 143
 blurb: Inconsistent, but there's a lot to dig. The songwriting is hard to knock, and Damon Albarn leads the pack well with his social satires and cutting commentary.
-artistMBID:
-albumMBID:
+artistMBID: ba853904-ae25-4ebb-89d6-c44cfbd71bd2
+albumMBID: e7affd78-d157-4772-a468-675fa4309c61
 ---
 author: ANDRÉ
 

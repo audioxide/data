@@ -27,8 +27,8 @@ pullquote: Chummy sleaze
 summary: Whilst I did expect a caustic, mocking tone, I did not foresee a package so pristinely produced. There’s a lot to be said for the album's quirks, but when all is said and done, This Nation’s Saving Grace is in fact a great album in its own musical right.
 week: 131
 blurb: There’s a lot to be said for the album's quirks, but when all is said and done, This Nation’s Saving Grace is in fact a great album in its own musical right.
-artistMBID:
-albumMBID:
+artistMBID: d5da1841-9bc8-4813-9f89-11098090148e
+albumMBID: e163ed54-842b-3114-9e98-a2d376029abd
 ---
 author: ANDRÉ
 

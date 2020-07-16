@@ -27,8 +27,8 @@ pullquote: Ridiculously groovy
 summary: In a lot of ways I love this album. But stood in a row with its successors I can’t help but see it as inferior for the lack of arrogant boundary warping, or the self-assured, unrepentant coolness with which every other album has been delivered.
 week: 167
 blurb: QOTSA’s debut serves as a glimpse into their career as princesses, before being made queens. There's always time for good ol’ sleazy rock’n’roll.
-artistMBID:
-albumMBID:
+artistMBID: 7dc8f5bd-9d0b-4087-9f73-dc164950bbd8
+albumMBID: 17ee0d7f-4a9d-317f-a0b0-8ca528a34b19
 ---
 author: André
 

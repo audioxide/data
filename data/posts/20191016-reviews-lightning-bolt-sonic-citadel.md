@@ -27,8 +27,8 @@ pullquote: Grubby and monotonous
 summary: I have it on good authority that this duo is formed of stellar talent, and by all accounts their live performances burst with energy. But Sonic Citadel sticks around for too long on the same idea for the effect to carry over here.
 week: 212
 blurb: Sonic Citadel leans into the grubby, raw, jam-like nature of the duo's live performances, records it, and calls it a day. It's like a whirring motorcycle.
-artistMBID:
-albumMBID:
+artistMBID: 978a36f7-85c6-44ca-a02e-7564e8fa8284
+albumMBID: e15e37de-2462-48fa-9f81-e512eb24fb12
 ---
 author: André
 
@@ -75,7 +75,7 @@ review: >-
   Two tracks surprised me, however. “Don Henley in the Park” breezes out of nowhere, and while it’s far more to my liking, it’s so out of place it’d be grating if it weren’t for the rest of the album overshadowing it. I wouldn’t expect more of this kind of thing from the duo, but it certainly made for a nice change of pace and respite from all that surrounded it. “All Insane” also made for a breath of fresh air, featuring structure, a noisy but well-placed bass and intelligible vocals and drums, it’s a scrappy rock track.
 
   Ultimately, attempting to provide an opinion on a genre of music I’m not familiar with is always going to end badly and lead to off the mark opinions. But from what I’ve seen of Lightning Bolt and their contemporaries, I still don’t think *Sonic Citadel* is the best in class. They’re clearly an excellent, talented live outfit, but this album appears to be an attempt at recreating that atmosphere and it simply hasn’t worked. I’ll certainly remember this album, but it’ll likely be as an album that left me apathetic, irritable, and bored.
-  
+
 tracks:
   - Don Henley in the Park
   - ­­All Insane

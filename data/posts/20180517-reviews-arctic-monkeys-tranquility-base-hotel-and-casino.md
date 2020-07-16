@@ -27,8 +27,8 @@ pullquote: A stepping stone
 summary: Hushed, husky Turner monologues drift over sophisticated arrangements with retro sheens, the whole affair playing out at strolling pace, as if basking in the seedy buzz of a make-believe underworld.
 week: 146
 blurb: Hushed, husky Turner monologues drift over sophisticated arrangements with retro sheens. The whole show basks in the seedy buzz of a make-believe underworld.
-artistMBID:
-albumMBID:
+artistMBID: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
+albumMBID: 97ee3a0f-183b-4830-aa5c-45507a084d37
 ---
 author: ANDRÉ
 

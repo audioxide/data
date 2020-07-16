@@ -27,8 +27,8 @@ pullquote: Straggling metal
 summary: While I can appreciate a slow build, a rolling riff, and an expansive soundscape, I don't feel like that's what I'm getting here. For the most part, I find boredom and frustration during the 90-minute playtime.
 week: 206
 blurb: While we can all appreciate a slow build, a rolling riff, and an expansive soundscape, TOOL's 90-minute non-epic leaves much to be desired.
-artistMBID:
-albumMBID:
+artistMBID: 66fc5bf8-daa4-4241-b378-9bc9077939d2
+albumMBID: 76203bd0-466b-4802-a7ca-9b0097a3f862
 ---
 author: André
 

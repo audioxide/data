@@ -27,8 +27,8 @@ pullquote: Borderline delirious
 summary: Those expecting a Blackstar will be disappointed. American Utopia is far too playful for that, for better and for worse. The record isn’t a masterclass, but there are still enough dashes of genius to make it one of the stronger releases of the year. A reason to be cheerful? Certainly.
 week: 136
 blurb: Those expecting a Blackstar will be disappointed. American Utopia is far too playful for that, for better and for worse. The record isn’t a masterclass, but there are still enough dashes of genius to make it one of the strongest releases of the year.
-artistMBID:
-albumMBID:
+artistMBID: d4659efb-b8eb-4f03-95e9-f69ce35967a9
+albumMBID: 3e7a3cd4-fb2c-40e8-b093-eaffe8c9cfdd
 ---
 author: ANDRÉ
 

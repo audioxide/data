@@ -29,8 +29,8 @@ pullquote: Tangled art pop
 summary: MAGDALENE strives for an understated pop epic, yet this is a curious contradiction in itself. For all its instances of greatness and undeniable beauty, the record gets tangled in its own aspirations.
 week: 216
 blurb: ""
-artistMBID:
-albumMBID:
+artistMBID: 1e4e9db7-5068-4a9c-bdd0-5777e47172c8
+albumMBID: 5d78819e-18b5-4d1a-a286-d816ce868044
 ---
 author: André
 
@@ -81,7 +81,7 @@ tracks:
   - mary magdalene
   - ­­fallen alien
   - ­­sad day
-  
+
 score:
   score: 6
   max: 10

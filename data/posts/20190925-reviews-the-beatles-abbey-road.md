@@ -28,8 +28,8 @@ pullquote: The last word
 summary: The last word of a band with nothing left to prove, and it sounds like it. Exceptional without being seminal, the record is not a high watermark, but then it didn’t need to be.
 week: 209
 blurb: The last word of a band with nothing left to prove, and it sounds like it. Exceptional without being seminal, but with some truly classic songs.
-artistMBID:
-albumMBID:
+artistMBID: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
+albumMBID: 9162580e-5df4-32de-80cc-f45a8d8a9b1d
 ---
 author: Gabriel
 
@@ -92,7 +92,7 @@ tracks:
   - Here Comes the Sun
   - ­­I Want You (She’s So Heavy)
   - ­­Something
-  
+
 score:
   score: 8
   max: 10

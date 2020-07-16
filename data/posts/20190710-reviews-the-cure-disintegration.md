@@ -27,8 +27,8 @@ pullquote: Frankenstein in a dinner jacket
 summary: Creating a distinctive, ethereal sound that feels suitably of its time, there are some cracking moments to be had here. While I do grow weary of it towards the end, there's certainly nothing bad here. An excellent album that's stood the test of time.
 week: 200
 blurb: It’s like Frankenstein in a dinner jacket. Gothic synth rock sounds like a recipe for disaster, but it sounds delicious when The Cure does it.
-artistMBID:
-albumMBID:
+artistMBID: 69ee3720-a7cb-4402-b48d-a02c366f2bcf
+albumMBID: 494bf606-d2f7-36d0-8340-eadad8601d2b
 ---
 author: André
 

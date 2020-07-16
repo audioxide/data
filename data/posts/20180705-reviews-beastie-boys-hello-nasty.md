@@ -27,8 +27,8 @@ pullquote: A true party album
 summary: Whether the Beasties are rapping or singing, an infectious adolescent vigour radiates throughout. 20 years on and that energy has rarely been replicated. Hello Nasty has been hailed as a great hip-hop album, but I'd sooner call it a great party album.
 week: 153
 blurb: Whether the Beasties are rapping or singing, an infectious adolescent vigour radiates throughout. 20 years on and that energy has rarely been replicated.
-artistMBID:
-albumMBID:
+artistMBID: 9beb62b2-88db-4cea-801e-162cd344ee53
+albumMBID: 96c996ab-2a78-3abd-8974-c96b5724ae28
 ---
 author: ANDRÉ
 

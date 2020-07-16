@@ -27,8 +27,8 @@ pullquote: An alt-metal epic
 summary: Substandard mixing and monotonous vocals hints at a lack of finesse that restricts Gold & Grey to being a good album rather than a great one. The concept deserves admiration, and the songwriting is satisfying on the whole, but it’s missing the finishing touch.
 week: 197
 blurb: Gold & Grey strives to be an epic of sorts, with its sprawling tracklist and adventurous sonic deviations. Despite some frustrations, it largely succeeds.
-artistMBID:
-albumMBID:
+artistMBID: eeb41a1e-4326-4d04-8c47-0f564ceecd68
+albumMBID: 95d5e345-5109-4fe9-9ba9-03a3898f0039
 ---
 author: André
 

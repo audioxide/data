@@ -27,8 +27,8 @@ pullquote: Renaissance art dipped in crazy
 summary: Nothing here feels heavy-handed or crass. OPN purposefully avoids the tired tropes of electronic music, which always results in at least a degree of fascination. Age Of is a little unfocused at times, but it’s too intriguing for that to ever be a problem.
 week: 149
 blurb: Nothing feels heavy-handed or crass. OPN purposefully avoids the tired tropes of electronic music, which always results in at least a degree of fascination.
-artistMBID:
-albumMBID:
+artistMBID: 9cea062d-d476-447f-98b4-e67e14bfd1e4
+albumMBID: a7165142-0c5d-4859-825e-7858a22e2dd2
 ---
 author: ANDRÉ
 

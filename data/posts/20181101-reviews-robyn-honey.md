@@ -28,8 +28,8 @@ pullquote: Downtempo sensuality
 summary: From the lush, low-key title track to the gentle pleading of “Baby Forgive Me”, Honey delights in a downtempo sensuality. It finds voice in not being larger than life, delving instead into the deeply personal.
 week: 170
 blurb: Honey delights in a downtempo sensuality. It finds voice in not being larger than life, delving instead into the deeply personal.
-artistMBID:
-albumMBID:
+artistMBID: 5a8e07d5-d932-4484-a7f7-e700793a9c94
+albumMBID: 6f46d5e4-1e46-4480-b120-d04b37145f7f
 ---
 author: André
 

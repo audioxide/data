@@ -27,8 +27,8 @@ pullquote: Crunchy, solid, forgettable
 summary: Strange Creatures is a solid entry into the band's catalogue and certainly worth a listen. As to whether it'll stick around until the end of the year? I'm a lot less sure.
 week: 186
 blurb: A solid entry into the band's catalogue and certainly worth a listen. As to whether it'll stick around until the end of the year? I'm a lot less sure.
-artistMBID:
-albumMBID:
+artistMBID: b7f40a7c-0b93-45ad-9ae3-3bf6e28e9dd4
+albumMBID: bc507359-dc61-49cb-9073-456ff9d5be8b
 ---
 author: Gabriel
 

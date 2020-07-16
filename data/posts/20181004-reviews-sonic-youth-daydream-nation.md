@@ -27,8 +27,8 @@ pullquote: Anti-epic
 summary: From the unravelled instrumentals to the tongue-in-cheek packaging, it’s a kind of anti-epic; 70 minutes of exploratory rock with a flagrant disregard for pacing or commercial viability.
 week: 166
 blurb: Noisy and arty, the album remains a kind of anti-epic; 70 minutes of exploratory rock with a flagrant disregard for pacing or commercial viability.
-artistMBID:
-albumMBID:
+artistMBID: 5cbef01b-cc35-4f52-af7b-d0df0c4f61b9
+albumMBID: 24769a99-8189-3d8c-947e-dbc8574dad5c
 ---
 author: André
 

@@ -27,8 +27,8 @@ pullquote: An expansive ramble
 summary: The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind. The mix colours all this perfectly. Vile's explorations deserve an expansive setting, and they get one.
 week: 168
 blurb: The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind.
-artistMBID:
-albumMBID:
+artistMBID: e07a111e-4e8a-4651-a849-01ac60551ab2
+albumMBID: 2497ecd5-22e0-495b-a35c-cd3079c5b4ff
 ---
 author: André
 

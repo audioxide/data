@@ -27,8 +27,8 @@ pullquote: Unadulterated flow
 summary: Given the melancholic tone, it's amazing just how easy and enjoyable it is to listen to. Things Fall Apart is a fluid, continuous listen; understated to the point of being an excellent backdrop, which is both a blessing and a curse.
 week: 178
 blurb: "Things Fall Apart is a fluid, continuous listen: understated to the point of being an excellent backdrop, which is both a blessing and a curse."
-artistMBID:
-albumMBID:
+artistMBID: 80b3cf5e-18fe-4c59-98c7-e5bb87210710
+albumMBID: 8f341430-85b9-3a66-875f-ed1202868393
 ---
 author: André
 

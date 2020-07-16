@@ -27,8 +27,8 @@ pullquote: A glimpse of the Swinging Sixties
 summary: Blues, psychedelia, jazz, and gospel are all deeply ingrained in at least some part of Let It Bleed, and while this is still a rock record, the key to its success is the wide influences that give each track a flavour of its own.
 week: 174
 blurb: Blues, psychedelia, jazz, and gospel are all deeply ingrained in the music. This is a rock record, but every track has a flavour of its own.
-artistMBID:
-albumMBID:
+artistMBID: b071f9fa-14b0-4217-8e97-eb41da73f598
+albumMBID: 784c0edd-0f37-33a2-9ca5-dff87b4f999c
 ---
 author: André
 

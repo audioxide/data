@@ -27,8 +27,8 @@ pullquote: Meditative and self-limiting
 summary: Broken Politics projects a great deal of wisdom with tremendous humility and sincerity. It's a low-key listen that will resonate with some, whilst leaving others slightly underwhelmed.
 week: 169
 blurb: For every moment of serenity there's a feeling of incompleteness, and the result is an album that's sadly unmemorable.
-artistMBID:
-albumMBID:
+artistMBID: 527c65d1-9fdb-4482-8796-dde2980bd63a
+albumMBID: 2fda0cd0-db31-4448-81f6-4979b5192077
 ---
 author: André
 

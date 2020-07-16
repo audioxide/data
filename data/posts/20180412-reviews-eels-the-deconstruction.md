@@ -27,8 +27,8 @@ pullquote: Radio E frequency
 summary: E’s songwriting has found fresh form. His songs, and the immaculate production that goes with them, can be predictable, but they’re almost always worth it in the end. I can’t imagine anyone other than E writing something like “Sweet Scorched Earth”, which is the closest we’ve come to an Eels ‘classic’ in quite some time.
 week: 141
 blurb: Mr. E’s found fresh form. Only he could write something like “Sweet Scorched Earth”, which is the closest we’ve come to an Eels ‘classic’ in quite some time.
-artistMBID:
-albumMBID:
+artistMBID: 14387b0f-765c-4852-852f-135335790466
+albumMBID: 99230c20-a341-4218-9c15-f498cdc4ed21
 ---
 author: ANDRÉ
 

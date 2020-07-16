@@ -31,8 +31,8 @@ pullquote: The pride of Springfield
 summary: Some of the richest and most melodious harmonisations of four men since John, Mark, Luke, and Matthew collaborated on their bestselling project some 2,000 years ago.
 week: 226
 blurb: The richest and most melodious harmonisations of four men since John, Mark, Luke, and Matthew collaborated on their bestselling project some 2,000 years ago.
-artistMBID:
-albumMBID:
+artistMBID: 06cf9b2c-bcec-4563-8b22-ad3093944634
+albumMBID: ead58d24-31a3-4c74-a60c-083ee5c9fa7f
 ---
 author: André
 

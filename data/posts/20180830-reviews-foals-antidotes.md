@@ -27,8 +27,8 @@ pullquote: Sincerely odd
 summary: Foals leaned into their restless, agitated, math-rock roots and carved out a niche in the mainstream indie rock of the time. The result is an album that has a distinctive, angsty vibe throughout, from the initial competing horns of the opener to the minor twinkling of the closer's end.
 week: 161
 blurb: Foals leaned into their restless, agitated, math-rock roots and carved out a niche in the mainstream indie rock of the time.
-artistMBID:
-albumMBID:
+artistMBID: 6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
+albumMBID: b3354e1f-317e-3b64-88e1-d4dc54571a6d
 ---
 author: Gabriel
 

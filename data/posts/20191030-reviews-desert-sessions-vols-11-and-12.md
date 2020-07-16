@@ -27,8 +27,8 @@ pullquote: Pick 'n' mix rock 'n' roll
 summary: The Desert Sessions project has always been a lot of fun. It's sincere music created in the moment by a bunch of talented artists. Returning from an absence of 16 (!!!) years, I'm pleased to report nothing has really changed on that front.
 week: 214
 blurb: The Desert Sessions project has always been a lot of fun. Returning from an absence of 16 (!!!) years, nothing has really changed on that front.
-artistMBID:
-albumMBID:
+artistMBID: 7a2e6b55-f149-4e74-be6a-30a1b1a387bb
+albumMBID: f95c7bc2-b502-4bd0-b24f-207c8c61fe19
 ---
 author: André
 
