@@ -59,7 +59,13 @@ author: fred                    # Relates to an author file in ./data/authors di
 blurb: Lorem ipsum dolor        # Used as an SEO description; optional; summary used if unspecified
 summary: Lorem ipsum dolor      # Used as a by line in articles and a long, conclusive review summary; optional for articles
 artistMBID: 00000000-0000-0000  # A MusicBrainz ID for the artist; mainly for reviews; used to pull artist information; optional
+artistMBID:                     # ...this field also accepts a list where multiple artists are involved
+  - 00000000-0000-0000
+  - 00000000-0000-0000
 albumMBID: 00000000-0000-0000   # A MusicBrainz ID for the album; mainly for reviews; used to pull album information; optional
+albumMBID:                      # ...this field also accepts a list where an article focuses on multiple albums
+  - 00000000-0000-0000
+  - 00000000-0000-0000
 # All items from here on are only used in reviews. This line is a comment, and not necessary in the file
 album: Some Album
 artist: Some Artist
