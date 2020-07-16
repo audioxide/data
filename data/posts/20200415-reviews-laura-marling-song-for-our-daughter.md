@@ -7,9 +7,13 @@ tags:
   - 2020s
   - "25"
   - laura marling
+  - acoustic
+  - folk
   - bob dylan
   - james taylor
-featuredimage: 2020/04/Song-for-Our-Daughter.jpg
+  - neil young
+  - pj harvey
+featuredimage: album-artwork/song-for-our-daughter-laura-marling.jpg
 artist: Laura Marling
 album: Song for Our Daughter
 essentialtracks:
@@ -28,6 +32,9 @@ colours:
 pullquote: A Marling masterclass
 summary: Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, the album is an often sublime Marling masterclass.
 week: 229
+blurb:
+artistMBID:
+albumMBID:
 
 ---
 author: André
