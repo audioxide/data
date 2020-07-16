@@ -8,7 +8,7 @@ tags:
   - 2010s
   - chali 2na
   - krafty kuts
-featuredimage: album-artwork/adventures-of-a-reluctant-superhero-chali-2na-and-krafty-kuts.jpg
+featuredimage: album-artwork/adventures-of-a-reluctant-superhero-chali-2na-krafty-kuts.jpg
 artist: Chali 2na & Krafty Kuts
 album: Adventures Of A Reluctant Superhero
 essentialtracks: ""
