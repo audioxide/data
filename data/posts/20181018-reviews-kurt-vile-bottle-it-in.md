@@ -7,7 +7,7 @@ tags:
   - 2010s
   - "23"
   - kurt vile
-featuredimage: 2018/10/Bottle-It-In.jpg
+featuredimage: album-artwork/bottle-it-in-kurt-vile.jpg
 artist: Kurt Vile
 album: Bottle It In
 essentialtracks: ""
@@ -24,67 +24,52 @@ colours:
   - "#a85881"
   - "#8a5481"
 pullquote: An expansive ramble
-summary: The whole record has an easiness of manner, content to be the sonic
-  backdrop for a wanderer with no particular destination in mind. The mix
-  colours all this perfectly. Vile's explorations deserve an expansive setting,
-  and they get one.
+summary: The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind. The mix colours all this perfectly. Vile's explorations deserve an expansive setting, and they get one.
 week: 168
-blurb: The whole record has an easiness of manner, content to be the sonic
-  backdrop for a wanderer with no particular destination in mind.
+blurb: The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind.
+artistMBID:
+albumMBID:
 ---
 author: André
+
 review: >-
-  Kurt Vile’s latest studio album is a peculiar beast. It plays out like an
-  all-encompassing diary expressed through fascinating musical explorations and
-  witty wordplay. With a running time of 80 minutes, *Bottle It In* asks a lot
-  of its listener, at least on paper. However, there’s a sense of comfort and
-  serenity that prevents it from ever being a grating experience. There’s no
-  doubting the degree of repetition involved: guitar refrains, drum patterns,
-  and vocal hooks are recited over and over, but through an act of security and
-  reassurance rather than anything else. There are multiple numbers here that
-  perhaps go on longer than they should do, though I wouldn’t say the album ever
-  loses its focus. Rather, it merely indulges its expansive spirit. He likes a
-  good ramble, does Vile.
+  Kurt Vile’s latest studio album is a peculiar beast. It plays out like an all-encompassing diary expressed through fascinating musical explorations and witty wordplay. With a running time of 80 minutes, *Bottle It In* asks a lot of its listener, at least on paper. However, there’s a sense of comfort and serenity that prevents it from ever being a grating experience. There’s no doubting the degree of repetition involved: guitar refrains, drum patterns, and vocal hooks are recited over and over, but through an act of security and reassurance rather than anything else. There are multiple numbers here that perhaps go on longer than they should do, though I wouldn’t say the album ever loses its focus. Rather, it merely indulges its expansive spirit. He likes a good ramble, does Vile.
 
   Ordinarily I would propose that an album of this nature should earn its length. In a strange way, *Bottle It In* doesn’t even try to. The 10-minute title track doesn’t exactly develop in any meaningful way — there’s very little in the way of structural progression, let alone a change of rhythm, melody and timbre — but it somehow manages to be effective throughout the duration. The song is drenched in heavy, granular haze, and it’s surprisingly immersive. The same can be said for “Bassackwards”, a song wrapped within gorgeous guitar-scapes, soft buzzes, and gentle whirls. These longer, sprawling tracks warrant their length by, bizarrely, not doing much at all. It’s all deeply soothing, if nothing else, and there is a serious attention to detail that keeps them stimulating. Any movement is subtle, yet calculated. It helps that Vile has a remarkably good ear for melody, and there is a plethora of fantastic little hooks hidden here and there. Ultimately, you’re left with the feeling that this is a highly creative individual expressing himself: no filters, no constraints. There’s something extremely admirable about that.
+
 tracks:
   - Hysteria
   - ­­Bottle It In
   - ­­Bassackwards
+
 score:
   score: 8
   max: 10
   fraction: 0.8
+
 ---
 author: Fred
+
 review: >-
-  Sustaining a high level over 80 minutes is a challenge in any sphere, but Kurt
-  Vile does it effortlessly it on *Bottle It In*. All-American dusty rock struts
-  around like it owns the place, and for long spells it unquestionably does.
-  “Check Baby” twangs hard and hits heavy, while the psychedelic swathes in
-  tracks like “Hysteria” and “Bassackwards” are [worthy of the
-  ’60s](<reviews/the-jimi-hendrix-experience-electric-ladyland/>).
-  The whole record has an easiness of manner, content to be the sonic backdrop
-  for a wanderer with no particular destination in mind. The mix colours all
-  this perfectly. Vile’s explorations deserve an expansive setting, and they get
-  one.
+  Sustaining a high level over 80 minutes is a challenge in any sphere, but Kurt Vile does it effortlessly it on *Bottle It In*. All-American dusty rock struts around like it owns the place, and for long spells it unquestionably does. “Check Baby” twangs hard and hits heavy, while the psychedelic swathes in tracks like “Hysteria” and “Bassackwards” are [worthy of the ’60s](<reviews/the-jimi-hendrix-experience-electric-ladyland/>). The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind. The mix colours all this perfectly. Vile’s explorations deserve an expansive setting, and they get one.
 
   If anything, *Bottle It In* suffers from the fact that it can’t seem to bottle its own energies. The record bubbles up and overflows. The verve of what goes on shines throughout, but you can only enjoy so much of a good thing before the potency of its finest moments is lost. I think that’s what’s happened here. For all Kurt Vile’s sustained pressure, the knockout blows never come. It settles into a comfortable, familiar ride with enough depth to coax your mind someplace lovely. I’ll be coming back to *Bottle It In *for the haze, but I don’t expect to connect with it more than I already have.
+
 tracks:
   - Check Baby
   - ­­One Trick Ponies
   - ­­Mutinies
+
 score:
   score: 7
   max: 10
   fraction: 0.7
+
 ---
 author: Marcus
+
 review: >-
-  This was fairly uncharted territory for me. Folk, country, and their
-  derivatives don’t tend to appeal to me very often, and the runtime on *Bottle
-  It In* is daunting regardless. Settling into the album, though, is remarkably
-  easy.
+  This was fairly uncharted territory for me. Folk, country, and their derivatives don’t tend to appeal to me very often, and the runtime on *Bottle It In* is daunting regardless. Settling into the album, though, is remarkably easy.
 
   Kurt Vile’s songwriting is startingly focused and characterful, and the songs carry a certain familiarity between themselves that ties each track neatly into the wider experience. Along with the instrumentation, it all makes the hour and eighteen minutes feel like a stroll through somewhere tranquil.
 
@@ -93,10 +78,12 @@ review: >-
   The lyrics themselves rarely stretch beyond relatability, but the delivery is brilliant on a technical level. Vile often squeezes kitschy rhymes into half-bars like a gentle jolt amongst the hypnosis, and the vocal hooks drive each track with well-tailored momentum.
 
   Ultimately, *Bottle It In* is excellent background music. Working to it and doing nothing to it offer their own merits, but I would still rather it were twenty minutes shorter. The occasional section drags, sometimes in the run-up to something rewarding, sometimes not; some darlings could have been killed on a fair selection of the longer tracks. Even so, I was pleasantly surprised by what I found with *Bottle It In*.
+
 tracks:
   - Bassackwards
   - ­­Check Baby
   - ­­Come Again
+
 score:
   score: 8
   max: 10
