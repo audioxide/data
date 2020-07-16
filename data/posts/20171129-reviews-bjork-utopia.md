@@ -7,6 +7,7 @@ tags:
   - "18"
   - 2010s
   - bjork
+  - electronic
 featuredimage: album-artwork/utopia-bjork.jpg
 artist: "Björk "
 album: Utopia
