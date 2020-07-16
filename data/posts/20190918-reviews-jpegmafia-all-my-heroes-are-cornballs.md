@@ -7,7 +7,7 @@ tags:
   - 2010s
   - "22"
   - jpegmafia
-featuredimage: album-artwork/all-my-heroes-are-cornballs.jpg
+featuredimage: album-artwork/all-my-heroes-are-cornballs-jpegmafia.jpg
 artist: JPEGMAFIA
 album: All My Heroes Are Cornballs
 essentialtracks: ""
@@ -85,7 +85,7 @@ tracks:
   - Papi I Missed U
   - ­­Free the Frail
   - ­­Thot Tactics
-  
+
 score:
   score: 8
   max: 10
