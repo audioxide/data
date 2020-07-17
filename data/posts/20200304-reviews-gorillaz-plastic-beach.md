@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "24"
   - gorillaz
+  - pop
+  - pop rock
+  - the fall
 featuredimage: album-artwork/plastic-beach-gorillaz.jpg
 artist: Gorillaz
 album: Plastic Beach
@@ -35,7 +38,7 @@ author: André
 review: >-
   With *Plastic Beach* celebrating its 10-year anniversary this month – a rather frightening fact in itself – I’ve been thinking about the journey that the Gorillaz project has gone through since its inception. [*Demon Days*](/reviews/gorillaz-demon-days/), released in 2005, is widely considered to be the essential work, capturing that satisfying sensation of sombre pop with an array of fantastic sonic fusions. Although I find the album’s closing moments to be slightly underwhelming – at least in comparison to the rest – it does retain a delicious darkness throughout its playtime. 
   
-  *Plastic Beach*, on the other hand, is far more thematic, arguably more cohesive, and certainly more interesting in its production. Songs are covered in a plastic sheen that lends itself to the overriding concept, and it sounds gorgeous. However, it does also contain a higher amount of guest features, and this is where many fans take issue with recent Gorillaz output. On [*Humanz*](reviews/gorillaz-humanz/), Damon Albarn’s vocals were a welcome relief from the overpowering amount of collaborations. It just doesn’t ‘feel’ like a Gorillaz album. Conversely, I think *Plastic Beach* gets the balance spot on. Despite more than a dozen featured guests, Albarn remains the prominent figure, almost father-like. The Gorillaz family decides to take a warm and relaxing vacation, with fond friends welcoming them on arrival. Welcome to the World of the Plastic Beach.
+  *Plastic Beach*, on the other hand, is far more thematic, arguably more cohesive, and certainly more interesting in its production. Songs are covered in a plastic sheen that lends itself to the overriding concept, and it sounds gorgeous. However, it does also contain a higher amount of guest features, and this is where many fans take issue with recent Gorillaz output. On [*Humanz*](/reviews/gorillaz-humanz/), Damon Albarn’s vocals were a welcome relief from the overpowering amount of collaborations. It just doesn’t ‘feel’ like a Gorillaz album. Conversely, I think *Plastic Beach* gets the balance spot on. Despite more than a dozen featured guests, Albarn remains the prominent figure, almost father-like. The Gorillaz family decides to take a warm and relaxing vacation, with fond friends welcoming them on arrival. Welcome to the World of the Plastic Beach.
   
   After a slightly sketchy start, it doesn’t take long for *Plastic Beach* to hit its stride. “Rhinestone Eyes” is vintage Gorillaz: classic 2-D crooning combined with playful synths. Better still is the synth-pop highlight “On Melancholy Hill”, which may well be one of Albarn’s finest moments in his ever-evolving career. Bobby Womack, De La Soul, and even Lou Reed contribute in their own unique ways, but the stand out collaborator is undoubtedly Little Dragon’s Yukimi Nagano. Her vibrant and dynamic voice lends itself perfectly to the Gorillaz aesthetic, making both “Empire Ants” and “To Binge” two of the finest tracks on the record. While the hip-hop features on *Demon Days* often made for the best moments, I think *Plastic Beach* finds success in the more melodic regions. 
   

@@ -7,6 +7,7 @@ tags:
   - "19"
   - 2020s
   - thundercat
+  - kendrick lamar
 featuredimage: album-artwork/it-is-what-it-is-thundercat.jpg
 artist: Thundercat
 album: It Is What It Is
@@ -33,9 +34,9 @@ albumMBID: 9ffdc0f1-6683-44f1-9194-a247ecb9b297
 author: André
 
 review: >-
-  We all root for Thundercat. A magnificent multi-instrumentalist with charm and charisma in spades. He’s contributed to some of the most extraordinary records released in the past decade, and even picked up a grammy for his work on Kendrick Lamar’s [*To Pimp A Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>). There’s no denying his talents, nor the distinctive mark he commits to a variety of musical projects. However, there’s certainly a conversation to be had about his quality as an individual recording artist.
+  We all root for Thundercat. A magnificent multi-instrumentalist with charm and charisma in spades. He’s contributed to some of the most extraordinary records released in the past decade, and even picked up a grammy for his work on Kendrick Lamar’s [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/). There’s no denying his talents, nor the distinctive mark he commits to a variety of musical projects. However, there’s certainly a conversation to be had about his quality as an individual recording artist.
 
-  For all his tremendous traits, Thundercat has a clear inability to stick to a single sentiment for more than a few minutes. Though I enjoyed 2017’s [*Drunk*](<reviews/thundercat-drunk/>), I took issue with the rapid-fire approach to track sequencing, with some genuinely exciting ideas only lasting for a mere 40 seconds. His latest record, *It Is What It Is*, unfortunately suffers from the same issue, though thankfully to a far lesser extent. This is perhaps a more consistent release, while lacking the highs of its predecessor.
+  For all his tremendous traits, Thundercat has a clear inability to stick to a single sentiment for more than a few minutes. Though I enjoyed 2017’s [*Drunk*](/reviews/thundercat-drunk/), I took issue with the rapid-fire approach to track sequencing, with some genuinely exciting ideas only lasting for a mere 40 seconds. His latest record, *It Is What It Is*, unfortunately suffers from the same issue, though thankfully to a far lesser extent. This is perhaps a more consistent release, while lacking the highs of its predecessor.
 
   *It Is What It Is* is a vibe. Sometimes sublime, sometimes funny, sometimes slightly irritating. But it’s a vibe, nonetheless. “Dragonball Durag” is a clear highlight, standing out as one of the more fully realised and developed songs on the record. If only there were more. *It Is What It Is* often ponders without reaching any conclusions, and whilst that approach does result in some interesting music (and some rather peculiar lyrical themes), it can end up being frustrating.
 
@@ -75,9 +76,13 @@ score:
 author: Marcus
 
 review: >-
-  The bohemian, avant garde, auratic bass genius of Thundercat offers a not uncommon quandary of where the seam between man and persona can be found, and the overarching narrative of *It Is What It Is* seems to be a reflection on this duality. From the opener to the close, Thundercat shines a light on the hedonistic, space-age, party-focused character whose fingers so deftly dance up and down the neck of his bass, with the implication being that the persona is a mask for some insecurity or deficiency. The details remain vague, ripe for your own superimposing of self on the tale, calling to the feeling of running from some aspect of your identity by throwing yourself into recreation, calling to your friends to join you, wearing your abandon as a strength. Look how little I care, wearing my Dragonball durag, finding satisfaction without making an effort.
+  The bohemian, avant garde, auratic bass genius of Thundercat offers a not uncommon quandary of where the seam between man and persona can be found, and the overarching narrative of *It Is What It Is* seems to be a reflection on this duality. 
+  
+  From the opener to the close, Thundercat shines a light on the hedonistic, space-age, party-focused character whose fingers so deftly dance up and down the neck of his bass, with the implication being that the persona is a mask for some insecurity or deficiency. The details remain vague, ripe for your own superimposing of self on the tale, calling to the feeling of running from some aspect of your identity by throwing yourself into recreation, calling to your friends to join you, wearing your abandon as a strength. Look how little I care, wearing my Dragonball durag, finding satisfaction without making an effort.
 
-  It’s not the most inspired lyrical direction, but there’s enough nuance and good humour between tracks to lend the writing enough weight and originality to be worth hearing. The trouble is that, because of stylistic decisions made in the production, each track hides the lyricism behind excessive reverb, strained falsettos, and a general sense of smudginess that blurs the experience into a disappointing monochrome. It’s atmospheric, light on hooks, and seemingly packaged to give off the laissez-faire air of carelessness of the persona described by the writing. I can get behind that as a concept; as a listening experience, it falls sadly flat. Enjoyable as it can be to kick back to, it’s another case of wondering how great Thundercat might sound if he highlighted his strengths rather than hiding them behind a deliberate and exacting aesthetic.
+  It’s not the most inspired lyrical direction, but there’s enough nuance and good humour between tracks to lend the writing enough weight and originality to be worth hearing. The trouble is that, because of stylistic decisions made in the production, each track hides the lyricism behind excessive reverb, strained falsettos, and a general sense of smudginess that blurs the experience into a disappointing monochrome. It’s atmospheric, light on hooks, and seemingly packaged to give off the laissez-faire air of carelessness of the persona described by the writing. I can get behind that as a concept; as a listening experience, it falls sadly flat. 
+  
+  Enjoyable as it can be to kick back to, this album is another case of wondering how great Thundercat might sound if he highlighted his strengths rather than hiding them behind a deliberate and exacting aesthetic.
 
 tracks:
   - Unrequited Love

@@ -7,7 +7,13 @@ tags:
   - "16"
   - 2020s
   - moaning
+  - pop
   - joy division
+  - nine inch nails
+  - radiohead
+  - kendrick lamar
+  - neil young
+  - solange
 featuredimage: album-artwork/uneasy-laughter-moaning.jpg
 artist: Moaning
 album: Uneasy Laughter
@@ -27,7 +33,7 @@ colours:
 pullquote: PG-13 Joy Division
 summary: It all winds up feeling a bit clean cut, a bit airbrushed. The album’s a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
 week: 225
-blurb: It's all a bit clean cut, a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
+blurb: The album's all a bit clean cut, a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
 artistMBID: d5d4af51-8c20-45ed-9cc4-f8bbbb28289d
 albumMBID: 5be88c22-464f-4b6a-9f14-945c589a9840
 ---
@@ -54,7 +60,7 @@ author: Fred
 review: >-
   We reviewed an album by HAIM a couple of years ago. It was polished, professional pop perfectly adequate for disposable summer listening. *Uneasy Laughter* has a similarly pleasant-yet-forgettable demeanor. It’s a distinctly west coast breed of gothy synth pop, moody in a painstakingly dyed and straightened fringe kind of way.
 
-  Sean Solomon, Moaning’s guitarist/singer, says [he wants listeners to feel less alone](https://aestheticmagazinetoronto.com/2020/03/05/sxsw-2020-preview-interview-moaning-talks-uneasy-laughter-sobriety-diy-music/). Finally, music that lets you know you’re not alone. [Why](<reviews/nine-inch-nails-the-downward-spiral/>) [didn’t](<reviews/radiohead-ok-computer/>)[someone](<reviews/kendrick-lamar-to-pimp-a-butterfly/>)[think](<reviews/neil-young-on-the-beach/>)[of](<reviews/solange-a-seat-at-the-table/>)[that](<reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/>)[sooner](<https://en.wikipedia.org/wiki/Blues>)? The vibe is solid, to be fair. Moaning’s arrangements are tight and focused, with the synths in particular flourishing in better moments. The way they ripple out on “Stranger” and “Connect the Dots” is especially lovely. Andrew MacKelvie’s fidgety drumming bounces off the loftier sounds nicely, and bassist/keyboardist Pascal Stevenson does an admirable job juggling his responsibilities. Together they weave a decent PG-13 [Joy Division](<reviews/joy-division-unknown-pleasures/>) sound.
+  Sean Solomon, Moaning’s guitarist/singer, says [he wants listeners to feel less alone](https://aestheticmagazinetoronto.com/2020/03/05/sxsw-2020-preview-interview-moaning-talks-uneasy-laughter-sobriety-diy-music/). Finally, music that lets you know you’re not alone. [Why](/reviews/nine-inch-nails-the-downward-spiral/) [didn’t](/reviews/radiohead-ok-computer/)[someone](/reviews/kendrick-lamar-to-pimp-a-butterfly/)[think](/reviews/neil-young-on-the-beach/)[of](/reviews/solange-a-seat-at-the-table/)[that](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/)[sooner](https://en.wikipedia.org/wiki/Blues)? The vibe is solid, to be fair. Moaning’s arrangements are tight and focused, with the synths in particular flourishing in better moments. The way they ripple out on “Stranger” and “Connect the Dots” is especially lovely. Andrew MacKelvie’s fidgety drumming bounces off the loftier sounds nicely, and bassist/keyboardist Pascal Stevenson does an admirable job juggling his responsibilities. Together they weave a decent PG-13 [Joy Division](/reviews/joy-division-unknown-pleasures/) sound.
 
   There’s no escaping that California throwaway spirit. The ‘LA DIY scene’ might sound rough and ready by the standards of LA coffee shops, but everywhere else this is the kind of stuff we got out of our system ten years ago. It all winds up feeling a bit clean cut, a bit airbrushed. The album’s a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
 
@@ -72,7 +78,7 @@ score:
 author: Marcus
 
 review: >-
-  *Uneasy Laughter* suffers from a strangely persistent blend of [Joy Division](<reviews/joy-division-unknown-pleasures/>) and Two Door Cinema Club that blunts the edges of the former with the throwaway pop rock of the latter. Track by track, very little is being said or experimented with, and concentrating on each forgettable song makes for a serious lack of satisfaction. “Make it Stop” lacks the emotional weight its limply urgent chorus needs. The echoing guitar of “Stranger” sounds like a cut-out from a Joy Division B-side and I’m struck that I have no idea what this song is about. The moaning (that’s the name of the band!) vocals over its runtime are disengaging, and the lyricism that comes through is often trite and unspecific.
+  *Uneasy Laughter* suffers from a strangely persistent blend of [Joy Division](/reviews/joy-division-unknown-pleasures/) and Two Door Cinema Club that blunts the edges of the former with the throwaway pop rock of the latter. Track by track, very little is being said or experimented with, and concentrating on each forgettable song makes for a serious lack of satisfaction. “Make it Stop” lacks the emotional weight its limply urgent chorus needs. The echoing guitar of “Stranger” sounds like a cut-out from a Joy Division B-side and I’m struck that I have no idea what this song is about. The moaning (that’s the name of the band!) vocals over its runtime are disengaging, and the lyricism that comes through is often trite and unspecific.
 
   The Bloc Party-esque guitar/bass melody on “Running” is one of the album’s most compelling (albeit pretty standard) components, but its inclusion feels like seeing someone turn up to a party in 2020 (we all remember parties, don’t we?) armed with a Nintendo Wii. It’s let down further by the deeply inoffensive drums, and the mixing draws unwelcome attention to their general drought of creativity across the album. “Connect the Dots” is equally impressionless; one of a selection of tracks here that sound like they should be playing over a *Made in Chelsea* scene transition.
 

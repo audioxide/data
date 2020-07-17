@@ -7,6 +7,11 @@ tags:
   - 1970s
   - "24"
   - joy division
+  - post punk
+  - radiohead
+  - nine inch nails
+  - vince staples
+  - new order
 featuredimage: album-artwork/unknown-pleasures-joy-division.jpg
 artist: Joy Division
 album: Unknown Pleasures
@@ -26,16 +31,20 @@ colours:
 pullquote: Rain and thunder
 summary: Pretty much everything about Unknown Pleasures was, and continues to be, a total fucking triumph in cathartic misery. It's reassuring that a record so emotionally detached and theatrically passionate can still inspire music listeners in 2020.
 week: 220
-blurb: Pretty much everything about Unknown Pleasures was, and continues to be, a total fucking triumph in cathartic misery.
+blurb: Pretty much everything about Unknown Pleasures was, and continues to be, a total triumph in cathartic misery. It's a true classic.
 artistMBID: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
 albumMBID: 42352def-1aab-3000-b548-895ebd869cb6
 ---
 author: André
 
 review: >-
-  An undisputed landmark in the World of alternative music, *Unknown Pleasures* has spread its influence far and wide since its 1979 release. It is a definitive declaration of Gothic artistry that spawned a host of followers and imitators, and a perfect case of cathartic despair that continues to inspire artists of all genres: from skilful rockers such as [Radiohead](<reviews/radiohead-ok-computer/>) and [Nine Inch Nails](<reviews/nine-inch-nails-pretty-hate-machine/>), to hip-hop darlings like Danny Brown and [Vince Staples](<reviews/vince-staples-fm/>). The record still feels sincerely disturbing – nothing about it is phoned in. Learning of the tragic story that led to Ian Curtis’ eventual suicide provides a layer of context that certainly enhances the bleakness, but the album is haunting enough without it. The exceptional “She Lost Control” – a song written about about the death of a girl who, like Curtis himself, was in a constant battle with epilepsy – shows the height of *Unknown Pleasures*‘ raw power. The sense of mania is truly captivating, and strangely addictive.
+  An undisputed landmark in the World of alternative music, *Unknown Pleasures* has spread its influence far and wide since its 1979 release. It is a definitive declaration of Gothic artistry that spawned a host of followers and imitators, and a perfect case of cathartic despair that continues to inspire artists of all genres: from skilful rockers such as [Radiohead](/reviews/radiohead-ok-computer/) and [Nine Inch Nails](/reviews/nine-inch-nails-pretty-hate-machine/), to hip-hop darlings like Danny Brown and [Vince Staples](/reviews/vince-staples-fm/). 
+  
+  The record still feels sincerely disturbing – nothing about it is phoned in. Learning of the tragic story that led to Ian Curtis’ eventual suicide provides a layer of context that certainly enhances the bleakness, but the album is haunting enough without it. The exceptional “She Lost Control” – a song written about about the death of a girl who, like Curtis himself, was in a constant battle with epilepsy – shows the height of *Unknown Pleasures*‘ raw power. The sense of mania is truly captivating, and strangely addictive.
 
-  Mood and atmosphere is hugely significant, of course, but the brilliance of *Unknown Pleasures* is not restricted to style aesthetic. Musically, Joy Division still represent everything that is so alluring about post-punk. Bernard Sumner’s guitar riffs revel in simplicity, often layering gloomy textures over Peter Hook’s exquisitely catchy bass hooks. Stephen Morris’ busy drum work is a revelation, and arguably still a little undervalued. Together, Joy Division united to provide one of the most distinctive backdrops ever heard in contemporary music, and it served as a decisive contrast to the punk scene at the time. A cliché it may be, but the band really seemed to be in perfect sync, in spite of troubled times outside of the music. Martin Hanner’s work on production duties was a revelation in itself, with an essential focus on space and ambience. Pretty much everything about *Unknown Pleasures* was, and continues to be, a total fucking triumph in cathartic misery. It’s reassuring that a record so emotionally detached and theatrically passionate can still inspire music listeners in 2020. This is the very definition of a classic.
+  Mood and atmosphere is hugely significant, of course, but the brilliance of *Unknown Pleasures* is not restricted to style aesthetic. Musically, Joy Division still represent everything that is so alluring about post-punk. Bernard Sumner’s guitar riffs revel in simplicity, often layering gloomy textures over Peter Hook’s exquisitely catchy bass hooks. Stephen Morris’ busy drum work is a revelation, and arguably still a little undervalued. Together, Joy Division united to provide one of the most distinctive backdrops ever heard in contemporary music, and it served as a decisive contrast to the punk scene at the time. A cliché it may be, but the band really seemed to be in perfect sync, in spite of troubled times outside of the music. 
+  
+  Martin Hanner’s work on production duties was a revelation in itself, with an essential focus on space and ambience. Pretty much everything about *Unknown Pleasures* was, and continues to be, a total fucking triumph in cathartic misery. It’s reassuring that a record so emotionally detached and theatrically passionate can still inspire music listeners in 2020. This is the very definition of a classic.
 
 tracks:
   - She’s Lost Control
@@ -57,7 +66,7 @@ review: >-
 
   It’s well convered ground, but mention must go to the bass sound. Now there’s a meat cleaver of a noise, fit for bludgeoning, and the guitars aren’t half bad either. *Unknown Pleasures* is what the ‘80s wish they sounded like. When the band gets harsh it gets really harsh, and when it gets weird- as it does at the ends of “Insight” and “She’s Lost Control” – it’s as if the whole album is warping out of shape and buckling at the joints.
 
-  Needless to say, Ian Curtis is astonishing. The voice of god couldn’t have more boom. It’s impossible to imagine Joy Division working without Curtis (indeed, [it didn’t](<reviews/new-order-power-corruption-and-lies/>)). *Unknown Pleasures* has a monstrously big sound and he still manages to loom over it. If the album is a storm then he is its thunder.
+  Needless to say, Ian Curtis is astonishing. The voice of god couldn’t have more boom. It’s impossible to imagine Joy Division working without Curtis (indeed, [it didn’t](/reviews/new-order-power-corruption-and-lies/)). *Unknown Pleasures* has a monstrously big sound and he still manages to loom over it. If the album is a storm then he is its thunder.
 
   *Unknown Pleasures* still has a timelessness about it, and for all its solemn qualities it’s hardly a dirge. The album is exploratory in every sense of the word. It still feels brave in that sense. We’re accustomed to loneliness in pop music nowadays, but it wasn’t always so common. Joy Division brought misery to the masses in a way few have matched since.
 

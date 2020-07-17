@@ -7,6 +7,9 @@ tags:
   - 2000s
   - "25"
   - grandaddy
+  - indie
+  - alternative rock
+  - pop
   - radiohead
   - weezer
   - neil young
@@ -32,16 +35,18 @@ colours:
 pullquote: Pop music of art students
 summary: Despite extended musical passages and eccentric lyrics, the album is remarkably accessible. It's pop music for art students.
 week: 231
-blurb:
+blurb: Despite extended musical passages and eccentric lyrics, The Sophtware Slump is remarkably accessible. It's pop music for art students.
 artistMBID: 9d4c4835-c71a-4647-a4fc-263e26832cd0
 albumMBID: 1feb6a47-2725-3f26-9762-3dc0ecffe4de
 ---
 author: André
 
 review: >-
-  Sombre, sleepy, yet constantly absorbing, *The Sophtware Slump* remains the definitive Grandaddy record. On their sophomore release, Jason Lytle and company captured the essence of progressive rock legends ELO and presented them with similar tension and anguish to [*OK Computer*](<reviews/radiohead-ok-computer/>) and [*Ladies and Gentleman We Are Floating in Space*](<reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/>). Lytle was, and remains, a curious songwriter who enjoys searching for the most absurd aspects of music. There’s nothing too unusual about *The Sophtware Slump*, at least not on the surface, but it’s exhibited in a unique way that sets it apart from other indie rock releases. Despite extended musical passages and eccentric lyrics, the album is remarkably accessible. It’s pop music for art students.
+  Sombre, sleepy, yet constantly absorbing, *The Sophtware Slump* remains the definitive Grandaddy record. On their sophomore release, Jason Lytle and company captured the essence of progressive rock legends ELO and presented them with similar tension and anguish to [*OK Computer*](/reviews/radiohead-ok-computer/) and [*Ladies and Gentleman We Are Floating in Space*](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/). 
+  
+  Lytle was, and remains, a curious songwriter who enjoys searching for the most absurd aspects of music. There’s nothing too unusual about *The Sophtware Slump*, at least not on the surface, but it’s exhibited in a unique way that sets it apart from other indie rock releases. Despite extended musical passages and eccentric lyrics, the album is remarkably accessible. It’s pop music for art students.
 
-  Much is made of the influence that *OK Computer* had on the record, and it obviously does share a similar sense of sadness for the modern age (in Lytle’s words, [‘an album about trees and computers that came out right after *OK Computer*‘](<http://drownedinsound.com/in_depth/951696-grandaddy-from-beyond-the-grave--jason-lytle-talks-to-dis>)) Musically, however, *The Sophtware Slump* has more in common with ’90s indie rock born out of the USA. The sprawling space rock that comprises most of the record is broken up impeccably with moments like “Chartsengrafs”, which features towering power chords that pay homage to [the greatest days of Pixies](<reviews/pixies-doolittle/>). Lytle’s lyrics even share a similar sense of modesty and humour to [Rivers Cuomo](<reviews/weezer-the-blue-album/>): ‘I try to sing it funny like Beck, but it’s bringing me down.’
+  Much is made of the influence that *OK Computer* had on the record, and it obviously does share a similar sense of sadness for the modern age (in Lytle’s words, [‘an album about trees and computers that came out right after *OK Computer*‘](http://drownedinsound.com/in_depth/951696-grandaddy-from-beyond-the-grave--jason-lytle-talks-to-dis)). Musically, however, *The Sophtware Slump* has more in common with ’90s indie rock born out of the USA. The sprawling space rock that comprises most of the record is broken up impeccably with moments like “Chartsengrafs”, which features towering power chords that pay homage to [the greatest days of Pixies](/reviews/pixies-doolittle/). Lytle’s lyrics even share a similar sense of modesty and humour to [Rivers Cuomo](/reviews/weezer-the-blue-album/): ‘I try to sing it funny like Beck, but it’s bringing me down.’
 
   With *The Sophtware Slump* turning 20 years old, you wonder whether Lytle has since drawn any conclusions to these whimsical musings. Life is more or less the same now as it was in 2000, just with added existential despair and Tik Tok. Perhaps this was his point all along: computers were never there to destroy the human race, but instead to prolong our misery. *The Sophtware Slump* continues to convey that message extremely well, and its (ir)relevance hasn’t changed a bit. There’s something seriously seductive about bittersweet journeys, particularly when found amongst an ocean of moody masterpieces.
 
@@ -59,13 +64,13 @@ score:
 author: Fred
 
 review: >-
-  Where to begin with *The Sophtware Slump*. Equal parts [Weezer](<reviews/weezer-the-blue-album/>), [Radiohead](<reviews/radiohead-a-moon-shaped-pool/>), [Neil Young](<reviews/neil-young-on-the-beach/>), and blinking neon fairground ride, I’m never quite sure whether to find the album amusing or deeply moving. In any case, it’s very, very good. Whiny American nerd rock isn’t exactly my go-to genre, but this is a cut above most of what you hear out of the indie scene.
+  Where to begin with *The Sophtware Slump*. Equal parts [Weezer](/reviews/weezer-the-blue-album/), [Radiohead](/reviews/radiohead-a-moon-shaped-pool/), [Neil Young](/reviews/neil-young-on-the-beach/), and blinking neon fairground ride, I’m never quite sure whether to find the album amusing or deeply moving. In any case, it’s very, very good. Whiny American nerd rock isn’t exactly my go-to genre, but this is a cut above most of what you hear out of the indie scene.
 
   Reportedly written and recorded by Jason Lytle in a dusty country shack while he sweated profusely and waited to hear back from his coke dealer, the album does indeed listen more like a solo project than a group one, and that’s probably for the best. The arrangements are rich and intricate, but Lytle is the main source of interest.
 
   It helps that the opener and closer are two of the strongest tracks. Although the track list is a bit – shall we say – jittery at times, that framing holds everything together. Opening with the nine-minute “He’s Simple, He’s Dumb, He’s the Pilot” (five minutes of which is an outro) is a pretty ballsy move, but it leaves no doubt where the listener’s headed. Settle in for something back to front and upside down and yet uncannily centering.
 
-  For all its charm the album’s a smidge too scattergun to be a complete triumph. It may have its own miserable android, but it’s no *OK Computer*. To my mind it’s closer to something like [*Yoshimi Battles the Pink Robots*](<reviews/the-flaming-lips-yoshimi-battles-the-pink-robots/>), where novelty value papers over the cracks, such as they are.
+  For all its charm the album’s a smidge too scattergun to be a complete triumph. It may have its own miserable android, but it’s no *OK Computer*. To my mind it’s closer to something like [*Yoshimi Battles the Pink Robots*](/reviews/the-flaming-lips-yoshimi-battles-the-pink-robots/), where novelty value papers over the cracks, such as they are.
 
 tracks:
   - So You’ll Aim Toward the Sky

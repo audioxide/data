@@ -7,6 +7,7 @@ tags:
   - 2000s
   - "22"
   - foals
+  - indie
 featuredimage: album-artwork/antidotes-foals.jpg
 artist: Foals
 album: Antidotes
@@ -37,7 +38,9 @@ review: >-
 
   *Antidotes* is tetchy, raucous and at times soothing. Tracks like “The French Open” exemplify this perfectly. The math rock influences rattle throughout the album, everything from the guitar to the simple lyrics hold rhythm at their very essence. Each note and sound snaps back and over each other like plucking an ever tightened string. Whilst this methodical approach has danger of being a novelty, Foals manage to keep things interesting not only throughout the record but within the songs themselves.
 
-  “Heavy Water” stands out in this regard. It opens with a heavily reverbed riff from the main guitar, emulating what can only be describes as drops of water over something still and unmoving. However, the track ends with one of the loudest sounds on the whole album. It turns almost orchestral with the perfectly accompanied lo-fi synthesised brass sounds. *Antidotes* certainly deserves more than one listen. There’s layers of syncopation here than can keep you coming back. What it lacks is lyricism. It is worth noting than in later records, Yannis’ vocals take point in a much bigger way than they do here. However, maybe the lyrics aren’t what’s important in *Antidotes*, maybe they act as another layer of instrumentation. *Antidotes* managed to present a sound that was unfamiliar to most and fill it with raunchy riffs and rhythm. It is certainly a standout record for its time, and one that is worthy of your attention.
+  “Heavy Water” stands out in this regard. It opens with a heavily reverbed riff from the main guitar, emulating what can only be describes as drops of water over something still and unmoving. However, the track ends with one of the loudest sounds on the whole album. It turns almost orchestral with the perfectly accompanied lo-fi synthesised brass sounds. *Antidotes* certainly deserves more than one listen. There are layers of syncopation here than can keep you coming back. What it lacks is lyricism. It is worth noting than in later records, Yannis’ vocals take point in a much bigger way than they do here. 
+  
+  However, maybe the lyrics aren’t what’s important in *Antidotes*, maybe they act as another layer of instrumentation. *Antidotes* managed to present a sound that was unfamiliar to most and fill it with raunchy riffs and rhythm. It is certainly a standout record for its time, and one that is worthy of your attention.
 
 tracks:
   - Heavy Water

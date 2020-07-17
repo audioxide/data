@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "23"
   - kurt vile
+  - rock
+  - alternative rock
+  - the jimi hendrix experience
 featuredimage: album-artwork/bottle-it-in-kurt-vile.jpg
 artist: Kurt Vile
 album: Bottle It In
@@ -33,9 +36,13 @@ albumMBID: 2497ecd5-22e0-495b-a35c-cd3079c5b4ff
 author: André
 
 review: >-
-  Kurt Vile’s latest studio album is a peculiar beast. It plays out like an all-encompassing diary expressed through fascinating musical explorations and witty wordplay. With a running time of 80 minutes, *Bottle It In* asks a lot of its listener, at least on paper. However, there’s a sense of comfort and serenity that prevents it from ever being a grating experience. There’s no doubting the degree of repetition involved: guitar refrains, drum patterns, and vocal hooks are recited over and over, but through an act of security and reassurance rather than anything else. There are multiple numbers here that perhaps go on longer than they should do, though I wouldn’t say the album ever loses its focus. Rather, it merely indulges its expansive spirit. He likes a good ramble, does Vile.
+  Kurt Vile’s latest studio album is a peculiar beast. It plays out like an all-encompassing diary expressed through fascinating musical explorations and witty wordplay. With a running time of 80 minutes, *Bottle It In* asks a lot of its listener, at least on paper. 
+  
+  However, there’s a sense of comfort and serenity that prevents it from ever being a grating experience. There’s no doubting the degree of repetition involved: guitar refrains, drum patterns, and vocal hooks are recited over and over, but through an act of security and reassurance rather than anything else. There are multiple numbers here that perhaps go on longer than they should do, though I wouldn’t say the album ever loses its focus. Rather, it merely indulges its expansive spirit. He likes a good ramble, does Vile.
 
-  Ordinarily I would propose that an album of this nature should earn its length. In a strange way, *Bottle It In* doesn’t even try to. The 10-minute title track doesn’t exactly develop in any meaningful way — there’s very little in the way of structural progression, let alone a change of rhythm, melody and timbre — but it somehow manages to be effective throughout the duration. The song is drenched in heavy, granular haze, and it’s surprisingly immersive. The same can be said for “Bassackwards”, a song wrapped within gorgeous guitar-scapes, soft buzzes, and gentle whirls. These longer, sprawling tracks warrant their length by, bizarrely, not doing much at all. It’s all deeply soothing, if nothing else, and there is a serious attention to detail that keeps them stimulating. Any movement is subtle, yet calculated. It helps that Vile has a remarkably good ear for melody, and there is a plethora of fantastic little hooks hidden here and there. Ultimately, you’re left with the feeling that this is a highly creative individual expressing himself: no filters, no constraints. There’s something extremely admirable about that.
+  Ordinarily I would propose that an album of this nature should earn its length. In a strange way, *Bottle It In* doesn’t even try to. The 10-minute title track doesn’t exactly develop in any meaningful way — there’s very little in the way of structural progression, let alone a change of rhythm, melody and timbre — but it somehow manages to be effective throughout the duration. The song is drenched in heavy, granular haze, and it’s surprisingly immersive. The same can be said for “Bassackwards”, a song wrapped within gorgeous guitar-scapes, soft buzzes, and gentle whirls. These longer, sprawling tracks warrant their length by, bizarrely, not doing much at all. 
+  
+  It’s all deeply soothing, if nothing else, and there is a serious attention to detail that keeps them stimulating. Any movement is subtle, yet calculated. It helps that Vile has a remarkably good ear for melody, and there is a plethora of fantastic little hooks hidden here and there. Ultimately, you’re left with the feeling that this is a highly creative individual expressing himself: no filters, no constraints. There’s something extremely admirable about that.
 
 tracks:
   - Hysteria
@@ -51,7 +58,7 @@ score:
 author: Fred
 
 review: >-
-  Sustaining a high level over 80 minutes is a challenge in any sphere, but Kurt Vile does it effortlessly it on *Bottle It In*. All-American dusty rock struts around like it owns the place, and for long spells it unquestionably does. “Check Baby” twangs hard and hits heavy, while the psychedelic swathes in tracks like “Hysteria” and “Bassackwards” are [worthy of the ’60s](<reviews/the-jimi-hendrix-experience-electric-ladyland/>). The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind. The mix colours all this perfectly. Vile’s explorations deserve an expansive setting, and they get one.
+  Sustaining a high level over 80 minutes is a challenge in any sphere, but Kurt Vile does it effortlessly it on *Bottle It In*. All-American dusty rock struts around like it owns the place, and for long spells it unquestionably does. “Check Baby” twangs hard and hits heavy, while the psychedelic swathes in tracks like “Hysteria” and “Bassackwards” are [worthy of the ’60s](/reviews/the-jimi-hendrix-experience-electric-ladyland/). The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind. The mix colours all this perfectly. Vile’s explorations deserve an expansive setting, and they get one.
 
   If anything, *Bottle It In* suffers from the fact that it can’t seem to bottle its own energies. The record bubbles up and overflows. The verve of what goes on shines throughout, but you can only enjoy so much of a good thing before the potency of its finest moments is lost. I think that’s what’s happened here. For all Kurt Vile’s sustained pressure, the knockout blows never come. It settles into a comfortable, familiar ride with enough depth to coax your mind someplace lovely. I’ll be coming back to *Bottle It In *for the haze, but I don’t expect to connect with it more than I already have.
 
