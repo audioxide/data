@@ -7,6 +7,10 @@ tags:
   - "19"
   - 2010s
   - neneh cherry
+  - saul williams
+  - joanna newsom
+  - solange
+  - bjork
 featuredimage: album-artwork/broken-politics-neneh-cherry.jpg
 artist: Neneh Cherry
 album: Broken Politics
@@ -33,9 +37,11 @@ albumMBID: 2fda0cd0-db31-4448-81f6-4979b5192077
 author: André
 
 review: >-
-  Neneh Cherry’s latest album sees her continue the stylistic change towards trip-hop that was first heard on 2014’s *Blank Project*, with Four Tet once again at the helm of production duties. *Broken Politics* is notably more reflective than her previous work — or indeed any of her studio albums — and its meditative sound can certainly be endearing, to the point of relaxation. According to its press release, the record [‘searches for answers, patiently and with great care’](<https://nenehcherry.bandcamp.com/>), and it’s undoubtedly a success in that regard. Cherry’s lyrical work is as good as ever, and her voice is as charming as ever.
+  Neneh Cherry’s latest album sees her continue the stylistic change towards trip-hop that was first heard on 2014’s *Blank Project*, with Four Tet once again at the helm of production duties. *Broken Politics* is notably more reflective than her previous work — or indeed any of her studio albums — and its meditative sound can certainly be endearing, to the point of relaxation. According to its press release, the record [‘searches for answers, patiently and with great care’](https://nenehcherry.bandcamp.com/), and it’s undoubtedly a success in that regard. Cherry’s lyrical work is as good as ever, and her voice is as charming as ever.
 
-  The formula does, however, appear to be confused at times. “Kong” is fantastic — perhaps the finest song of her newly-curated career in trip-hop — whereas songs such as “Deep Vein Thrombosis” and “Slow Release” get caught up in dainty soundscapes. The minimal approach can be too languid at times, and I often wonder if *Broken Politics* is limited by its own sound. “Natural Skin Deep” is an utter revelation due to the sheer energy it exudes. Of course, this is a maturing artist aiming for something deeper than “Buffalo Stance”, and the record is still an achievement in its own right. *Broken Politics* projects a great deal of wisdom with tremendous humility and sincerity. It’s a low-key listen that will resonate with some, whilst leaving others slightly underwhelmed.
+  The formula does, however, appear to be confused at times. “Kong” is fantastic — perhaps the finest song of her newly-curated career in trip-hop — whereas songs such as “Deep Vein Thrombosis” and “Slow Release” get caught up in dainty soundscapes. The minimal approach can be too languid at times, and I often wonder if *Broken Politics* is limited by its own sound. “Natural Skin Deep” is an utter revelation due to the sheer energy it exudes.
+  
+  Of course, this is a maturing artist aiming for something deeper than “Buffalo Stance”, and the record is still an achievement in its own right. *Broken Politics* projects a great deal of wisdom with tremendous humility and sincerity. It’s a low-key listen that will resonate with some, whilst leaving others slightly underwhelmed.
 
 tracks:
   - Kong
@@ -51,7 +57,7 @@ score:
 author: Fred
 
 review: >-
-  I wish I liked *Broken Politics* more than I do. Projects made with this much tenderness deserve at least some in return, but there’s been no getting past the fact this album doesn’t stick. Neneh Cherry weaves an eclectic, vibrant world here — parts [Saul Williams](<reviews/saul-williams-martyr-loser-king/>), parts [Joanna Newsom](<reviews/joanna-newsom-divers/>), parts [Solange](<reviews/solange-a-seat-at-the-table/>), all very much her domain. In full flow it’s a delight. “Natural Skin Deep” jangles and gyrates, partylike in its energy. The vocals on “Kong” are measured and elegant, lending the track an elegance beyond that of its neighbours.
+  I wish I liked *Broken Politics* more than I do. Projects made with this much tenderness deserve at least some in return, but there’s been no getting past the fact this album doesn’t stick. Neneh Cherry weaves an eclectic, vibrant world here — parts [Saul Williams](/reviews/saul-williams-martyr-loser-king/), parts [Joanna Newsom](/reviews/joanna-newsom-divers/), parts [Solange](/reviews/solange-a-seat-at-the-table/), all very much her domain. In full flow it’s a delight. “Natural Skin Deep” jangles and gyrates, partylike in its energy. The vocals on “Kong” are measured and elegant, lending the track an elegance beyond that of its neighbours.
 
   Sadly, these highs feel like base camps. The spaces between them bob and sway with an ease that’s serene in the moment, but indistinct in retrospect. Cherry’s soft spoken poetic streams feel like confidences; tidings better brought to listeners through the intimacy of live performance, or a muskier mix. On record the weight behind the whispers is seldom apparent.
 
@@ -73,11 +79,11 @@ author: Marcus
 review: >-
   *Broken Politics*‘ toothlessness is a blessing and a curse. For every moment of serenity there’s a feeling of incompleteness, and the result is an album that’s sadly unmemorable.
 
-  “Falling Leaves”‘ East Asian-inspired hook is very pleasant, Cherry’s vocals are smooth as silk, and the production is polished to a fine sheen; it falls out of my head straight away. The opener does stand in the shadow of “Kong”, a track that blends *Mezzanine*\-era Massive Attack and *Days to Come*\-era Bonobo with a bravery that feels absent in most of the other tracks. Cherry’s vocal crescendos give “Kong” a sincerity that reshapes what might have been overly mellow instrumentation into a rich and fulfilling soundscape.
+  “Falling Leaves”‘ East Asian-inspired hook is very pleasant, Cherry’s vocals are smooth as silk, and the production is polished to a fine sheen; it falls out of my head straight away. The opener does stand in the shadow of “Kong”, a track that blends *Mezzanine*-era Massive Attack and *Days to Come*-era Bonobo with a bravery that feels absent in most of the other tracks. Cherry’s vocal crescendos give “Kong” a sincerity that reshapes what might have been overly mellow instrumentation into a rich and fulfilling soundscape.
 
   This happens all too rarely, and by “Synchronised Devotion” we’ve moved on to Blockhead-esque piano work and a xylophone (?) melody that’s, again, very pleasant, but that’s all it is. This weightlessness can only go so far, particularly when compared to giants of downtempo who can build tracks that are part-meanderings through gentle textures and part-nagging earworms.
 
-  *Broken Politics* borrows so much from so many — the aforementioned artists are joined by composition and instrumentation reminiscent of [Joanna Newsom](<reviews/joanna-newsom-divers/>) and [Bjork](<reviews/bjork-debut/>) — which works against it in the more indulgent tracks (looking at you, “Deep Vein Thrombosis”) if only because I’m constantly feeling inspired to listen to somebody else.
+  *Broken Politics* borrows so much from so many — the aforementioned artists are joined by composition and instrumentation reminiscent of [Joanna Newsom](/reviews/joanna-newsom-divers/) and [Bjork](/reviews/bjork-debut/) — which works against it in the more indulgent tracks (looking at you, “Deep Vein Thrombosis”) if only because I’m constantly feeling inspired to listen to somebody else.
 
   When Cherry reminds you to pay attention, the album’s undeniable beauty can be breathtaking. Even so, by failing to separate beauty from torpidity, the sum is forgettable.
 
