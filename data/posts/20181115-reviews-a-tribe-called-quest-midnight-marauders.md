@@ -7,6 +7,10 @@ tags:
   - 1990s
   - "28"
   - a tribe called quest
+  - hip hop
+  - miles davis
+  - nwa
+  - kendrick lamar
 featuredimage: album-artwork/midnight-marauders-a-tribe-called-quest.jpg
 artist: A Tribe Called Quest
 album: Midnight Marauders
@@ -55,11 +59,11 @@ score:
 author: Fred
 
 review: >-
-  *Midnight Marauders *is possibly the most sumptuous hip hop album I’ve ever listened to, which makes it all the stranger that I can’t pinpoint most of what happens. It’s relentlessly, casually cool. The record serves up a steady stream of excellence, a hazy, luxurious world of supple grooves and easy flows. Its ‘program’ opens with hopes that what follows will be ‘precise, bass-heavy and just right.’ It delivers and then some.
+  *Midnight Marauders* is possibly the most sumptuous hip hop album I’ve ever listened to, which makes it all the stranger that I can’t pinpoint most of what happens. It’s relentlessly, casually cool. The record serves up a steady stream of excellence, a hazy, luxurious world of supple grooves and easy flows. Its ‘program’ opens with hopes that what follows will be ‘precise, bass-heavy and just right.’ It delivers and then some.
 
-  In a genre often defined by a kind of crass fury, A Tribe Called Quest look on with the wry calm of a group who’s seen it all. It’s a witty album, but never comic. We (read: I) have railed against artists in the past for slipping into the realm of silliness. *Midnight Marauders*, in contrast, is dignified, almost solemn. Oftentimes — in the midst of any given track — it feels like hip hop’s answer to [*Kind of Blue*](<reviews/miles-davis-kind-of-blue/>), where no two listens are truly the same.
+  In a genre often defined by a kind of crass fury, A Tribe Called Quest look on with the wry calm of a group who’s seen it all. It’s a witty album, but never comic. We (read: I) have railed against artists in the past for slipping into the realm of silliness. *Midnight Marauders*, in contrast, is dignified, almost solemn. Oftentimes — in the midst of any given track — it feels like hip hop’s answer to [*Kind of Blue*](/reviews/miles-davis-kind-of-blue/), where no two listens are truly the same.
 
-  *Midnight Marauders* is not an album of smash hit songs, nor one of shock value. Like many of the best records, it weaves a sonic world and invites you into it. It would be near impossible to dismiss this as crass or ‘offensive.’ It doesn’t have the edge of something like [*Straight Outta Compton*](<reviews/nwa-straight-outta-compton/>), or more recent masterpieces like [*To Pimp a Butterfly*](<reviews/kendrick-lamar-to-pimp-a-butterfly/>), but what it lacks in bite it makes up for in warmth and sophistication. *Midnight Marauders *is a magnificent record. Every listen is a privilege.
+  *Midnight Marauders* is not an album of smash hit songs, nor one of shock value. Like many of the best records, it weaves a sonic world and invites you into it. It would be near impossible to dismiss this as crass or ‘offensive.’ It doesn’t have the edge of something like [*Straight Outta Compton*](/reviews/nwa-straight-outta-compton/), or more recent masterpieces like [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), but what it lacks in bite it makes up for in warmth and sophistication. *Midnight Marauders* is a magnificent record. Every listen is a privilege.
 
 tracks:
   - n/a

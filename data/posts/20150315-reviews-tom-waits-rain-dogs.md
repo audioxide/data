@@ -7,6 +7,8 @@ tags:
   - 1980s
   - "21"
   - tom waits
+  - alternative rock
+  - rock
 featuredimage: album-artwork/rain-dogs-tom-waits.jpg
 artist: Tom Waits
 album: Rain Dogs

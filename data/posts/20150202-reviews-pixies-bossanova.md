@@ -7,6 +7,7 @@ tags:
   - "19"
   - 1990s
   - pixies
+  - alternative rock
 featuredimage: album-artwork/bossanova-pixies.jpg
 artist: Pixies
 album: Bossanova
@@ -34,7 +35,7 @@ albumMBID: e062f23a-ed81-3baf-8f24-8979fef060cc
 author: André
 
 review: >- 
-  Without the raw energy of *Surfer Rosa* and cohesiveness of *[Doolittle](reviews/pixies-doolittle/)*, *Bossanova* is simply a solid album from a remarkable band. By no means their best work, but an enjoyable listen nonetheless (even if a few tracks do drift by).
+  Without the raw energy of *Surfer Rosa* and cohesiveness of [*Doolittle*](/reviews/pixies-doolittle/), *Bossanova* is simply a solid album from a remarkable band. By no means their best work, but an enjoyable listen nonetheless (even if a few tracks do drift by).
 
 tracks:
   - All Over the World

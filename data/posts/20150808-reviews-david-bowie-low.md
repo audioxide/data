@@ -6,9 +6,10 @@ type: reviews
 tags:
   - 1970s
   - "27"
-  - 27+ club
+  - 27 plus club
   - david bowie
   - brian eno
+  - kraftwerk
 featuredimage: album-artwork/low-david-bowie.jpg
 artist: David Bowie
 album: Low
@@ -36,11 +37,11 @@ albumMBID: f6a51281-56c4-3538-b915-65a9d4eb29b5
 author: André
 
 review: >-
-  In alliance with Tony Visconti and [Brian Eno](https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/), Bowie achieved a striking balance on *Low*, an equilibrium uncovered between the experimentation of avant-garde electronic music and the melodic sensibilities of pop and glam-rock that Bowie was already familiar with. 
+  In alliance with Tony Visconti and [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/), Bowie achieved a striking balance on *Low*, an equilibrium uncovered between the experimentation of avant-garde electronic music and the melodic sensibilities of pop and glam-rock that Bowie was already familiar with. 
   
   The feeling of disconnect between the two sides can be initially startling, but you’re subsequently rewarded with something truly captivating. The second side is particularly sublime, its emotional and reflective tones forging to paint a beautiful scene of melancholy that is made more powerful due to the fragmented portion of the album that precedes it. 
   
-  Combining Bowie’s newfound sense of clarity with his appreciation for the rise of experimental music, *Low* is quite possibly Bowie at his most creative point. Upon listening, you hear Can, you hear [Kraftwerk](https://audioxide.com/reviews/kraftwerk-the-man-machine/), and you — naturally — hear Eno, but most crucially of all, you still hear Bowie. A stunning record that will continue to remain timeless in its ambition and purity.
+  Combining Bowie’s newfound sense of clarity with his appreciation for the rise of experimental music, *Low* is quite possibly Bowie at his most creative point. Upon listening, you hear Can, you hear [Kraftwerk](/reviews/kraftwerk-the-man-machine/), and you — naturally — hear Eno, but most crucially of all, you still hear Bowie. A stunning record that will continue to remain timeless in its ambition and purity.
 
 tracks:
   - Warszawa
@@ -58,7 +59,7 @@ author: Fred
 review: >-
   It is an absolute pleasure listening to *Low*. Written and produced in the midst of Bowie’s come-down from cocaine addiction, the album is infused with a gentle clarity that you’re not conditioned to expect from much of his work. Although its depth of sound is rightly renowned and celebrated, the precise measure and care with which it is pieced together is what elevates it above much of Bowie’s works before and since. 
   
-  Between the delicious bite-sized servings of vintage Bowie glam-rock and the brooding beauty of the instrumental pieces, *Low* is a model two-sided album; something that [adapts the format and twists it to its own ends](https://audioxide.com/articles/beauty-from-circumstance/). What results is a delicate and insightful balance of showmanship and reflection. The second side, behind the glinting eyes of the first, is as beautiful a soundscape as your are ever likely to hear. *Low* is quietly, tentatively top-draw, and it deserves everyone’s time.
+  Between the delicious bite-sized servings of vintage Bowie glam-rock and the brooding beauty of the instrumental pieces, *Low* is a model two-sided album; something that [adapts the format and twists it to its own ends](/articles/beauty-from-circumstance/). What results is a delicate and insightful balance of showmanship and reflection. The second side, behind the glinting eyes of the first, is as beautiful a soundscape as your are ever likely to hear. *Low* is quietly, tentatively top-draw, and it deserves everyone’s time.
 
 tracks:
   - Warszawa

@@ -8,6 +8,9 @@ tags:
   - 2010s
   - tycho
   - electronic
+  - vampire weekend
+  - air
+  - david bowie
 featuredimage: album-artwork/weather-tycho.jpg
 artist: Tycho
 album: Weather
@@ -34,7 +37,7 @@ albumMBID: 0ebe471f-87a1-4c60-af9d-135a4b080894
 author: André
 
 review: >-
-  There is such a thing as sounding too immaculate. Beyonce’s recent collaboration with Hans Zimmer for *The Lion King* remake is merely another example of overproduction in contemporary music, but sterility hurts even more when it manages to infiltrate artists outside of the inflated pop scene. When Vampire Weekend released [*Father of the Bride*](<reviews/vampire-weekend-father-of-the-bride/>) back in May, I wrote that ‘these songs wouldn’t feel out of place in an advert for Google, such is the clinical nature of their formation’, and I could apply this exact sentiment to *Weather* too. It is recorded, mixed and produced exquisitely, yet I can’t recall a single release in 2019 that has proven to be so inconsequential. I don’t dislike the music at all, but it’s so severely sterile.
+  There is such a thing as sounding too immaculate. Beyonce’s recent collaboration with Hans Zimmer for *The Lion King* remake is merely another example of overproduction in contemporary music, but sterility hurts even more when it manages to infiltrate artists outside of the inflated pop scene. When Vampire Weekend released [*Father of the Bride*](/reviews/vampire-weekend-father-of-the-bride/) back in May, I wrote that ‘these songs wouldn’t feel out of place in an advert for Google, such is the clinical nature of their formation’, and I could apply this exact sentiment to *Weather* too. It is recorded, mixed and produced exquisitely, yet I can’t recall a single release in 2019 that has proven to be so inconsequential. I don’t dislike the music at all, but it’s so severely sterile.
 
   *Weather* is the first Tycho album to feature vocals. Whilst Saint Sinner is a very competent singer, her airy vocal inclusions only add to my apathy. *Dive* and *Awake* were effective because they captured scenes through the colour of their instrumentals, which is a difficult task in itself. When Saint Sinner’s vocals take centre stage — which is the vast majority of the 30-minute run time — the album feels ordinary, isolated, and understated to a fault. I’d recommend the three instrumental cuts to any fan of lush electronic music. Outside of that, there’s nothing of note to see here.
 
@@ -54,9 +57,9 @@ author: Fred
 review: >-
   There’s easy listening, and then there’s something like *Weather*. This is ambient Muzak. For all its smoothness and gentleness it barely leaves any impression at all. I’d tuned out so much by the end of the first listen that I didn’t realise the album was over for a good few minutes. It’s a real shame too, because I wouldn’t call anything on the album ‘bad’. It just isn’t all that good either.
 
-  There are the makings of a good album here, maybe even a really good album. The production is clean and the arrangements aren’t a million miles away being [Air](<reviews/air-moon-safari/>)\-like. I really like the opener, “Easy”. It has drive and fuzz and all that good stuff. But it fades fast after that. A pleasant aura only counts for so much when the tracks drift as much as they do on *Weather*. Warm, cuddly production is all well and good, but not when it rounds the corners of something lacking edge to begin with.
+  There are the makings of a good album here, maybe even a really good album. The production is clean and the arrangements aren’t a million miles away being [Air](/reviews/air-moon-safari/)-like. I really like the opener, “Easy”. It has drive and fuzz and all that good stuff. But it fades fast after that. A pleasant aura only counts for so much when the tracks drift as much as they do on *Weather*. Warm, cuddly production is all well and good, but not when it rounds the corners of something lacking edge to begin with.
 
-  I can’t say I’m crazy about the vocals either. Thin, wispy vocals only reenforce the sense that nothing’s really happening. To be utterly unfair to Tycho — listen to David Bowie’s [*Low*](<reviews/david-bowie-low/>). Side B of that record is as fuzzy as fuzzy comes, but Bowie’s vocals are anything but. They’re a superb counterbalance. Does *Weather* need to do the same to succeed? Of course not. But it does all sound a bit safe, and I look for more than things than a bit safe.
+  I can’t say I’m crazy about the vocals either. Thin, wispy vocals only reenforce the sense that nothing’s really happening. To be utterly unfair to Tycho — listen to David Bowie’s [*Low*](/reviews/david-bowie-low/). Side B of that record is as fuzzy as fuzzy comes, but Bowie’s vocals are anything but. They’re a superb counterbalance. Does *Weather* need to do the same to succeed? Of course not. But it does all sound a bit safe, and I look for more than things than a bit safe.
 
 tracks:
   - Easy

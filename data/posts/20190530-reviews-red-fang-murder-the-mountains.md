@@ -7,6 +7,9 @@ tags:
   - "20"
   - 2010s
   - red fang
+  - metal
+  - queens of the stone age
+  - godspeed you black emperor
 featuredimage: album-artwork/murder-the-mountains-red-fang.jpg
 artist: Red Fang
 album: Murder the Mountains
@@ -55,9 +58,9 @@ score:
 author: Fred
 
 review: >-
-  My frame of reference for this kind of music is so small that the best I can do is say *Murder the Mountains* sounds like something from an early *Tony Hawk’s Pro Skater* game. It’s gruff, it’s aggressive, and it has no standout qualities worth speaking of. That’s fine. It makes for an easy listen. The foundations are solid, but there’s not much on top. The grooves are relentless, sometimes even catchy. There just isn’t that finesse. Much of the album has the muscle of a [Queens of the Stone Age](<reviews/queens-of-the-stone-age-queens-of-the-stone-age/>) record, but none of the swagger.
+  My frame of reference for this kind of music is so small that the best I can do is say *Murder the Mountains* sounds like something from an early *Tony Hawk’s Pro Skater* game. It’s gruff, it’s aggressive, and it has no standout qualities worth speaking of. That’s fine. It makes for an easy listen. The foundations are solid, but there’s not much on top. The grooves are relentless, sometimes even catchy. There just isn’t that finesse. Much of the album has the muscle of a [Queens of the Stone Age](/reviews/queens-of-the-stone-age-queens-of-the-stone-age/) record, but none of the swagger.
 
-  The “Hank is Dead” solo isn’t bad, managing to step away from the dense, guitar sound that is apparently compulsory in metal bands. And “The Undertow” almost, *almost* sounds like something [Godspeed You! Black Emperor](<reviews/godspeed-you-black-emperor-f%e2%99%af-a%e2%99%af-infinity/>) could put out. I am reaching here though. There’s really not much to hold on to. When the growling and power chords and sextuple bass pedals are doing their thing I can’t help but phase out. It’s the musical equivalent of bodybuilders admiring themselves in the gym mirror.
+  The “Hank is Dead” solo isn’t bad, managing to step away from the dense, guitar sound that is apparently compulsory in metal bands. And “The Undertow” almost, *almost* sounds like something [Godspeed You! Black Emperor](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/) could put out. I am reaching here though. There’s really not much to hold on to. When the growling and power chords and sextuple bass pedals are doing their thing I can’t help but phase out. It’s the musical equivalent of bodybuilders admiring themselves in the gym mirror.
 
 tracks:
   - The Undertow

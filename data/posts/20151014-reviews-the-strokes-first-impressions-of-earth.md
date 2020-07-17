@@ -7,6 +7,8 @@ tags:
   - 2000s
   - "21"
   - the strokes
+  - alternative rock
+  - indie
 featuredimage: album-artwork/first-impressions-of-earth-the-strokes.jpg
 artist: The Strokes
 album: First Impressions of Earth

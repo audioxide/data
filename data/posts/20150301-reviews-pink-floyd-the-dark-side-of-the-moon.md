@@ -6,7 +6,9 @@ type: reviews
 tags:
   - 1970s
   - "27"
-  - 27+ club
+  - 27 plus club
+  - rock
+  - alternative rock
   - concept albums
   - pink floyd
 featuredimage: album-artwork/the-dark-side-of-the-moon-pink-floyd.jpg

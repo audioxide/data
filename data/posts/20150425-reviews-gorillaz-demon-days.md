@@ -6,8 +6,10 @@ type: reviews
 tags:
   - 2000s
   - "26"
-  - damon albarn
   - gorillaz
+  - pop
+  - pop rock
+  - alternative rock
 featuredimage: album-artwork/demon-days-gorillaz.jpg
 artist: Gorillaz
 album: Demon Days
@@ -34,7 +36,7 @@ albumMBID: f959a46a-a136-3134-9412-6572b23fad95
 author: André
 
 review: >-
-  Having not listened to *Demon Days* for a good number of years now, I’ve relished coming back to this one. Albarn collaborates with a wide variety of artists, and in doing so deserves enormous credit for sculpturing such a cohesive, accessible record — ten years on and it’s still very impressive how, with all the stylistic twists and turns, the album remains consistent enough to create such a unified package. Attached with plenty of nostalgia, *Demon Days* is an extremely enjoyable listen and undoubtedly the most complete [Gorillaz](https://audioxide.com/reviews/gorillaz-plastic-beach/) release to date.
+  Having not listened to *Demon Days* for a good number of years now, I’ve relished coming back to this one. Albarn collaborates with a wide variety of artists, and in doing so deserves enormous credit for sculpturing such a cohesive, accessible record — ten years on and it’s still very impressive how, with all the stylistic twists and turns, the album remains consistent enough to create such a unified package. Attached with plenty of nostalgia, *Demon Days* is an extremely enjoyable listen and undoubtedly the most complete [Gorillaz](/reviews/gorillaz-plastic-beach/) release to date.
 
 tracks:
   - Feel Good Inc.

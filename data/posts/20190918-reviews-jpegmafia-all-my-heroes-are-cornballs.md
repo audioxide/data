@@ -7,6 +7,8 @@ tags:
   - 2010s
   - "22"
   - jpegmafia
+  - electronic
+  - hip hop
 featuredimage: album-artwork/all-my-heroes-are-cornballs-jpegmafia.jpg
 artist: JPEGMAFIA
 album: All My Heroes Are Cornballs
@@ -37,7 +39,7 @@ review: >-
 
   Nevertheless, I expect *AMHAC* will eventually become one of 2019’s most crucial releases. Tired trap beats comprise a good portion of modern hip-hop, and JPEGMAFIA puts many of his contemporaries to shame by squeezing hundreds of sketches and ideas into a 45-minute album. Better still, he somehow makes it cohesive. Upon listening, I visualise a musical prodigy making beats in a messy bedroom cluttered with clothes and empty packets of M&M’s. The prowess shines through. “Kenan vs Kel” is an early example of how freely he can jump between genres, and it certainly sets the tone for the whole experience. There’s a glaring sense of lunacy throughout. It’s as though JPEGMAFIA is snapping between multiple identities. I actually find the madnessquite soothing, though I’m not really sure how or why.
 
-  For all the experimental noise, it’s the lush R&B that really stands out. “Thot Tactics” and “Grimy Waifu” are dazzling yet delicate numbers that demonstrate how good JPEGMAFIA is at actually writing songs, and I wish there were more. On occasion, the vocal melodies are sublime. As already mentioned, the production is seriously inventive; sometimes jarring, but often very compelling. I imagine this is the type of originality that [Bon Iver has tried (and failed) to achieve with his recent output](<reviews/bon-iver-22-a-million/>), whereas there’s little doubt that *AMHAC* is a success. Whilst Veteran introduced JPEGMAFIA to the scene, this will likely be the defining moment to kickstart a prosperous passage of fortune.
+  For all the experimental noise, it’s the lush R&B that really stands out. “Thot Tactics” and “Grimy Waifu” are dazzling yet delicate numbers that demonstrate how good JPEGMAFIA is at actually writing songs, and I wish there were more. On occasion, the vocal melodies are sublime. As already mentioned, the production is seriously inventive; sometimes jarring, but often very compelling. I imagine this is the type of originality that [Bon Iver has tried (and failed) to achieve with his recent output](/reviews/bon-iver-22-a-million/), whereas there’s little doubt that *AMHAC* is a success. Whilst Veteran introduced JPEGMAFIA to the scene, this will likely be the defining moment to kickstart a prosperous passage of fortune.
 
 tracks:
   - Thot Tactics

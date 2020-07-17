@@ -7,6 +7,10 @@ tags:
   - "17"
   - 2010s
   - muse
+  - rock
+  - pop rock
+  - alternative rock
+  - pink floyd
 featuredimage: album-artwork/drones-muse.jpg
 artist: Muse
 album: Drones
@@ -55,7 +59,7 @@ author: Fred
 review: >-
   In keeping with the album’s spirit of ham-fisted posturing, I look to Oscar Wilde for a profound and enlightening quote of some kind or other. ‘In this world,’ apparently, ‘there are only two tragedies. One is not getting what one wants, and the other is getting it.’ Therein lies the problem with *Drones*; it’s the full tragedy package. 
   
-  A fraction of the album is really great — some of Muse’s best stuff for a decade — and everything else is really not. The first listen through left me rather upset, far more than if the whole album had been rubbish. It goes off the rails quite spectacularly. The opening third is nothing to write home about, the middle section is terrific, and the last twenty minutes dismantles world tyranny by channelling *Grease*, *Les Mis*, bad [Pink Floyd](https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/), and [the singing turrets in *Portal 2*](<https://youtu.be/_kPyGvqNn4Y?t=28s>). 
+  A fraction of the album is really great — some of Muse’s best stuff for a decade — and everything else is really not. The first listen through left me rather upset, far more than if the whole album had been rubbish. It goes off the rails quite spectacularly. The opening third is nothing to write home about, the middle section is terrific, and the last twenty minutes dismantles world tyranny by channelling *Grease*, *Les Mis*, bad [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/), and [the singing turrets in *Portal 2*](https://youtu.be/_kPyGvqNn4Y?t=28s). 
   
   I don’t doubt the band’s sincerity, and if the album prompts some listeners to read up on drone strikes and the military-industrial complex then that’s great, but the music itself is schizophrenic and oftentimes phenomenally daft. There are not many angles from which the album can be approached, either, because Bellamy and Co. take themselves so seriously. 
   

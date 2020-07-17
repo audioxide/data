@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "21"
   - squarepusher
+  - electronic
+  - idm
+  - aphex twin
 featuredimage: album-artwork/damogen-furies-squarepusher.jpg
 artist: Squarepusher
 album: Damogen Furies
@@ -33,7 +36,7 @@ albumMBID: 42e5557d-1c2e-4b1d-8580-7524ef8c3fd4
 author: André
 
 review: >-
-  In similar fashion to [Aphex Twin](https://audioxide.com/reviews/aphex-twin-richard-d-james-album/)’s effort last year with *Syro*, Squarepusher produces another solid album without pushing any particular boundaries or venturing into unfamiliar territory. The beats are as intricate as ever, whilst the melodies, as sporadic as they are, retain the classic Squarepusher charm. Whilst it’s not for the faint-hearted, *Damogen Furies* is a well-focused release from one of electronic music’s most respected artists, and it’s well worth exploring.
+  In similar fashion to [Aphex Twin](/reviews/aphex-twin-richard-d-james-album/)’s effort last year with *Syro*, Squarepusher produces another solid album without pushing any particular boundaries or venturing into unfamiliar territory. The beats are as intricate as ever, whilst the melodies, as sporadic as they are, retain the classic Squarepusher charm. Whilst it’s not for the faint-hearted, *Damogen Furies* is a well-focused release from one of electronic music’s most respected artists, and it’s well worth exploring.
 
 tracks:
   - Exjag Nives

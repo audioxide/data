@@ -7,6 +7,7 @@ tags:
   - 1990s
   - "23"
   - nick cave and the bad seeds
+  - alternative rock
 featuredimage: album-artwork/let-love-in-nick-cave-and-the-bad-seeds.jpg
 artist: Nick Cave & The Bad Seeds
 album: Let Love In
@@ -33,9 +34,13 @@ albumMBID: f369d4bf-71f1-31f5-9e01-ffdbf15acdbe
 author: Andre
 
 review: >-
-  The Nick Cave & The Bad Seeds catalogue is a tricky one to infiltrate. It speaks volumes about the quality and diversity of the musical output that, when prompted as to which is the best, fans often point to a good handful of records. Whilst *The Boatman’s Call* is a magical album, I’d instead recommend *Let Love In* as an entry album for new listeners. It’s a striking and visual record that captures everything that Nick Cave is all about. He and The Bad Seeds seemingly had no limits here. The album’s early ballad “Nobody’s Baby Now” is followed by “Loverman” and “Jangling Jack”, both of which feature powerful segments of punk rock. Cave’s performance on the latter cut is both captivating and hilarious — he sounds absolutely unhinged. *Let Love In* revels in chaos, and Cave seems in his element here. The album’s striking cover art says it all.
+  The Nick Cave & The Bad Seeds catalogue is a tricky one to infiltrate. It speaks volumes about the quality and diversity of the musical output that, when prompted as to which is the best, fans often point to a good handful of records. Whilst *The Boatman’s Call* is a magical album, I’d instead recommend *Let Love In* as an entry album for new listeners. It’s a striking and visual record that captures everything that Nick Cave is all about. 
+  
+  He and The Bad Seeds seemingly had no limits here. The album’s early ballad “Nobody’s Baby Now” is followed by “Loverman” and “Jangling Jack”, both of which feature powerful segments of punk rock. Cave’s performance on the latter cut is both captivating and hilarious — he sounds absolutely unhinged. *Let Love In* revels in chaos, and Cave seems in his element here. The album’s striking cover art says it all.
 
-  Whilst Cave expresses such raw emotion in animalistic fashion, The Bad Seeds support him with a swagger. They provide a technical, skilful quality that makes *Let Love In* what it is. The arrangements are expansive and diverse, with coarse guitars blending between the lines of timpani, bells, piano, and organ. Lots of organ. The Bad Seeds set a perfect scene for Cave’s poignant poetry. The album’s cinematic quality has only been strengthened since its release, with the outstanding “Red Right Hand” being used as the theme tune to *Peaky Blinders* (and its lesser known, yet quite brilliant, feature in the original *Scream*). I’m not sure *Let Love In* is the greatest album by Nick Cave & The Bad Seeds, though I’m fairly sure it’s my personal favourite. They indulged themselves in carnage; twisting genres so violently that you can practically hear them bleed. Twenty-five years on, and the record still sounds as brilliant as ever.
+  Whilst Cave expresses such raw emotion in animalistic fashion, The Bad Seeds support him with a swagger. They provide a technical, skilful quality that makes *Let Love In* what it is. The arrangements are expansive and diverse, with coarse guitars blending between the lines of timpani, bells, piano, and organ. Lots of organ. The Bad Seeds set a perfect scene for Cave’s poignant poetry. The album’s cinematic quality has only been strengthened since its release, with the outstanding “Red Right Hand” being used as the theme tune to *Peaky Blinders* (and its lesser known, yet quite brilliant, feature in the original *Scream*). 
+  
+  I’m not sure *Let Love In* is the greatest album by Nick Cave & The Bad Seeds, though I’m fairly sure it’s my personal favourite. They indulged themselves in carnage; twisting genres so violently that you can practically hear them bleed. Twenty-five years on, and the record still sounds as brilliant as ever.
 
 tracks:
   - Red Right Hand
@@ -57,7 +62,7 @@ review: >-
 
   Groaning guitars, neon organs, militaristic drumming, clanging bells, and an ever-present sci-fi oddness together make for a uncannily focused listen. Cave’s derangement kind of holds everything together. Grimy western “I Let Love In” and closer “Do You Love Me (Part 2)” are favourites of mine, but the undoubted highlight of *Let Love In* is “Red Right Hand”.
 
-  In the brilliance of “Red Right Hand” one sees reflected the limitations of the album, such as they are. The song’s languid, mystical groove is a near-perfect blend of Nick Cave and The Bad Seeds, whereas much of the album feels more like Nick Cave (and The Bad Seeds). It’s a subtle difference, and I’ve phrased it poorly, but it is there. “Red Right Hand” is brilliant because it gives the Seeds room to breathe, because the mix is sparse and otherworldly. [Cave was apparently unenthusiastic about the song to begin with](<https://nypost.com/2016/06/22/the-unlikely-story-behind-peaky-blinders-theme-song/>) and somehow that does not surprise me.
+  In the brilliance of “Red Right Hand” one sees reflected the limitations of the album, such as they are. The song’s languid, mystical groove is a near-perfect blend of Nick Cave and The Bad Seeds, whereas much of the album feels more like Nick Cave (and The Bad Seeds). It’s a subtle difference, and I’ve phrased it poorly, but it is there. “Red Right Hand” is brilliant because it gives the Seeds room to breathe, because the mix is sparse and otherworldly. [Cave was apparently unenthusiastic about the song to begin with](https://nypost.com/2016/06/22/the-unlikely-story-behind-peaky-blinders-theme-song/) and somehow that does not surprise me.
 
   This is a minor complaint. *Let Love In* is a very fine album and I expect to return to it often. Are some of the songs disposable? Yes. (Looking at you, “Thirsty Dog” and “Ain’t Gonna Rain No More”.) Do The Bad Seeds deserve more room? Yes. Is Nick Cave a commanding, captivating frontman? Unquestionably. So all things considered I hold my tongue and enjoy the ride.
 
@@ -83,7 +88,7 @@ review: >-
 
   *Let Love In* is not a perfect album however. Whilst there is a lot to love here, some tracks feel not quite in the same calibre as others. Some of the more standard ballads don’t seem to fit the persona Cave conjures in the rest of the album. However, if you like me, didn’t like these, then there’s even some excellent post-punk to get your ears around on “Thirsty Dog”.
 
-  Nick Cave may sometimes seem more of a poet than a musician. But along with his Bad Seeds the lyricism on offer here in *Let Love In* is dark, aching (and sometimes a bit cheesy). Nonetheless, a record well worth your attention.
+  [Nick Cave may sometimes seem more of a poet than a musician](/reviews/nick-cave-and-the-bad-seeds-ghosteen/), but along with his Bad Seeds the lyricism on offer here in *Let Love In* is dark, aching (and sometimes a bit cheesy). Nonetheless, a record well worth your attention.
 
 tracks:
   - I Let Love In

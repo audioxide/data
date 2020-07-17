@@ -7,6 +7,7 @@ tags:
   - 2010s
   - "22"
   - denzel curry
+  - hip hop
 featuredimage: album-artwork/zuu-denzel-curry.jpg
 artist: Denzel Curry
 album: ZUU
@@ -55,7 +56,13 @@ score:
 author: Marcus
 
 review: >-
-  "From the outset, *ZUU* is a tour de force in the bait and switch: for every blunt or cliched element across its 30-minute runtime there’s an immediate follow-up that borders on genius. I’d argue that Denzel Curry even crosses that border every so often. I’ve dabbled in his work before, but nothing prior to *ZUU* caught me in quite the same way; by the end of *TA13OO* I had largely dismissed Curry as merely another name in an overcrowded trap scene. *ZUU* has emphatically changed my mind. The hooks are moreish and distinctive, the flows have rough edges that carry the silliest bars through to the payoffs, and the ethereal, echoing atmosphere keeps everything ticking over. Things undergo a dramatic shift following the “YOO” intermission (honestly, it’s a rare achievement to have a skit that is both hilarious and nothing but good for the album), and a fresh energy is freed from the more restrained approach that brought us to this point. The beats get more aggressive and the hooks get more playful, offering a looser side to his personality. Both sides inform the other, and it’s certainly as much a study of the artist as it is of his experiences in his hometown – Carol City, Florida. When he addresses home he’s at his most open and insightful, covering a range of bases with a consistent focus on the character of the neighbourhood and its people. Not only that, but his wordplay and flows are also at their most inventive during these moments. Production-wise, *ZUU* has a well-realised and fresh blend of old school hip-hop, trap and elements of alternative hip-hop interchanging components throughout. Track by track, Curry doesn’t run out of ideas and they’re played in a relentlessly engaging fashion. I can’t wait to see where he goes next."
+  "From the outset, *ZUU* is a tour de force in the bait and switch: for every blunt or cliched element across its 30-minute runtime there’s an immediate follow-up that borders on genius. I’d argue that Denzel Curry even crosses that border every so often. I’ve dabbled in his work before, but nothing prior to *ZUU* caught me in quite the same way; by the end of *TA13OO* I had largely dismissed Curry as merely another name in an overcrowded trap scene. 
+  
+  *ZUU* has emphatically changed my mind. The hooks are moreish and distinctive, the flows have rough edges that carry the silliest bars through to the payoffs, and the ethereal, echoing atmosphere keeps everything ticking over. Things undergo a dramatic shift following the “YOO” intermission (honestly, it’s a rare achievement to have a skit that is both hilarious and nothing but good for the album), and a fresh energy is freed from the more restrained approach that brought us to this point. The beats get more aggressive and the hooks get more playful, offering a looser side to his personality. 
+  
+  Both sides inform the other, and it’s certainly as much a study of the artist as it is of his experiences in his hometown – Carol City, Florida. When he addresses home he’s at his most open and insightful, covering a range of bases with a consistent focus on the character of the neighbourhood and its people. Not only that, but his wordplay and flows are also at their most inventive during these moments. 
+  
+  Production-wise, *ZUU* has a well-realised and fresh blend of old school hip-hop, trap and elements of alternative hip-hop interchanging components throughout. Track by track, Curry doesn’t run out of ideas and they’re played in a relentlessly engaging fashion. I can’t wait to see where he goes next."
 
 tracks:
   - AUTOMATIC

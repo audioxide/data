@@ -7,6 +7,8 @@ tags:
   - "19"
   - 2010s
   - jaga jazzist
+  - jazz
+  - radiohead
 featuredimage: album-artwork/starfire-jaga-jazzist.jpg
 artist: Jaga Jazzist
 album: Starfire
@@ -70,7 +72,7 @@ score:
 author: Andrew
 
 review: >-
-  As a newcomer to Jaga Jazzist, I was expecting something closer to conventional contemporary jazz. While what I heard was unexpected, it was certainly still enjoyable. Instrumentation and melodies that wouldn’t be so out of place next to [Radiohead](https://audioxide.com/articles/ranking-radioheads-discography/) transition and entwine with gritty synths that’d you’d expect from a Clark release, and the progression and transition of the music ensures you remain entertained at least for the first two thirds. 
+  As a newcomer to Jaga Jazzist, I was expecting something closer to conventional contemporary jazz. While what I heard was unexpected, it was certainly still enjoyable. Instrumentation and melodies that wouldn’t be so out of place next to [Radiohead](/articles/ranking-radioheads-discography/) transition and entwine with gritty synths that’d you’d expect from a Clark release, and the progression and transition of the music ensures you remain entertained at least for the first two thirds. 
   
   Despite this, the jazz roots of the band are still discernible throughout, especially in the rhythm section, as time signature, tempo and drum beat slide from one to the next. For this, the album musicians deserve credit, make the album notable, and have certainly whetted my appetite to listen to the band’s back catalogue. With all that said however, I’m unsure that I’ll be returning to *Starfire* as a whole, as much of the long, smooth transitioning and building on a musical idea may be better suited to a live performance and doesn’t excite me as much when on record.
 

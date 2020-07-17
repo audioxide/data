@@ -7,6 +7,8 @@ tags:
   - 2010s
   - "21"
   - death grips
+  - double albums
+  - industrial
 featuredimage: album-artwork/the-powers-that-b-death-grips.jpg
 artist: Death Grips
 album: The Powers that B

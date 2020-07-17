@@ -8,6 +8,10 @@ tags:
   - "22"
   - weyes blood
   - pop
+  - art pop
+  - julia jacklin
+  - courtney barnett
+  - muse
 featuredimage: album-artwork/titanic-rising-weyes-blood.jpg
 artist: Weyes Blood
 album: Titanic Rising
@@ -34,7 +38,7 @@ albumMBID: b30447b9-8e32-4e98-a128-9c18d9378e8d
 author: André
 
 review: >-
-  Natalie Mering, otherwise known as Weyes Blood, describes her fourth album as ‘The Kinks meet the Second World War, or Bob Seger meets Enya.’ I’m not entirely sure how accurate that depiction is, but then Titanic Rising is proving a difficult album to nail down. I hear glimpses of Joni Mitchell, Perfume Genius, Ariel Pink, and even a flash of [Muse](<reviews/muse-origin-of-symmetry/>). The variety on show is quite extraordinary, and it’s something that separates this work from the recent releases of artists like [Julia Jacklin](<reviews/julia-jacklin-crushing/>), and perhaps even [Courtney Barnett](<reviews/courtney-barnett-tell-me-how-you-really-feel/>). Whilst I wouldn’t claim *Titanic Rising* to be a masterpiece, I’d rank it alongside many of this decades finest pop albums without hesitation. And there’s been quite a few of those.
+  Natalie Mering, otherwise known as Weyes Blood, describes her fourth album as ‘The Kinks meet the Second World War, or Bob Seger meets Enya.’ I’m not entirely sure how accurate that depiction is, but then Titanic Rising is proving a difficult album to nail down. I hear glimpses of Joni Mitchell, Perfume Genius, Ariel Pink, and even a flash of [Muse](/reviews/muse-origin-of-symmetry/). The variety on show is quite extraordinary, and it’s something that separates this work from the recent releases of artists like [Julia Jacklin](/reviews/julia-jacklin-crushing/), and perhaps even [Courtney Barnett](/reviews/courtney-barnett-tell-me-how-you-really-feel/). Whilst I wouldn’t claim *Titanic Rising* to be a masterpiece, I’d rank it alongside many of this decades finest pop albums without hesitation. And there’s been quite a few of those.
 
   *Titanic Rising* stands out because of its bold and forthright ambitions. It deals in extremes, and that will likely put off a small fraction of listeners, but the record is all the better for it. The stunning climax “Movies” wouldn’t be so powerful if it wasn’t for the chamber-pop ballads that surround it. It’s quite the elegant journey — perhaps too faint for its own good at times — but it largely works due to the sheer variety of the songs themselves. *Titanic Rising* goes above and beyond to attempt something extraordinary, and even if it doesn’t quite reach those desired heights, Weyes Blood deserves serious commendation. Despite its glistening arrangements and ethereal production, this is a cheesy, yet excellently realised, pop album at heart.
 

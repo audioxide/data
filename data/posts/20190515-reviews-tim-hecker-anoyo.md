@@ -6,7 +6,10 @@ type: reviews
 tags:
   - "19"
   - 2010s
-  - Tim Hecker
+  - tim hecker
+  - electronic
+  - brian eno
+  - apparat
 featuredimage: album-artwork/anoyo-tim-hecker.jpg
 artist: Tim Hecker
 album: Anoyo
@@ -37,7 +40,7 @@ review: >-
 
   *Anoyo* is a concise experience that takes you through multiple tones, moods and textures. Some segments are extremely beautiful, others can be testing, but these moments of discomfort are merely part of the journey. The lush tones of “That world” are made even sweeter when you consider what takes place afterwards. Much of the allure is in the instrumentation: a unique blend of ancient instruments and modern electronics, combining to create misty soundscapes. On the very surface, *Anoyo* can be narrowed down to soundtrack music, but I think the record totally transcends that.
 
-  Tim Hecker is often credited as an ambient producer, but *Anoyo* is at odds with [Eno’s quote that defines the genre](<reviews/brian-eno-ambient-1-music-for-airports/>). There’s very little to ‘ignore’. To get the most out of the record, listeners must embrace the obscurity and relish the moments of discomfort; probing shadows in order to find answers. The records closing track “You never were” avoids any musical or emotional payoff; instead simply fading into darkness. It’s at this point where the album-art proves to be most poignant, and stunningly fitting. *Anoyo* may prove to be a striking and often challenging listen, but there are conclusions to be found if you look deep enough.
+  Tim Hecker is often credited as an ambient producer, but *Anoyo* is at odds with [Eno’s quote that defines the genre](/reviews/brian-eno-ambient-1-music-for-airports/). There’s very little to ‘ignore’. To get the most out of the record, listeners must embrace the obscurity and relish the moments of discomfort; probing shadows in order to find answers. The records closing track “You never were” avoids any musical or emotional payoff; instead simply fading into darkness. It’s at this point where the album-art proves to be most poignant, and stunningly fitting. *Anoyo* may prove to be a striking and often challenging listen, but there are conclusions to be found if you look deep enough.
 
 tracks:
   - That world
@@ -71,7 +74,7 @@ score:
 author: Andrew
 
 review: >-
-  Tim Hecker stands alongside [Apparat this year](<reviews/apparat-lp5/>), as they both release albums full to the brim with rich, organic, swirling and, at times, seemingly directionless music. *Anoyo* is somewhat of a different beast to *LP5* though, and where the latter settled for delicate ambient moments without much weight, Hecker pursues a more ambitious work that tends to be less kind towards his listener.
+  Tim Hecker stands alongside [Apparat this year](/reviews/apparat-lp5/), as they both release albums full to the brim with rich, organic, swirling and, at times, seemingly directionless music. *Anoyo* is somewhat of a different beast to *LP5* though, and where the latter settled for delicate ambient moments without much weight, Hecker pursues a more ambitious work that tends to be less kind towards his listener.
 
   *Anoyo* opens with a swirling, haunting soundscape, complete with irritable, leering strings up front and centre. It’s an atmosphere that’s strewn across the \~30 minute play time, mixing uninviting synths with acoustic instrumentation from across the world. It puts me in two minds as I listen through, where on one hand it builds into quite an impressive body of work while simultaneously making the experience feel arduous. By the time “Not alone” takes its turn, the incessant ebb and flow of the beating drums make for a downright unpleasant experience and “You never were” is almost comforting as it takes the reigns, albeit only a little.
 

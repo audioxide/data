@@ -7,6 +7,8 @@ tags:
   - 2010s
   - "22"
   - san fermin
+  - pop
+  - art pop
 featuredimage: album-artwork/jackrabbit-san-fermin.jpg
 artist: San Fermin
 album: Jackrabbit

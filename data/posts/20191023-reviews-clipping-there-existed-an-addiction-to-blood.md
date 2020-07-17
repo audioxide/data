@@ -7,6 +7,10 @@ tags:
   - 2010s
   - "23"
   - clipping
+  - hip hop
+  - electronic
+  - eminem
+  - low
 featuredimage: album-artwork/there-existed-an-addiction-to-blood-clipping.jpg
 artist: clipping.
 album: There Existed an Addiction to Blood
@@ -16,9 +20,9 @@ favouritetracks:
   - La Mala Ordina
   - Nothing is Safe
 totalscore:
-  given: .nan
-  possible: null
-  fraction: .nan
+  given: 23
+  possible: 30
+  fraction: 0.7666666666666667
 colours:
   - "#000000"
   - "#f8f7f3"
@@ -33,11 +37,13 @@ albumMBID: 16af6d23-9d40-49a6-952b-5631d4ec7981
 author: André
 
 review: >-
-  A horrorcore album based on a ’70s vampire film, featuring spooky field recordings, homages to John Carpenter, and suspenseful instrumentals. This, released on the month of Halloween. *There Existed an Addiction to Blood* doesn’t exactly deal in subtleties then. Nonetheless, clipping. have achieved something quite brilliant with their latest record. Though it borrows multiple tropes of all things Halloween, the experimental hip-hop group don’t rely on gimmicks to shock its listeners. Everything is constructed with precision and skill. As a huge fan of early [Eminem](<reviews/eminem-the-marshall-mathers-lp/>), it’s no surprise that I’m totally infatuated with what’s on display.
+  A horrorcore album based on a ’70s vampire film, featuring spooky field recordings, homages to John Carpenter, and suspenseful instrumentals. This, released on the month of Halloween. *There Existed an Addiction to Blood* doesn’t exactly deal in subtleties then. Nonetheless, clipping. have achieved something quite brilliant with their latest record. Though it borrows multiple tropes of all things Halloween, the experimental hip-hop group don’t rely on gimmicks to shock its listeners. Everything is constructed with precision and skill. As a huge fan of early [Eminem](/reviews/eminem-the-marshall-mathers-lp/), it’s no surprise that I’m totally infatuated with what’s on display.
 
   clipping. balance abstract experimentation with trap beats that give the music a sense of connection, coming together to form something that sounds wholly unique. There are two aspects to the record: the twisted, cinematic instrumentals created by William Hutson and Jonathon Snipes, and the wondrous wordplay of Daveed Diggs. Indeed, Diggs’ performances here will likely be the highlight for many listeners, but I think the overall thrill comes from how both elements come together to form something so distinctive. There’s little doubt that it’s the music itself that sets clipping. apart from other hip-hop acts.
 
-  *There Existed an Addiction to Blood* features some of my favourite production I’ve heard all year. “Run for Your Life” is one notable example, shrewdly using foley to set the scene, allowing Diggs to expertly narrate. It’s a dream to listen to on headphones, such is the use of stereo field. Immersing yourself within the atmosphere that clipping. construct, you allow yourself to feel like the lead role of a thrilling horror flick. Certainly, this is a record that is made to play from beginning to end, even having the audacity to end with the lengthy sound of a piano burning, lasting a whole 18 minutes. It’s strangely soothing, almost hypnotic, like ambient music for nihilists. I’m not sure *There Existed an Addiction to Blood* is a masterpiece, but I feel confident that it will go down as one of 2019’s most memorable musical moments.
+  *There Existed an Addiction to Blood* features some of my favourite production I’ve heard all year. “Run for Your Life” is one notable example, shrewdly using foley to set the scene, allowing Diggs to expertly narrate. It’s a dream to listen to on headphones, such is the use of stereo field. Immersing yourself within the atmosphere that clipping. construct, you allow yourself to feel like the lead role of a thrilling horror flick. 
+  
+  Certainly, this is a record that is made to play from beginning to end, even having the audacity to end with the lengthy sound of a piano burning, lasting a whole 18 minutes. It’s strangely soothing, almost hypnotic, like ambient music for nihilists. I’m not sure *There Existed an Addiction to Blood* is a masterpiece, but I feel confident that it will go down as one of 2019’s most memorable musical moments.
 
 tracks:
   - Club Down
@@ -73,7 +79,7 @@ score:
 author: Marcus
 
 review: >-
-  Reminiscent of the demonic glitching of *You Won’t Get What you Want* and [*Double Negative*](<reviews/low-double-negative/>) of last year, clipping.’s *There Existed an Addiction to Blood* has spent the past week taking my breath away and rattling around my skull. The album’s name – itself likely salvaged from the sparsely-populated folder titled ‘We Came as Roman band name ideas’ – notwithstanding, we have in this album a consistent string of exciting, chilling, and innovative experimental hip hop tracks devoid of cheese or pretence.
+  Reminiscent of the demonic glitching of *You Won’t Get What you Want* and [*Double Negative*](/reviews/low-double-negative/) of last year, clipping.’s *There Existed an Addiction to Blood* has spent the past week taking my breath away and rattling around my skull. The album’s name – itself likely salvaged from the sparsely-populated folder titled ‘We Came as Roman band name ideas’ – notwithstanding, we have in this album a consistent string of exciting, chilling, and innovative experimental hip hop tracks devoid of cheese or pretence.
 
   The album is enthralling in the same way that I imagine a vampire’s glamouring might be: warm, cold, hypnotic, enticing, and foreboding as all Hell. From track to track we’re treated to production that is at once dense and minimalist, focusing largely on atmosphere and leaving the frankly incendiary vocals to carry the momentum. There are plenty of hooks, simple and restrained, that differentiate each article, but the technicality of rapper Daveed Diggs qualifies it all with a mastery of intensity that resonates across the full runtime. The speed of his delivery, near always in the same, melancholic cadence, rises to challenge some of Eminem’s fastest flows, but these exercises in Big Dick Energy are themselves measured and deliberate. What Diggs hides away in emotiveness he makes up for in tempo variety and lyrical depth, dropping from Rap God levels of gatling gun bars to the slow, refined slam poetry he otherwise engages in.
 
