@@ -7,6 +7,7 @@ tags:
   - "20"
   - 2010s
   - james blake
+  - electronic
 featuredimage: album-artwork/the-colour-in-anything-james-blake.jpg
 artist: James Blake
 album: The Colour in Anything
@@ -35,7 +36,7 @@ author: André
 review: >-
   Though James Blake tells us that he’s removed himself from a [‘perpetual cycle of anxiety and depression’](http://pitchfork.com/features/interview/9889-james-blake-and-the-pursuit-of-happiness/), you’d be forgiven for thinking otherwise. Sonically speaking, Blake is where he has been since his debut album. He illustrates a deeply sombre image, singing with a consistently mournful tone to fill the gaps left by a backdrop of music that feels sparse, yet inconceivably textured. Blake’s ability to exploit a particular space within a soundscape means his music can so often suit a variety of settings and moods. There’s certainly no denying his talent, yet he finds himself a victim of the scope of his natural capabilities. 
   
-  Instead of continuing the development of being a singer-songwriter who produces electronic music, on *The Colour in Anything* he is too often an electronic artist who sings. For an album that clocks in well over the hour mark, it’s regrettably unambitious and even a little safe. Dare I say it; this is effectively James Blake on autopilot. There is little progression between this and [Overgrown](<reviews/james-blake-overgrown/>) to convince those who are yet to be sold on his passive style of song writing. 
+  Instead of continuing the development of being a singer-songwriter who produces electronic music, on *The Colour in Anything* he is too often an electronic artist who sings. For an album that clocks in well over the hour mark, it’s regrettably unambitious and even a little safe. Dare I say it; this is effectively James Blake on autopilot. There is little progression between this and [Overgrown](/reviews/james-blake-overgrown/) to convince those who are yet to be sold on his passive style of song writing. 
   
   Fortunately, the magnitude of Blake’s audience has increased rapidly these past few years, and those who are endeared by his soulful musings and cold ambiance will still find a lot to love here. Personally, I wish Blake would push himself harder. I’m not so much disappointed as I am underwhelmed by his lack of development as an artist. The raw youthfulness found on his earlier records was acceptable at the time, but unfortunately not much has progressed with age. *The Colour in Anything* often verges on the sublime, only to undermine its own potential. I figure we’re at the point now where should come to expect more than that, however lovely the music may often sound.
 
@@ -53,7 +54,7 @@ score:
 author: Fred
 
 review: >-
-  Slurring his words over echoey piano, a series of unrelated synth effects, and an occasionally off-beat drum machine, James Blake is back. If you’re a fan of his sound, *The Colour in Anything* is likely to be a welcome addition to his discography, with plenty of new ‘tunes’ to latch onto. If, like me, you’re not convinced, you might find it grating that his only major creative leap here seems to be doing what he does for longer. The album clocks in at over seventy minutes long, and yet there’s very little I can say about it that wasn’t covered during our discussion of [*Overgrown*](<reviews/james-blake-overgrown/>). 
+  Slurring his words over echoey piano, a series of unrelated synth effects, and an occasionally off-beat drum machine, James Blake is back. If you’re a fan of his sound, *The Colour in Anything* is likely to be a welcome addition to his discography, with plenty of new ‘tunes’ to latch onto. If, like me, you’re not convinced, you might find it grating that his only major creative leap here seems to be doing what he does for longer. The album clocks in at over seventy minutes long, and yet there’s very little I can say about it that wasn’t covered during our discussion of [*Overgrown*](/reviews/james-blake-overgrown/). 
   
   The production is clean and clear, Blake’s voice is pretty, and I’ve already forgotten most of what happened. I don’t get lost in the supposed ambience of his music. It’s too icy to be enveloping, and rarely dynamic enough to be engaged with. As before, I’d love to hear the outcome of Blake producing someone else’s record, or channeling his considerable talents into actually trying to write songs, but I don’t enjoy spending time with his current output. It has all the heart and warmth of a model kitchen.
 

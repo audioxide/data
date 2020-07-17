@@ -7,6 +7,7 @@ tags:
   - "13"
   - 2010s
   - soulwax
+  - kraftwerk
 featuredimage: album-artwork/from-deewee-soulwax.jpg
 artist: Soulwax
 album: From Deewee
@@ -33,7 +34,7 @@ albumMBID: 950b2ca1-8cee-472f-ac91-86387c490f2c
 author: ANDRÉ
 
 review: >-
-  *FROM DEEWEE* was, [allegedly](<http://www.factmag.com/2017/02/09/soulwax-from-deewee-album-anno\ unced/>), recorded in one take. That naturally seems quite impressive, and certainly strikes an initial interest, but upon realising that everything sounds so utterly flat and lifeless, one recognises that Soulwax have done themselves no favours by constructing the record as a continuous, mundane stretch of music. 
+  *FROM DEEWEE* was, [allegedly](http://www.factmag.com/2017/02/09/soulwax-from-deewee-album-anno\ unced/), recorded in one take. That naturally seems quite impressive, and certainly strikes an initial interest, but upon realising that everything sounds so utterly flat and lifeless, one recognises that Soulwax have done themselves no favours by constructing the record as a continuous, mundane stretch of music. 
   
   At best, *FROM DEEWEE* incites a gentle nod of the head, and very little else. Most of tracks sound like half-finished instrumentals from a Hot Chip album, and Soulwax rarely strive for much more than that. Songs often start with a groove that could quite easily develop into something interesting, but instead stagnate into nothing. The drum fills on “Is It Always Binary” are great once, maybe twice, but not after a dozen times, and this is a problem that often repeats itself. Rhythmic repetition attempts to disguise a very obvious lack of development in ideas. 
   
@@ -71,7 +72,7 @@ author: Andrew
 review: >-
   There were many moments on *FROM DEEWEE* that piqued my interest. Unfortunately, each moment was combined with a hope that a turning point in the album was about to reveal itself, which was often followed by disappointment when it didn’t arrive. 
   
-  As a long time fan of Soulwax, I can certainly tease out the better points of their latest release. Between the [Kraftwerkian](https://audioxide.com/reviews/kraftwerk-the-man-machine/) style of a majority of this album, the fact the entire album was recorded in a single take, or the plethora of synth patches and contortions that make for some of the finer moments on the album, there’s no doubt that a lot of thought and expertise has gone into the recording. 
+  As a long time fan of Soulwax, I can certainly tease out the better points of their latest release. Between the [Kraftwerkian](/reviews/kraftwerk-the-man-machine/) style of a majority of this album, the fact the entire album was recorded in a single take, or the plethora of synth patches and contortions that make for some of the finer moments on the album, there’s no doubt that a lot of thought and expertise has gone into the recording. 
   
   However, what seems to be missing, or may have been lost, is the energy and development that makes any synthpop album an exciting and enjoyable listen. Whether it was the rigorous planning required to achieve the spotless single take, or the focus and dedication given to the separate synth lines rather than the overall tracks, something has drained the album of its energy. As a listener, this means that focussing on the album is somewhat exhausting, as passages are left to hang, undeveloped, for too long. 
   

@@ -5,9 +5,10 @@ slug: stevie-wonder-songs-in-the-key-of-life
 type: reviews
 tags:
   - 1970s
-  - 27+ club
+  - 27 plus club
   - "28"
   - stevie wonder
+  - frank ocean
 featuredimage: album-artwork/songs-in-the-key-of-life-stevie-wonder.jpg
 artist: Stevie Wonder
 album: Songs in the Key of Life
@@ -36,7 +37,7 @@ author: ANDRÉ
 review: >-
   As far as legacies in pop music go, none are as powerful, or as enduring, as Stevie Wonder’s. *Songs in the Key of Life*, his eighteenth studio album, is the most ambitious collection of songs in his career, and is often cited as the essential Wonder work by his fans, the media, and his contemporaries. 
   
-  The spirit of *Key of Life* lives on to this day, and is in fact more immediate than one would initially think. The sparse space of “If It’s Magic” is a clear influence for [Frank Ocean](https://audioxide.com/reviews/frank-ocean-channel-orange/), while Kanye West set the record as his creative bar during the recording of *Late Graduation*. The cultural impact of *Key of Life* can never be imitated, but its status shows no signs of decline. 
+  The spirit of *Key of Life* lives on to this day, and is in fact more immediate than one would initially think. The sparse space of “If It’s Magic” is a clear influence for [Frank Ocean](/reviews/frank-ocean-channel-orange/), while Kanye West set the record as his creative bar during the recording of *Late Graduation*. The cultural impact of *Key of Life* can never be imitated, but its status shows no signs of decline. 
   
   It’s important that the record is still being held as reference too, because it goes against the grain of any modern pop album. *Key of Life* touches on so many subjects that it becomes almost overwhelming, and does so with the support of extended arrangements and a relentless amount of vocal hooks. Nothing this broad and expansive would dare enter today’s musical climate, at least not without some seriously clever marketing. 
   

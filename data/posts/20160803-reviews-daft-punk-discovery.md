@@ -7,6 +7,8 @@ tags:
   - 2000s
   - "23"
   - daft punk
+  - electronic
+  - radiohead
 featuredimage: album-artwork/discovery-daft-punk.jpg
 artist: Daft Punk
 album: Discovery
@@ -26,7 +28,7 @@ colours:
 pullquote: Joyful electronica
 summary: Discovery is still one of my favourite dance albums despite its age and the progression we’ve seen in dance music in the last decade. Listening to it more intently has been a pleasure, flaws and all.
 week: 64
-blurb:
+blurb: Discovery is a classic dance albums despite its age and the progression we’ve seen in the genre since. Listening remains a pleasure, flaws and all.
 artistMBID: 056e4f3e-d505-4dad-8ec1-d04f521cbb56
 albumMBID: 48117b90-a16e-34ca-a514-19c702df1158
 ---
@@ -55,7 +57,7 @@ score:
 author: Fred
 
 review: >-
-  *Discovery*, the second album by French lightning rods Daft Punk, is a rambunctious affair. It boings along quite happily, with a quaint electric shimmer, and often proves infectious. It’s charming in its zest and sincere in its cheeriness. “Harder, Better, Faster, Stronger”, which I can only hope is house music’s answer to [Radiohead](https://audioxide.com/articles/ranking-radioheads-discography/)’s “Fitter Happier”, remains as cheerfully strange as it’s ever been, warping synth effects in a way that feels natural — obvious even. Why *wouldn’t* it sound like that? On the other end of the spectrum, “Verdis Quo” drifts beautifully somewhere in the Disco Galaxy. I like both a great deal, and more besides. 
+  *Discovery*, the second album by French lightning rods Daft Punk, is a rambunctious affair. It boings along quite happily, with a quaint electric shimmer, and often proves infectious. It’s charming in its zest and sincere in its cheeriness. “Harder, Better, Faster, Stronger”, which I can only hope is house music’s answer to [Radiohead](/articles/ranking-radioheads-discography/)’s “Fitter Happier”, remains as cheerfully strange as it’s ever been, warping synth effects in a way that feels natural — obvious even. Why *wouldn’t* it sound like that? On the other end of the spectrum, “Verdis Quo” drifts beautifully somewhere in the Disco Galaxy. I like both a great deal, and more besides. 
   
   The album is probably what ‘80s sci-fi-heads thought the future was going to sound like. There’s a touch of retrofuturism about it. Accordingly, it does have its rough spots. After a dynamite opening, the latter portion of *Discovery* lulls. I stop being impressed by how bouncy a 2-bar sequence is after hearing it for the thirtieth time in a row — especially with minimal riffing going on over it. I know I’m slinking into Grinch territory again here, but I don’t care. My die-hard refusal to enjoy anything dance-oriented undoubtedly prevents me from clicking with *Discovery* the way most people do, but it does make the record’s latter patchiness far more distinct. It can be robotic to a fault. More often than not, though, it’s a listen I recommend. You’d do well to visit *Discovery* and not connect with several of its tracks.
 

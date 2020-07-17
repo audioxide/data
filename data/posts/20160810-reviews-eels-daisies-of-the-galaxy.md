@@ -7,6 +7,8 @@ tags:
   - 2000s
   - "24"
   - eels
+  - rock
+  - alternative rock
 featuredimage: album-artwork/daisies-of-the-galaxy-eels.jpg
 artist: Eels
 album: Daisies of the Galaxy

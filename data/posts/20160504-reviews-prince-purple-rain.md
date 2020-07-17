@@ -7,6 +7,8 @@ tags:
   - 1980s
   - prince
   - "25"
+  - pop
+  - pop rock
   - michael jackson
 featuredimage: album-artwork/purple-rain-prince.jpg
 artist: Prince

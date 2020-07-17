@@ -7,6 +7,8 @@ tags:
   - 1990s
   - "25"
   - nas
+  - hip hop
+  - radiohead
 featuredimage: album-artwork/illmatic-nas.jpg
 artist: Nas
 album: Illmatic
@@ -33,7 +35,7 @@ albumMBID: 28298e2c-4d70-3eed-a0f5-a3280c662b3d
 author: André
 
 review: >-
-  *Illmatic* is a milestone in hip-hop, an undisputed classic that is held on a pedestal to this day. Though there are many albums with greater highs, you’d be hard pressed to find one with fewer flaws. It captures a cultural scene so poignantly to achieve a timeless status that only [a few albums](reviews/radiohead-ok-computer/) hold alongside it. 
+  *Illmatic* is a milestone in hip-hop, an undisputed classic that is held on a pedestal to this day. Though there are many albums with greater highs, you’d be hard pressed to find one with fewer flaws. It captures a cultural scene so poignantly to achieve a timeless status that only [a few albums](/reviews/radiohead-ok-computer/) hold alongside it. 
   
   Nas calmly and smoothly uses the stories of city life to form an account that remains relatable to any culture, race, or religion: here is the tale of a talented artist trying to break away from the same troubled settlement that defines his character. He raps with a purity that was frankly not expected from a 21-year old hip-hop artist — he sounds youthful, yet incredibly wise. *Illmatic* has every element required that goes into making a great hip-hop record, with no gimmicks to intervene. At its simple core, this can be described as a collection of ten essential tracks, each with great beats and great rhymes. Its short length leaves you wanting more, particularly the closing track, which teases a follow up with its fade out. 
   

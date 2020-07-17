@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "24"
   - queens of the stone age
+  - rock
+  - alternative rock
+  - nine inch nails
 featuredimage: album-artwork/like-clockwork-queens-of-the-stone-age.jpg
 artist: Queens of the Stone Age
 album: ...Like Clockwork
@@ -55,7 +58,7 @@ score:
 author: Fred
 
 review: >-
-  There’s a whole lot to like about *…Like Clockwork*. It’s smart and sexy and revels in knowing it. Although the album draws from a ludicrous pool of talent (ranging wonderfully from the likes of [Trent Reznor](https://audioxide.com/reviews/nine-inch-nails-bad-witch/) to Elton John), its voice still very much belongs to Josh Homme, who marshals the whole affair with swagger and verve. 
+  There’s a whole lot to like about *…Like Clockwork*. It’s smart and sexy and revels in knowing it. Although the album draws from a ludicrous pool of talent (ranging wonderfully from the likes of [Trent Reznor](/reviews/nine-inch-nails-bad-witch/) to Elton John), its voice still very much belongs to Josh Homme, who marshals the whole affair with swagger and verve. 
   
   It listens like a new lease of life, and it’s infectious. Although it doesn’t necessarily coax out a great deal of sentiment, it bears mentioning that for the most part it doesn’t try to. There’s revelry going on, and as a listener it’s just nice to be along for the ride. 
   

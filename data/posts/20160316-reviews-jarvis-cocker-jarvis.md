@@ -8,6 +8,9 @@ tags:
   - 2000s
   - jarvis cocker
   - pulp
+  - pop rock
+  - pop
+  - alternative rock
 featuredimage: album-artwork/jarvis-jarvis-cocker.jpg
 artist: Jarvis Cocker
 album: Jarvis
@@ -38,7 +41,7 @@ review: >-
   
   There’s plenty of good material, but not all of it sticks. This is essentially pop music for the mature listener; easy to consume, enjoyable enough, but carrying the flimsy characteristic that so often causes the genre to become watered down and saturated. *Jarvis* is certainly not your standard pop album, and there’s no doubting that it has good intentions — it’s clever, charming, and at times very catchy — but it fails to register as a record with any real significance despite its finer moments. 
   
-  Cocker is a perfectly good songwriter, with a keen ear for memorable hooks, witty lyrics, and satisfying song structure, so it’s a real shame that his debut album fails to leave a lasting impression. It’s decent enough, but unlike [*Different Class*](https://audioxide.com/reviews/pulp-different-class/) and *This is Hardcore*, there’s no real weight behind it, nor is there an immediate thrill to lure you in once you get past the opening few tracks. Even with the working-class angst that remains relevant ten years on, *Jarvis* is inconsequential.
+  Cocker is a perfectly good songwriter, with a keen ear for memorable hooks, witty lyrics, and satisfying song structure, so it’s a real shame that his debut album fails to leave a lasting impression. It’s decent enough, but unlike [*Different Class*](/reviews/pulp-different-class/) and *This is Hardcore*, there’s no real weight behind it, nor is there an immediate thrill to lure you in once you get past the opening few tracks. Even with the working-class angst that remains relevant ten years on, *Jarvis* is inconsequential.
 
 tracks:
   - From Auschwitz to Ipswich

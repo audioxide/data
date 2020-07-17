@@ -8,7 +8,6 @@ tags:
   - 2010s
   - thundercat
   - kendrick lamar
-  - pharrell williams
 featuredimage: album-artwork/drunk-thundercat.jpg
 artist: Thundercat
 album: Drunk
@@ -77,7 +76,7 @@ author: Andrew
 review: >-
   I’m left frustrated by *Drunk*. It’s a grower of an album for sure, as my first listen certainly didn’t grab me, but additional plays have given me a chance to find a lot to like. Some of the flourishes and ideas in the mix on this album are superb. The *Sonic The Hedgehog* sample in “Show You The Way”, for instance, makes me smile on every listen. A lot of the musical ideas are engaging, fresh and sound just right. If you’ve listened to Thundercat before, the same aesthetic has returned, and the mix of jazz, soul, and R&B still piques my curiosity. 
   
-  The quirk of tracks like “Captain Stupido” makes them stand out, while the slightly more electronic side of the album in tracks like “Friend Zone” also shine as highlights. Vocals often sound like streams of consciousness, but this usually works well, especially on the shorter tracks. Features include the likes of [Kendrick Lamar](<reviews/kendrick-lamar-untitled-unmastered/>) and Pharrell Williams, making for a star-studded tracklist, but the execution is a little patchy, ranging from sounding great to sounding completely off. 
+  The quirk of tracks like “Captain Stupido” makes them stand out, while the slightly more electronic side of the album in tracks like “Friend Zone” also shine as highlights. Vocals often sound like streams of consciousness, but this usually works well, especially on the shorter tracks. Features include the likes of [Kendrick Lamar](/reviews/kendrick-lamar-untitled-unmastered/) and Pharrell Williams, making for a star-studded tracklist, but the execution is a little patchy, ranging from sounding great to sounding completely off. 
   
   My frustration occurs when I step back to review this album as a whole. I didn’t find the experience exhausting as others did, but the average track length of two minutes made for a stop-start experience that ultimately detracts from my enjoyment. For me, *Drunk* feels like a patchwork. The production is generally good enough that it would be harsh to brand these tracks as ‘demos’, but as so few are fully formed, it’s hard to distinguish an interlude from an actual track. 
   

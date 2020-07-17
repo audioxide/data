@@ -7,6 +7,9 @@ tags:
   - "19"
   - 1990s
   - g love and special sauce
+  - hip hop
+  - blues
+  - weezer
 featuredimage: album-artwork/g-love-and-special-sauce-g-love-and-special-sauce.jpg
 artist: G. Love & Special Sauce
 album: G. Love and Special Sauce
@@ -55,9 +58,9 @@ author: Fred
 review: >-
   Some albums endure through the honesty of their sound. They commit to it, execute with pizzazz, and hit a few spells of frisson. *G. Love and Special Sauce* is one of those albums. Sloppy hip-hop blues stay loose for an hour here, and although I’d be lying if I said the record doesn’t feel its length at times, the best bits are fabulous. 
   
-  “Cold Beverage”, appropriately cool in character, never fails to conjure visions of sunshine with a lemon garnish, and “Shooting Hoops” is (*probably*) exactly how it feels to kick back after a long day and play some basketball. As the track names hint at, G. Love doesn’t exactly burrow deep with his subject matter, but then so what? Simplicity has its own power, [as we all well know](<reviews/the-blue-album/>). 
+  “Cold Beverage”, appropriately cool in character, never fails to conjure visions of sunshine with a lemon garnish, and “Shooting Hoops” is (*probably*) exactly how it feels to kick back after a long day and play some basketball. As the track names hint at, G. Love doesn’t exactly burrow deep with his subject matter, but then so what? Simplicity has its own power, [as we all well know](/reviews/the-blue-album/). 
   
-  The group is tight, their sound is crisp and spirited, and their mood is something to share in. It doesn’t take much of a leap to visualise them [rocking out on a Philadelphia sidewalk during the summertime](<https://www.youtube.com/watch?v=pk9-28HgxfE>). If lazy, warm, intimate hip-hop blues is the order of the day, this ought to whet your appetite — if only as a refreshing snack.
+  The group is tight, their sound is crisp and spirited, and their mood is something to share in. It doesn’t take much of a leap to visualise them [rocking out on a Philadelphia sidewalk during the summertime](https://www.youtube.com/watch?v=pk9-28HgxfE). If lazy, warm, intimate hip-hop blues is the order of the day, this ought to whet your appetite — if only as a refreshing snack.
 
 tracks:
   - Cold Beverage

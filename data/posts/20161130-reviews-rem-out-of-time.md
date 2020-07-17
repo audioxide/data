@@ -6,7 +6,10 @@ type: reviews
 tags:
   - 1990s
   - "21"
-  - r.e.m.
+  - rem
+  - alternative rock
+  - rock
+  - u2
 featuredimage: album-artwork/out-of-time-rem.jpg
 artist: R.E.M.
 album: Out of Time
@@ -39,7 +42,7 @@ review: >-
   
   However, other cuts often lack a focal point, such as a memorable chorus, and a genuine sense of progression. At times, it does feel like the writing is running on autopilot. The monotony isn’t disastrous by any means (there are worse things to experience than R.E.M repetition), but it’s a notable blemish nonetheless. *Out of Time* has left a legacy despite its imperfections: the ‘oohs’ and ‘ahhs’ of “Beyond”, as tedious as they are, outline a simple-to-replicate template for [modern arena-rock ](https://www.youtube.com/watch?v=RF0HhrwIwp0)bands to follow. 
   
-  With hindsight, it feels as though R.E.M were striving for their own *[Joshua Tree](<reviews/u2-the-joshua-tree/>)*, but unfortunately their ambitions were not to be matched. Moments of the sublime are followed by instances of the ordinary. *Out of Time* is a good album, but my honest and downright repulsive opinion is that most of us are better suited to the bands ‘best of’ compilations.
+  With hindsight, it feels as though R.E.M were striving for their own [*Joshua Tree*](/reviews/u2-the-joshua-tree/), but unfortunately their ambitions were not to be matched. Moments of the sublime are followed by instances of the ordinary. *Out of Time* is a good album, but my honest and downright repulsive opinion is that most of us are better suited to the bands ‘best of’ compilations.
 
 tracks:
   - Losing My Religion

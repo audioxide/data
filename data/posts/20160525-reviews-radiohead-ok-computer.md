@@ -5,10 +5,16 @@ slug: radiohead-ok-computer
 type: reviews
 tags:
   - 1990s
-  - 27+ club
+  - 27 plus club
   - "29"
+  - alternative rock
+  - rock
   - radiohead
+  - ed obrien
   - thom yorke
+  - britpop
+  - oasis
+  - blur
 featuredimage: album-artwork/ok-computer-radiohead.jpg
 artist: Radiohead
 album: OK Computer
@@ -35,9 +41,9 @@ albumMBID: b1392450-e666-3926-a536-22c65f834433
 author: André
 
 review: >-
-  The term ‘timeless’ is often carelessly applied. Music can be eternal in a literal sense, but very rarely does a work have the endurance to live past its own age and move into new realms of significance as it ages. *OK Computer* is one of these works. This was a life born after *The Bends* and away from traditional rock and roll, derived instead from a place of anxiety and paranoia that distanced itself from the declining movement of [Britpop](https://audioxide.com/reviews/oasis-definitely-maybe/). A transitional work in the best sense of the word, it was a clinical move into the cold and empirical, before the decisive nosedive into electronica that triggered *Kid A*. 
+  The term ‘timeless’ is often carelessly applied. Music can be eternal in a literal sense, but very rarely does a work have the endurance to live past its own age and move into new realms of significance as it ages. *OK Computer* is one of these works. This was a life born after *The Bends* and away from traditional rock and roll, derived instead from a place of anxiety and paranoia that distanced itself from the declining movement of [Britpop](/reviews/oasis-definitely-maybe/). A transitional work in the best sense of the word, it was a clinical move into the cold and empirical, before the decisive nosedive into electronica that triggered *Kid A*. 
   
-  Each song is a monument in its own right, performed with an artistry that sounds somehow effortless in spite of the album’s musical complexities. While [Thom Yorke](https://audioxide.com/reviews/thom-yorke-the-eraser/) provides the voice to carry a nervous narrative, a band united in their despondency set the oscillation in motion. Individual excellence never interferes: even “Paranoid Android”, *OK Computer*’s most ambitious moment, weaves through multiple passages without a display of brandish swagger. 
+  Each song is a monument in its own right, performed with an artistry that sounds somehow effortless in spite of the album’s musical complexities. While [Thom Yorke](/reviews/thom-yorke-the-eraser/) provides the voice to carry a nervous narrative, a band united in their despondency set the oscillation in motion. Individual excellence never interferes: even “Paranoid Android”, *OK Computer*’s most ambitious moment, weaves through multiple passages without a display of brandish swagger. 
   
   No single component of the record is more important or less significant than another. Jonny Greenwood’s unique guitar work is a true joy to behold, and has been rightly celebrated, but would not be as effective without the rhythmic pulse of Phil Selway, whose choice of pattern and tempo is key in setting the tone to “Karma Police”, “The Tourist”, and “Let Down”. This musical harmony is what makes *OK Computer*, an album that communicates concern over the synthetic nature of modern culture, such an intriguing and rewarding paradox. 
   
@@ -61,7 +67,7 @@ author: Fred
 review: >-
   Radiohead’s famed 1997 sedative for the unhappinesses of modern life is as serenely despondant now as it has ever been. This is due in part, presumably, to the unhappinesses of modern life having not changed all that much in the last twenty years, but *OK Computer* itself endures as pristine music. 
   
-  The record finds the band at the tail-end of their formative angsty-rock years, and in wicked synergy. Afforded the freedom of self-producing, and with an open deadline — both for the first time — they sound at ease in their unease on *OK Computer*. The songwriting is effortlessly atypical, hefty portions of the tracks are recorded live, and many of Yorke’s vocals done in one take. The sense of intimacy that results utterly defies the lonely, tightly-wound discontent of the album’s character, to the point that it becomes reassuring to find oneself in the thick of it. No band does alone together quite like Radiohead. While the likes of Blur were sneering ‘[modern life is rubbish](<reviews/blur-modern-life-is-rubbish/>),’ Radiohead whispered the unpleasant truth: ‘No, you don’t understand, it *really is*.’ 
+  The record finds the band at the tail-end of their formative angsty-rock years, and in wicked synergy. Afforded the freedom of self-producing, and with an open deadline — both for the first time — they sound at ease in their unease on *OK Computer*. The songwriting is effortlessly atypical, hefty portions of the tracks are recorded live, and many of Yorke’s vocals done in one take. The sense of intimacy that results utterly defies the lonely, tightly-wound discontent of the album’s character, to the point that it becomes reassuring to find oneself in the thick of it. No band does alone together quite like Radiohead. While the likes of Blur were sneering ‘[modern life is rubbish](/reviews/blur-modern-life-is-rubbish/),’ Radiohead whispered the unpleasant truth: ‘No, you don’t understand, it *really is*.’ 
   
   The album’s texture, solemn and cerebral, still sounds like it’s being played for the first time whenever I listen to it. Meticulously ordered, almost (*almost*) all of the tracks are classics in their own right. “Let Down” and “Karma Police” are particular favourites of mine, but there’s enough quality across the board to echo just about any landfill heart. *OK Computer* is a pantheon of ’90s music, and a stonking last hurrah of Radiohead’s wry British rock roots before they went all-in weird and wonderful for *Kid A*. Absolutely essential listening.
 

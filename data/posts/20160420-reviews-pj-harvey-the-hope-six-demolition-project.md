@@ -6,7 +6,10 @@ type: reviews
 tags:
   - "18"
   - 2010s
-  - PJ harvey
+  - pj harvey
+  - rock
+  - alternative rock
+  - folk
 featuredimage: album-artwork/the-hope-six-demolition-project-pj-harvey.jpg
 artist: PJ Harvey
 album: The Hope Six Demolition Project
@@ -33,13 +36,13 @@ albumMBID: 805f6d35-5841-4339-9ee3-fa6ef9afa890
 author: André
 
 review: >-
-  In a catalogue filled to the brim with vitality and emotion, 2011’s [*Let England Shake*](https://audioxide.com/reviews/pj-harvey-let-england-shake/) proved to be one of PJ Harvey’s most powerful works, in spite of her age and mounting maturity. It was crafted expertly and stands as one of the best releases of the decade so far. 
+  In a catalogue filled to the brim with vitality and emotion, 2011’s [*Let England Shake*](/reviews/pj-harvey-let-england-shake/) proved to be one of PJ Harvey’s most powerful works, in spite of her age and mounting maturity. It was crafted expertly and stands as one of the best releases of the decade so far. 
   
   *The Hope Six Demolition Project* feels very much like a capacious sequel; expanding its scope beyond a single nation and governed by a political commentary that seems confused by its own message. It neither sinks nor soars, and fails to make any sort of impact as a result. Given *Let England Shake* was such a mature and engaging work, this comes as a sizeable disappointment, and feels like PJ Harvey’s sloppiest work to date. 
   
   This is arguably the weakest lyrical showing in her entire career. Her words are either overly literal or too open-ended—only occasionally does she find the poetic balance. Whereas *Let England Shake* addressed cultural and political issues in a profound and timely way, *Hope Six* sees Harvey improperly preaching to her audience. What audience this is, and what this sermoning achieves, remains a mystery. Such difficulties would not be judged so ruthlessly if the music itself was enjoyable to listen to, but the record is also mixed in such a misguided manner that it becomes difficult to separate the high points from the blander ones inside the murky compilation. 
   
-  *Hope Six* intentionally steers away from the gloss and clarity of *Let England Shake* and attempts instead to capture the aesthetic of Harvey’s earlier material, despite not possessing the spirit and raw intensity of those excellent records. [*To Bring You My Love*](https://audioxide.com/reviews/pj-harvey-to-bring-you-my-love/) — in my eyes her finest work — had serious grit, whilst this is flimsy even at the best of times. It’s a decent record, but barely sounds finished, and it’s a huge disappointment to encounter such warped artistic vision from someone as exceptional as PJ Harvey.
+  *Hope Six* intentionally steers away from the gloss and clarity of *Let England Shake* and attempts instead to capture the aesthetic of Harvey’s earlier material, despite not possessing the spirit and raw intensity of those excellent records. [*To Bring You My Love*](/reviews/pj-harvey-to-bring-you-my-love/) — in my eyes her finest work — had serious grit, whilst this is flimsy even at the best of times. It’s a decent record, but barely sounds finished, and it’s a huge disappointment to encounter such warped artistic vision from someone as exceptional as PJ Harvey.
 
 tracks:
   - The Ministry of Defence

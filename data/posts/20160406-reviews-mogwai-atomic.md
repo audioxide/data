@@ -7,6 +7,7 @@ tags:
   - 2010s
   - "22"
   - mogwai
+  - post rock
 featuredimage: album-artwork/atomic-mogwai.jpg
 artist: Mogwai
 album: Atomic
@@ -33,7 +34,7 @@ albumMBID: abf559f9-8c52-4295-9b8c-79b72f8d9837
 author: André
 
 review: >-
-  Due to the epic instrumental makeup of Mogwai’s music, their potential for soundtrack work has always be evident. After producing well-received compositions for both film and television, the band now attempt to bridge the gap between soundtrack work and studio albums. *Atomic* is a rework of their soundtrack for a [BBC documentary](<http://www.bbc.co.uk/programmes/b065y1dx>) that explores the realities of the nuclear age, and succeeds greatly in achieving the appropriate tone. 
+  Due to the epic instrumental makeup of Mogwai’s music, their potential for soundtrack work has always be evident. After producing well-received compositions for both film and television, the band now attempt to bridge the gap between soundtrack work and studio albums. *Atomic* is a rework of their soundtrack for a [BBC documentary](http://www.bbc.co.uk/programmes/b065y1dx) that explores the realities of the nuclear age, and succeeds greatly in achieving the appropriate tone. 
   
   There’s no escaping the context here: *Atomic* sounds like an OST as opposed to a genuine record. Whilst this isn’t necessarily a negative point — a sound as vast as this certainly warrants its own narrative — it does make the practice slightly problematic. Still, *Atomic* makes for an engrossing listen, and is categorically one of Mogwai’s most linear records yet. It starts with “Ether”, a heavily romanticised depiction of the planet we’re at risk of losing to the looming threat of nuclear destruction, and finishes with a complete antithesis in “Fat Man”, a sparse and lonely soundscape that appropriately envisions the deficiency of life that has resulted from the devastation.
 
@@ -55,7 +56,7 @@ score:
 author: Fred
 
 review: >-
-  *Atomic*, in all its boom and rumble, is likely going to wind up being one of my favourite releases of the year. This tweaked offshoot of a documentary soundtrack — originally produced by Mogwai for [a nuclear age-focused BBC programme of the same name](<http://www.bbc.co.uk/programmes/b065y1dx>) — is an appropriately brutal exercise in escalation. 
+  *Atomic*, in all its boom and rumble, is likely going to wind up being one of my favourite releases of the year. This tweaked offshoot of a documentary soundtrack — originally produced by Mogwai for [a nuclear age-focused BBC programme of the same name](http://www.bbc.co.uk/programmes/b065y1dx) — is an appropriately brutal exercise in escalation. 
   
   Erupting from the twinkling and peaceful origins of “Ether”, what characterises most of *Atomic*, from “Pripyat” to “Tzar”, is sheer, bellowing, indifferent power. Laced at different points with electronica, crumbling guitars, and synthesisers, *Atomic* exudes an overwhelming and gorgeous cataclysmic ambience. It’s a specific range for the most part, but an understandable one given the subject matter. Mushroom clouds don’t exactly scream subtlety. 
   

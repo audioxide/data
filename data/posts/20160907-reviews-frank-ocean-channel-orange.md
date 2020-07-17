@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "24"
   - frank ocean
+  - hip hop
+  - pop
+  - stevie wonder
 featuredimage: album-artwork/channel-orange-frank-ocean.jpg
 artist: Frank Ocean
 album: Channel Orange
@@ -37,7 +40,7 @@ review: >-
   
   The album smoothly shifts from ’90s R&B to psychedelic funk, and pretty much everything else on the way as Ocean displays great skill and confidence as a songwriter. He swings through a multitude of styles whilst managing to retain all of their best attributes, forging a sound completely of his own. He doesn’t so much veer away from the conventions of pop as much as he does embrace the major qualities of it, and *Channel Orange* benefits hugely from such focus. As one of the most gifted singer-songwriters of his generation, Ocean knows exactly which boxes to tick without it feeling formulaic or predictable. 
   
-  The music seeps through him organically, through sheer emotive power, acting almost as an antithesis to the common pop-fodder we’ve become so adjusted to in the 21st century. Highlights run through the entire album, from the soulful lure of “Thinkin Bout You”, to the [Stevie Wonder](https://audioxide.com/reviews/stevie-wonder-songs-in-the-key-of-life/) breeziness of “Sweet Life”, to the insightful groove of “Super Rich Kids”. The mid-album centrepiece of “Pyramids” acts as one of the lone instances of Ocean actually twisting with the conventions of pop, as he develops what would be a club-suitable banger into a 10-minute epic that uses Cleopatra as a metaphor for the struggles of black women throughout U.S. history. Towards the end of the record sits “Bad Religion”, a harrowing song that makes the most direct reference to Ocean’s newly outed sexuality: ‘this unrequited love, to me it’s nothing but a one-man cult,’ he sings. ‘I could never make him love me.’ 
+  The music seeps through him organically, through sheer emotive power, acting almost as an antithesis to the common pop-fodder we’ve become so adjusted to in the 21st century. Highlights run through the entire album, from the soulful lure of “Thinkin Bout You”, to the [Stevie Wonder](/reviews/stevie-wonder-songs-in-the-key-of-life/) breeziness of “Sweet Life”, to the insightful groove of “Super Rich Kids”. The mid-album centrepiece of “Pyramids” acts as one of the lone instances of Ocean actually twisting with the conventions of pop, as he develops what would be a club-suitable banger into a 10-minute epic that uses Cleopatra as a metaphor for the struggles of black women throughout U.S. history. Towards the end of the record sits “Bad Religion”, a harrowing song that makes the most direct reference to Ocean’s newly outed sexuality: ‘this unrequited love, to me it’s nothing but a one-man cult,’ he sings. ‘I could never make him love me.’ 
   
   *Channel Orange* is powerful, meaningful, and utterly affecting, but best of all is that it’s a joy to listen to. It’s infinitely listenable, as every good pop R&B album should be. The competition may not be fierce, but in this modern age, *Channel Orange* could well be the finest album of its kind.
 
@@ -59,7 +62,7 @@ review: >-
   
   To be completely clear, Ocean’s voice and thoughts are anything but characterless; it’s *Channel Orange*‘s tidy radio sheen that keeps me at arm’s length. The near-robotic tightness of the songwriting; the repressed instrumentals; the hooks that sound like they’ve been drugged; all these things grate on me in a way I find difficult to express. Ocean clearly knows the inner workings of affecting music, but it bothers me that I can only hear that understanding in the DNA of what he writes. “Lost”, “Crack Rock”, and “Pyramids” are good songs, no question, but that’s something I understand rather than feel. “Bad Religion” is a striking emotional climax to the record, so of course it has an organ and strings in it. 
   
-  Maybe it’s my problem, but the sound never quite absorbs me. I’m never really convinced. I wish I liked *Channel Orange* more than I do — it is so well crafted — but it has precious little sticking power. The unexpected truth is that this gentleman prefers [*Blonde*](<reviews/frank-ocean-blond/>).
+  Maybe it’s my problem, but the sound never quite absorbs me. I’m never really convinced. I wish I liked *Channel Orange* more than I do — it is so well crafted — but it has precious little sticking power. The unexpected truth is that this gentleman prefers [*Blonde*](/reviews/frank-ocean-blond/>).
 
 tracks:
   - Lost

@@ -7,6 +7,8 @@ tags:
   - "18"
   - 2010s
   - san fermin
+  - pop
+  - art pop
 featuredimage: album-artwork/belong-san-fermin.jpg
 artist: San Fermin
 album: Belong
@@ -32,7 +34,7 @@ albumMBID: 58821ade-2219-4502-b362-6ec0b4b00d67
 ---
 author: ANDRÉ
 review: >-
-  For [our review of San Fermin’s second studio album *Jackrabbit*](reviews/san-fermin-jackrabbit/), I wrote that ‘the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.’ This unfortunately seems to be a staple of Ellis Ludwig-Leone’s writing, because *Belong* contains the exact same problems that held *Jackrabbit* back from being one of the best albums of 2015. In fact, it’s even more bloated, and it contains even less highlights. 
+  For [our review of San Fermin’s second studio album *Jackrabbit*](/reviews/san-fermin-jackrabbit/), I wrote that ‘the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.’ This unfortunately seems to be a staple of Ellis Ludwig-Leone’s writing, because *Belong* contains the exact same problems that held *Jackrabbit* back from being one of the best albums of 2015. In fact, it’s even more bloated, and it contains even less highlights. 
   
   Though the usual instrumentation has largely remained, it’s immediately clear that *Belong* has an emphasis on electronic samples and textures, with an opening track that is far too loose to set any sort of scene. “Open”, like a lot of tracks here, is a decent number that would surely thrive with a little more focus and attention to detail. “Oceanica” initially has vast potential to develop into something interesting, but winds up feeling like a song that Ludwig-Leone has made to show off his fancy new synthesiser with a built-in arpeggiator. On the flip side, “Bride” is the closest thing to replicating the memorable jig of [“Emily”](https://www.youtube.com/watch?v=z4rnD3628N4), whilst “Dead” is, rather ironically, one of the only tracks that actually sounds alive. 
   
@@ -72,7 +74,7 @@ score:
 author: Andrew
 
 review: >-
-  I can’t help but be disappointed. From their distinctive, suspenseful debut, to their [follow up album](<reviews/san-fermin-jackrabbit/>) that didn’t quite hit the same mark, and now to *Belong*, I’m continuously finding less to love in San Fermin. Besides a few standout tracks, a lot of the work here feels homogenised. I can draw easy comparisons between these tracks and other mainstream pop tracks (“Better Company” is a Calvin Harris track sanitised for Radio 2) and that wasn’t something I would think about doing in previous releases. Drained of its drama, its strings softened and horns stifled, *Belong* really has lost a great deal of the charm that San Fermin had initially brought to the table. 
+  I can’t help but be disappointed. From their distinctive, suspenseful debut, to their [sophomore album](/reviews/san-fermin-jackrabbit/) that didn’t quite hit the same mark, and now to *Belong*, I’m continuously finding less to love in San Fermin. Besides a few standout tracks, a lot of the work here feels homogenised. I can draw easy comparisons between these tracks and other mainstream pop tracks (“Better Company” is a Calvin Harris track sanitised for Radio 2) and that wasn’t something I would think about doing in previous releases. Drained of its drama, its strings softened and horns stifled, *Belong* really has lost a great deal of the charm that San Fermin had initially brought to the table. 
   
   With that said, comparisons with old material can be unhelpful and unfair. *Belong* has some beautiful vocal moments, with the opening track, fittingly named “Open”, featuring both angelic washes of vocals and sweet vocal harmony. For whatever reason, those tracks with female lead vocals land better than those with male lead vocals, and are often filled to the brim with energy and warmth. 
   

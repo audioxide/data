@@ -7,6 +7,10 @@ tags:
   - 2010s
   - "21"
   - oneohtrix point never
+  - idm
+  - electronic
+  - aphex twin
+  - nine inch nails
 featuredimage: album-artwork/garden-of-delete-oneohtrix-point-never.jpg
 artist: Oneohtrix Point Never
 album: Garden of Delete
@@ -35,7 +39,7 @@ author: André
 review: >-
   Approach *Garden of Delete* with caution. Both terrifying and amusing in equal measure, Oneohtrix Point Never’s latest release is as much of an abstract collage of sound as it is an album, and has clear intentions of bending your expectations of electronic music. 
   
-  Daniel Lopatin throws together a vast amount of stylistic influences — in a dual spirit of satire and nostalgia — that can often result in a surreal homage to [Aphex Twin](https://audioxide.com/reviews/aphex-twin-richard-d-james-album/) and [Nine Inch Nails](https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/). It is indeed as ridiculous as that sounds, but for the most part makes for an enthralling experience. The fractured pacing makes it a hypnotic one at that, twisting and turning at a speed that leaves you behind even on your umpteenth listen. You think you’ve got it sussed, only for it to baffle you further. 
+  Daniel Lopatin throws together a vast amount of stylistic influences — in a dual spirit of satire and nostalgia — that can often result in a surreal homage to [Aphex Twin](/reviews/aphex-twin-richard-d-james-album/) and [Nine Inch Nails](/reviews/nine-inch-nails-the-downward-spiral/). It is indeed as ridiculous as that sounds, but for the most part makes for an enthralling experience. The fractured pacing makes it a hypnotic one at that, twisting and turning at a speed that leaves you behind even on your umpteenth listen. You think you’ve got it sussed, only for it to baffle you further. 
   
   What further disjoins the albums pacing is the content within the tracks themselves; the standout, “Sticky Drama”, sees the characteristics of death metal amalgamate with typical EDM tropes, at which point you seriously question whether Daniel Lopatin is a genius, or a complete fucking maniac (for my money, it’s both). 
   

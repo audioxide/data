@@ -7,8 +7,10 @@ tags:
   - 2000s
   - "21"
   - kings of leon
+  - rock
   - u2
   - bruce springsteen
+  - arcade fire
 featuredimage: album-artwork/because-of-the-times-kings-of-leon.jpg
 artist: Kings of Leon
 album: Because of the Times
@@ -37,7 +39,7 @@ author: ANDRÉ
 review: >-
   Despite their arena-rock ambitions, Kings of Leon operate within a cautious formula. There are numerous parallels to U2 and Bruce Springsteen, but such moments are minuscule in both scale and success. Kings of Leon will continue to sell out stadium tours, but they won’t go down in history. They dream of a vast and momentous sound, proceeding to work well within their personal boundaries; without any hint of historical significance. 
   
-  Whilst they are undoubtedly a talented outfit, a cultural landmark in the realms of [*The Joshua Tree* ](<reviews/u2-the-joshua-tree/>)and *Born to Run* is obviously out of their reach. There is a noticeable limit to their grand and spacious sound, which will continue to prevent them from being anything more than a decent arena-rock band. But, in the defence of Kings of Leon, there is no shame in that. *Because of the Times* is likely their finest hour, and it settles on being very listenable, and largely inoffensive. 
+  Whilst they are undoubtedly a talented outfit, a cultural landmark in the realms of [*The Joshua Tree* ](/reviews/u2-the-joshua-tree/)and *Born to Run* is obviously out of their reach. There is a noticeable limit to their grand and spacious sound, which will continue to prevent them from being anything more than a decent arena-rock band. But, in the defence of Kings of Leon, there is no shame in that. *Because of the Times* is likely their finest hour, and it settles on being very listenable, and largely inoffensive. 
   
   Songs start with a moody atmosphere and rise to an intoxicated chorus fit for Summer festivals. It’s a recurring formula, but rarely does it feel fatigued. There are a few gutsy moments, such as the vocal shrieks on “Charmer”, but still not enough to elevate it beyond anything of their own convenience. The band seem comfortable, and whilst that luxury brings its own set of problems, it’s also the reason why *Because of the Times* operates well at its most basic level. It’s predictable, but enjoyable. Kings of Leon may have a tarnished name, but don’t let their reputation fool you – they’re neither as good or as bad as people tell you.
 
@@ -55,9 +57,9 @@ score:
 author: Gabriel
 
 review: >-
-  There was a time, a time in the not too distant past, where Kings of Leon were known for more than supplying the [“Sex on Fire”](<https://www.youtube.com/watch?v=RF0HhrwIwp0>) anthem to every hen and stag do you’ve had the pleasure of being accosted by in your local Weatherspoon’s. That time was 2007, and Kings of Leon had just released their third studio album *Because of the Times*. Musically, the record is an unapologetic love affair with Americana, Dixie rock and ‘of-the-time’ indie. In many ways this works hugely to their favour. There is a sense of atmospheric grit that emanates from almost every track on this album. It’s sweet, salty and muddy all at the same time.
+  There was a time, a time in the not too distant past, where Kings of Leon were known for more than supplying the [“Sex on Fire”](https://www.youtube.com/watch?v=RF0HhrwIwp0) anthem to every hen and stag do you’ve had the pleasure of being accosted by in your local Weatherspoon’s. That time was 2007, and Kings of Leon had just released their third studio album *Because of the Times*. Musically, the record is an unapologetic love affair with Americana, Dixie rock and ‘of-the-time’ indie. In many ways this works hugely to their favour. There is a sense of atmospheric grit that emanates from almost every track on this album. It’s sweet, salty and muddy all at the same time.
 
-  Lyrically, there is not a huge amount to latch onto here, but Caleb Followill’s delivery is a wonderful match to the tonality of the guitar and bass. *Because of the Times* is a much slicker, more produced record than when we first heard them with the likes of [“Molly’s Chambers”](<https://www.youtube.com/watch?v=uLaJkbkG5NI>), but it retains the same scratchy Southern charm that first captivated listeners. In terms of songwriting, *Because of the Times* never really falls down; each track has qualities and nuances that work in their own way. It’s clear that the three year gap between albums certainly gave them the creative space to write this record.
+  Lyrically, there is not a huge amount to latch onto here, but Caleb Followill’s delivery is a wonderful match to the tonality of the guitar and bass. *Because of the Times* is a much slicker, more produced record than when we first heard them with the likes of [“Molly’s Chambers”](https://www.youtube.com/watch?v=uLaJkbkG5NI), but it retains the same scratchy Southern charm that first captivated listeners. In terms of songwriting, *Because of the Times* never really falls down; each track has qualities and nuances that work in their own way. It’s clear that the three year gap between albums certainly gave them the creative space to write this record.
 
   However, *Because of the Time* never brings anything exceptional to the table. Maybe my 2017 ears are tainted with memories of large crowds shouting ‘use somebody’ at each other, but whilst the record is an easily pleasurable listen, nothing stands out as different enough. Certainly there are some larger than life ballads such as “Arizona”, but the record as a whole fails to push the listener. *Because of the Times* is laudable record with a plethora of well written tracks, but it sits there with a mediocre comfortability, and does little to push or challenge.
 
@@ -75,7 +77,7 @@ score:
 author: Andrew
 
 review: >-
-  *Because of the Times* is an album filled with nostalgia, even for the first time listener. From the first twelve minutes, you’ll hear sounds that defined key areas of music in the 2000s: “Knocked Up”, a folky, busy track not dissimilar to an [Arcade Fire](<reviews/funeral/>) single, runs for seven minutes without becoming tired; “Charmer” feels like the rougher side of rock that sat on the periphery at the time; “On Call” features airy synths and a lethargic rhythm section that could apply to any number of pop rock singles released in the decade. It’s these diversions and changes across the album that keep *Because of the Times* fresh, making for an incredibly listenable album. 
+  *Because of the Times* is an album filled with nostalgia, even for the first time listener. From the first twelve minutes, you’ll hear sounds that defined key areas of music in the 2000s: “Knocked Up”, a folky, busy track not dissimilar to an [Arcade Fire](/reviews/arcadae-fire-funeral/) single, runs for seven minutes without becoming tired; “Charmer” feels like the rougher side of rock that sat on the periphery at the time; “On Call” features airy synths and a lethargic rhythm section that could apply to any number of pop rock singles released in the decade. It’s these diversions and changes across the album that keep *Because of the Times* fresh, making for an incredibly listenable album. 
   
   Caleb Followill’s vocals certainly colour each track, guarding them against similarities of any other rock release of the 2000s. But while some tracks benefit from Followill’s vocals, like “My Party” and the lead single “On Call”, others do come across as though he is stretching his vocal abilities. “Fans” is the best example of this. 
   

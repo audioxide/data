@@ -7,7 +7,9 @@ tags:
   - "19"
   - 2010s
   - iggy pop
-  - josh homme
+  - rock
+  - alternative rock
+  - queens of the stone age
 featuredimage: album-artwork/post-pop-depression-iggy-pop.jpg
 artist: Iggy Pop
 album: Post Pop Depression
@@ -35,7 +37,7 @@ albumMBID: 4277f167-a71e-46bb-a69e-439dcd5a37e2
 author: André
 
 review: >-
-  Old age must be a surreal reality for rock stars, particularly those as conspicuous as Iggy Pop. As his relevance decreases, lingering sensations of the glory days develop into recollections that are as painful as they are joyous. Exploring such bittersweet reflections has required some assistance in the form of Joshua Homme, who leaves his footprints all over *Post Pop Depression*. It’s more akin to projects like Them Crooked Vultures than it is to a [Queens of the Stone Age](https://audioxide.com/reviews/queens-of-the-stone-age-like-clockwork/) release — though disappointingly, this is as rewarding as neither. 
+  Old age must be a surreal reality for rock stars, particularly those as conspicuous as Iggy Pop. As his relevance decreases, lingering sensations of the glory days develop into recollections that are as painful as they are joyous. Exploring such bittersweet reflections has required some assistance in the form of Joshua Homme, who leaves his footprints all over *Post Pop Depression*. It’s more akin to projects like Them Crooked Vultures than it is to a [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) release — though disappointingly, this is as rewarding as neither. 
   
   Iggy Pop’s voice is strangely authoritative, at times compelling in its infirmity, but isn’t always strong enough to carry songwriting that is unadventurous even at the best of times. Homme’s production doesn’t exactly try to overcompensate for it either, polished with a sheen that is perfectly listenable, but devoid of character. As has been the case throughout his career, the very concept of Iggy Pop has a way of actually outweighing any literal contribution, and the end of “Paraguay” exemplifies this soundly. The idea of a frenzied rant that rises in intensity with its instrumental crescendo may sound like a compelling moment of raw passion, but comes off instead as bitter and totally contrived, concluding the album on a rather sour note. Which is a shame, because *Post Pop Depression* isn’t a bad record. Despite the scattered highlights, you just can’t help but feel disappointed, particularly given the talent of the supporting cast.
 
@@ -72,7 +74,7 @@ score:
 ---
 author: Andrew
 review: >-
-  *Post Pop Depression* certainly piqued my interest when we selected it and it’s received a lot of praise from others. From the opener, “Break Into Your Heart”, it’s clear that Josh Homme has had a hand in this, with a familiar guitar tone and pace to the track, and a riff that wouldn’t be out of place on a track from Queen of the Stone Age’s [*...Like Clockwork*](https://audioxide.com/reviews/queens-of-the-stone-age-like-clockwork/). Other tracks throughout the release can definitely be painted with a similar brush too, and while I’ve no objection to this, I sometimes have to remind myself that it’s Iggy Pop’s name sitting on the album cover, and not Josh Homme’s. 
+  *Post Pop Depression* certainly piqued my interest when we selected it and it’s received a lot of praise from others. From the opener, “Break Into Your Heart”, it’s clear that Josh Homme has had a hand in this, with a familiar guitar tone and pace to the track, and a riff that wouldn’t be out of place on a track from Queen of the Stone Age’s [*...Like Clockwork*](/reviews/queens-of-the-stone-age-like-clockwork/). Other tracks throughout the release can definitely be painted with a similar brush too, and while I’ve no objection to this, I sometimes have to remind myself that it’s Iggy Pop’s name sitting on the album cover, and not Josh Homme’s. 
   
   What’s worse is that those tracks that didn’t sound quite as close to QOTSA left me with less of an impression than those that did. To be clear, this is an enjoyable listen despite the identity crisis and there are some moments when Iggy’s growl makes things far more potent, especially in the closer “Paraguay”, or the side B opener, “Vultures”. In some tracks, like “Sunday” and “Chocolate Drops” a more distinctive sound does start to reveal itself, with surprises dotted around to help a listener warm to them further, but these do feel closer to exceptions than highlights. 
   

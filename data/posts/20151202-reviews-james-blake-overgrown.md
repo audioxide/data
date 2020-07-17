@@ -7,6 +7,7 @@ tags:
   - 2010s
   - "22"
   - james blake
+  - electronic
 featuredimage: album-artwork/overgrown-james-blake.jpg
 artist: James Blake
 album: Overgrown

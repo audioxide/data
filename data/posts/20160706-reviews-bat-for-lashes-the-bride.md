@@ -7,7 +7,10 @@ tags:
   - "15"
   - 2010s
   - bat for lashes
-  - natasha khan
+  - pop
+  - art pop
+  - radiohead
+  - sexwitch
 featuredimage: album-artwork/the-bride-bat-for-lashes.jpg
 artist: Bat for Lashes
 album: The Bride
@@ -34,9 +37,9 @@ albumMBID: 299408a0-9846-4234-9d1e-559a5d54f8df
 author: André
 
 review: >-
-  With an adept ability for creating whimsical worlds in her sonic compositions, a concept album has always been in reach for Natasha Khan. Since the release of her debut record a decade ago, every Bat For Lashes album has been graciously theatrical in its own niche way, each becoming more focused and driven in its vision. While [*Two Suns*](https://audioxide.com/reviews/bat-for-lashes-two-suns/) and *The Haunted Man* were deeply sophisticated works, the momentum has sadly stopped here. 
+  With an adept ability for creating whimsical worlds in her sonic compositions, a concept album has always been in reach for Natasha Khan. Since the release of her debut record a decade ago, every Bat For Lashes album has been graciously theatrical in its own niche way, each becoming more focused and driven in its vision. While [*Two Suns*](/reviews/bat-for-lashes-two-suns/) and *The Haunted Man* were deeply sophisticated works, the momentum has sadly stopped here. 
   
-  *The Bride* contains a central narrative that should be emotionally stirring, yet ends up flat and entirely forgettable. Much like [Radiohead’s latest triumph](https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/), this is Khan’s softest and most ethereal effort yet, but isn’t nearly as affective or engaging. It starts as it means to go on: flimsy, restrained, and lacking an impetus. 
+  *The Bride* contains a central narrative that should be emotionally stirring, yet ends up flat and entirely forgettable. Much like [Radiohead’s latest triumph](/reviews/radiohead-a-moon-shaped-pool/), this is Khan’s softest and most ethereal effort yet, but isn’t nearly as affective or engaging. It starts as it means to go on: flimsy, restrained, and lacking an impetus. 
   
   After eventually building to some sense of drive with “Sunday Love”, the narrative is needlessly pounded home with a segment of tracks that are stagnant and overly conceptual. The grey surge of ambiance that comprises this central passage of *The Bride* makes the entire experience feel twice as long as it actually is. The instrumentals are far too subdued for these tracks to have any chance of making an impact, and the vocals are neither powerful nor delicate enough to compensate. Nothing here warrants the dramatic reading of “Widow’s Peak”, irrespective of how emotive it may be, and it falls flat on its face. 
   
@@ -56,7 +59,7 @@ score:
 author: Fred
 
 review: >-
-  This was 50 minutes of anti-climax. Having been passingly acquainted with Bats for Lashes by Natasha Khan aficionado and shrine builder André, I was quite looking forward to this one. Khan’s recent side project [*Sexwitch*](<reviews/sexwitch-sexwitch/>) wasn’t without its limitations, but there were enough creative juices flowing through it to expect some haunting and groovy ambient splashes from *The Bride*. 
+  This was 50 minutes of anti-climax. Having been passingly acquainted with Bats for Lashes by Natasha Khan aficionado and shrine builder André, I was quite looking forward to this one. Khan’s recent side project [*Sexwitch*](/reviews/sexwitch-sexwitch/) wasn’t without its limitations, but there were enough creative juices flowing through it to expect some haunting and groovy ambient splashes from *The Bride*. 
   
   Instead, the record is jarringly pedestrian. It lacks any sense of energy or urgency, and the ambient cloud she forms in lieu of either is wispy at the best of times. I get the impression that Khan was banking on her voice, lyrics, and delivery carrying the show, and they don’t. Even her vocals, usually so reliably soaring, feel tethered to their melodies here. One notable exception is “In Your Bed”, *the last track goddamnit*, which boasts both delicacy and oomph. 
   

@@ -7,8 +7,10 @@ tags:
   - 1980s
   - "25"
   - brian eno
+  - alternative rock
   - talking heads
   - david byrne
+  - david bowie
 featuredimage: album-artwork/remain-in-light-talking-heads.jpg
 artist: Talking Heads
 album: Remain in Light
@@ -35,11 +37,11 @@ albumMBID: f6b1b900-6108-32f0-abbd-2855af9151eb
 author: André
 
 review: >-
-  *Remain in Light* is a sheer delight to listen to. It thrives on its character, never ceasing to be thoroughly entertaining. The opening portion of the record springs along with a playful energy, and the second half is a haze that floats by at its own steady pace, drawing comparisons to albums of a similar era such as David Bowie’s [*Low*](https://audioxide.com/reviews/david-bowie-low/). 
+  *Remain in Light* is a sheer delight to listen to. It thrives on its character, never ceasing to be thoroughly entertaining. The opening portion of the record springs along with a playful energy, and the second half is a haze that floats by at its own steady pace, drawing comparisons to albums of a similar era such as David Bowie’s [*Low*](/reviews/david-bowie-low/). 
   
-  The music supplies a wonderful backdrop, fuelled by percussion and driven with intricate polyrhythms, but the heart and soul derives from [David Byrne](https://audioxide.com/reviews/david-byrne-american-utopia/), who recites with humour and wit, at the brink of cynical satire. His lyrics are sharp and insightful, at times highly comical, and his delivery is exceedingly expressive. Byrne’s wonderful wordplay combines with the minimal funk aesthetic to create one of the most joyous sound displays of anxiety you’re ever likely to hear on record. 
+  The music supplies a wonderful backdrop, fuelled by percussion and driven with intricate polyrhythms, but the heart and soul derives from [David Byrne](/reviews/david-byrne-american-utopia/), who recites with humour and wit, at the brink of cynical satire. His lyrics are sharp and insightful, at times highly comical, and his delivery is exceedingly expressive. Byrne’s wonderful wordplay combines with the minimal funk aesthetic to create one of the most joyous sound displays of anxiety you’re ever likely to hear on record. 
   
-  Naturally, [Brian Eno](https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/)’s production is fantastic, and remains a core reason as to why *Remain in Light* still sounds so good in 2016. Many tracks are incredibly dense — impenetrable yet captivating — with African percussion being a prominent and distinct feature. Eno’s work allows space for the first segment of tracks to be flavoured with brilliantly erratic guitar work by Adrian Belew, before shifting the focus onto more textural and atmospheric songs that permit Byrne to channel his inner chronicler. It’s a change of pace that the album greatly benefits from, though the closing track can sometimes feel like an awkward and inelegant way to finalise proceedings. 
+  Naturally, [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/)’s production is fantastic, and remains a core reason as to why *Remain in Light* still sounds so good in 2016. Many tracks are incredibly dense — impenetrable yet captivating — with African percussion being a prominent and distinct feature. Eno’s work allows space for the first segment of tracks to be flavoured with brilliantly erratic guitar work by Adrian Belew, before shifting the focus onto more textural and atmospheric songs that permit Byrne to channel his inner chronicler. It’s a change of pace that the album greatly benefits from, though the closing track can sometimes feel like an awkward and inelegant way to finalise proceedings. 
   
   This aside, *Remain in Light* is remarkably accessible for something so bold and experimental. It ultimately ends up being endlessly listenable more than anything else, and stands as one of the major highlights of the early ’80s. It ticks along with a confident twitch that has inspired many of today’s great artists — with its lasting legacy, it continues to remain in the light.
 

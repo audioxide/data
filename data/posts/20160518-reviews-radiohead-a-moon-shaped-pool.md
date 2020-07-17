@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "24"
   - radiohead
+  - alternative rock
+  - rock
+  - electronic
   - thom yorke
   - ed obrien
 featuredimage: album-artwork/a-moon-shaped-pool-radiohead.jpg
@@ -61,11 +64,11 @@ author: Fred
 review: >-
   There’s something uniquely bittersweet about *A Moon Shaped Pool*. The album is solemn and sad even by Radiohead standards, ruminating on the past to such an extent that it itself becomes something of a retrofit — albeit a very beautiful one. A good portion of the tracks can have their origins traced years, even decades back. 
   
-  I tend to be suspicious of albums that look over their shoulder for inspiration, but Radiohead have managed to make the looking itself something of artistic value. The record is an act in rumination, and adorning the weary creaks of tracks like “Present Tense”, [“Burn the Witch”](https://audioxide.com/articles/new-track-burn-the-witch-radiohead/), and — of course — “True Loves Waits” is a liquid operatic ambience that will surely lay claim to *A Moon Shaped Pool*’s overall character. 
+  I tend to be suspicious of albums that look over their shoulder for inspiration, but Radiohead have managed to make the looking itself something of artistic value. The record is an act in rumination, and adorning the weary creaks of tracks like “Present Tense”, [“Burn the Witch”](/articles/new-track-burn-the-witch-radiohead/), and — of course — “True Loves Waits” is a liquid operatic ambience that will surely lay claim to *A Moon Shaped Pool*’s overall character. 
   
   Big-picture string arrangements by Jonny Greenwood ripple and swell around a strikingly vulnerable Yorke vocal performance, and the rest of the band fulfil their assumed role of The Rest of the Band with intelligence and grace (the breakdown in “Decks Dark” is fabulous). It makes for a peculiar dynamic, a kind of frail scattergun beauty, but it works given the album’s reflective nature. 
   
-  There’s a sense that the attic is being emptied, and old wooden furniture painted a brilliant white. It holds the work off from being a statement entirely of its own, I think, but its meditations on love and past are too pure to make *A Moon Shaped Pool* anything less than a worthy and esteemed addition to [the Radiohead library](https://audioxide.com/articles/ranking-radioheads-discography/).
+  There’s a sense that the attic is being emptied, and old wooden furniture painted a brilliant white. It holds the work off from being a statement entirely of its own, I think, but its meditations on love and past are too pure to make *A Moon Shaped Pool* anything less than a worthy and esteemed addition to [the Radiohead library](/articles/ranking-radioheads-discography/).
 
 tracks:
   - The Numbers
@@ -81,9 +84,9 @@ score:
 author: Andrew
 
 review: >-
-  A new Radiohead release always causes a stir, and this time round, I think it’s warranted. *A Moon Shaped Pool* brings a more reflective and mournful outlook. Taking tracks originally conceived throughout the band’s lifespan, the album has faint flavours of past releases, with “Decks Dark” feeling familiar for any fans of [*OK Computer*](https://audioxide.com/reviews/radiohead-ok-computer/) and *Kid A*. This new release could easily have felt like a slight patchwork release of B-sides rather than a fresh LP from the group, but I feel that enough has been done for each track to feel somewhat new, with large swaths of the album adorned with beautiful, soundtrack worthy instrumentation, which is no doubt largely the work of Jonny Greenwood, who is now well versed in creating cinematic soundscapes. 
+  A new Radiohead release always causes a stir, and this time round, I think it’s warranted. *A Moon Shaped Pool* brings a more reflective and mournful outlook. Taking tracks originally conceived throughout the band’s lifespan, the album has faint flavours of past releases, with “Decks Dark” feeling familiar for any fans of [*OK Computer*](/reviews/radiohead-ok-computer/) and *Kid A*. This new release could easily have felt like a slight patchwork release of B-sides rather than a fresh LP from the group, but I feel that enough has been done for each track to feel somewhat new, with large swaths of the album adorned with beautiful, soundtrack worthy instrumentation, which is no doubt largely the work of Jonny Greenwood, who is now well versed in creating cinematic soundscapes. 
   
-  [Thom Yorke](https://audioxide.com/reviews/thom-yorke-anima/) is more literal, self-deprecating and seemingly crushed than previous records, with his lyrics reaching deep sadness at times. It’s clear that, despite the majority of tracks originating from an earlier time, a greater meaning and gravity has been applied to each. This maybe the result of hardship that several of the contributing band members have reportedly experienced during the years leading to this release. Regardless, there’s a lot of emotion for the listener to wrangle with here. The closer “True Love Waits” is a fan favourite at gigs, but here changes to the instrumentation, both subtle and otherwise, provide a much more heartbreaking version which never resolves before it ends. 
+  [Thom Yorke](/reviews/thom-yorke-anima/) is more literal, self-deprecating and seemingly crushed than previous records, with his lyrics reaching deep sadness at times. It’s clear that, despite the majority of tracks originating from an earlier time, a greater meaning and gravity has been applied to each. This maybe the result of hardship that several of the contributing band members have reportedly experienced during the years leading to this release. Regardless, there’s a lot of emotion for the listener to wrangle with here. The closer “True Love Waits” is a fan favourite at gigs, but here changes to the instrumentation, both subtle and otherwise, provide a much more heartbreaking version which never resolves before it ends. 
   
   As with each Radiohead LP, *A Moon Shaped Pool* brings something different to the table that fans haven’t seen before, pulling back from the robotic electronica of *The King of Limbs* and softening the heavier sounds of early releases like *The Bends*. It makes for a solid release with new ideas shining through on tracks such as “Present Tense” and “Burn The Witch”, but it won’t win over listeners that aren’t already fans, nor is it likely to top the widely considered modern classics *OK Computer* and *In Rainbows*.
 

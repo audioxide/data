@@ -7,6 +7,9 @@ tags:
   - 2000s
   - "23"
   - the flaming lips
+  - alternative rock
+  - pop rock
+  - daft punk
 featuredimage: album-artwork/yoshimi-battles-the-pink-robots-the-flaming-lips.jpg
 artist: The Flaming Lips
 album: Yoshimi Battles the Pink Robots
@@ -75,7 +78,7 @@ author: Andrew
 review: >-
   I’ve got a lot of love for The Flaming Lips’ tenth studio album. Setting its sound firmly between that of a live band and electronic outfit, *Yoshimi Battles The Pink Robots* has a distinctive, sometimes cinematic, always sunny style that stays with me long after each listen. Couple it together with a (very) loose narrative about the titular Yoshimi and her battle and it should sound intriguing to most just on paper. 
   
-  In practice, *YBPR* does a lot in 45 minutes. Instrumentally, there are some impressive performances from the three band members across a variety of talents, with all three providing vocal and songwriting work for the album. The guitar, bass and drum arrangements of their previous work can be heard next to washes of otherworldly and squelchy synths and effects, giving the album its neo-psychedelic tinge and drawing a lot of comparisons with artists like Air and [Daft Punk](<reviews/daft-punk-discovery/>) around the same period. Slow moving strings and additional percussion including tubular bells and timpani drums add a cinematic, interesting, warm sound to many tracks too. The instrumentals are where this melting pot of sound is allowed to shine, with “Yoshimi Battles The Pink Robots Pt. 2” pausing for a three minute, noisy jam, and “Approaching Pavonis mons by Balloon” closing the album (rather abruptly!) with a serene, warming, gently evolving track. Lyrically, there’s nothing groundbreaking or soul destroying here, but tracks like “Do You Realize??” will likely get many into a reflective mood, with its pretty yet morbid themes. 
+  In practice, *YBPR* does a lot in 45 minutes. Instrumentally, there are some impressive performances from the three band members across a variety of talents, with all three providing vocal and songwriting work for the album. The guitar, bass and drum arrangements of their previous work can be heard next to washes of otherworldly and squelchy synths and effects, giving the album its neo-psychedelic tinge and drawing a lot of comparisons with artists like Air and [Daft Punk](/reviews/daft-punk-discovery/) around the same period. Slow moving strings and additional percussion including tubular bells and timpani drums add a cinematic, interesting, warm sound to many tracks too. The instrumentals are where this melting pot of sound is allowed to shine, with “Yoshimi Battles The Pink Robots Pt. 2” pausing for a three minute, noisy jam, and “Approaching Pavonis mons by Balloon” closing the album (rather abruptly!) with a serene, warming, gently evolving track. Lyrically, there’s nothing groundbreaking or soul destroying here, but tracks like “Do You Realize??” will likely get many into a reflective mood, with its pretty yet morbid themes. 
   
   With all that said, my score feels a little low. It’s a *very* strong 8 for me, but listening more critically, the slightly over-glossed production makes portions of *YBPR* a little easy to forget, especially where there’s less depth in some tracks nearer the end of the tracklist; and if I’m being nit-picky, the album’s close really does feel a little rushed and unconsidered when compared to the seamless flow of the opening third. A solid album for me that I’ll continue to return to for years to come, I’d expect.
 
