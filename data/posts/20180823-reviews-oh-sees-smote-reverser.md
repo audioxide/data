@@ -26,7 +26,7 @@ colours:
 pullquote: Filter-free
 summary: If you can tap into Oh Sees' frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
 week: 160
-blurb: If you can tap into Oh Sees' frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though.
+blurb: From its ludicrous track names to its filter-free kitchen sink instrumentation, *Smote Reverser* is an hour-long marathon of pretentiousness and tedium.
 artistMBID: 194272cc-dcc8-4640-a4a6-66da7d250d5c
 albumMBID: b2cb65f0-2e0f-47cb-aff7-0f6793990e45
 ---
@@ -52,7 +52,7 @@ score:
 author: Fred
 
 review: >-
-  *Smote Reverser* sounds like an album by a band who release an album or two a year. It’s tight, it’s energetic, and there’s no obvious filter to what goes on. As John Dwyer himself puts it, [‘the record doesn’t have like a continuum.’](<https://www.billboard.com/articles/columns/rock/8468833/oh-sees-smote-reverser-interview>) It does have character, though, and it’s tidily mixed. Pieced together from a series of improvisations, *Smote Reverser *oscillates between garage rock and brainy psychedelia. There’s a lot of movement. If you can tap into Oh Sees’ frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
+  *Smote Reverser* sounds like an album by a band who release an album or two a year. It’s tight, it’s energetic, and there’s no obvious filter to what goes on. As John Dwyer himself puts it, [‘the record doesn’t have like a continuum.’](https://www.billboard.com/articles/columns/rock/8468833/oh-sees-smote-reverser-interview) It does have character, though, and it’s tidily mixed. Pieced together from a series of improvisations, *Smote Reverser *oscillates between garage rock and brainy psychedelia. There’s a lot of movement. If you can tap into Oh Sees’ frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
 
   Indirection is probably *Smote Reverser*’s biggest sin. It’s a solid hour of tangentially related material. “C” is a smooth and groovy rock track — probably the standout — but there’s no time to revel in where it takes you. “Overthrown” clatters right in and doesn’t do the album any favours, even though as a standalone track it’s fine. The final product misses that order, that discipline. “Last Peace” borders on Doorsy, and even that could stand to be half as long. There’s no shortage of tight, textured psychedelic jams, but it seldom feels like the tracks are pulling in the same direction. Or any direction at all.
 
