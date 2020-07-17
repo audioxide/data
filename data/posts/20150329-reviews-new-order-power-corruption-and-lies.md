@@ -7,6 +7,8 @@ tags:
   - "14"
   - 1980s
   - new order
+  - post punk
+  - joy division
 featuredimage: album-artwork/power-corruption-and-lies-new-order.jpg
 artist: New Order
 album: Power, Corruption & Lies

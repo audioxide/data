@@ -7,6 +7,8 @@ tags:
   - "17"
   - 2010s
   - health
+  - industrial
+  - nine inch nails
 featuredimage: album-artwork/vol-4-slaves-of-fear-health.jpg
 artist: HEALTH
 album: "Vol. 4 :: Slaves of Fear"
@@ -33,9 +35,13 @@ albumMBID: f3f9294f-bc21-4b25-b421-d2486d131f42
 author: André
 
 review: >-
-  Although the latest record from L.A noise rock outfit HEALTH is an impressive listen, it’s not particularly a satisfying one. *Vol 4 :: Slaves of Fear* should theoretically be a treat for someone of my tastes: the industrial beats blast, the nu-metal guitars chug, and the soundscapes evoke a sense of fear and dread. The overall package, however, lacks originality and inventiveness. The album is an imposing experience that proves a thrill through its powerful production, whilst severely lacking in substance. The continuous sense of melodrama loses its effectiveness when most songs follow a similar pounding formula.
+  Although the latest record from L.A noise rock outfit HEALTH is an impressive listen, it’s not particularly a satisfying one. *Vol 4 :: Slaves of Fear* should theoretically be a treat for someone of my tastes: the industrial beats blast, the nu-metal guitars chug, and the soundscapes evoke a sense of fear and dread. 
+  
+  The overall package, however, lacks originality and inventiveness. The album is an imposing experience that proves a thrill through its powerful production, whilst severely lacking in substance. The continuous sense of melodrama loses its effectiveness when most songs follow a similar pounding formula.
 
-  It’s not until the rather gorgeous closing track “Decimation” until *Slaves of Fear* offers a change of pace, and it’s simply too late. HEALTH have continued their trend of making exhilarating music, but something feels slightly off this time round. The departure of founding member Jupiter Keyes has likely played a major part, though its Jacob Duzsik’s faint whines that proves to be the most underwhelming aspect. *Slaves of Fear* is a bleak record made to provoke the barren vision of the future. In that sense, it’s an accomplishment. There’s no doubting the sincerity of its message, nor the authenticity. HEALTH have perhaps prioritised concept over execution whilst also ignoring the importance of finesse. A record this polished shouldn’t feel so utterly flat.
+  It’s not until the rather gorgeous closing track “Decimation” until *Slaves of Fear* offers a change of pace, and it’s simply too late. HEALTH have continued their trend of making exhilarating music, but something feels slightly off this time round. The departure of founding member Jupiter Keyes has likely played a major part, though its Jacob Duzsik’s faint whines that proves to be the most underwhelming aspect. 
+  
+  *Slaves of Fear* is a bleak record made to provoke the barren vision of the future. In that sense, it’s an accomplishment. There’s no doubting the sincerity of its message, nor the authenticity. HEALTH have perhaps prioritised concept over execution whilst also ignoring the importance of finesse. A record this polished shouldn’t feel so utterly flat.
 
 tracks:
   - RAT WARS
@@ -51,9 +57,13 @@ score:
 author: Fred
 
 review: >-
-  This is an album that really sells itself short. *Vol. 4 :: Slaves of Fear *goes a mile a minute sounding cavernous and empty in equal measure. It reminds me a little of [Nine Inch Nails](<reviews/nine-inch-nails-bad-witch/>), but only as a kind of pretender. NIN’s industrial edge leaves festering wounds, whereas HEALTH leaves only a glazed expression. If the instrumentals and vocals weren’t so sanitized *Vol. 4 *may have been onto something. The raw elements of the album are often very good, but they’re produced in a way that feels far removed from anything I could ever relate to. Songs like “Strange Days (1999)” deserve grittier presentation than they get.
+  This is an album that really sells itself short. *Vol. 4 :: Slaves of Fear *goes a mile a minute sounding cavernous and empty in equal measure. It reminds me a little of [Nine Inch Nails](/reviews/nine-inch-nails-bad-witch/), but only as a kind of pretender. NIN’s industrial edge leaves festering wounds, whereas HEALTH leaves only a glazed expression. 
+  
+  If the instrumentals and vocals weren’t so sanitized *Vol. 4* may have been onto something. The raw elements of the album are often very good, but they’re produced in a way that feels far removed from anything I could ever relate to. Songs like “Strange Days (1999)” deserve grittier presentation than they get.
 
-  It’s strangely appropriate that the album presents itself in all-caps. Just as all-caps manages to make language less impactful, the polished, not-quite-epic sheen of *Vol. 4 *keeps it from making any lasting impression. As “Wrong Bag” attempts to carve out clarity in an apocalypse, I can’t escape the feeling HEALTH are trying way too hard. Strong industrial music doesn’t need to resort to cavernous production and all-cap track names to make an impression, just as this review is unpleasant enough WITHOUT MY HAVING TO RESORT TO CHEAP SATIRE. The album is actually fine, but that’s all it is. It could have been more, possibly much more, and the frustration is we’ll never know.
+  It’s strangely appropriate that the album presents itself in all-caps. Just as all-caps manages to make language less impactful, the polished, not-quite-epic sheen of *Vol. 4* keeps it from making any lasting impression. As “Wrong Bag” attempts to carve out clarity in an apocalypse, I can’t escape the feeling HEALTH are trying way too hard. 
+  
+  Strong industrial music doesn’t need to resort to cavernous production and all-cap track names to make an impression, just as this review is unpleasant enough WITHOUT MY HAVING TO RESORT TO CHEAP SATIRE. The album is actually fine, but that’s all it is. It could have been more, possibly much more, and the frustration is we’ll never know.
 
 tracks:
   - FEEL NOTHING

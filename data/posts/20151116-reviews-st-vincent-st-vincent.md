@@ -6,7 +6,10 @@ type: reviews
 tags:
   - 2010s
   - "22"
-  - st. vincent
+  - st vincent
+  - alternative rock
+  - pop rock
+  - david byrne
 featuredimage: album-artwork/st-vincent-st-vincent.jpg
 artist: St. Vincent
 album: St. Vincent
@@ -59,7 +62,7 @@ review: >-
   
   Its surprisingly grounded underlying structure allows for all manner of fuzzy, distorted hell to break loose in ways that never feel gratuitous or abrasive. The enigmatic gorgeousness of Clark’s voice — a quality shared with her guitar work — is enticing, breathing soul into the distinctly modern machinery of which much of the album is comprised. It’s a lovely juxtaposition. For every audacious call in the vein of “Birth in Reverse” or “Rattlesnake” there is a gentle response of a “Prince Johnny” or “Severed Crossed Fingers”; and each track manages a unique inflection. 
   
-  The effects of Clark’s recent collaboration with [David Byrne](https://audioxide.com/reviews/david-byrne-american-utopia/) on *Love This Giant* are evident, but they are but one of a series of influences that rarely outstay their welcome. There are a couple of bum notes in the final third of *St. Vincent* that I think hold the album back from the highest drawer, but they are minor blemishes on a work that will likely be held in the highest esteem when people reflect on notable cultural products of the 2010s.
+  The effects of Clark’s recent collaboration with [David Byrne](/reviews/david-byrne-american-utopia/) on *Love This Giant* are evident, but they are but one of a series of influences that rarely outstay their welcome. There are a couple of bum notes in the final third of *St. Vincent* that I think hold the album back from the highest drawer, but they are minor blemishes on a work that will likely be held in the highest esteem when people reflect on notable cultural products of the 2010s.
 
 tracks:
   - Huey Newton

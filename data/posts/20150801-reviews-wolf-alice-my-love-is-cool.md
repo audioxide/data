@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "21"
   - wolf alice
+  - rock
+  - alternative rock
+  - pop rock
 featuredimage: album-artwork/my-love-is-cool-wolf-alice.jpg
 artist: Wolf Alice
 album: My Love Is Cool
@@ -38,7 +41,7 @@ review: >-
   
   Certainly, there’s a youthful charm to the record that will capture a variety of moments for many of the younger listeners, yet there’s still something here for all types of audiences. *My Love Is Cool* is a solid debut, and surprisingly focused given the amount of styles it covers, but perhaps Wolf Alice will only truly define themselves as a band once they settle on a totally refined sound. 
   
-  Here Ellie Rowsell sings about the surreal sadness of adulthood and the realities that come with it, and I for one hope to see Wolf Alice come of age with [their future releases](https://audioxide.com/reviews/wolf-alice-visions-of-a-life/).
+  Here Ellie Rowsell sings about the surreal sadness of adulthood and the realities that come with it, and I for one hope to see Wolf Alice come of age with [their future releases](/reviews/wolf-alice-visions-of-a-life/).
 
 tracks:
   - Giant Peach

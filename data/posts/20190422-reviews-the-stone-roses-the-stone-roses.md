@@ -7,6 +7,11 @@ tags:
   - 1980s
   - "24"
   - the stone roses
+  - rock
+  - alternative rock
+  - spiritualized
+  - the beatles
+  - jefferson airplane
 featuredimage: album-artwork/the-stone-roses-the-stone-roses.jpg
 artist: The Stone Roses
 album: The Stone Roses
@@ -35,9 +40,13 @@ author: André
 review: >-
   The story of The Stone Roses is a curious one: one of the ultimate one-album wonder bands of contemporary music. Their 1989 debut record was as solid a foundation as they come, and whilst their follow-up album wasn’t quite as dreadful as certain fans like to suggest, it certainly came as a disappointment. The Stone Roses laid the groundwork for a special formula, only to never expanded upon it. To many fans, *The Stone Roses* is just as significant as a nostalgia trip as it is a piece of music, a hark back to a sound that promised so much.
 
-  Indeed, the mixture of rock’n’roll and dance music that fuelled the Madchester scene was arguably executed best right here. The basslines are gloriously groovy, without being overtly disco, whilst the drumming retains a sense of arena rock despite the constant implications of dance rhythms. Yet it’s the classic pop songwriting that has aged most gracefully here, which is unequivocally excellent. The record contains a plethora of hits, and they still stand up strong today. The Stone Roses formula is known and adored by a variety of listeners, from rockers to ravers, and it’s somewhat surprising that the blueprint has yet to be well replicated (though the likes of [Spiritualized](<reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/>) and Primal Scream dabbled in similar swamps).
+  Indeed, the mixture of rock’n’roll and dance music that fuelled the Madchester scene was arguably executed best right here. The basslines are gloriously groovy, without being overtly disco, whilst the drumming retains a sense of arena rock despite the constant implications of dance rhythms. 
+  
+  Yet it’s the classic pop songwriting that has aged most gracefully here, which is unequivocally excellent. The record contains a plethora of hits, and they still stand up strong today. The Stone Roses formula is known and adored by a variety of listeners, from rockers to ravers, and it’s somewhat surprising that the blueprint has yet to be well replicated (though the likes of [Spiritualized](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/) and Primal Scream dabbled in similar swamps).
 
-  Though it seems sacrilegious to suggest in certain corners of the scene, *The Stone Roses* is not perfect. Whilst the album opens and ends strongly, the middle section isn’t quite as momentous. “Don’t Stop” captures a similar sense of psychedelia to that of [*Revolver*](<reviews/the-beatles-revolver/>) and [*Surrealistic Pillow*](<reviews/jefferson-airplane-surrealistic-pillow/>), though it’s not nearly as refined as either. The production makeup of *The Stone Roses* is appropriate, but not exactly elegant. Indeed, without meaning to discredit John Squire’s brilliant guitar work, the perpetual phase and flange effect can become grating over time. Even so, it doesn’t prevent *The Stone Roses* from being one of the most enjoyable records of the ’80s. With a handful of storming tracks, from pop-perfection on “Waterfall” to the climactic closing track “I Am the Resurrection”, it’s no wonder that the record is adored by so many.
+  Though it seems sacrilegious to suggest in certain corners of the scene, *The Stone Roses* is not perfect. Whilst the album opens and ends strongly, the middle section isn’t quite as momentous. “Don’t Stop” captures a similar sense of psychedelia to that of [*Revolver*](/reviews/the-beatles-revolver/) and [*Surrealistic Pillow*](/reviews/jefferson-airplane-surrealistic-pillow/), though it’s not nearly as refined as either. The production makeup of *The Stone Roses* is appropriate, but not exactly elegant. Indeed, without meaning to discredit John Squire’s brilliant guitar work, the perpetual phase and flange effect can become grating over time. 
+  
+  Even so, it doesn’t prevent *The Stone Roses* from being one of the most enjoyable records of the ’80s. With a handful of storming tracks, from pop-perfection on “Waterfall” to the climactic closing track “I Am the Resurrection”, it’s no wonder that the record is adored by so many.
 
 tracks:
   - Waterfall

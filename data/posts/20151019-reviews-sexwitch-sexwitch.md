@@ -7,6 +7,8 @@ tags:
   - "18"
   - 2010s
   - sexwitch
+  - alternative rock
+  - psychedelia
   - bat for lashes
 featuredimage: album-artwork/sexwitch-sexwitch.jpg
 artist: Sexwitch
@@ -37,7 +39,7 @@ author: André
 review: >-
   With its contagious aura of revelry and high sense of spirituality, Natasha Khan’s latest project initially proves quite alluring. Despite being a cover album, *Sexwitch* is surprisingly creative and certainly succeeds in crafting a sense of improvisation. This does, however, often lead to a lack of real substance; the more focused tracks such as “Helelyos” and “Ghoroobaa Ghashangan” suffer from being surrounded by less concentrated, more repetitive songs that at times border on tedious. 
   
-  It is consequently difficult for *Sexwitch*’s stronger moments to stand out, as they ultimately merge with the rest of the record to form a work that feels captivating, yet ultimately unfinished. This said, impressive vocal performances and a rhythm section that proves immensely gratifying in its tribal nature ensure *Sexwitch* makes for an enjoyable — if limited — experience. If nothing else, it’s a release that exhibits Khan’s voice to be even more dynamic than we expected, which is something I hope to see endure for [the new Bat for Lashes LP next year](https://audioxide.com/reviews/bat-for-lashes-the-bride/).
+  It is consequently difficult for *Sexwitch*’s stronger moments to stand out, as they ultimately merge with the rest of the record to form a work that feels captivating, yet ultimately unfinished. This said, impressive vocal performances and a rhythm section that proves immensely gratifying in its tribal nature ensure *Sexwitch* makes for an enjoyable — if limited — experience. If nothing else, it’s a release that exhibits Khan’s voice to be even more dynamic than we expected, which is something I hope to see endure for [the new Bat for Lashes LP next year](/reviews/bat-for-lashes-the-bride/).
 
 tracks:
   - Ghoroobaa Ghashangan

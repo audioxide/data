@@ -7,6 +7,9 @@ tags:
   - 1960s
   - "26"
   - the beatles
+  - john lennon
+  - rock
+  - psychedelia
 featuredimage: album-artwork/revolver-the-beatles.jpg
 artist: The Beatles
 album: Revolver

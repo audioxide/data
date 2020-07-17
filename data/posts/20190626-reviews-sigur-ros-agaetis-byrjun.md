@@ -7,6 +7,8 @@ tags:
   - 1990s
   - "22"
   - sigur ros
+  - electronic
+  - spiritualized
 featuredimage: album-artwork/agaetis-byrjun-sigur-ros.jpg
 artist: Sigur Rós
 album: Ágætis byrjun
@@ -37,7 +39,7 @@ review: >-
 
   Whether Sigur Rós lived up to that initial promise is an intriguing debate, but I’m not so sure the blueprint was all too hot to begin with. *Ágætis byrjun* is surrounded by a mystical, ethereal aura that stimulates the senses and triggers intense emotion. However, I question whether the songs themselves live up to such an overwhelming atmosphere. I’m a patient listener, but the album occasionally tests me. The opening buildup on “Ny batteri” is excessive to say the least, and it’s hardly the only case in point. Sigur Rós are prone to prolonging sustained notes and drifting strings to excessive length. Sometimes it works beautifully, other times it’s really quite draining.
 
-  Sigur Rós are known — and loved — for their expansive sound. Their ability to conjure up beauty in minor details is what sets the band apart from their peers. If Sigur Rós lack anything, it’s the contrast in moods and tones. There’s no doubting the sublime execution. One of the reasons why “Starálfur” is one of the more memorable cuts on the record is because it’s far more immediate than the rest. “Hjartað hamast (bamm bamm bamm)” is another anomaly in that sense, progressing naturally towards a groove that evokes [peak ’90s Spiritualized](<reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/>). Meanwhile, “Vidrar vel til loftarasa” sits at 10 minutes long, for reasons that escape me.
+  Sigur Rós are known — and loved — for their expansive sound. Their ability to conjure up beauty in minor details is what sets the band apart from their peers. If Sigur Rós lack anything, it’s the contrast in moods and tones. There’s no doubting the sublime execution. One of the reasons why “Starálfur” is one of the more memorable cuts on the record is because it’s far more immediate than the rest. “Hjartað hamast (bamm bamm bamm)” is another anomaly in that sense, progressing naturally towards a groove that evokes [peak ’90s Spiritualized](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/). Meanwhile, “Vidrar vel til loftarasa” sits at 10 minutes long, for reasons that escape me.
 
   Not to be too scathing on a record that won the hearts of so many of its listeners in the early 2000s, and besides, it’s reassuring that there are people willing to listen to such a lingering amount of sweeping sounds. However, I’d argue 70 minutes of lush ambient art-rock does actually get tiring when it lacks variety. Layers upon layers of sensuous strings, steady soundscapes, and ghostly vocals combine to create an record that is impressive, yet frustratingly fatiguing.
 

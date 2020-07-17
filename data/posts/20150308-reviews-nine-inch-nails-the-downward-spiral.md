@@ -5,11 +5,11 @@ slug: nine-inch-nails-the-downward-spiral
 type: reviews
 tags:
   - 1990s
-  - 27+ club
+  - 27 plus club
   - "28"
   - concept albums
   - nine inch nails
-  - trent reznor
+  - industrial
 featuredimage: album-artwork/the-downward-spiral-nine-inch-nails.jpg
 artist: Nine Inch Nails
 album: The Downward Spiral

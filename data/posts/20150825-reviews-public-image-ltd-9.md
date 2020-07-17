@@ -7,6 +7,7 @@ tags:
   - "19"
   - 1980s
   - public image ltd
+  - post punk
 featuredimage: album-artwork/9-public-image-ltd.jpg
 artist: Public Image Ltd
 album: "9"

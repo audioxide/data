@@ -6,7 +6,8 @@ type: reviews
 tags:
   - 1970s
   - "20"
-  - bob marley
+  - bob marley and the wailers
+  - reggae
 featuredimage: album-artwork/exodus-bob-marley-and-the-wailers.jpg
 artist: Bob Marley and The Wailers
 album: Exodus

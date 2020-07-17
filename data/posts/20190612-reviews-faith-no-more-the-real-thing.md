@@ -7,6 +7,9 @@ tags:
   - "19"
   - 1980s
   - faith no more
+  - rock
+  - jazz
+  - queen
 featuredimage: album-artwork/the-real-thing-faith-no-more.jpg
 artist: Faith No More
 album: The Real Thing
@@ -39,7 +42,7 @@ review: >-
 
   Then there’s the bad. The whole thing is just a little too ludicrous. It’s genuinely funny, but I’m not entirely sure Faith No More are in on the joke. It’s also very long, or at least if feels lengthy, which makes the inclusion of “War Pigs” even weirder. Sure, it’s entertaining, but when a cover song stands out as one of the most focused moments on the entire record, you know the overall quality is somewhat lacking. However, nothing epitomises *The Real Thing* more than its closing moments, with a transition from ‘Black Sabbath classic’ to ‘metal-jazz cafe’. Absurd.
 
-  It’s easy to see why *The Real Thing* has its fair share of fans. Extravagance often comes with great amusement. Faith No More may not have the talent of [Queen](<reviews/queen-news-of-the-world/>), but they create a similar brand of musical theatre. It’s also clear why some listeners dislike the extravagance. Unfortunately, I remain on the fence, though it’s impossible to deny that *The Real Thing* is entertaining. In the same way that Roger Moore-era Bond films are entertaining.
+  It’s easy to see why *The Real Thing* has its fair share of fans. Extravagance often comes with great amusement. Faith No More may not have the talent of [Queen](/reviews/queen-news-of-the-world/), but they create a similar brand of musical theatre. It’s also clear why some listeners dislike the extravagance. Unfortunately, I remain on the fence, though it’s impossible to deny that *The Real Thing* is entertaining. In the same way that Roger Moore-era Bond films are entertaining.
 
 tracks:
   - Surprise! You’re Dead!
@@ -57,9 +60,9 @@ author: Fred
 review: >-
   I don’t understand *The Real Thing* and I don’t expect I ever will. It is so many things. It is metal, it is hip hop, it is big band jazz and shimmering synthesisers and the last act of a dazzling musical nobody asked for. The record is like some thunderous neon trainwreck, a fireball in all colours of the rainbow. You don’t know whether to be awed or baffled or both. I like it.
 
-  That mess of a first paragraph is as close as I can get to capturing the essence of *The Real Thing*. It is an audaciously incoherent record. All manner of sounds are thrown into the mix and, by hook or by crook, it pulls it off. “Epic” swings between hip hop and metal and has a slap bass with so much twang that it may as well be a guitar. But it works. The chorus is anthemic and the groove is rock solid. It would be silly *not *to have several solos.
+  That mess of a first paragraph is as close as I can get to capturing the essence of *The Real Thing*. It is an audaciously incoherent record. All manner of sounds are thrown into the mix and, by hook or by crook, it pulls it off. “Epic” swings between hip hop and metal and has a slap bass with so much twang that it may as well be a guitar. But it works. The chorus is anthemic and the groove is rock solid. It would be silly *not* to have several solos.
 
-  Mike Patton serves as master of ceremonies with appropriate pizzazz. He’s an adaptable guy, and in a lot of ways he sets the tone of expecting the unexpected. Case in point, the closer “Edge of the World” waltzes in with the smoothest basement bar piano flow you’ve ever heard. Nothing — *nothing* — in the preceding 50 minutes gives you reason to expect it., but it works.
+  Mike Patton serves as master of ceremonies with appropriate pizzazz. He’s an adaptable guy, and in a lot of ways he sets the tone of expecting the unexpected. Case in point, the closer “Edge of the World” waltzes in with the smoothest basement bar piano flow you’ve ever heard. Nothing — *nothing* — in the preceding 50 minutes gives you reason to expect it, but it works.
 
   It doesn’t all work. Sometimes silliness wins out, though on balance I’d say that’s a worthwhile trade off. *The Real Deal* is so maniacally expressive that I can’t help but admire it. Were it a little shorter I’d probably give it full pass, but as things are I have to say I’ll be coming back for tracks rather than the full experience.
 

@@ -7,6 +7,12 @@ tags:
   - 1960s
   - "25"
   - the rolling stones
+  - rock
+  - psychedelia
+  - the beatles
+  - jefferson airplane
+  - the jimi hendrix experience
+  - bob dylan
 featuredimage: album-artwork/let-it-bleed-the-rolling-stones.jpg
 artist: The Rolling Stones
 album: Let It Bleed
@@ -33,9 +39,11 @@ albumMBID: 784c0edd-0f37-33a2-9ca5-dff87b4f999c
 author: André
 
 review: >-
-  *Let It Bleed* inhabits multiple sounds of the ‘60s. I hear the rich psychedelic rock of [*Revolver*](<reviews/the-beatles-revolver/>), and the country balladry of [*Highway 61 Revisited*](<reviews/bob-dylan-highway-61-revisited/>). It even shares a similar sense of brutality in its lyrical imagery to that of The Velvet Underground & Nico. Opening track “Gimme Shelter”, a clear highlight on the record, wouldn’t feel too out of place on [a Jefferson Airplane record](<reviews/jefferson-airplane-surrealistic-pillow/>), whilst Keith Richards’ guitar licks evoke the aura of [Hendrix](<reviews/the-jimi-hendrix-experience-electric-ladyland/>). As a pesky no-good millennial, I wasn’t even close to experiencing life in the ‘60s, but I feel like listening to *Let It Bleed* brings me that little bit closer.
+  *Let It Bleed* inhabits multiple sounds of the ‘60s. I hear the rich psychedelic rock of [*Revolver*](/reviews/the-beatles-revolver/), and the country balladry of [*Highway 61 Revisited*](/reviews/bob-dylan-highway-61-revisited/). It even shares a similar sense of brutality in its lyrical imagery to that of The Velvet Underground & Nico. Opening track “Gimme Shelter”, a clear highlight on the record, wouldn’t feel too out of place on [a Jefferson Airplane record](/reviews/jefferson-airplane-surrealistic-pillow/>), whilst Keith Richards’ guitar licks evoke the aura of [Hendrix](/reviews/the-jimi-hendrix-experience-electric-ladyland/). As a pesky no-good millennial, I wasn’t even close to experiencing life in the ‘60s, but I feel like listening to *Let It Bleed* brings me that little bit closer.
 
-  The Stones were never as firmly reliable as The Beatles when it comes to cohesion and regularity, and even on a record as good as this, that lack of consistency still peeks through. Closing track “You Can’t Always Get What You Want” is weirdly indulgent, which is even more curious given that the rest of the album is largely unassuming. It starts like a Christmas carol, and given that it’s currently January at the time of writing this, it’s absolutely not welcome. Still, even The Beatles had “Yellow Submarine”, and both songs clearly have their sets of admirers, so who am I to judge? *Let It Bleed* is not the greatest album of its time, and it’s far from the most original, but it still succeeds greatly in its ability to take you back to a time where the Swinging Sixties had a glimpse of what awaited. It’s an immensely satisfying record, whatever way you look at it.
+  The Stones were never as firmly reliable as The Beatles when it comes to cohesion and regularity, and even on a record as good as this, that lack of consistency still peeks through. Closing track “You Can’t Always Get What You Want” is weirdly indulgent, which is even more curious given that the rest of the album is largely unassuming. It starts like a Christmas carol, and given that it’s currently January at the time of writing this, it’s absolutely not welcome. Still, even The Beatles had “Yellow Submarine”, and both songs clearly have their sets of admirers, so who am I to judge? 
+  
+  *Let It Bleed* is not the greatest album of its time, and it’s far from the most original, but it still succeeds greatly in its ability to take you back to a time where the Swinging Sixties had a glimpse of what awaited. It’s an immensely satisfying record, whatever way you look at it.
 
 tracks:
   - Midnight Rambler
@@ -53,9 +61,9 @@ author: Fred
 review: >-
   The Stones in swing is a sound seldom matched in music. *Let It Bleed *has missteps, but it spends most of its runtime swaggering around chewing a piece of wheat. This is probably the most languid Rolling Stones records I’ve listened to. It deals in folk and country almost as much as it does in rock and roll.
 
-  Big hitters like “Gimme Shelter” and “Midnight Rambler” hog much of the attention, but it’s actually the folksy numbers around them that give *Let It Bleed *its steady, frontiersman-like character. “Country Honk” skips along like a dusty hoedown, while the dry country twang of “You Got the Silver” wouldn’t sound out of place on [a Bob Dylan record](<reviews/bob-dylan-highway-61-revisited/>). Mick Jagger is good value, as always. He doesn’t so much sing as run his mouth and he sounds marvellous. It’s a real gift.
+  Big hitters like “Gimme Shelter” and “Midnight Rambler” hog much of the attention, but it’s actually the folksy numbers around them that give *Let It Bleed *its steady, frontiersman-like character. “Country Honk” skips along like a dusty hoedown, while the dry country twang of “You Got the Silver” wouldn’t sound out of place on [a Bob Dylan record](/reviews/bob-dylan-highway-61-revisited/). Mick Jagger is good value, as always. He doesn’t so much sing as run his mouth and he sounds marvellous. It’s a real gift.
 
-  There’s enough wrong with *Let It Bleed* for it to be a rung or two below the Stones’ best work. “Live With Me” sounds suspiciously like “Jumpin’ Jack Flash”, while “You Can’t Always Get What You Want” blunders in out of nowhere. I’ve never heard something so pleased with itself for being the closing track. For every great track there’s a perfectly good one. When it’s the Stone, isn’t that enough?
+  There’s enough wrong with *Let It Bleed* for it to be a rung or two below the Stones’ best work. “Live With Me” sounds suspiciously like “Jumpin’ Jack Flash”, while “You Can’t Always Get What You Want” blunders in out of nowhere. I’ve never heard a song so pleased with itself for being the closer. For every great track there’s a perfectly good one. When it’s the Stone, isn’t that enough?
 
 tracks:
   - Gimme Shelter

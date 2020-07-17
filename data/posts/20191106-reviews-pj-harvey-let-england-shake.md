@@ -6,7 +6,10 @@ type: reviews
 tags:
   - 2010s
   - "24"
-  - PJ harvey
+  - pj harvey
+  - alternative rock
+  - rock
+  - the kinks
 featuredimage: album-artwork/let-england-shake-pj-harvey.jpg
 artist: PJ Harvey
 album: Let England Shake
@@ -33,7 +36,9 @@ albumMBID: 9d504fde-1b02-4c14-b484-bcf94570153a
 author: André
 
 review: >-
-  Whether it’s over years or a matter of mere days, certain pieces of music become more powerful as the World continues to turn. Occasionally, an album will somehow feel timeless upon impact. Released in 2011, at a time where the Afghan War was at its most critical, *Let England Shake* was a striking open letter to the leaders of the Western World — the UK in particular. Prior to this, PJ Harvey was generally known for murky blues music that revelled in darkness, but with the release of 2011’s *White Chalk* — an introspective chamber pop album — it was clear that she was angling for a different approach. Whilst I think PJ Harvey’s prime years were in the early-to-mid ’90s, *Let England Shake* stands tall and proud as her modern masterpiece.
+  Whether it’s over years or a matter of mere days, certain pieces of music become more powerful as the World continues to turn. Occasionally, an album will somehow feel timeless upon impact. Released in 2011, at a time where the Afghan War was at its most critical, *Let England Shake* was a striking open letter to the leaders of the Western World — the UK in particular. 
+  
+  Prior to this, PJ Harvey was generally known for murky blues music that revelled in darkness, but with the release of 2011’s *White Chalk* — an introspective chamber pop album — it was clear that she was angling for a different approach. Whilst I think PJ Harvey’s prime years were in the early-to-mid ’90s, *Let England Shake* stands tall and proud as her modern masterpiece.
 
   At this point in her career, it could be argued that PJ Harvey was close to becoming a veteran. On *Let England Shake*, she sings with such spirit and passion, it’s as if she’s addressing the nation. She purposefully allows her accent to come through, presumably for that English authenticity. “This Glorious Land” even features a delightful horn section, playing out like a call to arms, as if to represent nobility. It’s still, to this day, a deeply inspiring listen.
 
@@ -55,9 +60,9 @@ score:
 author: Fred
 
 review: >-
-  It’s hard to take seriously [claims that the album is dead](<https://www.forbes.com/sites/bobbyowsinski/2018/03/10/album-dead/>) when projects like *Let England Shake* exist. PJ Harvey put in all the stops to make something as solemn as it is defiant. Although I will probably always be more partial to the guttural grinds of her ‘90s output, *Let England Shake* really does feel like a statement. Every element — the production, the arrangements, the lyrics, the vocals — pulls in the same direction, and the results are haunting.
+  It’s hard to take seriously [claims that the album is dead](https://www.forbes.com/sites/bobbyowsinski/2018/03/10/album-dead/) when projects like *Let England Shake* exist. PJ Harvey put in all the stops to make something as solemn as it is defiant. Although I will probably always be more partial to the guttural grinds of her ‘90s output, *Let England Shake* really does feel like a statement. Every element — the production, the arrangements, the lyrics, the vocals — pulls in the same direction, and the results are haunting.
 
-  Harvey is obviously the lynchpin. She casts her spell immediately in the opening track, her sing-song lyrics seeping out of the mix like a Siren in the mist. That eerie childishness underpins a lot of what goes on. I suppose it helps make talk of war crimes and xenophobia and propaganda that much more depressing. The album’s quite reminiscent of [*Arthur*](<reviews/the-kinks-arthur/>) by the Kinks in that sense, with jangly guitars, swelling horns, and featherlight melodies juxtaposed against visions of poor bastards being blown apart in fields. Defeated British irony at its best.
+  Harvey is obviously the lynchpin. She casts her spell immediately in the opening track, her sing-song lyrics seeping out of the mix like a Siren in the mist. That eerie childishness underpins a lot of what goes on. I suppose it helps make talk of war crimes and xenophobia and propaganda that much more depressing. The album’s quite reminiscent of [*Arthur*](/reviews/the-kinks-arthur/) by the Kinks in that sense, with jangly guitars, swelling horns, and featherlight melodies juxtaposed against visions of poor bastards being blown apart in fields. Defeated British irony at its best.
 
   All this said, I’m never quite overwhelmed by *Let England Shake*. It’s close to sublime, but not quite. It’s a foggy, drizzly English dream with a handful of vivid moments. A dirge has never sounded so funky as “The Last Living Rose” does, while “All and Everyone” is sodden and beautiful in ways I think only PJ Harvey could manage. She’s a force of nature, and in Let England Shake she produced one of the 2010s’ finest records.
 

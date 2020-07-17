@@ -8,7 +8,7 @@ tags:
   - "22"
   - u2
   - brian eno
-  - daniel lanois
+  - rock
 featuredimage: album-artwork/the-joshua-tree-u2.jpg
 artist: U2
 album: The Joshua Tree
@@ -35,7 +35,7 @@ albumMBID: 6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d
 author: André
 
 review: >-
-  With assistance from [Brian Eno](https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/) and Daniel Lanois, U2 achieved a vast and powerful sound that crucially stopped itself from treading into the territory of the overly bombastic; here we experience the band without the excruciating self-indulgence that turns listeners away from their more recent works. 
+  With assistance from [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/) and Daniel Lanois, U2 achieved a vast and powerful sound that crucially stopped itself from treading into the territory of the overly bombastic; here we experience the band without the excruciating self-indulgence that turns listeners away from their more recent works. 
   
   *The Joshua Tree* may not be my favourite U2 album, but it is their most refined, and I certainly wouldn’t dispute the claim of it being the definitive U2 record to exist in a rather eventful discography.
 

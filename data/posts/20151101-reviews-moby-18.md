@@ -7,6 +7,7 @@ tags:
   - "19"
   - 2000s
   - moby
+  - electronic
 featuredimage: 2015/11/18-55aab491b075b.jpg
 artist: Moby
 album: "18"

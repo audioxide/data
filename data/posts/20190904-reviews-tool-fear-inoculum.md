@@ -7,6 +7,8 @@ tags:
   - "15"
   - 2010s
   - tool
+  - metal
+  - godspeed you black emperor
 featuredimage: album-artwork/fear-inoculum-tool.jpg
 artist: Tool
 album: Fear Inoculum
@@ -54,9 +56,9 @@ score:
 author: Fred
 
 review: >-
-  If a bunch of nobodies released *Fear Inoculum* I don’t think it would make so much as a ripple. Whatever strengths the album has are numbed beyond feeling by its length and astonishing lack of urgency. Long, broody, instrumental-heavy albums have their place — [I’ve gushed over enough of them to know](<reviews/godspeed-you-black-emperor-luciferian-towers/>) — but instead of poking into the frontier this gets mired in a kind of no-man’s land. This sounds like rock in slow motion.
+  If a bunch of nobodies released *Fear Inoculum* I don’t think it would make so much as a ripple. Whatever strengths the album has are numbed beyond feeling by its length and astonishing lack of urgency. Long, broody, instrumental-heavy albums have their place — [I’ve gushed over enough of them to know](/reviews/godspeed-you-black-emperor-luciferian-towers/) — but instead of poking into the frontier this gets mired in a kind of no-man’s land. This sounds like rock in slow motion.
 
-  TOOL took 13 years to make this album, and [Maynard Keenan has said it was good enough eight years ago](<https://loudwire.com/maynard-james-keenan-new-tool-album-fantastic-eight-years-ago/>). If the band really did get bogged down by self doubt and second guessing every step, it shows. They’re a tight unit, and pleasant enough to listen to for, say, ten minutes, but there’s no spark and when the album is 90 minutes long that becomes a big, boring problem. How can you spend so much time getting nowhere?
+  TOOL took 13 years to make this album, and [Maynard Keenan has said it was good enough eight years ago](https://loudwire.com/maynard-james-keenan-new-tool-album-fantastic-eight-years-ago/). If the band really did get bogged down by self doubt and second guessing every step, it shows. They’re a tight unit, and pleasant enough to listen to for, say, ten minutes, but there’s no spark and when the album is 90 minutes long that becomes a big, boring problem. How can you spend so much time getting nowhere?
 
   Highlights, such as they are, come in the form of shorter tracks like “Legion Inoculant” and “Chocolate Chip Trip”. A little intensity goes a long way. The album actually picks up for a while about 40 minutes in, but that’s not a great sentence to write is it? Who wants to read a book that picks up 500 pages in? Devoted fans of the author, perhaps, but few else.
 

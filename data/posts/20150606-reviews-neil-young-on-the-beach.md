@@ -6,8 +6,9 @@ type: reviews
 tags:
   - 1970s
   - "27"
-  - 27+ Club
+  - 27 plus club
   - neil young
+  - rock
 featuredimage: album-artwork/on-the-beach-neil-young.jpg
 artist: Neil Young
 album: On The Beach

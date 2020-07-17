@@ -6,8 +6,9 @@ type: reviews
 tags:
   - 2010s
   - "27"
-  - 27+ Club
-  - dr. dre
+  - hip hop
+  - 27 plus club
+  - dr dre
   - kendrick lamar
 featuredimage: album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg
 artist: Kendrick Lamar
@@ -35,7 +36,7 @@ albumMBID: d9103c72-3807-4378-9ce7-b6f3e8fdd547
 author: André
 
 review: >-
-  Ambitious in its attempt to inspire a generation to change a damaging culture, *To Pimp A Butterfly* is an album mainstream hip-hop has been longing for. The hard-hitting, inspiring lyrical content is supported by wonderful fusions of hip-hop, jazz, and funk music, ensuring that not only is the album important, but also incredibly enjoyable. If *Good Kid, M.A.A.D City* introduced Kendrick Lamar to the masses, *To Pimp A Butterfly* cements his place in the hip-hop hall of fame. This is an instant classic, and I’m fascinated as to [where Kendrick Lamar can go from here](https://audioxide.com/reviews/kendrick-lamar-damn/).
+  Ambitious in its attempt to inspire a generation to change a damaging culture, *To Pimp A Butterfly* is an album mainstream hip-hop has been longing for. The hard-hitting, inspiring lyrical content is supported by wonderful fusions of hip-hop, jazz, and funk music, ensuring that not only is the album important, but also incredibly enjoyable. If *Good Kid, M.A.A.D City* introduced Kendrick Lamar to the masses, *To Pimp A Butterfly* cements his place in the hip-hop hall of fame. This is an instant classic, and I’m fascinated as to [where Kendrick Lamar can go from here](/reviews/kendrick-lamar-damn/).
 
 tracks:
   - King Kunta
