@@ -7,6 +7,7 @@ tags:
   - "18"
   - 2010s
   - jack white
+  - rock
 featuredimage: album-artwork/boarding-house-reach-jack-white.jpg
 artist: Jack White
 album: Boarding House Reach
@@ -24,7 +25,7 @@ colours:
   - "#c2c4c4"
   - "#dedede"
 pullquote: Fruitcake rock
-summary: "Those looking for the red, white, and black muscle of The White Stripes should probably just listen to The White Stripes. Jack White’s output here is blue: chillier, more demanding... stranger. It isn't necessarily as accomplished, but there’s plenty to be gained by approaching Boarding House Reach on its own terms."
+summary: "Those looking for the red, white, and black muscle of The White Stripes should probably just listen to The White Stripes. Jack White’s output here is blue: chillier, more demanding... stranger."
 week: 138
 blurb: Those looking for the muscle of The White Stripes should just listen to The White Stripes. Jack White’s output here is chillier, more demanding... stranger.
 artistMBID: 3ae2fb37-8a23-429d-9920-bac811c4fc22
@@ -51,11 +52,13 @@ score:
 author: Fred
 
 review: >-
-  Conventional wisdom says that Jack White has lost his rag and his music is mad, a view which can muddy the reception of his work. Now as it happens, *Boarding House Reach *is a bit mad and White may well have lost his rag, but this needn’t be a black mark against the record. Those looking for the red, white, and black muscle of The White Stripes should probably just listen to The White Stripes. Jack White’s output here is blue: chillier, more demanding… stranger. It isn’t necessarily as accomplished, but there’s plenty to be gained by approaching *Boarding House Reach *on its own terms.
+  Conventional wisdom says that Jack White has lost his rag and his music is mad, a view which can muddy the reception of his work. Now as it happens, *Boarding House Reach* is a bit mad and White may well have lost his rag, but this needn’t be a black mark against the record. Those looking for the red, white, and black muscle of The White Stripes should probably just listen to The White Stripes. Jack White’s output here is blue: chillier, more demanding… stranger. It isn’t necessarily as accomplished, but there’s plenty to be gained by approaching *Boarding House Reach* on its own terms.
 
-  Be prepared for sermons, bongos, machine whirs, and rap, amongst other things. Also rest assured there’s enough rock to slake your thirst for that White Stripes reunion that’s not going to happen. The eclectic contents reach you through appropriately lopsided production. The record sounds clean and technical, with the placement of instruments in the mix often feeling unnatural and shifting focus elsewhere. “Corporation” is as groovy as all hell, but it’s also tight and restrained, which makes the grooviness of the track a structural achievement rather than an aesthetic one. I like that. Even when White’s screaming at you to ‘shut up and learn’ in “Everything You’ve Ever Known”, much of the satisfaction comes from being able to hear how the moment has been put together rather than how it’s being experienced. This is true throughout. There is a pleasure in hearing weird, seemingly incompatible sounds assembled into something functional.
+  Be prepared for sermons, bongos, machine whirs, and rap, amongst other things. Also rest assured there’s enough rock to slake your thirst for that White Stripes reunion that’s not going to happen. The eclectic contents reach you through appropriately lopsided production. The record sounds clean and technical, with the placement of instruments in the mix often feeling unnatural, shifting focus elsewhere.
+  
+   “Corporation” is as groovy as all hell, but it’s also tight and restrained, which makes the grooviness of the track a structural achievement rather than an aesthetic one. I like that. Even when White’s screaming at you to ‘shut up and learn’ in “Everything You’ve Ever Known”, much of the satisfaction comes from being able to hear how the moment has been put together rather than how it’s being experienced. This is true throughout. There is a pleasure in hearing weird, seemingly incompatible sounds assembled into something functional.
 
-  [As White himself has admitted](<http://www.nme.com/news/music/jack-white-talks-bizarre-new-solo-album-2018-2157231>), it’s a bizarre album, but he has a handle on it. The abandonment of vintage rock is a choice, and one I agree with. Much as I enjoy the familiar, funky offerings of “Over and Over and Over”, an album of it would bore me to death. *Boarding House Reach *does anything but. The experimentation has its hiccups, but the successes make them wholly worthwhile. I don’t think it’s far off being brilliant.
+  [As White himself has admitted](http://www.nme.com/news/music/jack-white-talks-bizarre-new-solo-album-2018-2157231), it’s a bizarre album, but he has a handle on it. The abandonment of vintage rock is a choice, and one I agree with. Much as I enjoy the familiar, funky offerings of “Over and Over and Over”, an album of it would bore me to death. *Boarding House Reach* does anything but. The experimentation has its hiccups, but the successes make them wholly worthwhile. I don’t think it’s far off being brilliant.
 
 tracks:
   - Corporation
@@ -71,7 +74,11 @@ score:
 author: Andrew
 
 review: >-
-  I don’t have any significant issues with *Boarding House Reach*. I like the leftfield nature of it for the majority. I think some tracks, notably “Over and Over and Over”, are definite stonkers. And while I can see why “Corporation” or “Ice Station Zebra” might rub someone up the wrong way, they come across in my ears as groovy jams. That said, jams on record often don’t do a lot for me, and combined with the slightly quirkier tracks and interludes like the former half of “Everything You’ve Ever Learned” and “Ezmerelda Steals the Show”, there’s a fair portion of this album that just doesn’t click. I don’t find anything in this tracklist terrible, and I commend Jack White for not retreading better-trodden paths. Across the 44-minute play time, there are a whirlwind of ideas that do regularly hit the spot too, but the aforementioned ‘jam’ quality to some tracks does mean progression can falter once things are in full swing, and for those that hover around the five-minute mark that can be more of an issue. I don’t see myself returning to this for the full ride, but there’s enough here for me to return for something. What I’d probably hope for in a future release would be some of the quirk with more progression added in for good measure. With so many promising starting points, it’s been a real shame to not click with this more.
+  I don’t have any significant issues with *Boarding House Reach*. I like the leftfield nature of it for the most part. I think some tracks, notably “Over and Over and Over”, are definite stonkers. And while I can see why “Corporation” or “Ice Station Zebra” might rub someone up the wrong way, they come across in my ears as groovy jams. 
+  
+  That said, jams on record often don’t do a lot for me, and combined with the slightly quirkier tracks and interludes like the former half of “Everything You’ve Ever Learned” and “Ezmerelda Steals the Show”, there’s a fair portion of this album that just doesn’t click. I don’t find anything in this tracklist terrible, and I commend Jack White for not retreading better-trodden paths. Across the 44-minute play time, there are a whirlwind of ideas that do regularly hit the spot too, but the aforementioned ‘jam’ quality to some tracks does mean progression can falter once things are in full swing, and for those that hover around the five-minute mark that can be more of an issue. 
+  
+  I don’t see myself returning to this for the full ride, but there’s enough here for me to return for something. What I’d probably hope for in a future release would be some of the quirk with more progression added in for good measure. With so many promising starting points, it’s been a real shame to not click with this more.
 
 tracks:
   - Over and Over and Over
