@@ -7,6 +7,8 @@ tags:
   - 1980s
   - "25"
   - pixies
+  - alternative rock
+  - grunge
   - nirvana
   - the smashing pumpkins
   - pj harvey
@@ -37,7 +39,7 @@ albumMBID: 1aa41b19-5a72-341b-bd91-4cf61d1dab6b
 author: ANDRÉ
 
 review: >-
-  Say what you will about their current iteration, the Pixies have earned their status in musical history. Their vibrant brand of catchy guitar music laid the groundwork for ’90s rock, directly influencing cherished artists like [Nirvana](<reviews/nirvana-in-utero/>), [The Smashing Pumpkins](<reviews/the-smashing-pumpkins-gish/>) and [PJ Harvey](<reviews/pj-harvey-the-hope-six-demolition-project/>). They had a unique capacity for making irresistible rock music that revelled in musical simplicity — yet despite an overwhelming influence, their sound has proven impossible to replicate. Whilst *Surfer Rosa* remains a fine showcase of the abrasive nature to their sound, it’s their second studio album that continues to define them. 
+  Say what you will about their current iteration, the Pixies have earned their status in musical history. Their vibrant brand of catchy guitar music laid the groundwork for ’90s rock, directly influencing cherished artists like [Nirvana](/reviews/nirvana-in-utero/), [The Smashing Pumpkins](/reviews/the-smashing-pumpkins-gish/) and [PJ Harvey](/reviews/pj-harvey-the-hope-six-demolition-project/). They had a unique capacity for making irresistible rock music that revelled in musical simplicity — yet despite an overwhelming influence, their sound has proven impossible to replicate. Whilst *Surfer Rosa* remains a fine showcase of the abrasive nature to their sound, it’s their second studio album that continues to define them. 
   
   *Doolittle* balances boisterous oddness with sweet and sugary pop tunes, making it not only their most intriguing record, but also the most accessible. It breathes beauty, mystery, and humour, and nothing else sounds quite like it. Inside each song lies at least one great moment, whether it’s an infectious guitar riff, a killer vocal hook, a captivating instrumental breakdown, or Black Francis concluding that, on the basis of people being 5 and the Devil being 6, God must be 7. The surrealistic nature of Francis’ lyrics is a vital part of that distinct Pixies sound, and it continues to be absurdly enjoyable: if he’s not contemplating biblical mythology, he’s singing about the whores in his head, or barking like a dog.
 
@@ -129,6 +131,6 @@ review: >-
 author: Gabriel
 
 review: >-
-  Pixies’ *Doolittle* remains to this day one of the quintessential ‘must listens’ in music history. Similar to the common ‘[Beatles](https://audioxide.com/reviews/the-beatles-abbey-road/) phase’, everyone seems to have that 'Pixies phase' too, and *Doolittle* is often the album that opens the initial obsession. The record is a perfect mix of sharp bass tones, whirling and sometimes screeching guitar, and an unforgettable vocal style. Songs like "Debaser" have become such cult staples that it is almost impossible not to know the words. 
+  Pixies’ *Doolittle* remains to this day one of the quintessential ‘must listens’ in music history. Similar to the common ‘[Beatles](/reviews/the-beatles-abbey-road/) phase’, everyone seems to have that 'Pixies phase' too, and *Doolittle* is often the album that opens the initial obsession. The record is a perfect mix of sharp bass tones, whirling and sometimes screeching guitar, and an unforgettable vocal style. Songs like "Debaser" have become such cult staples that it is almost impossible not to know the words. 
   
   *Doolittle* wears its surf and punk rock influences on its sleeve, but is all the better for it, possessing the required charm and wit to be simultaneously weird and insatiably catchy. Tracks like "Mr Grieves" and "Crackity Jones" exemplify what *Doolittle* really has to offer: relatively short tracks with a whole lot packed into them. There are numerous changes in time, rhythm and dynamics, topped off with wonderfully odd prose. It can be easy to revere Pixies for their undisputed influence on music since the early 90s, and it can sometimes be easy to forget that *Doolittle* is just a damn good record - one that should not be forgotten.

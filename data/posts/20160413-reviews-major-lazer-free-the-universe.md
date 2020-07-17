@@ -7,6 +7,7 @@ tags:
   - "16"
   - 2010s
   - major lazer
+  - edm
 featuredimage: album-artwork/free-the-universe-major-lazer.jpg
 artist: Major Lazer
 album: Free the Universe

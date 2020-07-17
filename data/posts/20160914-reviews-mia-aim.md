@@ -6,7 +6,9 @@ type: reviews
 tags:
   - "12"
   - 2010s
-  - m.i.a.
+  - mia
+  - hip hop
+  - kanye west
 featuredimage: album-artwork/aim-mia.jpg
 artist: M.I.A.
 album: AIM
@@ -55,7 +57,7 @@ author: Fred
 review: >-
   On a score this low I’d expect to be upset or angry in some undignified way or other, but in this case I’m just deeply unaffected. *AIM*, ironically, is a directionless. Boasting a small army of producers (read: electric sledgehammer wielders) like Dilpo and Skrillex, the album’s character is inelegant and obnoxious, with the creative sparks scattered throughout only serving to highlight what is missing — vision. 
   
-  It’s striking how quickly this becomes apparent. The opener, “Borders”, isn’t a world shaker, but it’s fine start, a catchy, structured, melodic beat that seemingly lays out a stall for the tracks to follow. Nope! If any generalisation can be made about *AIM*, it’s that it’s splintered. Almost every song comes across like a hodgepodge of undeveloped ideas mixed in a megablender with no lid. Maya Arulpragasam seems to get a kick out of that splattered unruliness, but it isn’t terribly enjoyable, or interesting, or anything really. The almost pathological lack of form and polish [would make Kanye West blush](<reviews/the-life-of-pablo/>). 
+  It’s striking how quickly this becomes apparent. The opener, “Borders”, isn’t a world shaker, but it’s fine start, a catchy, structured, melodic beat that seemingly lays out a stall for the tracks to follow. Nope! If any generalisation can be made about *AIM*, it’s that it’s splintered. Almost every song comes across like a hodgepodge of undeveloped ideas mixed in a megablender with no lid. Maya Arulpragasam seems to get a kick out of that splattered unruliness, but it isn’t terribly enjoyable, or interesting, or anything really. The almost pathological lack of form and polish [would make Kanye West blush](/reviews/kanye-west-the-life-of-pablo/). 
   
   Maya Arulpragasam’s core vibe is clearly something uniquely colourful and candid, so it’s a real shame it denies itself the chance to shine. A little discipline would have gone a long way.
 

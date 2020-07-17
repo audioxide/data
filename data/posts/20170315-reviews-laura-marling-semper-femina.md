@@ -8,6 +8,7 @@ tags:
   - "25"
   - laura marling
   - folk
+  - acoustic
   - bob dylan
   - portishead
   - gorillaz
@@ -41,7 +42,7 @@ review: >-
   
   The record is strong and self-assured, but it’s also elegant and exceedingly graceful. Marling’s arrangements continually stem from the same place — acoustic guitar picking accompanied by a soft vocal melody — but they eventually develop into something subtly complex. There’s a tremendous amount of depth in its skill and concept, which results in one of the most consistent and surprisingly varied records of its kind. 
   
-  Marling’s performance is immaculate, with a range of vocal expressions that are as impressive as ever, from the Joni Mitchell sensations of “The Valley” to the [Bob Dylan](https://audioxide.com/reviews/bob-dylan-highway-61-revisited/)-like expression on “Wild Once”. With that said, it can be faintly jarring as you hear an English accent swiftly turn into a voice that derives from the Deep South. It would have been lovely to have more tracks in the same strain of “Soothing” too, because it’s one of the greatest songs Marling has ever written, equipped with a vocal performance [that only Beth Gibbons can match in seductiveness](https://audioxide.com/reviews/portishead-dummy/). 
+  Marling’s performance is immaculate, with a range of vocal expressions that are as impressive as ever, from the Joni Mitchell sensations of “The Valley” to the [Bob Dylan](/reviews/bob-dylan-highway-61-revisited/)-like expression on “Wild Once”. With that said, it can be faintly jarring as you hear an English accent swiftly turn into a voice that derives from the Deep South. It would have been lovely to have more tracks in the same strain of “Soothing” too, because it’s one of the greatest songs Marling has ever written, equipped with a vocal performance [that only Beth Gibbons can match in seductiveness](/reviews/portishead-dummy/). 
   
   Even so, *Semper Femina* remains a quite remarkable album that will likely live long in the memory of any avid folk listener. Laura Marling’s attempt to understand femininity is sometimes abstract, but often very beautiful.
 
@@ -83,7 +84,7 @@ author: Andrew
 review: >-
   Laura Marling’s return is certainly welcome. As an avid listener of her early releases and a slightly more removed fan of her later work, having her latest release, *Semper Femina*, on repeat hasn’t been a chore. ‘On repeat’ is far from an exaggeration too, as I reach the end of the album and can’t help but pick out favourites only to find myself relistening to the entire tracklist again. At 43 minutes long, there’s room for each of the nine tracks to either develop and breathe, or drone and drag. Luckily, nothing here has even a hint of the latter, creating a distinct, memorable atmosphere with intricate instrumentation ranging from moody bass slides to shimmering American soul. 
   
-  In a similar way, Marling experiments with vocal styles, with a notable twang in her tone on “Wild Fire” and a nearer spoken rather than sung delivery for “Wild Once”. There are hints of all sorts of familiarity here, as “Don’t Pass Me By” does things not dissimilar to Lou Reed’s “Perfect Day” while the drum beat undoubtedly reminds me of the mechanical beats of a [Gorillaz](<reviews/gorillaz-demon-days/>) track. “The Valley” and “Next Time” both have hallmarks of Joni Mitchell or Goldfrapp’s acoustic material too. 
+  In a similar way, Marling experiments with vocal styles, with a notable twang in her tone on “Wild Fire” and a nearer spoken rather than sung delivery for “Wild Once”. There are hints of all sorts of familiarity here, as “Don’t Pass Me By” does things not dissimilar to Lou Reed’s “Perfect Day” while the drum beat undoubtedly reminds me of the mechanical beats of a [Gorillaz](/reviews/gorillaz-demon-days/) track. “The Valley” and “Next Time” both have hallmarks of Joni Mitchell or Goldfrapp’s acoustic material too. 
   
   Despite it all, everything on *Semper Femina* feels fresh and remains that way; Marling makes each track her own, everything feeling personal and reflective. It’s an exciting return for sure, and I’m already interested to see where Laura Marling goes from here, having opened so many possible directions with this album. Personally, I would love to hear more in the direction of “Soothing”, lead single and opener for the album, whose bass simmers as the vocal line quivers above it before spilling over into a sly string arrangement. It’s mysterious, and it’s a joy to listen to. For a real flavour of folk in 2017, *Semper Femina* does the job incredibly well.
 

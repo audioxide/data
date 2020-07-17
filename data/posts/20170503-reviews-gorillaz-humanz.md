@@ -7,6 +7,7 @@ tags:
   - "18"
   - 2010s
   - gorillaz
+  - pop
 featuredimage: album-artwork/humanz-gorillaz.jpg
 artist: Gorillaz
 album: Humanz
@@ -35,9 +36,9 @@ author: ANDRÉ
 review: >-
   *Humanz* doesn’t feel all that human. In fact, it barely feels like an album at all; more like an extended mixtape, with a long list of guests who share the same doomsday despair, however vague the vision may be. Unfortunately, these visitors don’t seem to be involved as much as they seem to be intruding, and the abundance of outside talent is a big reason as to why *Humanz* rarely sounds like a Gorillaz album. It’s too inconsistent to be cohesive, and it’s too much of a frenzy to be all that enjoyable. Ultimately, listeners are left with a feeling of disconnect that makes the record a hard sell.
 
-  As with any Gorillaz album, there are great moments. The sizzling synth that steals the show on “Andromeda”; the beautiful space of “Busted and Blue”; the vocal hook on “Let Me Out”, and again on “Sex Murder Party”. These are key instances of Albarn taking centre stage, avoiding any distractions, and focusing on what made Gorillaz so appealing in the first place. *Humanz* lacks more of these special melodic moments, the type that made [*Demon Days*](<reviews/gorillaz-demon-days/>) such an entertaining experience. This is partly due to the lack of Albarn’s vocals, and when 2-D does eventually turn up, it’s a welcome relief more than anything else.
+  As with any Gorillaz album, there are great moments. The sizzling synth that steals the show on “Andromeda”; the beautiful space of “Busted and Blue”; the vocal hook on “Let Me Out”, and again on “Sex Murder Party”. These are key instances of Albarn taking centre stage, avoiding any distractions, and focusing on what made Gorillaz so appealing in the first place. *Humanz* lacks more of these special melodic moments, the type that made [*Demon Days*](/reviews/gorillaz-demon-days/) such an entertaining experience. This is partly due to the lack of Albarn’s vocals, and when 2-D does eventually turn up, it’s a welcome relief more than anything else.
 
-  Regardless, *Humanz* would still be a solid record if not for the profusion of questionable creative decisions. After a solid trio of pop songs, “Momentz” bursts in with the most obnoxious, inappropriate beat imaginable, and the track never really stands a chance. “We Got the Power” is an underwhelming closer with an uncharacteristically clumsy chorus, and the five inane interludes scattered across the album inject nothing into the overall experience. The least I expected was some [personality](<https://www.youtube.com/watch?v=0nOGy52xygY>), but even that is scarce. Fortunately, *Humanz* has the benefit of having something for everyone. It settles for being a jack-of-all-trades and the master of nothing.
+  Regardless, *Humanz* would still be a solid record if not for the profusion of questionable creative decisions. After a solid trio of pop songs, “Momentz” bursts in with the most obnoxious, inappropriate beat imaginable, and the track never really stands a chance. “We Got the Power” is an underwhelming closer with an uncharacteristically clumsy chorus, and the five inane interludes scattered across the album inject nothing into the overall experience. The least I expected was some [personality](https://www.youtube.com/watch?v=0nOGy52xygY), but even that is scarce. Fortunately, *Humanz* has the benefit of having something for everyone. It settles for being a jack-of-all-trades and the master of nothing.
 
 tracks:
   - Andromeda
@@ -57,7 +58,7 @@ review: >-
 
   There are tracks to like, namely those that double-down on the melancholy you’d expect and actually sound like Gorillaz songs. The album hits its stride with Kelela’s soulful and engaging vocals on “Submission”, although Danny Brown’s verse feels shoehorned in. His lines are good, but I’m not convinced they add anything to the track that would be missed if they’d been cut. “Charger” benefits from feeling like it was led by Albarn, with a hook that the majority of the album is gasping for. “Carnival” is rich with moody synths, melodies, and refrains, but it’s disappointingly short and lacks 2-D’s crooning which often rescues other, weaker tracks. Anthony Hamilton’s vocals are wonderful, all the same.
 
-  Then the album’s inconsistencies reappear, culminating in the obnoxiously saccharine, trite, and ill-fitting “We Got the Power” that pushes aside the superior option for a closing track, “Hallelujah Money”. At large, the album’s songwriting is fairly subpar, suffering from attempting to say everything it can and ultimately saying nothing inspired or new. *Humanz* is by no means a terrible album, but it’s definitely a disappointing one. It’s at its best when Albarn’s influence is clear, when it revels in its misery and focuses on its apocalyptic theme, and when the impressive list of features is held back from quashing the elements that [make Gorillaz sound like Gorillaz](https://audioxide.com/articles/gorillaz-go-1-d/).
+  Then the album’s inconsistencies reappear, culminating in the obnoxiously saccharine, trite, and ill-fitting “We Got the Power” that pushes aside the superior option for a closing track, “Hallelujah Money”. At large, the album’s songwriting is fairly subpar, suffering from attempting to say everything it can and ultimately saying nothing inspired or new. *Humanz* is by no means a terrible album, but it’s definitely a disappointing one. It’s at its best when Albarn’s influence is clear, when it revels in its misery and focuses on its apocalyptic theme, and when the impressive list of features is held back from quashing the elements that [make Gorillaz sound like Gorillaz](/articles/gorillaz-go-1-d/).
 
 tracks:
   - Carnival

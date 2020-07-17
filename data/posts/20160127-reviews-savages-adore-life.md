@@ -7,6 +7,10 @@ tags:
   - "20"
   - 2010s
   - savages
+  - post punk
+  - alternative rock
+  - rock
+  - jehnny beth
 featuredimage: album-artwork/adore-life-savages.jpg
 artist: Savages
 album: Adore Life
@@ -37,7 +41,7 @@ review: >-
   
   The awkward hesitancy found on “Adore” and “Slowing Down The World” reveals a noticeable shift in tone from that of the band's debut. The vitality that makes Savages so appealing is too often replaced by a softer blend of turmoil that isn’t as rewarding, nor a progression in sound. To be clear, *Adore Life* is a fine album, but prevented from being anything more by its tamer moments. At its best, it’s compelling, but at it’s worst, it’s utterly lifeless, and there’s simply no justification for that given the drive and tenacity that Savages possess as a group. 
   
-  Fortunately, [Jehnny Beth](https://audioxide.com/reviews/jehnny-beth-to-love-is-to-live/)’s vocals are a welcome consistency, performed with passion and personality whilst retaining the intensity from the band's first record. There’s a charming simplicity to how Beth’s lyrical content deals with the complex nature of love and all its threatening avenues. Her delivery on “Exit” and “Surrender” benefits from the space that the ambiance offers her, and they’re two of the strongest tracks as a result. 
+  Fortunately, [Jehnny Beth](/reviews/jehnny-beth-to-love-is-to-live/)’s vocals are a welcome consistency, performed with passion and personality whilst retaining the intensity from the band's first record. There’s a charming simplicity to how Beth’s lyrical content deals with the complex nature of love and all its threatening avenues. Her delivery on “Exit” and “Surrender” benefits from the space that the ambiance offers her, and they’re two of the strongest tracks as a result. 
   
   Therein lies a key issue — too often the cold atmosphere squeezes the passion out of the vocals, and even the instrumentation itself. I wouldn’t be surprised if the entire album sounded magnificent in a live environment, but unfortunately the songs haven’t been given the appropriate treatment in the studio. Whilst *Adore Life* certainly won’t do Savages any harm, it’s likely to disappoint those who were so captivated by the menacing drive of “Husbands” and “Shut Up”. It’s good, but not on the same level as *Silence Yourself*.
 

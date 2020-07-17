@@ -7,6 +7,9 @@ tags:
   - "20"
   - 2010s
   - kanye west
+  - hip hop
+  - kendrick lamar
+  - taylor swift
 featuredimage: album-artwork/the-life-of-pablo-kanye-west.jpg
 artist: Kanye West
 album: The Life of Pablo
@@ -84,9 +87,9 @@ review: >-
   
   Instrumentation is generally the high point for me, with melodies that range from cinematic in “Freestyle 4” to electro-gospel in the opener, “Ultralight Beam”, while in between, solid EDM and noise timbres prevail. While there wasn’t a beat that especially caught my attention, there was experimentation and variety. 
   
-  Vocals are, as with the rest of the album, uneven. Guest appearances from Rhianna and [Kendrick Lamar](https://audioxide.com/reviews/kendrick-lamar-damn/) sticking out as high points, while shock factor lines involving bleach and [Taylor Swift](https://audioxide.com/reviews/taylor-swift-lover/) are needless and “Facts”, which revolves entirely around West’s shoe line, feels entirely vapid. In between though, Kanye has injected a genuine humour into a lot of tracks—whether or not that was intentional remains to be seen though. 
+  Vocals are, as with the rest of the album, uneven. Guest appearances from Rhianna and [Kendrick Lamar](/reviews/kendrick-lamar-damn/) sticking out as high points, while shock factor lines involving bleach and [Taylor Swift](/reviews/taylor-swift-lover/) are needless and “Facts”, which revolves entirely around West’s shoe line, feels entirely vapid. In between though, Kanye has injected a genuine humour into a lot of tracks—whether or not that was intentional remains to be seen though. 
   
-  Finally, managing to be the sore thumb, the highlight and the surprise of the album, “No More Parties In LA”, produced with Madlib feels like a track from the ‘[Old Kanye](https://audioxide.com/reviews/kanye-west-the-college-dropout/)’ to quote mid-album skit “I Love Kanye”. Mix all of the above up, however, and I have to begrudgingly admit: I enjoy it in the majority, I’ll be returning to it.
+  Finally, managing to be the sore thumb, the highlight and the surprise of the album, “No More Parties In LA”, produced with Madlib feels like a track from the ‘[Old Kanye](/reviews/kanye-west-the-college-dropout/)’ to quote mid-album skit “I Love Kanye”. Mix all of the above up, however, and I have to begrudgingly admit: I enjoy it in the majority, I’ll be returning to it.
 
 tracks:
   - Real Friends

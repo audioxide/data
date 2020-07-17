@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "23"
   - nick cave and the bad seeds
+  - alternative rock
+  - david bowie
+  - radiohead
 featuredimage: album-artwork/skeleton-tree-nick-cave-and-the-bad-seeds.jpg
 artist: Nick Cave & The Bad Seeds
 album: Skeleton Tree
@@ -33,7 +36,7 @@ albumMBID: 49339024-c6b4-4345-b521-6349463513cb
 author: ANDRÉ
 
 review: >-
-  2016 has been a harrowing year for music. Legendary artists have left us — [some in dramatic fashion](https://audioxide.com/reviews/david-bowie-blackstar/) — whilst others have [delivered their bleakest offerings yet](https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/). *Skeleton Tree*, the latest record from Nick Cave & The Bad Seeds, falls right in line. Deep, dark, and despondent, it is a suitable representation of a largely distressing year in the music sphere. 
+  2016 has been a harrowing year for music. Legendary artists have left us — [some in dramatic fashion](/reviews/david-bowie-blackstar/) — whilst others have [delivered their bleakest offerings yet](/reviews/radiohead-a-moon-shaped-pool/). *Skeleton Tree*, the latest record from Nick Cave & The Bad Seeds, falls right in line. Deep, dark, and despondent, it is a suitable representation of a largely distressing year in the music sphere. 
   
   For Nick Cave however, it represents love, loss, and the strength in moving on through the times that seem utterly hopeless. [Cave lost his 15-year old son during recordings](http://www.bbc.co.uk/news/uk-england-sussex-33533530), and although a large portion of the album was written and recorded prior to the tragic incident, the aura of *Skeleton Tree* is one of grief and mourning. Cave confronts death and its resulting devastation to form a record that can be a testing, but often beautiful experience. 
   
@@ -55,7 +58,7 @@ score:
 author: Fred
 
 review: >-
-  *Skeleton Tree* is a moving, frequently poetic eulogy and deserves all the reverence it has been met with. However — and I’m not alone in thinking this — it doesn’t always hit the mark as an album. There’s something lacking in it that doesn’t inspire me to come back. I wish my first listen to *Skeleton Tree* had occurred without any knowledge of the story behind it. I’d be interested to know what I’d have made of it then. Its general quality is unquestionable, magisterial in its grief. There’s a black magic to Nick Cave’s lyrics and delivery reminiscent of [The Doors](<https://www.youtube.com/watch?v=JSUIQgEVDM4>) and [Johnny Cash](<https://www.youtube.com/watch?v=vt1Pwfnh5pc>). The music, thick and heavy, slicks along like oil. 
+  *Skeleton Tree* is a moving, frequently poetic eulogy and deserves all the reverence it has been met with. However — and I’m not alone in thinking this — it doesn’t always hit the mark as an album. There’s something lacking in it that doesn’t inspire me to come back. I wish my first listen to *Skeleton Tree* had occurred without any knowledge of the story behind it. I’d be interested to know what I’d have made of it then. Its general quality is unquestionable, magisterial in its grief. There’s a black magic to Nick Cave’s lyrics and delivery reminiscent of [The Doors](https://www.youtube.com/watch?v=JSUIQgEVDM4) and [Johnny Cash](https://www.youtube.com/watch?v=vt1Pwfnh5pc). The music, thick and heavy, slicks along like oil. 
   
   That said, I don’t think it’s a coincidence that our favourite tracks align as neatly as they do. When the soaring comes — a la “Rings of Saturn” and “I Need You” — it’s wonderful, but it’s also a relief. *Skeleton Tree* at its best is mystic and beautiful, the rest of the time it is tolerably sluggish and miserable. Which is completely understandable, of course; it just doesn’t hold you in the same way. Listening almost feels intrusive, like seeing someone weep. It makes for a striking product of grief, but a record that doesn’t always sit right.
 

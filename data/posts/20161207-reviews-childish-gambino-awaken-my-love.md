@@ -7,8 +7,6 @@ tags:
   - "19"
   - 2010s
   - childish gambino
-  - soul
-  - funk
 featuredimage: album-artwork/awaken-my-love-childish-gambino.jpg
 artist: Childish Gambino
 album: '"Awaken, My Love!"'
@@ -76,7 +74,7 @@ author: Andrew
 review: >-
   *“Awaken, My Love!”* has grown on me for sure, but I’m certainly not fawning over it. What I’ve become most attached to are the instrumentals: oozing funk and soul, they certainly fall in line with one of my preferred trends of this year, drawing from influences of decades past while also adding in modern day synths and effects to freshen the sound. Single “Redbone” and opener “Me and Your Mama” in particular have warm, indulgent instrumental arrangements that have kept me coming back in isolation. The first half of the tracklist generally does well in this respect, while the second half feels slightly sparser, concentrating more on the vocals. 
   
-  Unfortunately for me, I don’t quite *get* the vocals. [Having proven](<https://www.youtube.com/watch?v=5tBe1OUBDiw>) that he has a voice that doesn’t need to be covered up, augmented or assisted, *Awaken* proceeds to do all of the above, whether that be drowning the vocals out (see “Have Some Love”), pitch shifting vocals to chipmunk levels (see “Redbone”), or dumping auto-tune all over the vocals to sound closer to grunts of exertion than actual lyrics (see “California”). It doesn’t feel like these alterations add to the vocals in any way, and it puzzles me because he’s already shown he can do without them. “California” really is the turning point for me, and whatever excuse is used (I’ve seen ‘it’s a parody of mumble rap,’ ‘it’s experimentation’ and ‘he’s having fun with his music’ thus far), the bottom line is that it doesn’t work for me. From there on, I begin to suffer fatigue, so tracks like “Stand Tall” probably don’t stand a fair chance. 
+  Unfortunately for me, I don’t quite *get* the vocals. [Having proven](https://www.youtube.com/watch?v=5tBe1OUBDiw) that he has a voice that doesn’t need to be covered up, augmented or assisted, *Awaken* proceeds to do all of the above, whether that be drowning the vocals out (see “Have Some Love”), pitch shifting vocals to chipmunk levels (see “Redbone”), or dumping auto-tune all over the vocals to sound closer to grunts of exertion than actual lyrics (see “California”). It doesn’t feel like these alterations add to the vocals in any way, and it puzzles me because he’s already shown he can do without them. “California” really is the turning point for me, and whatever excuse is used (I’ve seen ‘it’s a parody of mumble rap,’ ‘it’s experimentation’ and ‘he’s having fun with his music’ thus far), the bottom line is that it doesn’t work for me. From there on, I begin to suffer fatigue, so tracks like “Stand Tall” probably don’t stand a fair chance. 
   
   What frustrates me further is the context around this album: with Childish Gambino affirming that the album wasn’t a lot of fun to make, it’s clear he wants to be taken more seriously, but despite all of its good moments, *Awaken* could never be described as a serious album. This is only demonstrated further by tracks like “California” and “Zombies”. I will be returning to it in part (“Redbone” has grown to be somewhat of an earworm, and “Me and Your Mama” continues to be an enjoyable listen) but as a whole, I don’t think it’ll hang around long.
 

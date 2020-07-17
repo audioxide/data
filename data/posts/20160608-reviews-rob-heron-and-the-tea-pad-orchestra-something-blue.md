@@ -7,6 +7,12 @@ tags:
   - "18"
   - 2010s
   - rob heron and the tea pad orchestra
+  - rock
+  - blues
+  - country
+  - tom waits
+  - lianne la havas
+  - savages
 featuredimage: album-artwork/something-blue-rob-heron-and-the-teapad-orchestra.jpg
 artist: Rob Heron & The Tea Pad Orchestra
 album: Something Blue
@@ -35,7 +41,7 @@ author: André
 review: >-
   Brimming with catchy vocal hooks and compelling harmonious moments, *Something Blue* is a pleasant record, one that revels in its spirit. But for all its charm, a prominent deficiency lies in its production. The album reveals the difficulties of attempting to capture the energy of a live performance on a studio recording. The subdued nature of the band's performance is the opposite of what you would expect to hear from a group who share a great understanding of each other’s talents, and it’s this hesitancy that prevents *Something Blue* from being as accomplished as it should be. 
   
-  The songwriting is often very good — at times quite adventurous — and the instrumental work is technically immaculate. At the forefront is Rob Heron, whose wit is delivered at an amusing pace to keep songs like “Flat Tonic Water” and “Honest Man Blues” thoroughly enjoyable. The production simply doesn’t keep up with the ambition of the tunes here: in its attempt to sound like a raw re-enactment of a live performance, the result is almost the complete opposite. Far be it for me to dictate the artistic vision of such a talented group, but perhaps a [grittier aesthetic](reviews/tom-waits-rain-dogs/) would have resulted in a more gratifying experience, whilst also establishing a distinction between the studio and live sides of Rob Heron and the Tea Pad Orchestra. 
+  The songwriting is often very good — at times quite adventurous — and the instrumental work is technically immaculate. At the forefront is Rob Heron, whose wit is delivered at an amusing pace to keep songs like “Flat Tonic Water” and “Honest Man Blues” thoroughly enjoyable. The production simply doesn’t keep up with the ambition of the tunes here: in its attempt to sound like a raw re-enactment of a live performance, the result is almost the complete opposite. Far be it for me to dictate the artistic vision of such a talented group, but perhaps a [grittier aesthetic](/reviews/tom-waits-rain-dogs/) would have resulted in a more gratifying experience, whilst also establishing a distinction between the studio and live sides of Rob Heron and the Tea Pad Orchestra. 
   
   This is merely a personal contemplation at this point, though reflections like these certainly go to show that *Something Blue* isn’t as satisfying as it should be, suffering from a lack of dynamism that would ordinarily be found inside these songs during a live performance.
 
@@ -53,7 +59,7 @@ score:
 author: Fred
 
 review: >-
-  *Something Blue* joins a frustrating school of albums we’ve listened to in which recording decisions deeply hinder the final product and do a disservice to the talents of the artist. Like Lianne La Havas’ [*Blood*](<reviews/lianne-la-havas-blood/>) and Savages’ [*Adore Life*](<reviews/adore-life/>), Rob Heron & The Tea Pad Orchestra shoot themselves in the foot here by failing to translate their performative energies into a vibrant recorded form. The songwriting is dynamic and fun, the group is delightfully tight on a technical level, Heron’s lyrics are sprite and clever, and I can barely enjoy any of it because it’s like I’m hearing it through a wall. The group has been so cleanly recorded in *Something Blue* that their collective sound has been reduced to a Disney-style brand of sanitised grit. 
+  *Something Blue* joins a frustrating school of albums we’ve listened to in which recording decisions deeply hinder the final product and do a disservice to the talents of the artist. Like Lianne La Havas’ [*Blood*](/reviews/lianne-la-havas-blood/) and Savages’ [*Adore Life*](/reviews/adore-life/), Rob Heron & The Tea Pad Orchestra shoot themselves in the foot here by failing to translate their performative energies into a vibrant recorded form. The songwriting is dynamic and fun, the group is delightfully tight on a technical level, Heron’s lyrics are sprite and clever, and I can barely enjoy any of it because it’s like I’m hearing it through a wall. The group has been so cleanly recorded in *Something Blue* that their collective sound has been reduced to a Disney-style brand of sanitised grit. 
   
   Rob Heron and the Tea Pad Orchestra are by all accounts excellent live, and I believe it, but ‘they’re good live’ doesn’t redeem a flat album. It doesn’t. If anything it makes it more baffling. Everything sounds like it’s on a leash in some way here, which is the antithesis of live energy. After listening to this I dipped into the group’s previous work, and it sounds better. It sounds great. It sounds near. *Something Blue* songs like “Devil Wears a Blue Tie” and “Flat Tonic Water” will sound similarly lively in the flesh, but in their recorded form they are more engaging on a technical level than a human one.
 
@@ -71,7 +77,7 @@ score:
 author: Andrew
 
 review: >-
-  Rob Heron and his Tea Pad Orchestra return with their third release, and there’s a notable polish this time round. Rob Heron’s lyrics have always had a knack for standing out and bringing a smirk to a listener’s face, and *Something Blue* is no exception, with the title track and “Flat Tonic Water” making for lyrical highlights. To complement this, there’s been a clear effort to vary the vocal sound, with rock and roll influences mixing well with Heron’s voice. Instrumentally, the sound has clearly been bolstered, taking a heavier influence from swing, blues and country of America, where previous material has seen a sound that explores more European influences. 
+  Rob Heron and his Tea Pad Orchestra return with their third release, and there’s a notable polish this time round. Rob Heron’s lyrics have always had a knack for standing out and bringing a smirk to a listener’s face, and *Something Blue* is no exception, with the title track and “Flat Tonic Water” making for lyrical highlights. To complement this, there’s been a clear effort to vary the vocal sound, with rock and roll influences mixing well with Heron’s voice. Instrumentally, the sound has clearly been bolstered, taking a heavier influence from swing, blues, and country of America, where previous material has seen a sound that explores more European influences. 
   
   All this comes as a change for the band: tracks such as “Leftovers”, which is definitively from a country genre, show a clear exploration and development of their sound. The difficulty with recording this kind of music is often trying to maintain the atmosphere without having the live setting that this music works so well in. Having seen the band live, I highly recommend picking up tickets to see them, it makes for a brilliant sound and a wonderful atmosphere, but translating that to a recorded album has left some tracks missing some energy. *Something Blue* is a release worth a listen, though it’ll likely only whet your appetite to see the full, live experience.
 

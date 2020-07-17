@@ -8,6 +8,7 @@ tags:
   - "21"
   - thom yorke
   - radiohead
+  - electronic
 featuredimage: album-artwork/the-eraser-thom-yorke.jpg
 artist: Thom Yorke
 album: The Eraser
@@ -38,9 +39,9 @@ review: >-
   
   ‘There’s no time to analyse,’ Yorke sings on the wonderful “Analyse”, and though it’s clear he’s singing about the immediate fear of climate change, the words ring true for *The Eraser* itself; there’s very little space for you to reflect on the experience. Softer moments do gradually arrive, initially in the form of “Atoms for Peace”, a song dominated by stunning falsettos that showcases the frankly outrageous control of Yorke’s voice, and later again with “Cymbal Rush” to end proceedings in the most dramatically sad way imaginable. 
   
-  When *The Eraser* soars, it’s an utterly wonderful listen, trapping you within a frosty soundscape as enticing as it is dismal. It exemplifies the gloomy characteristic that often gets attributed to [Radiohead](https://audioxide.com/reviews/radiohead-a-moon-shaped-pool/), whilst proving exactly why this sombre tone suits them down to the ground. If it wasn’t for the clumsy shuffle of “Skip Divided” that awkwardly sits between the two album sides, it would be one of the finest albums of its kind. 
+  When *The Eraser* soars, it’s an utterly wonderful listen, trapping you within a frosty soundscape as enticing as it is dismal. It exemplifies the gloomy characteristic that often gets attributed to [Radiohead](/reviews/radiohead-a-moon-shaped-pool/), whilst proving exactly why this sombre tone suits them down to the ground. If it wasn’t for the clumsy shuffle of “Skip Divided” that awkwardly sits between the two album sides, it would be one of the finest albums of its kind. 
   
-  As it is, *The Eraser* is a wonderful listen that comes with some baggage. It’s not on the level of [*OK Computer*](<reviews/radiohead-ok-computer/>), *In Rainbows*, or *Kid A* — in fact, it doesn’t even attempt to stand on the same pedestal — but remains a significant entry in the Radiohead timeline. If you’re able to handle its intensity, it’s actually a very beautiful record.
+  As it is, *The Eraser* is a wonderful listen that comes with some baggage. It’s not on the level of [*OK Computer*](/reviews/radiohead-ok-computer/), *In Rainbows*, or *Kid A* — in fact, it doesn’t even attempt to stand on the same pedestal — but remains a significant entry in the Radiohead timeline. If you’re able to handle its intensity, it’s actually a very beautiful record.
 
 tracks:
   - Analyse

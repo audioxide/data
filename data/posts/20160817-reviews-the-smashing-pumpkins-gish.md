@@ -7,6 +7,14 @@ tags:
   - 1990s
   - "22"
   - the smashing pumpkins
+  - grunge
+  - alternative rock
+  - pixies
+  - nirvana
+  - psychedelia
+  - wolf alice
+  - the rolling stones
+  - the simpsons
 featuredimage: album-artwork/gish-the-smashing-pumpkins.jpg
 artist: The Smashing Pumpkins
 album: Gish
@@ -37,7 +45,7 @@ review: >-
   
   The Smashing Pumpkins work tremendously as a collective, that much is certain, but the individual performances are too good to overlook. Jimmy Chamberlin’s drumming is frenetic, but assuredly fluid; the basslines performed by both Darcy Wretzky and Billy Corgan are consistently strong, at times very progressive; and the multi-layered guitar work is a hazy delight. Corgan’s playing is particularly impressive, laying down solo’s that are more in the vein of Kyuss’ [Joshua Homme](https://youtu.be/P3kM58n2ceE?t=1m20s) than anything in the alternative rock scene. 
   
-  The record is a rich and gloriously grubby collage of sounds. It stands strong in a place somewhere between [Pixies](https://audioxide.com/reviews/pixies-doolittle/) and [Nirvana](https://audioxide.com/reviews/nirvana-in-utero/), with an added injection of psychedelic rock to ensure The Pumpkins nail down a sound of their own. The distinction of *Gish* isn’t always all that clear — the dynamic contrast shown on “Siva” was essentially a Pixies trademark in 1991 — but it’s helped out tremendously by compelling song arrangements and notable flexibility with structure. 
+  The record is a rich and gloriously grubby collage of sounds. It stands strong in a place somewhere between [Pixies](/reviews/pixies-doolittle/) and [Nirvana](/reviews/nirvana-in-utero/), with an added injection of psychedelic rock to ensure The Pumpkins nail down a sound of their own. The distinction of *Gish* isn’t always all that clear — the dynamic contrast shown on “Siva” was essentially a Pixies trademark in 1991 — but it’s helped out tremendously by compelling song arrangements and notable flexibility with structure. 
   
   The Pumpkins occupy a great space; it’s not always polished, but it is often engaging, and *Gish* manages to keep its illusive atmosphere to the end. In the middle of the album lies an outstanding trio of songs that highlight the range of The Pumpkins’ vision — they rock out on “Bury Me”, before singing hopelessly about love on “Crush” (comparing the warmth of love to a liquid peppermint) and channelling their inner Doors on “Suffer”. 
   
@@ -57,9 +65,9 @@ score:
 author: Fred
 
 review: >-
-  Prior to *Gish* my only exposure to The Smashing Pumpkins was by way of [a Simpsons gag](<https://youtu.be/R0kXDBXSu80?t=1m37s>), so I was glad to expand on that. This introduction has been pleasant in ways only debuts can be. It has that perfect tottering aliveness that comes with first steps — reminiscent of Wolf Alice’s [*My Love Is Cool*](<reviews/wolf-alice-my-love-is-cool/>) in that respect. 
+  Prior to *Gish* my only exposure to The Smashing Pumpkins was by way of [a Simpsons gag](https://youtu.be/R0kXDBXSu80?t=1m37s), so I was glad to expand on that. This introduction has been pleasant in ways only debuts can be. It has that perfect tottering aliveness that comes with first steps — reminiscent of Wolf Alice’s [*My Love Is Cool*](/reviews/wolf-alice-my-love-is-cool/) in that respect. 
   
-  The music tempers murkiness with edge, occupying a peculiar space between psychedelia and grunge. Opener “I Am One” storms out of the blocks with a disciplined frenzy typical of much of *Grish*, but it’s the record’s central spell where the group really hit their stride. The guitar work on “Rhinoceros” is gorgeous, weightless... like the strings aren’t attached to anything. The same goes for the bass halfway through “Suffer”, which fittingly goes on to conduct some sort of a stoner epiphany. Tracks in their vein, which slow things down to the point of drug-riddled meditation, are *Gish *at its best. Their loose, thoughtful control really hit the spot. Billy Corgan vocals sound like a scratchy [Mick Jagger](https://audioxide.com/reviews/the-rolling-stones-let-it-bleed/), and that’s just right. 
+  The music tempers murkiness with edge, occupying a peculiar space between psychedelia and grunge. Opener “I Am One” storms out of the blocks with a disciplined frenzy typical of much of *Grish*, but it’s the record’s central spell where the group really hit their stride. The guitar work on “Rhinoceros” is gorgeous, weightless... like the strings aren’t attached to anything. The same goes for the bass halfway through “Suffer”, which fittingly goes on to conduct some sort of a stoner epiphany. Tracks in their vein, which slow things down to the point of drug-riddled meditation, are *Gish *at its best. Their loose, thoughtful control really hit the spot. Billy Corgan vocals sound like a scratchy [Mick Jagger](/reviews/the-rolling-stones-let-it-bleed/), and that’s just right. 
   
   Not that everything is just right. The album’s finesse is lost in the fuzz often enough to be frustrating, with the closing few tracks particularly guilty of inducing a daze. Several songs are longer than they justify. That’s ok, though. *Gish *carves out a distinctive enough pre-grunge sound to be worth anyone’s time. It can wear thin, but there are some lovely spells to drift into.
 

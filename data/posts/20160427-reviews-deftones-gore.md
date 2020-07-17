@@ -7,6 +7,10 @@ tags:
   - "20"
   - 2010s
   - deftones
+  - metal
+  - alternative rock
+  - rock
+  - radiohead
 featuredimage: album-artwork/gore-deftones.jpg
 artist: Deftones
 album: Gore
@@ -35,7 +39,7 @@ author: André
 review: >-
   Irrespective of their stellar output, Deftones have always struggled to distinguish themselves from the contaminated haze of nu-metal that so often turns listeners away. Without sacrificing any of the gratifying brutality fans have come to expect from the band, *Gore* strikes a delightful balance, and is perhaps their most accessible record to date. It’s not a resounding success, but it’s an assured high point in a discography that gets more impressive with almost each release. 
   
-  *Gore* is crafted with a maturity that naturally makes it more rewarding with multiple listens, and displays enough flexibility to make it engaging throughout. The record boasts a clear centrepiece in the form of “Hearts/Wires” - dynamic, confident, and predictably powerful, this is a Deftones track that warrants their early tag of being the ‘[Radiohead](https://audioxide.com/articles/ranking-radioheads-discography/) of metal’. The contrast between verse and chorus is an assured display of expertise that makes it clear that Deftones are indisputably a level above most of the acts in the nu-metal scene. 
+  *Gore* is crafted with a maturity that naturally makes it more rewarding with multiple listens, and displays enough flexibility to make it engaging throughout. The record boasts a clear centrepiece in the form of “Hearts/Wires” - dynamic, confident, and predictably powerful, this is a Deftones track that warrants their early tag of being the ‘[Radiohead](/articles/ranking-radioheads-discography/) of metal.’ The contrast between verse and chorus is an assured display of expertise that makes it clear that Deftones are indisputably a level above most of the acts in the nu-metal scene. 
   
   The lush, reverb-soaked guitars that glide onward in the opening track evoke a sensation of nostalgia that once again provides a perfect contrast to the chugging riffs that dominate the pounding delights of “Doomed User” and “Gore”. Other tracks also possess similar moments of visceral violence, but are unfortunately let down by vocal cuts that get lost in the mix and aren’t strong enough to carry forward such a weighty sound. This, combined with a closing track that strangely lacks any of the dynamism found previously on the record, leaves an ounce of frustration that leaves it falling just short of greatness. 
   

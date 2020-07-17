@@ -7,6 +7,9 @@ tags:
   - 1990s
   - "26"
   - portishead
+  - alternative rock
+  - nine inch nails
+  - beak
 featuredimage: album-artwork/dummy-portishead.jpg
 artist: Portishead
 album: Dummy
@@ -37,7 +40,7 @@ review: >-
   
   Spooking as much as it satisfies, *Dummy* is defined by a few aspects, not least its spectacularly bleak atmosphere, but hanging over its ominous backdrop is the somber voice of Beth Gibbons. Her chilling vocals are as eerie as they are beautiful, conjoining organically with the instrumentation to achieve one of the slickest combinations found in contemporary music. I have no hesitancy branding the vocal performance on *Dummy* as one of the best on any record, of any time. Throughout the album Gibbons sounds ghostly, angelic, sometimes frightening, and on “Roads” — the album’s centerpiece — her expression is heart achingly beautiful. 
   
-  For all its despair, *Dummy* remains strangely irresistible. It’s a record that is as sexy as it is sad, with its outlawed desires seeping through the dark web that only partially covers the shadowy tones of “Mysterons” and “Numb”. By the time we reach “Glory Box”, the only love/lust song of ‘94 to rival [“Closer”](https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/) in sincerity, the secret is out. *Dummy* is a wonderful record that is undoubtedly of its time, yet continues to thrive in the headspace of the modern listener.
+  For all its despair, *Dummy* remains strangely irresistible. It’s a record that is as sexy as it is sad, with its outlawed desires seeping through the dark web that only partially covers the shadowy tones of “Mysterons” and “Numb”. By the time we reach “Glory Box”, the only love/lust song of ‘94 to rival [“Closer”](/reviews/nine-inch-nails-the-downward-spiral/) in sincerity, the secret is out. *Dummy* is a wonderful record that is undoubtedly of its time, yet continues to thrive in the headspace of the modern listener.
 
 tracks:
   - Roads

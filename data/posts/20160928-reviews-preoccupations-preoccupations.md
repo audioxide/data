@@ -7,11 +7,13 @@ tags:
   - "20"
   - 2010s
   - preoccupations
-  - post-punk
+  - alternative rock
+  - post punk
   - the cure
-  - echo and the bunnymen
+  - joy division
   - the strokes
   - swans
+  - public image ltd
 featuredimage: album-artwork/preoccupations-preoccupations.jpg
 artist: Preoccupations
 album: Preoccupations
@@ -38,11 +40,11 @@ albumMBID: 2a64e463-6d16-4ae4-af8d-f3c064b09256
 author: ANDRÉ
 
 review: >-
-  Fresh from releasing one of the finest rock records of 2015, Viet Cong return with a required name change and a slight shift in sound. Though its predecessor contained elements of industrial and noise rock, *Preoccupations* is very much a post-punk album, and one that wears its influences on its sleeves. The band embrace the catchier end of the post-punk spectrum to an almost imitative degree: fans of [The Cure](https://audioxide.com/reviews/the-cure-disintegration/) and Echo and The Bunnymen will assuredly approve of a tracklist so purposely comprised of bass-driven, guitar glistening songs. 
+  Fresh from releasing one of the finest rock records of 2015, Viet Cong return with a required name change and a slight shift in sound. Though its predecessor contained elements of industrial and noise rock, *Preoccupations* is very much a post-punk album, and one that wears its influences on its sleeves. The band embrace the catchier end of the post-punk spectrum to an almost imitative degree: fans of [The Cure](/reviews/the-cure-disintegration/) and Echo and The Bunnymen will assuredly approve of a tracklist so purposely comprised of bass-driven, guitar glistening songs. 
   
-  Those who aren’t as infatuated with the genre however, will possibly be frustrated by the band’s devotion to a sound that is very much of its time. It’s an intensely focused musical space, guided by a vocal delivery that seems simultaneously lethargic and passionate. Combined with the band’s rhythmic mauling, Matt Flegal’s harrowing snarls can feel fairly unsettling, capturing an intriguing space that evokes both [Ian Curtis](https://audioxide.com/reviews/joy-division-unknown-pleasures/) and [Michael Gira](<reviews/swans-the-glowing-man/>). The music is animated and dynamic enough to carry Fegel’s uneasy vocals into the light, but the blend isn’t always a unanimous success. 
+  Those who aren’t as infatuated with the genre however, will possibly be frustrated by the band’s devotion to a sound that is very much of its time. It’s an intensely focused musical space, guided by a vocal delivery that seems simultaneously lethargic and passionate. Combined with the band’s rhythmic mauling, Matt Flegal’s harrowing snarls can feel fairly unsettling, capturing an intriguing space that evokes both [Ian Curtis](/reviews/joy-division-unknown-pleasures/) and [Michael Gira](/reviews/swans-the-glowing-man/). The music is animated and dynamic enough to carry Fegel’s uneasy vocals into the light, but the blend isn’t always a unanimous success. 
   
-  There are moments where Preoccupations dare to branch out, like the evolving drone that draws album centrepiece “Memory” to a close, but the best cuts are those where the band sound comfortable within themselves. When everything clicks, it’s a sheer joy to listen to, but you are unfortunately left waiting until the final two tracks for such moments to arise. “Stimulation” is captivating, dynamic, and energetic as hell: it’s not only the major highlight of the record, but one of the most memorable rock tracks of the year so far. “Fever” finalises proceedings in forward-thinking fashion and even throws in a guitar solo that would sound right at home on a classic [Strokes](https://audioxide.com/reviews/the-strokes-first-impressions-of-earth/) record. 
+  There are moments where Preoccupations dare to branch out, like the evolving drone that draws album centrepiece “Memory” to a close, but the best cuts are those where the band sound comfortable within themselves. When everything clicks, it’s a sheer joy to listen to, but you are unfortunately left waiting until the final two tracks for such moments to arise. “Stimulation” is captivating, dynamic, and energetic as hell: it’s not only the major highlight of the record, but one of the most memorable rock tracks of the year so far. “Fever” finalises proceedings in forward-thinking fashion and even throws in a guitar solo that would sound right at home on a classic [Strokes](/reviews/the-strokes-first-impressions-of-earth/) record. 
   
   With such a strong finish, *Preoccupations* naturally feels like a success, if only a moderate one. Flegal’s lyrics are primarily ridden with anxiety and general thoughts of trepidation: it seems appropriate that there is light at the end of a turbulent tunnel.
 
@@ -60,7 +62,7 @@ score:
 author: Fred
 
 review: >-
-  *Preoccupations* is formless, but not in a bad way. The self-titled presentation is appropriate; the album is effectively forty minutes of the band’s sound, something defined more by character than by memorable statements. Luckily, it’s a good sound, a heavy post-punk drone reminiscent of the likes of Joy Division and early [Public Image Ltd](https://audioxide.com/reviews/public-image-ltd-9/). The difference is that this is more at ease with its pleasantness, which I suppose is to be expected given that Preoccupations are Canadian. 
+  *Preoccupations* is formless, but not in a bad way. The self-titled presentation is appropriate; the album is effectively forty minutes of the band’s sound, something defined more by character than by memorable statements. Luckily, it’s a good sound, a heavy post-punk drone reminiscent of the likes of Joy Division and early [Public Image Ltd](/reviews/public-image-ltd-9/). The difference is that this is more at ease with its pleasantness, which I suppose is to be expected given that Preoccupations are Canadian. 
   
   Matt Flegal’s rough, booming vocals provide a fine foil to the polished anxiety of the rest of the band. They’re a solid unit with a clear mutual understanding, and that compensates for the occasional lethargy of the songwriting. I’ve chosen favourite tracks, but it isn’t as if they stand out per se — they’re just particularly good stretches of Preoccupations-ness. Which is what the record is when you get right down to it. 
   

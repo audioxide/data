@@ -5,11 +5,11 @@ slug: bjork-homogenic
 type: reviews
 tags:
   - 1990s
-  - 27+ club
+  - 27 plus club
   - "28"
   - bjork
   - idm
-  - baroque
+  - art pop
 featuredimage: album-artwork/homogenic-bjork.jpg
 artist: Björk
 album: Homogenic

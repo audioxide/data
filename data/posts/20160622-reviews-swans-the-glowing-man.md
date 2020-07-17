@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "21"
   - swans
+  - alternative rock
+  - portishead
+  - pj harvey
 featuredimage: album-artwork/the-glowing-man-swans.jpg
 artist: Swans
 album: The Glowing Man
@@ -57,7 +60,7 @@ author: Fred
 review: >-
   This is good and didn’t give me too much of a headache. Experimental rock spars with tribal ambience in *The Glowing Man*, and does so for a breathless two hours. There’s a primal energy to the record that finds form in a seductively elegant web of sounds. 
   
-  The work’s foundational goal, according to Swans don Michael Gira, was simply following the unfamiliar. [‘I knew,’ he writes, ‘that if I took the road of mining the past or revisiting the catalog, that it would be fruitless and stultifying.’](<http://younggodrecords.com/products/the-glowing-man>) Accordingly, *The Glowing Man* is anything but. Its mad professor forays through the rock void are widely satisfying, and wonderfully textured. Gravelly, wailing guitars accompany harmonising voices worthy of the heavens, thunderous drums back pipe organs, and it all manages to sound rather appropriate. 
+  The work’s foundational goal, according to Swans don Michael Gira, was simply following the unfamiliar. [‘I knew,’ he writes, ‘that if I took the road of mining the past or revisiting the catalog, that it would be fruitless and stultifying.’](http://younggodrecords.com/products/the-glowing-man) Accordingly, *The Glowing Man* is anything but. Its mad professor forays through the rock void are widely satisfying, and wonderfully textured. Gravelly, wailing guitars accompany harmonising voices worthy of the heavens, thunderous drums back pipe organs, and it all manages to sound rather appropriate. 
   
   In spite of its length, the music is rarely indulgent (although the title track did leave me wanting to break things). Be it a thirty-minute epic or a five-minute mini-epic, the tracks tend to justify their mass, and there’s a whole lot of it to engage with. Repeat listens will bring — along with exhaustion — new layers and subtleties to the fore. It’s a rewarding experience, if not always a pleasant one. Whatever it is Swans are doing in *The Glowing Man*, they’re doing *something*. It’s healthy for ears to be bombarded like this every now and then.
 
@@ -75,7 +78,7 @@ score:
 author: Andrew
 
 review: >-
-  There’s a lot to take in on *The Glowing Man*. In its two-hour play time, we see some short, delicate, folk-soaked music which come with hints of [Portishead](<reviews/dummy/>) and [PJ Harvey’s later output](<reviews/pj-harvey-the-hope-six-demolition-project/>) at one end of the spectrum, while at the other, psychedelic, entrancing, swelling soundscapes span across half-hour stretches. 
+  There’s a lot to take in on *The Glowing Man*. In its two-hour play time, we see some short, delicate, folk-soaked music which come with hints of [Portishead](/reviews/dummy/) and [PJ Harvey’s later output](/reviews/pj-harvey-the-hope-six-demolition-project/) at one end of the spectrum, while at the other, psychedelic, entrancing, swelling soundscapes span across half-hour stretches. 
   
   The former tone hits the spot more consistently than the latter, which can vary from satisfyingly hypnotic ambience which sets a scene for an eruption of increasingly abrasive, guitar-driven rock 10 minutes later, to repetitive, noisy music which is difficult and irritating to listen to and outstays its welcome. Fortunately, the latter is largely a sin of the title track alone, but at 29 minutes, it’s a difficult sin to discount. 
   

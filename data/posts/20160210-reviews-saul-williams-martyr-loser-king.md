@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "23"
   - saul williams
+  - electronic
+  - hip hop
+  - jarvis cocker
 featuredimage: album-artwork/martyrloserking-saul-williams.jpg
 artist: Saul Williams
 album: MartyrLoserKing
@@ -78,7 +81,7 @@ author: Andrew
 review: >-
   Saul Williams’ latest album has had a relatively quiet release, but it may make for one of 2016’s hidden gems. *MartyrLoserKing* has a distinctive, explorative, industrial sound that melds analogue and digital effortlessly, rapidly evolving in instrumentation and atmosphere, with Williams’ vocals sitting firmly in the middle of it all. 
   
-  Each track delivers a great deal more besides to interest the listener, straddling a world of genres while keeping to a consistency in tone throughout the album. A track like “Think Like They Book Say”, with its agitated, Death Grips-esque delivery and wailing clarinets, doesn’t sound like a good counterpart to its successor “The Bear / Coltan As Cotton”, with it’s latin-influenced percussion and faintly [Jarvis Cocker](https://audioxide.com/reviews/jarvis-cocker-jarvis/)-like vocals, but these tracks complement each other well and this pacing continues throughout the album. 
+  Each track delivers a great deal more besides to interest the listener, straddling a world of genres while keeping to a consistency in tone throughout the album. A track like “Think Like They Book Say”, with its agitated, Death Grips-esque delivery and wailing clarinets, doesn’t sound like a good counterpart to its successor “The Bear / Coltan As Cotton”, with it’s latin-influenced percussion and faintly [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/)-like vocals, but these tracks complement each other well and this pacing continues throughout the album. 
   
   Saul’s lyrics expand the concept of hacking to a wider plain, dealing with social norms such as the mistruths that form tradition and the fragility of society, making for some interesting, timely vocals that he could clearly fill another album with. 
   

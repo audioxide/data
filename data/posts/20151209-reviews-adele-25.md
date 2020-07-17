@@ -7,6 +7,7 @@ tags:
   - "17"
   - 2010s
   - adele
+  - pop
 featuredimage: album-artwork/25-adele.jpg
 artist: Adele
 album: "25"

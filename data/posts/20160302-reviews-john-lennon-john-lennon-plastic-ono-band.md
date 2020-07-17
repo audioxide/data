@@ -7,6 +7,9 @@ tags:
   - 1970s
   - "21"
   - john lennon
+  - the beatles
+  - rock
+  - neil young
 featuredimage: album-artwork/john-lennon-plastic-ono-band-john-lennon.jpg
 artist: John Lennon
 album: John Lennon/Plastic Ono Band
@@ -37,7 +40,7 @@ review: >-
   
   From a personal standpoint, I find that listening to the album in its entirety can make for an extremely claustrophobic encounter. Maybe it’s the emotive — and rather harrowing — nature of Lennon’s delivery, or perhaps it’s the vast production that, in conjunction with Phil Spector’s ‘Wall of Sound’, rarely leaves you room to breathe. Either way, *John Lennon/Plastic Ono Band* hasn’t exactly blossomed with age, and sounds fairly crude on occasion. 
   
-  The more rewarding tracks are those that feel more refined, and are constructed with delicacy; “Working Class Hero” is pure, powerful, and profound, its mellow character serving as a real premonition to Neil Young’s [*On The Beach*](https://audioxide.com/reviews/neil-young-on-the-beach/)*, whilst the gentle “Love” exposes Lennon at his very sweetest. 
+  The more rewarding tracks are those that feel more refined, and are constructed with delicacy; “Working Class Hero” is pure, powerful, and profound, its mellow character serving as a real premonition to Neil Young’s [*On The Beach*](/reviews/neil-young-on-the-beach/)*, whilst the gentle “Love” exposes Lennon at his very sweetest. 
   
   Ultimately, the context that surrounds *John Lennon/Plastic Ono Band* is what makes it important, even necessary, and with Lennon’s confession of ‘I don’t believe in Beatles, I just believe in me; Yoko and me’, it at least deserves attention for being that final nail in The Beatles coffin.
 
@@ -75,7 +78,7 @@ score:
 author: Andrew
 
 review: >-
-  I can only imagine the hubub John Lennon’s first solo record caused on its initial release, with high critical praise all around. The most obvious characteristic of the album is the familiar reverb, similar to [The Beatles](https://audioxide.com/reviews/the-beatles-revolver/) but dialed up a notch, with vocal delivery and general quirkiness following suit. 
+  I can only imagine the hubub John Lennon’s first solo record caused on its initial release, with high critical praise all around. The most obvious characteristic of the album is the familiar reverb, similar to [The Beatles](/reviews/the-beatles-revolver/) but dialed up a notch, with vocal delivery and general quirkiness following suit. 
   
   It’s clear that, with free reign over production and writing, Lennon was able to show off his bolder ideas. With this freedom does come a slightly homemade feel, though, with some tracks feeling a little rough and ready, and effects like the explosive ending to “Remember” feeling wholly dated. 
   

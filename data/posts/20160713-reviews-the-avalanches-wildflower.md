@@ -7,6 +7,7 @@ tags:
   - 2010s
   - "21"
   - the avalanches
+  - electronic
 featuredimage: album-artwork/wildflower-the-avalanches.jpg
 artist: The Avalanches
 album: Wildflower

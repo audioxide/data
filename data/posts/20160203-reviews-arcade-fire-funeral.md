@@ -7,6 +7,8 @@ tags:
   - 2000s
   - "26"
   - arcade fire
+  - alternative rock
+  - rock
 featuredimage: album-artwork/funeral-arcade-fire.jpg
 artist: Arcade Fire
 album: Funeral

@@ -7,6 +7,11 @@ tags:
   - "2007"
   - "24"
   - arctic monkeys
+  - rock
+  - alternative rock
+  - oasis
+  - the beatles
+  - the strokes
 featuredimage: album-artwork/favourite-worst-nightmare-arctic-monkeys.jpg
 artist: Arctic Monkeys
 album: Favourite Worst Nightmare
@@ -33,11 +38,11 @@ albumMBID: f113fa38-7908-3ec9-8145-d2455e78a8b2
 author: André
 
 review: >-
-  The release of Arctic Monkeys’ debut album was a monumental occasion. *Whatever People Say I Am, That’s What I’m Not* broke numerous British records, and it remains the fastest selling album by a band in the UK to date. At the time, comparisons were made with cultural giants on the scale of [Oasis](<reviews/oasis-definitely-maybe/>) and [The Beatles](<reviews/the-beatles-revolver/>), whilst frontman Alex Turner was described as a [‘master of observation’](<http://www.nme.com/reviews/album/reviews-arctic-monkeys-7837>). For a band who were still in their teens, the accolades were maybe a little overblown. Of course it was a good album, but it had obvious limitations. 
+  The release of Arctic Monkeys’ debut album was a monumental occasion. *Whatever People Say I Am, That’s What I’m Not* broke numerous British records, and it remains the fastest selling album by a band in the UK to date. At the time, comparisons were made with cultural giants on the scale of [Oasis](/reviews/oasis-definitely-maybe/) and [The Beatles](/reviews/the-beatles-revolver/), whilst frontman Alex Turner was described as a [‘master of observation’](http://www.nme.com/reviews/album/reviews-arctic-monkeys-7837). For a band who were still in their teens, the accolades were maybe a little overblown. Of course it was a good album, but it had obvious limitations. 
   
   Only a year later, Arctic Monkeys released their follow-up record *Favourite Worst Nightmare*, which expanded on the *potential* — and that’s exactly what it was — of their debut. It revealed a deeper ambition, which excellently demonstrated the bands devotion to self-improvement. Though many bands have stumbled on the dreaded second album, the hunger to succeed only grew for Arctic Monkeys, and the unprecedented success of their first record inspired them to develop further. 
   
-  Whilst it’s all too easy to hear the influences of bands like [The Strokes](https://audioxide.com/reviews/the-strokes-first-impressions-of-earth/) and The Libertines on *Whatever People Say I Am*, the sound of *Favourite Worst Nightmare* is very much their own identity. It retained everything that was great about the debut and expanded on it in the most vibrant way possible. There are a few moments of filler, which is part and parcel of any Arctic Monkeys album, but the record is generally packed with short and sweet rock tunes. 
+  Whilst it’s all too easy to hear the influences of bands like [The Strokes](/reviews/the-strokes-first-impressions-of-earth/) and The Libertines on *Whatever People Say I Am*, the sound of *Favourite Worst Nightmare* is very much their own identity. It retained everything that was great about the debut and expanded on it in the most vibrant way possible. There are a few moments of filler, which is part and parcel of any Arctic Monkeys album, but the record is generally packed with short and sweet rock tunes. 
   
   “Brianstorm” opens proceedings as an act of aggression that ultimately makes it more of an exhilarating statement than anything else, and does feel slightly separate from the rest of the record. “Teddy Picker” and “Balaclava” serve as the other first half highlights, but it’s the second half of the album where Arctic Monkeys truly come into their own. The one-two combination of “This House is A Circus” and “If You Were There, Beware” is possibly the bands best seven minutes to date, whilst closing track “505” divulges a depth that was sorely missing on the debut. 
   

@@ -7,6 +7,10 @@ tags:
   - 1990s
   - "24"
   - weezer
+  - rock
+  - alternative rock
+  - pixies
+  - nirvana
 featuredimage: album-artwork/the-blue-album-weezer.jpg
 artist: Weezer
 album: Weezer (The Blue Album)
@@ -77,7 +81,7 @@ author: Andrew
 review: >-
   Weezer’s debut was released alongside many similar bands at the time, but it seems they’ve found success in outlasting the majority, as well as producing an album that has aged well. *The Blue Album* is, without doubt, a signature ’90s album, but where many albums of the time now sound stale, cheesy, or simply cringe-inducing, Weezer’s eponymous debut manages to avoid all of those pitfalls. 
   
-  Harmonised vocal lines, characteristic of ’90s rock, are sprinkled across the album, and they, along with the chugging bass lines in tracks like “No One Else”, draw clear influence from bands that came before them, [Pixies](https://audioxide.com/reviews/pixies-doolittle/) and [Nirvana](https://audioxide.com/reviews/nirvana-in-utero/) especially. Clean, picked guitar lines hark back to ’60s American rock, the consistently minor riffs adding a cynical twist to the surf music influences. 
+  Harmonised vocal lines, characteristic of ’90s rock, are sprinkled across the album, and they, along with the chugging bass lines in tracks like “No One Else”, draw clear influence from bands that came before them, [Pixies](/reviews/pixies-doolittle/) and [Nirvana](/reviews/nirvana-in-utero/) especially. Clean, picked guitar lines hark back to ’60s American rock, the consistently minor riffs adding a cynical twist to the surf music influences. 
   
   It’s a well put together album from the tracklist down to the riffs and instrumentation. It’s genuine, it provides just enough angst, and it doesn’t attempt to draw needlessly deep emotion. It’s very enjoyable to listen to, and easily allows for return visits. Simple, catchy rock.
 

@@ -6,8 +6,9 @@ type: reviews
 tags:
   - 2010s
   - "26"
-  - Run the Jewels
+  - run the jewels
   - hip hop
+  - death grips
 featuredimage: album-artwork/run-the-jewels-2-run-the-jewels.jpg
 artist: Run the Jewels
 album: Run the Jewels 2
@@ -38,7 +39,7 @@ review: >-
 
   Their finest release so far, *Run the Jewels 2* is a no nonsense, bullshit-free record. The hooks are simple and the beats are grimy, yet the end result is totally infectious and utterly absorbing. The working relationship between El-P and Killer Mike is captivating, and effortlessly natural. Their chemistry is wonderful, bouncing off each other without any threat of competition or conflict. Their delivery and tone compliment the other to great effect — during its greatest moments you don’t even think about which of the two you’re listening listening to, you just know you’re experiencing the wonderful unification that is Run the Jewels. 
   
-  The sense of alliance is boosted even further with its featured artists, each one slotting in naturally, seamlessly complementing the album’s concept. Gangsta Boo delivers one of the most memorable verses on “Love Again”, Travis Barker channels his inner [Zach Hill](<https://www.youtube.com/watch?v=vgzSP05q0as>) on “All Due Respect”, and BOOTS offers the album’s greatest, most memorable hook on “Early”. Everyone who makes an appearance sounds right at home.
+  The sense of alliance is boosted even further with its featured artists, each one slotting in naturally, seamlessly complementing the album’s concept. Gangsta Boo delivers one of the most memorable verses on “Love Again”, Travis Barker channels his inner [Zach Hill](https://www.youtube.com/watch?v=vgzSP05q0as) on “All Due Respect”, and BOOTS offers the album’s greatest, most memorable hook on “Early”. Everyone who makes an appearance sounds right at home.
 
   Whilst *RTJ2* is certainly cohesive, momentum is lost in the final few tracks. The beats turn slightly sluggish, favouring sheer velocity over instrumental power, and there seems to be less room for both artists to manoeuvre as a result. Fortunately, the overall intensity is largely retained through the duo’s stellar wordplay and delivery, but it remains a key qualm of the record. It gets desperately close to being spectacular, only to slightly stumble at the finish. 
   
@@ -80,7 +81,7 @@ author: Andrew
 review: >-
   Having already thoroughly enjoyed *Run the Jewels 3*, their previous release faced stiff competition. Thankfully, I’ve had a tremendous time with *Run the Jewels 2*, and it has become one of the few albums that I’ve had the urge to instantly replay as it comes to an end. 
   
-  It’s hard to find cruft in this tracklist, with each song remaining distinctive and fresh, regularly switching up the entire sound midway through. There’s an abrasive, industrial style that runs throughout the record that confidently holds the listener’s attention. It certainly shares a lot of features with the output of [Death Grips](<reviews/death-grips-the-powers-that-b/>), but with a little more sanity. 
+  It’s hard to find cruft in this tracklist, with each song remaining distinctive and fresh, regularly switching up the entire sound midway through. There’s an abrasive, industrial style that runs throughout the record that confidently holds the listener’s attention. It certainly shares a lot of features with the output of [Death Grips](/reviews/death-grips-the-powers-that-b/), but with a little more sanity. 
   
   “Blockbuster Night Part 1” is a star example of a track made of a strong, intense instrumental, paired with vocals that flow and handoff between the duo effortlessly. “Lie, Cheat, Steal” is another sure favourite with a sweet twist in the chorus, and is one of many that comes equipped with a killer hook. The tracks with features also work extremely well, particularly BOOTS on “Early” and Gangsta Boo on “Love Again”, where both artists have clearly influenced the track’s flavour *without* interfering with the rest of the album. 
   

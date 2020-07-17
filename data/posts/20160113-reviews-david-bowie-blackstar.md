@@ -7,6 +7,9 @@ tags:
   - 2010s
   - "24"
   - david bowie
+  - alternative rock
+  - rock
+  - jazz
 featuredimage: album-artwork/blackstar-david-bowie.jpg
 artist: David Bowie
 album: Blackstar
@@ -35,7 +38,7 @@ author: André
 review: >-
   *Blackstar* wasn’t fully realised until a few days after its release. The initial sensation was one of revitalization in David Bowie’s creativity, with the metaphors of Lazarus seemingly showcasing his tortured immortality. We now understand that *Blackstar* is the open book of a dying man; a work created and scheduled for listeners to experience at the end of Bowie’s life, allowing him to depart on his own terms. 
   
-  The result is a fitting swansong and a testament to Bowie’s commitment to his craft. ‘His death was no different from his life — a work of art’, says long-time producer Tony Visconti, who knows more of Bowie’s vision than most. *Blackstar* is a record that will haunt us for years to come, although it certainly isn’t in the same realm as *Ziggy Stardust*, *Hunky Dory,* and [*Low*](https://audioxide.com/reviews/david-bowie-low/). In fact, it’s difficult to place *Blackstar* anywhere in the entire catalogue. It has an enigmatic character that separates it from any of his previous work; an aura of mystery helped enormously by a jazz influence that harks back to Bowie’s earliest days (the saxophone was, after all, one of the first instruments he began to learn as a child). 
+  The result is a fitting swansong and a testament to Bowie’s commitment to his craft. ‘His death was no different from his life — a work of art’, says long-time producer Tony Visconti, who knows more of Bowie’s vision than most. *Blackstar* is a record that will haunt us for years to come, although it certainly isn’t in the same realm as *Ziggy Stardust*, *Hunky Dory,* and [*Low*](/reviews/david-bowie-low/). In fact, it’s difficult to place *Blackstar* anywhere in the entire catalogue. It has an enigmatic character that separates it from any of his previous work; an aura of mystery helped enormously by a jazz influence that harks back to Bowie’s earliest days (the saxophone was, after all, one of the first instruments he began to learn as a child). 
   
   Still, personal throwbacks such as these never sink into nostalgia. Bowie was always too audacious for that. *Blackstar* opts instead to embrace the reality of Bowie’s status and is a better record for it, with no fond recollection of the glory days. Some moments on the album are stronger than others, but the entirety of what *Blackstar* now represents is too powerful for one to be bothered by the minor blemishes. 
   
