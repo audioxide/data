@@ -44,7 +44,7 @@ Outside of the music itself, I tend to stay away from the antics of Death Grips.
 
 **Fred**
 
-San Fermin’s *Jackrabbit *was one of the not quites of the year. So close to being superb, it settles for being really good. I appreciate it when an artist treats an album as a chorus of voices, and Ellis Ludwig-Leone certainly does that. Few works this year were as intelligently made as *Jackrabbit*, and I have revisited it often since its release. It is baroque pop at its best; cerebral and gorgeous. Frustratingly, though, it never quite hits the heights its quality promises. To be clear, it is a very good album, and absolutely merits repeat listens; I only whinge because it flirts with being truly top drawer. André was right in saying there is a masterpiece brewing in the mind of Ludwig-Leone. For the time being, we have the meticulous artistry of *Jackrabbit*.
+San Fermin’s *Jackrabbit* was one of the not quites of the year. So close to being superb, it settles for being really good. I appreciate it when an artist treats an album as a chorus of voices, and Ellis Ludwig-Leone certainly does that. Few works this year were as intelligently made as *Jackrabbit*, and I have revisited it often since its release. It is baroque pop at its best; cerebral and gorgeous. Frustratingly, though, it never quite hits the heights its quality promises. To be clear, it is a very good album, and absolutely merits repeat listens; I only whinge because it flirts with being truly top drawer. André was right in saying there is a masterpiece brewing in the mind of Ludwig-Leone. For the time being, we have the meticulous artistry of *Jackrabbit*.
 
 **[Read our full review of *Jackrabbit*](/reviews/san-fermin-jackrabbit/) →**
 
