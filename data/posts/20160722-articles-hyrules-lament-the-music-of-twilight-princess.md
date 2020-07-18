@@ -10,7 +10,9 @@ title: "Hyrule&#8217;s Lament: the music of Twilight Princess"
 summary: This is the first in a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.
 author: andre
 blurb: Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack for Twilight Princess had bolder intentions than it is often given credit for.
+
 ---
+
 <figure class="wide">
   <img src="article-images/hyrules-lament-the-music-of-twilight-princess.jpg" alt="Link of the Zelda series listens to sinister tunes" />
   <figcaption>Image by Frederick O'Brien</figcaption>
