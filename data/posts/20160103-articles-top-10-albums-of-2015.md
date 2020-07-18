@@ -30,7 +30,7 @@ Diplo’s collaborative project, Major Lazer, has been adding its own reggae inf
 
 ## 9\. *The Powers that B* // Death Grips
 
-![Album artwork of 'The Powers that B' by Death Grips](album-artwork/the-powers-that-b-death-grips/)
+![Album artwork of 'The Powers that B' by Death Grips](album-artwork/the-powers-that-b-death-grips.jpg)
 
 **André**
 
@@ -40,7 +40,7 @@ Outside of the music itself, I tend to stay away from the antics of Death Grips.
 
 ## 8\. *Jackrabbit* // San Fermin
 
-![Album artwork of 'Jackrabbit' by San Fermin](album-artwork/jackrabbit-san-fermin/)
+![Album artwork of 'Jackrabbit' by San Fermin](album-artwork/jackrabbit-san-fermin.jpg)
 
 **Fred**
 
@@ -50,7 +50,7 @@ San Fermin’s *Jackrabbit* was one of the not quites of the year. So close to b
 
 ## 7\. *Garden of Delete* // Oneohtrix Point Never
 
-![Album artwork of 'Garden of Delete' by Oneohtrix Point Never](album-artwork/garden-of-delete-oneohtrix-point-never/)
+![Album artwork of 'Garden of Delete' by Oneohtrix Point Never](album-artwork/garden-of-delete-oneohtrix-point-never.jpg)
 
 **André**
 
@@ -68,7 +68,7 @@ Another artist that has continued an already very successful career in 2015, Jam
 
 ## 5\. *My Love Is Cool* // Wolf Alice
 
-![Album artwork of 'My Love Is Cool' by Wolf Alice](album-artwork/my-love-is-cool-wolf-alice/)
+![Album artwork of 'My Love Is Cool' by Wolf Alice](album-artwork/my-love-is-cool-wolf-alice.jpg)
 
 **Fred**
 
@@ -78,7 +78,7 @@ You can’t argue with the mystery of a new kid on the block, can you? Wolf Alic
 
 ## 4\. *Blood* // Lianne La Havas
 
-![Album artwork of 'Blood' by Lianne La Havas](album-artwork/blood-lianne-la-havas/)
+![Album artwork of 'Blood' by Lianne La Havas](album-artwork/blood-lianne-la-havas.jpg)
 
 **Andrew**
 
@@ -88,7 +88,7 @@ Lianne La Havas has had a good year in 2015, releasing her second album which re
 
 ## 3\. *Compton* // Dr. Dre
 
-![Album artwork of 'Compton' by Dr. Dre](album-artwork/compton-dr-dre/)
+![Album artwork of 'Compton' by Dr. Dre](album-artwork/compton-dr-dre.jpg)
 
 **Fred**
 
@@ -98,7 +98,7 @@ One would do well to find *Compton* anything other than splendid. It’s one of 
 
 ## 2\. *Divers* // Joanna Newson
 
-![Album artwork of 'Divers' by Joanna Newsom](album-artwork/divers-joanna-newsom/)
+![Album artwork of 'Divers' by Joanna Newsom](album-artwork/divers-joanna-newsom.jpg)
 
 **André**
 
@@ -108,7 +108,7 @@ I’ll confess that *Divers* is my first Joanna Newsom experience. Initially, I 
 
 ## 1\. *To Pimp a Butterfly* // Kendrick Lamar
 
-![To Pimp a Butterfly](album-artwork/to-pimp-a-butterfly-kendrick-lamar/)
+![To Pimp a Butterfly](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg)
 
 **André**
 
