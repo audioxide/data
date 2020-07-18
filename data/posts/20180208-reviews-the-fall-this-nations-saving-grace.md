@@ -8,6 +8,7 @@ tags:
   - "23"
   - the fall
   - post punk
+  - alternative rock
   - joy division
   - blur
   - britpop

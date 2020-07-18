@@ -8,6 +8,7 @@ tags:
   - "23"
   - oneohtrix point never
   - electronic
+  - idm
   - bjork
 featuredimage: album-artwork/age-of-oneohtrix-point-never.jpg
 artist: Oneohtrix Point Never

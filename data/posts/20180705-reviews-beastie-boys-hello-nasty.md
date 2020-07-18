@@ -8,7 +8,6 @@ tags:
   - "22"
   - beastie boys
   - hip hop
-  - rap
   - the avalanches
 featuredimage: album-artwork/hello-nasty-beastie-boys.jpg
 artist: Beastie Boys
@@ -42,7 +41,7 @@ review: >-
 
   Unfortunately, the record also contains some slight duds. The second half is so slack that it practically feels like an amateur demo reel. There’s a charm to that, for sure, but there’s no question that songs such as “Picture This” and “Dedication” put a slight damper on proceedings. They’re not necessarily bad cuts, but the slow pace of these closing tracks has an undeniable impact on the album’s momentum. “Instant Death” is a good closer, but it would be a great one if the songs that preceded it hadn’t already drained the energy. 
   
-  *Nasty* has proven somewhat divisive due to the quirkier songs in the latter half of the tracklist, but if anything it’s the sequencing that really lets the album down. Nevertheless, it’s clear to see why the it holds such a legacy. Whether the Beasties are rapping or singing, an infectious adolescent vigour radiates throughout. 20 years on and that energy has rarely been replicated. *Nasty* has been hailed as a great hip-hop album, but I’d sooner call it a great party album.
+  *Nasty* has proven somewhat divisive due to the quirkier songs in the latter half of the tracklist, but if anything it’s the sequencing that really lets the album down. Nevertheless, it’s clear to see why the it holds such a legacy. Whether the Beasties are rapping or singing, an infectious adolescent vigour radiates throughout. Twenty years on and that energy has rarely been replicated. *Nasty* has been hailed as a great hip-hop album, but I’d sooner call it a great party album.
 
 tracks:
   - Intergalactic

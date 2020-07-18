@@ -7,6 +7,8 @@ tags:
   - "19"
   - 2010s
   - lianne la havas
+  - pop
+  - rhythm and blues
 featuredimage: album-artwork/blood-lianne-la-havas.jpg
 artist: Lianne La Havas
 album: Blood

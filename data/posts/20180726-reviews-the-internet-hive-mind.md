@@ -7,6 +7,7 @@ tags:
   - "16"
   - 2010s
   - the internet
+  - rhythm and blues
   - solange
   - frank ocean
 featuredimage: album-artwork/hive-mind-the-internet.jpg

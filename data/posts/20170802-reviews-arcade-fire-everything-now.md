@@ -7,6 +7,10 @@ tags:
   - "16"
   - "2017"
   - arcade fire
+  - pop
+  - pop rock
+  - disco
+  - thom yorke
 featuredimage: album-artwork/everything-now-arcade-fire.jpg
 artist: Arcade Fire
 album: Everything Now
@@ -39,7 +43,7 @@ review: >-
 
   Stylistically, *Everything Now* picks up from where *Reflektor* leaves off; caught in a disco-dazed frenzy, only this title track is nowhere near as effective as the last. It ticks all the boxes on paper — catchy melody, infectious groove — but there’s simply no heart or soul. The beat encourages a tap of the feet, but the song’s message induces a roll of the eyes. There’s very little emotional connection or means of attachment in comparison to previous album openers, such as “Neighborhood #1 (Tunnels)” or “The Suburbs”. 
   
-  The concept falls further apart with songs like “Chemistry” and “Infinite Content”, which are quite easily the worst cuts Arcade Fire have put on record. The most frustrating track of all is “Electric Blue”, a delightful instrumental spoiled by a strangely excruciating vocal performance from Régine Chassagne. Songs featuring Chassange on lead vocals have proven highlights in the past, but “Electric Blue” is almost unlistenable due to her grating falsettos. It’s like a drunken karaoke cover of [Thom Yorke](https://audioxide.com/reviews/thom-yorke-the-eraser/). 
+  The concept falls further apart with songs like “Chemistry” and “Infinite Content”, which are quite easily the worst cuts Arcade Fire have put on record. The most frustrating track of all is “Electric Blue”, a delightful instrumental spoiled by a strangely excruciating vocal performance from Régine Chassagne. Songs featuring Chassange on lead vocals have proven highlights in the past, but “Electric Blue” is almost unlistenable due to her grating falsettos. It’s like a drunken karaoke cover of [Thom Yorke](/reviews/thom-yorke-the-eraser/). 
   
   The album picks up towards the end, but by that point the damage is well and truly done. *Everything Now* is not only obnoxious in its social critique, it’s also an utter bore, relying on flimsy disco with hints of half-arsed punk and characterless reggae. The good news is that I’ll have forgotten about it by next week.
 
@@ -57,7 +61,7 @@ author: Fred
 review: >-
   "*Anything Now* sounds like the kind of thing you make when you’re tired. A good idea at the time, but exposed in the light of day as jangly and poorly executed. The goal was disco with a kick, or least that’s my best guess. It’s hard to believe everyone involved was on the same page. Although the record sometimes drifts into a genuinely colourful, confident sound, most of the time it is oddly clunky. The music just doesn’t seem comfortable in its own skin — and with good reason. 
   
-  Even at their best the songs don’t sit right. The instrumentals on “Creature Comfort” and “Electric Blue” are what you’d hope to hear from Arcade Fire Do Disco, but even there the vocals fall short. Régine Chassagne’s voice, in isolation, is soft, fluttering, and beautiful. This is known. Combined with disco-rock it sounds like nails on a chalkboard. Something like that isn’t anyone’s fault — the Bee Gees doing [*Funeral*](<reviews/funeral/>) would sound just as bad, maybe worse — but it is neatly symbolic of how ill at ease Arcade Fire sound on *Everything Now*. It lacks self-assurance. By the time the record bumbles into reggae hoedown “Chemistry” and *Big Bang Theory*-worthy punk epic “Infinite Content”, I’m barely engaged enough to be disappointed. I still manage, though. 
+  Even at their best the songs don’t sit right. The instrumentals on “Creature Comfort” and “Electric Blue” are what you’d hope to hear from Arcade Fire Do Disco, but even there the vocals fall short. Régine Chassagne’s voice, in isolation, is soft, fluttering, and beautiful. This is known. Combined with disco-rock it sounds like nails on a chalkboard. Something like that isn’t anyone’s fault — the Bee Gees doing [*Funeral*](/reviews/arcade-fire-funeral/>) would sound just as bad, maybe worse — but it is neatly symbolic of how ill at ease Arcade Fire sound on *Everything Now*. It lacks self-assurance. By the time the record bumbles into reggae hoedown “Chemistry” and *Big Bang Theory*-worthy punk epic “Infinite Content”, I’m barely engaged enough to be disappointed. I still manage, though. 
   
   Arcade Fire are a terribly talented group, and it’s a shame to hear them so off-key. There’s enough right with *Everything Now* to think they can make that sound work in the future, but I doubt many will want them to have another go of it. The album doesn’t leave me the slightest bit angry, but it does leave me cold. That might be even worse."
 
@@ -74,7 +78,7 @@ score:
 author: Andrew
 
 review: >-
-  There is no two ways about it, *Everything Now* is not a patch on Arcade Fire’s previous output. Going from strength to strength from their [2004 debut](<reviews/arcade-fire-funeral/>) right through to their similarly disco-heavy 2013 release, *Reflektor*, I’ve long held high expectations for a new release from the band. *Everything Now* feels like a misstep though. 
+  There is no two ways about it, *Everything Now* is not a patch on Arcade Fire’s previous output. Going from strength to strength from their 2004 debut right through to their similarly disco-heavy 2013 release, *Reflektor*, I’ve long held high expectations for a new release from the band. *Everything Now* feels like a misstep though. 
   
   While the opening minutes aren’t a cause for concern, things very quickly go in a surprising direction as the listener reaches the meat of the album. While there are some genuinely extraordinary moments like the country inspired “Infinite\_Content” or reggae-lite “Chemistry”, a bulk of the tracklist feels mundane. Instrumental introductions often lead the listener to hold out hope, as many are distinctive and enjoyable. But with some interesting vocal and arrangement choices and lacklustre development across the board, each track pales rapidly. There are stand out tracks, but nothing that saves the album, instead bookending a blur of ideas with something vaguely memorable. 
   

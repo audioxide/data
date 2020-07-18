@@ -7,6 +7,10 @@ tags:
   - "16"
   - 2010s
   - mgmt
+  - electronic
+  - pop
+  - air
+  - pink floyd
 featuredimage: album-artwork/little-dark-age-mgmt.jpg
 artist: MGMT
 album: Little Dark Age

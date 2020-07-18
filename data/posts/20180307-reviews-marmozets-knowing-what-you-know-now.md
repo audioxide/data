@@ -7,6 +7,7 @@ tags:
   - "20"
   - 2010s
   - marmozets
+  - alternative rock
   - radiohead
   - muse
   - arctic monkeys

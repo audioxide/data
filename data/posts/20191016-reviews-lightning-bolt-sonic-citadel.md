@@ -7,6 +7,7 @@ tags:
   - "16"
   - 2010s
   - lightning bolt
+  - rock
 featuredimage: album-artwork/sonic-citadel-lightning-bolt.jpg
 artist: Lightning Bolt
 album: Sonic Citadel

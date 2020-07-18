@@ -6,7 +6,13 @@ type: reviews
 tags:
   - "20"
   - 2010s
-  - st. vincent
+  - st vincent
+  - pop
+  - pop rock
+  - alternative rock
+  - pink floyd
+  - taylor swift
+  - lorde
 featuredimage: album-artwork/masseducation-st-vincent.jpg
 artist: St. Vincent
 album: Masseduction

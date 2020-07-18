@@ -9,6 +9,7 @@ tags:
   - royal blood
   - rock
   - pop
+  - pop rock
   - muse
   - queens of the stone age
 featuredimage: album-artwork/how-did-we-get-so-dark-royal-blood.jpg
@@ -57,7 +58,7 @@ score:
 author: Fred
 
 review: >-
-  The sensation I get when listening to *How Did We Get So Dark?* is similar to that of watching a Marvel film: entertained, but not terribly invested. The sound is solid, the choruses are catchy, the riffs hook, and so on. It’s all there. Elements of strong rock — in the vein of [Muse](<reviews/muse-origin-of-symmetry/>) and [Queens of the Stone Age](<reviews/like-clockwork/>) — litter the album, but they rarely have their own weight. 
+  The sensation I get when listening to *How Did We Get So Dark?* is similar to that of watching a Marvel film: entertained, but not terribly invested. The sound is solid, the choruses are catchy, the riffs hook, and so on. It’s all there. Elements of strong rock — in the vein of [Muse](/reviews/muse-origin-of-symmetry/) and [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) — litter the album, but they rarely have their own weight. 
   
   The character is far more impressive than the substance. The general tone of the record never shifts, and as agreeable as that tone is I often find myself asking why it isn’t more. The album gives a far clearer impression of who Royal Blood want to sound like than it does what *their* vibe is. It’s like a harmonic comfort zone. When Royal Blood push the envelope, as they do with the harmonies in “She’s Creeping” and the keyboard work on “Hole in Your Heart”, I get really into it, but most of the time I can’t help but feel like a target audience. 
   

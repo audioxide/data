@@ -45,7 +45,7 @@ review: >-
 
   “Don’t Judge Me” stands as one of *Dirty Computer*’s most unique tracks: a romantic, dreamy slow-jam trickled with dazzling samples and gorgeous strings. A ’90s R&B throwback on the surface, but one that delves into both blues and jazz. These sorts of fusions are heard throughout the record, and the sheer variety that *Dirty Computer* offers is something that not only rivals, but also surpasses Beyoncé’s *Lemonade*. 
   
-  I’m not sure it’s quite as accomplished as Lorde’s [*Melodrama*](listeningparties/lorde-melodrama/), but it’s certainly just as fun. Monáe’s message is one to recognise and to act accordingly. Though there are some clumsy lyrical mishaps, it doesn’t lessen the impact of *Dirty Computer*’s principals. This will likely go down as one of 2018’s finest artistic achievements. Pop has rarely sounded so stylish, nor has it sounded so diverse.
+  I’m not sure it’s quite as accomplished as Lorde’s [*Melodrama*](/listeningparties/lorde-melodrama/), but it’s certainly just as fun. Monáe’s message is one to recognise and to act accordingly. Though there are some clumsy lyrical mishaps, it doesn’t lessen the impact of *Dirty Computer*’s principals. This will likely go down as one of 2018’s finest artistic achievements. Pop has rarely sounded so stylish, nor has it sounded so diverse.
 
 tracks:
   - Make Me Feel

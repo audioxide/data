@@ -8,6 +8,7 @@ tags:
   - 2010s
   - jack white
   - rock
+  - alternative rock
 featuredimage: album-artwork/boarding-house-reach-jack-white.jpg
 artist: Jack White
 album: Boarding House Reach

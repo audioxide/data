@@ -6,7 +6,7 @@ type: reviews
 tags:
   - 1950s
   - "27"
-  - 27+ club
+  - 27 plus club
   - miles davis
   - flying lotus
   - jazz

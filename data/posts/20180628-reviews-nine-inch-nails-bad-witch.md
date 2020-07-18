@@ -8,6 +8,7 @@ tags:
   - "22"
   - nine inch nails
   - industrial
+  - alternative rock
   - jazz
   - david bowie
   - aphex twin

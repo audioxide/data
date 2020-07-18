@@ -8,6 +8,8 @@ tags:
   - 2020s
   - thundercat
   - kendrick lamar
+  - hip hop
+  - flying lotus
 featuredimage: album-artwork/it-is-what-it-is-thundercat.jpg
 artist: Thundercat
 album: It Is What It Is

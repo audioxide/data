@@ -6,7 +6,10 @@ type: reviews
 tags:
   - "17"
   - 1970s
-  - Ramones
+  - ramones
+  - punk
+  - david bowie
+  - elvis costello
 featuredimage: album-artwork/rocket-to-russia-ramones.jpg
 artist: Ramones
 album: Rocket to Russia

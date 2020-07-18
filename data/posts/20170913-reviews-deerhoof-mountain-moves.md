@@ -7,6 +7,12 @@ tags:
   - 2010s
   - "22"
   - deerhoof
+  - alternative rock
+  - pop rock
+  - radiohead
+  - nine inch nails
+  - kendrick lamar
+  - bob marley and the wailers
 featuredimage: album-artwork/mountain-moves-deerhoof.jpg
 artist: Deerhoof
 album: Mountain Moves
@@ -33,13 +39,13 @@ albumMBID: 2c88b473-3866-463c-912b-96b02a09cbc2
 author: ANDRÉ
 
 review: >-
-  Deerhoof are amongst the finest acts in indie rock; building a reputation in the 2000s and sustaining their status right through to 2017 — but 20 years since their debut album, and the San Fransisco-born band are still vastly under-appreciated in the grand scheme of things. After all these years, it’s practically a given that charming noise pop doesn’t come much sweeter than Deerhoof, and the level of consistency they have achieved is almost unprecedented — you’d have to look at a band as gigantic as [Radiohead](reviews/radiohead-a-moon-shaped-pool/) to even start comparisons. 
+  Deerhoof are amongst the finest acts in indie rock; building a reputation in the 2000s and sustaining their status right through to 2017 — but 20 years since their debut album, and the San Fransisco-born band are still vastly under-appreciated in the grand scheme of things. After all these years, it’s practically a given that charming noise pop doesn’t come much sweeter than Deerhoof, and the level of consistency they have achieved is almost unprecedented — you’d have to look at a band as gigantic as [Radiohead](/reviews/radiohead-a-moon-shaped-pool/) to even start comparisons. 
   
-  If the Deerhoof catalogue lacks anything, it’s probably that [one](reviews/radiohead-ok-computer/) [essential](reviews/nine-inch-nails-the-downward-spiral/) [album](reviews/kendrick-lamar-to-pimp-a-butterfly/) that will keep listeners hooked for decades to come. *Mountain Moves*, their 14th studio album, isn’t the crucial masterstroke we crave, but it is another vastly enjoyable dose of entertaining indie rock. Deerhoof cram dozens of ideas into a 40-minute album, which is not only technically impressive, but thoroughly amusing. 
+  If the Deerhoof catalogue lacks anything, it’s probably that [one](/reviews/radiohead-ok-computer/) [essential](/reviews/nine-inch-nails-the-downward-spiral/) [album](/reviews/kendrick-lamar-to-pimp-a-butterfly/) that will keep listeners hooked for decades to come. *Mountain Moves*, their 14th studio album, isn’t the crucial masterstroke we crave, but it is another vastly enjoyable dose of entertaining indie rock. Deerhoof cram dozens of ideas into a 40-minute album, which is not only technically impressive, but thoroughly amusing. 
   
   *Mountain Moves* is a protest album at heart, yet it overflows with a spirit that is both defiant and joyous. The whole thing can feel disconnected, sometimes confusing, though always tremendously fun, and the range of featured artists only add to the delight. Even without their friends, Deerhoof form a party from a protest, engaging in different styles and genres of music on the journey. They dabble in hip-hop on “Your Dystopic Creation Doesn’t Fear You”, fire up a space-funk party on “Palace of the Governors”, and fashion a wonderful Latin-American opera interlude in the form of “Gracias a la Vida”. If it sounds nuts, that’s because it is. 
   
-  Remarkably, Deerhoof make it work. Everything is executed with a splendid swagger, particularly the tail-end garage rock highlight “Kokoye”. *Mountain Moves* has a buoyant energy that flows right until it’s delicate closing track, a tender cover of Bob Marley’s “Small Axe”, which reminds you that, amongst the amusement, this is still a protest album after all. And a fine one at that.
+  Remarkably, Deerhoof make it work. Everything is executed with a splendid swagger, particularly the tail-end garage rock highlight “Kokoye”. *Mountain Moves* has a buoyant energy that flows right until it’s delicate closing track, a tender cover of [Bob Marley](/reviews/bob-marley-and-the-wailers-exodus/)’s “Small Axe”, which reminds you that, amongst the amusement, this is still a protest album after all. And a fine one at that.
 
 tracks:
   - Your Dystopic Creation Doesn’t Fear You

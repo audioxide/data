@@ -8,6 +8,7 @@ tags:
   - "22"
   - oasis
   - the beatles
+  - liam gallagher
   - rock
   - britpop
 featuredimage: album-artwork/definitely-maybe-oasis.jpg
@@ -38,7 +39,7 @@ author: ANDRÉ
 review: >-
   Like many of the best debut albums, *Definitely Maybe* set the foundation of something special. Oasis firmly inhabited themselves in rock & roll — not exempt from both the liberations and limitations of the genre — as they embraced their working class credentials. In looking to capture the imagination of ordinary folk just like themselves, the band showed glimpses of potential prominence. This, of course, was the most exciting aspect of it all. Oasis proved that stardom is in touching distance of all of us, just so long as you have the tunes.
 
-  Noel Gallagher’s capacity to make a stonking rock & roll song is perhaps the single largest reason behind *Definitely Maybe*’s success. Whilst he quickly established himself as one of the finest songwriters of the generation, Liam Gallagher likewise proved to be one of the greatest vocalists in rock music, and certainly the most distinctive. Comparisons to [The Beatles](<reviews/the-beatles-revolver/>) are somewhat glaring, but there’s a punk-like quality to Oasis’s brand of rock music that sets them apart, accentuated by Liam’s permanent scorn. Oasis were willingly formulaic, but the Gallagher’s blueprint was too compelling to ever become tiresome.
+  Noel Gallagher’s capacity to make a stonking rock & roll song is perhaps the single largest reason behind *Definitely Maybe*’s success. Whilst he quickly established himself as one of the finest songwriters of the generation, Liam Gallagher likewise proved to be one of the greatest vocalists in rock music, and certainly the most distinctive. Comparisons to [The Beatles](/reviews/the-beatles-revolver/>) are somewhat glaring, but there’s a punk-like quality to Oasis’s brand of rock music that sets them apart, accentuated by Liam’s permanent scorn. Oasis were willingly formulaic, but the Gallagher’s blueprint was too compelling to ever become tiresome.
 
   What lets *Definitely Maybe* down, and consequently prevents it from being a magnificent album, is mostly detached from the songwriting. Generally, the mixing achieves a fine balance, but a few songs suffer from messy guitars and a lack of dynamics, therefore failing to leave a lasting impression that the songs themselves deserve. Tony McCarroll’s drums are *fine*, but basic enough to become being monotonous and extremely predictable. It’s telling that producer Owen Morris added post-production delays to the drums to add an element of complexity. 
   
@@ -60,11 +61,11 @@ author: Fred
 review: >-
   Straightforward, confident, full of earworms, the prestige of Oasis’s debut album is no great mystery. As revered as *Definitely Maybe* is, there is not much to be said about it. Its simplicity is exactly what makes it so good. “Rock ‘N’ Roll Star”, “Shakermaker”, and “Liver Forever” are as good an opening rock trio as you’re ever likely to hear, and that standard carries through. What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s more or less the game on *Definitely Maybe*; relentless and unstoppable. 
   
-  The sound does occasionally prompt a desire for more subtlety in the vein of closer “Married with Children”. As stellar as the songwriting is, the roughness of the mixing is sometimes detrimental to their execution. Even the album’s [demos](<https://www.youtube.com/watch?v=jmC3553Q3Fo>) have a grace that the finished product doesn’t quite manage. Still, I think *Definitely Maybe* gets a punk-like exemption, where the limitations of the sound are part and parcel of why it is so loved. When a bunch of nobodies turn up from out of nowhere and rock your socks off, who on earth cares what the dynamics are?
+  The sound does occasionally prompt a desire for more subtlety in the vein of closer “Married with Children”. As stellar as the songwriting is, the roughness of the mixing is sometimes detrimental to their execution. Even the album’s [demos](https://www.youtube.com/watch?v=jmC3553Q3Fo) have a grace that the finished product doesn’t quite manage. Still, I think *Definitely Maybe* gets a punk-like exemption, where the limitations of the sound are part and parcel of why it is so loved. When a bunch of nobodies turn up from out of nowhere and rock your socks off, who on earth cares what the dynamics are?
 
   And of course, Noel’s songs needed the right vocals, and boy did they get them. There is a purity to Liam’s voice on *Definitely Maybe* that never really surfaced again. I love the sandpaper roar of his prime as much as anyone, but I’m glad its formative smoothness is immortalised somewhere. It lends itself to the simple beauty of the album, sharing in that tight, focused, make-or-break fury of a group determined to make it through sheer power of execution. 
   
-  *(What’s the Story)* *Morning Glory?* is a more polished record, but there’s a sweet lumbering innocence to *Definitely Maybe*. Behind all the mess, [all the disappointment and discord of the years that followed](https://audioxide.com/articles/be-here-now-and-mr-hyde/), it will always be there, preserving a time when music was simple, the world awaited, and everything was possible, forever. Mega.
+  *(What’s the Story)* *Morning Glory?* is a more polished record, but there’s a sweet lumbering innocence to *Definitely Maybe*. Behind all the mess, [all the disappointment and discord of the years that followed](/articles/be-here-now-and-mr-hyde/), it will always be there, preserving a time when music was simple, the world awaited, and everything was possible, forever. Mega.
 
 tracks:
   - Live Forever

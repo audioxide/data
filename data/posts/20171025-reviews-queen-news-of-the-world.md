@@ -6,7 +6,12 @@ type: reviews
 tags:
   - "16"
   - 1970s
-  - Queen
+  - queen
+  - rock
+  - kings of leon
+  - u2
+  - nine inch nails
+  - muse
 featuredimage: album-artwork/news-of-the-world-queen.jpg
 artist: Queen
 album: News of the World

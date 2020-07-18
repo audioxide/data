@@ -8,6 +8,8 @@ tags:
   - "20"
   - blur
   - britpop
+  - alternative rock
+  - pop rock
   - oasis
   - radiohead
   - pulp

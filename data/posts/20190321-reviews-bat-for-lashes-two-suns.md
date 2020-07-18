@@ -13,6 +13,7 @@ tags:
   - kate bush
   - david bowie
   - goldfrapp
+  - sexwitch
 featuredimage: album-artwork/two-suns-bat-for-lashes.jpg
 artist: Bat for Lashes
 album: Two Suns

@@ -9,6 +9,7 @@ tags:
   - desert sessions
   - rock
   - alternative rock
+  - pop rock
   - royal blood
   - queens of the stone age
 featuredimage: album-artwork/vols-11-and-12-desert-sessions.jpg

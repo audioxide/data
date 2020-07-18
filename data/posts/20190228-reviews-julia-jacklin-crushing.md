@@ -7,6 +7,7 @@ tags:
   - "20"
   - 2010s
   - julia jacklin
+  - alternative rock
   - indie
   - courtney barnett
 featuredimage: album-artwork/crushing-julia-jacklin.jpg
@@ -37,7 +38,7 @@ author: André
 review: >-
   Let’s face it, the 2019 music industry isn’t exactly devoid of indie singer-songwriters. Given the over-saturation, it requires something special for artists in the genre to stand out. On her sophomore album, Julia Jacklin makes a compelling case to separate herself from the rest of the pack, as she unloads cluttered feelings over graceful guitars and elegant arrangements. *Crushing* almost hits all the right notes, and it’s recorded, mixed, and produced impeccably. The album sounds incredibly warm and rich, which keeps the momentum going even when the songwriting stutters, as it does slightly during the middle segment.
 
-  Jacklin’s lyrics are a consistent highlight. ‘Give me a full-length mirror, so I can see the whole picture’, she sings on the feminist-fueled “Head Alone”, before going into the standout refrain of ‘I don’t want to be touched all the time, I raise my body up to be mine’. Indeed, Crushing is a personal and reflective record, but one that also tackles the overwhelming level of sexism that exists within the industry. While this is an intimate breakup album, its subject matter will likely resonate with multiple listeners. Despite the pain, and in spite of the many vulnerabilities, Jacklin finds peace purely by discovering herself.
+  Jacklin’s lyrics are a consistent highlight. ‘Give me a full-length mirror, so I can see the whole picture’, she sings on the feminist-fueled “Head Alone”, before going into the standout refrain of ‘I don’t want to be touched all the time, I raise my body up to be mine’. Indeed, *Crushing* is a personal and reflective record, but one that also tackles the overwhelming level of sexism that exists within the industry. While this is an intimate breakup album, its subject matter will likely resonate with multiple listeners. Despite the pain, and in spite of the many vulnerabilities, Jacklin finds peace purely by discovering herself.
 
   Half way through penultimate track “Turn Me Down”, after a brief stage of silence, there is a stunning standout musical passage. Jacklin’s emotional plea practically turns into a howl by the end. It’s a moment that stops you in your tracks, like a punch to the gut, and I only wish there more of them. These flashes of brilliance are rare, but certainly enough to make Julia Jacklin one to watch.
 

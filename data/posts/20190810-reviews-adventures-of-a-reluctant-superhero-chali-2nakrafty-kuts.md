@@ -10,6 +10,7 @@ tags:
   - krafty kuts
   - hip hop
   - daft punk
+  - the simpsons
 featuredimage: album-artwork/adventures-of-a-reluctant-superhero-chali-2na-krafty-kuts.jpg
 artist: Chali 2na & Krafty Kuts
 album: Adventures Of A Reluctant Superhero

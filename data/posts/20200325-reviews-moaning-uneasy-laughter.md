@@ -8,6 +8,7 @@ tags:
   - 2020s
   - moaning
   - pop
+  - pop rock
   - joy division
   - nine inch nails
   - radiohead

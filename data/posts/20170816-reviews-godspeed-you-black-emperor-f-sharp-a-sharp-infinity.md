@@ -6,7 +6,9 @@ type: reviews
 tags:
   - 1990s
   - "23"
-  - godspeed you! black emperor
+  - godspeed you black emperor
+  - post rock
+  - fallout
 featuredimage: album-artwork/f-sharp-a-sharp-infinity-godspeed-you-black-emperor.jpg
 artist: Godspeed You! Black Emperor
 album: F♯ A♯ ∞ [CD release]
@@ -37,7 +39,7 @@ review: >-
   
   Arrangements move at their own pace, building from silence and rising to intense crescendos. The best moments are wonderful, and the instances of stillness can be testing, but the record remains commanding. *F♯ A♯ ∞* is never boring, and for an hour-long piece of experimental arthouse music comprised of dreary drones and sparse soundscapes, I’d say that’s quite the feat.
   
-  I’ve had a keen ear for drama and musical theatrics for as long as I can remember, so it’s no surprise that *F♯ A♯ ∞* appeals to me. This is as climactic as a record can get, yet also finds room for some subtleties. It finds success not only in what it achieves, but what it intentionally does not do. Moments of tranquillity separate segments of thrilling arrangements. Texture is as important as any melody, and sometimes Godspeed You! Black Emperor flourish when barely any music is playing at all. “East Hastings” evokes a sense of isolation that would be perfect for the barren wastelands of [*Fallout*](articles/world-on-fire-the-music-of-fallout-3/), whilst “The Dead Flag Blues” depicts a Gothic Hawaii, with its sublime slide guitars and bass-driven melody. 
+  I’ve had a keen ear for drama and musical theatrics for as long as I can remember, so it’s no surprise that *F♯ A♯ ∞* appeals to me. This is as climactic as a record can get, yet also finds room for some subtleties. It finds success not only in what it achieves, but what it intentionally does not do. Moments of tranquillity separate segments of thrilling arrangements. Texture is as important as any melody, and sometimes Godspeed You! Black Emperor flourish when barely any music is playing at all. “East Hastings” evokes a sense of isolation that would be perfect for the barren wastelands of [*Fallout*](/articles/world-on-fire-the-music-of-fallout-3/), whilst “The Dead Flag Blues” depicts a Gothic Hawaii, with its sublime slide guitars and bass-driven melody. 
   
   *F♯ A♯ ∞* slips out of different styles and genres with ease, and though the sound is overwhelmingly gloomy, the band clearly have fun too: during the middle portion of “Providence”, it sounds like they’re setting the scene to a spaghetti western. *F♯ A♯ ∞* is full of moments like these that mean it will continued to be remembered for years to come. It may be two decades old, but it remains as relevant as ever: sonically, conceptually, and structurally. Highly recommended.
 
@@ -59,7 +61,7 @@ review: >-
   
   It’s one of the best sounding albums I’ve listened to for a long time, with production that makes every element of composition sound clean and new. The amorphous nature of the album makes it hard to pin down, but the early rustic odes of “The Dead Flag Blues” and the solitary guitar work midway through “East Hastings” have especially stuck with me. It’s a true sensory experience. Not that I’m totally smitten with it. It does slip in and out of nondescript ambient fluff — remarkably little for what it is, but still enough to mention. 
   
-  As elegantly made as *F# A# ∞* is, there’s still a light touch of Frankenstein about it. Beautifully stitched, though. I’m glad albums like this can and do stumble into existence. *F# A# ∞ *is the kind of art that puts the potential of a medium into perspective. Not because it blows things out of the water, but because it is elegantly, effortlessly different enough to open one’s eyes. It's easy to get sucked into a pretty narrow idea of what an album is, and projects like this provide a friendly slap in the face. So give it a listen. It’s a wonderfully weird spiritual trip, and the prettiest slap in the face you’ll ever receive.
+  As elegantly made as *F# A# ∞* is, there’s still a light touch of Frankenstein about it. Beautifully stitched, though. I’m glad albums like this can and do stumble into existence. *F# A# ∞* is the kind of art that puts the potential of a medium into perspective. Not because it blows things out of the water, but because it is elegantly, effortlessly different enough to open one’s eyes. It's easy to get sucked into a pretty narrow idea of what an album is, and projects like this provide a friendly slap in the face. So give it a listen. It’s a wonderfully weird spiritual trip, and the prettiest slap in the face you’ll ever receive.
 
 tracks:
   - The Dead Flag Blues

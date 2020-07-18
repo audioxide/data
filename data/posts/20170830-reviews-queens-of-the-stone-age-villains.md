@@ -82,13 +82,13 @@ score:
 author: Andrew
 
 review: >-
-  Queens of the Stone Age have enjoyed a lighter, synth-laced sound in their more recent material, and it was a roaring success in their previous album, [*…Like Clockwork*](https://audioxide.com/reviews/queens-of-the-stone-age-like-clockwork/). This trend was bound to continue with Mark Ronson’s involvement in this latest outing for the band, but in places Ronson’s sheen teeters on the overbearing cliff edge. 
+  Queens of the Stone Age have enjoyed a lighter, synth-laced sound in their more recent material, and it was a roaring success in their previous album, [*…Like Clockwork*](/reviews/queens-of-the-stone-age-like-clockwork/). This trend was bound to continue with Mark Ronson’s involvement in this latest outing for the band, but in places Ronson’s sheen teeters on the overbearing cliff edge. 
   
   Certainly in the first ten minutes, which features the lead single “The Way You Used to Do”, there’s a distinct lack of thump and a more agile bounce to the two opening tracks. It’s in no way offensive and grows on the listener with persistent listening, thanks in part to the catchy hooks in both tracks. This brighter tone reappears in “Head Like a Haunted House” later on in the track list, so it’s clear that this change in direction is more than a flirtation. 
   
   That said, the latter half of the album will likely have more of a resemblance to older QotSA material and it’s a welcome change of pace. “Un-Reborn Again” grumbles along and never outstays its welcome despite a near seven-minute playtime. Synths still tie the track together and the final two minutes, which pulls the instrumental back before letting rip with a rumbling bass and a horn section, makes for a satisfying track all round. 
   
-  There’s no shortage of variety on *Villains*. With tinges of [Bowie](<reviews/david-bowie-low/>) and dollops of pop-rock, it’s a fresh look for the band in many ways, but that doesn’t stop it from being a solid Queens album, even if I doubt it’ll ever be considered their best.
+  There’s no shortage of variety on *Villains*. With tinges of [Bowie](/reviews/david-bowie-low/) and dollops of pop-rock, it’s a fresh look for the band in many ways, but that doesn’t stop it from being a solid Queens album, even if I doubt it’ll ever be considered their best.
 
 tracks:
   - Un-Reborn Again

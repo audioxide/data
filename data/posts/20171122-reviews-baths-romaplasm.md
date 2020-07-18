@@ -8,6 +8,7 @@ tags:
   - 2010s
   - baths
   - electronic
+  - thom yorke
 featuredimage: album-artwork/romaplasm-baths.jpg
 artist: Baths
 album: Romaplasm
