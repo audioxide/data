@@ -16,6 +16,11 @@ author: fred
 blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
 
 ---
+<figure class="wide">
+  <img src="article-images/be-here-now-and-mr-hyde.jpg" alt="Drawing of late '90-era Liam Gallagher" />
+  <figcaption>Image by Frederick O'Brien</figcaption>
+</figure>
+
 Oasis’s infamous 1997 mad fer it cocaine extravaganza *Be Here Now* was re-released today, joining last week’s documentary about the band’s early years - [*Supersonic*](http://www.imdb.com/title/tt5213534/). Both have generated press, which has got me thinking about the group. I have a lot of time for Oasis, which is fairly easy to get away with. I’m also quite fond of *Be Here Now*, which is harder to justify. I like it for many of the same reasons I like the band. There’s a mangled innocence about Oasis, and their third album showcases that quite well.
 
 To nip any inadvertent apologetics in the bud: the album isn’t very good. It’s spectacularly not very good. There are the makings of a proper rock record in there, but they’re mostly scattered in rubble. That, however, is its charm. It’s an excess ride. Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in *Be Here Now*. The remaster of its lead single, “D’You Know What I Mean?”, sweeps some of the bombastics under the rug, but the video more than makes up for any retroactive modesty:
