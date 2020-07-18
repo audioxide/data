@@ -14,7 +14,7 @@ blurb: The Mirror's Edge OST is tuned perfectly to the game’s tone. Elegant, a
 ---
 
 <figure class="wide">
-  <img src="2018/04/Morrissey-lets-himself-go-e1523711937859.jpg" alt="Morrissey lets himself go" />
+  <img src="article-images/filler-featured-image.jpg" alt="Filler featured image" />
   <figcaption>Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke</figcaption>
 </figure>
 
