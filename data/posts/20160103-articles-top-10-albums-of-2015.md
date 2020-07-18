@@ -15,7 +15,7 @@ tags:
   - san fermin
   - wolf alice
 featuredimage: 2016/01/Divers.jpg
-title: Our 10 Favourite Albums of 2015
+title: Our 10 favourite albums of 2015
 author: admin
 
 ---
@@ -68,7 +68,7 @@ Another artist that has continued an already very successful career in 2015, Jam
 
 ## 5\. *My Love Is Cool* // Wolf Alice
 
-![Album artwork of 'My Love IS Cool' by Wolf Alice](album-artwork/my-love-is-cool-wolf-alice/)
+![Album artwork of 'My Love Is Cool' by Wolf Alice](album-artwork/my-love-is-cool-wolf-alice/)
 
 **Fred**
 
