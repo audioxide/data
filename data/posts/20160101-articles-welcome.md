@@ -26,7 +26,7 @@ Today marks the official launch of *Audioxide*. As readers will no doubt notice,
 
 One year in this project remains incredibly enjoyable, and to see each other’s tastes grow in conjunction with the albums we have chosen is both fascinating and immensely gratifying. And all this has just been the beginning. As we enter the New Year, Audioxide enters a new era. Album reviews will be published every Wednesday, as we alternate between new and old releases on a weekly basis, and as the year progresses we intend to develop a habit of writing evocative and interesting articles as well. Suggestions on both counts are more than welcome, and you can connect with us via [Facebook](https://www.facebook.com/audioxide/), [Twitter](https://twitter.com/audioxide), and [Instagram](https://www.instagram.com/audioxidecom/). Interaction is key for us, and we would love your input.
 
-So check out the reviews in the [archive](/reviews/), and please stay tuned—all being well there will be much, much more to come.
+So check out the reviews in the [archive](/reviews/), and please stay tuned — all being well there will be much, much more to come.
 Happy listening, from us all at *Audioxide*.
 
 André
