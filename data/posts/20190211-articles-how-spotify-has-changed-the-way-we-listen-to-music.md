@@ -80,7 +80,7 @@ So as a band you’d be making decent enough money if you manage to get around a
 
 According to IFPI’s[ 2018 Global Music Report](https://www.ifpi.org/downloads/GMR2018.pdf):
 
-‘In 2017, the global recorded music market grew by 8.1%. This was the third consecutive year of global growth and one of the highest rates of growth since IFPI began tracking the market in 1997. Revenues increased in most markets and in eight of the global top 10 markets. Driven by fans’ engagement with streaming – especially paid subscription audio streaming – digital revenues now account for more than half (54%) of the global recorded music market.’
+> ‘In 2017, the global recorded music market grew by 8.1%. This was the third     consecutive year of global growth and one of the highest rates of growth since IFPI began tracking the market in 1997. Revenues increased in most markets and in eight of the global top 10 markets. Driven by fans’ engagement with streaming – especially paid subscription audio streaming – digital revenues now account for more than half (54%) of the global recorded music market.’
 
 And [Digital Media Association’s report](https://dima.org/wp-content/uploads/2018/04/DiMA-Streaming-Forward-Report.pdf) shows that music piracy is down by more than 50% since 2018. However, the struggle of unfair competition in the music industry is endless, and Spotify has became the latest battle ground for it.
 
