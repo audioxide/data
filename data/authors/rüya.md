@@ -1,5 +1,5 @@
 ---
-name: Rüya
+name: Rüya Yönak
 links:
   twitter: ymagination_
   facebook: ymaginationcouk
