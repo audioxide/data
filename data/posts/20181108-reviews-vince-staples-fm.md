@@ -71,7 +71,7 @@ score:
 author: Andrew
 
 review: >-
-  *FM!* has been a grower for me, which is surprising given its accessibility. Whistling by at just 22 minutes, you’ll need a few listens to find more than a patchwork of contemporary hip hop. Littered with a healthy portion of features and collaborators (albeit partly made up of thirty-second teasers), the tracklist doesn’t stick to one sound long enough to become tiresome.
+  *FM!* has been a grower for me, which is surprising given its accessibility. Whistling by at just 22 minutes, you’ll need a few listens to find more than a patchwork of contemporary hip hop. Littered with a healthy portion of features and collaborators (albeit partly made up of 30-second teasers), the tracklist doesn’t stick to one sound long enough to become tiresome.
 
   Despite opening well, “Don’t Get Chipped” is the first track that catches my attention. Combining a fizzy bass and a hooky chorus, it sets the tone for the album with a moody instrumental and sharp lyrics. The Earl Sweatshirt interlude is a bittersweet moment, staying for mere seconds and yet making for one of my favourite moments on the album, it leaves me yearning for a full-length version of the track being teased, and it’s clear that all of those emotions are intentionally provoked.
 

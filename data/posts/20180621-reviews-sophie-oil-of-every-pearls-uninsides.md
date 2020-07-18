@@ -7,6 +7,9 @@ tags:
   - "18"
   - 2010s
   - sophie
+  - electronic
+  - pop
+  - art pop
 featuredimage: album-artwork/oil-of-every-pearls-un-insides-sophie.jpg
 artist: SOPHIE
 album: OIL OF EVERY PEARL'S UN-INSIDES

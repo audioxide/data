@@ -9,6 +9,7 @@ tags:
   - aphex twin
   - electronic
   - idm
+  - brian eno
 featuredimage: album-artwork/richard-d-james-album-aphex-twin.jpg
 artist: Aphex Twin
 album: Richard D. James Album

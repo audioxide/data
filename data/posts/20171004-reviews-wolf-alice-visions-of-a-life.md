@@ -6,8 +6,13 @@ type: reviews
 tags:
   - 2010s
   - "27"
-  - 27+ club
+  - 27 plus club
   - wolf alice
+  - radiohead
+  - kendrick lamar
+  - pink floyd
+  - the beatles
+  - the strokes
 featuredimage: album-artwork/visions-of-a-life-wolf-alice.jpg
 artist: Wolf Alice
 album: Visions of a Life
@@ -40,7 +45,7 @@ review: >-
   
   The calculated use of space gives Rowsell the room she needs to further colour the arrangements. The stunning standout “Don’t Delete the Kisses” is the greatest example of Rowsell using the music’s ethereal scope to her advantage, and it’s really quite beautiful. Meanwhile, the thunderous title track shows that the band don’t have to rely on production techniques to stake their claim, and it’s a fucking belter.
   
-  It’s vital to understand what *Visions* is. This is not an [*OK Computer*](/reviews/radiohead-ok-computer/) moment, nor is it a cultural beast like [*To Pimp A Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/). The record is unlikely to change the musical landscape, but that doesn’t mean it’s not an important moment. We’ve said it for years now: rock music has been getting boring for a while, and Wolf Alice are here to dispute that, intentionally or not. Even when they do simple it’s great, but what’s crucial is that they know *when* it is appropriate. They’re not here to show us what can be; they’re playing to us in order to depict the here and now. 
+  It’s vital to understand what *Visions* is. This is not an [*OK Computer*](/reviews/radiohead-ok-computer/) moment, nor is it a cultural beast like [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/). The record is unlikely to change the musical landscape, but that doesn’t mean it’s not an important moment. We’ve said it for years now: rock music has been getting boring for a while, and Wolf Alice are here to dispute that, intentionally or not. Even when they do simple it’s great, but what’s crucial is that they know *when* it is appropriate. They’re not here to show us what can be; they’re playing to us in order to depict the here and now. 
   
   The music isn’t complex, and the lyrics border on super-cheesy, but we’re all prone to over-sentimentality when in the moment. Sort of like I am, right now. *Visions of a Life* is an overwhelming triumph, and as things stand, it’s the greatest record of the year.
 
@@ -58,7 +63,7 @@ score:
 author: Fred
 
 review: >-
-  We all liked Wolf Alice’s debut, [*My Love is Cool*](<reviews/wolf-alice-my-love-is-cool/>). We liked it very much. It was imperfect and vivid and we were all excited to hear the band grow — and my haven’t they. I think *Visions of a Life* is a masterpiece. I’m utterly infatuated with everything about it. The songs, the sound, the feel, the pacing. Everything. 
+  We all liked Wolf Alice’s debut, [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool/). We liked it very much. It was imperfect and vivid and we were all excited to hear the band grow — and my haven’t they. I think *Visions of a Life* is a masterpiece. I’m utterly infatuated with everything about it. The songs, the sound, the feel, the pacing. Everything. 
   
   Genres are too small to contain what Wolf Alice achieve here. The group have talked about how they’d lived with *My Love is Cool*’s songs for years before they were put out down on record, and you could hear it. For all their character, they were almost fighting each other for attention. In *Visions of a Life* it’s clear that the songs have developed within the confines of a single creative process, and the album benefits enormously.
 

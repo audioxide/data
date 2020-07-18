@@ -7,7 +7,8 @@ tags:
   - 2010s
   - "24"
   - godspeed you black emperor
-  - post-rock
+  - post rock
+  - mogwai
 featuredimage: album-artwork/luciferian-towers-godspeed-you-black-emperor.jpg
 artist: Godspeed You! Black Emperor
 album: Luciferian Towers

@@ -7,6 +7,9 @@ tags:
   - 1970s
   - "24"
   - elvis costello
+  - punk
+  - rock
+  - jarvis cocker
 featuredimage: album-artwork/my-aim-is-true-elvis-costello.jpg
 artist: Elvis Costello
 album: My Aim Is True
@@ -75,7 +78,7 @@ author: Andrew
 review: >-
   I’m still quite amazed at how well Elvis Costello’s debut album has dodged the ravages of time. Turning 40 this year, *My Aim Is True* still sounds clean and confident, and does well at packing 12 well-defined tracks into a sub-40-minute tracklist. 
   
-  Sitting alongside the output of the likes of Graham Coxon and [Jarvis Cocker](https://audioxide.com/reviews/jarvis-cocker-jarvis/) over the last decade, Costello’s debut is inconspicuous in the best possible way, and that highlights how big an influence he’s been to artists that have come after him. While there are moments that give away its age, a majority of tracks hide it well. Moments in “Less Than Zero” feel similar to a track from the turn of the century, while several tracks open like a track of the ‘90s. It makes for an ever-changing listen that rarely lets my attention slip. 
+  Sitting alongside the output of the likes of Graham Coxon and [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/) over the last decade, Costello’s debut is inconspicuous in the best possible way, and that highlights how big an influence he’s been to artists that have come after him. While there are moments that give away its age, a majority of tracks hide it well. Moments in “Less Than Zero” feel similar to a track from the turn of the century, while several tracks open like a track of the ‘90s. It makes for an ever-changing listen that rarely lets my attention slip. 
   
   You wouldn’t know this was Costello’s debut. With an impressive overall quality, and a cohesive structure despite the variance from track to track, this could easily have been an album from a more mature artist. *My Aim Is True* has been a joy to listen to and I’ll be happily returning to it in the coming weeks.
 

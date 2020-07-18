@@ -8,7 +8,6 @@ tags:
   - "24"
   - nwa
   - hip hop
-  - rap
   - kendrick lamar
   - nas
   - eminem

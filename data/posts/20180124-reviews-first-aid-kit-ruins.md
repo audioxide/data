@@ -7,6 +7,7 @@ tags:
   - "18"
   - 2010s
   - first aid kit
+  - country
   - the simpsons
 featuredimage: album-artwork/ruins-first-aid-kit.jpg
 artist: First Aid Kit

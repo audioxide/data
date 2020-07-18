@@ -8,6 +8,7 @@ tags:
   - "23"
   - air
   - downtempo
+  - electronic
   - pop
   - portishead
 featuredimage: album-artwork/moon-safari-air.jpg

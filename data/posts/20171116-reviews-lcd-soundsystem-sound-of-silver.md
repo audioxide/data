@@ -7,8 +7,12 @@ tags:
   - 2000s
   - "26"
   - lcd soundsystem
+  - alternative rock
+  - electronic
+  - pop rock
   - talking heads
   - brian eno
+  - david bowie
 featuredimage: album-artwork/sound-of-silver-lcd-soundsystem.jpg
 artist: LCD Soundsystem
 album: Sound of Silver

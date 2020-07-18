@@ -8,6 +8,7 @@ tags:
   - "27"
   - 27 plus club
   - the be sharps
+  - barbershop
   - the simpsons
   - kirk van houten
   - pink floyd

@@ -7,6 +7,7 @@ tags:
   - 2010s
   - "22"
   - baroness
+  - metal
 featuredimage: album-artwork/gold-and-grey-baroness.jpg
 artist: Baroness
 album: Gold & Grey

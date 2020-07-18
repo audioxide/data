@@ -6,7 +6,9 @@ type: reviews
 tags:
   - "15"
   - 2010s
-  - Yo La Tengo
+  - yo la tengo
+  - folk
+  - alternative rock
 featuredimage: album-artwork/theres-a-riot-going-on-yo-la-tengo.jpg
 artist: Yo La Tengo
 album: There's a Riot Going On

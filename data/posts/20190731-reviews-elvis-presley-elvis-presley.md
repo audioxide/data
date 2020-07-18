@@ -8,6 +8,7 @@ tags:
   - "21"
   - elvis presley
   - rock
+  - blues
   - miles davis
 featuredimage: album-artwork/elvis-presley-elvis-presley.jpg
 artist: Elvis Presley

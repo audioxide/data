@@ -10,6 +10,7 @@ tags:
   - rock
   - alternative rock
   - the jimi hendrix experience
+  - psychedelia
 featuredimage: album-artwork/bottle-it-in-kurt-vile.jpg
 artist: Kurt Vile
 album: Bottle It In

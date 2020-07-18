@@ -7,6 +7,7 @@ tags:
   - "18"
   - 2010s
   - grizzly bear
+  - alternative rock
   - jefferson airplane
 featuredimage: album-artwork/painted-ruins-grizzly-bear.jpg
 artist: Grizzly Bear
@@ -58,7 +59,7 @@ review: >-
   
   It seems a production decision was made to tighten the sound and keep the dynamics narrow, which makes for a pleasant, leisurely tone, but not one that’s terribly impactful. It’s a shame, because the music deserves better. “Losing All Sense” has a strong, elegant groove. The guitar on “Cut-Out” is really very pretty. The crescendo of “Three Rings” should affect me more than it does… all these things should. That they don’t is a massive black mark on the experience. 
   
-  Where’s the vividness of [Jefferson Airplane](<reviews/jefferson-airplane-surrealistic-pillow/>), or Buffalo Springfield? That’s what they seem to want, but you can’t mesh the uninhibited colour of psychedelia with squashed, tepid production. It doesn’t work. The album can’t get beyond being a pretty, shimmering thing. Where dreamy stops and wispy begins is hard to tell, with things fading especially badly over the last few tracks. Sadly, for all its merits, *Painted Ruins* plays out like a new age near miss.
+  Where’s the vividness of [Jefferson Airplane](/reviews/jefferson-airplane-surrealistic-pillow/), or Buffalo Springfield? That’s what they seem to want, but you can’t mesh the uninhibited colour of psychedelia with squashed, tepid production. It doesn’t work. The album can’t get beyond being a pretty, shimmering thing. Where dreamy stops and wispy begins is hard to tell, with things fading especially badly over the last few tracks. Sadly, for all its merits, *Painted Ruins* plays out like a new age near miss.
 
 tracks:
   - Losing All Sense

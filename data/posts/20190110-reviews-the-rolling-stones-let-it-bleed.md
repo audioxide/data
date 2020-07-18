@@ -9,6 +9,7 @@ tags:
   - the rolling stones
   - rock
   - psychedelia
+  - blues
   - the beatles
   - jefferson airplane
   - the jimi hendrix experience
@@ -59,9 +60,9 @@ score:
 author: Fred
 
 review: >-
-  The Stones in swing is a sound seldom matched in music. *Let It Bleed *has missteps, but it spends most of its runtime swaggering around chewing a piece of wheat. This is probably the most languid Rolling Stones records I’ve listened to. It deals in folk and country almost as much as it does in rock and roll.
+  The Stones in swing is a sound seldom matched in music. *Let It Bleed* has missteps, but it spends most of its runtime swaggering around chewing a piece of wheat. This is probably the most languid Rolling Stones records I’ve listened to. It deals in folk and country almost as much as it does in rock and roll.
 
-  Big hitters like “Gimme Shelter” and “Midnight Rambler” hog much of the attention, but it’s actually the folksy numbers around them that give *Let It Bleed *its steady, frontiersman-like character. “Country Honk” skips along like a dusty hoedown, while the dry country twang of “You Got the Silver” wouldn’t sound out of place on [a Bob Dylan record](/reviews/bob-dylan-highway-61-revisited/). Mick Jagger is good value, as always. He doesn’t so much sing as run his mouth and he sounds marvellous. It’s a real gift.
+  Big hitters like “Gimme Shelter” and “Midnight Rambler” hog much of the attention, but it’s actually the folksy numbers around them that give *Let It Bleed* its steady, frontiersman-like character. “Country Honk” skips along like a dusty hoedown, while the dry country twang of “You Got the Silver” wouldn’t sound out of place on [a Bob Dylan record](/reviews/bob-dylan-highway-61-revisited/). Mick Jagger is good value, as always. He doesn’t so much sing as run his mouth and he sounds marvellous. It’s a real gift.
 
   There’s enough wrong with *Let It Bleed* for it to be a rung or two below the Stones’ best work. “Live With Me” sounds suspiciously like “Jumpin’ Jack Flash”, while “You Can’t Always Get What You Want” blunders in out of nowhere. I’ve never heard a song so pleased with itself for being the closer. For every great track there’s a perfectly good one. When it’s the Stone, isn’t that enough?
 

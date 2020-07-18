@@ -8,6 +8,8 @@ tags:
   - 2010s
   - bjork
   - electronic
+  - art pop
+  - james blake
 featuredimage: album-artwork/utopia-bjork.jpg
 artist: "Björk "
 album: Utopia

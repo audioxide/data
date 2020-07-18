@@ -7,6 +7,7 @@ tags:
   - "19"
   - 2010s
   - eels
+  - alternative rock
 featuredimage: album-artwork/the-deconstruction-eels.jpg
 artist: Eels
 album: The Deconstruction

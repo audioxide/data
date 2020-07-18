@@ -7,7 +7,7 @@ tags:
   - 2010s
   - "22"
   - mogwai
-  - post-rock
+  - post rock
   - new order
 featuredimage: album-artwork/every-countrys-sun-mogwai.jpg
 artist: Mogwai
@@ -35,9 +35,9 @@ albumMBID: a7342e9f-d2df-43ac-9c44-7a40f9c4cf98
 author: ANDRÉ
 
 review: >-
-  Whilst it doesn’t necessarily reach the heights of earlier work, *Every Country’s Sun* has everything you’d want in a Mogwai album. The sound is vast, vivid, and mostly compelling, as the band strike a fine balance between progression and familiarity. When Mogwai go massive, they erupt like a violent volcano that threatens imminent destruction — a trait that was at the forefront of 2015’s [*Atomic*](reviews/mogwai-atomic/), and a loose attribute that actually stretches back to the band’s earliest works. 
+  Whilst it doesn’t necessarily reach the heights of earlier work, *Every Country’s Sun* has everything you’d want in a Mogwai album. The sound is vast, vivid, and mostly compelling, as the band strike a fine balance between progression and familiarity. When Mogwai go massive, they erupt like a violent volcano that threatens imminent destruction — a trait that was at the forefront of 2015’s [*Atomic*](/reviews/mogwai-atomic/), and a loose attribute that actually stretches back to the band’s earliest works. 
   
-  Significantly, they are just as masterful aiming for the other end of the dynamic spectrum, and it’s these subtler, almost graceful moments where Mogwai truly sound the part. “Don’t Believe the Fife” is one such highlight, standing with the band’s best work. At times, the formula of *Sun* borders on predictable, which is understandable given this is the band’s ninth LP, but thankfully there is enough experimentation to warrant the hour-long album length. “Party in the Dark” is an early welcome surprise, rocking wistfully like a [New Order](https://audioxide.com/reviews/new-order-power-corruption-and-lies/) track, vocals ‘n all. Here Mogwai sound like a totally new band, [and to an extent they are](https://pitchfork.com/news/62114-mogwai-guitarist-john-cummings-leaves-the-band-to-pursue-his-own-musical-projects/), but the foundations always resolve back to noisy post-rock. 
+  Significantly, they are just as masterful aiming for the other end of the dynamic spectrum, and it’s these subtler, almost graceful moments where Mogwai truly sound the part. “Don’t Believe the Fife” is one such highlight, standing with the band’s best work. At times, the formula of *Sun* borders on predictable, which is understandable given this is the band’s ninth LP, but thankfully there is enough experimentation to warrant the hour-long album length. “Party in the Dark” is an early welcome surprise, rocking wistfully like a [New Order](/reviews/new-order-power-corruption-and-lies/) track, vocals ‘n all. Here Mogwai sound like a totally new band, [and to an extent they are](https://pitchfork.com/news/62114-mogwai-guitarist-john-cummings-leaves-the-band-to-pursue-his-own-musical-projects/), but the foundations always resolve back to noisy post-rock. 
   
   The band don’t evolve as much as they do mutate, but what’s most significant is that their music still sounds important, achieving a sense of scale that similar bands can only dream of reaching. Therein lies the true value of *Every Country’s Sun*: Mogwai still possess the power to soundtrack any potential apocalypse that comes our way. The music is pretty great too, as it happens.
 
@@ -57,7 +57,7 @@ author: Fred
 review: >-
   Like a fair few people, I listened to *Every Country’s Sun* for the first time on its BBC Radio 6 midnight debut, and it was a pretty enchanting experience. My fondness for the record has dimmed slightly with repeat listens, but not by much. It’s muscular enough to meet the expectations of devotees, but it’s in the gentler moments that *Sun* really... shines. (Sorry.) 
   
-  Stuart Braithwaite described the project as a kind of [‘shield’](https://consequenceofsound.net/2017/05/mogwai-announce-new-album-every-countrys-sun-share-coolverine-listen/) against [‘a very turbulent, intense period’](https://consequenceofsound.net/2017/05/mogwai-announce-new-album-every-countrys-sun-share-coolverine-listen/) in the Western world. Sympathise or not with his view, a sense of fancy and indulgence is palpable. There is something almost childlike about much of the album; boys with their toys finding solace in a soundscape playpen. The old school groove of “Crossing the Road Material” is a standout, as are the mystical odes of “1000 Foot Face”. The apocalyptic edge of [*Atomic*](<reviews/mogwai-atomic/>) thunders down from time to time as well, especially in “20 Size”. 
+  Stuart Braithwaite described the project as a kind of [‘shield’](https://consequenceofsound.net/2017/05/mogwai-announce-new-album-every-countrys-sun-share-coolverine-listen/) against [‘a very turbulent, intense period’](https://consequenceofsound.net/2017/05/mogwai-announce-new-album-every-countrys-sun-share-coolverine-listen/) in the Western world. Sympathise or not with his view, a sense of fancy and indulgence is palpable. There is something almost childlike about much of the album; boys with their toys finding solace in a soundscape playpen. The old school groove of “Crossing the Road Material” is a standout, as are the mystical odes of “1000 Foot Face”. The apocalyptic edge of [*Atomic*](/reviews/mogwai-atomic/) thunders down from time to time as well, especially in “20 Size”. 
   
   The album’s full of powerful, seductive moments, no two quite the same. This makes for pleasant listening, though it does sometimes feel symptomatic of a lack of cohesion. *Every Country’s Sun* is gorgeous for its own sake, which is plenty of gorgeous to go around, but it seems a shame not to harness the energy a little more pointedly. Maybe that’s just not Mogwai’s style, but it keeps me further away than I’d like. 
   

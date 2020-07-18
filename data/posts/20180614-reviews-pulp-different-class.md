@@ -9,6 +9,9 @@ tags:
   - jarvis cocker
   - pulp
   - britpop
+  - alternative rock
+  - pop rock
+  - pop
   - blur
   - oasis
   - radiohead

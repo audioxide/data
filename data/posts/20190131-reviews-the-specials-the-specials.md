@@ -8,6 +8,7 @@ tags:
   - "23"
   - the specials
   - 2 tone
+  - reggae
   - elvis costello
 featuredimage: album-artwork/the-specials-the-specials.jpg
 artist: The Specials

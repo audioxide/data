@@ -7,7 +7,8 @@ tags:
   - "20"
   - 2010s
   - courtney barnett
-  - indie rock
+  - alternative rock
+  - indie
   - pj harvey
 featuredimage: album-artwork/tell-me-how-you-really-feel-courtney-barnett.jpg
 artist: Courtney Barnett

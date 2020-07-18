@@ -8,6 +8,7 @@ tags:
   - "23"
   - nick cave and the bad seeds
   - alternative rock
+  - rock
 featuredimage: album-artwork/let-love-in-nick-cave-and-the-bad-seeds.jpg
 artist: Nick Cave & The Bad Seeds
 album: Let Love In

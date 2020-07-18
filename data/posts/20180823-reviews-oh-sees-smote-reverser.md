@@ -7,6 +7,8 @@ tags:
   - "19"
   - 2010s
   - oh sees
+  - alternative rock
+  - psychedelia
 featuredimage: album-artwork/smote-reverser-oh-sees.jpg
 artist: Oh Sees
 album: Smote Reverser

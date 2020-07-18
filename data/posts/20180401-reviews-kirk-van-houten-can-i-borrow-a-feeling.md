@@ -8,7 +8,9 @@ tags:
   - "20"
   - kirk van houten
   - the simpsons
+  - nine inch nails
   - pixies
+  - blues
 featuredimage: album-artwork/can-i-borrow-a-feeling-kirk-van-houten.jpg
 artist: Kirk Van Houten
 album: Can I Borrow a Feeling?
@@ -18,9 +20,9 @@ favouritetracks:
   - Microwave Dinner
   - Please Touch My Hair
 totalscore:
-  given: .nan
-  possible: null
-  fraction: .nan
+  given: 20
+  possible: 30
+  fraction: 0.66666666666667
 colours:
   - "#214c80"
   - "#fff"

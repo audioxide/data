@@ -8,6 +8,7 @@ tags:
   - "22"
   - michael jackson
   - pop
+  - pop rock
   - prince
 featuredimage: album-artwork/bad-michael-jackson.jpg
 artist: Michael Jackson
@@ -37,7 +38,7 @@ author: ANDRÉ
 review: >-
   Following an album on the sheer scale of *Thriller* is no easy task, even for the King of Pop. It took Michael Jackson five years to follow up the greatest selling album of all time, and despite showing drastic signs of age, I’d say he gave it a damn good go with *Bad*. Jackson and legendary producer Quincy Jones took a step away from disco and instead leaned towards hard dance, flirting with rock and metal, whilst allowing space for dainty ballads — standard pop procedure, but with a slight edge. 
   
-  Michael Jackson feels like a product at this point (he was a showman after all) and certain artistic moves feel slightly forced. Artists like [Prince](reviews/prince-purple-rain/) show us that pop doesn’t have to feel so artificial as it occasionally does on *Bad*. “Dirty Diana” is a riveting song, but still feels like a manufactured move lusting for approval from metalheads. “Man in the Mirror” is a beautiful ballad that ticks all the boxes, which is testament to the quality of the track as well as the formulaic nature of the songwriting across the entire record. It’s not as much criticism as it is observation, and ultimately the majority of the album sounds fantastic, and that’s all that matters. 
+  Michael Jackson feels like a product at this point (he was a showman after all) and certain artistic moves feel slightly forced. Artists like [Prince](/reviews/prince-purple-rain/) show us that pop doesn’t have to feel so artificial as it occasionally does on *Bad*. “Dirty Diana” is a riveting song, but still feels like a manufactured move lusting for approval from metalheads. “Man in the Mirror” is a beautiful ballad that ticks all the boxes, which is testament to the quality of the track as well as the formulaic nature of the songwriting across the entire record. It’s not as much criticism as it is observation, and ultimately the majority of the album sounds fantastic, and that’s all that matters. 
   
   Performances are absolutely spot on, particularly from the man himself, but instances of MIDI-overload can be a little counterproductive (the bass ‘solo’ during the chorus of “Speed Demon” is both spectacular and ridiculous). Synthetic brass sections and blocky textures are just part and parcel of the experience, and it means that *Bad* hasn’t aged quite so well as *Thriller*, or even *Off the Wall*. Even so, it remains an excellent pop album that feels very much like an architect of its time.
 

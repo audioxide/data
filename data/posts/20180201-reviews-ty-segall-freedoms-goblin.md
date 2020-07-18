@@ -8,6 +8,7 @@ tags:
   - "21"
   - ty segall
   - rock
+  - alternative rock
   - double albums
   - the beatles
   - pink floyd

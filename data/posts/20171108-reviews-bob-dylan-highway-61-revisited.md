@@ -7,6 +7,9 @@ tags:
   - 1960s
   - "26"
   - bob dylan
+  - folk
+  - blues
+  - rock
 featuredimage: album-artwork/highway-61-revisited-bob-dylan.jpg
 artist: Bob Dylan
 album: Highway 61 Revisited

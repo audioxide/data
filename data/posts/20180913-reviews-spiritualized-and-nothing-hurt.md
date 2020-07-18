@@ -8,6 +8,7 @@ tags:
   - 2010s
   - spiritualized
   - alternative rock
+  - rock
   - eels
 featuredimage: album-artwork/and-nothing-hurt-spiritualized.jpg
 artist: Spiritualized
