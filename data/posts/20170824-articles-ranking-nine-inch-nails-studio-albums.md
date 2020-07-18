@@ -44,7 +44,7 @@ Of course, it goes without saying that as a NIN fanatic I naturally enjoy the wh
 
 ## 7\. *Bad Witch* (2018)
 
-*![Album artwork of 'Bad Witch' by Nine Inch Nails](/2017/08/Bad-Witch.jpg =1000x1000)
+![Album artwork of 'Bad Witch' by Nine Inch Nails](/2017/08/Bad-Witch.jpg =1000x1000)
 
 *Bad Witch* signifies the latest era of Nine Inch Nails, and there have been some wholesale changes. The raising of children and passing of heroes has induced a much more reflective Reznor, who for the first time in NIN history is no longer the sole force behind the music. Following the success of their innovative film scores, longtime collaborator Atticus Ross finally joined the fray as an official bandmate (though if we’re being completely honest, he has more-or-less been a huge part of the NIN process ever since 2008’s *Ghosts I-IV*). Surprisingly, *Bad Witch* takes little influence from the duo’s work in film. There are traces of polish, but generally speaking the record is delightfully dirty. Industrial rock amalgamates with the avant-garde, forming a sound not to dissimilar to [David Bowie’s *Blackstar*](/reviews/david-bowie-blackstar/) (one of those aforementioned heroes, recently deceased). Indeed, Bowie’s presence is felt throughout the album, particularly on the closing track “Over and Out”, where Reznor essentially channels Ziggy Stardust himself. It’s a remarkable moment.
 
