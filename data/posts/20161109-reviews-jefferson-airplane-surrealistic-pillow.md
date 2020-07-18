@@ -8,6 +8,7 @@ tags:
   - "24"
   - jefferson airplane
   - psychedelia
+  - rock
   - the beatles
   - the jimi hendrix experience
   - the rolling stones
