@@ -6,7 +6,7 @@ type: articles
 tags:
   - david bowie
   - oasis
-featuredimage: 2016/10/Liam-e1477496839194.jpg
+featuredimage: article-images/be-here-now-and-mr-hyde.jpg
 title: Be Here Now and Mr. Hyde
 author: fred
 blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented

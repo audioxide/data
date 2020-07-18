@@ -5,7 +5,7 @@ slug: the-rise-and-rise-of-audiobooks
 type: articles
 tags:
   - audiobooks
-featuredimage: 2017/06/audiobooks-green.jpg
+featuredimage: article-images/the-rise-and-rise-of-audiobooks.jpg
 title: The Rise and Rise of Audiobooks
 author: fred
 ---
