@@ -10,7 +10,7 @@ tags:
   - jefferson airplane
   - the beatles
 featuredimage: article-images/be-here-now-and-mr-hyde.jpg
-title: Be Here Now and Mr. Hyde
+title: 'Be Here Now' and Mr. Hyde
 summary: Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
 author: fred
 blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
@@ -31,7 +31,7 @@ Glorious, no? Icarus suddenly seems a measured and modest chap. That’s the c
 
 Spencer Jones, who was responsible for *Be Here Now*‘s album cover (and plenty of other Britpop artwork), described the photoshoot as [‘*Alice in Wonderland* meets *Apocalypse Now.*’](http://www.nme.com/photos/oasis--the-stories-behind-their-cryptic-album-and-single-sleeve-art/385389#/photo/4>) The same rings true for the record in general. It oozes with a sickly mixture of fantasy and horror. By 1997 the fiction of Oasis’s image had engulfed them, and you can hear it. You’re not listening to Oasis on *Be Here Now*; you’re listening to The Biggest Band in the World. Hearing this again in re-release material reminded me of a [1978 BBC interview](https://youtu.be/laamYjSwcHI?t=41m11s) of American author Hunter S. Thompson, a man most widely known for his 1971 novel *Fear and Loathing in Las Vegas*. The book’s semi-autobiographical main character, Raoul Duke, became synonymous with Thompson himself, a blend which muddied his character:
 
-> “I’m never sure which one people expect me to be. Very often, they conflict—most often, as a matter of fact. […] I’m leading a normal life and right alongside me there is this myth, and it is growing and mushrooming and getting more and more warped. When I get invited to, say, speak at universities, I’m not sure if they are inviting Duke or Thompson. I’m not sure who to be.”
+> ‘I’m never sure which one people expect me to be. Very often, they conflict—most often, as a matter of fact. […] I’m leading a normal life and right alongside me there is this myth, and it is growing and mushrooming and getting more and more warped. When I get invited to, say, speak at universities, I’m not sure if they are inviting Duke or Thompson. I’m not sure who to be.’
 
 That dynamic of warped and mushrooming myth is unmistakable in *Be Here Now*. Early Oasis was the stuff of dreams. Working class kids coming out of nowhere with honest, aggressive rock and roll and taken into the hearts of millions. Seeing them go off the deep end carries its own kind of morbid fascination. It makes their early ‘take it or leave it’ brilliance all the more captivating. As *Pitchfork*‘s Ryan Dombal summarised beautifully in [his review of *Definitely Maybe*‘s 2014 reissue](http://pitchfork.com/reviews/albums/19258-oasis-definitely-maybe-reissue/), although Oasis ‘were terrible at being The Biggest Band in the World, […] they were amazing at *wanting* to be.’
 
