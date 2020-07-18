@@ -10,13 +10,8 @@ tags:
 featuredimage: 2018/04/Morrissey-lets-himself-go-e1523711937859.jpg
 title: The &#8217;80s according to Stewart Lee
 author: fred
-blurb: >-
-  The most miserable man in comedy has five favourite albums from
-  everyone's least favourite decade. We explore Stewart Lee's highlights of the
-  '80s
-summary: The most miserable man in comedy has five favourite albums from everyone’s
-  least favourite decade. Who could turn down a trip through ’80s music in a
-  Stewart Lee devotee vehicle? Don’t answer that.
+blurb: The most miserable man in comedy has five favourite albums from everyone's least favourite decade. We explore Stewart Lee's highlights of the '80s.
+summary: The most miserable man in comedy has five favourite albums from everyone’s least favourite decade. Who could turn down a trip through ’80s music in a Stewart Lee devotee vehicle? Don’t answer that.
 ---
 <figure class="wide">
   <img src="2018/04/Morrissey-lets-himself-go-e1523711937859.jpg" alt="Morrissey lets himself go" />
@@ -24,8 +19,11 @@ summary: The most miserable man in comedy has five favourite albums from everyon
 </figure>
 
 Stewart Lee is a fat British comedian known for his unfunny routines and holding audiences in contempt. As a smug, pseudointellectual leftist, I naturally hold Stewart Lee in sycophantic high regard, to such an extent that I actually write a little bit like he does when I’m writing about him, though less articulately.[^*]
+
 I recently read Stewart’s book *How I Escaped My Certain Fate*, in one of the pages-long footnotes of which he lists his favourite albums of the 1980s: *Handful of Earth* by Dick Gaughan, *Hex Enduction Hour* by The Fall, *Days of Wine and Roses* by The Dream Syndicate, *Pigs on Purpose* by The Nightingales, and *Prairie School Freakout* by Eleventh Dream Day.
+
 Naturally, I felt compelled to listen to all of them. Stewart Lee is quite possibly the only person on earth who looks back on the ’80s with any degree of affection, and it was clear this list held the key to why.
+
 Beneath the decadence and depravity of those years, was there some god-honest filth worth liking? Had I, a 20-something liberal arts graduate with no cultural clout, been wrong to dismiss an entire decade out of hand? With Stewart, who will henceforth be referred to as Stewie, as my spiritual guide, I was ready to find out. Prepared for the worst, I set off.
 
 ## Handful of Earth
