@@ -78,7 +78,7 @@ With the rise of digital streaming services, the music market has once again gai
 
 So as a band you’d be making decent enough money if you manage to get around a billion plays in total in a year, making up to $380,000. However, this is not a very easy mission for indie artists and an unbalanced royalties system is often why Spotify is criticised.
 
-According to IFPI’s[ 2018 Global Music Report](https://www.ifpi.org/downloads/GMR2018.pdf):
+According to IFPI’s [2018 Global Music Report](https://www.ifpi.org/downloads/GMR2018.pdf):
 
 > ‘In 2017, the global recorded music market grew by 8.1%. This was the third     consecutive year of global growth and one of the highest rates of growth since IFPI began tracking the market in 1997. Revenues increased in most markets and in eight of the global top 10 markets. Driven by fans’ engagement with streaming – especially paid subscription audio streaming – digital revenues now account for more than half (54%) of the global recorded music market.’
 
