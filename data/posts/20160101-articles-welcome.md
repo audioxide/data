@@ -16,6 +16,8 @@ tags:
 featuredimage: 2015/12/Logo-1.jpg
 title: A Letter from André
 author: andre
+blurb: This began as something very simple. After three friends review an album a week for the best part of a year, Audioxide is launched.
+
 ---
 
 This began as something very simple. Andrew, Fred, and I have been friends for close to a decade now, and have always during that time shared a passion for music. 
