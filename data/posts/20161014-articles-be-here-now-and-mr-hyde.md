@@ -13,7 +13,7 @@ featuredimage: article-images/be-here-now-and-mr-hyde.jpg
 title: Be Here Now and Mr. Hyde
 summary: Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
 author: fred
-blurb: Be Here Now is an excess ride. Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
+blurb: Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third studio album.
 
 ---
 <figure class="wide">

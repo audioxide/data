@@ -5,23 +5,19 @@ slug: keep-playing-the-fire-at-the-heart-of-whiplash
 type: articles
 tags:
   - david bowie
-  - film
-  - whiplash
-featuredimage: 2017/05/wl5.jpg
-title: "Keep Playing: the Fire at the Heart of Whiplash"
+featuredimage: article-images/filler.jpg
+title: "Keep Playing: the fire at the heart of Whiplash"
+summary: Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of *Whiplash*, the forgotten are those cowed by failure
 author: fred
-blurb: However grotesque Terence Fletcher may be, he leaves the impression
-  he does because we recognise him in ourselves and understand his value. In the
-  world of Whiplash, the forgotten are those cowed by failure.
----
-### [FRED](<https://www.youtube.com/watch?v=8oSDxMHrREg>)
-#### 09\.06.02017
-------
-*Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of *Whiplash*, the forgotten are those cowed by failure. *
-------
+blurb: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value. In the world of Whiplash, the forgotten are those cowed by failure.
 
-![Keep Playing: the Fire at the Heart of Whiplash](<2017/05/wl5.jpg> =2012x1166 "Keep Playing: the Fire at the Heart of Whiplash")
-------
+---
+
+<figure class="wide">
+  <img src="article-images/filler.jpg" alt="Richard Ashcroft performing in 2008" />
+  <figcaption>Ashcroft watching his spark float away. Photograph by Ashcroft10 on Flickr</figcaption>
+</figure>
+
 *Whiplash* hit — and shot — plenty of nerves when it was released in 2014. It lit up the year’s film awards season and will in all likelihood endure as a classic piece of cinema. But why? What about the film strikes so deep, is so morbidly absorbing? *Whiplash *is ostensibly about jazz, but its core speaks to something more fundamental than even music, and often in ways difficult to stomach. It speculates that love of a craft isn’t enough to master it; disdain for one’s shortcomings is crucial.
 Why is Terence Fletcher frightening? It isn’t because he’s mean. That would just make him unpleasant. The true power of Fletcher is that he challenges people with the possibility that where they are now is not enough. He says as much himself. His function is ‘to push people beyond what’s expected of them.’ Ominous, sure, but only to those who share its motivations, however begrudgingly. Fletcher aggressively enforces a standard Andrew Neiman, a budding young drummer, aspires to. That is the challenge he represents, and why Neiman yearns to work with him in the first place.
 A general disdain for mediocrity is hardly without precedent in music. David Bowie famously claimed he [‘always had a repulsive sort of need to be something more than human. I felt very puny as a human. I thought, ‘Fuck that. I want to be a superman.”](<http://www.theuncool.com/journalism/rs206-david-bowie/>) For a transformation of that kind to happen, dead weight needed to be cut, undesirable qualities removed. The film toys with that idea, of growing potential beyond the bounds of character. As Henry Barnes wrote in [an interview with J. K. Simmons](<https://www.theguardian.com/film/2015/jan/01/jk-simmons-whiplash-interview>), ‘Fletcher doesn’t care about [his students], he cares about their talent. And he’ll do anything to force them to realise it. Make them play and play until they hit it.’ If a talent needs to be crushed before it can take the shape of greatness, so be it.
