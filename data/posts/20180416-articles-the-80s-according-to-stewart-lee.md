@@ -12,7 +12,9 @@ title: The &#8217;80s according to Stewart Lee
 author: fred
 blurb: The most miserable man in comedy has five favourite albums from everyone's least favourite decade. We explore Stewart Lee's highlights of the '80s.
 summary: The most miserable man in comedy has five favourite albums from everyone’s least favourite decade. Who could turn down a trip through ’80s music in a Stewart Lee devotee vehicle? Don’t answer that.
+
 ---
+
 <figure class="wide">
   <img src="2018/04/Morrissey-lets-himself-go-e1523711937859.jpg" alt="Morrissey lets himself go" />
   <figcaption>Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke</figcaption>

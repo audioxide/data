@@ -6,25 +6,33 @@ type: articles
 tags:
   - audiobooks
 featuredimage: article-images/the-rise-and-rise-of-audiobooks.jpg
-title: The Rise and Rise of Audiobooks
+title: The rise and rise of audiobooks
+summary: Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings
 author: fred
----
-### [FRED](<https://www.youtube.com/watch?v=9lWKt4vxOdg>)
-#### 14\.06.02017
-------
-*Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings. *
-------
 
-![](<2017/06/audiobooks-green.jpg> =1950x1113)
-------
-Last week, the Audio Publishers Association (APA) released the [2016 sales figures for audiobooks](<https://www.audiopub.org/uploads/pdf/APAC2017PR_final.pdf>), and things are looking rosy. There has been a 33.9% increase in the number of audiobooks sold, with sales totalling $2.1 billion (£1.65 billion) in 2016. In the U.S.A. alone 67 million people listened to at least one audiobook last year. The medium is exploding, and the most remarkable thing about these figures is that they’re not terribly remarkabl — they’re the norm. 2016 was the third consecutive year in which audiobook sales increased by over 20%.
+---
+
+<figure class="wide">
+  <img src="article-images/the-rise-and-rise-of-audiobooks.jpg" alt="An audiobook version of Apple's famous coloured iPod advertising campaign" />
+  <figcaption>Image by Frederick O'Brien</figcaption>
+</figure>
+
+Last week, the Audio Publishers Association (APA) released the [2016 sales figures for audiobooks](https://www.audiopub.org/uploads/pdf/APAC2017PR_final.pdf), and things are looking rosy. There has been a 33.9% increase in the number of audiobooks sold, with sales totalling $2.1 billion (£1.65 billion) in 2016. In the U.S.A. alone 67 million people listened to at least one audiobook last year. The medium is exploding, and the most remarkable thing about these figures is that they’re not terribly remarkabl — they’re the norm. 2016 was the third consecutive year in which audiobook sales increased by over 20%.
+
 To what do audiobooks owe this success? The answer is actually quite simple: A happy wedding of circumstances and technology. Much like podcasts, audiobooks are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings. They are creating an entirely new market share by filling a space we barely notice is there: Silence.
+
 Audiobooks enjoy a practicality that their printed (or e-book) cousins cannot always match. Our eyes and hands are not always available to read a book and turn its pages, but with audiobooks they needn’t be. They allow one to read at the same time as one works, commutes, or whatever else. We spend plenty of time in our heads, so why not read there? This sits at the core of the medium’s success. According to the APA, the main reason people listen to audiobooks is “they can do other things while listening.” From car journeys to housework, audiobooks are stepping into a space previously monopolised by radio, music, and podcasts. The benefits are obvious, with 77% of listeners reporting that they get through more books thanks to the medium.
+
 In addition to being practical, their lasting success owes a great deal to their immersive possibilities. One of the top three reasons people use audiobooks is they enjoy being read to. Obviously, it depends on the book and on the narrator. The right pairing can completely transform a work, taking listeners to places they might not manage alone, or making it accessible in ways it might not otherwise be. Andy Weir’s *The Martian, *for example, works well as an audiobook because the story is structured as a series of mission logs. R. C. Bray’s performance is a perfect balance of goof and charm, and as far as the listener is concerned to listen to the book is simply to play the logs through. It almost feels wrong to receive the content in any other way.
+
 Books in the first person generally have this advantage. It enforces the dynamic where the narrator is telling you their story. Richard Armitage’s reading of Charles Dickens’ *David Copperfield* is magnificent for just this reason. Just as in the book you’re convinced it is Copperfield writing, in the audiobook you believe it’s Copperfield reading. Armitage sells it completely. The same can be said of Jeremy Irons’ reading of Vladimir Nabokov’s *Lolita*, an almost unsettlingly strong wedding of narrator and text. Some audiobooks now sell themselves as being ‘performed’ by so and so, rather than simply read, and at their best this is true. And this is hardly limited to fiction. Plenty of authors, from Barack Obama to Christopher Hitchens, have utilised audiobooks as a means of literally giving voice to their work.
+
 The medium offers a new dynamic. The author, the narrator, and the listener become partners in bringing a story to life. In the same way that Tennessee Williams’s *A Streetcar Named Desire* is now practically inseparable from its 1951 film adaptation, it is surely just a matter of time before certain audiobooks become ‘definitive’ readings.
-Like any other format, audiobooks are not without their shortcoming. The bells and whistles of a reading can inject life into a text that isn’t necessarily there otherwise. Like a film packed with headache-inducing CGI, or a [gratuitously loud](<http://www.soundonsound.com/sound-advice/dynamic-range-loudness-war>) album, there is always the potential for a tool to become a gimmick. Given the relative youth of audiobooks this isn’t much of a problem at present, but it will be something to look out for as the market saturates.
+
+Like any other format, audiobooks are not without their shortcoming. The bells and whistles of a reading can inject life into a text that isn’t necessarily there otherwise. Like a film packed with headache-inducing CGI, or a [gratuitously loud](http://www.soundonsound.com/sound-advice/dynamic-range-loudness-war) album, there is always the potential for a tool to become a gimmick. Given the relative youth of audiobooks this isn’t much of a problem at present, but it will be something to look out for as the market saturates.
+
 On a more fundamental level, one loses some control over the imagination. Stephen Fry’s conception of *Harry Potter* is different to mine. Rosamund Pike’s *Pride and Prejudice* isn’t *quite* how I would put it. The characters’ voices, the inflections of the things they say; these things are not set in stone, and with audiobooks one cedes a certain amount of creative ownership to the narrator. When the readings are as good as those mentioned here this is barely an issue, but some books are better read ‘alone.’ Not that there is any solid rule to it. One pair of ears might feel controlled where another feels supported and guided. Preferences will vary, but sometimes there is no real substitute for reading something in your own voice, in your own time. But then there is only so much of that time. So, cue audiobooks.
-Between our good friends and partners at Audible (disclaimer: they’re not really our friends, or partners) and the superb public domain work going on at [LibraVox](<http://librivox.bookdesign.biz/>), audiobooks are enjoying more exposure than ever. Audible and other services like them are making the medium highly accessible, which is all it really needs to continue growing. A good book read well is going to sell. Hopefully the medium will gain solid footing in libraries as well. There is every reason to be optimistic in this respect. Already, 27% of listeners/readers say that libraries serve as an important means of discovering new audiobooks.
+
+Between our good friends and partners at Audible (disclaimer: they’re not really our friends, or partners) and the superb public domain work going on at [LibraVox](http://librivox.bookdesign.biz/), audiobooks are enjoying more exposure than ever. Audible and other services like them are making the medium highly accessible, which is all it really needs to continue growing. A good book read well is going to sell. Hopefully the medium will gain solid footing in libraries as well. There is every reason to be optimistic in this respect. Already, 27% of listeners/readers say that libraries serve as an important means of discovering new audiobooks.
+
 Where the format is headed isn’t difficult to guess. For as long as people are still being introduced the medium’s benefits, healthy growth will continue, with success translating into more A-list productions and revived catalogues. What bodes especially well for audiobooks is that they do not need to grow at the expense of other formats. Given that their primary selling point is making more reading possible, they’re simply filling a demand that’s still being awoken to. Sales will plateau eventually, but that seems a while away yet. They will not ‘replace’ their printed cousins. Like e-books, they offer further variety to our reading habits, allowing for a wider variety of experiences and more reading. Much more reading. Here’s to that.
-*Image mine*
