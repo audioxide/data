@@ -17,7 +17,7 @@ author: fred
 ---
 
 <figure class="wide">
-  <img src="article-images/article-images/album-sides-and-beauty-from-circumstance.jpg" alt="Artwork visualising the contrasting nature of album sides" />
+  <img src="article-images/album-sides-and-beauty-from-circumstance.jpg" alt="Artwork visualising the contrasting nature of album sides" />
   <figcaption>Image by Frederick O'Brien</figcaption>
 </figure>
 
