@@ -11,7 +11,7 @@ tags:
   - major lazer
   - muse
   - oneohtrix point never
-featuredimage: album-artwork/filler-featured-image.jpg
+featuredimage: article-images/filler-featured-image.jpg
 title: Our 10 favourite tracks of 2015
 author: admin
 
