@@ -11,9 +11,10 @@ tags:
   - major lazer
   - muse
   - oneohtrix point never
-featuredimage: ""
+featuredimage: album-artwork/filler-featured-image.jpg
 title: Our 10 favourite tracks of 2015
 author: admin
+
 ---
 ## 10\. “Mortal Man” // Kendrick Lamar
 
