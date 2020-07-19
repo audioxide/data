@@ -48,7 +48,7 @@ After releasing two whole albums of syrupy Sinatra covers that nobody really wan
 
 ## 36\. *Fallen Angels* (2016)
 
-![Album artwork of 'Fallen Angels' by Bob Dylan](album-artwork/falle-angels-bob-dylan.jpg "Album artwork of 'Fallen Angels' by Bob Dylan")
+![Album artwork of 'Fallen Angels' by Bob Dylan](album-artwork/fallen-angels-bob-dylan.jpg "Album artwork of 'Fallen Angels' by Bob Dylan")
 
 The second album of Dylan’s ‘Sinatra period’ is a marginally more interesting affair, but it’s lacking a lot of inspiration. *Fallen Angels* beats *Triplicate* only by being less tediously long. “Skylark” features some nice guitar work, and “That Old Black Magic” injects some energy at the end, but the album is little more than an elderly man indulging himself.
 
