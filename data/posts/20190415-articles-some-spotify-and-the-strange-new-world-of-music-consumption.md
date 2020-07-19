@@ -6,7 +6,7 @@ type: articles
 tags:
   - spotify
   - david byrne
-featuredimage: 2019/01/Soma-Spotify-main-image.png
+featuredimage: article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg
 title: Soma, Spotify, and the brave new world of music consumption
 author: fred
 blurb: In 2012, David Byrne wrote that music risked becoming a soma-like drug. Today his concerns are closer to the truth than we would like to think.
@@ -15,17 +15,17 @@ summary: Streaming services like Spotify have revolutionised listening habits. 
 ---
 
 <figure class="wide">
-  <img src="article-images/filler-featured-image.jpg" alt="Filler featured image" />
-  <figcaption>Acme Images</figcaption>
+  <img src="article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg" alt="Filler featured image" />
+  <figcaption>Image by Frederick O'Brien</figcaption>
 </figure>
 
 In 2012 David Byrne asked whether music had become a ‘soma-like drug,’ a kind of emotional medication. He was referring to Aldous Huxley’s dystopian 1932 novel *Brave New World*, in which soma subdues society’s passions and keeps people apart. Faced with the rise of digital distribution and personal audio players, Byrne saw a similar fate awaiting music.
 
-Streaming services like Spotify were in their infancy at the time. Now they dominate the music industry, and Byrne’s concerns are more relevant than ever. Technology has revolutionised music consumption. Exploring the new terrain through the lens of *Brave New World *can help us guard against missteps. Now more than ever music is treated like a drug. If we are not careful, we risk becoming dependent.
+Streaming services like Spotify were in their infancy at the time. Now they dominate the music industry, and Byrne’s concerns are more relevant than ever. Technology has revolutionised music consumption. Exploring the new terrain through the lens of *Brave New World* can help us guard against missteps. Now more than ever music is treated like a drug. If we are not careful, we risk becoming dependent.
 
 In Huxley’s novel soma is a government-issued drug. It is the lubricant of *Brave New World*’s docile society, offering concentrated, controllable doses of instant gratification. It calms the angry and appeases potential upstarts. ‘Take a holiday from reality whenever you like, and come back without so much as a headache or a mythology.’ Taken in moderation it sounds like the perfect drug: ‘Euphoric, narcotic, pleasantly hallucinant.’ Indeed, that’s the idea. Citizens can pop pills and drift away for an hour, a lifetime, however long is needed to forget the strains of everyday life.
 
-Eighty years after *Brave New World *was published, David Byrne — of Talking Heads and big suit fame — compared Huxley’s drug to music listening habits in the digital age. In his book *How Music Works *he wrote:
+Eighty years after *Brave New World* was published, David Byrne — of Talking Heads and big suit fame — compared Huxley’s drug to music listening habits in the digital age. In his book *How Music Works *he wrote:
 
 > In *Brave New World*, Aldous Huxley imagined a drug called soma that blissed everyone out. It was like taking a holiday, and you could regulate the length of the holiday by the dosage. Has technology turned music into a soma-like drug? Is it a pill you take that is guaranteed to generate a desired emotion — bliss, anger, tranquility?
 
@@ -43,15 +43,15 @@ Music is a cathartic medium. Through it we find shared experiences, common goals
 
 Byrne’s concerns stemmed from the idea that music could be treated as a kind of supplement, a drug with which we banish turbulent thoughts and feelings at three minutes a hit. As the Controller says, we leave mess behind. ‘What suffocating intimacies, what dangerous, insane, obscene relationships’ we shed. The poor schmucks of the past ‘were forced to feel strongly.’ Now we can drown out the voices before they even become a whisper.
 
-As with soma, this is made possible by the immediate gratification music streaming services allow. The controllers of *Brave New World *knew this well. ‘Feeling lurks in that interval of time between desire and consummation.’ Tension gives rise to action, be it destructive or constructive, but Spotify limits the opportunity for that process to play out.
+As with soma, this is made possible by the immediate gratification music streaming services allow. The controllers of *Brave New World* knew this well. ‘Feeling lurks in that interval of time between desire and consummation.’ Tension gives rise to action, be it destructive or constructive, but Spotify limits the opportunity for that process to play out.
 
-There was a time when access to music was limited. Bob Dylan had to travel for years to hear the music that lured him out of himself. Nowadays no time need pass between a feeling and the ‘treatment’ of that feeling by music. Sad? Whack on the ‘Sad’ playlist. Got a crush? Four hours of ‘’80s Love Songs’ await. In *Brave New World *a riot is quelled with a ‘portable Synthetic Music Box.’ Today all we need is an iPod. And what’s worse, we do it to ourselves.
+There was a time when access to music was limited. Bob Dylan had to travel for years to hear the music that lured him out of himself. Nowadays no time need pass between a feeling and the ‘treatment’ of that feeling by music. Sad? Whack on the ‘Sad’ playlist. Got a crush? Four hours of ‘’80s Love Songs’ await. In *Brave New World* a riot is quelled with a ‘portable Synthetic Music Box.’ Today all we need is an iPod. And what’s worse, we do it to ourselves.
 
 As with the stupor of opium, soma is an insular experience. The only communal purpose it serves is in helping people tolerate their lot — and each other. It serves the mood of the individual. So too with music, and the rise of playlists reflects that. [Playlists surpassed albums in popularity in 2016](<https://www.bbc.co.uk/news/entertainment-arts-37444038>). Spotify literally has playlists that cater to generic moods. Here lies a dose of melancholy, there of adventure. It has even started to [learn the moods of its listeners based on listening habits](<https://www.theguardian.com/commentisfree/2018/sep/16/spotify-can-tell-if-youre-sad-heres-why-that-should-scare-you>).
 
 Dependency is valuable. Get too used to holidays and one comes to rely on them. Three grammes of soma can send you ‘for a dark eternity on the moon.’ Is that so different to a trip to the [*Dark Side of the Moon*](<reviews/pink-floyd-the-dark-side-of-the-moon/>)? The result is the same. Need a tranquilliser? Hallucinogens? Stimulants? Whatever you like, it’s in the bottle somewhere. A dose of Spotify a day keeps the blues away.
 
-The other key aspect of modern music consumption forewarned by *Brave New World *is the disposability of the artist. Authorship is unimportant. Music in *Brave New World *is a science, not an art. At one point the book describes London’s Bureaux of Propaganda by Synthetic Voice and Music. ‘Above were the research laboratories and the padded rooms in which Sound-Track Writers and Synthetic Composers did their delicate work.’ Not so outlandish in a time when [Spotify is developing AI that composes music](<https://www.fastcompany.com/40439000/why-did-spotify-hire-this-expert-in-music-making-ai>).
+The other key aspect of modern music consumption forewarned by *Brave New World* is the disposability of the artist. Authorship is unimportant. Music in *Brave New World* is a science, not an art. At one point the book describes London’s Bureaux of Propaganda by Synthetic Voice and Music. ‘Above were the research laboratories and the padded rooms in which Sound-Track Writers and Synthetic Composers did their delicate work.’ Not so outlandish in a time when [Spotify is developing AI that composes music](<https://www.fastcompany.com/40439000/why-did-spotify-hire-this-expert-in-music-making-ai>).
 
 Feeling is much more important than meaning in *Brave New World*. Meaning gives rise to questions of meaninglessness, which are again inconvenient. As Huxley puts it, music in *Brave New World* appeals not to the mind but the ‘bowels of compassion.’
 
