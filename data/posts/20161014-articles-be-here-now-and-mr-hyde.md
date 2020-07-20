@@ -12,10 +12,10 @@ tags:
   - jefferson airplane
   - the beatles
 featuredimage: article-images/be-here-now-and-mr-hyde.jpg
-title: Be Here Now and Mr. Hyde
+title: "&#8220;Be Here Now&#8221; and Mr. Hyde"
 summary: Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
 author: fred
-blurb: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third studio album.
+blurb: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album.
 
 ---
 <figure class="wide">
@@ -35,7 +35,7 @@ Spencer Jones, who was responsible for *Be Here Now*‘s album cover (and plen
 
 > ‘I’m never sure which one people expect me to be. Very often, they conflict—most often, as a matter of fact. […] I’m leading a normal life and right alongside me there is this myth, and it is growing and mushrooming and getting more and more warped. When I get invited to, say, speak at universities, I’m not sure if they are inviting Duke or Thompson. I’m not sure who to be.’
 
-That dynamic of warped and mushrooming myth is unmistakable in *Be Here Now*. Early Oasis was the stuff of dreams. Working class kids coming out of nowhere with honest, aggressive rock and roll and taken into the hearts of millions. Seeing them go off the deep end carries its own kind of morbid fascination. It makes their early ‘take it or leave it’ brilliance all the more captivating. As *Pitchfork*‘s Ryan Dombal summarised beautifully in [his review of *Definitely Maybe*‘s 2014 reissue](http://pitchfork.com/reviews/albums/19258-oasis-definitely-maybe-reissue/), although Oasis ‘were terrible at being The Biggest Band in the World, […] they were amazing at *wanting* to be.’
+That dynamic of warped and mushrooming myth is unmistakable in *Be Here Now*. Early Oasis was the stuff of dreams. Working class kids coming out of nowhere with honest, aggressive rock and roll and taken into the hearts of millions. Seeing them go off the deep end carries its own kind of morbid fascination. It makes their early ‘take it or leave it’ brilliance all the more captivating. As *Pitchfork*‘s Ryan Dombal summarised beautifully in [his review of *Definitely Maybe*’s 2014 reissue](http://pitchfork.com/reviews/albums/19258-oasis-definitely-maybe-reissue/), although Oasis ‘were terrible at being The Biggest Band in the World, […] they were amazing at *wanting* to be.’
 
 In [a recent interview with Mat Whitecross](http://lwlies.com/interviews/liam-gallagher-supersonic-oasis/), the director of *Supersonic,* Liam Gallagher says that, ‘What we did in three years took [the Beatles](/reviews/the-beatles-revolver/) eight.’ You can shrug it off as Liam grandstanding, you can argue about quality, but he’s right. The rise and fall between [*Definitely Maybe*](/reviews/oasis-definitely-maybe/) and *Be Here Now* was almost exactly three years. Such a complete story of success, adoration, and implosion took bands like [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/) almost twenty years to achieve. The sound and fury of Oasis’s 1997 burnout is the stuff of proper spectacle, and was in many respects the only appropriate follow-up to *(What’s the Story) Morning Glory?* Indeed, every album since *Be Here Now,* for all the standalone hits they boast, has felt like further epilogue to what Oasis achieved between 1994 and 1996.
 

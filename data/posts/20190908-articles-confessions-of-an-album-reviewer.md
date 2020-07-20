@@ -6,7 +6,7 @@ type: articles
 tags: []
 featuredimage: article-images/confessions-of-an-album-reviewer.jpg
 title: Confessions of an album reviewer
-summary: For reasons known not even to himself, Fred disparages the memory of George Orwell’s essay ‘Confessions of a Book Reviewer’. Scathing reviews of this piece are welcome and deserved
+summary: For reasons known not even to himself, Fred disparages the memory of George Orwell’s essay ‘Confessions of a Book Reviewer’
 author: fred
 blurb: For reasons known not even to himself, Fred decides to disparage the memory of George Orwell's essay 'Confessions of a Book Reviewer'.
 
