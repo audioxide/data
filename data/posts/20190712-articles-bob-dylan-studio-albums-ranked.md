@@ -12,7 +12,7 @@ tags:
   - the jimi hendrix experience
   - elvis costello
   - u2
-featuredimage: mr-tambourine-fan-bob-dylans-studio-albums-ranked.jpg
+featuredimage: article-images/mr-tambourine-fan-bob-dylans-studio-albums-ranked.jpg
 title: "Mr. Tambourine Fan: Bob Dylan&#8217;s studio albums ranked"
 summary: Who would be mad enough to single-handedly rank Bob Dylan's 38 studio albums? Why, me of course
 author: charlie-clissitt
