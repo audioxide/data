@@ -6,12 +6,19 @@ type: articles
 tags:
   - spotify
   - major lazer
-featuredimage: 2019/01/spencer-imbrock.jpg
+featuredimage: how-spotify-has-changed-the-way-we-listen-to-music.jpg
 title: How Spotify has changed the way we listen to music
-summary: Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker.
+summary: Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker
 author: ruya
 blurb: Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, it has become the definitive tastemaker.
+
 ---
+
+<figure class="wide">
+  <img src="article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg.jpg" alt="Girl standing in front of musical themed neon signs" />
+  <figcaption></figcaption>
+</figure>
+
 From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and access new music.
 
 No more searching for unknown artists in record shops, asking your friend group to learn about new tunes, buying music magazines or downloading full albums illegally on Limewire until you find something new you like. You don’t even need to search the web, and keep up with millions of different music publications.
