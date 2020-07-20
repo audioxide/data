@@ -7,7 +7,7 @@ tags:
   - solar fields
   - the music of games
 featuredimage: article-images/keep-faith-the-music-of-mirrors-edge.jpg
-title: "Keep Faith: the music of &#8220;Mirror&#8217;s Edge&#8221;"
+title: "Keep Faith: the music of &#8216;Mirror&#8217;s Edge&#8217;"
 summary: This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.
 author: fred
 blurb: The Mirror's Edge OST is tuned perfectly to the game’s tone. Elegant, adaptive, and constantly on the move, it is proper parkour music.

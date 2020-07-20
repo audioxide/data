@@ -6,7 +6,7 @@ type: articles
 tags:
   - david bowie
 featuredimage: article-images/filler.jpg
-title: "Keep Playing: the fire at the heart of Whiplash"
+title: "Keep Playing: the fire at the heart of &#8216;Whiplash&#8217;"
 summary: Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of *Whiplash*, the forgotten are those cowed by failure
 author: fred
 blurb: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value. In the world of Whiplash, the forgotten are those cowed by failure.
