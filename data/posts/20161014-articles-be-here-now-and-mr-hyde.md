@@ -12,7 +12,7 @@ tags:
   - jefferson airplane
   - the beatles
 featuredimage: article-images/be-here-now-and-mr-hyde.jpg
-title: "&#8220;Be Here Now&#8221; and Mr. Hyde"
+title: "&#8216;Be Here Now&#8217; and Mr. Hyde"
 summary: Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
 author: fred
 blurb: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album.
