@@ -20,14 +20,18 @@ tags:
   - kendrick lamar
   - mia
   - new order
-featuredimage: 2018/08/Statsioxide.jpg
+featuredimage: statsioxide-our-first-150-reviews-in-numbers.jpg
 title: "Statsioxide: our first 150 reviews in numbers"
-summary: Reviews make a lot more sense when they’re put into context. Having recently passed a bit of a milestone, we thought it was high time for some statistics. What’s our favourite genre? Which records cracked the 27+ Club? Who’s the most miserable reviewer? All will be revealed below.
+summary: Reviews make a lot more sense when they’re put into context. Having recently passed a bit of a milestone, we thought it was high time for some statistics. What’s our favourite genre? Which records cracked the 27+ Club? Who’s the most miserable reviewer? All will be revealed
 author: fred
-blurb: Reviews make a lot more sense when they can be put into context. After
-  passing 150 albums reviewed we thought it was high time to look at some
-  statistics.
+blurb: Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at the statistics.
 ---
+
+<figure class="wide">
+  <img src="statsioxide-our-first-150-reviews-in-numbers.jpg" alt="Morrissey lets himself go" />
+  <figcaption></figcaption>
+</figure>
+
 We’ve been [reviewing an album a week for over three years now](/reviews/). There have been lulls, bumps in the road, but we’ve finally got 150 under our belt. To celebrate the milestone we took some cues from [Statstano](http://www.statstano.com/) and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.
 
 ## Average scores

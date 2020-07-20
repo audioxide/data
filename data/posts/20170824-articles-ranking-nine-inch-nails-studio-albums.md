@@ -74,7 +74,7 @@ Once you dig a little deeper however, additional layers begin to emerge. After a
 
 ## 5\. *The Slip* (2008)
 
-![Bad Album artwork of 'The Slip' by Nine Inch Nails](album-artwork/the-slip-nine-inch-nails.jpg "Album artwork of 'The Slip' by Nine Inch Nails")
+![Album artwork of 'The Slip' by Nine Inch Nails](album-artwork/the-slip-nine-inch-nails.jpg "Album artwork of 'The Slip' by Nine Inch Nails")
 
 Despite being an incredibly solid set of songs, *The Slip* is possibly the least talked about album in the Nine Inch Nails discography, and definitely deserves more respect. After *Year Zero*, a concept album heavy on political commentary, and *Ghosts I-IV*, a sprawling directory of moods and almost-songs, Reznor dialled down the need for novelty here, focusing instead on his extraordinary capacity for constructing industrial rock belters. “1,000,000” opens the record with a thrash, before steaming into the intense, vigorous brawl of “Letting You”, both benefiting from the fierce, yet controlled, drumming of Joshua Freese. *The Slip* opens with intent, and a refreshing degree of simplicity. “Discipline” is one of Reznor’s finest pop-rock songs, its booming beat cooled down expertly by delicate piano and bouncy vocals, working its way to a brilliant breakdown that stands out as one of album’s finest moments. Though “Echoplex” is a slight smear on proceedings, the mangled riffs on “Head Down” immediately retain momentum, stroked with a vivid greyness. The opening 20 minutes or so of *The Slip* may not compete with the visceral virtuosity of Reznor’s earlier work, but it’s one of the most focused segments of the whole discography.
 
@@ -84,7 +84,7 @@ As an intentional inverse, the second half offers listeners a chance to reflect 
 
 ## 4\. *Year Zero* (2007)
 
-![Bad Album artwork of 'Year Zero' by Nine Inch Nails](album-artwork/year-zero-nine-inch-nails.jpg "Album artwork of 'Year Zero' by Nine Inch Nails")
+![Album artwork of 'Year Zero' by Nine Inch Nails](album-artwork/year-zero-nine-inch-nails.jpg "Album artwork of 'Year Zero' by Nine Inch Nails")
 
 While it’s by no means the greatest Nine Inch Nails record, the origin of *Year Zero* is representative of Reznor’s inventiveness and creativity. What started as a small experiment with a laptop ended as a vast project: a fully-fledged record, a remix album, and an alternate reality game, with the added potential of film or television content. The *Year Zero* project is also one of the several endeavors that Reznor had started but never quite finished, which is another common characteristic. The intrigue around *Year Zero* endures to this day, and its political proclamations have become more poignant than ever. Narrative is part and parcel of most NIN albums, but this was the first time Reznor had ever breached the surface of politics and sociology. In 1996, Reznor stated that the idea of politics was ‘uninteresting’ to him – 10 years later, he’s painting a dystopian future whilst taking a swipe at current World leaders. Such a drastic change in attitude is a positive reflection of his sobriety, but it’s also a sign of maturity as a citizen, and confidence as an artist.
 
@@ -94,7 +94,7 @@ The promotional strategy for *Year Zero* was mysterious, often complex, and stil
 
 ## 3\. *Pretty Hate Machine* (1989)
 
-![Bad Album artwork of 'Pretty Hate Machine' by Nine Inch Nails](album-artwork/pretty-hate-machine-nine-inch-nails.jpg "Album artwork of 'Pretty Hate Machine' by Nine Inch Nails")
+![Album artwork of 'Pretty Hate Machine' by Nine Inch Nails](album-artwork/pretty-hate-machine-nine-inch-nails.jpg "Album artwork of 'Pretty Hate Machine' by Nine Inch Nails")
 
 It’s practically impossible for me, a 24-year old, to adequately describe the full influence that *Pretty Hate Machine* had on teenagers growing up in the late ’80s and early ’90s. The debut Nine Inch Nails album meant a great deal to those craving a certain type of rock star, one who wasn’t afraid to show his vulnerable side. Reznor’s lyrics are youthful, naïve, sometimes even petty – unavoidable qualities of any young adult who was still finding their way in the World. Feeling like his best days are already behind him, Reznor demands an apology from God on “Terrible Lie” and laments lost love on “Something I Can Never Have”. The lyrics aren’t exactly elegant, particularly some of the lines on “The Only Time” and “That’s What I Get”, but the simplicity is essential in reflecting the strain and frustration that would continue to haunt Reznor for years to come. It’s not perfect, but nothing is, and that’s precisely the point.
 
@@ -106,7 +106,7 @@ Yet *Pretty Hate Machine*, for all its emotional turmoil, is the catchiest album
 
 ## 2\. *The Fragile* (1999)
 
-![Bad Album artwork of 'The Fragile' by Nine Inch Nails](album-artwork/the-fragile-nine-inch-nails.jpg "Album artwork of 'The Fragile' by Nine Inch Nails")
+![Album artwork of 'The Fragile' by Nine Inch Nails](album-artwork/the-fragile-nine-inch-nails.jpg "Album artwork of 'The Fragile' by Nine Inch Nails")
 
 In many ways, The* Fragile* is the ultimate Nine Inch Nails experience. With an overall running length of 100+ minutes, it’s a profoundly challenging work, but likewise a thoroughly rewarding one. *The Fragile* is capable of rousing the listener in a multitude of ways: “Somewhat Damaged” awakens a sense of adrenaline you thought wasn’t even possible, whereas “The Great Below” lulls you into a state of dejection and despair, albeit a meditative one. For all his talent and craft, Reznor’s emotion palette can seem rather limited, but *The Fragile* is a splendid showcase of his ability to deliver extreme instances of both anger and misery. It’s a sonic workout of raw emotion; often exhausting, but always compelling. The songs feel like genuine constructions that tower over the listener; masses of elements layered on top of each other, edging towards breaking point. Occasionally, it’s too late – “La Mer” feels like Reznor’s sonic structure has already shattered into tiny pieces following the ferocious fracas of “No, You Don’t”. *The Fragile* is a crushing mechanism, built to reflect the vulnerability of Reznor’s personal capacity. His despair is perpetual, and perversely limitless: as the intense ferocity of “Just Like You Imagined” finally fizzles out, the audible remains fades into the next track, tellingly titled “Even Deeper”.
 
@@ -116,7 +116,7 @@ For many fans, *The Fragile* is Reznor’s magnum opus. I don’t begrudge anyon
 
 ## 1\. *The Downward Spiral* (1994)
 
-![Bad Album artwork of 'The Downward Spiral' by Nine Inch Nails](album-artwork/the-downward-spiral-nine-inch-nails.jpg "Album artwork of 'The Downward Spiral' by Nine Inch Nails")
+![Album artwork of 'The Downward Spiral' by Nine Inch Nails](album-artwork/the-downward-spiral-nine-inch-nails.jpg "Album artwork of 'The Downward Spiral' by Nine Inch Nails")
 
 *The Downward Spiral* is Reznor’s masterpiece. My emotional connection with the album goes so deep that even the prospect of discussing it prompts an attack of anxiety and apprehension. I hold *The Downward Spiral* closer to my heart than any other record I own. As I alluded to in our retrospective review back in 2015, the album provides a form of therapy for those in emotional turmoil. *The Downward Spiral* has recovered me from the brink more than once, and I’m willing to bet it has proved the perfect antidote for thousands of other despondent listeners who were spiralling down towards the bottom and heading straight for self-destruction. A common criticism of *The Downward Spiral* is that it romanticises depression and anxiety, but I disagree entirely: if anything, the record serves as a reminder that, even when humans are at an emotional low point, they are still capable of channeling their energy and creating something as beautiful as this. The record has taught me many things, but above all else, it serves as a reminder that music can often be the purest form of human expression.
 
