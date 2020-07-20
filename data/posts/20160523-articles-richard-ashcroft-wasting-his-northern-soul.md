@@ -12,7 +12,7 @@ tags:
   - pulp
   - spiritualized
   - britpop
-featuredimage: 2016/05/Richard-Ashcroft.jpg
+featuredimage: article-images/richard-ashcroft-wasting-northern-soul.jpg
 title: Richard Ashcroft is wasting his northern soul
 author: andre
 blurb: There’s very little on These People to inspire much interest. Even die-hard fans will struggle to hear Richard Ashcroft at his best.
@@ -20,7 +20,7 @@ blurb: There’s very little on These People to inspire much interest. Even die-
 ---
 
 <figure class="wide">
-  <img src="article-images/filler.jpg" alt="Richard Ashcroft performing in 2008" />
+  <img src="article-images/richard-ashcroft-wasting-northern-soul.jpg" alt="Richard Ashcroft performing in 2008" />
   <figcaption>Ashcroft watching his spark float away. Photograph by Ashcroft10 on Flickr</figcaption>
 </figure>
 
