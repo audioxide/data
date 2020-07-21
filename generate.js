@@ -210,24 +210,42 @@ const resolveImageSizes = ({ variations, sizes }) => Object.entries(sizes)
         })));
 
 const resolveAuthor = (obj) => {
-    if ('author' in obj) {
-        const author = obj.author.toLowerCase();
+    const resolveSingle = (ref) => {
+        const author = ref.toLowerCase();
         const deburred = deburr(author);
         if (author in data.authors) {
-            obj.author = { ...data.authors[author], slug: author };
-            return;
+            return { ...data.authors[author], slug: author };
         }
         if (deburred in data.authors) {
-            obj.author = { ...data.authors[deburred], slug: deburred };
-            return;
+            return { ...data.authors[deburred], slug: deburred };
         }
+        let authorObj;
         Object.entries(data.authors).some(([key, value]) => {
             if (deburr(key) === deburred) {
-                obj.author = { ...value, slug: key };
+                authorObj = { ...value, slug: key };
                 return true;
             }
             return false;
         });
+        return authorObj;
+    }
+    switch(typeof obj.author) {
+        case 'object':
+            if (Array.isArray(obj.author)) {
+                // An array of multiple authors, resolve any string values
+                obj.author = obj.author
+                    .map(ref => typeof ref === 'string' ? resolveSingle(ref) : ref);
+                return;
+            }
+            // Maybe this has already been resolved? Unlikely; no-op
+            return;
+        case 'string':
+            // Single author, original use case
+            // TODO: Should we return an array here too for consistency?
+            obj.author = resolveSingle(obj.author);
+            return;
+        default:
+            // No-op, we can't resolve this
     }
 }
 
