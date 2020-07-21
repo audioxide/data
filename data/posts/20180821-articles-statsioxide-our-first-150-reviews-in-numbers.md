@@ -39,7 +39,7 @@ We’ve been [reviewing an album a week for over three years now](/reviews/). Th
 First things first: average scores. The three of us each assign a personal score out of 10 to the album we’re reviewing. Those three are then combined into an overall score out of 30. We all need to like an album for it to score well. It also takes more than one of us disliking an album for it to do badly.
 Below you can see the breakdown of scores across our first 150 reviews:
 
-![Overall review scores](/2018/08/Overall-review-scores.png =1340x659)
+![Overall scores from Audioxide's first 150 album reviews](article-images/statsioxide-150-overall-scores.jpg)
 
 Without getting into the types of reviews, the average score of our first 150 reviews has been **21\.53 out of 30** (or 7.18 out of 10).
 
@@ -47,7 +47,7 @@ Of the 150 albums we’ve reviewed, 77 were new releases. The average of new rel
 
 The remaining 73 were oldies — retrospective reviews of old favourites, supposed classics, and random picks. The average score of oldie reviews was **23\.22 out of 30** (or 7.74 out of 10).
 
-![New release scores by year](/2018/08/New-release-scores-by-year.png =1441x676)
+![New release scores by year from Audioxide's first 150 album reviews](article-images/statsioxide-150-scores-by-year.jpg)
 
 How does that see us compare to the likes of [*Pitchfork*](https://pitchfork.com/) and Anthony Fantano of [The Needle Drop](https://www.youtube.com/theneedledrop)? Our overall average is almost exactly the same as *Pitchfork*’s 7.19, but it’s comfortably higher than Fantano’s 6.25. That said, given Fantano only assigns scores to new releases, our own new releases score is a fairer comparison. On that front Fantano still scores lower on average than we do, but only by 0.4.
 
@@ -55,7 +55,7 @@ How does that see us compare to the likes of [*Pitchfork*](https://pitchfork.com
 
 Our individual scores are where things start to fragment a little. We’ve each settled into a role of sorts for our reviews, and that bears out in the numbers.
 
-![Individual review score averages](/2018/08/Individual-review-score-averages.png =1146x588)
+![Individual review score averages](article-images/statsioxide-150-individual-averages.jpg)
 
 [André](https://twitter.com/andredack) is the most forgiving of new releases, while [Andrew](https://twitter.com/andrewbridge) has the highest average for oldies. Andrew also has the highest overall average: 7.26. [Fred](https://twitter.com/thewhalelines) confirmed his status as resident grinch by having the lowest average score across the board.
 
@@ -69,7 +69,7 @@ All worthy works to be sure.
 
 The three of us accounted for 425 of the first 450 individual summaries on the site, but sometimes life gets in the way. When one of us couldn’t make it, friends would step in. Our guest writers contributed as follows:
 
-![Guest writers](/2018/08/Guest-writers.png =768x246)
+![Guest writers](article-images/statsioxide-150-guest-reviewers.jpg)
 
 Most of the absences were Fred, who disappeared for four months in early 2017. As far as we can tell he enjoyed his time away, but it didn’t do much to improve his scores.
 
@@ -114,11 +114,11 @@ The lowest rated album to date is [*AIM*](/reviews/mia-aim/) by Mia, a new relea
 
 Rock has been by far and away our favourite genre to review. **81 of our first 150 albums were rock albums.** The second highest genre was electronic clocking in with 23, with hip hop in third with 15.
 
-![Genres reviewed](/2018/08/Genres-reviewed.png =1085x668)
+![Genres reviewed](article-images/statsioxide-150-genres.jpg)
 
 Rock was also our highest rated genre, with an average score of 21.94. Hip hop was a close second with 21.73, while the mishmash of ‘other’ genres came third with 21.98. Electronic did comparatively poorly, which was a little surprising. A good few of our favourite albums so far have been electronic. Our snobbishness was laid bare in regard to pop albums, which averaged 19.42.
 
-![Average score by genre](/2018/08/Average-Score-by-Genre.png =1295x632)
+![Average score by genre](article-images/statsioxide-150-genre-averages.jpg)
 
 As for region, 50% of albums reviewed were by artists from the United States (averaging 21.55) with a further 34.7% from England (averaging 21.46). The remaining 15.3% were a mix of Canada, Scotland, Australia, France, Iceland (read: [Bjork](/reviews/bjork-homogenic/)), Ireland, Norway, Jamaica, New Zealand, Belgium, and Sweden.
 
