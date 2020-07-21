@@ -7,7 +7,7 @@ tags:
   - fallout
   - industrial
   - electronic
-featuredimage: article-images/the-music-of-fallout-3.jpg
+featuredimage: article-images/the-music-of-fallout-3-vault-boy.jpg
 title: "World On Fire: the Music of &#8216;Fallout 3&#8217;"
 summary: This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game
 author: fred
@@ -16,7 +16,7 @@ blurb: From Galaxy News Radio to the old-school homages of Inon Zur's ambient so
 ---
 
 <figure class="wide">
-  <img src="article-images/the-music-of-fallout-3.jpg" alt="Vault Boy holding an old fashioned radio" />
+  <img src="article-images/the-music-of-fallout-3-vault-boy.jpg" alt="Vault Boy holding an old fashioned radio" />
   <figcaption>Image by Frederick O'Brien</figcaption>
 </figure>
 
