@@ -22,13 +22,13 @@ tags:
   - new order
 featuredimage: article-images/statsioxide-our-first-150-reviews-in-numbers.jpg
 title: "Statsioxide: our first 150 reviews in numbers"
-summary: Reviews make a lot more sense when they’re put into context. Having recently passed a bit of a milestone, we thought it was high time for some statistics. What’s our favourite genre? Which records cracked the 27+ Club? Who’s the most miserable reviewer? All will be revealed
+summary: Having recently passed a bit of a milestone, we thought it was high time for some statistics. What’s our favourite genre? Which records cracked the 27+ Club? Who’s the most miserable reviewer? All will be revealed
 author: fred
 blurb: Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at the statistics.
 ---
 
 <figure class="wide">
-  <img src="article-images/statsioxide-our-first-150-reviews-in-numbers.jpg" alt="Morrissey lets himself go" />
+  <img src="article-images/statsioxide-our-first-150-reviews-in-numbers.jpg" alt="Collage of 150 album covers" />
   <figcaption></figcaption>
 </figure>
 
