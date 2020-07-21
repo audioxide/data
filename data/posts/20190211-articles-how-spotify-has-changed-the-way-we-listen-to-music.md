@@ -15,7 +15,7 @@ blurb: Spotify has revolutionised how we consume music. From mood playlists to m
 ---
 
 <figure class="wide">
-  <img src="article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg.jpg" alt="Girl standing in front of musical themed neon signs" />
+  <img src="article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg" alt="Girl standing in front of musical themed neon signs" />
   <figcaption></figcaption>
 </figure>
 
