@@ -47,7 +47,7 @@ The previous decade has been the most prolific, intensively creative period in T
 
 ### *Migration* // Bonobo
 
-![Album artwork of 'Migration' of Bonobo](<2017/12/Migration.jpg> =500x500)
+![Album artwork of 'Migration' by Bonobo](<2017/12/Migration.jpg> =500x500)
 
 Bonobo, lesser known as Simon Green, has become cemented within the oeuvre of modern downtempo as a pioneer and centralising force of the genre. With the modern masterpiece of *Black Sands* the veteran set his own standards so high that *The North Borders*, an entirely serviceable and enjoyable album, comes off as mildly disappointing. 
 

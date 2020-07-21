@@ -15,7 +15,7 @@ tags:
   - saul williams
   - solange
 featuredimage: 2016/12/radiohead-daydreaming-music-video-paul-thomas-anderson-new-album-sunday.png
-title: Our 10 Favourite Albums of 2016
+title: Our 10 favourite albums of 2016
 author:
   - andrew
   - fred
