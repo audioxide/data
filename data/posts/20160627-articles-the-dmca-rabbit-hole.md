@@ -4,10 +4,9 @@ modified: 2018-02-08T21:09:49.000Z
 slug: the-dmca-rabbit-hole
 type: articles
 tags:
-  - DMCA
-  - YouTube
+  - david byrne
 featuredimage: article-images/the-dmca-rabbit-hole.jpg
-title: The DMCA Rabbit Hole
+title: The DMCA rabbit hole
 author: fred
 blurb: Debate surrounding DMCA reform requires nuance and flexibility, not trench warfare bullshitting.
 

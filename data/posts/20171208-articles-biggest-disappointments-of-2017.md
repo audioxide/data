@@ -8,7 +8,7 @@ tags:
   - bonobo
   - the flaming lips
 featuredimage: 2017/12/the-flaming-lips.jpg
-title: Our Biggest Disappointments of 2017
+title: Our biggest disappointments of 2017
 author:
   - andre
   - michael
