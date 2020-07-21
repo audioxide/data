@@ -8,6 +8,7 @@ tags:
   - boards of canada
   - death grips
   - eminem
+  - dr dre
   - flying lotus
   - marilyn manson
   - ministry
@@ -16,21 +17,25 @@ tags:
   - portishead
   - radiohead
   - unkle
+  - metal
+  - electronic
+  - industrial
 featuredimage: article-images/13-songs-for-a-horrible-halloween.jpg
 title: 13 Songs for a Horrible Halloween
 author: andre
-blurb: Let's face it, Halloween playlists can be awful. Here lies an alternative lineup of frightening contemporary songs. More treats than tricks, we promise.
+blurb: Let's face it, Halloween playlists can be awful. Here lies an alternative lineup of frightening songs. More treats than tricks, we promise.
 
 ---
 
-Let’s face it, Halloween playlists can be awful. “Monster Mash”, “Ghostbusters”, theme tunes from dated horror flicks… hell, even “Thriller” has become tainted. As a tasteful alternative, here lies a less conventional collection of frightening contemporary songs. Tracks that are fantastic in their own right, but flourish in an ambience of horror. More treats than tricks, I promise.
+*Let’s face it, Halloween playlists can be awful. “Monster Mash”, “Ghostbusters”, theme tunes from dated horror flicks… hell, even “Thriller” has become tainted. As a tasteful alternative, here lies a less conventional collection of frightening contemporary songs. Tracks that are fantastic in their own right, but flourish in an ambience of horror. More treats than tricks, I promise.*
+
 ------
 
 ## “Come to Daddy” // Aphex Twin
 
 <center><iframe src="https://www.youtube.com/embed/h-9UvrLyj3k?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-“Come to Daddy” is just one of Aphex Twin’s creepy internet sensations, and though it may not be [the most terrifying](https://www.youtube.com/watch?v=SSMYy4X5xRo), it’s undoubtedly my favourite. As Richard James expresses his desire to take your soul, a sinister, distorted bassline runs through at an ominous pace, flaunting imagery of a low-budget slasher flick. Luckily for us, Chris Cunningham elaborates on this imagery with his extremely disturbing music video. In daylight, you’ll probably laugh it off, but in a darker setting it’s likely to scare the living shit out of you. It’s one of the best drum and bass tracks in the entire Aphex Twin catalogue—James himself describes it as a ‘crappy death metal jingle.’ Fair enough.
+“Come to Daddy” is just one of Aphex Twin’s creepy internet sensations, and though it may not be [the most terrifying](https://www.youtube.com/watch?v=SSMYy4X5xRo), it’s undoubtedly my favourite. As Richard James expresses his desire to take your soul, a sinister, distorted bassline runs through at an ominous pace, flaunting imagery of a low-budget slasher flick. Luckily for us, Chris Cunningham elaborates on this imagery with his extremely disturbing music video. In daylight, you’ll probably laugh it off, but in a darker setting it’s likely to scare the living shit out of you. It’s one of the best drum and bass tracks in the entire Aphex Twin catalogue — James himself describes it as a ‘crappy death metal jingle.’ Fair enough.
 
 -----
 
@@ -46,7 +51,7 @@ Yes, Marilyn Manson is an obvious choice—but for good reason. After all, Mans
 
 <center><iframe src="https://www.youtube.com/embed/fbFgxucxVcM?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-Scottish electronic duo Boards of Canada are typically known for their lush soundscapes that evoke nostalgia and relaxation, but they’re also prone to showing the occasional instance of unfettered creepiness. Inspired by a dream involving number stations, “Gyroscope” opens with a mangled, monster-like percussion loop that hacks away at your senses, as an assortment of eerie sounds swirl around in the atmosphere. The track continues to mutilate for its duration, lulling listeners into an uncomfortable hypnotic state. The obscure stereo imaging is agitating, yet beautiful. It’s one of BoC’s finest, darkest hours, and the fact it’s featured in the 2012 horror film *Sinister* is a further testament to its horrifying nature.
+Scottish electronic duo Boards of Canada are typically known for [their lush soundscapes that evoke nostalgia and relaxation](/reviews/boards-of-canada-music-has-the-right-to-children/), but they’re also prone to showing the occasional instance of unfettered creepiness. Inspired by a dream involving number stations, “Gyroscope” opens with a mangled, monster-like percussion loop that hacks away at your senses, as an assortment of eerie sounds swirl around in the atmosphere. The track continues to mutilate for its duration, lulling listeners into an uncomfortable hypnotic state. The obscure stereo imaging is agitating, yet beautiful. It’s one of BoC’s finest, darkest hours, and the fact it’s featured in the 2012 horror film *Sinister* is a further testament to its horrifying nature.
 
 -----
 
@@ -62,15 +67,15 @@ Five albums in and “Guillotine” remains Death Grips’ scariest song. MC Rid
 
 <center><iframe src="https://player.vimeo.com/video/9572603" width="640" height="280" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-“Rabbit In Your Headlights” is a stunning highlight from UNKLE’s debut album *Psyence Fiction*, with paranoid lyrics sung by Thom Yorke set against a bleak jazz background. Whilst the song wasn’t necessarily a commercial success, it has become recognised for its mysterious music video. Directed by Jonathon Glazer, the man responsible for 2013’s *Under The Skin*, it shows a seemingly confused man walking through a busy car tunnel. He repeatedly gets run down by vehicles, but gets back on his feet and continues his journey, all the while muttering intelligible words. At the songs climax, the man stands in a crucifix-like position and stands unmoved to the car that strikes him. The religious symbolism is glaring, and the entire experience is deeply haunting.
+“Rabbit In Your Headlights” is a stunning highlight from UNKLE’s debut album [*Psyence Fiction*](/reviews/unkle-psyence-fiction/), with paranoid lyrics sung by Thom Yorke set against a bleak jazz background. Whilst the song wasn’t necessarily a commercial success, it has become recognised for its mysterious music video. Directed by Jonathon Glazer, the man responsible for 2013’s *Under The Skin*, it shows a seemingly confused man walking through a busy car tunnel. He repeatedly gets run down by vehicles, but gets back on his feet and continues his journey, all the while muttering intelligible words. At the songs climax, the man stands in a crucifix-like position and stands unmoved to the car that strikes him. The religious symbolism is glaring, and the entire experience is deeply haunting.
 
 -----
 
-## **“Kim” // Eminem
+## “Kim” // Eminem
 
 <center><iframe src="https://www.youtube.com/embed/E3olE6bHjBw?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-Marshall Mathers was once a very angry man. In what is likely his most controversial song, Eminem acts out a violent fantasy that ultimately ends in him killing his ex-wife. It shouldn’t be taken at face value of course, but nonetheless, the rage is genuine and derived from pure emotion. My initial listen was one of the most unsettling experiences of my childhood (I have grown to understand why my parents saw fit to remove *The Marshall Mathers LP* from my CD collection), and I imagine it left a striking mark on many more of Em’s younger listeners. The savage imagery in the lyrics are pushed way beyond the norm in hip-hop, edging towards the gruesome nature of slasher films. Incredibly, Mathers actually played the song to Kim before the album was released. Dr. Dre conceded that, ‘if I was her, I would have ran when I heard that shit.’ Honestly, some people just have no sense of humour…
+Marshall Mathers was once a very angry man. In what is likely his most controversial song, Eminem acts out a violent fantasy that ultimately ends in him killing his ex-wife. It shouldn’t be taken at face value of course, but nonetheless, the rage is genuine and derived from pure emotion. My initial listen was one of the most unsettling experiences of my childhood (I have grown to understand why my parents saw fit to remove [*The Marshall Mathers LP*](/reviews/eminem-the-marshall-mathers-lp/) from my CD collection), and I imagine it left a striking mark on many more of Em’s younger listeners. The savage imagery in the lyrics are pushed way beyond the norm in hip-hop, edging towards the gruesome nature of slasher films. Incredibly, Mathers actually played the song to Kim before the album was released. Dr. Dre conceded that, ‘if I was her, I would have ran when I heard that shit.’ Honestly, some people just have no sense of humour…
 
 -----
 
@@ -94,7 +99,7 @@ You can always count on FlyLo to deliver the most luscious Halloween jam imagin
 
 <center><iframe src="https://player.vimeo.com/video/3556108" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-“Happiness in Slavery” is industrial metal at its deafening best, but those who don’t share the same admiration for coordinated anarchy often find it a ghastly racket. The opening howl of ‘slave screams’ alone is enough to make you jump out of your skin, but it’s the pounding percussion that truly beats you into submission. It’s a petrifying experience initially, but after a few listens it becomes one of the darkest, most brutal and disturbing dance songs ever written. We’ve since learnt that Trent Reznor has [quite the knack for that fusion](<https://www.youtube.com/watch?v=PTFwQP86BRs>). In truth, the entirety of this particular NiN era could be placed on the list, but “Slavery” has the advantage of a seriously distressing video, thus it triumphs. Also, it’s the loudest. Probably.
+“Happiness in Slavery” is industrial metal at its deafening best, but those who don’t share the same admiration for coordinated anarchy often find it a ghastly racket. The opening howl of ‘slave screams’ alone is enough to make you jump out of your skin, but it’s the pounding percussion that truly beats you into submission. It’s a petrifying experience initially, but after a few listens it becomes one of the darkest, most brutal and disturbing dance songs ever written. We’ve since learnt that Trent Reznor has [quite the knack for that fusion](https://www.youtube.com/watch?v=PTFwQP86BRs). In truth, the entirety of this particular NiN era could be placed on the list, but “Slavery” has the advantage of a seriously distressing video, thus it triumphs. Also, it’s the loudest. Probably.
 
 -----
 
@@ -102,7 +107,7 @@ You can always count on FlyLo to deliver the most luscious Halloween jam imagin
 
 <center><iframe src="https://www.youtube.com/embed/ZF5uqVdCvnA?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-This curious Radiohead track is as ghoulish as the title suggests. Creeping, zombie-like handclaps set a strikingly gloomy tone, accompanied by eerie vocals and a piano progression that sounds like it’s being played by the devil himself. The atmosphere is utterly chilling, and the gradual development is magnificent, evoking some glaringly conspicuous imagery. Tension is retained in an unnervingly restrained manner until, eventually, all hell lets loose – the horde of undead have found their prey, and prepare to pounce. Yes, “We Suck Young Blood” is essentially Radiohead’s soundtrack to Night of The Living Dead. It’s a curious entry in the bands discography, but an optimal option for Halloween.
+This curious [Radiohead](/articles/ranking-radioheads-discography/) track is as ghoulish as the title suggests. Creeping, zombie-like handclaps set a strikingly gloomy tone, accompanied by eerie vocals and a piano progression that sounds like it’s being played by the devil himself. The atmosphere is utterly chilling, and the gradual development is magnificent, evoking some glaringly conspicuous imagery. Tension is retained in an unnervingly restrained manner until, eventually, all hell lets loose – the horde of undead have found their prey, and prepare to pounce. Yes, “We Suck Young Blood” is essentially Radiohead’s soundtrack to Night of The Living Dead. It’s a curious entry in the bands discography, but an optimal option for Halloween.
 
 -----
 
@@ -118,11 +123,11 @@ It’s difficult to explain what exactly it is about Oneohtrix Point Never that 
 
 <center><iframe src="https://www.youtube.com/embed/K6JTjhWUUyI?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
-Since the very beginning, Portishead have always possessed the ability to carefully tread the line between mysterious and sexy. They do occasionally venture to one side, and when it occurs, Portishead fully commit. “Glory Box” is one side, whilst “Half Day Closing” is on the other. Nothing about it seems right: the bass slides with an awkward swagger, the drums are restricted to one side of the stereo field, and the vocals sound like they were recorded deep underwater. In fact, are we absolutely certain Beth Gibbons wasn’t possessed during the recording? Either that or Emily Rose makes an appearance during the songs frightening climax. The anguish is overwhelming and deeply affecting in one way or another. Furthermore, if you listen closely on headphones, you can hear a male voice quietly counting in your right ear. You know, incase you weren’t unsettled enough.
+Since [the very beginning](/reviews/portishead-dummy/), Portishead have always possessed the ability to carefully tread the line between mysterious and sexy. They do occasionally venture to one side, and when it occurs, Portishead fully commit. “Glory Box” is one side, whilst “Half Day Closing” is on the other. Nothing about it seems right: the bass slides with an awkward swagger, the drums are restricted to one side of the stereo field, and the vocals sound like they were recorded deep underwater. In fact, are we absolutely certain Beth Gibbons wasn’t possessed during the recording? Either that or Emily Rose makes an appearance during the songs frightening climax. The anguish is overwhelming and deeply affecting in one way or another. Furthermore, if you listen closely on headphones, you can hear a male voice quietly counting in your right ear. You know, incase you weren’t unsettled enough.
 
 -----
 
-## And finally… This, by One of The Goonies**
+## And finally… this, by One of The Goonies**
 
 Happy Halloween.
 
