@@ -7,7 +7,7 @@ tags:
   - gotan project
   - hip hop
 featuredimage: 2016/04/La-Revancha-Del-Tango.jpg
-title: The timeless allure of 'La Revancha Del Tango'
+title: The timeless allure of &#8216;La Revancha Del Tango&#8217;
 author: andrew
 blurb: This still makes for a great listen, especially for anyone with a penchant for hip-hop and breakbeat music looking something slightly different.
 
