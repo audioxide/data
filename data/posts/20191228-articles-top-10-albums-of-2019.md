@@ -14,15 +14,14 @@ tags:
   - thom yorke
   - tyler the creator
   - weyes blood
-featuredimage: 2019/12/Tyler-The-Creator.jpg
+featuredimage: article-images/favourite-albums-2019.jpg
 title: Our 10 favourite albums of 2019
 author: admin
-blurb: It's the end of the year, which means we're legally obliged to round up
-  our favourite albums. Here are our picks in the year of our Lorde 2019.
+blurb: It's the end of the year, which means we're legally obliged to round up our favourite albums. Here are our picks in the year of our Lorde 2019.
 
 ---
 
-The album is dead, long live the album. We’d be lying if we said this year of our Lorde was bursting with instant classics, but that’s brought it’s own charms. This was a slow burner year, where the best albums were weird and wonderful rather than tour de forces. From newcomers to old favourites there’s been a lot to love and a lot to look forward to in the coming decade.
+*The album is dead, long live the album. We’d be lying if we said this year of our Lorde was bursting with instant classics, but that’s brought it’s own charms. This was a slow burner year, where the best albums were weird and wonderful rather than tour de forces. From newcomers to old favourites there’s been a lot to love and a lot to look forward to in the coming decade.*
 
 ------
 
@@ -38,7 +37,7 @@ There have been an abundance of brilliant pop records over the past few years �
 
 ## 9\. *Anima* // Thom Yorke
 
-![Album artwork of 'Anima' by Thom Yorke](album-artwork/anima-thom-yorke/)
+![Album artwork of 'Anima' by Thom Yorke](album-artwork/anima-thom-yorke/ "Album artwork of 'Anima' by Thom Yorke")
 
 **Fred**
 
@@ -76,7 +75,7 @@ There’s a force of will present across the album that never relents, a confide
 
 ### 6\. *Titanic Rising *// Weyes Blood
 
-![Album artwork of 'Titanic Rising' by Weyes Blood](album-artwork/titanic-rising-weyes-blood/)
+![Album artwork of 'Titanic Rising' by Weyes Blood](album-artwork/titanic-rising-weyes-blood/ "Album artwork of 'Titanic Rising' by Weyes Blood")
 
 **André**
 
@@ -88,7 +87,7 @@ Truth be told, there were only a handful of records released this year that I wa
 
 ## 5\. *Crushing* // Julia Jacklin
 
-![Album artwork of 'Crushing' by Julia Jacklin](album-artwork/crushing-julia-jacklin/)
+![Album artwork of 'Crushing' by Julia Jacklin](album-artwork/crushing-julia-jacklin/ "Album artwork of 'Crushing' by Julia Jacklin")
 
 **Michael**
 
@@ -118,7 +117,7 @@ It is a noisy, angry record that demands attention and shocks you into the momen
 
 ## 3\. *Assume Form* // James Blake
 
-![Album artwork of 'Assume Form' by James Blake](album-artwork/assume-form-james-blake/)
+![Album artwork of 'Assume Form' by James Blake](album-artwork/assume-form-james-blake/ "Album artwork of 'Assume Form' by James Blake")
 
 **Fred**
 
@@ -134,7 +133,7 @@ This was the first time we reviewed a James Blake album and I felt excited rathe
 
 ## 2\. *There Existed an Addiction to Blood* // clipping.
 
-![Album artwork of 'There Existed an Addiction to Blood' by clipping.](album-artwork/there-existed-an-addiction-to-blood-clipping/)
+![Album artwork of 'There Existed an Addiction to Blood' by clipping.](album-artwork/there-existed-an-addiction-to-blood-clipping/ "Album artwork of 'There Existed an Addiction to Blood' by clipping.")
 
 **André**
 
@@ -144,9 +143,9 @@ If I were listening to *There Existed an Addiction to Blood* during a nighttime 
 
 -----
 ­
-## 1\. *Igor* // Tyler, The Creator
+## 1\. *Igor* // Tyler, the Creator
 
-![Album artwork of 'Igor' by Tyler, the Creator](album-artwork/igor-tyler-the-creator/)
+![Album artwork of 'Igor' by Tyler, the Creator](album-artwork/igor-tyler-the-creator/ "Album artwork of 'Igor' by Tyler, the Creator")
 
 **Fred**
 
