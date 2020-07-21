@@ -16,7 +16,10 @@ tags:
   - wolf alice
 featuredimage: 2016/01/Divers.jpg
 title: Our 10 favourite albums of 2015
-author: admin
+author:
+  - andre
+  - fred
+  - andrew
 
 ---
 

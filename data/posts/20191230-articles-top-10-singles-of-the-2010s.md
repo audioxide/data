@@ -21,7 +21,7 @@ blurb: The decade had some doozies. Here were our favourites.
 
 ---
 
-It’s been quite a decade, folks. Congrats to those who made it to the end. Condolences to those who didn’t. Wherever you’re situated on (or off) the mortal coil I think we can all agree great singles are satisfying things to listen to, each one a sonic harbinger of albums to come. The 02010s had some doozies, and these were our favourites.
+*It’s been quite a decade, folks. Congrats to those who made it to the end. Condolences to those who didn’t. Wherever you’re situated on (or off) the mortal coil I think we can all agree great singles are satisfying things to listen to, each one a sonic harbinger of albums to come. The 2010s had some doozies, and these were our favourites.*
 
 -----
 
@@ -131,6 +131,6 @@ Do I think “Don’t Delete the Kisses” is the best song of the decade? Far f
 
 **Fred**
 
-The great songs of old almost feel mythical in their power. Top track lists are awash with odes to love and power and revolution (and heroin, whatever floats your boat). “Don’t Delete the Kisses” is not “The Times They Are a-Changin’”, but then we are not in the 1960s. Serving as the centrepiece of what I think is one of the 2010s’ finest albums, [*Visions of a Life*](reviews/wolf-alice-visions-of-a-life/), this is a track genuinely tuned into modern culture, as corny as it is heartfelt.
+The great songs of old almost feel mythical in their power. Top track lists are awash with odes to love and power and revolution (and heroin, whatever floats your boat). “Don’t Delete the Kisses” is not “The Times They Are a-Changin’”, but then we are not in the 1960s. Serving as the centrepiece of what I think is one of the 2010s’ finest albums, [*Visions of a Life*](/reviews/wolf-alice-visions-of-a-life/), this is a track genuinely tuned into modern culture, as corny as it is heartfelt.
 
 Listening like a shoegaze diary entry, “Don’t Delete the Kisses” is very lovely, but it’s not a masterpiece. It’s better than that; it’s honest. I think a fair few artists are too proud to talk about love in the context of modern technology. Snapchat and house parties don’t exactly scream romance, but this is the world we live in. Even I, with my black, shrivelled heart, recognise the sweet idiot neurosis Ellie Roswell describes. Here’s to love, however daft.
