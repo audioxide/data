@@ -16,7 +16,7 @@ tags:
   - vince staples
   - 2010s
 featuredimage: 2018/12/IDLES.png
-title: Our 10 Favourite Albums of 2018
+title: Our 10 favourite albums of 2018
 author:
   - gabriel
   - marcus
