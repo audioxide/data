@@ -21,7 +21,7 @@ tags:
   - electronic
   - industrial
 featuredimage: article-images/13-songs-for-a-horrible-halloween.jpg
-title: 13 Songs for a Horrible Halloween
+title: 13 Songs for a horrible Halloween
 author: andre
 blurb: Let's face it, Halloween playlists can be awful. Here lies an alternative lineup of frightening songs. More treats than tricks, we promise.
 
