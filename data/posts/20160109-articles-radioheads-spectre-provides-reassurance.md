@@ -5,15 +5,22 @@ slug: radioheads-spectre-provides-reassurance
 type: articles
 tags:
   - radiohead
+  - ed obrien
+  - thom yorke
+  - alternative rock
 featuredimage: 2016/01/Spectre.png
 title: Radiohead&#8217;s &#8220;Spectre&#8221; provides reassurance
 author: andre
+blurb: This is the first Radiohead track to drop in years, and it serves far more than its original (intended) purpose as a Bond song.
 
 ---
 
-Given their reputation for producing great records on a consistent basis, Radiohead’s previous album *The King of Limbs* had the curious quality of merely being ‘quite good.’ Whilst a case can be made for each of their releases since *The Bends*, you would be hard pressed to find anyone who’d declare that their favourite Radiohead record is *The King of Limbs.* It was surreal to see a release from one of the world’s greatest bands pass by without making any significant impact.
+<figure class="wide">
+  <img src="album-artwork/spectre-radiohead.jpg" alt="Single artwork of 'Spectre' by Radiohead" />
+  <figcaption></figcaption>
+</figure>
 
-![Spectre](<2016/01/Spectre.png> =333x333)
+Given their reputation for producing great records on a consistent basis, Radiohead’s previous album *The King of Limbs* had the curious quality of merely being ‘quite good.’ Whilst a case can be made for each of their releases since *The Bends*, you would be hard pressed to find anyone who’d declare that their favourite Radiohead record is *The King of Limbs.* It was surreal to see a release from one of the world’s greatest bands pass by without making any significant impact.
 
 In the five years since we have been treated to numerous side projects that include [film scores](https://www.youtube.com/watch?v=JMPylWRqzPg), [solo albums](https://www.youtube.com/watch?v=2wkdgk0-Ag4), and [Flea-ridden supergroups](https://www.youtube.com/watch?v=DpVfF4U75B8), but no successor to *Limbs*. Some of these works were certainly rewarding in their own right, but none came close to matching the rapturous feeling that comes with a new Radiohead album. As the band edge closer towards a new chapter, there remains a genuine apprehension as to whether Radiohead still have the special quality that has made their music so captivating over the past twenty years. Perhaps a dramatized concern, but a concern nonetheless given artists of similar stature have fizzled out before. Is *Limbs* to be the start of a gradual fall from excellence, or a mere blip in their discography; a minor stumble that the band ultimately recovers from?
 
