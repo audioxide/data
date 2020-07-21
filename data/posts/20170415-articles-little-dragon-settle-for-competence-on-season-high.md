@@ -11,6 +11,11 @@ author: andre
 
 ---
 
+<figure class="wide">
+  <img src="album-artwork/season-high-little-dragon.jpg" alt="Album artwork of 'Season High' by Little Dragon" />
+  <figcaption></figcaption>
+</figure>
+
 You know what you’re getting with a new Little Dragon album: mid-tempo R&B with a heavy ‘80s influence and a dash of modern dance. If nothing else, the Swedish group know how to strike a groove, and they have found success in the formula for ten years now. Though they’re perhaps more known for some [outstanding](https://www.youtube.com/watch?v=ZdUINbi4wSY) [collaborations](https://www.youtube.com/watch?gl=ID&feature=relmfu&hl=id&v=C-yP9f0gadU), Yukimi Nagano and company have deservedly built a reputation – when their name features at a festival, you know you’re in for a good time.
 
 However, after *Ritual Union* – arguably the creative highlight of their career – there has been a degree of frustration in regards to the group’s songwriting. 2014’s *Nabuma Rubberband* showed glimpses of great ambition, but rarely rose to the occasion. It was an enjoyable record that simply failed to leave a lasting impression, and unfortunately, *Season High* is much of the same.
