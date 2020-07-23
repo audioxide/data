@@ -40,7 +40,7 @@ You’d be forgiven for forgetting that Grandaddy even released a record this ye
 
 **Fred**
 
-I’d be lying if I said *Every Country’s Sun *lit up the year, but I’m very glad it was part of it. Mogwai’s latest outing showcased a group in slow, marauding harmony, but it was never guilty of that stale quality you get from old heads sometimes. It’s familiar, but not complacent. I think the group (rightfully) assume a level of intimacy with most listeners these days, which usually means they take you to lovely places quite quickly. This time around that meant strongly defined post-rock rumination with legit groove. [“Crossing the Road Material”](https://www.youtube.com/watch?v=vIL0vegVv5U) and “1000 Foot Face” were and remain personal favourites, but the record as a whole is beautifully constructed. I heard it for the first time at midnight on BBC Radio 6, and that remains one of the loveliest musical moments of my year.
+I’d be lying if I said *Every Country’s Sun* lit up the year, but I’m very glad it was part of it. Mogwai’s latest outing showcased a group in slow, marauding harmony, but it was never guilty of that stale quality you get from old heads sometimes. It’s familiar, but not complacent. I think the group (rightfully) assume a level of intimacy with most listeners these days, which usually means they take you to lovely places quite quickly. This time around that meant strongly defined post-rock rumination with legit groove. [“Crossing the Road Material”](https://www.youtube.com/watch?v=vIL0vegVv5U) and “1000 Foot Face” were and remain personal favourites, but the record as a whole is beautifully constructed. I heard it for the first time at midnight on BBC Radio 6, and that remains one of the loveliest musical moments of my year.
 
 [**Read our full review of _Every Country’s Sun_**](/reviews/mogwai-every-countrys-sun/) →
 
@@ -54,7 +54,7 @@ I’d be lying if I said *Every Country’s Sun *lit up the year, but I’m very
 
 *Villains* may not be my favourite Queens of the Stone Age album, but it has plenty of fantastic moments. Joshua Homme certainly took a different direction by employing notable pop producer Mark Ronson, a move that was met with some dubious eye squints. But as many pointed out, Homme often writes riffs that fit well with pop sensibilities, albeit over the crunch of a drop C tuning and countless guitar pedals. There’s no doubt that *Villains* is missing a lot of the punch and low end that QotSA listeners have come to expect. However, it still offers a fair amount to chew on. There’s playfulness in songs like “The Way You Used To Do” but also a sombreness to tracks like “Villains of Circumstance”. *Villains* is a rather thematic album, with each song carrying a visual narrative. [The visuals that Boneface created for the album](https://artistwaves.com/the-artwork-of-queens-of-the-stone-age-villains-in-10-stunning-photos-78fc9a103a62) really jump out: the puppeteer, the devil and the outlaw are so symbolic of the tracks they represent. There’s been little in 2017 to scratch my rock’n’roll itch, but alongside Death From Above’s latest offering, *Villains* has really hit the spot. Still to this day, no-one does it quite like Queens of the Stone Age.
 
-[**Read our full review of _Villains_**](<reviews/queens-of-the-stone-age-villains/) →
+[**Read our full review of _Villains_**](/reviews/queens-of-the-stone-age-villains/) →
 
 -----
 
@@ -104,7 +104,7 @@ Like *Section.80*, *good kid m.A.A.d city*, and [*To Pimp a Butterfly*](/reviews
 
 -----
 
-## 3\. *Run the jewels 3* // Run the Jewels
+## 3\. *Run the Jewels 3* // Run the Jewels
 
 ![Album artwork of 'Run the Jewels 3' by Run the Jewels](album-artwork/run-the-jewels-3-run-the-jewels.jpg "Album artwork of 'Run the Jewels 3' by Run the Jewels")
 

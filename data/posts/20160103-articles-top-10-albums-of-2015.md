@@ -14,7 +14,7 @@ tags:
   - oneohtrix point never
   - san fermin
   - wolf alice
-featuredimage: 2016/01/Divers.jpg
+featuredimage: article-images/favourite-albums-2015.jpg
 title: Our 10 favourite albums of 2015
 author:
   - andre
@@ -26,7 +26,7 @@ blurb: What a year it's been. Hip hop kings, hip hop princes, UK rock upstarts, 
 
 ## 10\. *Peace is the Mission* // Major Lazer
 
-![Album artwork of 'Peace is the Mission' by Major Lazer](album-artwork/peace-is-the-mission-major-lazer.jpg)
+![Album artwork of 'Peace is the Mission' by Major Lazer](album-artwork/peace-is-the-mission-major-lazer.jpg "Album artwork of 'Peace is the Mission' by Major Lazer")
 
 **Andrew**
 
@@ -36,7 +36,7 @@ Diplo’s collaborative project, Major Lazer, has been adding its own reggae inf
 
 ## 9\. *The Powers that B* // Death Grips
 
-![Album artwork of 'The Powers that B' by Death Grips](album-artwork/the-powers-that-b-death-grips.jpg)
+![Album artwork of 'The Powers that B' by Death Grips](album-artwork/the-powers-that-b-death-grips.jpg "Album artwork of 'The Powers that B' by Death Grips")
 
 **André**
 
@@ -48,7 +48,7 @@ Outside of the music itself, I tend to stay away from the antics of Death Grips.
 
 ## 8\. *Jackrabbit* // San Fermin
 
-![Album artwork of 'Jackrabbit' by San Fermin](album-artwork/jackrabbit-san-fermin.jpg)
+![Album artwork of 'Jackrabbit' by San Fermin](album-artwork/jackrabbit-san-fermin.jpg "Album artwork of 'Jackrabbit' by San Fermin")
 
 **Fred**
 
@@ -60,7 +60,7 @@ San Fermin’s *Jackrabbit* was one of the not quites of the year. So close to b
 
 ## 7\. *Garden of Delete* // Oneohtrix Point Never
 
-![Album artwork of 'Garden of Delete' by Oneohtrix Point Never](album-artwork/garden-of-delete-oneohtrix-point-never.jpg)
+![Album artwork of 'Garden of Delete' by Oneohtrix Point Never](album-artwork/garden-of-delete-oneohtrix-point-never.jpg "Album artwork of 'Garden of Delete' by Oneohtrix Point Never")
 
 **André**
 
@@ -72,7 +72,7 @@ San Fermin’s *Jackrabbit* was one of the not quites of the year. So close to b
 
 ## 6\. *In Colour* // Jamie XX
 
-![Album artwork of In Colour by Jamie XX](album-artwork/in-colour-jamie-xx.jpg)
+![Album artwork of In Colour by Jamie XX](album-artwork/in-colour-jamie-xx.jpg "Album artwork of In Colour by Jamie XX")
 
 **Andrew**
 
@@ -82,11 +82,11 @@ Another artist that has continued an already very successful career in 2015, Jam
 
 ## 5\. *My Love Is Cool* // Wolf Alice
 
-![Album artwork of 'My Love Is Cool' by Wolf Alice](album-artwork/my-love-is-cool-wolf-alice.jpg)
+![Album artwork of 'My Love Is Cool' by Wolf Alice](album-artwork/my-love-is-cool-wolf-alice.jpg "Album artwork of 'My Love Is Cool' by Wolf Alice")
 
 **Fred**
 
-You can’t argue with the mystery of a new kid on the block, can you? Wolf Alice’s *My Love Is Cool* is an enticing debut, brazen and teasing. The sound is rich and fresh and everyoung, and even now I am left quite dazzled by it. That vain poise so unique to youth pervades the album and often makes it very beautiful. Wolf Alice are clearly a talented bunch, and they richly deserve the plaudits they have received this year. This isn’t to say the album is not not flawed—it is—but its imperfections only add to its allure. I said in my review and I’ll say again now that *My Love Is Cool* is defined by its potential. There is a place for the candid and unpretentious. Rough diamonds have a grace all of their own. [Wolf Alice will release better albums](/reviews/wolf-alice-visions-of-a-life/) than *My Love Is Cool*, but they certainly won’t be as fresh-faced.
+You can’t argue with the mystery of a new kid on the block, can you? Wolf Alice’s *My Love Is Cool* is an enticing debut, brazen and teasing. The sound is rich and fresh and everyoung, and even now I am left quite dazzled by it. That vain poise so unique to youth pervades the album and often makes it very beautiful. Wolf Alice are clearly a talented bunch, and they richly deserve the plaudits they have received this year. This isn’t to say the album is not not flawed — it is — but its imperfections only add to its allure. I said in my review and I’ll say again now that *My Love Is Cool* is defined by its potential. There is a place for the candid and unpretentious. Rough diamonds have a grace all of their own. [Wolf Alice will release better albums](/reviews/wolf-alice-visions-of-a-life/) than *My Love Is Cool*, but they certainly won’t be as fresh-faced.
 
 [**Read our full review of _My Love Is Cool_**](/reviews/wolf-alice-my-love-is-cool/) →
 
@@ -94,7 +94,7 @@ You can’t argue with the mystery of a new kid on the block, can you? Wolf Alic
 
 ## 4\. *Blood* // Lianne La Havas
 
-![Album artwork of 'Blood' by Lianne La Havas](album-artwork/blood-lianne-la-havas.jpg)
+![Album artwork of 'Blood' by Lianne La Havas](album-artwork/blood-lianne-la-havas.jpg "Album artwork of 'Blood' by Lianne La Havas")
 
 **Andrew**
 
@@ -106,7 +106,7 @@ Lianne La Havas has had a good year in 2015, releasing her second album which re
 
 ## 3\. *Compton* // Dr. Dre
 
-![Album artwork of 'Compton' by Dr. Dre](album-artwork/compton-dr-dre.jpg)
+![Album artwork of 'Compton' by Dr. Dre](album-artwork/compton-dr-dre.jpg "Album artwork of 'Compton' by Dr. Dre")
 
 **Fred**
 
@@ -118,7 +118,7 @@ One would do well to find *Compton* anything other than splendid. It’s one of 
 
 ## 2\. *Divers* // Joanna Newson
 
-![Album artwork of 'Divers' by Joanna Newsom](album-artwork/divers-joanna-newsom.jpg)
+![Album artwork of 'Divers' by Joanna Newsom](album-artwork/divers-joanna-newsom.jpg "Album artwork of 'Divers' by Joanna Newsom")
 
 **André**
 
@@ -130,7 +130,7 @@ I’ll confess that *Divers* is my first Joanna Newsom experience. Initially, I 
 
 ## 1\. *To Pimp a Butterfly* // Kendrick Lamar
 
-![To Pimp a Butterfly](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg)
+![Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg "Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar")
 
 **André**
 
