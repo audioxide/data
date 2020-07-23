@@ -13,8 +13,9 @@ tags:
   - kendrick lamar
   - nine inch nails
   - muse
-featuredimage: 2015/12/Logo-1.jpg
-title: A letter from André
+featuredimage: article-images/welcome.jpg
+title: Welcome
+summary: A letter from André
 author: andre
 blurb: All this started as three friends talking about music, and it remains just that - a shared exploration, which we now want to share with you.
 

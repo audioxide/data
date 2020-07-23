@@ -11,10 +11,10 @@ tags:
   - major lazer
   - muse
   - oneohtrix point never
-featuredimage: article-images/filler-featured-image.jpg
+featuredimage: article-images/favourite-tracks-2015.jpg
 title: Our 10 favourite tracks of 2015
 author: admin
-blurb: From Kendrick Lamar to Joanna Newsom, 2015 has had its fair share of beautiful tracks. Here are our picks of the year. 
+blurb: From Kendrick Lamar to Joanna Newsom, 2015 has had its fair share of beautiful tracks. Here are our picks of the year.
 
 ---
 
@@ -24,9 +24,9 @@ blurb: From Kendrick Lamar to Joanna Newsom, 2015 has had its fair share of beau
 
 This track makes you sit and listen. Really listen. It’s one of the best endings to an album I’ve ever heard. With all the bells and whistles stripped away, the meeting of two kindred spirits who wish only for bad things to stop and for love to prosper is beyond description. The only reason “Mortal Man” isn’t higher up on this list is that listening to it alone does not do it justice. It rides on the crest of the entire album, and should be heard in that context. If we haven’t plugged *To Pimp a Butterfly* enough, here’s one more effort: “Mortal Man” is a magnificent track and you should listen to it—just be sure to listen to the hour of music that precedes it before you do.
 
-## 9\. “Oino” // LA Priest
-
 -----
+
+## 9\. “Oino” // LA Priest
 
 **Andrew**
 

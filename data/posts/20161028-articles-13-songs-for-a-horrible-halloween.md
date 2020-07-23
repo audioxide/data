@@ -22,14 +22,11 @@ tags:
   - industrial
 featuredimage: article-images/13-songs-for-a-horrible-halloween.jpg
 title: 13 Songs for a horrible Halloween
+summary: Let’s face it, Halloween playlists can be awful. “Monster Mash”, “Ghostbusters”, theme tunes from dated horror flicks… hell, even “Thriller” has become tainted. As a tasteful alternative, here lies a less conventional collection of frightening contemporary songs. More treats than tricks, I promise
 author: andre
 blurb: Let's face it, Halloween playlists can be awful. Here lies an alternative lineup of frightening songs. More treats than tricks, we promise.
 
 ---
-
-*Let’s face it, Halloween playlists can be awful. “Monster Mash”, “Ghostbusters”, theme tunes from dated horror flicks… hell, even “Thriller” has become tainted. As a tasteful alternative, here lies a less conventional collection of frightening contemporary songs. Tracks that are fantastic in their own right, but flourish in an ambience of horror. More treats than tricks, I promise.*
-
-------
 
 ## “Come to Daddy” // Aphex Twin
 
