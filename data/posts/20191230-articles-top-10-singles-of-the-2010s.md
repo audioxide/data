@@ -27,7 +27,7 @@ blurb: The decade had some doozies. Here were our favourites.
 
 ## 10\. “Blockbuster Night, Pt. 1” // Run the Jewels
 
-<center><iframe src="https://youtube.com/embed/uuWQyfGa1yI" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"><p>﻿</iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -37,7 +37,7 @@ Distilling all the best qualities of one of the decade’s finest and most signi
 
 ## 9\. “Surgeon” // St. Vincent
 
-<center><iframe src="https://www.youtube.com/embed/RGIbR5jdA58" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -47,7 +47,7 @@ Rhythmic flexibility, a staggeringly serene voice lacking any pretence, and an u
 
 ## 8\. “Soothing” // Laura Marling
 
-<center><iframe src="https://www.youtube.com/embed/eCS4OTgaHeM" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -57,7 +57,7 @@ Laura Marling has an uncanny knack for making human intimacy and warmth feel ice
 
 ## 7\. “The Words that Maketh Murder” // PJ Harvey
 
-<center><iframe src="https://www.youtube.com/embed/Fws4fEE8Yy0" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
@@ -67,7 +67,7 @@ Laura Marling has an uncanny knack for making human intimacy and warmth feel ice
 
 ## 6\. “Redbone” // Childish Gambino
 
-<center><iframe src="https://www.youtube.com/embed/Kp7eSUU9oy8" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Andrew**
 
@@ -81,7 +81,7 @@ It also marks a more general return of funk and soul in the 2010s, with the like
 
 ## 5\. “I Sat by the Ocean” // Queens of the Stone Age
 
-<center><iframe src="https://www.youtube.com/embed/4E4S0XWPMgQ" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -91,7 +91,7 @@ It also marks a more general return of funk and soul in the 2010s, with the like
 
 ## 4\. “Ain’t It Funny” // Danny Brown
 
-<center><iframe src="https://www.youtube.com/embed/7L4JnAuW00k" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
@@ -101,7 +101,7 @@ Midway through the superb, Jonah Hill-directed video that accompanies “Ain’t
 
 ## 3\. “Pyramids” // Frank Ocean
 
-<center><iframe src="https://www.youtube.com/embed/KhiYIn5yZjI" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -111,7 +111,7 @@ Midway through the superb, Jonah Hill-directed video that accompanies “Ain’t
 
 ## 2\. “Blackstar” // David Bowie
 
-<center><iframe src="https://www.youtube.com/embed/kszLwBaC4Sw" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -121,7 +121,7 @@ The centre piece of David Bowie’s farewell album had to be something special, 
 
 ## 1\. “Don’t Delete the Kisses” // Wolf Alice
 
-<center><iframe src="https://www.youtube.com/embed/WqxE-zppu30" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 

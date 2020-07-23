@@ -13,20 +13,20 @@ tags:
   - slowthai
   - tyler the creator
   - weyes blood
-featuredimage: 2019/12/Angel-Olsen.jpg
+featuredimage: article-images/favourite-singles-2010s.jpg
 title: Our 10 favourite singles of 2019
 author: admin
 blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do.
   
 ---
 
-The role of singles has changed massively in recent years, but they still tend to lead the charge during an album’s full release. In 2019 we got some pretty unconventional warfare. From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do, but it’s been that kind of year, and if the music’s good it can sound however it damn well pleases.
+*The role of singles has changed massively in recent years, but they still tend to lead the charge during an album’s full release. In 2019 we got some pretty unconventional warfare. From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do, but it’s been that kind of year, and if the music’s good it can sound however it damn well pleases.*
 
 ------
 
 ## 10\. “101fm” // Little Simz
 
-<center><iframe src="https://www.youtube.com/embed/QpfpGwklQ6k" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"><p>﻿</iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -36,7 +36,7 @@ The role of singles has changed massively in recent years, but they still tend t
 
 ## 9\. “Two Halves” // Richard Dawson
 
-<center><iframe src="https://www.youtube.com/embed/NkSvn23fbAg" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Michael**
 
@@ -48,7 +48,7 @@ Granted, as “Two Halves” so wonderfully demonstrates, Dawson’s growing emb
 
 ## 8\. “Movies” // Weyes Blood
 
-<center><iframe src="https://www.youtube.com/embed/RFtRq6t3jOo" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
@@ -58,7 +58,7 @@ Though it’s something I scarcely confess nowadays, my musical life began with 
 
 ## 7\. “Doorman” // slowthai
 
-<center><iframe src="https://www.youtube.com/embed/ICBkHaMOPXs" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"><p>﻿</iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -68,7 +68,7 @@ slowthai’s “Doorman” is comfortably the most moreish grime track I’ve ev
 
 ## 6\. “Andromeda” // Weyes Blood
 
-<center><iframe src="https://www.youtube.com/embed/Aki1Xn36eJ8" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -78,7 +78,7 @@ This was a textbook example of a single promising more than the album delivered.
 
 ## 5\. “All Mirrors” // Angel Olsen
 
-<center><iframe src="https://www.youtube.com/embed/Jjt698Zv5jQ" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -88,7 +88,7 @@ To my mind *All Mirrors* by Angel Olsen was one of the runaway winners of 2019. 
 
 ## 4\. “Nothing is Safe” // clipping.
 
-<center><iframe src="https://www.youtube.com/embed/fIrpLBShe1A" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -98,7 +98,7 @@ The more numerous the plinks, the greater the dread. Cinematically composed, “
 
 ## 3\. “Pressure to Party” // Julia Jacklin
 
-<center><iframe src="https://www.youtube.com/embed/CZFyqzTCt-I" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Michael**
 
@@ -110,7 +110,7 @@ It’s just about the most anxious song about depression, a simple but neverthel
 
 ## 2\. “Petty Thieving” // FEET
 
-<center><iframe src="https://www.youtube.com/embed/bB0xnCI2NVg" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
@@ -118,13 +118,13 @@ Sometimes it takes years to get a song in shape. Hell, [sometimes it even takes 
 
 -----
 
-## 1\. “EARFQUAKE” // Tyler, The Creator
+## 1\. “EARFQUAKE” // Tyler, the Creator
 
-<center><iframe src="https://www.youtube.com/embed/HmAsUQEFYGI" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
-This is no banger. Nor is it an earworm. In fact, I’m not sure what it is. I like it though. [*IGOR*](/reviews/tyler-the-creator-igor/) was another impressive outing from Tyler, The Creator, and “EARFQUAKE”, in all its stop-start glory, managed to distill the album’s main qualities in a way that almost made it seem approachable. In other words, it’s tender, off-beat, and charmingly strange. It wouldn’t be ‘single material’ for most artists, but for Tyler that made it all the more perfect. *IGOR* is a strange world and it needed an ambassador with a deft touch. Suffice it to say, “EARFQUAKE” delivered.
+This is no banger. Nor is it an earworm. In fact, I’m not sure what it is. I like it though. [*IGOR*](/reviews/tyler-the-creator-igor/) was another impressive outing from Tyler, the Creator, and “EARFQUAKE”, in all its stop-start glory, managed to distill the album’s main qualities in a way that almost made it seem approachable. In other words, it’s tender, off-beat, and charmingly strange. It wouldn’t be ‘single material’ for most artists, but for Tyler that made it all the more perfect. *IGOR* is a strange world and it needed an ambassador with a deft touch. Suffice it to say, “EARFQUAKE” delivered.
 
 **Michael**
 

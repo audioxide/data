@@ -13,7 +13,7 @@ tags:
   - quelle chris
   - richard dawson
   - wolf alice
-featuredimage: 2017/12/Kisses.jpg
+featuredimage: article-images/favourite-singles-2017.jpg
 title: Our 10 favourite tracks of 2017
 author:
   - marcus
@@ -29,7 +29,7 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ## 10\. “Humble.” // Kendrick Lamar
 
-<center><iframe src="https://www.youtube.com/embed/tvTRZJ-4EyI" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Marcus**
 
@@ -39,7 +39,7 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ## 9\. “Popeye” // Quelle Chris
 
-<center><iframe src="https://www.youtube.com/embed/SdcAgwMlbIY" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Michael**
 
@@ -49,7 +49,7 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ## 8\. “Bosses Hang” // Godspeed You! Black Emperor
 
-<center><iframe src="https://www.youtube.com/embed/iebbQ9KYMx8" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Fred**
 
@@ -59,7 +59,7 @@ I was totally enamored with [*A Luciferian Towers*](/reviews/godspeed-you-black-
 
 ## 7\. “Shapeshifter” // Richard Dawson
 
-<center><iframe src="https://www.youtube.com/embed/9uZkVeT1Z_0" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Michael**
 
@@ -69,7 +69,7 @@ With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle
 
 ## 6\. “Villains of Circumstance” // QOTSA
 
-<center><iframe src="https://www.youtube.com/embed/fsqhJcGbaEI" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Gabriel**
 
@@ -79,7 +79,7 @@ With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle
 
 ## 5\. “Lush” // Four Tet
 
-<center><iframe src="https://www.youtube.com/embed/9F4g5pBrEYE" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Andrew**
 
@@ -89,7 +89,7 @@ The dynamism of “Lush” means it stands out amongst the rest of *New Energy*,
 
 ## 4\. “Holy Books” // Death From Above
 
-<center><iframe src="https://www.youtube.com/embed/-XlwKK4jUkw" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **André**
 
@@ -99,7 +99,7 @@ Death From Above’s third studio album *Outrage! Is Now* is perhaps the most sa
 
 ## 3\. “Visions of a Life” // Wolf Alice
 
-![Album artwork of 'Visions of a Life' by Wolf Alice](album-artwork/visions-of-a-life-wolf-alice.jpg)
+TBD
 
 **Fred**
 
@@ -111,7 +111,7 @@ In hindsight, this was the only way [*Visions of a Life *](/reviews/wolf-alice-v
 
 ## 2\. “Soothing” */ Laura Marling
 
-<center><iframe src="https://www.youtube.com/embed/eCS4OTgaHeM" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Thomas**
 
@@ -121,7 +121,7 @@ Laura Marling’s latest release aligns with the trend of her former albums; dep
 
 ## 1\. “Don’t Delete the Kisses” // Wolf Alice
 
-<center><iframe src="https://www.youtube.com/embed/WqxE-zppu30" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **André**
 
