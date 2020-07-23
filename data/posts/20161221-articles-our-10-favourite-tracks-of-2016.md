@@ -26,7 +26,7 @@ blurb: Songs what we liked in 2016.
 
 ## 10\. “Pripyat” // Mogwai
 
-<center><iframe src="https://www.youtube.com/embed/fwdzq1qaiI0?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **André**
 
@@ -36,7 +36,7 @@ Much of [Mogwai’s latest record/soundtrack](/reviews/mogwai-atomic/) is exceed
 
 ## 9\. “Real Friends” // Kanye West
 
-<iframe width="680" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F256281302&amp;show_artwork=true&amp;maxwidth=680&amp;maxheight=1000&amp;dnt=1"></iframe>
+TBD
 
 **Fred**
 
@@ -46,7 +46,7 @@ Much of [Mogwai’s latest record/soundtrack](/reviews/mogwai-atomic/) is exceed
 
 ## 8\. “Life Itself” // Glass Animals
 
-<center><iframe src="https://www.youtube.com/embed/yd9p4n5hLEg?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Andrew**
 
@@ -56,17 +56,17 @@ I’ve been hooked on most of Glass Animals’ latest album, *How to be a Human 
 
 ## 7\. “Untitled 02 \| 06.23.2014.” // Kendrick Lamar
 
+TBD
+
 **Fred**
 
 Kendrick Lamar is silly talented. [*To Pimp a Butterfly *](/reviews/kendrick-lamar-to-pimp-a-butterfly/)was so good that its leftovers have provided some of the highlights of 2016. Silly. [*untitled unmastered. *](/reviews/untitled-unmastered/)was solid throughout, but “Untitled 02” did a particularly good job of bridging the gap between Kendrick’s A game and his B-side project, providing a deeply satisfying peek into the mind of one of the greatest talents in music right now. It’s off-kilter, melodic hip-hop sounds—as you might expect—like a rugged cousin of *Butterfly*, oozing kindred class, but proving far more abrasive. There’s a prickliness to early versions of things that I like very much. That roughness feels truer to life, in many respects. “Untitled 02” is rough, groovy, and gorgeous—a fine ambassador for Kendrick’s latest project. Until his next one: Pimp pimp hooray.
-
-[**Listen here.**](https://play.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?play=true&utm_source=open.spotify.com&utm_medium=open)
 
 -----
 
 ## 6\. “Symptom of Terminal Illness” // The Dillinger Escape Plan
 
-<center><iframe src="https://www.youtube.com/embed/yztG35U5Hrw?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **André**
 
@@ -76,7 +76,7 @@ Kendrick Lamar is silly talented. [*To Pimp a Butterfly *](/reviews/kendrick-lam
 
 ## 5\. “Distant Sky” // Nick cave & The Bad Seeds
 
-<center><iframe src="https://www.youtube.com/embed/xCVgsI5h9p0?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Andrew**
 
@@ -86,7 +86,7 @@ This was a surprising track for me and one that nearly escaped my top 10 list in
 
 ## 4\. “Burn the Witch” // Radiohead
 
-<center><iframe src="https://www.youtube.com/embed/yI2oS2hoL0k?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **André**
 
@@ -96,7 +96,7 @@ Though it may not go down as their best, “Burn the Witch” will likely be rem
 
 ## 3\. “Hold up” // Beyonce
 
-<center><iframe src="https://www.youtube.com/embed/PeonBmeFR8o?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **Andrew**
 
@@ -106,17 +106,17 @@ Another track that’s found its way into my ears and won’t come back out agai
 
 ## 2\. “True Love Waits” // Radiohead
 
+TBD
+
 **Fred**
 
 It’s hard to explain why “True Love Waits” is so powerful without sounding like a colossal sap. There’s such a gentle finality to it. Prior to its recording for [*A Moon Shaped Pool*](/reviews/radiohead-a-moon-shaped-pool/), it had famously been kicking around for twenty years. Ed O’Brien once joked that failed attempts to record the song number in the hundreds—and that was in 2000! One can only wonder at the forms “True Love Waits” has taken in its lifetime. And after all that time and thought and care, Radiohead nail it as a piano ballad, because of course they do. That’s all it needed. Bittersweet doesn’t begin to describe the beauty of “True Love Waits”. It has that tenderness of beaten and bruised innocence. The impossible softness of Thom Yorke’s vocals, the almost childlike sway of the piano; the song’s purity-in-spite-of-itself borders on the sublime. I continue to find it uniquely moving. If *Songs of Innocence and of Experience *were songs, I think a lot of them would sound like “True Love Waits”.
-
-**[Listen here.](https://play.spotify.com/track/01ZpFhrMMqKPVCwyqXneVp?play=true&utm_source=open.spotify.com&utm_medium=open)**
 
 -----
 
 ## 1\. “Blackstar”// David Bowie
 
-<center><iframe src="https://www.youtube.com/embed/kszLwBaC4Sw?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 
 **André**
 

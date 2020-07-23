@@ -15,7 +15,7 @@ tags:
   - robyn
   - vince staples
   - 2010s
-featuredimage: 2018/12/IDLES.png
+featuredimage: article-images/favourite-albums-2018.jpg
 title: Our 10 favourite albums of 2018
 author:
   - gabriel
@@ -41,7 +41,7 @@ When David Byrne released his latest album in early 2018, it took a while to cli
 
 ## 9\. *ATW* // All Them Witches
 
-![Album artwork of 'ATW' by All Them Witches](<2018/12/ATW.jpg> =500x500)
+![Album artwork of 'ATW' by All Them Witches](album-artwork/atw-all-them-witches.jpg "Album artwork of 'ATW' by All Them Witches")
 
 **Gabriel**
 
@@ -77,7 +77,7 @@ Going all in on a sonic aesthetic of smoky basement bars and one-too-many whiske
 
 ## 6\. *You Won’t Get What You Want* // Daughters
 
-![Album artwork of 'You Won't Get What You Want' by Daughters](<2018/12/You-Wont-Get-What-You-Want.jpg> =500x500)
+![Album artwork of 'You Won't Get What You Want' by Daughters](album-artwork/you-wont-always-get-what-you-want-daughters.jpg "Album artwork of 'You Won't Get What You Want' by Daughters")
 
 **André**
 

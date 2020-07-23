@@ -16,7 +16,7 @@ blurb: Spotify has revolutionised how we consume music. From mood playlists to m
 
 <figure class="wide">
   <img src="article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg" alt="Girl standing in front of musical themed neon signs" />
-  <figcaption></figcaption>
+  <figcaption>Image by <a href="https://unsplash.com/photos/JAHdPHMoaEA">Spencer Imbrock</a></figcaption>
 </figure>
 
 From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and access new music.
@@ -65,7 +65,8 @@ Spotify’s collaboration with Genius has also changed the way we interact with 
 
 Another feature almost all Spotify users use is making playlists. Spotify even makes tailored playlists for individual listeners, called ‘Daily Mix’, using their most listened songs and genres. And they have an iconic yearly marketing campaign that promotes playlists, using their users’ listening habit and playlist making skills.
 
-![](2019/01/Spotify-wrapped.jpg> =1080x1920)(If you want to see your #2018wrapped, go to[spotifywrapped.com](http://spotifywrapped.com).)
+![Spotify Wrapped playlist statistics for 2018](article-images/spotify-wrapped.jpg "Spotify Wrapped playlist statistics for 2018")
+If you want to see your #2018wrapped, go to[spotifywrapped.com](http://spotifywrapped.com)
 
 Spotify has revolutionised our music listening behaviour. But how does Spotify impact the music industry itself?
 
@@ -81,7 +82,9 @@ Spotify also acts as a platform for artists to promote their merchandise on the 
 
 With the rise of digital streaming services, the music market has once again gained a foothold after years of instability. But it still has a long way to go to catch up with the physical music era.
 
-![](2019/01/Music-industry-income.png> =1083x690) With Spotify, for only £9.99, you get access to ad-free listening of millions of songs. Meanwhile Spotify pays artists $0.00038 per play.
+![Graph showing music industry revenue over time](article-images/spotify-music-industry-income.jpg "Graph showing music industry revenue over time") 
+
+With Spotify, for only £9.99, you get access to ad-free listening of millions of songs. Meanwhile Spotify pays artists $0.00038 per play.
 
 So as a band you’d be making decent enough money if you manage to get around a billion plays in total in a year, making up to $380,000. However, this is not a very easy mission for indie artists and an unbalanced royalties system is often why Spotify is criticised.
 

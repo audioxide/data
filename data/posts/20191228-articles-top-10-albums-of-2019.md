@@ -14,6 +14,10 @@ tags:
   - thom yorke
   - tyler the creator
   - weyes blood
+  - lorde
+  - robyn
+  - janelle monae
+  - 2010s
 featuredimage: article-images/favourite-albums-2019.jpg
 title: Our 10 favourite albums of 2019
 author: admin
@@ -27,7 +31,7 @@ blurb: It's the end of the year, which means we're legally obliged to round up o
 
 ## 10\. *When We All Fall Asleep, Where Do We Go?* // Billie Eilish
 
-![](<2019/12/When-We-Fall-Asleep-Where-Do-We-Go.jpg> =1000x1000) 
+![Album artwork of 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish](album-artwork/when-we-all-fall-asleep-where-do-we-go-billie-eilish.jpg "Album artwork of 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish") 
 
 **André**
 
@@ -51,7 +55,7 @@ There aren’t many surprises on the album, but it would have been a surprise if
 
 ## 8\. *uknowwhatimsayin¿* // Danny Brown
 
-![Album artwork of 'uknowwhatimsaying' by Danny Brown](<2019/12/uknowwhatimsayin.jpg> =1000x1000) 
+![Album artwork of 'uknowwhatimsaying¿' by Danny Brown](album-artwork/uknowwhatimsayin-danny-brown.jpg "Album artwork of 'uknowwhatimsaying¿' by Danny Brown") 
 
 **Marcus**
 
@@ -63,7 +67,7 @@ Where *AE* was defined by the Jeckyll and Hyde of Party Danny and Comedown Danny
 
 ## 7\. *Grey Area* // Little Simz
 
-![Album artwork of 'Grey Area' by Little Simz](<2019/12/Grey-Area.jpg> =1000x1000) 
+![Album artwork of 'Grey Area' by Little Simz](album-artwork/grey-area-little-simz.jpg "Album artwork of 'Grey Area' by Little Simz") 
 
 **Marcus**
 
@@ -103,7 +107,7 @@ It is not sad, but wise; it may not have all the answers, but it is nevertheless
 
 ### 4\. *All Mirrors* // Angel Olsen
 
-![Album artwork of 'All Mirrors' by Angel Olsen](<2019/12/All-Mirrors.jpg> =1000x1000)
+![Album artwork of 'All Mirrors' by Angel Olsen](album-artwork/all-mirrors-angel-olsen.jpg "Album artwork of 'All Mirrors' by Angel Olsen")
 
 **Micheal**
 

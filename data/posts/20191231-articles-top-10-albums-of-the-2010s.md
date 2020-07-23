@@ -27,7 +27,7 @@ blurb: The end of the 2010s is upon us, which means we are bound by obscure 16th
 
 ## 10\. *James Blake* // James Blake
 
-![Album artwork of 'James Blake' by James Blake](<2019/12/James-Blake.jpeg> =1000x1000)
+![Album artwork of 'James Blake' by James Blake](album-artwork/james-blake-james-blake.jpg "Album artwork of 'James Blake' by James Blake")
 
 **Andrew**
 
@@ -109,7 +109,7 @@ The album, inspired by Ocean’s unrequited love for a man at 19, was groundbrea
 
 ## 4\. *Good Kid, M.A.A.D City* // Kendrick Lamar
 
-[!](<2019/12/Good-Kid-M.A.A.D-City.jpg> =1000x1000)]
+![Album artwork of 'Good Kid, M.A.A.D City' by Kendrick Lamar](album-artwork/good-kid-maad-city-kendrick-lamar.jpg "Album artwork of 'Good Kid, M.A.A.D City' by Kendrick Lamar")
 
 **Marcus**
 

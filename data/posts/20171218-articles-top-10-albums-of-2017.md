@@ -15,7 +15,7 @@ tags:
   - tyler the creator
   - wolf alice
   - 2010s
-featuredimage: 2017/12/wolf-alice.jpg
+featuredimage: article-images/favourite-albums-2017.jpg
 title: Our 10 favourite albums of 2017
 author:
   - michael
@@ -84,7 +84,7 @@ Semper* Femina* looks to have been one of the more understated releases of the y
 
 ## 5\. *New Energy* // Four Tet
 
-![](<2017/12/New-Energy.jpg> =500x500)
+![Album artwork of 'New Energy' by Four Tet](album-artwork/new-energy-four-tet.jpg "Album artwork of 'New Energy' by Four Tet")
 
 **André**
 
@@ -106,7 +106,7 @@ Like *Section.80*, *good kid m.A.A.d city*, and [*To Pimp a Butterfly*](/reviews
 
 ## 3\. *Run the jewels 3* // Run the Jewels
 
-![Album artwork of Run the Jewels 3](<2017/12/RTJ3.jpg> =500x500)
+![Album artwork of 'Run the Jewels 3' by Run the Jewels](album-artwork/run-the-jewels-3-run-the-jewels.jpg "Album artwork of 'Run the Jewels 3' by Run the Jewels")
 
 **Andrew**
 
@@ -114,9 +114,9 @@ Run the Jewels have released two distinctive and equally excellent albums in pre
 
 -----
 
-## 2\. *Outrage! Is Now* // Death From Above
+## 2\. *Outrage! Is Now* // Death from Above
 
-![Album artwork of Outrage is Now](<2017/12/outrage-is-now.jpg> =500x500)
+![Album artwork of 'Outrage is Now' by Death from Above](album-artwork/outrage-is-now-death-from-above.jpg "Album artwork of 'Outrage is Now' by Death from Above")
 
 **André**
 

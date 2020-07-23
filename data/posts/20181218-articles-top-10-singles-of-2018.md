@@ -14,7 +14,7 @@ tags:
   - nine inch nails
   - janelle monae
   - 2010s
-featuredimage: 2018/12/This-is-America.jpg
+featuredimage: article-images/favourite-singles-2018.jpg
 title: Our 10 favourite singles of 2018
 author: admin
 blurb: What would the end of the year be without some lists? Here lies our favourite singles of 2018.
@@ -23,7 +23,7 @@ blurb: What would the end of the year be without some lists? Here lies our favou
 
 ## 10\. “EveryBody’s Coming to My House” // David Byrne
 
-<center><iframe src="https://www.youtube.com/embed/euEgyXoOonk" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -35,7 +35,7 @@ The rattling percussion, soaring horn arrangements, and near delirious delivery 
 
 ## 9\. “The Reason They Hate Me” // Daughters
 
-<center><iframe src="https://www.youtube.com/embed/cqa4_YuQQV8" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
@@ -45,7 +45,7 @@ You can always trust a noise-rock band to provide one of the catchiest songs of 
 
 ## 8\. “Diamond” // All Them Witches
 
-<center><iframe src="https://www.youtube.com/embed/kh1Jd8xU42U" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Gabriel**
 
@@ -55,7 +55,7 @@ You can always trust a noise-rock band to provide one of the catchiest songs of 
 
 ## 7\. “I’ll Make You Sorry” // Screaming Females
 
-<center><iframe src="https://www.youtube.com/embed/LhJ0n5G5jCo" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
@@ -65,7 +65,7 @@ Screaming Females’ 2018 record *All at Once* isn’t just one of the finest ro
 
 ## 6\. “Potato Salad” // Tyler, the Creator
 
-<center><iframe src="https://www.youtube.com/embed/93M1QtYDtpU" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Andrew**
 
@@ -79,7 +79,7 @@ Pair all of that with a video of the two larking about in France with some under
 
 ## 5\. “God Break Down the Door” // Nine Inch Nails
 
-<center><iframe src="https://www.youtube.com/embed/eeJ_DzRJUI4" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -91,7 +91,7 @@ The breathless muddle of horns and thumping percussion that undercuts the song i
 
 ## 4\. “Honey” // Robyn
 
-<center><iframe src="https://www.youtube.com/embed/Mru9GG3ur9U" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Fred**
 
@@ -102,7 +102,7 @@ Robyn’s reflectiveness is beautifully framed by the mix. In purely aesthetic t
 
 ## 3\. “Make Me Feel” // Janelle Monae
 
-<center><iframe src="https://www.youtube.com/embed/tGRzz0oqgUE" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Andrew**
 
@@ -116,7 +116,7 @@ It’s a thoroughly enjoyable pop track that set a standard for the rest of the 
 
 ## 2\. “Colossus” // IDLES
 
-<center><iframe src="https://www.youtube.com/embed/VODKZxsRa_E" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **Marcus**
 
@@ -126,7 +126,7 @@ It’s a thoroughly enjoyable pop track that set a standard for the rest of the 
 
 ## 1\. “This is America” // Childish Gambino
 
-<center><iframe src="https://www.youtube.com/embed/VYOjWnS4cMY" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+TBD
 ­
 **André**
 
