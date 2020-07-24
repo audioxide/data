@@ -73,7 +73,7 @@ review: >-
 
   I’m more taken with the album’s mood than with any one track. Its murky atmosphere is what allows PJ Harvey to holler and moan like no-one else can. Indeed, my favourite song is comfortably “I Think I’m a Mother”, which does a wonderful job of going nowhere. In contrast, the five-minute rollicking of “Long Snake Moan” is probably where I’m least interested. Enough of that noise, get me back to the guttural mysticism.
 
-  Even though the music is dark sonically, and at times even darker lyrically, *To Bring You My Love* has a theatricality that makes it easier to enjoy than other miserable music – [*The Downward Spiral *](/reviews/nine-inch-nails-the-downward-spiral/)or [*Unknown Pleasures*](/reviews/joy-division-unknown-pleasures/), for example. With Harvey it feels like you’ve stumbled across the ad hoc performance of a travelling mystic. It’s black magic with a smile. There’s blood trickling from the corner of its mouth, but then who are we to judge? I think it’s great.
+  Even though the music is dark sonically, and at times even darker lyrically, *To Bring You My Love* has a theatricality that makes it easier to enjoy than other miserable music – [*The Downward Spiral*](/reviews/nine-inch-nails-the-downward-spiral/) or [*Unknown Pleasures*](/reviews/joy-division-unknown-pleasures/), for example. With Harvey it feels like you’ve stumbled across the ad hoc performance of a travelling mystic. It’s black magic with a smile. There’s blood trickling from the corner of its mouth, but then who are we to judge? I think it’s great.
 
 tracks:
   - I Think I’m a Mother
