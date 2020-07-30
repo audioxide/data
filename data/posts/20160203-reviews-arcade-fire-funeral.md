@@ -41,7 +41,7 @@ review: >-
   
   In this sense, Arcade Fire show the deepest ambition of all. It could have soared away into a fantasy, but *Funeral* keeps its feet firmly rooted on the ground. “Neighborhood #3 (Power Out)” plays out like the thumping beat of an adolescent heart, whilst the outstanding “Wake Up” reflects on all that precedes it, coming to the conclusion that, ‘Children don’t grow up/our bodies get bigger and our minds get torn up.’ 
   
-  Also deserving of mention is “In The Backseat”, a fitting end to a quite beautiful piece of work. *Funeral* is a wonderful record that should really be exposed to anyone with an ounce of sentimentality in regards to their youth. It’s quite possibly the most human record of the 21st Century.
+  Also deserving of mention is “In The Backseat”, a fitting end to a quite beautiful piece of work. *Funeral* is a wonderful record that should really be exposed to anyone with an ounce of sentimentality in regards to their youth. It’s quite possibly the most human record of the 21st century.
 
 tracks:
   - "Neighborhood #3 (Power Out)"
