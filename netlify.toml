@@ -9,6 +9,12 @@
   environment = { SITE_URL = "https://alpha.audioxide.com", API_URL = "https://alpha.audioxide.com/api" }
 
 [[headers]]
+  for = "/images/**/*.jpg"
+  [headers.values]
+    Content-Type = "image/jpeg"
+  for = "/images/**/*.png"
+  [headers.values]
+    Content-Type = "image/png"
   for = "/*"
   [headers.values]
     Content-Type = "application/json"

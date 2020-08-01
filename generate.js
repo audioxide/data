@@ -29,9 +29,17 @@ const footnoteRefExtension = () => [
             return newText;
         },
     },
-]
+];
 
-const mdConverter = new showdown.Converter({ extensions: [footnoteRefExtension] });
+const pullquoteExtension = () => [
+    {
+        type: 'lang',
+        regex: /\[([^\]]+)\]\(\+\)/g,
+        replace: '<span data-pullquote="$1">$1</span>'
+    },
+];
+
+const mdConverter = new showdown.Converter({ extensions: [footnoteRefExtension, pullquoteExtension] });
 
 const inputBase = './data';
 const outputBase = './dist';
