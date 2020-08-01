@@ -241,8 +241,21 @@ const resolveAuthor = (obj) => {
         case 'object':
             if (Array.isArray(obj.author)) {
                 // An array of multiple authors, resolve any string values
-                obj.author = obj.author
-                    .map(ref => typeof ref === 'string' ? resolveSingle(ref) : ref);
+                const authors = obj.author
+                    .filter(ref => typeof ref === 'string')
+                    .map(ref => resolveSingle(ref));
+                obj.author = {
+                    name: authors.reduce((acc, val, ind, arr) => {
+                        let joiner = ', ';
+                        if (ind === 0) {
+                            joiner = '';
+                        } else if (ind === arr.length - 1) {
+                            joiner = ' & ';
+                        }
+                        return acc.concat(joiner, val.name);
+                    }, ''),
+                    authors,
+                }
                 return;
             }
             // Maybe this has already been resolved? Unlikely; no-op
@@ -250,7 +263,11 @@ const resolveAuthor = (obj) => {
         case 'string':
             // Single author, original use case
             // TODO: Should we return an array here too for consistency?
-            obj.author = resolveSingle(obj.author);
+            const author = resolveSingle(obj.author);
+            obj.author = {
+                name: author.name,
+                authors: [author],
+            };
             return;
         default:
             // No-op, we can't resolve this
