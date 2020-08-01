@@ -243,7 +243,12 @@ const resolveAuthor = (obj) => {
                 // An array of multiple authors, resolve any string values
                 const authors = obj.author
                     .filter(ref => typeof ref === 'string')
-                    .map(ref => resolveSingle(ref));
+                    .map(ref => resolveSingle(ref))
+                    .filter(obj => typeof obj === 'object');
+                if (authors.length === 0) {
+                    delete obj.author;
+                    return;
+                }
                 obj.author = {
                     name: authors.reduce((acc, val, ind, arr) => {
                         let joiner = ', ';
@@ -264,6 +269,10 @@ const resolveAuthor = (obj) => {
             // Single author, original use case
             // TODO: Should we return an array here too for consistency?
             const author = resolveSingle(obj.author);
+            if (typeof author !== 'object') {
+                delete obj.author;
+                return;
+            }
             obj.author = {
                 name: author.name,
                 authors: [author],
