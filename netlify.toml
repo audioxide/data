@@ -14,3 +14,13 @@
     Content-Type = "application/json"
     Access-Control-Allow-Origin = "ALLOWED_URL"
     Vary = "Origin"
+
+[[headers]]
+  for = "/images/**/*.jpg"
+  [headers.values]
+    Content-Type = "image/jpeg"
+
+[[headers]]
+  for = "/images/**/*.png"
+  [headers.values]
+    Content-Type = "image/png"
