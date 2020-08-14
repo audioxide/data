@@ -12,6 +12,7 @@ tags:
 featuredimage: album-artwork/arthur-the-kinks.jpg
 artist: The Kinks
 album: Arthur (Or the Decline and Fall of the British Empire)
+essentialtracks: ""
 favouritetracks:
   - Australia
   - Shangri-La

@@ -18,6 +18,7 @@ tags:
 featuredimage: album-artwork/cosmogramma-flying-lotus.jpg
 artist: Flying Lotus
 album: Cosmogramma
+essentialtracks: ""
 favouritetracks:
   - Do the Astral Plane
   - Galaxy in Janaki
