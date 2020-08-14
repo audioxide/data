@@ -13,7 +13,7 @@ tags:
   - run the jewels
 featuredimage: album-artwork/rough-and-rowdy-ways-bob-dylan.jpg
 artist: Bob Dylan
-album: Rough and Rowdy Ways
+album: Rough & Rowdy Ways
 essentialtracks:
   - False Prophet 
 favouritetracks:
@@ -82,7 +82,7 @@ score:
 
 ---
 
-author: Charlie
+author: charlie-clissitt
 
 review: >-
   For the work of a 79-year-old man, Rough and Rowdy Ways is fairly impressive – the lyrics are engaging, the production is crisp, and a couple of the tracks pack a decent punch. However, for a Bob Dylan record, this album is a bit of a letdown. Fans have had to wait eight years for Dylan to return to writing original material, and they have been rather shortchanged.
