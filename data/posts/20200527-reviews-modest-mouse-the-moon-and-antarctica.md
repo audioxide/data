@@ -75,7 +75,7 @@ score:
 
 ---
 
-author: Rob
+author: rob-wilson
 
 review: >-
   As is the case with Modest Mouse’s other records, *The Moon & Antarctica* is a sprawling and winding pilgrimage with ideas miles above its station. Across its hour-long duration it pulls from a dozen different sources as the band apply the naked grit of their rustic aesthetics and the beat of their unpolished heart to dance punk, neo-psychedelia, and post-rock, among others, all the while philosophising about the human condition and our relationship with the universe around us. To this day, 20 after its release, it remains impossible to pin down.

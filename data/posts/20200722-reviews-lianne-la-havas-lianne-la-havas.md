@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.63
 colours:
-  - "#6397e0"
-  - "#f5f0f7"
-  - "#f5f0f7"
+  - "#595959"
+  - "#d4d4d4"
+  - "#b6b6b6"
 pullquote: One step forward, two steps back 
 summary: The record lacks hooks and memorable moments. Lianne La Havas is her most cohesive album to date, but perhaps her most forgettable. It feels like one step forward, two steps back. 
 week: 241
