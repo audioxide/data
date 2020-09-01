@@ -348,7 +348,7 @@ const init = async () => {
 
     await Promise.all([
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => post.metadata), type)),
-        generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => post.metadata) }), {}), 'latest'),
+        generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
         ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
         generateResponse(data.authors, 'authors'),
         generateResponse(Object.keys(tagGrouping), 'tags'),
