@@ -29,7 +29,7 @@ colours:
   - "#e7c559"
   - "#e0c377"
 pullquote: Vintage Neil Young
-summary: "After the Gold Rush remains one of the definitive albums released by, quite possibly, the greatest singer-songwriter we've ever seen. To those looking to probe Young's daunting discography: start here."
+summary: "One of the definitive albums released by, quite possibly, the greatest singer-songwriter we've ever seen. To those looking to probe Young's daunting discography: start here."
 week: 242
 blurb: Along with a supremely confident and symbiotic backing band, Neil Young imbues each track with this and easygoing courageousness. A true classic.
 artistMBID: 75167b8b-44e4-407b-9d35-effe87b223cf
