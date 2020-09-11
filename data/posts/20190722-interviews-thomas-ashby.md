@@ -29,6 +29,8 @@ Not that *Backlash* is an activist record. Listen to it and that much is obvious
 
 ‘That’s the idea of it,’ he says, ‘to take these situations which could be quite alarming or upsetting or anxious and showing the light at the end of the tunnel.’ Tom has said he wants the album to have longevity, and I think time will show he’s achieved that. Rather than taking stands on specific issues, *Backlash *is more about the desire to respond to difficult circumstances with positive action, and so actually channels something far more universal.
 
+![Ink sketch of vinyl record by Frederick O'Brien](interview-images/thomas-ashby-vinyl-drawing.jpg)
+
 ‘It’s trying to focus on the positive reaction. Whatever situation you may find yourself in personally, or you may find it hard to relate to politics or what’s going on around you in your community, there is a hope that something good can come from it, even if what you’re currently in is bad.’
 
 It’s quite a simple shift, really. His early projects are more introspective, whereas this time around he’s more tuned in to the world around him. That’s reflected in the music on *Backlash*, which is why I think Tom’s proud of it, and should be.
@@ -55,19 +57,17 @@ For videos Tom had a vague idea of one stage being used in all his videos. As we
 
 Then there’s the video for “What I Expected”, which was inspired by the forced perspective scene in *Eternal Sunshine of the Spotless Mind*, one of Tom’s favourite films. There’s no green screen business; just stop motion and lots and lots of takes. Tom has kindly sent over ‘behind the scenes’ footage so you can see how he set it up:
 
-<center><iframe src="https://www.youtube.com/embed/tCa3hCcYQuM" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe><center></center></center>
+<center><iframe src="https://www.youtube.com/embed/tCa3hCcYQuM" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
 The artwork was a series of happy accidents. Tom took a liking to an ink drawing I did of a made up vinyl record, where the groove was a single, uninterrupted line. ‘I think the kind of timeless feel of that artwork is what connected with me,’ he says. ‘In a lot of ways it goes back to the roots of what music was for a lot of people, how people listened to it and interacted with it.’He asked if I’d make one for *Backlash*, and I obliged. He likened the design to a Batman symbol when he first saw it, but he’s warmed to it since.
-
-<div id="attachment_7773" style="width: 410px" class="wp-caption alignright"><img class="wp-image-7773" src="2019/07/Dowdry-2.jpg" alt="Ink drawing of vinyl record by Frederick O'Brien" width="400" height="524" srcset="2019/07/Dowdry-2.jpg 782w, 2019/07/Dowdry-2.jpg 229w, 2019/07/Dowdry-2.jpg 768w, 2019/07/Dowdry-2.jpg 1000w" sizes="(max-width: 400px) 100vw, 400px"><p class="wp-caption-text">Tom asked if I would do his EP artwork after he saw this drawing</p></div>
 
 My design didn’t feel right to either of us until Tom spent an evening making a handful of wild, unplanned paintings. All broad strokes and instinct. When he overlaid my line drawing over one of the paintings, we knew we had it. We wound up being bullied by Apple Music and Spotify into making variations for each song, but we’re glad we were now. It feels like a complete set, and very much aligned with the spirit of the EP. The meticulousness of the lines with the wildness of the paintings sits right with both of us. It’s probably quite a good visualisation of life in the flat, now I think of it.
 
 For Tom, it ultimately connects with the music. ‘Without necessarily intending to, I think it says a lot about the EP in that there’s been a huge amount of thought that’s gone into it, but there’s also been that emphasis on an organic relationship between each player and the music.’
 
-All this amounts to something that feels very complete. There’s a consistent tone running through the music, its videos, and its artwork. Even the [website](<https://thomasashby.co.uk/>) Tom made for himself while he was here fits with the overall project. ‘I feel it has more purpose,’ he says, and that feeling has rung true since he started gigging with the material.
+All this amounts to something that feels very complete. There’s a consistent tone running through the music, its videos, and its artwork. Even the [website](https://thomasashby.co.uk/) Tom made for himself while he was here fits with the overall project. ‘I feel it has more purpose,’ he says, and that feeling has rung true since he started gigging with the material.
 
-<div id="attachment_7772" style="width: 410px" class="wp-caption alignleft"><img class="wp-image-7772" src="2019/07/Backlash.jpg" alt="Artwork of Thomas Ashby's EP 'Backlash'" width="400" height="400" srcset="2019/07/Backlash.jpg 300w, 2019/07/Backlash.jpg 150w, 2019/07/Backlash.jpg 768w, 2019/07/Backlash.jpg 1024w, 2019/07/Backlash.jpg 500w, 2019/07/Backlash.jpg 1000w, 2019/07/Backlash.jpg 125w" sizes="(max-width: 400px) 100vw, 400px"><p class="wp-caption-text">Final artwork for ‘Backlash’. Lines by me, paint strokes by Tom</p></div>
+![Artwork of Backlash EP by Thomas Ashby](album-artwork/backlash-thomas-ashby.jpg)
 
 ‘These songs had a good purpose to be sung at gigs, and I’ve had people react to things at gigs. That was really rewarding, to know it engaged with people that way, more than just singing about heartbreak or singing about a lovely moment I had travelling.’
 

@@ -6,6 +6,11 @@ type: interviews
 tags:
   - boards of canada
   - colourful sevens
+  - arctic monkeys
+  - rock
+  - indie
+  - gorillaz
+  - weezer
 featuredimage: interview-images/rob-wilson.jpg
 title: "Colourful Sevens: &#8216;I love making music by myself &#8211; I can treat my songs as diary entries.&#8217;"
 summary: Colourful Sevens (real name Rob Wilson) is a musician from Manchester who has released three albums, the third of which — Moon — came out in January. We caught up with him to discuss his latest work, the merits of working alone, and the wisdom of Roger Ebert.
@@ -20,11 +25,11 @@ blurb: "'I love making music by myself - I can treat my songs as diary entries.'
 
 **What’s the music that got you into music?**
 
-Well, I’ve always been surrounded by pop music because of my family. My mum’s side were really big on Motown and sing-a-long cheese acts like Daniel O’Donnell or The Monkees. I always used to sing to whatever was playing in my house often enough for me to remember. I met a guy in high school who knew how to play guitar and we had an acoustic duo together. At the same time I was finding music through my own avenues and through recommendations from friends. [Arctic Monkeys](<reviews/arctic-monkeys-favourite-worst-nightmare/>) were suddenly a big deal to me, so were Gorillaz. I think once I started discovering bands off my own back I always wanted to replicate what they were doing — I’ve always wanted to make music, but until I was maybe 13 or 14 I never had anything to accompany my voice.
+Well, I’ve always been surrounded by pop music because of my family. My mum’s side were really big on Motown and sing-a-long cheese acts like Daniel O’Donnell or The Monkees. I always used to sing to whatever was playing in my house often enough for me to remember. I met a guy in high school who knew how to play guitar and we had an acoustic duo together. At the same time I was finding music through my own avenues and through recommendations from friends. [Arctic Monkeys](reviews/arctic-monkeys-favourite-worst-nightmare/) were suddenly a big deal to me, so were Gorillaz. I think once I started discovering bands off my own back I always wanted to replicate what they were doing — I’ve always wanted to make music, but until I was maybe 13 or 14 I never had anything to accompany my voice.
 
 **What was it about groups like Arctic Monkeys and Gorillaz that clicked with you?**
 
-It’s hard to say with Gorillaz. [*Demon Days*](<reviews/gorillaz-demon-days/>) was the first album I ever bought with my own money so I’m not sure I had credentials for what I thought was ‘good’ back then. I just remember being so freaked out by the “Feel Good Inc.” and “DARE” videos when I was maybe ten-years-old, and I spent months trying to rehearse Booty Brown’s verse from “Dirty Harry”. I was late to the Arctic Monkeys party, though, and by late I mean I didn’t get into them seriously until I was maybe 17 or 18. By that point I’d been through an emo phase in the latter years of high school that I couldn’t quite shake off (and still haven’t because I’ve used a picture of me during that phase as the *Moon* artwork!). I’d become obsessed with British indie music in an attempt to re-brand myself for college. Joy Division, The Stone Roses, The Smiths… you know the types. Arctic Monkeys had four albums by this point and I was desperate to make sure they were the soundtrack to me cutting my hair short again and exchanging my brightly coloured hoodies for grey jumpers.
+It’s hard to say with Gorillaz. [*Demon Days*](reviews/gorillaz-demon-days/) was the first album I ever bought with my own money so I’m not sure I had credentials for what I thought was ‘good’ back then. I just remember being so freaked out by the “Feel Good Inc.” and “DARE” videos when I was maybe ten-years-old, and I spent months trying to rehearse Booty Brown’s verse from “Dirty Harry”. I was late to the Arctic Monkeys party, though, and by late I mean I didn’t get into them seriously until I was maybe 17 or 18. By that point I’d been through an emo phase in the latter years of high school that I couldn’t quite shake off (and still haven’t because I’ve used a picture of me during that phase as the *Moon* artwork!). I’d become obsessed with British indie music in an attempt to re-brand myself for college. Joy Division, The Stone Roses, The Smiths… you know the types. Arctic Monkeys had four albums by this point and I was desperate to make sure they were the soundtrack to me cutting my hair short again and exchanging my brightly coloured hoodies for grey jumpers.
 
 **So I guess I’d like to put _Moon_ in context a little bit. This is your third album. How did those influences lead into you first making your own music?**
 
@@ -48,7 +53,7 @@ I had to put a blog together for a university assignment back when I was maybe 1
 
 **Agreed. You’re a Boards fan?**
 
-[*Music Has the Right to Children*](<reviews/boards-of-canada-music-has-the-right-to-children/>) and *Geogaddi *are two of my favourite albums of all time and I have a tattoo of one of their logos on my forearm. I think I’d say I am, yes — haha.
+[*Music Has the Right to Children*](reviews/boards-of-canada-music-has-the-right-to-children/) and *Geogaddi *are two of my favourite albums of all time and I have a tattoo of one of their logos on my forearm. I think I’d say I am, yes — haha.
 
 **We’re big fans of _Music Has the Right to Children_. A similar ambient peace comes across in _Moon_’s softer moments**
 
@@ -58,7 +63,7 @@ Yeah, I can’t afford to buy all the equipment necessary to sound like them so 
 
 Well, it’s funny, because as someone who has spent so much of his life consuming music, I always saw new albums as the beginning of a cycle. Now I’m used to working on albums for eighteen months and then finally releasing them, so I see new albums as the end of a cycle these days. The record itself is a semi-chronological, mostly autobiographical look at my emotional state between March 2017 and July 2018, so only certain sections of some songs apply to how I feel right now.
 
-I think, listening back to [*Hem Haw OK*](<https://colourfulsevens.bandcamp.com/album/hem-haw-ok-2>), I’d reached a peaceful point in my life: I’d had health issues but was dealing with them, I was doing a masters degree, I was in a happy long-term relationship. But then that relationship ended quite suddenly, my masters degree came to an end, and my health issues stopped feeling so under control. Where *Hem Haw OK* looked out to the future with a hopeful glance, *Moon* covered my crash back down into reality.
+I think, listening back to [*Hem Haw OK*](https://colourfulsevens.bandcamp.com/album/hem-haw-ok-2), I’d reached a peaceful point in my life: I’d had health issues but was dealing with them, I was doing a masters degree, I was in a happy long-term relationship. But then that relationship ended quite suddenly, my masters degree came to an end, and my health issues stopped feeling so under control. Where *Hem Haw OK* looked out to the future with a hopeful glance, *Moon* covered my crash back down into reality.
 
 The record starts in the immediate aftermath of that break-up, moves into analysing how the fuck I was supposed to cope with dating again with so much health anxiety, and then reaches the point where a new relationship starts just as I come to terms with change overall. Beginnings and endings and knowing the difference, as that *Twin Peaks* sample says on ‘Apr-1’.
 
@@ -82,7 +87,7 @@ It’s a picture of me from when I was 16 or so. A friend of mine had a new came
 
 **I know it’s early days, but how do you think *Moon* sits in your discography?**
 
-I think it finds a queasy point between the first two albums and occupies a space there. [It *Does Not Matter*](<https://colourfulsevens.bandcamp.com/album/it-does-not-matter>) was a nice idea but the entire thing was written, recorded and haphazardly constructed in the space of about three months. Looking back now, it shows. It’s an angry record. I don’t want to sit here and trash my own work but there are so many things about that album that I wish I could take back. It was before I started getting back in to emo pop and power pop and before I fell very deeply for [early Weezer](<reviews/weezer-the-blue-album/>), so it was only on *Hem Haw OK* that I realised what I wanted out of life and used it as a place to let my anxieties play out. *Moon* feels like a realisation of both approaches, where I’m more aware of the direction I want to take an album in conceptually and focused on finding peace with my life, but reminding myself constantly that reality sucks in between its peaceful moments.
+I think it finds a queasy point between the first two albums and occupies a space there. [It *Does Not Matter*](https://colourfulsevens.bandcamp.com/album/it-does-not-matter) was a nice idea but the entire thing was written, recorded and haphazardly constructed in the space of about three months. Looking back now, it shows. It’s an angry record. I don’t want to sit here and trash my own work but there are so many things about that album that I wish I could take back. It was before I started getting back in to emo pop and power pop and before I fell very deeply for [early Weezer](reviews/weezer-the-blue-album/), so it was only on *Hem Haw OK* that I realised what I wanted out of life and used it as a place to let my anxieties play out. *Moon* feels like a realisation of both approaches, where I’m more aware of the direction I want to take an album in conceptually and focused on finding peace with my life, but reminding myself constantly that reality sucks in between its peaceful moments.
 
 **Are you writing anything new at the moment?**
 
