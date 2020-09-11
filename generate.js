@@ -1,4 +1,5 @@
 const fs = require('fs');
+const nodePath = require('path');
 const YAML = require('yaml');
 const showdown = require('showdown');
 const sharp = require('sharp');
@@ -43,7 +44,8 @@ const mdConverter = new showdown.Converter({ extensions: [footnoteRefExtension, 
 
 const inputBase = './data';
 const outputBase = './dist';
-const postBase = '/posts'
+const postBase = '/posts';
+const pageBase = '/pages';
 const imagesBase = '/images';
 const tagsBase = '/tags';
 const segmentDetector = /(^|\r?\n?)---\r?\n/;
@@ -90,57 +92,63 @@ const generateImages = async (originalPath) => {
     return sizeObj;
 }
 
-    const resolveLocalUrls = async (html) => {
-        const images = html.match(localImage);
-        if (Array.isArray(images)) {
-            await Promise.all(
-                images.map(async (image) => {
-                    const [match, src] = image.match(/src="([^"]+?)"/);
-                    const { path, file, extension } = getPathParts(src);
-                    await generateImages(src);
-                    const max = imageMax[src];
-                    const sizes = Object.entries(imageConfig.sizes);
-                    let srcset = '';
-                    let i = 0;
-                    let joiner = '';
-                    do {
-                        const [size, width] = sizes[i];
-                        srcset += `${joiner}${process.env.API_URL}${imagesBase}/${path}${file}-${size}-original${extension} ${Math.min(width, max.w)}w`;
-                        joiner = ',\n';
-                        i++;
-                    } while (i < sizes.length && sizes[i - 1][1] < max.w);
-                    let imageWithAttributes = `${image.replace(file, `${file}-medium-original`)} srcset="${srcset}" sizes="(max-width: ${max.w}px) 100vw, ${max.w}px" loading="lazy"`;
-                    if (image.indexOf('width=') === -1 && image.indexOf('height=') === -1) {
-                        imageWithAttributes += ` width="${max.w}" height="${max.h}"`;
-                    }
+const resolveLocalUrls = async (html) => {
+    const images = html.match(localImage);
+    if (Array.isArray(images)) {
+        await Promise.all(
+            images.map(async (image) => {
+                const [match, src] = image.match(/src="([^"]+?)"/);
+                const { path, file, extension } = getPathParts(src);
+                await generateImages(src);
+                const max = imageMax[src];
+                const sizes = Object.entries(imageConfig.sizes);
+                let srcset = '';
+                let i = 0;
+                let joiner = '';
+                do {
+                    const [size, width] = sizes[i];
+                    srcset += `${joiner}${process.env.API_URL}${imagesBase}/${path}${file}-${size}-original${extension} ${Math.min(width, max.w)}w`;
+                    joiner = ',\n';
+                    i++;
+                } while (i < sizes.length && sizes[i - 1][1] < max.w);
+                let imageWithAttributes = `${image.replace(file, `${file}-medium-original`)} srcset="${srcset}" sizes="(max-width: ${max.w}px) 100vw, ${max.w}px" loading="lazy"`;
+                if (image.indexOf('width=') === -1 && image.indexOf('height=') === -1) {
+                    imageWithAttributes += ` width="${max.w}" height="${max.h}"`;
+                }
 
-                    html = html.replace(image, imageWithAttributes);
-                }),
-            );
-        }
-        return html.replace(localImage, `$1${process.env.API_URL}/images/$2"`)
-            .replace(localLink, `$1${process.env.SITE_URL}/$3"`);
+                html = html.replace(image, imageWithAttributes);
+            }),
+        );
     }
+    return html.replace(localImage, `$1${process.env.API_URL}/images/$2"`)
+        .replace(localLink, `$1${process.env.SITE_URL}/$3"`);
+}
 
-    const processContentFile = async (path, metadataYAML, contentSegments) => {
-        // We infer some information from the filename
-        const [match, year, month, day, type, slug] = path.match(/(\d{4})(\d{2})(\d{2})-([^-]+?)-(.+?)\.md$/);
-        const title = startCase(slug);
-        const date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
-        let metadata = {
+const processContentFile = async (path, metadataYAML, contentSegments) => {
+    // We infer some information from the filename
+    const parsedPath = nodePath.parse(path);
+    const metadata = {
+        slug: parsedPath.name,
+    };
+    const postTitle = path.match(/(\d{4})(\d{2})(\d{2})-([^-]+?)-(.+?)\.md$/);
+    if (postTitle) {
+        const [match, year, month, day, type, slug] = postTitle;
+        date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+        Object.assign(metadata, {
             slug,
-            title,
             type,
             created: date,
-        };
-        let content = [];
-        try {
-            // Anything parsed from the first segment as YAML will overwrite and add to the defaults
-            Object.assign(metadata, YAML.parse(metadataYAML));
-        } catch {}
-        if (!('modified' in metadata)) {
-            metadata.modified = metadata.created;
-        }
+        });
+    }
+    metadata.title = startCase(metadata.slug);
+    let content = [];
+    try {
+        // Anything parsed from the first segment as YAML will overwrite and add to the defaults
+        Object.assign(metadata, YAML.parse(metadataYAML));
+    } catch {}
+    if (!('modified' in metadata) && 'created' in metadata) {
+        metadata.modified = metadata.created;
+    }
     if (!('blurb' in metadata) && 'summary' in metadata) {
         metadata.blurb = metadata.summary;
     }
@@ -338,7 +346,7 @@ const init = async () => {
         }
     }
 
-    await Promise.all(['', postBase, imagesBase, tagsBase].map(dir => {
+    await Promise.all(['', postBase, pageBase, imagesBase, tagsBase].map(dir => {
         const checkPath = outputBase + dir;
         if (!fs.existsSync(checkPath)) {
             return fs.promises.mkdir(checkPath, { recursive: true });
@@ -351,6 +359,7 @@ const init = async () => {
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
         ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
         generateResponse(data.authors, 'authors'),
+        ...Object.values(data.pages).map(page => generateResponse(page, `pages/${page.metadata.slug}`)),
         generateResponse(Object.keys(tagGrouping), 'tags'),
         ...Object.entries(tagGrouping).map(([tag, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), `tags/${tag}`)),
         generateResponse(typeGrouping.reviews.slice(0, 22).map(({ metadata }) => ({
@@ -360,6 +369,10 @@ const init = async () => {
             album: metadata.album,
             slug: metadata.slug,
         })), 'albumbanner'),
+        generateResponse({
+            pages: Object.values(data.pages).map(page => page.metadata.slug),
+            postTypes: Object.keys(typeGrouping),
+        }, 'types'),
     ]);
 };
 
