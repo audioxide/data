@@ -2,7 +2,7 @@
 created: 2020-09-11
 ---
 
-If you want to get in touch, be it to send music and/or bribe us for positive coverage, feel free to send over an email. Bribes are especially welcome.
+If you want to get in touch, be it to send music or tell us our reviews suck, feel free to send over an email.
 
 - André: andre@audioxide.com 
 - Fred: fred@audioxide.com
