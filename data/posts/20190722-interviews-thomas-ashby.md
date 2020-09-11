@@ -5,14 +5,17 @@ slug: thomas-ashby
 type: interviews
 tags:
   - thomas ashby
-featuredimage: 2019/07/Thomas-Ashby-performing-1.jpg
+featuredimage: interview-images/thomas-ashby.jpg
 title: "Thomas Ashby: &#8216;When you’re in a studio that’s your space to be the biggest you you can be.’"
 summary: Thomas Ashby is a singer/songwriter from Herne Bay. For 16 long, miserable months we lived together in London. During that time he recorded and released his third EP – Backlash. Before he left we sat down to work out what on earth happened.
 author: fred
 blurb: Thomas Ashby is a singer/songwriter from Herne Bay. We discuss living together during the time he recorded and released his third EP - 'Backlash'.
 ---
 
-![](<2019/07/Thomas-Ashby-performing-1.jpg> =1500x1000)
+<figure class="wide">
+  <img src="interview-images/thomas-ashby.jpg" alt="Singer-songwriter Thomas Ashby performing" />
+  <figcaption></figcaption>
+</figure>
 
 Over the last year and a half I have probably heard more of Thomas Ashby’s music than anyone else in the world. I haven’t had much of a say in the matter, but that’s all right. I’ve liked it. Until a month ago we shared a flat in London, during which time Tom recorded and released an EP called *Backlash*.
 
