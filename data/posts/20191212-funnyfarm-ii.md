@@ -4,13 +4,18 @@ modified: 2020-03-06T12:48:33.000Z
 slug: ii
 type: funnyfarm
 tags: []
-featuredimage: 2019/12/Funnyfarm-2-2-Bas.jpg
+featuredimage: funnyfarm-images/2-bas.jpg
 title: "Funnyfarm II: Bas"
 summary: In which a second guitarist is sourced at a local car park
 author: fred
 blurb: In which a second guitarist is sourced at a local car park.
 
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/2-bas.jpg" alt="Illustration for Funnyfarm Part II: Bas" />
+  <figcaption></figcaption>
+</figure>
 
 They found him behind a Ford Focus with his head in a cloud. He was slumped at the base of a wall smoking a stupendously large spliff, watching as a ribbon of smoke rippled from its tip and faded into the cool night air.
 

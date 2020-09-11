@@ -4,13 +4,18 @@ modified: 2020-04-19T18:06:53.000Z
 slug: v
 type: funnyfarm
 tags: []
-featuredimage: 2020/03/The-Van.jpg
+featuredimage: funnyfarm-images/5-the-van.jpg
 title: "Funnyfarm V: The Van"
 summary: In which Soviet manufacturing holds up surprisingly well
 author: fred
 blurb: In which Soviet manufacturing holds up surprisingly well.
 
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/5-the-van.jpg" alt="Illustration for Funnyfarm Part V: The Van" />
+  <figcaption></figcaption>
+</figure>
 
 The band’s first gig was a riot. Literally. Halfway through the second song the pub’s occupants broke out in a fit of frustration and despair, unwilling to distance themselves from the bar but also loathe to listen to another second of such astonishing drivel.
 
@@ -37,7 +42,7 @@ Stone trotted round the corner. After a moment’s pause the sounds of fresh bed
 
 None of them said a word. They each turned and began to walk away. Their walks turned into trots, then sprints. Fueled by an incomprehensible blend of horniness and fear they sprinted home to pack. Their bone dry minds were suddenly ablaze with depraved visions of rock and roll. Except Bas, that is. Bas kept to a saunter.
 
-\*
+<center>\*</center>
 
 The car salesman saw them coming the next morning.
 
