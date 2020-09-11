@@ -4,7 +4,7 @@ modified: 2020-04-19T18:08:28.000Z
 slug: vi
 type: funnyfarm
 tags: []
-featuredimage: funnyfarm-images/5-whats-in-a-name.jpg
+featuredimage: funnyfarm-images/6-whats-in-a-name.jpg
 title: "Funnyfarm VI: What&#8217;s in a Name"
 summary: In which an astonishing lack of imagination is shown by the band, the manager, and the author
 author: fred
@@ -12,7 +12,7 @@ blurb: In which an astonishing lack of imagination is shown by the band, the man
 ---
 
 <figure class="wide">
-  <img src="funnyfarm-images/5-whats-in-a-name.jpg" alt="Illustration for Funnyfarm Part VI: What's in a Name" />
+  <img src="funnyfarm-images/6-whats-in-a-name.jpg" alt="Illustration for Funnyfarm Part VI: What's in a Name" />
   <figcaption></figcaption>
 </figure>
 
