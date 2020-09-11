@@ -4,13 +4,18 @@ modified: 2020-03-06T12:47:33.000Z
 slug: i
 type: funnyfarm
 tags: []
-featuredimage: 2019/12/Funnyfarm-1-Genesis.jpg
-title: "Funnyfarm I: Genesis"
+featuredimage: funnyfarm-images/1-genesis.jpg
+title: "I: Genesis"
 summary: In which two hapless dreamers form a band
 author: fred
 blurb: In the beginning there was Alan Hazard and Ray O. Sunshine. These were their real names.
 
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/1-genesis.jpg" alt="Illustration for Funnyfarm Part I: Genesis" />
+  <figcaption></figcaption>
+</figure>
 
 In the beginning there was Alan Hazard and Raymond Oliver Sunshine. These were their real names.
 

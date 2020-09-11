@@ -4,13 +4,18 @@ modified: 2020-03-06T12:46:49.000Z
 slug: iii
 type: funnyfarm
 tags: []
-featuredimage: 2019/12/Funnyfarm-3-4-1-2-3-4.jpg
+featuredimage: funnyfarm-images/3-4-1-2-3-4.jpg
 title: "Funnyfarm III: 4, 1, 2, 3, 4&#8230;"
 summary: In which the value of a rhythm section quickly becomes clear
 author: fred
 blurb: In which the value of a rhythm section quickly becomes clear.
 
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/3-4-1-2-3-4.jpg" alt="Illustration for Funnyfarm Part III: 4, 1, 2, 3, 4..." />
+  <figcaption></figcaption>
+</figure>
 
 The first time Alan Hazard, Ray Sunshine, and Bas practiced together the result was a temporal marvel. Although each played their part in perfect time, they were seemingly incapable of playing in the *same* time.
 
