@@ -78,4 +78,4 @@ Theo straightened up. He was all too happy to oblige. Allowing himself room for 
 
 ‘We’ll take it,’ Gould said. ‘Load up, boys. There’s a world out there just waiting for you to fall into its lap.’
 
-<center><strong></strong><p><strong>← <a href="funnyfarm/iv/">Previous</a> // <a href="funnyfarm/vi/">Next</a> →</strong></p></center>
+<center><p><strong>← <a href="funnyfarm/iv/">Previous</a> // <a href="funnyfarm/vi/">Next</a> →</strong></p></center>

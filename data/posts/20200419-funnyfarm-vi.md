@@ -80,4 +80,4 @@ She eased herself between Hazard and Sunshine and lit a cigarette. For a while t
 
 ‘Next exit,’ Gould said.
 
-<center><strong></strong><p><strong>← <a href="funnyfarm/v/">Previous</a></strong></p></center>
+<center><p><strong>← <a href="funnyfarm/v/">Previous</a> // <a href="funnyfarm/vii/">Next</a> →</strong></p></center>
