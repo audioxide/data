@@ -8,7 +8,7 @@ tags:
   - 2000s
   - moby
   - electronic
-featuredimage: 2015/11/18-55aab491b075b.jpg
+featuredimage: album-artwork/18-moby.jpg
 artist: Moby
 album: "18"
 essentialtracks:

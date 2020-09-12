@@ -13,7 +13,7 @@ tags:
   - bon iver
   - thom yorke
   - st vincent
-featuredimage: album-artwork/inner-song-kelly-lee-ownes.jpg
+featuredimage: album-artwork/inner-song-kelly-lee-owens.jpg
 artist: Kelly Lee Owens
 album: Inner Song
 essentialtracks: ""
