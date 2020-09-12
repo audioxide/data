@@ -110,4 +110,4 @@ Gould nodded at the pub’s empty stage.
 
 ‘You’re up.’
 
-<center><strong></strong><p><strong>← <a href="funnyfarm/iii/">Previous</a> // <a href="funnyfarm/v/">Next</a> →</strong></p></center>
+<center><p><strong>← <a href="funnyfarm/iii/">Previous</a> // <a href="funnyfarm/v/">Next</a> →</strong></p></center>
