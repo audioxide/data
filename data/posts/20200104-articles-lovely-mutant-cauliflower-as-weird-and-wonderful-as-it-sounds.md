@@ -8,7 +8,7 @@ tags:
   - post punk
   - metal
   - tom waits
-featuredimage: 2020/01/Lovely-mutant-couliflower.jpg
+featuredimage: album-artwork/lovely-mutant-couliflower-this-frilly-ape.jpg
 title: This frilly ape's 'Lovely mutant cauliflower' as weird and wonderful as it sounds
 author: andre
 blurb: It's quite the fusion of sounds, and huge credit goes to Rumerio for creating something so distinctive. It's rather captivating, truth be told.
@@ -16,7 +16,7 @@ blurb: It's quite the fusion of sounds, and huge credit goes to Rumerio for crea
 ---
 
 <figure class="wide">
-  <img src="2020/01/Lovely-mutant-couliflower.jpg" alt="Album artwork of 'Lovely mutant couliflower' by This frilly ape" />
+  <img src="album-artwork/lovely-mutant-couliflower-this-frilly-ape.jpg" alt="Album artwork of 'Lovely mutant couliflower' by This frilly ape" />
   <figcaption></figcaption>
 </figure>
 

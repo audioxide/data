@@ -5,19 +5,23 @@ slug: lorde-melodrama
 type: listeningparties
 tags:
   - lorde
-featuredimage: 2017/06/melodrama-e1512500331684.jpg
+featuredimage: article-images/filler.jpg
 title: "&#8220;This is like a classy Disney tune&#8221; &#8211; André and Fred
   listen to Lorde"
 author: admin
 ---
-*This is part of [a series](<listeningparties/>) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.*
-![](<2017/06/lordebabble.jpg> =680x363)**[“Green Light”]**
-**André<br>
-**Well the album title is fitting.<br>
- Oh, wait. Is this turning into a house track?
-**Fred<br>
-**Good grief.<br>
- The roof on my house just blew off.
+*This is part of [a series](/listeningparties/) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.*
+
+**[“Green Light”]**
+
+**André**
+
+Well the album title is fitting.<br>
+Oh, wait. Is this turning into a house track?
+
+**Fred**Good grief.<br>
+The roof on my house just blew off.
+
 **André<br>
 **That certainly took a turn haha.
 **Fred<br>

@@ -6,7 +6,7 @@ type: articles
 tags:
   - goldfrapp
   - electronic
-featuredimage: 2017/04/silver-eye.jpg
+featuredimage: album-artwork/silver-eye-goldfrapp.jpg
 title: Goldfrapp find familiarity in space
 author: andrew
 summary: With a good handful of predictable and familiar moments, Silver Eye does little to eclipse Goldfrapp's formative releases.

@@ -8,7 +8,7 @@ tags:
   - ed obrien
   - thom yorke
   - alternative rock
-featuredimage: 2016/01/Spectre.png
+featuredimage: album-artwork/spectre-radiohead.jpg
 title: Radiohead&#8217;s &#8220;Spectre&#8221; provides reassurance
 author: andre
 blurb: This is the first Radiohead track to drop in years, and it serves far more than its original (intended) purpose as a Bond song.

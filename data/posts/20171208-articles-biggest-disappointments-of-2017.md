@@ -7,7 +7,7 @@ tags:
   - arcade fire
   - bonobo
   - the flaming lips
-featuredimage: 2017/12/the-flaming-lips.jpg
+featuredimage: article-images/biggest-disappointments-2017.jpg
 title: Our biggest disappointments of 2017
 author:
   - andre
@@ -21,11 +21,11 @@ blurb: It's time to put on our cynical hats. The artists featured here have set 
 
 ------
 
-**André**
-
 ## *Everything Now* // Arcade Fire
 
-![](<2017/07/Everything-Now.jpg> =500x500)
+![Album artwork of 'Everything Now' by Arcade Fire](album-artwork/everything-now-arcade-fire.jpg)
+
+**André**
 
 Where do I even start with this one?
 
@@ -35,11 +35,11 @@ Let’s make one thing clear: I’m not asking for more of the same. Some of the
 
 -----
 
-## Michael
-
 ### *Oczy Mlody* // The Flaming Lips
 
-![](<2017/12/Oczy-mlody.jpg> =500x500)
+![Album artwork of 'Oczy Mlody' by The Flaming Lips](album-artwork/oczy-mlody-the-flaming-lips.jpg)
+
+**Michael**
 
 The previous decade has been the most prolific, intensively creative period in The Flaming Lips’ storied thirty-four years as an active band. Where many artists would be content resting on their laurels after finally cracking the mainstream, as The Lips did in the early-2000s, the core trio of Wayne Coyne, Michael Ivins, and Steven Drozd have negotiated the very real threat of stagnation by throwing themselves wholeheartedly into myriad ridiculous, obtuse experiments. To name but a few: they released a series of nine EPS in 2011, which included a twenty-four-hour song, collaborations with Lightning Bolt and The Plastic Ono Band, and USB sticks lodged in various gummy objects; they produced Miley Cyrus’ 2015 record *Miley Cyrus & Her Dead Petz* and toured as her backing band; and they covered seminal albums by Pink Floyd, King Crimson, and The Beatles in their entirety (all with a little help from their fwends). Such undertakings were far from universally successful, but they didn’t need to be; presented as ramshackle, purely fun experiments, they evinced both a boundless curiosity and a winning sense of enthusiasm that were crucially preserved on the two proper studio albums produced during this period, *Embryonic* and *The Terror*, which rank among the band’s strongest and most challenging records to date.
 
@@ -47,12 +47,14 @@ The previous decade has been the most prolific, intensively creative period in T
 
 -----
 
-## Marcus
-
 ### *Migration* // Bonobo
 
-![Album artwork of 'Migration' by Bonobo](<2017/12/Migration.jpg> =500x500)
+![Album artwork of 'Migration' by Bonobo](album-artwork/migration-bonobo.jpg)
+
+**Marcus**
 
 Bonobo, lesser known as Simon Green, has become cemented within the oeuvre of modern downtempo as a pioneer and centralising force of the genre. With the modern masterpiece of *Black Sands* the veteran set his own standards so high that *The North Borders*, an entirely serviceable and enjoyable album, comes off as mildly disappointing. 
 
-The latest effort, *Migration*, continues the unwelcome trend, appearing to be the product of Bonobo’s newfound reputation as a sunset DJ and the house influences that have come with it. In that respect I suppose one of my issues with *Migration* is that it feels limited and – in the tritest of terms – commercial. The sense of serenity and fluidity that encompasses the best of Green’s work, from the masterful *Black Sands* to the more experimental *Days to Come*, is hardly absent but frequently seems to stall. The sheer listenability I love him for has been replaced with what can often feel like a grind. While I thoroughly enjoy the title track, the oft-maligned “Bambro Koyo Ganda”, and “Ontario”, I much prefer the post-album single, “Samurai”. I tend to get hung up on an album’s identity, or more specifically an album’s ability to form progression between multiple personae rather than bundling myriad conflicting themes and ideas into the same package. *Migration* falls into the latter camp. There’s no sense of consistency or planning in its design, and more gravely the album often feels meandering and indulgent. Forgiveness could be apportioned if the album felt like an experiment, or a redefining of Bonobo’s own borders, but it never feels like he’s showing us an engaging development of his sound with this year’s output. I’m not fearful of permanent stagnation – it’s not as if this is an outright terrible album that’s signalling the doom of one of my favourite soundsmiths – but I can’t help feeling melancholic whenever I spot *Migration*’s artwork in my library.
+The latest effort, *Migration*, continues the unwelcome trend, appearing to be the product of Bonobo’s newfound reputation as a sunset DJ and the house influences that have come with it. In that respect I suppose one of my issues with *Migration* is that it feels limited and – in the tritest of terms – commercial. The sense of serenity and fluidity that encompasses the best of Green’s work, from the masterful *Black Sands* to the more experimental *Days to Come*, is hardly absent but frequently seems to stall. The sheer listenability I love him for has been replaced with what can often feel like a grind. While I thoroughly enjoy the title track, the oft-maligned “Bambro Koyo Ganda”, and “Ontario”, I much prefer the post-album single, “Samurai”. I tend to get hung up on an album’s identity, or more specifically an album’s ability to form progression between multiple personae rather than bundling myriad conflicting themes and ideas into the same package. *Migration* falls into the latter camp. There’s no sense of consistency or planning in its design, and more gravely the album often feels meandering and indulgent. 
+
+Forgiveness could be apportioned if the album felt like an experiment, or a redefining of Bonobo’s own borders, but it never feels like he’s showing us an engaging development of his sound with this year’s output. I’m not fearful of permanent stagnation – it’s not as if this is an outright terrible album that’s signalling the doom of one of my favourite soundsmiths – but I can’t help feeling melancholic whenever I spot *Migration*’s artwork in my library.

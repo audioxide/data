@@ -7,13 +7,344 @@ tags:
   - 2010s
   - liam gallagher
   - oasis
-featuredimage: 2017/10/as-you-were-e1512435406731.jpg
+  - david bowie
+  - spiritualized
+featuredimage: article-images/filler.jpg
 title: "&#8220;Looks like Oaysis have competition&#8221; &#8211; André and Fred
   listen to Liam Gallagher"
 author: admin
 blurb: "\"Looks like Oaysis have competition.\" André and Fred's first
   impressions of 'As You Were', the debut solo album by professional manc Liam
   Gallagher."
+
 ---
-<div><p><em>This is part of&nbsp;<a href="listeningparties/" target="_blank" rel="noopener noreferrer">a series</a> in which two or more members of the Audioxide team listen to an album for the first time.&nbsp;Any instances of interest or insight are purely coincidental.</em></p></div>
-![](<2017/10/liamgallagherbabble.png> =680x363)<div><p id="js_mf" data-tooltip-content="16:07" data-hover="tooltip" data-tooltip-position="right"><strong>[“Wall of Glass”]</strong></p><div data-tooltip-content="16:07" data-hover="tooltip" data-tooltip-position="right"><p><strong>Fred</strong><br> This was a pretty pleasant surprise when it came out</p><p><strong>André</strong><br> I enjoy this, yeah. I remember being pleasantly surprised by his voice</p><p><strong>Fred</strong><br> It still holds up well in the studio</p><p><strong>André</strong><br> Begs the question of how much of it is due to post-production processing and effects mind you…<br> Because some live performances have been pretty bad</p><p><strong>Fred</strong><br> Yeah, he blows hot and cold live<br> He did a great cover of “Natural Mystic” the other day though, so his voice is still there<br> Just weaker</p><p><strong>André</strong><br> I did see that and it was nice</p><p><strong>Fred</strong><br> Anyway, strong start this. Easy listening pop rock</p><p><strong>André</strong><br> Yeah, I like the fuzzy bass tone<br> Not something I’d usually associate with Oasis/Liam either</p><p><strong>[“Bold”]</strong></p><p><strong>Fred</strong><br> I think he actually wrote this one himself</p><p><strong>André</strong><br> The mixing is a delight, I will say</p><p><strong>Fred</strong><br> I like this<br> Production magic or not, his voice sounds great here</p><p><strong>André</strong><br> Definitely Maybe falls down on its mixing and production and this is just affirms that for me<br> You can hear everything and yet there’s still plenty of room<br> This isn’t bad at all</p><p><strong>Frederick</strong><br> Yeah, it’s immaculate actually<br> Definite poppy softness, but a good edge to it as well</p><p><strong>André</strong><br> For sure<br> I’ll say one thing<br> These first two tracks have more to them than anything from Noel’s Flying Boring Birds</p><p><strong>[“Greedy Soul”]</strong></p><p><strong>Fred</strong><br> I agree, and that’s the thing isn’t it<br> This really showcases Liam as a frontman<br> He’s so good at it<br> Give him a melody and a groove and he’ll deliver<br> In studio anyway<br> Haha, he’s not exactly Shakespeare is he</p><p><strong>André</strong><br> Was gonna say..<br> There just seems a bit more colour here than in Beady Eye or Noel’s stuff</p><p><strong>Frederick</strong><br> His voice is genuinely better now, which helps</p><p><strong>André</strong><br> He’s proper zen, mate.<br> Have you heard?</p><p><strong>Frederick</strong><br> 3/3<br> Not bad</p><p><strong>[“Paper Crown”]</strong></p><p><strong>André</strong><br> is it me<br> Or is this a bit Bowie?</p><p><strong>Fred</strong><br> It is!</p><p><strong>André</strong><br> Ziggy Stardust era</p><p><strong>Fred</strong><br> This is really good<br> What’s going on?<br> The pitch difference on the harmonies are lovely</p><p><strong>André</strong><br> I can’t say it appeals to me directly, and I’m hardly the biggest Oasis fan anyway. But there’s no doubt that this record is shaping up to be one of the best post-oasis works yet – though the standard was hardly high..</p><p><strong>Fred</strong><br> I’m with you, but it’s pretty darn solid</p><p><strong>[“For What It’s Worth”]</strong></p><p><strong>André</strong><br> Heard this too<br> Again it’s kinda decent<br> The chorus is very Oasis’y</p><p><strong>Fred</strong><br> It’s a nice ballad delivered well<br> Bit of a throwback<br> One for the hype train I suppose</p><p><strong>André</strong><br> Sure</p><p><strong>Fred</strong><br> It’s funny, I think I’m enjoying hearing Liam deliver the songs more than I like the songs themselves<br> Like, it’s just nice to hear him fronting a sound well again</p><p><strong>André</strong><br> He actually has a very sweet falsetto haha<br> I’d dare tell him that though</p><p><strong>Fred</strong><br> You what mate?</p><p><strong>[“When I’m in Need”]</strong></p><p><strong>André</strong><br> This is a nice sonic change</p><p><strong>Fred</strong><br> Shades of Beatles here<br> Stop the presses</p><p><strong>André&nbsp;</strong><br> Haha<br> I’m enjoying this one a lot<br> Perhaps my favourite so far<br> Harmonies alone are fab</p><p><strong>Fred</strong><br> It’s lovely<br> Feel like such a waste that Oasis had approximately one sound<br> Always feels a bit odd having instrumental breakdowns on solo singer records<br> Like, “Hit it, backing band!”</p><p><strong>André</strong><br> Haha, sure. Particularly as Liam didn’t exact write a lot of this<br> I’d say though that the choice to go with a co-writer was a good one</p><p><strong>Fred</strong><br> For sure. He’s been very open about it as well, which I appreciate<br> And he does have this weird knack for a decent tune of his own from time to time</p><p><strong>[“You Better Run”]</strong></p><p><strong>André</strong><br> The groove is a little clumsy<br> and he doesn’t sound too comfortable singing at this tempo either</p><p><strong>Fred</strong><br> It’s just not his style<br> It’s not bad per se<br> Just could just as easily not be there</p><p><strong>André&nbsp;</strong><br> Weird though because he wrote this one?</p><p><strong>Fred</strong><br> I don’t think the sanitised sound helps with a song like this<br> Feels a tiny bit like Villains by Queens</p><p><strong>André</strong><br> That’s very true actually<br> Apt comparison too<br> Well it took us 7 songs to find a dud<br> Which is better than I thought!</p><p><strong>[“I Get By”]</strong></p><p><strong>André</strong><br> This one reminds me of something like Come Together – the Spiritualized one<br> It has a similar problem to the previous song though – and again his voice doesn’t suit this type of tempo.</p><p><strong>Fred</strong><br> That’s a good shout yeah<br> Would sound good live though</p><p><strong>André&nbsp;</strong><br> I’m sure<br> Vocal melodies are sore here too actually</p><p><strong>Fred</strong><br> I think half the problem is his voice has been pulled back a little the last couple of tracks<br> Like, no one’s buying this album for the instrumentals</p><p><strong>[“Chinatown”]</strong></p><p><strong>André</strong><br> Hmm…<br> I have no idea what I think of this<br> One thing is certain so far though – the first half of the record was way better.</p><p><strong>Fred</strong><br> For sure<br> This struck me as an odd single choice when it came out<br> Still does</p><p><strong>André</strong><br> Oh, I didn’t know it was a single<br> I’ve not heard it before<br> And I still can’t figure out what it is</p><p><strong>Fred</strong><br> Well, it’s not much of a single is it<br> Would probably fair better between a couple of belters<br> Slow things down a bit</p><p><strong>André&nbsp;</strong><br> Strange one<br> Could be a grower</p><p><strong>[“Come Back to Me”]</strong></p><p><strong>Fred</strong><br> This is pretty Oasis-y too<br> Weird effect on his voice</p><p><strong>André</strong><br> This is a bit better, though still not grabbing me entirely<br> Think the past few songs have worn me down a little.</p><p><strong>Fred</strong><br> Same. Not sure the production is as good here either, for whatever reason<br> That should’ve been better than it was</p><p><strong>[“Universal Gleam”]</strong></p><p><strong>André&nbsp;</strong><br> I just correctly predicted each chord change in the first verse</p><p><strong>Fred</strong><br> Haha, this is better though</p><p><strong>André</strong><br> It is haha<br> But it made me laugh</p><p><strong>Fred</strong><br> His falsetto is angelic isn’t it<br> So odd</p><p><strong>André</strong><br> Unexpectedly yes<br> This tempo suits him<br> I’m not convinced he can keep up with the raucous rock’n’roll tempo anymore</p><p><strong>Fred</strong><br> No, the best songs here give him room to gather his vocals a little<br> And deliver through, like, singing<br> Rather than shouting<br> As is tradition</p><p><strong>André</strong><br> Certainly</p><p><strong>Fred</strong><br> Bringing it home nicely here<br> Right, last one</p><p><strong>[“I’ve All I Need”]</strong></p><p><strong>Fred</strong><br> Nice vibe<br> Same note played over and over seems appropriate for a Liam closer<br> Ooh nice</p><p><strong>André</strong><br> Haha, true enough.<br> The chorus is a good’un</p><p><strong>Fred</strong><br> Yeah<br> Soaring</p><p><strong>André</strong><br> My initial impression on this is at a light 6<br> I like the first half of the record<br> I’m in no major rush to return to it, but I’m glad Liam has found his voice again</p><p><strong>Fred</strong><br> Yeah, good for him<br> And there’s comfortably enough good material to tour with</p><p><strong>André</strong><br> Before the big Oasis reunion<br> Which will be £80 a ticket but will also DEFINITELY NOT BE ABOUT THE MONEY<br> 🙂</p><p><strong>Fred</strong><br> To be fair, Noel will say up front that’s exactly what it’s about if it ever happens<br> But yeah, strong start, dips in the second half, but closes well<br> Looks like Oaysis have competition</p><p><strong>André&nbsp;</strong><br> do you consider it a success?</p><p><strong>Fred</strong><br> I do in the sense that it’s not awful and showcases Liam as a really great frontman when he feels like it<br> I’m not moved, but that’s not really it’s goal</p><p><strong>André</strong><br> Yeah, I’m with you there<br> It’s gotten rotten-ish reviews from P4K and Guardians and whatnot but they are never gonna his audience anyway</p><p><strong>Fred</strong><br> Indeed. There’s some nice tunes in there, and people will see him live and get a healthy dose of Oasis and slightly contrived rock and roll<br> Everyone’s happy<br> Except Noel</p><p><strong>André</strong><br> Hurrah</p><p></p></div></div>
+
+*This is part of a series in which two or more members of the Audioxide team listen to an album for the first time.&nbsp;Any instances of interest or insight are purely coincidental.*
+
+[“Wall of Glass”]
+
+**Fred**
+This was a pretty pleasant surprise when it came out
+
+**André**
+I enjoy this, yeah. I remember being pleasantly surprised by his voice
+
+**Fred**
+It still holds up well in the studio
+
+**André**
+Begs the question of how much of it is due to post-production processing and effects mind you…
+Because some live performances have been pretty bad
+
+**Fred**
+Yeah, he blows hot and cold live
+He did a great cover of “Natural Mystic” the other day though, so his voice is still there
+Just weaker
+
+**André**
+I did see that and it was nice
+
+**Fred**
+Anyway, strong start this. Easy listening pop rock
+
+**André**
+Yeah, I like the fuzzy bass tone
+Not something I’d usually associate with Oasis/Liam either
+
+[“Bold”]
+
+**Fred**
+I think he actually wrote this one himself
+
+**André**
+The mixing is a delight, I will say
+
+**Fred**
+I like this
+Production magic or not, his voice sounds great here
+
+**André**
+[Definitely Maybe](/reviews/oasis-definitely-maybe/) falls down on its mixing and production and this is just affirms that for me
+You can hear everything and yet there’s still plenty of room
+This isn’t bad at all
+
+**Fred**
+Yeah, it’s immaculate actually
+Definite poppy softness, but a good edge to it as well
+
+**André**
+For sure
+I’ll say one thing
+These first two tracks have more to them than anything from Noel’s Flying Boring Birds
+
+[“Greedy Soul”]
+
+**Fred**
+I agree, and that’s the thing isn’t it
+This really showcases Liam as a frontman
+He’s so good at it
+Give him a melody and a groove and he’ll deliver
+In studio anyway
+Haha, he’s not exactly Shakespeare is he
+
+**André**
+Was gonna say..
+There just seems a bit more colour here than in Beady Eye or Noel’s stuff
+
+**Fred**
+His voice is genuinely better now, which helps
+
+**André**
+He’s proper zen, mate.
+Have you heard?
+
+**Fred**
+3/3
+Not bad
+
+[“Paper Crown”]
+
+**André**
+is it me
+Or is this a bit [Bowie](/reviews/david-bowie-hunky-dory/)?
+
+**Fred**
+It is!
+
+**André**
+Ziggy Stardust era
+
+**Fred**
+This is really good
+What’s going on?
+The pitch difference on the harmonies are lovely
+
+**André**
+I can’t say it appeals to me directly, and I’m hardly the biggest Oasis fan anyway. But there’s no doubt that this record is shaping up to be one of the best post-oasis works yet – though the standard was hardly high..
+
+**Fred**
+I’m with you, but it’s pretty darn solid
+
+[“For What It’s Worth”]
+
+**André**
+Heard this too
+Again it’s kinda decent
+The chorus is very Oasis’y
+
+**Fred**
+It’s a nice ballad delivered well
+Bit of a throwback
+One for the hype train I suppose
+
+**André**
+Sure
+
+**Fred**
+It’s funny, I think I’m enjoying hearing Liam deliver the songs more than I like the songs themselves
+Like, it’s just nice to hear him fronting a sound well again
+
+**André**
+He actually has a very sweet falsetto haha
+I’d dare tell him that though
+
+**Fred**
+You what mate?
+
+[“When I’m in Need”]
+
+**André**
+This is a nice sonic change
+
+**Fred**
+Shades of Beatles here
+Stop the presses
+
+**André** 
+Haha
+I’m enjoying this one a lot
+Perhaps my favourite so far
+Harmonies alone are fab
+
+**Fred**
+It’s lovely
+Feel like such a waste that Oasis had approximately one sound
+Always feels a bit odd having instrumental breakdowns on solo singer records
+Like, “Hit it, backing band!”
+
+**André**
+Haha, sure. Particularly as Liam didn’t exact write a lot of this
+I’d say though that the choice to go with a co-writer was a good one
+
+**Fred**
+For sure. He’s been very open about it as well, which I appreciate
+And he does have this weird knack for a decent tune of his own from time to time
+
+[“You Better Run”]
+
+**André**
+The groove is a little clumsy
+and he doesn’t sound too comfortable singing at this tempo either
+
+**Fred**
+It’s just not his style
+It’s not bad per se
+Just could just as easily not be there
+
+**André** 
+Weird though because he wrote this one?
+
+**Fred**
+I don’t think the sanitised sound helps with a song like this
+Feels a tiny bit like Villains by Queens
+
+**André**
+That’s very true actually
+Apt comparison too
+Well it took us 7 songs to find a dud
+Which is better than I thought!
+
+[“I Get By”]
+
+**André**
+This one reminds me of something like Come Together – the [Spiritualized](reviews/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/) one
+It has a similar problem to the previous song though – and again his voice doesn’t suit this type of tempo.
+
+**Fred**
+That’s a good shout yeah
+Would sound good live though
+
+**André** 
+I’m sure
+Vocal melodies are sore here too actually
+
+**Fred**
+I think half the problem is his voice has been pulled back a little the last couple of tracks
+Like, no one’s buying this album for the instrumentals
+
+[“Chinatown”]
+
+**André**
+Hmm…
+I have no idea what I think of this
+One thing is certain so far though – the first half of the record was way better.
+
+**Fred**
+For sure
+This struck me as an odd single choice when it came out
+Still does
+
+**André**
+Oh, I didn’t know it was a single
+I’ve not heard it before
+And I still can’t figure out what it is
+
+**Fred**
+Well, it’s not much of a single is it
+Would probably fair better between a couple of belters
+Slow things down a bit
+
+**André** 
+Strange one
+Could be a grower
+
+[“Come Back to Me”]
+
+**Fred**
+This is pretty Oasis-y too
+Weird effect on his voice
+
+**André**
+This is a bit better, though still not grabbing me entirely
+Think the past few songs have worn me down a little.
+
+**Fred**
+Same. Not sure the production is as good here either, for whatever reason
+That should’ve been better than it was
+
+[“Universal Gleam”]
+
+**André** 
+I just correctly predicted each chord change in the first verse
+
+**Fred**
+Haha, this is better though
+
+**André**
+It is haha
+But it made me laugh
+
+**Fred**
+His falsetto is angelic isn’t it
+So odd
+
+**André**
+Unexpectedly yes
+This tempo suits him
+I’m not convinced he can keep up with the raucous rock’n’roll tempo anymore
+
+**Fred**
+No, the best songs here give him room to gather his vocals a little
+And deliver through, like, singing
+Rather than shouting
+As is tradition
+
+**André**
+Certainly
+
+**Fred**
+Bringing it home nicely here
+Right, last one
+
+[“I’ve All I Need”]
+
+**Fred**
+Nice vibe
+Same note played over and over seems appropriate for a Liam closer
+Ooh nice
+
+**André**
+Haha, true enough.
+The chorus is a good’un
+
+**Fred**
+Yeah
+Soaring
+
+**André**
+My initial impression on this is at a light 6
+I like the first half of the record
+I’m in no major rush to return to it, but I’m glad Liam has found his voice again
+
+**Fred**
+Yeah, good for him
+And there’s comfortably enough good material to tour with
+
+**André**
+Before the big Oasis reunion
+Which will be £80 a ticket but will also DEFINITELY NOT BE ABOUT THE MONEY
+🙂
+
+**Fred**
+To be fair, Noel will say up front that’s exactly what it’s about if it ever happens
+But yeah, strong start, dips in the second half, but closes well
+Looks like Oaysis have competition
+
+**André** 
+do you consider it a success?
+
+**Fred**
+I do in the sense that it’s not awful and showcases Liam as a really great frontman when he feels like it
+I’m not moved, but that’s not really it’s goal
+
+**André**
+Yeah, I’m with you there
+It’s gotten rotten-ish reviews from P4K and Guardians and whatnot but they are never gonna his audience anyway
+
+**Fred**
+Indeed. There are some nice tunes in there, and people will see him live and get a healthy dose of Oasis and slightly contrived rock and roll
+Everyone’s happy
+Except Noel
+
+**André**
+Hurrah

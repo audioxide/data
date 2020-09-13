@@ -6,7 +6,7 @@ type: articles
 tags:
   - james blake
   - electronic
-featuredimage: 2016/05/F9GzgaZ1-e1520713479914.jpg
+featuredimage: album-artwork/the-colour-in-anything-james-blake.jpg
 title: James Blake returns with soul and experimentation
 author: andrew
 blurb: Fans of Blake's stripped back vocal/piano tracks are served well here, with the title track a particular highlight.

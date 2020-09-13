@@ -7,7 +7,7 @@ tags:
   - the strokes
   - indie
   - alternative rock
-featuredimage: 2016/06/Future-Present-Past.png
+featuredimage: album-artwork/future-present-past-the-strokes.jpg
 title: The Strokes continue their search for a sound
 author: andre
 blurb:  Though there remains a sizeable fanbase, The Strokes don’t have many chances left to convince the rest of us they actually know what they’re doing.
@@ -19,7 +19,7 @@ blurb:  Though there remains a sizeable fanbase, The Strokes don’t have many c
   <figcaption></figcaption>
 </figure>
 
-Upon hearing the mundane misfortune of 2013’s *Comedown Machine*, I couldn’t help but wonder how such a decline had occurred in The Strokes. It seemed inconceivable that this was the same band who authored one of the most outstanding debut albums in contemporary music; a record responsible for the birth of some of todays most popular rock bands. *Is This It?’*s impact went far beyond music, and continues to be held as the record that defined an entire indie culture. [*First Impressions of Earth*](/reviews/the-strokes-first-impressions-of-earth/) had its issues, but doesn’t necessarily get the credit it deserves for its driven attempt to expand on the band’s initial sound. The divisive response from its audience resulted in a hiatus that The Strokes haven’t truly recovered from, as their relevancy continues to decrease with each release.
+Upon hearing the mundane misfortune of 2013’s *Comedown Machine*, I couldn’t help but wonder how such a decline had occurred in The Strokes. It seemed inconceivable that this was the same band who authored one of the most outstanding debut albums in contemporary music; a record responsible for the birth of some of todays most popular rock bands. *Is This It?*’s impact went far beyond music, and continues to be held as the record that defined an entire indie culture. [*First Impressions of Earth*](/reviews/the-strokes-first-impressions-of-earth/) had its issues, but doesn’t necessarily get the credit it deserves for its driven attempt to expand on the band’s initial sound. The divisive response from its audience resulted in a hiatus that The Strokes haven’t truly recovered from, as their relevancy continues to decrease with each release.
 
 There’s a lot at stake with their new EP *Future Present Past*. Though there remains a sizeable fanbase, The Strokes don’t have many chances left to convince the rest of us that they actually know what they’re doing. The band haven’t had a precise, definitive sound since *Room on Fire* in 2003, and their sonic experimentations haven’t been robust enough to suggest a clear musical direction. For over a decade now, The Strokes have been struggling to spawn a sound that successfully sequels the iconic musical makeup of their early works. The classic Strokes tone — once a wonderful thing — is now a cloud that continues to hang over them.
 

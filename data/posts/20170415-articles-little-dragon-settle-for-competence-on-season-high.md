@@ -5,7 +5,7 @@ slug: little-dragon-settle-for-competence-on-season-high
 type: articles
 tags:
   - little dragon
-featuredimage: 2017/04/Cover-1.jpg
+featuredimage: album-artwork/season-high-little-dragon.jpg
 title: Little Dragon settle for competence on &#8216;Season High&#8217;
 author: andre
 

@@ -7,7 +7,7 @@ tags:
   - patternpusher
   - post punk
   - electronic
-featuredimage: 2016/05/image2.jpg
+featuredimage: album-artwork/still-patternpusher.jpg
 title: PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent
 author: andre
 
