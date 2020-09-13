@@ -8,6 +8,6 @@ Since starting in 2015 we've branched out into [articles](/articles/), [intervie
 
 Others have joined us to contribute from time to time: Marcus Lawrence, Michael Clarke, Gabriel Sutton, Rüya Yönak, [Charlie Clissitt](https://twitter.com/CharlieClissitt), [Thomas Ashby](https://thomasashby.co.uk/), Nick Marsh, Rob Wilson, and Kieran James. Samuel Simpson’s original branding and design work lives on as *Audioxide* evolves. The current site was almost entirely built by Andrew. Fred did a little bit.
 
-To those unsure where to start we humbly direct you to our top rated albums in [the 27+ Club](/). For more leisurely browsing there's [the archives](/reviews/). Or if all else fails you could always try [a random review...](/)
+To those unsure where to start we humbly direct you to our top rated albums in [the 27+ Club](/). For more leisurely browsing there's [the archive](/reviews/). Or if all else fails you could always try [a random review...](/)
 
 Happy listening.
