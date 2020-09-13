@@ -6,7 +6,7 @@ created: 2016-05-09T16:15:47.000Z
 
 Since starting in 2015 we've branched out into [articles](/articles/), [interviews](/interviews/), [listening parties](/listeningparties/), and [other oddities](/funnyfarm/). All this we do as a hobby because we love it. We do not use affiliate links, show ads, track users, or charge musicians for coverage. We encourage readers to do what they can to support the artists we write about. No, we do not get a cut. We may be a small publication, but we try to be an ethical small publication.
 
-Others have joined us to contribute from time to time: Marcus Lawrence, [Michael Clark](https://twitter.com/Pixleh), Gabriel Sutton, [Rüya Yönak](https://twitter.com/ymagination_), [Charlie Clissitt](https://twitter.com/CharlieClissitt), [Thomas Ashby](https://thomasashby.co.uk/), Nick Marsh, Rob Wilson, and Kieran James. Samuel Simpson’s original branding and design work lives on as *Audioxide* evolves. The current site was almost entirely built by Andrew. Fred did a little bit.
+Others have joined us to contribute from time to time: Marcus Lawrence, [Michael Clark](https://twitter.com/Pixleh), Gabriel Sutton, [Rüya Yönak](https://twitter.com/ymagination_), [Charlie Clissitt](https://twitter.com/CharlieClissitt), [Thomas Ashby](https://thomasashby.co.uk/), Nick Marsh, Rob Wilson, and Kieran James. The original design and branding work by Samuel Simpson lives on as *Audioxide* evolves. The current site was almost entirely built by Andrew. Fred did a little bit.
 
 To those unsure where to start we humbly direct you to our top rated albums in [the 27+ Club](/). For more leisurely browsing there's [the archive](/reviews/). Or if all else fails you could always try [a random review...](/)
 
