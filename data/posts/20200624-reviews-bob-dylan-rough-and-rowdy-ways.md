@@ -13,7 +13,7 @@ tags:
   - run the jewels
 featuredimage: album-artwork/rough-and-rowdy-ways-bob-dylan.jpg
 artist: Bob Dylan
-album: Rough & Rowdy Ways
+album: Rough and Rowdy Ways
 essentialtracks:
   - False Prophet 
 favouritetracks:
