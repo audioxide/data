@@ -6,7 +6,7 @@ type: articles
 tags:
   - aphex twin
   - electronic
-featuredimage: 2016/07/Cheetah.jpg
+featuredimage: album-artwork/cheetah-aphex-twin.jpg
 title: "&#8216;Cheetah&#8217; sees Aphex Twin remain in style"
 author: andre
 blurb: This is one of the purest and silky-smooth Aphex Twin releases yet, with steady tempos and smoothly layered synthesiser pads laying down the foundation

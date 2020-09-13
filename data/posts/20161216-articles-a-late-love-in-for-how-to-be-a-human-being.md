@@ -8,7 +8,7 @@ tags:
   - indie
   - pop
   - art pop
-featuredimage: 2016/12/how-to-be-a-human-being.jpg
+featuredimage: album-artwork/how-to-be-a-human-being-glass-animals.jpg
 title: A late love-in for &#8216;How To Be A Human Being&#8217;
 author: andrew
 summary: How To Be A Human Being is a great indie pop album in a year that hasn’t had many. So far, the band hasn’t made a misstep

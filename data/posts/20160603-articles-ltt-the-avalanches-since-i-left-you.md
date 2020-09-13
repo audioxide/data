@@ -6,7 +6,7 @@ type: articles
 tags:
   - the avalanches
   - electronic
-featuredimage: 2016/04/Since-I-Left-You.jpg
+featuredimage: album-artwork/since-i-left-you-the-avalanches.jpg
 title: A retrospective look at The Avalanches
 author: andrew
 blurb: Since I Left You takes the listener on a whistle-stop tour of dance and electronica. All these years later it's still a serious trip.

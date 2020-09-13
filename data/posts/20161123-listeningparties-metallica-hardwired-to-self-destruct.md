@@ -1,17 +1,21 @@
 ---
+
 created: 2016-11-23T23:54:33.000Z
 modified: 2017-10-08T16:04:49.000Z
 slug: metallica-hardwired-to-self-destruct
 type: listeningparties
 tags:
   - metallica
-featuredimage: 2016/11/hardwired-to-self-destruct.jpeg
-title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and
-  Fred listen to Metallica"
+featuredimage: article-images/filler.jpg
+title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and Fred listen to Metallica"
 author: admin
+
 ---
+
 This is part of [a series](<listeningparties/>) in which two or more members of the Audioxide team listen to an album for the first time. Any instances of interest or insight are purely coincidental.
-![metallicababble2](<2016/11/metallicababble2.jpg> =680x363)** [“Hardwired”]**
+
+**[“Hardwired”]**
+
 **André<br>
 **Riffs.
 **Fred<br>

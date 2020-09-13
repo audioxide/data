@@ -10,7 +10,7 @@ tags:
   - oneohtrix point never
   - electronic
   - industrial
-featuredimage: 2016/05/flume-skin.jpg
+featuredimage: album-artwork/skin-flume.jpg
 title: Flume covers considerable ground with &#8216;Skin&#8217;
 author: andrew
 summary: This new record sees a heavy focus on collaborative production, exploring many sounds while seldom digging deeper into any one of them.

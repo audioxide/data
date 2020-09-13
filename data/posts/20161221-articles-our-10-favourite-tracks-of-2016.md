@@ -14,7 +14,7 @@ tags:
   - beyonce
   - david bowie
   - 2010s
-featuredimage: 2016/12/936577_1161949077157117_3860388320371404515_n.png
+featuredimage: article-images/favourite-tracks-2016.jpg
 title: Our 10 favourite tracks of 2016
 author:
   - andre

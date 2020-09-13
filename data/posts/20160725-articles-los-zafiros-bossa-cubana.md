@@ -5,7 +5,7 @@ slug: los-zafiros-bossa-cubana
 type: articles
 tags:
   - los zafiros
-featuredimage: 2016/04/Bossa-Cubana.jpg
+featuredimage: album-artwork/bossa-cubana-los-zafiros.jpg
 title: Some love for Los Zafiros golden oldie &#8216;Bossa Cubana&#8217;
 author: andrew
 blurb: Bossa Cubana is a great listen and deserves a spin/stream if you’re in the mood for vocal-heavy Cuban music.
