@@ -5,7 +5,7 @@ slug: qotsa-reddit-playlist
 type: listeningparties
 tags:
   - queens of the stone age
-featuredimage: article-images/filler.jp
+featuredimage: article-images/filler.jpg
 title: André and Fred listen to r/qotsa&#8217;s Best Of album
 author: admin
 blurb: "r/qotsa put together the ultimate Queens of the Stone Age playlist: ...Vulgar Songs for Villains (Rated R). We treated ourselves to a listening party."
