@@ -21,9 +21,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#6397e0"
-  - "#f5f0f7"
-  - "#f5f0f7"
+  - "#361334"
+  - "#af6b9f"
+  - "#af6b9f"
 pullquote: Pull quote here
 summary: Summary here
 week: 148
