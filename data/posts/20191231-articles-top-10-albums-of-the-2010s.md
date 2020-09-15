@@ -21,7 +21,7 @@ blurb: The end of the 2010s is upon us, which means we are bound by obscure 16th
 
 ---
 
-*The end of the 2010s is upon us, and you know what that means. Yes, as a music review site we are bound by obscure 16th century law to rank our favourite albums of the decade. So here they are, in all their glory . It wasn’t easy, but no arbitrary list worth making ever is. All kidding aside, there’s some absolutely stonking music here. It’s been a joy, and we can’t wait to hear what the 2020s have in store.*
+*The end of the 2010s is upon us, and you know what that means. Yes, as a music review site we are bound by obscure 16th century law to rank our favourite albums of the decade. So here they are, in all their glory. It wasn’t easy, but no arbitrary list worth making ever is. All kidding aside, there’s some absolutely stonking music here. It’s been a joy, and we can’t wait to hear what the 2020s have in store.*
 
 ------
 
