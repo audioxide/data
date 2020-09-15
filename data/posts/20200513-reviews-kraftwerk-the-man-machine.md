@@ -8,7 +8,16 @@ tags:
   - 1970s
   - "23"
   - kraftwerk
+  - electronic
+  - pop
   - aphex twin
+  - the chemical brothers
+  - squarepusher
+  - nine inch nails
+  - new order
+  - radiohead
+  - tycho
+  - brian eno
 featuredimage: album-artwork/the-man-machine-kraftwerk.jpg
 artist: Kraftwerk
 album: The Man-Machine
@@ -37,11 +46,11 @@ albumMBID: 05f467f1-7524-4d9f-8794-81fbb3fef12f
 author: André
 
 review: >-
-  For us electronica enthusiasts, we owe almost everything to Kraftwerk. From Gary Numan to Aphex Twin, my love of music made from electronics is largely due to these genius Germans. Going back to one of their most celebrated works, *The Man-Machine*, has been a wholesome experience. Arrangements here, at least in comparison to other Kraftwerk records, are made for easy listening. The rhythms are more danceable, and the song structures are surprisingly accessible. The impact this record had on synth-pop artists is palpable; not just the likes of Depeche Mode, but more modern artists such as Hot Chip. *The Man-Machine* is one of those timeless records. You'd not bat an eye lid if it was the soundtrack to Stranger Things. It's quite simply staggering that this was released in 1978.
+  For us electronica enthusiasts, we owe almost everything to Kraftwerk. From Gary Numan to [Aphex Twin](/reviews/aphex-twin-richard-d-james-album/), my love of music made from electronics is largely due to these genius Germans. Going back to one of their most celebrated works, *The Man-Machine*, has been a wholesome experience. Arrangements here, at least in comparison to other Kraftwerk records, are made for easy listening. The rhythms are more danceable, and the song structures are surprisingly accessible. The impact this record had on synth-pop artists is palpable; not just the likes of Depeche Mode, but more modern artists such as Hot Chip. *The Man-Machine* is one of those timeless records. You'd not bat an eye lid if it was the soundtrack to Stranger Things. It's quite simply staggering that this was released in 1978.
 
   Kraftwerk are usually defined by robotic qualities, but *The Man-Machine* instead ventures into the realms of humanity. The mechanical aspects are softened by glorious melodies; wonderful refrains that could only ever come from a human being. The instrumental climax that occurs half-way through “The Model” is pure bliss, and it remains one of the most iconic and gratifying musical motifs ever. In contrast, the monotonous German vocals are the least alluring aspect of the record. Aside from “The Model”, I'm not convinced *The Man-Machine* would be any less of an album if it was purely instrumental. “Neon Lights” is a curious attempt at a sci-fi pop epic, and whilst it remains an enjoyable listen, the toneless vocals don't exactly lend the required inflection for those wonderful washes of synthesisers. It probably doesn't need to last for nine minutes, either.
 
-  Minor mishaps don't make *The Man-Machine* any less of a classic. I just think we've since seen bigger and better records. I very much doubt The Chemical Brothers, Daft Punk, or even Squarepusher would sound the same today without Kraftwerk setting such solid foundations, similarly those artists who incorporate electronica into other contemporary genres, such as New Order, Nine Inch Nails, and Radiohead. It'd be remiss of me to tribute these successes purely to Kraftwerk – especially when the history of electronic music goes way back to beyond 1900 - but the way the group incorporates electronics into conventional music is nothing less than a revelation. Rest in peace to founding member Florian Schneider, to whom we owe an awful lot. A true pioneer.
+  Minor mishaps don't make *The Man-Machine* any less of a classic. I just think we've since seen bigger and better records. I very much doubt [The Chemical Brothers](/reviews/the-chemical-brothers-dig-your-own-hole/), [Daft Punk](/reviews/daft-punk-discovery/), or even [Squarepusher](/reviews/squarepusher-be-up-a-hello/) would sound the same today without Kraftwerk setting such solid foundations, similarly those artists who incorporate electronica into other contemporary genres, such as [New Order](/reviews/new-order-power-corruption-and-lies/), [Nine Inch Nails](/reviews/nine-inch-nails-pretty-hate-machine/), and [Radiohead](/reviews/radiohead-ok-computer/). It'd be remiss of me to tribute these successes purely to Kraftwerk – especially when the history of electronic music goes way back to beyond 1900 - but the way the group incorporates electronics into conventional music is nothing less than a revelation. Rest in peace to founding member Florian Schneider, to whom we owe an awful lot. A true pioneer.
 
 tracks:
   - The Model
@@ -59,9 +68,9 @@ author: Fred
 review: >-
   When I watch a classic old film I am often calmed by how simple everything is. The characters speak to each other in plain English, everyone smokes, and the story is wrapped up in a tidy bow before 90 minutes have passed. *The Man-Machine* feels a little like that. It’s simple compared to modern electronic fare, but that only throws its sophistication into sharper focus.
 
-  My gripes with electronic music have been well documented by now. Repetition, timidity, and using technology as an ends rather than a means are all recurring problems I have with the genre. *The Man-Machine* has plenty of repetition, but there’s no doubting its boldness. Kraftwerk use their tools with scientific precision, tinkering their way to an album that still sounds superb all these years later. “The Model” and “Neon Lights” are the high points for me, their synths positively sumptuous.
+  [My gripes with electronic music are well documented by now](/reviews/tycho-weather/). Repetition, timidity, and using technology as an ends rather than a means are all recurring problems I have with the genre. *The Man-Machine* has plenty of repetition, but there’s no doubting its boldness. Kraftwerk use their tools with scientific precision, tinkering their way to an album that still sounds superb all these years later. “The Model” and “Neon Lights” are the high points for me, their synths positively sumptuous.
 
-  The album makes for hypnotic listening, bobbling along like a well-mannered German robot. All these years later it still sounds like the future. I can only imagine how it must have felt to hear it in 1978. Turns out the tranquility of Ambient 1 mixed with stilted German funk is a winning formula. Who knew?
+  The album makes for hypnotic listening, bobbling along like a well-mannered German robot. All these years later it still sounds like the future. I can only imagine how it must have felt to hear it in 1978. Turns out the tranquility of [*Ambient 1*](/reviews/brian-eno-ambient-1-music-for-airports/) mixed with stilted German funk is a winning formula. Who knew?
 
 tracks:
   - The Model

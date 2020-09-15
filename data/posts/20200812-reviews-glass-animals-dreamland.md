@@ -41,7 +41,7 @@ author: André
 review: >-
   UK psych-pop outfit Glass Animals are well adept at writing breezy, easy-listening tunes. There’s a stylishness that can prove impossible to resist. The minute you start to actually dig a little deeper, however, things begin to unravel at quite a pace. Glass Animals are comprised of hugely talented individuals who are either unable to look forward, or simply have no desire to do so. The washes of glittering synths and slickly produced woozy beats only go so far.
 
-  *Dreamland* is millennial nostalgia in a nutshell. Dave Bayley yearns for his youth. Enter: *Pokemon*; *G.I. Joe*; *Scooby Doo*; Nintendo 64; *Grand Theft Auto*; *Doom*; *Quake*; *Street Fighter*; [Dr. Dre](https://audioxide.com/reviews/dr-dre-compton/); OutKast; Michael Jordan; *The Karate Kid*; Ramen Noodles; Dunkaroos; Capri Sun; Hot Pockets; James Bond; *The Price is Right*; *Friends*; And… friends. What was his point, again?
+  *Dreamland* is millennial nostalgia in a nutshell. Dave Bayley yearns for his youth. Enter: *Pokemon*; *G.I. Joe*; *Scooby Doo*; Nintendo 64; *Grand Theft Auto*; *Doom*; *Quake*; *Street Fighter*; [Dr. Dre](/reviews/dr-dre-compton/); OutKast; Michael Jordan; *The Karate Kid*; Ramen Noodles; Dunkaroos; Capri Sun; Hot Pockets; James Bond; *The Price is Right*; *Friends*; And… friends. What was his point, again?
 
   Not to be overly critical. After all, *Dreamland* will prove to be prominent listening for socially distanced parties over the Summer. It’s practically designed for Spotify’s algorithms. Good for them. I’ve no issue with any success that may come their way, and I’ll likely listen to a few isolated tracks myself over the coming weeks. However, let’s not pretend *Dreamland* is anything more than a glorified trip down memory lane.
 
@@ -78,7 +78,7 @@ score:
 author: Andrew
 
 review: >-
-  Four years after fan-favourite [*How To Be A Human Being*](https://audioxide.com/articles/a-late-love-in-for-how-to-be-a-human-being/), Glass Animals return with *Dreamland*. A change in sound, writing, and focus make for a divisive release and I’ve been hoping this isn’t that ‘Difficult Third Album’ for the band.
+  Four years after fan-favourite [*How To Be A Human Being*](/articles/a-late-love-in-for-how-to-be-a-human-being/), Glass Animals return with *Dreamland*. A change in sound, writing, and focus make for a divisive release and I’ve been hoping this isn’t that ‘Difficult Third Album’ for the band.
 
   With drummer, Joe Seward, recovering from a serious road accident and understandably affecting the whole band, frontman Dave Bayley has taken the reins. Citing positive reception to more personal songwriting, Bayley uses *Dreamland* as a nostalgia trip and, unintentionally(?), the longest ‘only Millenials will remember’ meme I’ve seen in some time.
 

@@ -8,6 +8,15 @@ tags:
   - 2000s
   - "25"
   - modest mouse
+  - rock
+  - alternative rock
+  - indie
+  - grunge
+  - psychedelia
+  - post rock
+  - grandaddy
+  - pixies
+  - talking heads
 featuredimage: album-artwork/the-moon-and-antarctica-modest-mouse.jpg
 artist: Modest Mouse
 album: The Moon & Antarctica
@@ -36,9 +45,9 @@ albumMBID: a8e26959-b3b2-3440-a74a-0dc06cd6310d
 author: André
 
 review: >-
-  The definitive indie rock album (for art-school students prematurely experiencing their existential dread) turns 20. No, not that one. It’s remarkable how The Moon & Antarctic has maintained its sense of isolation for all these years. Imitators come and go, but Modest Mouse’s third studio album still nails that bleak sensation better than most. Yet for an album so comfortable in its cold and desolate atmosphere, The Moon & Antartica is surprisingly eclectic. One moment Modest Mouse channel the Pixies, and before you know it they’re paying their greatest respects to Talking Heads. Such a comprehensive span of styles is generally welcome, and for the most part, *The Moon & Antarctica* retains its drifting sensation throughout.
+  The definitive indie rock album (for art-school students prematurely experiencing their existential dread) turns 20. No, [not that one](/reviews/grandaddy-the-sophtware-slump/). It’s remarkable how *The Moon & Antarctica* has maintained its sense of isolation for all these years. Imitators come and go, but Modest Mouse’s third studio album still nails that bleak sensation better than most. Yet for an album so comfortable in its cold and desolate atmosphere, The Moon & Antartica is surprisingly eclectic. One moment Modest Mouse channel the [Pixies](/reviews/pixies-doolittle/), and before you know it they’re paying their greatest respects to [Talking Heads](/reviews/talking-heads-remain-in-light/). Such a comprehensive span of styles is generally welcome, and for the most part, *The Moon & Antarctica* retains its drifting sensation throughout.
 
-  The opening half hour is excellent. Going from solemn indie post-rock (“Perfect Disguise”) to four-to-the-floor art-rock (“Tiny Cities Made of Ashes”) and spirited grunge (“A Different City”) makes for a fascinating fragment. The backend of the record feels slightly ponderous in comparison. Specifically, a few tracks that find me waiting for something unexpected and exciting. Perhaps one of the issues is that “The Stars are Projectors”, a near 9-minute epic, is just so damn good that anything that follows it feels relatively underwhelming.
+  The opening half hour is excellent. Going from solemn indie post-rock (“Perfect Disguise”) to four-to-the-floor art-rock (“Tiny Cities Made of Ashes”) and spirited [grunge](/reviews/nirvana-in-utero/) (“A Different City”) makes for a fascinating fragment. The backend of the record feels slightly ponderous in comparison. Specifically, a few tracks that find me waiting for something unexpected and exciting. Perhaps one of the issues is that “The Stars are Projectors”, a near 9-minute epic, is just so damn good that anything that follows it feels relatively underwhelming.
 
   The discography of Modest Mouse has had its ups and downs, but this is where the band seemed most comfortable (artistically speaking, given the emotional turmoil that comes with such an anxiety surrounding existence). Isaac Brock’s blunt lyricism works best in this plaintive format, as morbid as it can sometimes be. *The Moon & Antarctica* is a bit of an emotional rollercoaster, truth be told, which means you’re more likely to appreciate its musings when in the right mindset. It contemplates life, death, and everything in-between and afterwards. Radiohead’s OK Computer pressed similar buttons, but this is far more philosophical, and definitely less melodramatic. A more patient listen that, due to its contemplative format, probably takes further listens to appreciate in the same way. But this is a different strand of rock music altogether: noisier, punkier, and angling towards the rowdy joys of lo-fi agitation.
 
