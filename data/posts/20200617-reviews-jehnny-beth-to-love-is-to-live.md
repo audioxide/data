@@ -38,7 +38,7 @@ albumMBID: b0f7e88f-81b4-431d-ad38-7a3ae524b424
 author: André
 
 review: >-
-  Having fronted one of the finest and most forceful punk bands of the 2010s, Jehnny Beth’s debut solo has been highly anticipated. I was initially surprised at just how cinematic To Love Is to Live is. This is an immersive exploration of human emotion and activity: love, lust, and desire, with all of the vulnerabilities that come attached. It’s a journey that stays true to its themes, and is consistent in tone, but does occasionally feel overbearing. The album is purposefully provocative, and whilst this brings some exhilarating and hard-hitting moments, it can also result in disorientating frenzies. It feels messy, basically, though this isn’t always a bad thing.
+  Having fronted one of the finest and most forceful punk bands of the 2010s, Jehnny Beth’s debut solo has been highly anticipated. I was initially surprised at just how cinematic *To Love Is to Live* is. This is an immersive exploration of human emotion and activity: love, lust, and desire, with all of the vulnerabilities that come attached. It’s a journey that stays true to its themes, and is consistent in tone, but does occasionally feel overbearing. The album is purposefully provocative, and whilst this brings some exhilarating and hard-hitting moments, it can also result in disorientating frenzies. It feels messy, basically, though this isn’t always a bad thing.
 
   TLITL is largely a success due to the two piano ballads that offer space for the listener. “The Rooms” and “French Countryside” feel rather novel: it’s a delight to hear Beth exercising in more subtle musical movements, and these songs offer the record a sense of structure, of which it otherwise lacks. “I’m the Man” and “How Could You” are ferocious bursts of intensity that would likely fall flat if not for the softer moments.
 
@@ -59,13 +59,13 @@ score:
 author: Fred
 
 review: >-
-  Buckle in, folks, Jehnny Beth is back to sing about lurve and liveeng and all that good stuff. Having received well-earned plaudits for her work with Savages, she’s now gone solo, serving up a concoction of spoken word musings, industrial grinding, and sombre piano interludes. If that sounds like a bit of a jumble, that’s because it is. A bold, professional, earnest bit of a jumble.
+  Buckle in, folks, Jehnny Beth is back to sing about lurve and liveeng and all that good stuff. Having received well-earned plaudits for her work with [Savages](/reviews/savages-adore-life/), she’s now gone solo, serving up a concoction of spoken word musings, industrial grinding, and sombre piano interludes. If that sounds like a bit of a jumble, that’s because it is. A bold, professional, earnest bit of a jumble.
 
-  I somewhat enjoy the mood on To Love Is to Live, but when you step back to take it all in the album almost comes off as stilted. There are too many competing ideas for any one of them to come across clearly. Instead, it winds up feeling ambitious and strange, like a Jane Austen adaptation where everyone wears spandex and discusses Nietzsche over tea and edibles. Unconventional, sure, but pretty baffling too.
+  I somewhat enjoy the mood on *To Love Is to Live*, but when you step back to take it all in the album almost comes off as stilted. There are too many competing ideas for any one of them to come across clearly. Instead, it winds up feeling ambitious and strange, like a Jane Austen adaptation where everyone wears spandex and discusses Nietzsche over tea and edibles. Unconventional, sure, but pretty baffling too.
 
-  The cardinal sin for me is how powerless the album feels. Its thick, manufactured industrial sound is more of a hindrance to Beth than it is a foil. I can’t help but think she’s still working things out, and trying too hard in the process. I think that’s why the penultimate track is comfortably my favourite. Where most of the rest of the album is clenched jaws and bunched shoulders, “French Countryside” takes a breath and soars high and away without even seeming like it’s trying. It’s gorgeous.
+  The cardinal sin for me is how powerless the album feels. Its thick, manufactured industrial sound is more of a hindrance to Beth than it is a foil. I can’t help but think she’s still working her solo direction out, and trying too hard in the process. I think that’s why the penultimate track is comfortably my favourite. Where most of the rest of the album is clenched jaws and bunched shoulders, “French Countryside” takes a deep breath and soars high and away without even seeming like it’s trying. It’s a gorgeous track.
 
-  Solo projects seem to go one of two ways. Either they give an artist room to grow in ways that weren’t possible as part of a group, or they make you that much more grateful for the group they came from. To Love Is to Live is the latter. It may well prove to be a stepping stone to something remarkable, but as a standalone work it never quite casts its spell.
+  Solo projects seem to go one of two ways. Either they give an artist room to grow in ways that weren’t possible as part of a group, or they make you that much more grateful for the group they came from. *To Love Is to Live* is the latter. It may well prove to be a stepping stone to something remarkable, but as a standalone work it never quite casts its spell.
 
 tracks:
   - French Countryside
@@ -81,7 +81,7 @@ score:
 author: Marcus
 
 review: >-
-  To Love Is To Live is a weird album. Moment to moment it jumps between elegance and mania without pausing for breath, and this unusual composition does more to harm the experience than help it.
+  *To Love Is To Live* is a weird album. Moment to moment it jumps between elegance and mania without pausing for breath, and this unusual composition does more to harm the experience than help it.
 
   Set up thematically from the first line, what follows is a series of experiments in communicating the compulsion to bring others into your life, particularly for romantic reasons, and the risks new people can bring with them. Sometimes it pays off magnificently, and Jehnny Beth finds plenty of new ground in the well-worn field of love, longing, and heartache. Sadly, the aforementioned leaps in tone, tempo, and atmosphere throughout make it a tough sell.
 

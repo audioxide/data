@@ -12,6 +12,7 @@ tags:
   - radiohead
   - alternative rock
   - britpop
+  - rock
   - pop rock
   - nine inch nails
   - rock
@@ -45,9 +46,9 @@ author: André
 review: >-
   Coldplay are an easy target, and for good reason. It’s incredibly easy to dismantle their derivative sound, and admittedly rather fun. Keen defenders of the band are quick to point out that their earlier albums showed exciting potential, and whilst *Parachutes* is no doubt a pleasant listen, I don’t wholly agree. There is very little here that arouses anything resembling excitement, or any other sensation for that matter. Listening to Coldplay’s debut album is effortless, requiring almost nothing from the listener. I see the value in that, and I’d be lying if I said I didn’t enjoy a good portion of the tracklist. It’s just too damn passive for my liking. It’s so inoffensive that it inadvertently becomes offensive.
 
-  *Parachutes* has plenty of memorable hooks and melancholic sing-a-longs. Had Coldplay gone on to do great things, I imagine that their debut record would have been looked back on rather fondly, at least as a showcase of fundamentals within sombre pop-rock. Instead, it lays bare the many influences that formed the arena-rock titans that we know today. Without even scratching the surface you hear elements of U2, Radiohead, Jeff Buckley, and, of course, Travis. Crucially, *Parachutes* lacks the passion that made these artists so beloved (to various degrees). On the lavish opener “Dont Panic”, Chris Martin sings ‘we live in a beautiful World’ as though he’s tired of the very thing he’s gushing over. Lyrically, he’s unable to move past sugary sentiments, showcased clearly on “Yellow”: ‘look at the stars/look how they shine for you/and everything you do.’
+  *Parachutes* has plenty of memorable hooks and melancholic sing-a-longs. Had Coldplay gone on to do great things, I imagine that their debut record would have been looked back on rather fondly, at least as a showcase of fundamentals within sombre pop-rock. Instead, it lays bare the many influences that formed the arena-rock titans that we know today. Without even scratching the surface you hear elements of [U2](/reviews/u2-the-joshua-tree/), [Radiohead](/articles/ranking-radioheads-discography/), Jeff Buckley, and, of course, Travis. Crucially, *Parachutes* lacks the passion that made these artists so beloved (to various degrees). On the lavish opener “Dont Panic”, Chris Martin sings ‘we live in a beautiful World’ as though he’s tired of the very thing he’s gushing over. Lyrically, he’s unable to move past sugary sentiments, showcased clearly on “Yellow”: ‘look at the stars/look how they shine for you/and everything you do.’
 
-  No doubt, *Parachutes* laid a solid-yet-unexciting foundation. Initially, there was some hope: A Rush of Blood to the Head was an improvement in certain areas, despite the band still feeling hopelessly contained. Four years after their debut record, Radiohead released an album that sent shockwaves through the scene, and it continues to astound listeners to this day. As a contrast, Coldplay took no time at all in becoming the blandest ‘biggest band on the Planet’ that the 21st Century had seen. Someone needs to do it, I suppose, and there’s obviously a market for it. As it happens, I’m actually very thankful that Coldplay continue to exist. Sometimes I take genuinely good music for granted, and these lovely chaps continue to offer me perspective. In some twisted, roundabout way, their presence is always reminding me to acknowledge and appreciate those artists we hold so dearly. In conclusion: *Parachutes* is fine.
+  No doubt, *Parachutes* laid a solid-yet-unexciting foundation. Initially, there was some hope: A Rush of Blood to the Head was an improvement in certain areas, despite the band still feeling hopelessly contained. Four years after their debut record, [Radiohead released an album that sent shockwaves through the scene](/reviews/radiohead-ok-computer/), and it continues to astound listeners to this day. As a contrast, Coldplay took no time at all in becoming the blandest ‘biggest band on the Planet’ that the 21st Century had seen. Someone needs to do it, I suppose, and there’s obviously a market for it. As it happens, I’m actually very thankful that Coldplay continue to exist. Sometimes I take genuinely good music for granted, and these lovely chaps continue to offer me perspective. In some twisted, roundabout way, their presence is always reminding me to acknowledge and appreciate those artists we hold so dearly. In conclusion: *Parachutes* is fine.
 
 tracks:
   - Don't Panic
@@ -64,11 +65,11 @@ score:
 author: Fred
 
 review: >-
-  While explaining to Howard Stern that “Yellow”, the greatest song of all time, is meaningless — absolutely meaningless — Chris Martin just about sums up Coldplay perfectly: ‘It was a feeling more than a meaning.’
+  While explaining to Howard Stern that “Yellow”, the greatest song of all time, is meaningless — absolutely meaningless — Chris Martin just about sums up Coldplay perfectly: [‘It was a feeling more than a meaning.’](https://www.youtube.com/watch?v=5efsGs3niy0)
 
   *Parachutes* is a big ol’ dose of feeling. Chris Martin coos over a warm, shiny, radio-friendly mix with that patented Chris Martin timbre and life suddenly seems quite pleasant, in a drifting, vacant sort of way. Tracks like “Shiver” and “Trouble” are truly lovely, with the sheen on the guitar sitting especially well in the mix.
 
-  It’s hardly otherworldly music, but then it doesn’t claim to be. Parallels to Radiohead have always struck me as a bit laboured. It’s like comparing Scooby and Scrappy Doo. (Nine Inch Nails are Cujo, if you were wondering.) Coldplay offer competent pop-rock with enough hits to balance out the duds. That’s how they started with *Parachutes*, and that’s how they went on.
+  It’s hardly otherworldly music, but then it doesn’t claim to be. Parallels to [Radiohead](/reviews/radiohead-a-moon-shaped-pool/) have always struck me as a bit laboured. It’s like comparing Scooby and Scrappy Doo. ([Nine Inch Nails](/reviews/nine-inch-nails-the-downward-spiral/) are Cujo, if you were wondering.) Coldplay offer competent pop-rock with enough hits to balance out the duds. That’s how they started with *Parachutes*, and that’s how they went on.
 
   Is Chris Martin actually a mass-murdering psychopath with a skull collection in his cellar? Probably, but for as long as he evades capture we have to give him the benefit of the doubt. As things stand *Parachutes* is nice-feeling music written by nice-seeming blokes. It’s easy to mock, but it’s easy to like, too.
 
