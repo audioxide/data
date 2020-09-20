@@ -10,7 +10,7 @@ tags:
   - idles
   - rock
   - punk
-featuredimage: album-artwork/filler.jpg
+featuredimage: album-artwork/ultra-mono-idles.jpg
 artist: Idles
 album: Ultra Mono
 essentialtracks: "" 
@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.56666667
 colours:
-  - "#361334"
-  - "#af6b9f"
-  - "#af6b9f"
+  - "#f2587e"
+  - "#090000"
+  - "#090000"
 pullquote: Text
 summary: Text
 week: 149
