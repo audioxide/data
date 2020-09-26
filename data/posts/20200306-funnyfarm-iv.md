@@ -22,7 +22,7 @@ For years she had been the record label’s darling, seeking out marketable tale
 
 Given her own contribution to the music industry’s nastiness, Gould should perhaps have been better prepared to be on the receiving end of it. The label, pressured by shareholders who were ‘deeply concerned’ by her diminishing returns and ballooning expenses, cut her loose.
 
-She had been informed of her dismissal in Coppleton’s phonebox. (The village had one phone box and the villagers were very proud of it, nicknaming it ‘Betsy.’) A particularly wild night of ‘scouting’ had brought her to a nearby bench. When she had called the head office to explain, and request funds for a ticket home, they thought it a fine opportunity to explain her services were no longer needed. They all felt safer knowing she was a couple of hundred miles away, penniless and with no immediate prospects of enacting revenge.
+She had been informed of her dismissal in Coppleton’s phonebox. (The village had one phone box and the villagers were very proud of it.) A particularly wild night of ‘scouting’ had brought her to a nearby bench. When she had called the head office to explain, and request funds for a ticket home, they thought it a fine opportunity to explain her services were no longer needed. They all felt safer knowing she was hundreds of miles away, penniless and with no immediate prospects of enacting revenge.
 
 Her world crumbling, Gould found sanctuary in the village library. After blacking out in the foetal position for most of the afternoon she polished off her medication to clear her head when lo, a fresh opportunity presented itself. Two hapless ‘artists’ wanted a hapless ‘bassist’ to join their so-called ‘band.’ It was like a starving shark smelling blood.
 
@@ -76,7 +76,7 @@ Hazard nodded vigorously. This was enough for Gould, who continued.
 
 The band processed this in silence. The landlord, who had approached to reprimand Gould about what was now her second cigarette, backed away and pretended to busy himself at a nearby table. The pub’s decibel levels eased back up to normal.
 
-Bas reached, pulled the napkin towards himself, and turned to Gould.
+Bas pulled the napkin towards himself and turned to Gould.
 
 ‘Pahldr?’ he said.
 

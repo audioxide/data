@@ -34,8 +34,10 @@ week: 229
 blurb: Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, Song for Our Daughter is an often sublime Marling masterclass.
 artistMBID: cd9713d6-6e5f-4143-9412-4d12b7bd47f2
 albumMBID: 95335b28-967c-49a2-bbc1-952c9fd0fb58
+artistLink: https://store.lauramarling.com/
 
 ---
+
 author: André
 
 review: >-

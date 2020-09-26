@@ -31,6 +31,7 @@ week: 19
 blurb: On The Beach is perfect for those late nights alone. Both mellow and despondent, the record features the purest of songwriting from a genuine artist.
 artistMBID: 75167b8b-44e4-407b-9d35-effe87b223cf
 albumMBID: f4174531-b783-3786-b75f-4fe61a8f6333
+artistLink: https://neilyoung.warnerrecords.com/
 
 ---
 author: André

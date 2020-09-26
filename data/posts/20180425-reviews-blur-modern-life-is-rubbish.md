@@ -38,7 +38,10 @@ week: 143
 blurb: Inconsistent, but there's a lot to dig. The songwriting is hard to knock, and Damon Albarn leads the pack well with his social satires and cutting commentary.
 artistMBID: ba853904-ae25-4ebb-89d6-c44cfbd71bd2
 albumMBID: e7affd78-d157-4772-a468-675fa4309c61
+artistLink: https://shop.blur.co.uk/
+
 ---
+
 author: ANDRÉ
 
 review: >-

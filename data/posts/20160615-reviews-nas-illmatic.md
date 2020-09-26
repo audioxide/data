@@ -31,7 +31,10 @@ week: 57
 blurb: Illmatic has every element required that goes into making a great hip-hop record, with no gimmicks to intervene. It is, at its core, ten essential tracks.
 artistMBID: cfbc0924-0035-4d6c-8197-f024653af823
 albumMBID: 28298e2c-4d70-3eed-a0f5-a3280c662b3d
+artistLink: https://shop.nasirjones.com/
+
 ---
+
 author: André
 
 review: >-

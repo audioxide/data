@@ -41,7 +41,10 @@ week: 222
 blurb: With Harvey it feels like you’ve stumbled across the ad hoc performance of a travelling mystic. It’s black magic with a smile.
 artistMBID: e795e03d-b5d5-4a5f-834d-162cfb308a2c
 albumMBID: 2a976d93-1131-3821-9bcb-6c79542d93aa
+artistLink: https://pjharvey.kontraband.store/
+
 ---
+
 author: André
 
 review: >-

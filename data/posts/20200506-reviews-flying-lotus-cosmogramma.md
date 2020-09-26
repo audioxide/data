@@ -38,8 +38,10 @@ week: 232
 blurb: Cosmogramma is a stunning showcase of music made, or at the very least assisted by, computers. Time has only proved it to be a genuine modern masterpiece.
 artistMBID: fc7376fe-1a6f-4414-b4a7-83f50ed59c92
 albumMBID: ddae2c76-1433-4a9a-be05-3447bda75eee
+artistLink: https://www.merchbar.com/dance-electronic-edm/flying-lotus/
 
 ---
+
 author: André
 
 review: >- 

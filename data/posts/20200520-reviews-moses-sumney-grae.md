@@ -41,6 +41,7 @@ week: 234
 blurb: Emotionally vulnerable and creatively restless. The record plays out like a prolonged stream of consciousness, yet every aspect seems carefully constructed.
 artistMBID: 89c081d4-2ab2-4d3e-8589-ad77dfc40384
 albumMBID: 1c50740c-1acb-4bd8-bf54-fc6a6dc859cb
+artistLink: https://www.hellomerch.com/collections/moses-sumney/
 
 ---
 

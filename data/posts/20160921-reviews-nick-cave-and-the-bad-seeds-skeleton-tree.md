@@ -32,6 +32,8 @@ week: 71
 blurb: Tension lingers in every song. The record is defined by its desolate atmosphere, underlined by instrumentals featuring elements of ambient and drone music.
 artistMBID: 172e1f1a-504d-4488-b053-6344ba63e6d0
 albumMBID: 49339024-c6b4-4345-b521-6349463513cb
+artistLink: https://store.nickcave.com/
+
 ---
 author: ANDRÉ
 

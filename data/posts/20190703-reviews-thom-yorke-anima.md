@@ -32,7 +32,10 @@ week: 199
 blurb: ANIMA has the Yorke's classic oddball jumpiness, but there are some really fluid sounds at play too. Does the album delight? No, but it does satisfy.
 artistMBID: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
 albumMBID: 447435e2-8395-45f5-812b-f03f7525c8d6
+artistLink: https://store.wasteheadquarters.com/collections/thom-yorke-atoms-for-peace/
+
 ---
+
 author: André
 
 review: >-

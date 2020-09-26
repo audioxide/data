@@ -31,8 +31,12 @@ week: 9
 blurb: The catchy riffs and toe-tapping beats are there, but that's precisely the problem - stubborn in nature, with very little desire to change, they are just there.
 artistMBID: f1106b17-dcbb-45f6-b938-199ccfab50cc
 albumMBID: 16cc9dfc-594d-3fb9-b789-3e1bfcb6f9f8
+artistLink: https://store.neworder.com/
+
 ---
+
 author: André
+
 review: >-
   New Order's significance is admirable, no question, but in the present day the core of their music feels regrettably lifeless. With this release, the catchy riffs and toe-tapping beats are there, but that’s precisely the problem - stubborn in nature, with very little desire to change, they are just there. While there are some highlights (the resigned closer “Leave Me Alone” is New Order at their most interesting), *Power, Corruption & Lies* ultimately leaves me feeling cold.
 
@@ -46,6 +50,7 @@ score:
   fraction: 0.5
 
 ---
+
 author: Fred
 
 review: >-
@@ -61,6 +66,7 @@ score:
   fraction: 0.5
 
 ---
+
 author: Andrew
 
 review: >-

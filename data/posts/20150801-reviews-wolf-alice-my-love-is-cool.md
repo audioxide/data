@@ -32,6 +32,7 @@ week: 22
 blurb: A record that’s unabashed and vibrant and full of potential. Wolf Alice show glimpses of what's to come, straddling genres with almost childlike enthusiasm.
 artistMBID: 3547f34a-db02-4ab7-b4a0-380e1ef951a9
 albumMBID: e1085098-3b62-430f-b6c3-7a23eb6fecf3
+artistLink: https://store.wolfalice.co.uk/
 
 ---
 author: André

@@ -32,7 +32,10 @@ week: 113
 blurb: Mark Ronson's production is pristine, which while technically impressive feels inappropriate. The music sounds kitschy, like a gigantic quiff's greatest hits.
 artistMBID: 7dc8f5bd-9d0b-4087-9f73-dc164950bbd8
 albumMBID: 7e7270ae-a73a-48e2-a8a6-20e1112e21f8
+artistLink: https://store.qotsa.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

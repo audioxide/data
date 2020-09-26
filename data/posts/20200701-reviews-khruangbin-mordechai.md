@@ -36,6 +36,7 @@ week: 239
 blurb: Relaxing yet affecting, these songs are begging to be listened to with a chilled beverage in hand, alongside friends, watching the sun go down.
 artistMBID: aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634
 albumMBID: 53e6ec80-ddc7-4db8-80f8-5e081545c856
+artistLink: https://www.hellomerch.com/collections/khruangbin/ 
 
 ---
 

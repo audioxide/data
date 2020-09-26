@@ -34,11 +34,13 @@ week: 146
 blurb: Hushed, husky Turner monologues drift over sophisticated arrangements with retro sheens. The album basks in the seedy buzz of a make-believe underworld.
 artistMBID: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
 albumMBID: 97ee3a0f-183b-4830-aa5c-45507a084d37
+artistLink: https://arcticmonkeys-store.com
+
 ---
 author: ANDRÉ
 
 review: >-
-  **General thoughts on *Tranquility Base Hotel & Casino* (May 11th – day of release):** 
+  **General thoughts on _Tranquility Base Hotel & Casino_ (May 11th – day of release):** 
   
   WTF. What has happened here? Where are the riffs? Where’s the vigour? Why can I barely hear Matt Helders? Is this an Arctic Monkeys album or an Alex Turner album? No wonder they didn’t release a single ahead of the release of this thing. The instrumentals seem to only exist to support Turner’s crooning — almost every song sounds the same. This is nowhere near as interesting, or stylish, as Turner thinks it is. Christ, he thinks he’s [Tom Waits](/reviews/tom-waits-rain-dogs/). Here he is nonchalantly reciting through songs like the [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/) of LA. He thinks he’s the absolute shit. The smugness is practically drenching from “American Sports”. These monologues are so self-indulgent. ‘I’m so full of shite,’ he sings on “She Looks Like Fun”. Too fucking right you are, mate.
 

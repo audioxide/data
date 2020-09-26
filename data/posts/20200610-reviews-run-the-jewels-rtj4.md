@@ -35,6 +35,7 @@ week: 236
 blurb: "El-P and Mike are on the frontline now. Here the duo stand up to be counted for what they really are: rappers, producers, activists, husbands, citizens."
 artistMBID: a80c5dc5-b12e-4667-9f5a-b568961f3839
 albumMBID: 46dc2b09-a6b1-4271-bf1d-01f3b3b95c23
+artistLink: https://rtj4.link/store/
 
 ---
 

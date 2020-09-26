@@ -33,6 +33,8 @@ week: 213
 blurb: "The album is enthralling in the same way a vampire's glamouring might be: warm, cold, hypnotic, enticing, and foreboding as all Hell."
 artistMBID: 84ca8fa4-7cca-4948-a90a-cb44db29853d
 albumMBID: 16af6d23-9d40-49a6-952b-5631d4ec7981
+artistLink: http://www.clppng.com/merch/
+
 ---
 author: André
 

@@ -19,15 +19,15 @@ blurb: In which the value of a rhythm section quickly becomes clear.
 
 The first time Alan Hazard, Ray Sunshine, and Bas practiced together the result was a temporal marvel. Although each played their part in perfect time, they were seemingly incapable of playing in the *same* time.
 
-Whenever Hazard was belting out the second chorus Sunshine was three minutes into a solo and Bas was somehow on the previous song. For hours they persevered in the vague hope that the arrangement would sound sophisticated, like Led Zeppelin. They didn’t. Luckily, their rehearsal space – Sunshine’s garage – was not within earshot of any of the villagers. The only people who could hear them were Sunshine’s parents, and they were used to being disappointed in their son anyway.
+Whenever Hazard was belting out the chorus Sunshine was three minutes into a solo and Bas was somehow on the previous song. For hours they persevered in the vague hope that these arrangement would sound sophisticated, like Led Zeppelin. They didn’t. Luckily their rehearsal space – Sunshine’s parents' garage – was not within earshot of any of the villagers. The only people who could hear them were Sunshine’s parents, and they were used to being disappointed in their son anyway.
 
 After a final car crash of a performance Sunshine voiced what he and Hazard were both thinking. Bas had by that point passed out in the corner and was not thinking anything.
 
 ‘We need a rhythm section,’ Sunshine said.
 
-Hazard nodded, but a terrible anxiety was already forming somewhere in the depths of his ego. It had begun to dawn on him that being in a band meant there were other people besides him who might be considered important. This did not mesh with Hazard’s view of the world and his place in it. Each addition to the band was a further threat to his authority, and a rhythm section meant two – a bassist and a drummer.
+Hazard nodded, but a terrible anxiety was forming somewhere in the bubbling depths of his ego. It had begun to dawn on him that being in a band meant there were other people besides him who might be considered important. This did not mesh with Hazard’s view of the world and his place in it. Each addition to the band was a further threat to his authority, and a rhythm section meant two – a bassist and a drummer.
 
-He cast a jealous eye on Bas and briefly considered cutting him loose, carrying him back to the car park and pretending they’d never invited him in the first place, but decided against it. Bas was not strictly conscious most of the time, but guitars sang like angels when he played them. He had been the rehearsal’s only positive.
+He cast a jealous eye on Bas and briefly considered cutting him loose, carrying him back to the car park and pretending they’d never invited him in the first place. He decided against it. Bas was not strictly conscious most of the time, but the previous four hours had been enough to know guitars sang like angels when he played them. He had been the rehearsal’s only positive.
 
 ‘Do you know any drummers?’ Hazard asked.
 
@@ -41,21 +41,21 @@ Hazard’s mind whirred looking for a hole in this argument, but he couldn’t f
 
 ‘Where can we find him?’
 
-They found him in an abandoned lot on the outskirts of town. True to form he was circling an abandoned car, hitting it with a two-by-four between bouts of howling. The timing of his blows was immaculate. The car’s engine was running and the speakers were belting out a post-rock dirge of cataclysmic proportions. Silhouetted by the livid red of the setting sun, Theodore Stone looked like hell’s bouncer.
+They found him in an abandoned lot on the outskirts of town. True to form he was circling an abandoned car, hitting it with a two-by-four between bouts of howling. The timing of his blows was immaculate. The car’s engine was running and the speakers were belting out a cataclysmic post-rock dirge. Silhouetted by the livid red of the setting sun, Theodore Stone looked like hell’s bouncer.
 
-Hazard and Sunshine edged forward, wielding Bas as a kind of human shield. As they neared their potential recruit Hazard was able to scan his face. He’d never seen him without a beanie before was suddenly overcome by sympathy. If his hairline had receded that much by his early twenties he’d have been angry too.
+Hazard and Sunshine edged forward, wielding Bas as a kind of human shield. As they neared their potential recruit Hazard was able to scan his face. He’d never seen him without a beanie before and was suddenly overcome by sympathy. If his hairline had receded that much by his early twenties he’d have been angry too.
 
 ‘Ahoy there,’ Sunshine sang with what Hazard and Bas thought to be rather reckless cheeriness.
 
-Stone froze in mid smash and turned his head with terrible slowness.
+Stone stopped in mid smash and turned his head with ice freezing slowness.
 
 ‘What do you want?’ he said.
 
 ‘We were wondering,’ Hazard said, ‘if you’d like to join my band-’
 
-*‘Your *band?’ Sunshine hissed.
+‘*Your* band?’ Sunshine hissed.
 
-‘Aiodutbv?’ Bas slurred.
+‘*Aiodutbv*?’ Bas slurred.
 
 Hazard elbowed them in the ribs and back respectively and ploughed on.
 
@@ -79,7 +79,7 @@ Hazard nodded in a mixed frenzy of affirmation and self-preservation. ‘Yes,’
 
 Hazard and Sunshine almost collapsed with relief. Bas stepped forward.
 
-‘Qoiugna?’ Bas said.
+‘Qoiugna?’ he said.
 
 ‘Bassists?’ Stone scratched his brow. ‘Now that you mention it, I do know one guy.’
 

@@ -34,6 +34,8 @@ week: 89
 blurb: In today’s climate of formulaic acts dominating the charts, Laura Marling continues to resist that temptation and further perfect her craft as a songwriter.
 artistMBID: cd9713d6-6e5f-4143-9412-4d12b7bd47f2
 albumMBID: 3037f334-1e40-4d13-98ed-08169120652b
+artistLink: https://store.lauramarling.com/
+
 ---
 author: ANDRÉ
 

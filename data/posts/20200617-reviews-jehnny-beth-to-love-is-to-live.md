@@ -32,6 +32,7 @@ week: 237
 blurb: The album is purposefully provocative, and whilst this brings exhilarating and hard-hitting moments, it can also result in disorientating frenzies.
 artistMBID: fdac609a-63d0-49b9-823a-daec52a0db97
 albumMBID: b0f7e88f-81b4-431d-ad38-7a3ae524b424
+artistLink: https://shop.jehnnybeth.com/ 
 
 ---
 
