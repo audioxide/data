@@ -32,7 +32,10 @@ week: 123
 blurb: Dylan sings and we listen, the instrumentation hanging on his every word along with the rest of us. The album is an expressive, beautiful, and timeless classic.
 artistMBID: 72c536dc-7137-4477-a521-567eeb840fa8
 albumMBID: fb48b1dc-412f-36aa-8820-1023c08c46c6
+artistLink: https://bobdylanstore.com/ 
+
 ---
+
 author: ANDRÉ
 
 review: >-

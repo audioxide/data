@@ -30,6 +30,8 @@ week: 212
 blurb: Sonic Citadel leans into the grubby, raw, jam-like nature of the duo's live performances, records it, and calls it a day. It's like a whirring motorcycle.
 artistMBID: 978a36f7-85c6-44ca-a02e-7564e8fa8284
 albumMBID: e15e37de-2462-48fa-9f81-e512eb24fb12
+artistLink: https://lightningbolt.bandcamp.com/
+
 ---
 author: André
 

@@ -34,7 +34,7 @@ As they disembarked he stooped low before them in mock gentility, brandishing hi
 
 Thenmayne waved his hand. ‘I keep close tabs on all my top clients, and Bas is nothing if not a top client. I hadn’t heard from him for several hours so I knew he’d need me soon. I say,’ his eyes widened at the sight of Stone unloading instruments from the van, ‘you’re not in a band are you?’
 
-‘As a matter of fact we are,’ Hazard said. He steeled himself then added, ‘we’re The Band With No Name.’
+‘As a matter of fact we are,’ Hazard said. He steeled himself then added, ‘we’re the Band With No Name.’
 
 ‘Marvelous, marvelous.’
 

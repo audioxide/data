@@ -31,7 +31,10 @@ week: 47
 blurb: The Eraser is a wonderful listen that comes with some baggage. If you’re able to handle its intensity, it’s actually a very beautiful record.
 artistMBID: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
 albumMBID: 2a971a81-2f4d-333b-8327-8b2d73c649cf
+artistLink: https://store.wasteheadquarters.com/collections/thom-yorke-atoms-for-peace/
+
 ---
+
 author: André
 
 review: >-

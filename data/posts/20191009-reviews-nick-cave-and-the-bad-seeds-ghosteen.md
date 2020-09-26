@@ -31,7 +31,10 @@ week: 211
 blurb: The aura of each composition is beautiful, yet there's also the aching feeling of something missing. Stunning, and yet also oddly forgettable.
 artistMBID: 172e1f1a-504d-4488-b053-6344ba63e6d0
 albumMBID: 99fc75a4-3ff2-4248-9ae2-65d7026c7296
+artistLink: https://store.nickcave.com/
+
 ---
+
 author: André
 
 review: >-

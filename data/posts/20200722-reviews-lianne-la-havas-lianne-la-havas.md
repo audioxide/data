@@ -32,6 +32,7 @@ week: 241
 blurb: The record lacks hooks and memorable moments. Although this is La Havas' most cohesive album to date, it may also be her most forgettable.
 artistMBID: 680466d6-f05b-44f6-858d-625d1b5087f6
 albumMBID: e58e9147-0d9b-4dab-95f2-ae134542ea26
+artistLink: https://www.liannelahavas.com/merch/
 
 ---
 

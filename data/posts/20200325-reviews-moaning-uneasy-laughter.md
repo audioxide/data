@@ -37,6 +37,8 @@ week: 225
 blurb: The album's all a bit clean cut, a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
 artistMBID: d5d4af51-8c20-45ed-9cc4-f8bbbb28289d
 albumMBID: 5be88c22-464f-4b6a-9f14-945c589a9840
+artistLink: https://moaning.bandcamp.com/
+
 ---
 author: André
 

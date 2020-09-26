@@ -30,7 +30,10 @@ week: 96
 blurb: The album’s songwriting is fairly subpar, trying to say everything at once. Humanz is by no means a terrible album, but it’s definitely a disappointing one.
 artistMBID: e21857d5-3256-4547-afb3-4b6ded592596
 albumMBID: 066f840f-e357-436f-bb0a-47ad7cfcd84a
+artistLink: https://store.gorillaz.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

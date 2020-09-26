@@ -34,6 +34,8 @@ week: 154
 blurb: Björk creates her own identity by combining contrasting into something entirely unique. This broke the mould of what it means to be a new, exciting artist.
 artistMBID: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
 albumMBID: 6891a28c-5865-36e2-9e5f-c9fac1d3595f
+artistLink: https://shop.bjork.com/
+
 ---
 author: ANDRÉ
 

@@ -12,7 +12,7 @@ featuredimage: interview-images/paul-marchesani.jpg
 title: "Paul Marchesani: &#8216;I always knew my music was connected in some way.&#8217;"
 summary: Paul G. Marchesani is a freelance producer and radio host from Philadelphia. He’s in the midst of a project called the Forest Kids Collective, a shared musical universe of 27 characters, each with their own discography.
 author: fred
-blurb: "'I was always a visual music creator. After a while it just kind of snapped like hey, this is a universe. This can be a world.'"
+blurb: Paul G. Marchesani is a freelance producer and radio host from Philadelphia who's building a shared musical universe one album at a time.
 
 ---
 

@@ -34,7 +34,10 @@ week: 218
 blurb: Throughout much of its run-time, There is No Year seems content revelling in its own (admittedly awe-inspiring) ambience.
 artistMBID: 258e8672-1db1-469a-a505-00a42aaf0973
 albumMBID: dcfb7546-d9b4-4e12-9ba2-95fda90a52d6
+artistLink: https://algierstheband.terriblemerch.com/
+
 ---
+
 author: André
 
 review: >-

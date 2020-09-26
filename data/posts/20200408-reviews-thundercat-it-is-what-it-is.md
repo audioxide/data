@@ -32,7 +32,10 @@ week: 228
 blurb: Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style, an uneventful good time.
 artistMBID: 044fd265-79dd-43eb-afc4-8b20becf7e17
 albumMBID: 9ffdc0f1-6683-44f1-9194-a247ecb9b297
+artistLink: https://thundercat.bandcamp.com/
+
 ---
+
 author: André
 
 review: >-

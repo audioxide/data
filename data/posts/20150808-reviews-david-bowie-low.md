@@ -32,6 +32,7 @@ week: 23
 blurb: Bite-sized servings of vintage Bowie glam-rock combine with brooding instrumental soundscapes to make Low a truly special album.
 artistMBID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
 albumMBID: f6a51281-56c4-3538-b915-65a9d4eb29b5
+artistLink: https://store.davidbowie.com/
 
 ---
 author: André

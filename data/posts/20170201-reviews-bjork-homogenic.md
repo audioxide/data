@@ -32,7 +32,10 @@ week: 83
 blurb: Homogenic is a stunning work. Björk often defies categorisation, but her third studio album has a coherence that's often missing from her other records.
 artistMBID: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
 albumMBID: 810272e0-aef1-3d85-b2d3-e512e87fc38c
+artistLink: https://shop.bjork.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

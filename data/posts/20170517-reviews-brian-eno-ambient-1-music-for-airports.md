@@ -33,6 +33,8 @@ week: 98
 blurb: Music for Airports comprises of calming tones that induce sedation and tranquillity. Listeners are invited to float among soft, fluffy ambient clouds.
 artistMBID: ff95eb47-41c4-4f7f-a104-cdc30f02e872
 albumMBID: 5fdd6ba8-83c1-3a87-b378-d5f61dec5ddd
+artistLink: https://www.enoshop.co.uk/shop.html
+
 ---
 author: ANDRÉ
 

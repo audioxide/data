@@ -21,7 +21,7 @@ The band’s first gig was a riot. Literally. Halfway through the second song th
 
 Theo Stone’s exceedingly broad presence prevented any outright violence being directed towards the band, but on reflection they decided it was best to vacate the premises. Having done so and caught their collective breath around a nearby corner, they further decided it was best that they leave town altogether.
 
-Elaine Gould caught up with them just as they arrived at this conclusion. She looked worryingly pleased with herself.
+Laina Gould caught up with them just as they arrived at this conclusion. She looked worryingly pleased with herself.
 
 ‘Where were you?’ Hazard and Sunshine said together.
 
@@ -37,7 +37,7 @@ Elaine Gould caught up with them just as they arrived at this conclusion. She lo
 
 ‘We’ll need a touring vehicle, but it’s too late tonight. Reconvene here tomorrow at dawn with your instruments and a shoulder-bag’s worth of belongings each. Burn anything you leave behind. You, drummer.’ Stone’s head tilted gently to the side like an obedient dog. ‘Go back to that pub and take the drum kit. They won’t stop you.’
 
-Stone trotted round the corner. After a moment’s pause the sounds of fresh bedlam echoed down the street. Elaine Gould turned on the rest of the band.
+Stone trotted around the corner. After a moment’s pause the sounds of fresh bedlam echoed down the street. Laina Gould turned on the rest of the band.
 ‘Any questions?’ she said.
 
 None of them said a word. They each turned and began to walk away. Their walks turned into trots, then sprints. Fueled by an incomprehensible blend of horniness and fear they sprinted home to pack. Their bone dry minds were suddenly ablaze with depraved visions of rock and roll. Except Bas, that is. Bas kept to a saunter.

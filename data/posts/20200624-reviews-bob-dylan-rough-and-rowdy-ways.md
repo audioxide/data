@@ -36,6 +36,7 @@ week: 238
 blurb: Grizzled and dusty, the album is as world-weary as it is worldly. Dylan sits in his chair by the fire and regales with stories, between naps.
 artistMBID: 72c536dc-7137-4477-a521-567eeb840fa8
 albumMBID: 43b12592-d808-44de-a5df-ebd7c6b2b75c
+artistLink: https://bobdylanstore.com/ 
 
 ---
 

@@ -34,7 +34,10 @@ week: 54
 blurb: A daunting experience that revels in its sorrow. Radiohead have produced better records, but never before has their desolation sounded so gorgeous.
 artistMBID: a74b1b7f-71a5-4011-9441-d0b5e4122711
 albumMBID: bbce0087-d386-4246-a51d-dbcdfdbe8fb2
+artistLink: https://store.wasteheadquarters.com/
+
 ---
+
 author: André
 
 review: >-

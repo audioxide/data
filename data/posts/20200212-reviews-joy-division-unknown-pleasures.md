@@ -34,7 +34,10 @@ week: 220
 blurb: Pretty much everything about Unknown Pleasures was, and continues to be, a total triumph in cathartic misery. It's a true classic.
 artistMBID: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
 albumMBID: 42352def-1aab-3000-b548-895ebd869cb6
+artistLink: https://store.neworder.com/joy-division.html/
+
 ---
+
 author: André
 
 review: >-

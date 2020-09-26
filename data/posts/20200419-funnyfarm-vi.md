@@ -40,7 +40,7 @@ The Demeaning of Soul?’
 
 ‘Oh. No.’
 
-Ray Sunshine slumped back in his seat and put on his best pout. He had a world class pout, developed during years of spoiling. The rest of the band was not overly fussed by Hazard’s decision to keep moving. They were on the run, after all. Ten miles out of Coppleton they had stopped for snacks and Laina Gould picked up a copy of that morning’s *Yorkshire Beagle*. Its front page gave them rather a start:
+Ray Sunshine slumped back in his seat and put on his best pout. He had a world class pout, developed during years of being spoiled. The rest of the band was not overly fussed by Hazard’s decision to keep moving. They were on the run, after all. Ten miles out of Coppleton they had stopped for snacks and Laina Gould picked up a copy of that morning’s *Yorkshire Beagle*. Its front page gave them rather a start:
 
 > **BAND INCITES RIOT, ARSON AT HISTORIC PUB**
 >

@@ -21,7 +21,7 @@ They found him behind a Ford Focus with his head in a cloud. He was slumped at t
 
 Bas — as he was known to everyone in Coppleton, his full name long forgotten — was a man untainted by the vanities of ambition. Locals admired that about him. From an early age he had had the good sense to keep any big ideas to himself. He was content with that. Indeed, his imagination had been quite audacious in his youth, galavanting in exotic, faraway lands where the people were beautiful and every day needed saving.
 
-His dreams had somewhat lost their zest since those early days. Right now he was imagining himself railing the girl in the supermarket who had sold him tobacco.
+His dreams had rather lost their zest since those early days. Right now he was imagining himself railing the girl in the supermarket who had sold him tobacco.
 
 ‘Bas?’
 
@@ -41,11 +41,11 @@ With sublime slowness, Bas took another toke and slid a couple of inches further
 
 ‘Is he always like this?’ asked Sunshine.
 
-‘Not exactly,’ Hazard said. ‘Sometimes he’s holding a guitar, strumming in the corner at house parties. He’s really quite good.’
+‘Not exactly,’ Hazard said. ‘Sometimes he’s holding a guitar in the corner at house parties. He’s really quite good.’
 
 ‘Better than me?’ A touch of anxiety crept into Sunshine’s voice. ‘I mean, we are after a *second* guitarist remember.’
 
-Hazard ignored this and knelt in front of Bas, whose cloudy grey eyes, after a few seconds’ delay, drifted towards him.
+Hazard knelt in front of Bas, whose cloudy grey eyes, after a few seconds’ delay, drifted towards him.
 
 ‘Bas, it’s Alan.’ Hazard gestured over his shoulder. ‘And this is Ray. We’re forming a band, the greatest band that has ever been and is ever likely to be. We need a second guitarist. Would you like to join us?’
 

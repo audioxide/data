@@ -39,6 +39,7 @@ week: 235
 blurb: Provided you're in the right mood, The Moon & Antarctica is one of the standout indie rock releases of the 2000s.
 artistMBID: a96ac800-bfcb-412a-8a63-0a98df600700
 albumMBID: a8e26959-b3b2-3440-a74a-0dc06cd6310d
+artistLink: https://shop.glacialpace.com/ 
 
 ---
 
