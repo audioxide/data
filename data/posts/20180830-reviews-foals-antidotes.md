@@ -31,7 +31,10 @@ week: 161
 blurb: Foals leaned into their restless, agitated, math-rock roots and carved out a niche in the mainstream indie rock of the time.
 artistMBID: 6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
 albumMBID: b3354e1f-317e-3b64-88e1-d4dc54571a6d
+artistLink: https://shop.foals.co.uk/
+
 ---
+
 author: Gabriel
 
 review: >-

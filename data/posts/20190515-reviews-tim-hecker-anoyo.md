@@ -32,7 +32,10 @@ week: 192
 blurb: To get the most out of the record, listeners must embrace the obscurity and relish the moments of discomfort; probing shadows in order to find answers.
 artistMBID: c7ee3bc9-780c-42c0-91e9-4cd70ad692d3
 albumMBID: d5690b2d-334d-4156-849f-afb7d05903ff
+artistLink: https://tim-hecker-uk.myshopify.com/
+
 ---
+
 author: André
 
 review: >-

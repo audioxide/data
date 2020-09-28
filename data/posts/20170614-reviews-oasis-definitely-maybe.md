@@ -33,6 +33,8 @@ week: 102
 blurb: Rock and roll delivered with swagger is such a buzz, and that’s more or less the game on Definitely Maybe. It's relentless, unstoppable, and totally mad fer it.
 artistMBID: 39ab1aed-75e0-4140-bd47-540276886b60
 albumMBID: 451dca98-c118-32e1-9244-c47ca9c3c0f9
+artistLink: https://shop.oasisinet.com/
+
 ---
 author: ANDRÉ
 

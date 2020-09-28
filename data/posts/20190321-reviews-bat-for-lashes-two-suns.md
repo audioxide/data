@@ -36,6 +36,8 @@ week: 184
 blurb: While much of the Two Sun's tracklist doesn't feel as though it explores its ideas far enough, its highlights go a long way to make up for it.
 artistMBID: 10000730-525f-4ed5-aaa8-92888f060f5f
 albumMBID: d4952445-d143-35a1-8420-d73cc78c668f
+artistLink: https://www.batforlashes.com/shop
+
 ---
 author: André
 
