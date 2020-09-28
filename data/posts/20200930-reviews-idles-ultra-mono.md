@@ -32,6 +32,7 @@ week: 149
 blurb: Text
 artistMBID: be465d4f-c28d-4ba1-94ab-ebaada7db8af
 albumMBID: baa817a4-1987-44b7-bd0e-1d5eba738619
+artistLink: https://www.idlesband.com/shop/
 
 ---
 

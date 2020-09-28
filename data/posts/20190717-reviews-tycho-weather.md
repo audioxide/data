@@ -33,6 +33,8 @@ week: 201
 blurb: This is ambient Muzak. For all its smoothness and gentleness it barely leaves any impression at all.
 artistMBID: cbef45a9-7acb-4325-94c9-70081ac8d1b8
 albumMBID: 0ebe471f-87a1-4c60-af9d-135a4b080894
+artistLink: https://ukmerch.ambientinks.com/collections/tychoiso50
+
 ---
 author: André
 

@@ -5,4 +5,4 @@ links:
   facebook: ymaginationcouk
   instagram: ymagination_
   website: https://www.ymagination.co.uk/
-  default: twitter
+  default: website

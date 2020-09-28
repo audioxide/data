@@ -35,7 +35,10 @@ week: 183
 blurb: Foals’ experimentation with synths and funky instrumentals is bold, often promising, but the pieces never quite fall together.
 artistMBID: 6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
 albumMBID: ebbf6f7c-a843-4de9-96b7-5081dce485c7
+artistLink: https://shop.foals.co.uk/
+
 ---
+
 author: Gabriel
 
 review: >-

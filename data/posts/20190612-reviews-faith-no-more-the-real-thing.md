@@ -32,7 +32,10 @@ week: 196
 blurb: Faith No More create a journey of funky new wave rap-metal, and if that depiction sounds ridiculous... well that's because it is.
 artistMBID: b15ebd71-a252-417d-9e1c-3e6863da68f8
 albumMBID: 1ba7c980-4882-31fb-9918-12791f59d303
+artistLink: https://faithnomore.shopfirebrand.com/
+
 ---
+
 author: André
 
 review: >-

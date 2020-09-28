@@ -33,7 +33,10 @@ week: 162
 blurb: Joy as an Act of Resistance is refreshingly sincere and positive in a time where artists are finding it easy to sensationalise and despair.
 artistMBID: be465d4f-c28d-4ba1-94ab-ebaada7db8af
 albumMBID: 45003bef-d379-441d-b246-358f0b78985c
+artistLink: https://www.idlesband.com/shop/
+
 ---
+
 author: André
 
 review: >-
