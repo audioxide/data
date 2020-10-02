@@ -32,7 +32,10 @@ week: 107
 blurb: There is a remarkable confidence to the record that you wouldn’t usually expect from a debut, which is a testament to Costello’s immense musical capabilities. 
 artistMBID: 8a338e06-d182-46f2-bd16-30a09bc840ba
 albumMBID: c7a4740f-2729-3895-8498-08c521886a95
+artistLink: https://store.elviscostello.com
+
 ---
+
 author: ANDRÉ
 
 review: >-

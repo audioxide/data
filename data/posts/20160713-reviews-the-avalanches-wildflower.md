@@ -30,7 +30,10 @@ week: 61
 blurb: Wildflower brims with positive energy, and is a worthy, if lopsided follow-up to Since I Left You. The music is carefree, graceful, and extremely accessible.
 artistMBID: a6623d39-2d8e-4f70-8242-0a9553b91e50
 albumMBID: e27e2c64-8e49-43d2-8468-c3b484cf11f0
+artistLink: https://artists.sound-merch.com.au/theavalanches/
+
 ---
+
 author: André
 
 review: >-

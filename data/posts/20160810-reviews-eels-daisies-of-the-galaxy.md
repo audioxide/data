@@ -31,7 +31,10 @@ week: 65
 blurb: Daisies of the Galaxy comes to terms with the torment that constructed the deeply bleak and reflective Electro-Shock Blues, and injects a taste of happiness.
 artistMBID: 14387b0f-765c-4852-852f-135335790466
 albumMBID: ea5f23b9-55b0-3838-b25f-88a9eaf4addb
+artistLink: https://eelstheband.com/stores.php
+
 ---
+
 author: André
 
 review: >-

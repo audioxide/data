@@ -32,7 +32,10 @@ week: 145
 blurb: Singularity is ultimately a record to admire rather than cherish, but there’s enough scope here for it to become a favourite for electronic listeners.
 artistMBID: 0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd
 albumMBID: 7b49f37f-06a6-4c71-970f-c1905c19906f
+artistLink: https://jonhopkins.shop.redstarmerch.com/store
+
 ---
+
 author: ANDRÉ
 
 review: >-

@@ -35,7 +35,10 @@ week: 130
 blurb: Freedom’s Goblin is a victim of its own ambition, and of Segall’s protean talent. A lot of ground is covered, but the album’s identity never quite clicks into place.
 artistMBID: 07a17571-81fc-4cf8-a634-98f0d926d313
 albumMBID: b413f67f-a68b-48d7-8b33-abbc09e9f763
+artistLink: https://ty-segall.com/collections/all
+
 ---
+
 author: ANDRÉ
 
 review: >-

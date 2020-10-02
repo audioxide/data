@@ -35,7 +35,10 @@ week: 73
 blurb: 22, A Million feels like a nondescript blur. It doesn’t deal in structure, but in loose clusters of peculiar sounds and imperceptible words. It's a pretentious mess.
 artistMBID: 437a0e49-c6ae-42f6-a6c1-84f25ed366bc
 albumMBID: f0e8f425-a941-48df-b5d7-2ceeaaf77c71
+artistLink: https://store.boniver.org/
+
 ---
+
 author: ANDRÉ
 
 review: >-

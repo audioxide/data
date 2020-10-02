@@ -32,7 +32,10 @@ week: 122
 blurb: There’s a mindlessness to the instrumentation, lyricism, and vocals that is devoid of surprises. The 32-minute runtime blasts by as a blur of repetitive noise.
 artistMBID: d6ed7887-a401-47a8-893c-34b967444d26
 albumMBID: 7de1e321-4a53-3feb-b83e-f1dab88bf952
+artistLink: https://store.ramones.com
+
 ---
+
 author: ANDRÉ
 
 review: >-

@@ -1,7 +1,7 @@
 ---
 created: 2017-10-11T16:00:16.000Z
 modified: 2018-03-12T19:48:23.000Z
-slug: review-heaven-upside-down-marilyn-manson
+slug: marilyn-manson-heaven-upside-down
 type: reviews
 tags:
   - "18"
@@ -31,7 +31,10 @@ week: 119
 blurb: You should come out of a Marilyn Manson record wanting your stomach pumped. The softcore offerings of Heaven Upside Down prompt hand washing at best.
 artistMBID: 5dfdca28-9ddc-4853-933c-8bc97d87beec
 albumMBID: 7000fa0a-81eb-4238-af55-916e774b03a2
+artistLink: https://www.marilynmanson.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

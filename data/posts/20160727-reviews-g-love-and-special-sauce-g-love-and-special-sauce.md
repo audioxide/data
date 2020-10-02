@@ -32,7 +32,10 @@ week: 63
 blurb: The album is ice-cool summer groove music, with shimmering guitar stabs, slender double bass slides, and silky smooth vocal delivery aplenty.
 artistMBID: dbf7c761-e332-467b-b4d9-aafe06bbcf8f
 albumMBID: d54dc508-1b22-3922-8839-6ddcfff10b7d
+artistLink: https://philadelphonic.com/shop/
+
 ---
+
 author: André
 
 review: >-

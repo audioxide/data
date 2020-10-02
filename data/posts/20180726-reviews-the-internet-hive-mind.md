@@ -32,7 +32,10 @@ week: 156
 blurb: The record stagnates into a smooth R&B mood, though admittedly a rather lavish one. It’s frustrating to hear an album so content with being unrefined.
 artistMBID: 45804465-4271-4e6a-b881-ce668ef09530
 albumMBID: 57d84f17-7b18-4800-b7c2-15833b468637
+artistLink: https://shop.internet-band.com/
+
 ---
+
 author: André
 
 review: >-

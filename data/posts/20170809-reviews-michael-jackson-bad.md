@@ -32,7 +32,10 @@ week: 110
 blurb: It took Michael Jackson five years to follow up the greatest selling album of all time, and despite showing signs of age, Bad gave it a damn good go.
 artistMBID: f27ec8db-af05-4f36-916e-3d57f91ecf5e
 albumMBID: a5711a77-42d1-3f4c-830c-e27a96f0800f
+artistLink: https://michaeljackson.com
+
 ---
+
 author: ANDRÉ
 
 review: >-

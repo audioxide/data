@@ -34,7 +34,10 @@ week: 76
 blurb: Precious little of what makes Gaga special is on show in Joanne. Outrageous, infuriatingly catchy pop anthems are nowhere to be seen; just pedestrian ones.
 artistMBID: 650e7db6-b795-4eb5-a702-5ea2fc46c848
 albumMBID: b3d4aef6-749f-40c1-b8f0-e763bde8cfdc
+artistLink: https://shop.ladygaga.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

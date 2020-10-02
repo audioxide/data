@@ -30,7 +30,10 @@ week: 141
 blurb: Mr. E’s found fresh form. Only he could write something like “Sweet Scorched Earth”, which is the closest we’ve come to an Eels ‘classic’ in quite some time.
 artistMBID: 14387b0f-765c-4852-852f-135335790466
 albumMBID: 99230c20-a341-4218-9c15-f498cdc4ed21
+artistLink: https://eelstheband.com/stores.php
+
 ---
+
 author: ANDRÉ
 
 review: >-

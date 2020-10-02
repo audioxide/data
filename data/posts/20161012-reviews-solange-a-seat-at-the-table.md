@@ -32,7 +32,10 @@ week: 74
 blurb: An extremely smooth ride with no turbulence or unnecessary distractions, full to the brim with colourful instrumentals and warm, comforting Solange vocals.
 artistMBID: 410e7fd3-b865-4fa0-bb18-1b7fd53382ca
 albumMBID: 331a7ba1-fae2-4881-b434-554f46c13746
+artistLink: https://solange.blackplanet.com/shop/
+
 ---
+
 author: ANDRÉ
 
 review: >-
