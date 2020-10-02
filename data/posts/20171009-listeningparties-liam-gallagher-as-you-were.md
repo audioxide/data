@@ -9,7 +9,7 @@ tags:
   - oasis
   - david bowie
   - spiritualized
-featuredimage: article-images/filler.jpg
+featuredimage: album-artwork/as-you-were-liam-gallagher.jpg
 title: "&#8220;Looks like Oaysis have competition&#8221; &#8211; André and Fred
   listen to Liam Gallagher"
 author: admin
