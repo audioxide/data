@@ -54,7 +54,7 @@ review: >-
 tracks:
   - Broken Eyes
   - Cathedrals of the Mind
-  - Broken Eyes
+  - For Tomorrow
 
 score:
   score: 7
