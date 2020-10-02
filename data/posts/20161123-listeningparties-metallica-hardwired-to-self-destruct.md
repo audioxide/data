@@ -6,7 +6,7 @@ slug: metallica-hardwired-to-self-destruct
 type: listeningparties
 tags:
   - metallica
-featuredimage: article-images/filler.jpg
+featuredimage: album-artwork/hardwired-to-self-destruct-metallica.jpg
 title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and Fred listen to Metallica"
 author: admin
 
