@@ -32,9 +32,12 @@ week: 40
 blurb: While there’s little wrong with any of the cuts, the album in its entirety can feel a little half-baked. An extra push could have made this Williams' defining work.
 artistMBID: 756cf672-d4ae-4470-a3af-a43d776a211d
 albumMBID: 95846af2-4189-4049-879b-25af1852bf91
+artistLink: http://saulwilliams.com/store/
 
 ---
+
 author: André
+
 review: >-
   Born out of ongoing activism that stems back to mid the ‘90s, Saul Williams returns to his expressive roots on his latest studio release. Whilst *The Inevitable Rise and Liberation of NiggyTardust!* excelled in its embrace of industrial hip-hop, *MartyrLoserKing* is more in line with his fearless debut *Amethyst Rock Star*. 
   

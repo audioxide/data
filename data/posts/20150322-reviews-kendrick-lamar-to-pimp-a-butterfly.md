@@ -32,7 +32,10 @@ week: 8
 blurb: If Good Kid, M.A.A.D City introduced Kendrick Lamar to the masses, To Pimp A Butterfly cements his place in the hip hop hall of fame. This is an instant classic.
 artistMBID: 381086ea-f511-4aba-bdf9-71c753dc5077
 albumMBID: d9103c72-3807-4378-9ce7-b6f3e8fdd547
+artistLink: https://shop.kendricklamar.com/
+
 ---
+
 author: André
 
 review: >-

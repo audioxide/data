@@ -33,7 +33,10 @@ week: 18
 blurb: The opening third is nothing to write home about, the middle section is terrific, and the last twenty minutes are ludicrous. Drones is the full Muse package.
 artistMBID: 9c9f1380-2516-4fc9-a3e6-f9f61941d090
 albumMBID: 3133d4d5-5cfb-4f53-87f5-f3a97c8f310d
+artistLink: https://store.muse.mu/
+
 ---
+
 author: André
 
 review: >-

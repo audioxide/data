@@ -31,7 +31,10 @@ week: 11
 blurb: With a vast and powerful sound, here we experience U2 without the excruciating self-indulgence that turns listeners away from their more recent works.
 artistMBID: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
 albumMBID: 6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d
+artistLink: https://shop.u2.com/
+
 ---
+
 author: André
 
 review: >-

@@ -32,7 +32,10 @@ week: 177
 blurb: There is plenty of anger in the album, but it is used constructively. At a time when much music was obsessed with rejection, The Specials gave affirmation.
 artistMBID: 07eb40a2-2914-439c-a01d-15a685b84ddf
 albumMBID: 9c02ca99-df9a-3e48-8b7a-fabb599d19a3
+artistLink: https://shop.thespecials.com/
+
 ---
+
 author: Marcus
 
 review: >-

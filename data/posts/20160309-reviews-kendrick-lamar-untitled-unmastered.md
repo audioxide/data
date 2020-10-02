@@ -31,7 +31,10 @@ week: 44
 blurb: Comprised primarily of dabbles and snippets, this album embraces its patchwork status and in doing so sounds more complete than many ‘real’ records do.
 artistMBID: 381086ea-f511-4aba-bdf9-71c753dc5077
 albumMBID: 4e44335c-3f2b-4874-a6c3-71b5e65f75d5
+artistLink: https://shop.kendricklamar.com/
+
 ---
+
 author: André
 
 review: >-

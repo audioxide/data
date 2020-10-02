@@ -32,7 +32,10 @@ week: 52
 blurb: An endearing record of mystery and wonder, deftly inheriting elements from a wide selection of genres that amalgamate to create a category of its own.
 artistMBID: 070d193a-845c-479f-980e-bef15710653e
 albumMBID: b93a7c47-a6d4-33f2-9034-53fdd991f4ba
+artistLink: https://store.prince.com/
+
 ---
+
 author: André
 
 review: >-

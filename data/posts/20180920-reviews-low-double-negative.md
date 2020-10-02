@@ -33,7 +33,10 @@ week: 164
 blurb: A constant stream of static with blunt edges, and the glitches are rarely more than a few moments apart, but it doesn’t come off as overbearing.
 artistMBID: 42faad37-8aaa-42e4-a300-5a7dae79ed24
 albumMBID: d24e94ad-80e2-405d-b20a-8fd6927213dd
+artistLink: https://merch.ambientinks.com/collections/low
+
 ---
+
 author: Marcus
 
 review: >-

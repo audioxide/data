@@ -32,7 +32,10 @@ week: 94
 blurb: Kendrick explores a multitude of personal predicaments, but it's difficult to stay focused on what the record is actually trying to convey. It feels incomplete.
 artistMBID: 381086ea-f511-4aba-bdf9-71c753dc5077
 albumMBID: b88655ba-7469-48b8-a296-b9011ab73ef3
+artistLink: https://shop.kendricklamar.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

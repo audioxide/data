@@ -30,7 +30,10 @@ week: 21
 blurb: Peaks are matched by (very pleasant) plateaus. Exodus isn't so much a great album as it is a good album with a handful of iconic songs.
 artistMBID: c296e10c-110a-4103-9e77-47bfebb7fb2e
 albumMBID: c5650313-60f3-34d3-92e4-300545133792
+artistLink: https://shop.bobmarley.com/
+
 ---
+
 author: André
 
 review: >-

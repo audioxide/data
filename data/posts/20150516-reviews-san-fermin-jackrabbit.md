@@ -31,7 +31,10 @@ week: 16
 blurb: Flowing beautifully from beginning to end, the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.
 artistMBID: 1213b8e7-79f0-4cc2-a12a-81448aaf3429
 albumMBID: 47b984ae-646e-4bb0-9791-948c7a8a3a68
+artistLink: https://sanferminband.square.site/
+
 ---
+
 author: André
 
 review: >-

@@ -30,7 +30,10 @@ week: 33
 blurb: It’s beautifully discreet, formed with an elegance that pushes it to the point of invisibility — blissful for some, but perhaps too despondent for others.
 artistMBID: 8dc08b1f-e393-4f85-a5dd-300f7693a8b8
 albumMBID: b9a4e9ad-400c-4219-ae45-519c2d8167f7
+artistLink: https://shop.jamesblakemusic.com/
+
 ---
+
 author: André
 
 review: >-

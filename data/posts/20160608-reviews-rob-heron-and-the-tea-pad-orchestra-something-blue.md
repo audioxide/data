@@ -35,7 +35,10 @@ week: 56
 blurb: Brimming with catchy vocal hooks and harmonious moments, Something Blue is a pleasant record, but its production leaves much to be desired.
 artistMBID: 19b1e7e2-b1ee-44ea-9ea9-cc2289e66f5f
 albumMBID: c880b630-bc60-43c5-82cb-2e2384c6b133
+artistLink: https://teapadorchestra.bigcartel.com/
+
 ---
+
 author: André
 
 review: >-

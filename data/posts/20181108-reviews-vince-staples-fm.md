@@ -31,7 +31,10 @@ week: 171
 blurb: An audacious project, FM! sounds like a cartoonish snippet of overblown California radio, with all the pomp and sunshine and shadow that entails.
 artistMBID: 78e854b8-9713-4ff2-9218-6b3784893bff
 albumMBID: b211b91a-a7ec-42f8-ae46-2618e774ab18
+artistLink: https://shop.thevincestaplesshow.com/
+
 ---
+
 author: André
 
 review: >-

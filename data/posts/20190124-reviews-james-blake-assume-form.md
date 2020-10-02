@@ -32,7 +32,10 @@ week: 176
 blurb: Blake has always been hugely successful at setting a mood, but for the first time in his career he actually exudes genuine emotive qualities.
 artistMBID: 8dc08b1f-e393-4f85-a5dd-300f7693a8b8
 albumMBID: 8fceea87-5273-408b-a2f3-723d9b64800a
+artistLink: https://shop.jamesblakemusic.com/
+
 ---
+
 author: André
 
 review: >-

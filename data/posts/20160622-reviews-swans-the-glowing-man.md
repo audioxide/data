@@ -32,7 +32,10 @@ week: 58
 blurb: The Glowing Man is a rewarding experience, if not always a pleasant one. It’s healthy for ears to be bombarded with music like this every now and then.
 artistMBID: 3285dc48-9505-469d-ad8a-bdf2d3dba632
 albumMBID: 3e6586d2-46ce-4d75-b9bb-b3c6f422a8d2
+artistLink: https://swans.bandcamp.com/
+
 ---
+
 author: André
 
 review: >-
