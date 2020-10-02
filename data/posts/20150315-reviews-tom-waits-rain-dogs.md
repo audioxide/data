@@ -31,7 +31,10 @@ week: 7
 blurb: Rain Dogs isn't for everyone, but if you want to hear what the roots of an urban jungle sound like - in all their sad and messy madness - it's well worth a listen.
 artistMBID: c3aeb863-7b26-4388-94e8-5a240f2be21b
 albumMBID: fb25a883-2270-3ec4-8c62-85c7ed857e6f
+artistLink: https://kingsroadmerch.com/tom-waits/region/
+
 ---
+
 author: André
 
 review: >-

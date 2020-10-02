@@ -33,7 +33,10 @@ week: 37
 blurb: Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
 artistMBID: 6fe07aa5-fec0-4eca-a456-f29bff451b04
 albumMBID: c7b245c9-8099-32ea-af95-893acedde2cf
+artistLink: https://weezerwebstore.com
+
 ---
+
 author: André
 
 review: >-

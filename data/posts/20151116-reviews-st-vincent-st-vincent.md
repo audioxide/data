@@ -32,7 +32,10 @@ week: 31
 blurb: Capturing the middle ground between passion and precision, Annie Clark's sound here can only be described as some sort of melodic computer malfunction.
 artistMBID: 5334edc0-5faf-4ca5-b1df-000de3e1f752
 albumMBID: 37889165-4443-4248-abd0-3c1703d9c02a
+artistLink: https://store.ilovestvincent.com/
+
 ---
+
 author: André
 
 review: >-

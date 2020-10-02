@@ -33,7 +33,10 @@ week: 51
 blurb: Without sacrificing the brutality fans have come to expect from Deftones, Gore strikes a delightful balance. Perhaps the band's most accessible record to date.
 artistMBID: 7527f6c2-d762-4b88-b5e2-9244f1e34c46
 albumMBID: 4c0a6c9b-090b-4159-a359-a328d94c50d3
+artistLink: https://deftones.merchdirect.com/
+
 ---
+
 author: André
 
 review: >-

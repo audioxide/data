@@ -31,7 +31,10 @@ week: 27
 blurb: A model misunderstood album; flawed, overdrawn, deserving of a good deal of its harsh reviews, and yet still host to a unique and worthwhile character.
 artistMBID: f181961b-20f7-459e-89de-920ef03c7ed0
 albumMBID: 5ef51a9b-55eb-3400-99a8-47b892e11df7
+artistLink: https://shop.thestrokes.com/
+
 ---
+
 author: André
 
 review: >-

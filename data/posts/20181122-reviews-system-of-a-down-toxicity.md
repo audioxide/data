@@ -30,7 +30,10 @@ week: 173
 blurb: It may not be the best in its class, but Toxicity still has a charm to it. The record is a worthwhile listen for turn of the century flavour metal.
 artistMBID: cc0b7089-c08d-4c10-b6b0-873582c17fd6
 albumMBID: f50fbcb4-bfcd-3784-b4c9-44f4793e66b2
+artistLink: https://store.systemofadown.com/
+
 ---
+
 author: André
 
 review: >-

@@ -30,7 +30,10 @@ week: 3
 blurb: A magnificent journey, with tortured themes, fragile vocals, irresistibly groovy basslines, beautifully spacious production, and such a curious closer.
 artistMBID: 65041e06-83d2-4987-ae52-c17a915fc82a
 albumMBID: c88c77da-b9f9-34b9-abdf-ad3cec875aca
+artistLink: https://spiritualized.kontraband.store/
+
 ---
+
 author: André
 
 review: >-

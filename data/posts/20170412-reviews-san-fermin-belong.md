@@ -31,8 +31,12 @@ week: 93
 blurb: Music written by a composer of Ellis Ludwig-Leone's class should never feel formulaic, but it does. It makes for a mildly enjoyable, yet rather hollow experience.
 artistMBID: 1213b8e7-79f0-4cc2-a12a-81448aaf3429
 albumMBID: 58821ade-2219-4502-b362-6ec0b4b00d67
+artistLink: https://sanferminband.square.site/
+
 ---
+
 author: ANDRÉ
+
 review: >-
   For [our review of San Fermin’s second studio album *Jackrabbit*](/reviews/san-fermin-jackrabbit/), I wrote that ‘the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.’ This unfortunately seems to be a staple of Ellis Ludwig-Leone’s writing, because *Belong* contains the exact same problems that held *Jackrabbit* back from being one of the best albums of 2015. In fact, it’s even more bloated, and it contains even less highlights. 
   

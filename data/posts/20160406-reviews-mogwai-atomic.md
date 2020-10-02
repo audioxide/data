@@ -30,7 +30,10 @@ week: 48
 blurb: Atomic can be exhausting, but in a manner that exhilarates rather than drains. There is plenty for Mogwai fans to love in this soundtrack.
 artistMBID: d700b3f5-45af-4d02-95ed-57d301bda93e
 albumMBID: abf559f9-8c52-4295-9b8c-79b72f8d9837
+artistLink: https://store.mogwai.scot/
+
 ---
+
 author: André
 
 review: >-

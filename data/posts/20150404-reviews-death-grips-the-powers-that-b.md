@@ -31,7 +31,10 @@ week: 10
 blurb: A lot of The Power That B seems like it shouldn't work, and yet it does. It's a huge, crazy wall of sound, and that makes for an exhausting listen.
 artistMBID: f9133036-ab3d-4e97-bd11-7a2c98ad148a
 albumMBID: 6a1c9684-18c6-4b43-bd15-6badbbdc0600
+artistLink: https://deathgripsshop.com/
+
 ---
+
 author: André
 
 review: >-

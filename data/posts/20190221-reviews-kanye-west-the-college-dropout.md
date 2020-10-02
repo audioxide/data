@@ -30,7 +30,10 @@ week: 180
 blurb: Turning its back not only on the college path, but tropes of gangster rap as well, The College Dropout dares to be different in weird, supremely catchy ways.
 artistMBID: 164f0d73-1234-4e2c-8743-d77bf2191051
 albumMBID: 8a01217e-6947-3927-a39b-6691104694f1
+artistLink: https://shop.kanyewest.com/
+
 ---
+
 author: André
 
 review: >-

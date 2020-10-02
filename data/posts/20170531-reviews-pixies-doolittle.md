@@ -35,7 +35,10 @@ week: 100
 blurb: Doolittle balances boisterous oddness with sweet and sugary pop tunes, making it not only Pixies' most intriguing record, but also the most accessible.
 artistMBID: b6b2bb8d-54a9-491f-9607-7b546023b433
 albumMBID: 1aa41b19-5a72-341b-bd91-4cf61d1dab6b
+artistLink: https://pixies.kontraband.store/
+
 ---
+
 author: ANDRÉ
 
 review: >-

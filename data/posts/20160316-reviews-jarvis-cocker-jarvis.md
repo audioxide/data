@@ -33,7 +33,10 @@ week: 45
 blurb: This is pop music for the mature listener; easy to consume, enjoyable enough, but flimsy and a little watered down compared to Cocker's work with Pulp.
 artistMBID: 38550441-d437-4aff-867e-e79bf0c04142
 albumMBID: 8f4857ed-2ca3-4931-b5ca-04556ea5160f
+artistLink: https://jarvis-uk.myshopify.com/
+
 ---
+
 author: André
 
 review: >-

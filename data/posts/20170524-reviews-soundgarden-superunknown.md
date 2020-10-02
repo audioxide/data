@@ -39,7 +39,10 @@ week: 99
 blurb: Superunknown is a sprawling record, spanning grunge, alternative metal, stoner rock, and psychedelia, all while being one of the '90s most accessible works.
 artistMBID: 153c9281-268f-4cf3-8938-f5a4593e5df4
 albumMBID: 8300fe9c-0022-3c55-8a3e-8dc61f282e8c
+artistLink: https://shopuk.soundgardenworld.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

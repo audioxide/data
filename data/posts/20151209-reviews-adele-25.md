@@ -30,7 +30,10 @@ week: 34
 blurb: Inoffensive and unspectacular pop fodder. People will listen to it on the radio and find it agreeable and vaguely evocative and then forget it ever existed.
 artistMBID: cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493
 albumMBID: 5537624c-3d2f-4f5c-8099-df916082c85c
+artistLink: https://shop.adele.com/
+
 ---
+
 author: André
 
 review: >-

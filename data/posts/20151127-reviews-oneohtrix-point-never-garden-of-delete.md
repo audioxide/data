@@ -33,7 +33,10 @@ week: 32
 blurb: Twisting and turning and purposely blindsiding its listeners, Garden of Delete doesn’t stop evolving, often feeling like a stream of consciousness in musical form.
 artistMBID: 9cea062d-d476-447f-98b4-e67e14bfd1e4
 albumMBID: 5acba13f-0e96-4119-856a-6cd561ccd694
+artistLink: https://kontraband.shop/collections/point-never
+
 ---
+
 author: André
 
 review: >-

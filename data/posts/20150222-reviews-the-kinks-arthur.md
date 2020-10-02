@@ -31,8 +31,10 @@ week: 4
 blurb: The songs are beautiful in ways only Ray Davies can achieve, but the album's scattered feel keeps it from being more than the sum of its parts.
 artistMBID: 17b53d9f-5c63-4a09-a593-dde4608e0db9
 albumMBID: cd27ba91-162e-3d8a-8042-9451b84aa78e
+artistLink: https://store.thekinks.info/
 
 ---
+
 author: André
 
 review: >-

@@ -31,7 +31,10 @@ week: 179
 blurb: HEALTH have continued their trend of making exhilarating music, but something feels off this time round. A record this polished shouldn't feel so flat.
 artistMBID: 6805e4d5-f550-40fe-b731-05dc8229e74b
 albumMBID: f3f9294f-bc21-4b25-b421-d2486d131f42
+artistLink: https://fashion.youwillloveeachother.com/
+
 ---
+
 author: André
 
 review: >-

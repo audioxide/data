@@ -31,7 +31,10 @@ week: 39
 blurb: Funeral is the beating heart of adolescence, a journey that voices the struggle of coming to terms with growing up. Beautifully intense and emotionally draining.
 artistMBID: 52074ba6-e495-4ef3-9bb4-0703888a9f68
 albumMBID: 05affa96-5959-32da-8d75-1c9eb985ca59
+artistLink: https://www.arcadefirestore.com/
+
 ---
+
 author: André
 
 review: >-

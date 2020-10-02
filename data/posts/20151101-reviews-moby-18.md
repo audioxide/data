@@ -30,7 +30,10 @@ week: 29
 blurb: Strung together with downtempo drum beats, silky basslines, warming pads, and soulful vocals, it’s a very consumable album with little to jolt listeners' senses.
 artistMBID: 8970d868-0723-483b-a75b-51088913d3d4
 albumMBID: f83ca650-ae20-3347-ba06-5eaa9ab163af
+artistLink: https://store.moby.com/
+
 ---
+
 author: André
 
 review: >-

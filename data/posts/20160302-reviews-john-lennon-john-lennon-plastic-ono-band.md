@@ -32,7 +32,10 @@ week: 43
 blurb: Raw, deeply personal, and tremendously honest, this was rock & roll as Lennon had envisaged it. Sometimes it's gorgeous, others twitchy and uncomfortable.
 artistMBID: 4d5447d7-c61c-4120-ba1b-d7f471d385b9
 albumMBID: 8be83468-4917-390d-82b6-d890f058cd22
+artistLink: https://store.johnlennon.com/
+
 ---
+
 author: André
 
 review: >-
