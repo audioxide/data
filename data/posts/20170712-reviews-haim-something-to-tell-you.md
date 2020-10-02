@@ -35,7 +35,10 @@ week: 106
 blurb: An album of inoffensive and enjoyable pop music. With strong instrumentals that step above the norm, the shiny production is actually surplus to requirements.
 artistMBID: aef06569-098f-4218-a577-b413944d9493
 albumMBID: 6e666e4f-5f7e-42cb-8989-c7b9aa12f470
+artistLink: https://shop.haimtheband.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

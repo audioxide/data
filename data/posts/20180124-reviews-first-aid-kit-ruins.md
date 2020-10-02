@@ -31,7 +31,10 @@ week: 129
 blurb: Artists can and should explore different plains, but Ruins sounds safe rather than bold. It sounds like Americana recorded in an air-conditioned studio.
 artistMBID: 373faa02-74d7-4b1d-9b47-7574ad510f8d
 albumMBID: 2db65b00-baa9-454d-b4a5-9f9e6f239cd1
+artistLink: https://shop.firstaidkitband.com
+
 ---
+
 author: ANDRÉ
 
 review: >-

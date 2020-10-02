@@ -31,7 +31,10 @@ week: 114
 blurb: As is probably appropriate, Every Country’s Sun listens like an immense post-rock mass of warmth, light, and/or incineration. Who could say no to that?
 artistMBID: d700b3f5-45af-4d02-95ed-57d301bda93e
 albumMBID: a7342e9f-d2df-43ac-9c44-7a40f9c4cf98
+artistLink: https://store.mogwai.scot/
+
 ---
+
 author: ANDRÉ
 
 review: >-

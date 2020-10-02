@@ -30,7 +30,10 @@ week: 91
 blurb: Songs regularly start with promising grooves then go nowhere. Rhythmic repetition attempts to disguise a very obvious lack of development in ideas.
 artistMBID: 68ec1b08-3c2e-40b3-b0af-8f323743fdff
 albumMBID: 950b2ca1-8cee-472f-ac91-86387c490f2c
+artistLink: https://store.soulwax.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

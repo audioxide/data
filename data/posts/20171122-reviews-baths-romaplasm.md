@@ -31,7 +31,10 @@ week: 125
 blurb: The delicate craft of Wiesenfeld’s earlier work is mostly gone, and the instrumentals are instead excitable, fidgety, and erratic. It's quite the sensory overload.
 artistMBID: 84a5c934-8318-4080-8606-32b80e1b054a
 albumMBID: e78ed940-4584-4988-b5a0-be22f2fd0c20
+artistLink: https://thehyv.shop/collections/baths/
+
 ---
+
 author: ANDRE
 
 review: >-

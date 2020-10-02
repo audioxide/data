@@ -31,7 +31,10 @@ week: 20
 blurb: A model of casual listening. It bustles along quite happily, from section to section, from track to track, and then it's over and you don't regret having listened to it.
 artistMBID: 5c71ea68-9238-4dfc-8519-bd6eff6bc28b
 albumMBID: 09aad2c2-1eba-43b0-a591-d2ce7fdfa8ef
+artistLink: https://jagajazzist.bandcamp.com/
+
 ---
+
 author: André
 
 review: >- 

@@ -35,7 +35,10 @@ week: 104
 blurb: American hip-hop melded with house, techno, trap, and UK garage is an interesting approach, but as an artistic expression it’s frustratingly restrained.
 artistMBID: 78e854b8-9713-4ff2-9218-6b3784893bff
 albumMBID: 847a8456-f742-4894-8fdb-5911afc65e9c
+artistLink: https://shop.thevincestaplesshow.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

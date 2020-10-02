@@ -32,7 +32,10 @@ week: 134
 blurb: Each player is a master of their craft, yet not one of them flaunts their talent. Kind of Blue plays out like a beautiful alien language.
 artistMBID: 561d854a-6a28-4aa7-8c99-323e6ce46c2a
 albumMBID: 8e8a594f-2175-38c7-a871-abb68ec363e7
+artistLink: https://www.milesdavisstore.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

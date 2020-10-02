@@ -33,7 +33,10 @@ week: 132
 blurb: MGMT plod along with all the charisma of a mumbler with a weak chin, and it’s not as if the mix is lush enough to distract from the absence of drive or direction.
 artistMBID: c485632c-b784-4ee9-8ea1-c5fb365681fc
 albumMBID: ff9b0645-2327-46f4-b2b4-a7f41946d39e
+artistLink: https://kf-merch.com/collections/mgmt
+
 ---
+
 author: ANDRÉ
 
 review: >-

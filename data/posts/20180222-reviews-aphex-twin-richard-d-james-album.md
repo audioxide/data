@@ -32,7 +32,10 @@ week: 133
 blurb: This is a compact, highly rewarding record; 30 minutes of mesmerising electronica that is both pleasingly disorientating and emotionally stirring.
 artistMBID: f22942a1-6f70-4f48-866e-238cb2308fbd
 albumMBID: 84d79dbe-7ac1-3ebc-9b36-238ddfb8229c
+artistLink: https://aphextwin.warp.net/
+
 ---
+
 author: ANDRÉ
 
 review: >-

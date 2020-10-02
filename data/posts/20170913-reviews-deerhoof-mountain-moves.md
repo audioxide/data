@@ -35,7 +35,10 @@ week: 115
 blurb: Deerhoof cram dozens of ideas into a 40-minute album, which is not only technically impressive, but thoroughly amusing. This is a defiant and joyous listen.
 artistMBID: 11eabe0c-2638-4808-92f9-1dbd9c453429
 albumMBID: 2c88b473-3866-463c-912b-96b02a09cbc2
+artistLink: https://deerhoof.net/
+
 ---
+
 author: ANDRÉ
 
 review: >-

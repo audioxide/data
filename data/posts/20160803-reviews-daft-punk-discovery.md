@@ -31,7 +31,10 @@ week: 64
 blurb: Discovery is a classic dance albums despite its age and the progression we’ve seen in the genre since. Listening remains a pleasure, flaws and all.
 artistMBID: 056e4f3e-d505-4dad-8ec1-d04f521cbb56
 albumMBID: 48117b90-a16e-34ca-a514-19c702df1158
+artistLink: https://daftpunk.com/
+
 ---
+
 author: André
 
 review: >-

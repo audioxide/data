@@ -36,7 +36,10 @@ week: 88
 blurb: Some artists have a hard time returning after a lengthy hiatus, but Grandaddy has done it with aplomb. Last Place is all you could want from a comeback.
 artistMBID: 9d4c4835-c71a-4647-a4fc-263e26832cd0
 albumMBID: 74bcd0ac-2a17-4030-9d71-69ecb6c9dd00
+artistLink: https://www.grandaddymusic.com/store
+
 ---
+
 author: ANDRÉ
 
 review: >-

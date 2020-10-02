@@ -33,7 +33,10 @@ week: 101
 blurb: Relaxer falls together for spells, sometimes very well, but for the most part the music sounds drunk. The general impression it leaves is inelegant and sloppy.
 artistMBID: fc7bbf00-fbaa-4736-986b-b3ac0266ca9b
 albumMBID: 8a103b36-a632-425f-8980-da934b0c1eb3
+artistLink: https://store.altjband.com
+
 ---
+
 author: ANDRÉ
 
 review: >-

@@ -31,8 +31,11 @@ summary: The record warrants a listen for the highlights alone. The problems, su
 week: 81
 blurb: The record warrants a listen for the highlights alone. The problems, such as they are, stem from the country vein of the album. It borders on twee at times.
 artistMBID: ea4dfa26-f633-4da6-a52a-f49ea4897b58
-albumMBID: 400a5fdd-e616-3598-a9bf-cd8275cb53d0
+albumMBID: 400a5fdd-e616-3598-a9bf-
+artistLink: https://store.remhq.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

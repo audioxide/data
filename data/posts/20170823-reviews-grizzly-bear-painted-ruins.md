@@ -31,7 +31,10 @@ week: 112
 blurb: There are moments of glory all over the release but they don't hang around long. As time wears on it seems there is more to forget than there is to remember.
 artistMBID: 59a7fbcb-ff74-494d-abd0-9c82359040c9
 albumMBID: 3c04d855-7213-48e6-bead-f617c779f0d0
+artistLink: https://store.grizzly-bear.net
+
 ---
+
 author: ANDRÉ
 
 review: >-
