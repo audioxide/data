@@ -22,8 +22,8 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#333101"
-  - "#FFF"
+  - "#4F5524"
+  - "#e7ebd1"
   - "#e7ebd1"
 pullquote: Informal genius
 summary: Comprised primarily of dabbles and snippets from the formative months of To Pimp a Butterfly, this album embraces its status as a patchwork and in doing so manages to sound more complete than many ‘real’ records do.

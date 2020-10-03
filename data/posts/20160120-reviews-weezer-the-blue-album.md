@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#009ecf"
+  - "#0171A6"
   - "#000000"
   - "#000000"
 pullquote: Pleasantly neurotic

@@ -23,8 +23,8 @@ totalscore:
   fraction: 0.7
 colours:
   - "#2e2e30"
-  - "#bfbfbf"
-  - "#d6312b"
+  - "#FEFD23"
+  - "#7FD7FE"
 pullquote: Undeniably cool
 summary: It's down, dirty, and very, very human; an album that gets under your skin and taps your toes for you. Rain Dogs isn't for everyone, but if you want to hear what the roots of an urban jungle sound like - in all their sad and messy madness - it's well worth a listen.
 week: 7

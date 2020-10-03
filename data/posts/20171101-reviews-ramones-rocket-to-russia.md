@@ -24,7 +24,7 @@ totalscore:
   fraction: 0.5666666666666667
 colours:
   - "#252a2c"
-  - "#EA3C5F"
+  - "#F70B96"
   - "#FFF"
 pullquote: Drastically limited
 summary: I find the composition of the album to be desperately uninspiring. There’s a mindlessness to the instrumentation, lyricism, and vocals that is utterly devoid of surprises or even basic variety. The 32-minute runtime blasts by as a blur of repetitive noise.
