@@ -36,7 +36,10 @@ week: 174
 blurb: Blues, psychedelia, jazz, and gospel are all deeply ingrained in the music. This is a rock record, but every track has a flavour of its own.
 artistMBID: b071f9fa-14b0-4217-8e97-eb41da73f598
 albumMBID: 784c0edd-0f37-33a2-9ca5-dff87b4f999c
+artistLink: https://therollingstonesshop.co.uk/
+
 ---
+
 author: André
 
 review: >-

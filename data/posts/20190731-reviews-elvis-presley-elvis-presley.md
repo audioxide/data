@@ -32,7 +32,10 @@ week: 202
 blurb: A record can be iconic and flawed at the same time. Elvis' desbut is unrefined, hit and miss, and sometimes irresistible. Could it be any other way?
 artistMBID: 01809552-4f87-45b0-afff-2c6f0730a3be
 albumMBID: 2ebeec96-6ef7-3d4d-943c-0b4a2af1d7cc
+artistLink: https://store.graceland.com/
+
 ---
+
 author: André
 
 review: >-

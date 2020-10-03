@@ -31,7 +31,10 @@ week: 193
 blurb: Tyler plays against his strengths and manages to push himself to make a good non-rap album. That in itself is pretty fucking fascinating.
 artistMBID: f6beac20-5dfe-4d1f-ae02-0b0a740aafd6
 albumMBID: 0f1b9e07-b38b-4bba-9794-55e0924d7177
+artistLink: https://golfwang.com/
+
 ---
+
 author: André
 
 review: >-

@@ -1,0 +1,2 @@
+---
+name: Inanimate carbon rod

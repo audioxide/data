@@ -33,8 +33,12 @@ week: 108
 blurb: The album’s craft is a pleasure to experience, luring one's attention rather than commanding it. Listens through have the sensory, slow-motion quality of a dream.
 artistMBID: f6beac20-5dfe-4d1f-ae02-0b0a740aafd6
 albumMBID: e248e931-c26c-4c94-aba2-2f89ce583901
+artistLink: https://golfwang.com/
+
 ---
+
 author: ANDRÉ
+
 review: >-
   The early days of Odd Future instigated extraordinary levels of excitement amongst teenagers and young adults alike. The hype was on another level — I myself was one of many to be lured in. More often than not, however, the buzz outweighed the actual content. Odd Future were a captivating hip-hop outfit with an endearing spirit, but much of the music itself was ultimately underwhelming. 
   

@@ -31,7 +31,10 @@ week: 138
 blurb: Those looking for the muscle of The White Stripes should just listen to The White Stripes. Jack White’s output here is chillier, more demanding... stranger.
 artistMBID: 3ae2fb37-8a23-429d-9920-bac811c4fc22
 albumMBID: e084177d-10ad-4b06-af26-c0586272150a
+artistLink: https://thirdmanstore.com/bands/jack-white
+
 ---
+
 author: ANDRÉ
 
 review: >-

@@ -34,7 +34,10 @@ week: 121
 blurb: You'd expect huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be. Most of the songs on News of the World are weirdly tame.
 artistMBID: 0383dadf-2a4e-4d10-a46a-e9e041da8eb3
 albumMBID: c172ea98-3a82-3254-b8ad-25a4f465ba03
+artistLink: https://www.queenonlinestore.com/
+
 ---
+
 author: ANDRÉ
 
 review: >-

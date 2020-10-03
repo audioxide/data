@@ -33,7 +33,10 @@ week: 38
 blurb: The vitality that makes Savages so appealing is too often replaced by a softer blend of turmoil that isn’t as rewarding, nor a progression in sound.
 artistMBID: 42d72c29-8a7a-4c88-89ed-a2ca25d40284
 albumMBID: ea9d35e8-bec7-43e8-96b1-3a6e9eb7295a
+artistLink: https://matadorrecords.com/savages
+
 ---
+
 author: André
 
 review: >-
