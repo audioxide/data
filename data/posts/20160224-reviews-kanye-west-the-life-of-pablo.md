@@ -108,7 +108,7 @@ score:
   
 ---
 
-author: Inanimate carbon rod
+author: inanimate-carbon-rod
 
 review: >-
   Just like the bleached arsehole that Kanye is so worried about, the album provides both pain and pleasure at different times and is mainly reliant on the aesthetic, shallow parts of life.
