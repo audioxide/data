@@ -23,7 +23,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#fb7404"
+  - "#DB6A1C"
   - "#ffffff"
   - "#ffffff"
 pullquote: The antithesis of pop-fodder
