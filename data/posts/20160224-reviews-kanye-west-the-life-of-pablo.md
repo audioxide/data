@@ -39,7 +39,7 @@ artistLink: https://shop.kanyewest.com
 author: André
 
 review: >-
-  *The Life of Pablo* is uneven, sporadic, and totally erratic; an unfinished version of a potentially great album. There’s heaps of enjoyment to be had with its outlandish humour and unpredictable instrumental turns, but it comes with an equal amount of frustration. At its worst, *TLoP* is one of the most obnoxious records I’ve ever listened to. The lyrical content ranges from witty and delightfully brash, to cheap and wholly abhorrent, while some of the instrumentals simply [don’t seem finished](<https://twitter.com/kanyewest/status/698971890581401600>). 
+  *The Life of Pablo* is uneven, sporadic, and totally erratic; an unfinished version of a potentially great album. There’s heaps of enjoyment to be had with its outlandish humour and unpredictable instrumental turns, but it comes with an equal amount of frustration. At its worst, *TLoP* is one of the most obnoxious records I’ve ever listened to. The lyrical content ranges from witty and delightfully brash, to cheap and wholly abhorrent, while some of the instrumentals simply [don’t seem finished](https://twitter.com/kanyewest/status/698971890581401600). 
   
   Kanye West has essentially attempted to sell his undeveloped ideas as substantial concepts, resulting in a complete lack of cohesion. Tracks are often compelling at first, only to then erratically detour onto something else. Though they’re not necessarily the finest cuts here, the great thing about “Feedback”, “Freestyle 4”, and “Facts” is that they allow you to simply listen to and enjoy Kanye’s excellent delivery without needing to pay much attention to the lesser lyrical lines. 
   
@@ -58,18 +58,19 @@ score:
   fraction: 0.6
 
 ---
+
 author: Fred
 
 review: >-
-   I love the good Kanye, few marbles loose Kanye<br>
-   I love the self-aware unhinged and in the groove Kanye<br>
-   There’s also bad Kanye, the marbles lost Kanye<br>
-   Vibes in ultralight with no real warmth Kanye<br>
-   Uncaged the cray Kanye, light walkway dreams Kanye<br>
-   Tsunami Silver Surfer in the flesh Kanye<br>
-   Bleached asshole t-shirt Kanye, might still fuck Tay Kanye<br>
-   Picasso’s scribbled shapes what they don’t say Kanye<br>
-   It’s all ok Kanye, we’ll play the game Kanye<br>
+   I love the good Kanye, few marbles loose Kanye
+   I love the self-aware unhinged and in the groove Kanye
+   There’s also bad Kanye, the marbles lost Kanye
+   Vibes in ultralight with no real warmth Kanye
+   Uncaged the cray Kanye, light walkway dreams Kanye
+   Tsunami Silver Surfer in the flesh Kanye
+   Bleached asshole t-shirt Kanye, might still fuck Tay Kanye
+   Picasso’s scribbled shapes what they don’t say Kanye
+   It’s all ok Kanye, we’ll play the game Kanye
    I love *Pablo* like Kanye loves Kanye
 
 tracks:
@@ -83,6 +84,7 @@ score:
   fraction: 3
 
 ---
+
 author: Andrew
 
 review: >-

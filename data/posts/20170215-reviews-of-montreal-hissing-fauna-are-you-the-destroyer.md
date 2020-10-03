@@ -33,7 +33,10 @@ week: 85
 blurb: There are a handful of stellar pop tracks, and a mammoth mid-album climax that will go down as one of the group's finest moments. A lovely indie-pop record.
 artistMBID: 8475297d-fb78-4630-8d74-9b87b6bb7cc8
 albumMBID: 4eacd95b-675a-3c6b-9d83-5d9360719f37
+artistLink: https://www.ofmontreal.net/shop
+
 ---
+
 author: ANDRÉ
 
 review: >-

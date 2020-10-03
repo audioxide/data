@@ -31,7 +31,10 @@ week: 97
 blurb: "Growling beats, echoing synths, and dark use of space lend themselves well to El-P and Killer Mike’s delivery: severe, angry, and macho, yet also great fun."
 artistMBID: a80c5dc5-b12e-4667-9f5a-b568961f3839
 albumMBID: 581d7ac8-8f1d-4d4a-a224-de9c9cd76b39
+artistLink: https://rtj4.link/store/
+
 ---
+
 author: ANDRÉ
 
 review: >-

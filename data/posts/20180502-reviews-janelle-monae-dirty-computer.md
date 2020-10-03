@@ -34,8 +34,12 @@ week: 144
 blurb: As enjoyable, sometimes euphoric, as Dirty Computer is, it’s far from perfect. Some of the trap-tinged beats will likely sound redundant in a few years.
 artistMBID: ee190f6b-7d98-43ec-b924-da5f8018eca0
 albumMBID: c3b6435c-2698-4909-9879-d80439e180fe
+artistLink: https://store.warnermusic.com/atlantic-records/artists/janelle-monae.html
+
 ---
+
 author: ANDRÉ
+
 review: >-
   *Dirty Computer* is a joy to listen to. Janelle Monáe’s latest album brims with positivity, open-mindedness, and love. Part protest for sure, but part celebration too. At its best, this is the level of pop music that similar artists should aspire to reach: harmonically lush, deliberately structured, and wonderfully diverse. Better still, it carries a crucial message that promotes freedom and liberation. 
   
