@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.4666666666666667
 colours:
-  - "#b8bcc4"
+  - "#B08C98"
   - "#FFF"
-  - "#323944"
+  - "#FFF"
 pullquote: Undercooked pop
 summary: Precious little of what makes/made Gaga special is on show in Joanne. Outrageous, acutely self-aware, infuriatingly catchy pop anthems are nowhere to be seen; just pedestrian ones. Gaga’s customary wild flairs are reigned in and replaced by a left-field fondness for country ballads.
 week: 76

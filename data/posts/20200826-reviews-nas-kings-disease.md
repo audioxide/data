@@ -25,7 +25,7 @@ totalscore:
   possible: 30
   fraction: 0.66666667
 colours:
-  - "#2f5000"
+  - "#C22003"
   - "#e2e6e9"
   - "#e2e6e9"
 pullquote: Nas in his element
