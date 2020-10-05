@@ -23,7 +23,7 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#001b87"
+  - "#272C63"
   - "#FFF"
   - "#FFF"
 pullquote: Effortlessly slick

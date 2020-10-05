@@ -67,7 +67,7 @@ With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle
 
 -----
 
-## 6\. “Villains of Circumstance” // QOTSA
+## 6\. “Villains of Circumstance” // Queens of the Stone Age
 
 TBD
 
@@ -109,7 +109,7 @@ In hindsight, this was the only way [*Visions of a Life*](/reviews/wolf-alice-vi
 
 -----
 
-## 2\. “Soothing” */ Laura Marling
+## 2\. “Soothing” // Laura Marling
 
 TBD
 
