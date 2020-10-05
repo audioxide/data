@@ -41,6 +41,7 @@ const pullquoteExtension = () => [
 ];
 
 const mdConverter = new showdown.Converter({ extensions: [footnoteRefExtension, pullquoteExtension] });
+const toHTML = (md) => resolveLocalUrls(mdConverter.makeHtml(md.replace(/([^\n])\n([^\n])/g, '$1\n\n$2')));
 
 const inputBase = './data';
 const outputBase = './dist';
@@ -162,19 +163,19 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
             const yaml = YAML.parse(contentStr);
             // Reviews and content can both contain markdown
             if ('review' in yaml) {
-                yaml.review = await resolveLocalUrls(mdConverter.makeHtml(yaml.review));
+                yaml.review = await toHTML(yaml.review);
             }
             if ('content' in yaml) {
-                yaml.content = await resolveLocalUrls(mdConverter.makeHtml(yaml.content));
+                yaml.content = await toHTML(yaml.content);
             }
             if ('body' in yaml) {
-                yaml.body = await resolveLocalUrls(mdConverter.makeHtml(yaml.body));
+                yaml.body = await toHTML(yaml.body);
             }
             parsed = yaml;
         } catch {}
         if (parsed) return parsed;
         try {
-            parsed = await resolveLocalUrls(mdConverter.makeHtml(contentStr));
+            parsed = await toHTML(contentStr);
         } catch {}
         if (parsed) return parsed;
         return contentStr;
