@@ -41,7 +41,7 @@ Whether you find his music euphoric or unaffecting, or maybe you think he’s ju
 
 ## 9\. *Cosmogramma* // Flying Lotus
 
-![Album artwork of 'Cosmogramma' by Flying Lotus](album-artwork/cosmogramma-flyig-lotus.jpg "Album artwork of 'Cosmogramma' by Flying Lotus") 
+![Album artwork of 'Cosmogramma' by Flying Lotus](album-artwork/cosmogramma-flying-lotus.jpg "Album artwork of 'Cosmogramma' by Flying Lotus")
 
 **André**
 
@@ -53,7 +53,7 @@ Whether you find his music euphoric or unaffecting, or maybe you think he’s ju
 
 ## 8\. *A Moon Shaped Pool* // Radiohead
 
-![Album artwork of 'A Moon Shaped Pool' by Radiohead](album-artwork/a-moon-shaped-pool-radiohead.jpg "Album artwork of 'A Moon Shaped Pool' by Radiohead") 
+![Album artwork of 'A Moon Shaped Pool' by Radiohead](album-artwork/a-moon-shaped-pool-radiohead.jpg "Album artwork of 'A Moon Shaped Pool' by Radiohead")
 
 **André**
 
@@ -69,7 +69,7 @@ When bands begin to reach their latter years, the quality tends to drop, sometim
 
 ## 7\. *Let England Shake* // PJ Harvey
 
-![Album artwork of 'Let England Shake' by PJ Harvey](album-artwork/let-england-shake-pj-harvey.jpg "Album artwork of 'Let England Shake' by PJ Harvey") 
+![Album artwork of 'Let England Shake' by PJ Harvey](album-artwork/let-england-shake-pj-harvey.jpg "Album artwork of 'Let England Shake' by PJ Harvey")
 
 **André**
 
@@ -135,7 +135,7 @@ The best thing about the record for me is the feeling that Wolf Alice has it in 
 
 ## 2\. *To Pimp a Butterfly* // Kendrick Lamar
 
-![Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg "Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar") 
+![Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg "Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar")
 
 **Fred**
 

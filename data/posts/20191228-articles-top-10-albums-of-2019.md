@@ -31,7 +31,7 @@ blurb: It's the end of the year, which means we're legally obliged to round up o
 
 ## 10\. *When We All Fall Asleep, Where Do We Go?* // Billie Eilish
 
-![Album artwork of 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish](album-artwork/when-we-all-fall-asleep-where-do-we-go-billie-eilish.jpg "Album artwork of 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish") 
+![Album artwork of 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish](album-artwork/when-we-all-fall-asleep-where-do-we-go-billie-eilish.jpg "Album artwork of 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish")
 
 **André**
 
@@ -41,7 +41,7 @@ There have been an abundance of brilliant pop records over the past few years �
 
 ## 9\. *Anima* // Thom Yorke
 
-![Album artwork of 'Anima' by Thom Yorke](album-artwork/anima-thom-yorke/ "Album artwork of 'Anima' by Thom Yorke")
+![Album artwork of 'Anima' by Thom Yorke](album-artwork/anima-thom-yorke.jpg "Album artwork of 'Anima' by Thom Yorke")
 
 **Fred**
 
@@ -55,7 +55,7 @@ There aren’t many surprises on the album, but it would have been a surprise if
 
 ## 8\. *uknowwhatimsayin¿* // Danny Brown
 
-![Album artwork of 'uknowwhatimsaying¿' by Danny Brown](album-artwork/uknowwhatimsayin-danny-brown.jpg "Album artwork of 'uknowwhatimsaying¿' by Danny Brown") 
+![Album artwork of 'uknowwhatimsaying¿' by Danny Brown](album-artwork/uknowwhatimsayin-danny-brown.jpg "Album artwork of 'uknowwhatimsaying¿' by Danny Brown")
 
 **Marcus**
 
@@ -67,7 +67,7 @@ Where *AE* was defined by the Jeckyll and Hyde of Party Danny and Comedown Danny
 
 ## 7\. *Grey Area* // Little Simz
 
-![Album artwork of 'Grey Area' by Little Simz](album-artwork/grey-area-little-simz.jpg "Album artwork of 'Grey Area' by Little Simz") 
+![Album artwork of 'Grey Area' by Little Simz](album-artwork/grey-area-little-simz.jpg "Album artwork of 'Grey Area' by Little Simz")
 
 **Marcus**
 
@@ -79,7 +79,7 @@ There’s a force of will present across the album that never relents, a confide
 
 ### 6\. *Titanic Rising *// Weyes Blood
 
-![Album artwork of 'Titanic Rising' by Weyes Blood](album-artwork/titanic-rising-weyes-blood/ "Album artwork of 'Titanic Rising' by Weyes Blood")
+![Album artwork of 'Titanic Rising' by Weyes Blood](album-artwork/titanic-rising-weyes-blood.jpg "Album artwork of 'Titanic Rising' by Weyes Blood")
 
 **André**
 
@@ -91,7 +91,7 @@ Truth be told, there were only a handful of records released this year that I wa
 
 ## 5\. *Crushing* // Julia Jacklin
 
-![Album artwork of 'Crushing' by Julia Jacklin](album-artwork/crushing-julia-jacklin/ "Album artwork of 'Crushing' by Julia Jacklin")
+![Album artwork of 'Crushing' by Julia Jacklin](album-artwork/crushing-julia-jacklin.jpg "Album artwork of 'Crushing' by Julia Jacklin")
 
 **Michael**
 
@@ -121,7 +121,7 @@ It is a noisy, angry record that demands attention and shocks you into the momen
 
 ## 3\. *Assume Form* // James Blake
 
-![Album artwork of 'Assume Form' by James Blake](album-artwork/assume-form-james-blake/ "Album artwork of 'Assume Form' by James Blake")
+![Album artwork of 'Assume Form' by James Blake](album-artwork/assume-form-james-blake.jpg "Album artwork of 'Assume Form' by James Blake")
 
 **Fred**
 
@@ -137,7 +137,7 @@ This was the first time we reviewed a James Blake album and I felt excited rathe
 
 ## 2\. *There Existed an Addiction to Blood* // clipping.
 
-![Album artwork of 'There Existed an Addiction to Blood' by clipping.](album-artwork/there-existed-an-addiction-to-blood-clipping/ "Album artwork of 'There Existed an Addiction to Blood' by clipping.")
+![Album artwork of 'There Existed an Addiction to Blood' by clipping.](album-artwork/there-existed-an-addiction-to-blood-clipping.jpg "Album artwork of 'There Existed an Addiction to Blood' by clipping.")
 
 **André**
 
@@ -149,7 +149,7 @@ If I were listening to *There Existed an Addiction to Blood* during a nighttime 
 ­
 ## 1\. *Igor* // Tyler, the Creator
 
-![Album artwork of 'Igor' by Tyler, the Creator](album-artwork/igor-tyler-the-creator/ "Album artwork of 'Igor' by Tyler, the Creator")
+![Album artwork of 'Igor' by Tyler, the Creator](album-artwork/igor-tyler-the-creator.jpg "Album artwork of 'Igor' by Tyler, the Creator")
 
 **Fred**
 
