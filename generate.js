@@ -159,26 +159,30 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
     // For each further segment, attempt to parse it as YAML, Markdown or just return plain text
     content = await Promise.all(contentSegments.map(async (contentStr) => {
         let parsed;
+        let yaml;
         try {
-            const yaml = YAML.parse(contentStr);
-            // Reviews and content can both contain markdown
-            if ('review' in yaml) {
-                yaml.review = await toHTML(yaml.review);
-            }
-            if ('content' in yaml) {
-                yaml.content = await toHTML(yaml.content);
-            }
-            if ('body' in yaml) {
-                yaml.body = await toHTML(yaml.body);
-            }
-            parsed = yaml;
+            yaml = YAML.parse(contentStr);
         } catch {}
-        if (parsed) return parsed;
-        try {
-            parsed = await toHTML(contentStr);
-        } catch {}
-        if (parsed) return parsed;
-        return contentStr;
+        switch(typeof yaml) {
+            case 'object':
+                if (yaml === null) break;
+                // Reviews and content can both contain markdown
+                if ('review' in yaml) {
+                    yaml.review = await toHTML(yaml.review);
+                }
+                if ('content' in yaml) {
+                    yaml.content = await toHTML(yaml.content);
+                }
+                if ('body' in yaml) {
+                    yaml.body = await toHTML(yaml.body);
+                }
+                return yaml;
+            case 'string':
+                return await toHTML(contentStr);
+        }
+        return await toHTML(contentStr);
+        // if (parsed) return parsed;
+        // return contentStr;
     }));
     return { metadata, content };
 };

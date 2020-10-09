@@ -77,7 +77,7 @@ Going all in on a sonic aesthetic of smoky basement bars and one-too-many whiske
 
 ## 6\. *You Won’t Get What You Want* // Daughters
 
-![Album artwork of 'You Won't Get What You Want' by Daughters](album-artwork/you-wont-always-get-what-you-want-daughters.jpg "Album artwork of 'You Won't Get What You Want' by Daughters")
+![Album artwork of 'You Won't Get What You Want' by Daughters](album-artwork/you-wont-get-what-you-want-daughters.jpg "Album artwork of 'You Won't Get What You Want' by Daughters")
 
 **André**
 
