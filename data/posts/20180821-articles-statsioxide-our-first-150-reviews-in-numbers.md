@@ -32,7 +32,7 @@ blurb: Reviews make a lot more sense when they can be put into context. After pa
   <figcaption></figcaption>
 </figure>
 
-We’ve been [reviewing an album a week for over three years now](/reviews/). There have been lulls, bumps in the road, but we’ve finally got 150 under our belt. To celebrate the milestone we took some cues from [Statstano](http://www.statstano.com/) and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.
+We’ve been [reviewing an album a week for over three years now](/reviews/). There have been lulls, bumps in the road, but we’ve finally got 150 under our belt. To celebrate the milestone we took some cues from [Statstano](https://www.youtube.com/watch?v=jJY3QrKQRWE) and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.
 
 ## Average scores
 
@@ -106,7 +106,7 @@ The average length of a 27+ Club album was 55 minutes, 53 seconds.
 
 ## The dregs
 
-We tend to be quite indulgent of the music we listen to. Only reviewing one album a week means we can be picky about what we listen to. We’d sooner do an oldie review than spend a week listening to something we know we’re likely to loath. Accordingly, even our lowest reviews aren’t *that *low compared to [some floating around](https://pitchfork.com/reviews/albums/5799-the-fragile/).
+We tend to be quite indulgent of the music we listen to. Only reviewing one album a week means we can be picky about what we listen to. We’d sooner do an oldie review than spend a week listening to something we know we’re likely to loath. Accordingly, even our lowest reviews aren’t *that* low compared to [some floating around](https://pitchfork.com/reviews/albums/5799-the-fragile/).
 
 The lowest rated album to date is [*AIM*](/reviews/mia-aim/) by Mia, a new release. It clocked in with a meagre 12 out of 30, gettings fours from each of us. The lowest rated oldie was [*Power, Corruption & Lies*](/reviews/new-order-power-corruption-and-lies/) by New Order. We gave it 14 out of 30, an act of sacrilege we stand firmly by.
 

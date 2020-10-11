@@ -59,7 +59,7 @@ author: Fred
 review: >-
   *Compton* is a polished, lumbering beast of an album. Not so much concerned with peaks and troughs as with a steady, charismatic drone of all things Compton, Dr. Dre’s latest concoction rides a peculiar line between celebration and reflection. 
   
-  The album’s who’s who of collaborators blows hot and lukewarm — [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) and Snoop Dogg in particular deserve plaudits — and the result of this is an endearing tribute to the creative energies that made the work possible. 
+  The album’s who’s who of collaborators blows hot and lukewarm — [Kendrick Lamar](/reviews/kendrick-lamar-untitled-unmastered/) and Snoop Dogg in particular deserve plaudits — and the result of this is an endearing tribute to the creative energies that made the work possible. 
   
   It feels like something to be admired, rather than engaged with. This makes for an interesting cultural product, but also means it lacks the provocative aura that might have made it a great album, rather than a good one. In playing host to a star-studded stream of solid, unspectacular music, a fundamental spark seems lacking. 
   
@@ -78,7 +78,7 @@ score:
 ---
 author: Andrew
 review: >-
-  This is Dr. Dre’s first album in 16 years and, unsurprisingly, there were a lot of listeners who expecting a lot from *Compton*. The album is filled to the brim with collaborators, and it’s clear that each was given a fair amount of control over the tracks they featured on — Kendrick Lamar applying his signature style that we heard from [*To Pimp a Butterfly*](/reviews/kendrick-lamar-untitled-unmastered/), to Genocide and Snoop Dogg delivering a fierce vocal on “One Shot One Kill”. 
+  This is Dr. Dre’s first album in 16 years and, unsurprisingly, there were a lot of listeners who expecting a lot from *Compton*. The album is filled to the brim with collaborators, and it’s clear that each was given a fair amount of control over the tracks they featured on — Kendrick Lamar applying his signature style that we heard from [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), to Genocide and Snoop Dogg delivering a fierce vocal on “One Shot One Kill”. 
   
   Aside from the collaborators though, the instrumentation across the album is impressive on its own. From rolling, swooping basslines in “Genocide” to recognisable sections of piano, minimal beat and vocal in “Darkside/Gone” to glitch-inspired, minimal instrumentals that fly around the stereo field in “Deep Water”; even the horn section getting an airing in “Talking to My Diary”. It’s varied and it makes for an interesting listen for the majority of the duration.
   
