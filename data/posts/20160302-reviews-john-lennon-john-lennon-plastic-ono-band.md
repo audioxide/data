@@ -43,7 +43,7 @@ review: >-
   
   From a personal standpoint, I find that listening to the album in its entirety can make for an extremely claustrophobic encounter. Maybe it’s the emotive — and rather harrowing — nature of Lennon’s delivery, or perhaps it’s the vast production that, in conjunction with Phil Spector’s ‘Wall of Sound’, rarely leaves you room to breathe. Either way, *John Lennon/Plastic Ono Band* hasn’t exactly blossomed with age, and sounds fairly crude on occasion. 
   
-  The more rewarding tracks are those that feel more refined, and are constructed with delicacy; “Working Class Hero” is pure, powerful, and profound, its mellow character serving as a real premonition to Neil Young’s [*On The Beach*](/reviews/neil-young-on-the-beach/)*, whilst the gentle “Love” exposes Lennon at his very sweetest. 
+  The more rewarding tracks are those that feel more refined, and are constructed with delicacy; “Working Class Hero” is pure, powerful, and profound, its mellow character serving as a real premonition to Neil Young’s [*On The Beach*](/reviews/neil-young-on-the-beach/), whilst the gentle “Love” exposes Lennon at his very sweetest. 
   
   Ultimately, the context that surrounds *John Lennon/Plastic Ono Band* is what makes it important, even necessary, and with Lennon’s confession of ‘I don’t believe in Beatles, I just believe in me; Yoko and me’, it at least deserves attention for being that final nail in The Beatles coffin.
 
@@ -58,6 +58,7 @@ score:
   fraction: 0.7
 
 ---
+
 author: Fred
 
 review: >-
@@ -65,7 +66,7 @@ review: >-
   
   Such a degree of self-reflection made the record something of a sensation when it was released in 1970, but looking at it with the benefit of hindsight I’m not wholly convinced its content is all that staggering. Make no mistake, tracks in the softer, pained vein of “Mother” and “Working Class Hero” are gorgeous in their honesty, but there are also spells in which the most memorable quality on show is nondescript messiness. 
   
-  Mess is part of the process, of course. In the absence of a filter all manner of oddities — profound and clumsy — find their way into mix. *John Lennon/Plastic Ono Band *seemed to serve as a necessary purge of emotions for Lennon, and I find it fascinating and somewhat moving in that context, but the work itself isn’t actually all that wonderful. Oddly, this is a must-listen for fans of music; just don’t expect to love all the music.
+  Mess is part of the process, of course. In the absence of a filter all manner of oddities — profound and clumsy — find their way into mix. *John Lennon/Plastic Ono Band* seemed to serve as a necessary purge of emotions for Lennon, and I find it fascinating and somewhat moving in that context, but the work itself isn’t actually all that wonderful. Oddly, this is a must-listen for fans of music; just don’t expect to love all the music.
 
 tracks:
   - Mother

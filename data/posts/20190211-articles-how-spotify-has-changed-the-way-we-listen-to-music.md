@@ -31,7 +31,7 @@ With features allowing us to see similar artists people listen to, a ‘Discover
 
 Spotify encourages us to engage with it this way, because we want to consume music more than ever: for moods, for special occasions, as soundtracks for activities, and more.
 
-And we really do engage with it more. According to Stifel’s *Spotify Initiation of Coverage*, ‘[Spotify recommended over 30% of overall listening in 2017](https://rctom.hbs.org/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/), up from less than 20% in 2015, providing a highly personalised listening experience.’
+And we really do engage with it more. According to Stifel’s *Spotify Initiation of Coverage*, ‘[Spotify recommended over 30% of overall listening in 2017](https://digital.hbs.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/), up from less than 20% in 2015, providing a highly personalised listening experience.’
 
 Thanks to the machine learning technology behind it Spotify is able to analyse user data, including [listening behaviours that may change during different times of the day](https://journals.sagepub.com/doi/full/10.1177/0163443717745147). This then feeds into creating new Spotify playlist ideas for specific times where users can discover more music. Like an ‘Acoustic Calm’ or ‘Nature Sounds’ playlist for before you go to bed.
 

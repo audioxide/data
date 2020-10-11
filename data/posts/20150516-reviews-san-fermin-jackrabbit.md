@@ -23,8 +23,8 @@ totalscore:
   fraction: 0.7333333333333333
 colours:
   - "#050505"
-  - "#a6a2a1"
-  - "#FFF"
+  - "#DCB080"
+  - "#DCB080"
 pullquote: Smart, sophisticated pop
 summary: Whilst it's carefully constructed, flowing beautifully from beginning to end, the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.
 week: 16

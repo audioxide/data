@@ -27,7 +27,7 @@ colours:
   - "#FFF"
   - "#FFF"
 pullquote: Effortlessly slick
-summary: Melding orchestral and jazz samples with surging beats and melody lines that remain intense despite their minimal construction, *Dummy* is intriguing for the listener throughout its tracklist.
+summary: Melding orchestral and jazz samples with surging beats and melody lines that remain intense despite their minimal construction, Dummy is intriguing for the listener throughout its tracklist.
 week: 41
 blurb: Melding orchestral and jazz samples with beats that surge tracks forward, Dummy remains intriguing for the listener throughout. An iconic album.
 artistMBID: 8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11
@@ -56,6 +56,7 @@ score:
   fraction: 0.9
 
 ---
+
 author: Fred
 
 review: >-
@@ -76,7 +77,9 @@ score:
   fraction: 0.8
 
 ---
+
 author: Andrew
+
 review: >-
   Portishead’s debut, *Dummy*, may be over two decades old, but their distinctively ’90s, trip-hop sound hasn’t aged a bit. From the opener, “Mysterons”, the album is immediately shrouded in eerie, ominous atmosphere. Melding orchestral and jazz samples with surging beats and melody lines that remain intense despite their minimal construction, *Dummy* is intriguing for the listener throughout its tracklist. 
   
