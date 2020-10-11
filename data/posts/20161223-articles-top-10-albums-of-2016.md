@@ -108,7 +108,7 @@ We had a lot to say about Kendrick Lamar last year, dazzling the music world wit
 
 ## 3\. *Lemonade* // Beyonce
 
-![Album artwork of 'Lemonade' by Beyonce](<2016/05/Lemonade.jpg> =500x500)
+![Album artwork of 'Lemonade' by Beyonce](<album-artwork/lemonade-beyonce.jpg> =500x500)
 
 **André**
 

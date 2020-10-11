@@ -41,19 +41,19 @@ Whether you find his music euphoric or unaffecting, or maybe you think he’s ju
 
 ## 9\. *Cosmogramma* // Flying Lotus
 
-![Album artwork of 'Cosmogramma' by Flying Lotus](album-artwork/cosmogramma-flyig-lotus.jpg "Album artwork of 'Cosmogramma' by Flying Lotus") 
+![Album artwork of 'Cosmogramma' by Flying Lotus](album-artwork/cosmogramma-flying-lotus.jpg "Album artwork of 'Cosmogramma' by Flying Lotus")
 
 **André**
 
 2010’s *Cosmogramma* is one of modern music’s most satisfying mutations. Electronica and jazz come together to form a sound that has become distinctly that of Flying Lotus. Though 2008’s *Los Angeles* was a fine record (one that flirted with the particles and details of hip-hop rather than jazz), it was the proceeding decade that would confirm Steve Ellison as one of the greatest working artists of his kind. It’s impossible to choose a standout moment on *Cosmogramma*, such is the quality of its construction. It was conceived as a single driving motion that thrives on intricacies, and of course benefits from merciless commitment to an overriding vision. A passion project that pays tribute to Ellison’s jazz heroes – including his aunt Alice Coltrane – with sheer style and scintillating confidence. Sure, it can prove to be a challenging affair at times, but let’s face it, the majority of the great jazz works always are, and *Cosmogramma* has certainly joined that illustrious bracket. It remains the most varied, complex and stunning work that Flying Lotus has released to date. It comes highly recommended to anyone with a remote interest in jazz, electronic or experimental music.
 
-[**Read our full review of _Cosmogramma_**](/reviews/cosmogramma-flying-lotus/>) →
+[**Read our full review of _Cosmogramma_**](/reviews/flying-lotus-cosmogramma/>) →
 
 -----
 
 ## 8\. *A Moon Shaped Pool* // Radiohead
 
-![Album artwork of 'A Moon Shaped Pool' by Radiohead](album-artwork/a-moon-shaped-pool-radiohead.jpg "Album artwork of 'A Moon Shaped Pool' by Radiohead") 
+![Album artwork of 'A Moon Shaped Pool' by Radiohead](album-artwork/a-moon-shaped-pool-radiohead.jpg "Album artwork of 'A Moon Shaped Pool' by Radiohead")
 
 **André**
 
@@ -69,7 +69,7 @@ When bands begin to reach their latter years, the quality tends to drop, sometim
 
 ## 7\. *Let England Shake* // PJ Harvey
 
-![Album artwork of 'Let England Shake' by PJ Harvey](album-artwork/let-england-shake-pj-harvey.jpg "Album artwork of 'Let England Shake' by PJ Harvey") 
+![Album artwork of 'Let England Shake' by PJ Harvey](album-artwork/let-england-shake-pj-harvey.jpg "Album artwork of 'Let England Shake' by PJ Harvey")
 
 **André**
 
@@ -135,7 +135,7 @@ The best thing about the record for me is the feeling that Wolf Alice has it in 
 
 ## 2\. *To Pimp a Butterfly* // Kendrick Lamar
 
-![Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg "Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar") 
+![Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar](album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg "Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar")
 
 **Fred**
 

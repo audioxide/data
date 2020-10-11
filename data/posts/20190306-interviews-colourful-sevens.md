@@ -83,7 +83,9 @@ I think that ties in to why I love making music by myself — I can treat my son
 
 It’s a picture of me from when I was 16 or so. A friend of mine had a new camera so we decided to set a scene up at a park near his house. One of our group would kneel under a hedge while someone else would use them as a springboard to leap over it — we took several rapid-fire shots of people leaping over this small hedge. And in one of them, I’m just stood there, staring. All it did was remind me of that faceless family on the front of *Music Has the Right to Children*.
 
-![Moon album artwork source image](<2019/03/Moon-album-artwork-source-image.jpg> =1500x1000)At the time I decided to use the image I was coming off that break-up and felt as though I was drifting and listless and lonely. I don’t know how I made the final product but I remember fucking about with photo filters until it was as distorted as it is now. I think my stance in that photo is one of someone who doesn’t want to be where they are. It applies to *Moon*‘s content, I hope.
+![A group stands in a park as a person jumps over a hedge](interview-images/rob-wilson-hedge.jpg)
+
+At the time I decided to use the image I was coming off that break-up and felt as though I was drifting and listless and lonely. I don’t know how I made the final product but I remember fucking about with photo filters until it was as distorted as it is now. I think my stance in that photo is one of someone who doesn’t want to be where they are. It applies to *Moon*‘s content, I hope.
 
 **I know it’s early days, but how do you think *Moon* sits in your discography?**
 
