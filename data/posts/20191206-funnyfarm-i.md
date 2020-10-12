@@ -5,6 +5,7 @@ slug: i
 type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/1-genesis.jpg
+featuredimageAlt: Ink drawing of an upside down sunrise
 title: "I: Genesis"
 summary: In which two hapless dreamers form a band
 author: fred

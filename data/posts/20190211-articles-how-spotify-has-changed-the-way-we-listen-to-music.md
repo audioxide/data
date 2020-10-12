@@ -7,6 +7,7 @@ tags:
   - spotify
   - major lazer
 featuredimage: article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg
+featuredimageAlt: Woman standing in front of musically themed red neon signs
 title: How Spotify has changed the way we listen to music
 summary: Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker
 author: ruya

@@ -8,6 +8,7 @@ tags:
   - jazz
   - blues
 featuredimage: article-images/keep-playing-the-fire-at-the-heart-of-whiplash.jpg
+featuredimageAlt: Artwork combining the faces of Fletcher and Neiman from the film 'Whiplash'
 title: "Keep Playing: the fire at the heart of &#8216;Whiplash&#8217;"
 summary: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value
 author: fred

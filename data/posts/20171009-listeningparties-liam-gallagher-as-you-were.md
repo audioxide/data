@@ -10,6 +10,7 @@ tags:
   - david bowie
   - spiritualized
 featuredimage: album-artwork/as-you-were-liam-gallagher.jpg
+featuredimageAlt: Album artwork of 'As You Were' by Liam Gallagher
 title: "&#8220;Looks like Oaysis have competition&#8221; &#8211; André and Fred
   listen to Liam Gallagher"
 author: admin

@@ -21,6 +21,7 @@ tags:
   - mia
   - new order
 featuredimage: article-images/statsioxide-our-first-150-reviews-in-numbers.jpg
+featuredimageAlt: Collage of the first 150 albums reviewed by Audioxide
 title: "Statsioxide: our first 150 reviews in numbers"
 summary: Having recently passed a bit of a milestone, we thought it was high time for some statistics. What’s our favourite genre? Which records cracked the 27+ Club? Who’s the most miserable reviewer? All will be revealed
 author: fred

@@ -5,6 +5,7 @@ slug: vi
 type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/6-whats-in-a-name.jpg
+featuredimageAlt: Ink drawing of two men in the front seat of a minibus
 title: "Funnyfarm VI: What&#8217;s in a Name"
 summary: In which an astonishing lack of imagination is shown by the band, the manager, and the author
 author: fred

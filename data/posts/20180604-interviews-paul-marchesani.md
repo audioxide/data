@@ -9,6 +9,7 @@ tags:
   - psychedelia
   - boards of canada
 featuredimage: interview-images/paul-marchesani.jpg
+featuredimageAlt: Paul Marchesani working in his music studio
 title: "Paul Marchesani: &#8216;I always knew my music was connected in some way.&#8217;"
 summary: Paul G. Marchesani is a freelance producer and radio host from Philadelphia. He’s in the midst of a project called the Forest Kids Collective, a shared musical universe of 27 characters, each with their own discography.
 author: fred

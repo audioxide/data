@@ -8,6 +8,7 @@ tags:
   - post punk
   - electronic
 featuredimage: album-artwork/still-patternpusher.jpg
+featuredimageAlt: Single artwork of "Still" by PatternPusher
 title: PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent
 author: andre
 

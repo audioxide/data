@@ -6,6 +6,7 @@ type: articles
 tags:
   - audiobooks
 featuredimage: article-images/the-rise-and-rise-of-audiobooks.jpg
+featuredimageAlt: Artwork mimicking Apple's iPod adverts, but with a book instead
 title: The rise and rise of audiobooks
 summary: Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings
 author: fred

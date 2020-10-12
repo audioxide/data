@@ -14,6 +14,7 @@ tags:
   - nine inch nails
   - muse
 featuredimage: article-images/welcome.jpg
+featuredimageAlt: A wall covered with vinyl record sleeves
 title: Welcome
 summary: A letter from André
 author: andre

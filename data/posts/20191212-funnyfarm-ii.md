@@ -5,6 +5,7 @@ slug: ii
 type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/2-bas.jpg
+featuredimageAlt: Ink drawing of a stoned silly guitarist called Bas
 title: "Funnyfarm II: Bas"
 summary: In which a second guitarist is sourced at a local car park
 author: fred

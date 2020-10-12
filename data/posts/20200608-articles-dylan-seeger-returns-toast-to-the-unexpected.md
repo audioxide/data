@@ -5,6 +5,7 @@ slug: dylan-seeger-returns-toast-to-the-unexpected
 type: articles
 tags: []
 featuredimage: album-artwork/metropolitan-hospital-center-dylan-seeger.jpg
+featuredimageAlt: Album artwork of Metropolitan Hospital Center by Dylan Seeger
 title: Dylan Seeger returns, and a toast to the unexpected
 summary: After another fascinating, often beautiful independent album fell into my lap, I got to thinking about the passivity of music discovery. Most of us - me included - could stand to be more adventurous
 author: fred

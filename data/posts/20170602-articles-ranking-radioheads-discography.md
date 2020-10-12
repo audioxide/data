@@ -12,6 +12,7 @@ tags:
   - electronic
   - aphex twin
 featuredimage: article-images/radiohead-studio-albums-ranked.jpg
+featuredimageAlt: Radiohead performing onstage
 title: "2 + 2 = 9: Radiohead&#8217;s studio albums ranked"
 summary: Be it anxious art-rock, spasmodic electronica, or jazz-tinged soundscapes, Thom & Co. have you covered
 author: admin

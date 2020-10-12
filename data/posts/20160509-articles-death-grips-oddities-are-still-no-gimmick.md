@@ -9,6 +9,7 @@ tags:
   - rock
   - james blake
 featuredimage: article-images/death-grips-oddities-no-gimmick.jpg
+featuredimageAlt: Photograph of Death Grips performing onstage
 title: "&#8216;Bottomless Pit&#8217; shows Death Grips oddities are still no gimmick"
 author: andre
 blurb: The group have confidently cemented their status. If they stay together they can progress toward any direction they so desire.

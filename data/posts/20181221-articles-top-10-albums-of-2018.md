@@ -16,6 +16,7 @@ tags:
   - vince staples
   - 2010s
 featuredimage: article-images/favourite-albums-2018.jpg
+featuredimageAlt: British punk band Idles performing onstage
 title: Our 10 favourite albums of 2018
 author:
   - gabriel

@@ -15,6 +15,7 @@ tags:
   - san fermin
   - wolf alice
 featuredimage: article-images/favourite-albums-2015.jpg
+featuredimageAlt: Black and white photograph of Kendrick Lamar performing onstage
 title: Our 10 favourite albums of 2015
 author:
   - andre

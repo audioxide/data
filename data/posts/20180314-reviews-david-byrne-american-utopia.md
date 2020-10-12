@@ -57,12 +57,13 @@ score:
   fraction: 0.7
 
 ---
+
 author: Fred
 
 review: >-
   *American Utopia* is a good example of the value of repeat listens. The first time I played it I was baffled, the second I started to get it, from the third onward I’ve been on board. The album has its flaws, but they are comfortably outweighed by the David Byrne funk machine. “It’s Not Dark Up Here” and “Everybody’s Coming to My House” are [vintage Byrne](/reviews/talking-heads-remain-in-light/), with borderline delirious grooves and pristine, lively mixes. It’s a genuinely joyous affair, with horns and synths and jangling percussion aplenty. “Bullet” is another highlight. Stripped back in the context of an otherwise busy album, its soft, thoughtful melody is a welcome dose of sobriety. As jubilant as much of the album is, its shadow is part of the fun.
 
-  Although the opening spell of the album needs repeat listens to settle, the second half is where it hits stride. In a way it’s gratifying to hear the sounds coming together in real time. Byrne is guilty of the odd eyebrow-raiser, but if that’s the price of him staying fresh in his sixties, so be it. The record’s as cool as dad dancing can ever reasonably get. Those expecting a [*Blackstar *](/reviews/david-bowie-blackstar/)will be disappointed. *American Utopia *is far too playful for that, for better and for worse. The record isn’t a masterclass, but there are still enough dashes of genius to make it one of my favourite releases of the year. A reason to be cheerful? Certainly.
+  Although the opening spell of the album needs repeat listens to settle, the second half is where it hits stride. In a way it’s gratifying to hear the sounds coming together in real time. Byrne is guilty of the odd eyebrow-raiser, but if that’s the price of him staying fresh in his sixties, so be it. The record’s as cool as dad dancing can ever reasonably get. Those expecting a [*Blackstar *](/reviews/david-bowie-blackstar/)will be disappointed. *American Utopia* is far too playful for that, for better and for worse. The record isn’t a masterclass, but there are still enough dashes of genius to make it one of my favourite releases of the year. A reason to be cheerful? Certainly.
 
 tracks:
   - Everybody’s Coming to My House

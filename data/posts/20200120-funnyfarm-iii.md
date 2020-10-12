@@ -5,6 +5,7 @@ slug: iii
 type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/3-4-1-2-3-4.jpg
+featuredimageAlt: Ink drawing of a metronome hanging in the air
 title: "Funnyfarm III: 4, 1, 2, 3, 4&#8230;"
 summary: In which the value of a rhythm section quickly becomes clear
 author: fred

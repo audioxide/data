@@ -10,6 +10,7 @@ tags:
   - indie
   - folk
 featuredimage: article-images/elliott-smith-behind-the-lyrics.jpg
+featuredimageAlt: Memorial wall for the musician Elliott Smith
 title: "Elliott Smith: behind the lyrics"
 summary: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott Smith’s words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they’ve ever been
 author: ruya
