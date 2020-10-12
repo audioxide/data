@@ -16,6 +16,7 @@ tags:
   - wolf alice
   - 2010s
 featuredimage: article-images/favourite-albums-2017.jpg
+featuredimageAlt: Vinyl record of Kendrick Lamar's album DAMN. on a turntable
 title: Our 10 favourite albums of 2017
 author:
   - michael

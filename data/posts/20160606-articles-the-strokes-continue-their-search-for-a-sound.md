@@ -8,6 +8,7 @@ tags:
   - indie
   - alternative rock
 featuredimage: album-artwork/future-present-past-the-strokes.jpg
+featuredimageAlt: EP artwork of 'Future Present Past' by The Strokes
 title: The Strokes continue their search for a sound
 author: andre
 blurb:  Though there remains a sizeable fanbase, The Strokes don’t have many chances left to convince the rest of us they actually know what they’re doing.

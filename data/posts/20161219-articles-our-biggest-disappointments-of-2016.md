@@ -7,6 +7,7 @@ tags:
   - james blake
   - PJ harvey
 featuredimage: article-images/biggest-disappointments-2016.jpg
+featuredimageAlt: PJ Harvey holding a saxophone 
 title: Our biggest disappointments of 2016
 author: 
   - andre

@@ -8,6 +8,7 @@ tags:
   - electronic
   - jazz
 featuredimage: article-images/green-wing-soundtrack.jpg 
+featuredimageAlt: The cast of 'Green Wing'
 title: "&#8216;Green Wing&#8217; soundtrack remains a quirky gem"
 author: andrew
 blurb: Trellis’s soundtrack for Green Wing takes influence from jazz, latin, and classical music and melds them together exceedingly well. 

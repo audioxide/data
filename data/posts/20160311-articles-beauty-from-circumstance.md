@@ -11,6 +11,7 @@ tags:
   - joanna newsom
   - david byrne
 featuredimage: article-images/album-sides-and-beauty-from-circumstance.jpg
+featuredimageAlt: Artwork depicting the contrasting nature of album sides
 title: Album sides and beauty from circumstance
 summary: From the vinyl flip to the neverending streaming, unique expressions await those willing to immerse themselves in the media formats of their time
 author: fred

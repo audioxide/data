@@ -7,6 +7,7 @@ tags:
   - spotify
   - david byrne
 featuredimage: article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg
+featuredimageAlt: Artwork depicting a man listening to music with medical pills as ear buds
 title: Soma, Spotify, and the brave new world of music consumption
 summary: Streaming services like Spotify have revolutionised listening habits. Anyone, anywhere, can listen to just about anything. In 2012, David Byrne wrote that music risked becoming a soma-like drug. Today that may be the reality
 author: fred

@@ -7,6 +7,7 @@ tags:
   - skepta
   - grime
 featuredimage: album-artwork/konnichiwa-skepta.jpg
+featuredimageAlt: Album artwork of 'Konnichiwa' by Skepta
 title: Skepta returns with international support
 author: andrew
 blurb: Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export.

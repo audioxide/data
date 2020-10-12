@@ -6,6 +6,7 @@ type: articles
 tags:
   - los zafiros
 featuredimage: album-artwork/bossa-cubana-los-zafiros.jpg
+featuredimageAlt: Album artwork of 'Bossa Cubana' by Los Zafiros
 title: Some love for Los Zafiros golden oldie &#8216;Bossa Cubana&#8217;
 author: andrew
 blurb: Bossa Cubana is a great listen and deserves a spin/stream if you’re in the mood for vocal-heavy Cuban music.

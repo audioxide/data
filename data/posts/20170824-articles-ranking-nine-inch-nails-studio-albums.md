@@ -14,6 +14,7 @@ tags:
   - david bowie
   - prince
 featuredimage: article-images/nine-inch-nails-studio-albums-ranked.jpg
+featuredimageAlt: Trent Reznor walking through the desert wearing a black leather jacket and preparing to eat your soul
 title: "All the Pigs, All Lined Up: Nine Inch Nails&#8217; studio albums ranked"
 author: andre
 blurb: For years now the music of Trent Reznor has proved to be, yes, The Perfect Drug. Here lies my worst-to-best list of Nine Inch Nails studio albums.

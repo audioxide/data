@@ -13,6 +13,7 @@ tags:
   - spiritualized
   - britpop
 featuredimage: article-images/richard-ashcroft-wasting-northern-soul.jpg
+featuredimageAlt: Photograph of Richard Ashcroft performing onstage
 title: Richard Ashcroft is wasting his northern soul
 author: andre
 blurb: There’s very little on These People to inspire much interest. Even die-hard fans will struggle to hear Richard Ashcroft at his best.

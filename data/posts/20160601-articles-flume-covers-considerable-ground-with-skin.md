@@ -11,6 +11,7 @@ tags:
   - electronic
   - industrial
 featuredimage: album-artwork/skin-flume.jpg
+featuredimageAlt: Album artwork of 'Skin' by Flume
 title: Flume covers considerable ground with &#8216;Skin&#8217;
 author: andrew
 summary: This new record sees a heavy focus on collaborative production, exploring many sounds while seldom digging deeper into any one of them.

@@ -7,6 +7,7 @@ tags:
   - solar fields
   - the music of games
 featuredimage: article-images/keep-faith-the-music-of-mirrors-edge.jpg
+featuredimageAlt: Blurred concept art from the video game Mirror's Edge
 title: "Keep Faith: the music of &#8216;Mirror&#8217;s Edge&#8217;"
 summary: This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.
 author: fred

@@ -8,6 +8,7 @@ tags:
   - bonobo
   - the flaming lips
 featuredimage: article-images/biggest-disappointments-2017.jpg
+featuredimageAlt: Promotional image of Arcade Fire during their Everything Now phase
 title: Our biggest disappointments of 2017
 author:
   - andre

@@ -6,6 +6,7 @@ type: articles
 tags:
   - the legend of zelda
 featuredimage: article-images/hyrules-lament-the-music-of-twilight-princess.jpg
+featuredimageAlt: Zelda-themed artwork of Link listening to sinister music
 title: "Hyrule&#8217;s Lament: the music of &#8216;Twilight Princess&#8217;"
 summary: This is the first in a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.
 author: andre

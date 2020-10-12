@@ -7,6 +7,7 @@ tags:
   - goldfrapp
   - electronic
 featuredimage: album-artwork/silver-eye-goldfrapp.jpg
+featuredimageAlt: Album artwork of 'Silver Eye' by Goldfrapp
 title: Goldfrapp find familiarity in space
 author: andrew
 summary: With a good handful of predictable and familiar moments, Silver Eye does little to eclipse Goldfrapp's formative releases.

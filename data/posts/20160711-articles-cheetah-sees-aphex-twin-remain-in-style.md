@@ -7,6 +7,7 @@ tags:
   - aphex twin
   - electronic
 featuredimage: album-artwork/cheetah-aphex-twin.jpg
+featuredimageAlt: EP artwork of 'Cheetah' by Aphex Twin
 title: "&#8216;Cheetah&#8217; sees Aphex Twin remain in style"
 author: andre
 blurb: This is one of the purest and silky-smooth Aphex Twin releases yet, with steady tempos and smoothly layered synthesiser pads laying down the foundation

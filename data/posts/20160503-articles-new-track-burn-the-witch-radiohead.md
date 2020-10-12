@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - rock
 featuredimage: article-images/radiohead-tease-continues-with-burn-the-witch.jpg
+featuredimageAlt: Screenshot from the music video for Radiohead's song "Burn the Witch"
 title: Radiohead tease continues with &#8220;Burn the Witch&#8221;
 author: andre
 blurb: “Burn the Witch” is a fine song; a satisfying introduction to a new Radiohead era that will naturally leave fans wanting more.

@@ -9,6 +9,7 @@ tags:
   - pop
   - art pop
 featuredimage: album-artwork/how-to-be-a-human-being-glass-animals.jpg
+featuredimageAlt: Album artwork of 'How to Be a Human Being' by Glass Animals
 title: A late love-in for &#8216;How To Be A Human Being&#8217;
 author: andrew
 summary: How To Be A Human Being is a great indie pop album in a year that hasn’t had many. So far, the band hasn’t made a misstep
