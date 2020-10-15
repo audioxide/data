@@ -34,13 +34,17 @@ The band’s albums are crafted with great care and attention to detail and, as
 
 I’ve always felt that *Pablo Honey* is treated a little unfairly, even by those who would admit to being diehard Radiohead fans. Spoilt by the wealth of material elsewhere that, in many cases, has the nous and intricacy to overshadow much of *Pablo Honey* technically, many listeners only ever give the album a cursory glance. Given a chance, however, there’s still a lot of fun to be had. “You” piques curiosity with a shimmering guitar before erupting into a raucous opener, while “How Do You?” carries a similar mood. The tipper-tapper of the drums and the guitar jam that ensues in the latter half of “Stop Whispering” is a total change of pace to a lot of Radiohead’s output today, as is the acoustic arrangement of “Thinking About You”. These instrumentals are what make *Pablo Honey*: unashamedly of their time, they’re left raw and jagged. Thom sounds like he’s in a punk band at times, and his lyrics probably won’t leave you scratching your head for long, but there are still defined themes across the tracklist, albeit a little more inward facing than later material. Of course, I can’t really get away without giving some props to “Creep”, where all these elements culminate to produce an early album highlight that has since proven to be a major anthem. There’s angst, there’s immaturity, and there’s even [a little insanity](https://www.youtube.com/watch?v=sXUBE_wiPtU&feature=youtu.be&t=118), but I can’t help but save a soft spot for *Pablo Honey*.
 
+------
+
 ## 8\. *The King of Limbs* (2011)
 
 ![Album artwork of 'The King of Limbs' by Radiohead](album-artwork/the-king-of-limbs-radiohead.jpg "Album artwork of 'The King of Limbs' by Radiohead")
 
 **Fred**
 
-I remember listening to *The King of Limbs* for the first time. It was with André during a lunch break, one earphone each, and when it finished we were silent. Not because we were in awe, but because we were indifferent to a new Radiohead album. It was an alien feeling. The group’s brains, present and correct as they are, sound like they’ve been drugged on *TKoL*. Tame, repressed, and skittish, the album dulls intelligent songwriting with impersonal, almost inhuman production. The progression of “Morning Mr Magpie” is compelling, but malnourished. “Separator” could have been so gorgeous if only they’d let it. In spite of other tracks being better written, “Codex” stands heads and shoulders above the rest of the album simply because it’s allowed to breathe. The impression I get from *TKoL* is that Radiohead made things subdued because they could; not because it particularly suited the music. Fair or not, that assessment is not something I’m alone in. This said, recent developments have already tweaked my appreciation of the record. There was a five year gap between *TKoL* and [*A Moon Shaped Pool*](/reviews/radiohead-a-moon-shaped-pool/) — the longest period ever between two Radiohead releases — and the former wasn’t good at bookending the discography during that time. Now that *A Moon Shaped Pool* has taken up the mantle, I expect *TKoL* to grow a little in stature. For all its oddities, no other Radiohead record is quite like it. If you want the band at their most skeletal, *The King of Limbs*’ bony fingers ought to push your buttons.
+I remember listening to *The King of Limbs* for the first time. It was with André during a lunch break, one earphone each, and when it finished we were silent. Not because we were in awe, but because we were indifferent to a new Radiohead album. It was an alien feeling. The group’s brains, present and correct as they are, sound like they’ve been drugged on *TKoL*. Tame, repressed, and skittish, the album dulls intelligent songwriting with impersonal, almost inhuman production. The progression of “Morning Mr Magpie” is compelling, but malnourished. “Separator” could have been so gorgeous if only they’d let it. In spite of other tracks being better written, “Codex” stands heads and shoulders above the rest of the album simply because it’s allowed to breathe. The impression I get from *TKoL* is that Radiohead made things subdued because they could; not because it particularly suited the music. Fair or not, that assessment is not something I’m alone in. This said, recent developments have already tweaked my appreciation of the record. There was a five year gap between *TKoL* and [*A Moon Shaped Pool*](/reviews/radiohead-a-moon-shaped-pool) — the longest period ever between two Radiohead releases — and the former wasn’t good at bookending the discography during that time. Now that *A Moon Shaped Pool* has taken up the mantle, I expect *TKoL* to grow a little in stature. For all its oddities, no other Radiohead record is quite like it. If you want the band at their most skeletal, *The King of Limbs*’ bony fingers ought to push your buttons.
+
+------
 
 ## 7\. *Hail to the Thief* (2003)
 
@@ -50,6 +54,8 @@ I remember listening to *The King of Limbs* for the first time. It was with Andr
 
 *Hail to the Thief* is the bridge between the two sides of Radiohead that have split fans for well over a decade now. It valiantly attempts to balance both sides of the coin, more so than any other album, though does so at a cost. Clocking in just under the hour mark, this is the longest album in their discography, and unfortunately shows the odd instance of filler. Radiohead clearly had their creative juices flowing, but the record would have benefited from some trimming down. The highlights are spectacular: “2+2=5” is one of their finest rock songs, and a damning political statement that holds as true today as it did then; “Where I End and You Begin” is a surreal extension of the band’s past experiments, with swirling synthesizers driven forward ferociously by Phil Selway’s spectacular drumming; and “There There” is the blessed outcome of 21st century Radiohead deciding to create a reasonably straight-forward anthem, which turned out to be absolutely riveting. Fuelled by Thom Yorke’s resentment for the Bush/Blair administration, this was an angsty record that potentially pointed at a darker future for Radiohead. Instead, with it being followed by the serene and cool-natured *In Rainbows*, *Hail to the Thief* turned out to be a red herring all along. Ultimately, it stands as an awkward entry in their catalogue despite its many moments of brilliance.
 
+------
+
 ## 6\. *Amnesiac* (2001)
 
 ![Album artwork of 'Amnesiac' by Radiohead](album-artwork/amnesiac-radiohead.jpg "Album artwork of 'Amnesiac' by Radiohead")
@@ -57,6 +63,8 @@ I remember listening to *The King of Limbs* for the first time. It was with Andr
 **Andrew**
 
 *Amnesiac* feels like a hidden gem to me. Released only 9 months after *Kid A* and leaning heavily into the electronic sound characteristic of the band’s early 2000s output, it was accused by many of being a B-Sides album in disguise, and didn’t settle as well with both fans and critics. Over time, *Amnesiac* has earned more respect, and it draws me back time and time again. Alongside “Pyramid Song” and “Like Spinning Plates”, both tracks of which would be sorely missed in a live setting, the entire tracklist does well at setting an eerie, austere atmosphere. Experimenting with found sound sequencing, and sound manipulation, as well as a wider range of instrumentation, *Amnesiac* gives the listener a lot to be intrigued by. Closing track “Life In a Glasshouse” is indicative of the albums overall change in approach, with its sombre, New Orleans blues, whereas “Like Spinning Plates” looks back in time to become a product of old recordings that the band were otherwise unhappy with (in this case, an otherwise unused version of “I Will”). Combine this with Thom Yorke’s politically charged lyrics, weaving gracefully over the left field experimentation, and *Amnesiac* makes for an interesting 45 minutes that proves to be very listenable.
+
+------
 
 ## 5\. *A Moon Shaped Pool* (2016)
 
@@ -68,6 +76,8 @@ Radiohead’s most recent album is a resounding success. A year after its relea
 
 [**Read our full review of _A Moon Shaped Pool_**](/reviews/radiohead-a-moon-shaped-pool/) **→**
 
+------
+
 ## 4\. *The Bends* (1995)
 
 ![Album artwork of 'The Bends' by Radiohead](album-artwork/the-bends-radiohead.jpg "Album artwork of 'The Bends' by Radiohead")
@@ -76,6 +86,8 @@ Radiohead’s most recent album is a resounding success. A year after its relea
 
 Before Radiohead told the ‘90s to get stuffed, they churned out one of its flagship records: *The Bends*. Although it endures more as the home of adored tracks than it does as a unified product — which I think is what places it below the band’s golden trio — the tracks in question are magnificent. Ask a fan for his or her Radiohead favourite songs and a good few are likely to be from *The Bends*. From the breathless fanfare of “The Bends” and “Just”, which contain more chords than I knew existed, to the sublimity of “Street Spirit (Fade Out)”, *The Bends* feels like Radiohead at their most effortless. I associate their subsequent work with a more tightly-wound mindset than on show here. The group is looser, wheeling out tune after tune. The frayed, unpolished edges of *The Bends* reflected the band’s formative, incomplete moves towards microscopic introspection. Yorke’s delirious delivery on the titular track echoes the tone of the album in that sense, teetering in the space between droopy-eyed rock and acute, burrowing self-reflection. There’s something deeply familiar about that space. Radiohead were leaving *Pablo Honey* behind, bottling a prime adolescence before growing up in *OK Computer*.
 
+------
+
 ## 3\. *Kid A* (2000)
 
 ![Album artwork of 'Kid A' by Radiohead](album-artwork/kid-a-radiohead.jpg "Album artwork of 'Kid A' by Radiohead")
@@ -83,6 +95,8 @@ Before Radiohead told the ‘90s to get stuffed, they churned out one of its fla
 **André**
 
 When I listened to *Kid A* for the first time, almost ten years ago, it made total sense to me. I was in a luxurious position: *Kid A* was my first full Radiohead experience, and I had no preconceptions going into it. I didn’t fall in love with it right away — which 16 year old would? — but I understood the aesthetic almost immediately. Looking back at the initial reaction it received in 2000, the lukewarm reception has never seemed logical to me. What better way to follow up a masterful rock album, than to make a glorious antithesis of it, completely fucking with expectations? As time passed, *Kid A* gradually received the recognition it so thoroughly deserved. It was never going to capture the appeal of the mainstream audience, and that was never the intention. This was a record constructed out of artistic anxiety—the band had grown tired of the tropes of rock music, but had no real experience in writing anything else. It was a gamble taken out of pure dissatisfaction, rather than striving to make a real statement of intent, or being audacious for the sake of it. As it so happens, the chance was well worth taking. Once those first few chords of “Everything in Its Right Place” hit your ears, everything makes sense: Radiohead were sick of themselves, and *Kid A* was the just the antidote required. It’s an absolutely essential listen.
+
+------
 
 ## 2\. *OK Computer* (1997)
 
@@ -93,6 +107,8 @@ When I listened to *Kid A* for the first time, almost ten years ago, it made tot
 I don’t consider *OK Computer* Radiohead’s best record, but it probably is their classic. Its self-contained, meticulous aura of alienation is as familiar today as it’s ever been, and continues to sound incredible. I adore the production. As inexorably bound to the late ‘90s as it is, the album endures as statement in its own right; an anxious, unhappy, alienated statement. I still find it difficult to listen to the whole thing in one go. It’s exhausting. The material weight of songs like “Karma Police” and “Electioneering”, combined with the near desperation of Thom’s delivery throughout—“Subterranean Homesick Alien” being a particular highlight—make for something horribly taut, and sadly familiar. I still think there are a couple of hangers-on in the track list, but I don’t begrudge them being there. The final product is still magnificent. As I said in our review of album, no band does alone together like Radiohead does. Faced with the copious ills and unhappiness of the world, they don’t hold your hand and say, It’s going to be all right; they just say, We know. Sometimes only that will do, and sometimes *OK Computer *is the only appropriate messenger.
 
 [**Read our full review of _OK Computer_**](/reviews/radiohead-ok-computer/) **→**
+
+------
 
 ## 1\. *In Rainbows* (2007)
 

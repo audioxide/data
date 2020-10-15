@@ -35,7 +35,7 @@ colours:
   - "#95c286"
 pullquote: A neo-psychedelic universe
 summary: A sumptuously produced blend of folk, rock, post-rock, and psychedelia, all with a smokey stoner sheen. When it gets rolling the grooves are irresistible.
-week: 147
+week: 247
 blurb: A sumptuously produced blend of folk, post-rock, and psychedelia, all with a smokey stoner sheen. When it gets rolling the grooves are irresistible.
 artistMBID: b574bfea-2359-4e9d-93f6-71c3c9a2a4f0
 albumMBID: 8188a5e9-c9b1-41ce-b8e4-602f3b7e1ea8
@@ -50,7 +50,7 @@ review: >-
 
   *Nothing as the Ideal* is overly ambitious, perhaps to a fault. I'm not sure it knows what it wants to be. The band have their musical fingers in too many pies, with the grand aim of creating their most immersive record yet. Crunchy riffs, soaring solos, and ferocious drum passages share the same space as steady soundscapes. When it works, *Nothing as the Ideal* plays out like an epic film soundtrack. When it doesn't, it feels slightly cumbersome.
 
-  “Saturnine & Iron Jaw” sets the mood by immediately using hypnotic sound effects, before evolving into a [Black Sabbath](/reviews/black-sabbath-paranoid/) style metal jam. There's a distinct lack of subtlety, but it's a powerful opener nonetheless. “See You Next Fall” is almost 10 minutes' worth of chugging rock, with psychedelic guitar solo's that would make even Gong proud. Closing track “Rats in Ruin” goes all-out post-rock in an attempt to capture a momentous and memorable conclusion, but I'm not sure the band quite pull it off. It's certainly no [F# A# ∞](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/).
+  “Saturnine & Iron Jaw” sets the mood by immediately using hypnotic sound effects, before evolving into a [Black Sabbath](/reviews/black-sabbath-paranoid/) style metal jam. There's a distinct lack of subtlety, but it's a powerful opener nonetheless. “See You Next Fall” is almost 10 minutes' worth of chugging rock, with psychedelic guitar solo's that would make even Gong proud. Closing track “Rats in Ruin” goes all-out post-rock in an attempt to capture a momentous and memorable conclusion, but I'm not sure the band quite pull it off. It's certainly no [*F# A# ∞*](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/).
 
   I maintain that the band are at their best when getting down and dirty to a killer groove. “Enemy of my Enemy” is a perfect example: a hard-rock gem with various nods to the likes of Kyuss and [Led Zeppelin](/reviews/led-zeppelin-led-zeppelin/). “Lights Out” may be a bit too cock rock for my liking, but there's no questioning the sense of adrenaline it provides. The closest ATW get to achieving a distinct and gratifying atmospheric interlude is “Everest”, a beautiful moment led purely by a lone electric guitar. Its solitude is almost spiritual.
 

@@ -11,7 +11,7 @@ tags:
   - rock
 featuredimage: album-artwork/on-the-beach-neil-young.jpg
 artist: Neil Young
-album: On The Beach
+album: On the Beach
 essentialtracks:
   - On the Beach
 favouritetracks:
