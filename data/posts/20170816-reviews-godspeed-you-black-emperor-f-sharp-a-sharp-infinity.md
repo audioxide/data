@@ -11,7 +11,7 @@ tags:
   - fallout
 featuredimage: album-artwork/f-sharp-a-sharp-infinity-godspeed-you-black-emperor.jpg
 artist: Godspeed You! Black Emperor
-album: F♯ A♯ ∞ [CD release]
+album: F♯ A♯ ∞
 essentialtracks:
   - East Hastings
   - The Dead Flag Blues
@@ -22,9 +22,9 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#1f1d1b"
-  - "#cfc4c2"
-  - "#7b7575"
+  - "#5e2b28"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A sumptuous range of soundscapes
 summary: Godspeed You! Black Emperor’s debut gets deep into the minutia of what is typically labelled post-rock, but the results defy labels. Almost entirely instrumental, the music twangs and moans through a sumptuous range of soundscapes, sounding as fresh as it does apocalyptic.
 week: 111
