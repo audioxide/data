@@ -6,7 +6,7 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/4-good-as-gould.jpg
 featuredimageAlt: Ink drawing of a contract drawn on a pub napkin
-title: "Funnyfarm IV: Good as Gould"
+title: "IV: Good as Gould"
 summary: In which the band members sign away their children’s inheritances. And their grandchildren’s
 author: fred
 blurb: In which the band members sign away their children’s inheritances. And their grandchildren’s.

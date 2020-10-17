@@ -6,7 +6,7 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/5-the-van.jpg
 featuredimageAlt: Ink drawing of a ratty old van in a ratty old car park
-title: "Funnyfarm V: The Van"
+title: "V: The Van"
 summary: In which Soviet manufacturing holds up surprisingly well
 author: fred
 blurb: In which Soviet manufacturing holds up surprisingly well.
