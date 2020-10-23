@@ -36,6 +36,8 @@ week: 72
 blurb: It’s an intensely focused musical space, guided by a vocal delivery that seems simultaneously lethargic and passionate. Post-punk is rarely more unsettling. 
 artistMBID: 9ee1988d-66ec-4c29-98d6-876a45e0fcbd
 albumMBID: 2a64e463-6d16-4ae4-af8d-f3c064b09256
+artistLink: https://preoccupations.bandcamp.com/merch
+
 ---
 author: ANDRÉ
 
