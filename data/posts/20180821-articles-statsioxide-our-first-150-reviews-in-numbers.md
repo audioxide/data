@@ -78,7 +78,7 @@ Most of the absences were Fred, who disappeared for four months in early 2017. A
 
 The combined length of the albums we’ve reviewed is **123 hours 52 minutes 40 seconds** — over 5 straight days of music. Given we each try to listen to an album at least three times before reviewing it, **a minimum of 46 days of listening has gone into the site so far**.
 
-The longest album we reviewed was [*The Glowing Man *](/reviews/swans-the-glowing-man/)by Swans at **1 hour 58 minutes 3 seconds**, while the shortest was [*Rocket to Russia*](/reviews/ramones-rocket-to-russia/) by Ramones at **31 minutes 46 seconds**. The average album length was **49 minutes 33 seconds**.
+The longest album we reviewed was [*The Glowing Man*](/reviews/swans-the-glowing-man/) by Swans at **1 hour 58 minutes 3 seconds**, while the shortest was [*Rocket to Russia*](/reviews/ramones-rocket-to-russia/) by Ramones at **31 minutes 46 seconds**. The average album length was **49 minutes 33 seconds**.
 
 [A record needle travels nearly two-thirds of a mile in 48 minutes](https://www.vinylengine.com/turntable_forum/viewtopic.php?f=41&t=17225) (just over 1 kilometer). Using that estimate, a needle would have to travel just short of 100 miles (or 160 kilometers) to get through our first 150 albums. Pretty groovy.
 
@@ -121,7 +121,7 @@ Rock was also our highest rated genre, with an average score of 21.94. Hip hop w
 
 ![Average score by genre](article-images/statsioxide-150-genre-averages.jpg)
 
-As for region, 50% of albums reviewed were by artists from the United States (averaging 21.55) with a further 34.7% from England (averaging 21.46). The remaining 15.3% were a mix of Canada, Scotland, Australia, France, Iceland (read: [Bjork](/reviews/bjork-homogenic/)), Ireland, Norway, Jamaica, New Zealand, Belgium, and Sweden.
+As for region, 50% of albums reviewed were by artists from the United States (averaging 21.55) with a further 34.7% from England (averaging 21.46). The remaining 15.3% were a mix of Canada, Scotland, Australia, France, Iceland (read: [Björk](/reviews/bjork-homogenic/)), Ireland, Norway, Jamaica, New Zealand, Belgium, and Sweden.
 
 ## Postscript
 

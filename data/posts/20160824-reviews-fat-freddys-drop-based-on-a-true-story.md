@@ -6,7 +6,7 @@ type: reviews
 tags:
   - 2000s
   - "21"
-  - fat freddy's drop
+  - fat freddys drop
   - reggae
 featuredimage: album-artwork/based-on-a-true-story-fat-freddys-drop.jpg
 artist: Fat Freddy's Drop
