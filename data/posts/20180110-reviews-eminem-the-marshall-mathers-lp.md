@@ -24,8 +24,8 @@ totalscore:
   fraction: 0.8666666666666667
 colours:
   - "#030303"
-  - "#f7fafa"
-  - "#f7fafa"
+  - "#D1C4BB"
+  - "#D1C4BB"
 pullquote: Essential hip-hop
 summary: The Marshall Mathers LP is Eminem’s finest accomplishment, but it’s too maniacal to be branded a masterpiece. It succeeds as a surreal yet brilliant expansion of his debut, constantly hovering over the line between reality and the abstract.
 week: 127
