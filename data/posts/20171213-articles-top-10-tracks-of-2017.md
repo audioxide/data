@@ -6,7 +6,7 @@ type: articles
 tags:
   - death from above
   - four tet
-  - godspeed you! black emperor
+  - godspeed you black emperor
   - kendrick lamar
   - laura marling
   - queens of the stone age

@@ -10,9 +10,9 @@ tags:
   - frank ocean
   - laura marling
   - metronomy
-  - PJ harvey
+  - pj harvey
   - queens of the stone age
-  - st. vincent
+  - st vincent
   - wolf alice
 featuredimage: article-images/favourite-singles-2010s.jpg
 featuredimageAlt: Ellie Rowsell singing in front of a microphone

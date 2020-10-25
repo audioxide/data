@@ -6,7 +6,7 @@ type: reviews
 tags:
   - "16"
   - 2010s
-  - alt-j
+  - alt j
   - alternative rock
   - folk
   - modest mouse
