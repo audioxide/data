@@ -13,7 +13,7 @@
   to = "/feed/index.xml"
 
 [[redirects]]
-  from = "/feed/*"
+  from = "/feed/**/*"
   to = "/feed/:splat/index.xml"
 
 [[headers]]
@@ -24,7 +24,7 @@
     Vary = "Origin"
 
 [[headers]]
-  for = "/feed/**/*.xml"
+  for = "/feed/*"
   [headers.values]
     Content-Type = "application/rss+xml; charset=UTF-8"
 
