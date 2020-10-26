@@ -8,6 +8,14 @@
 [context.alpha]
   environment = { SITE_URL = "https://alpha.audioxide.com", API_URL = "https://alpha.audioxide.com/api" }
 
+[[redirects]]
+  from = "/feed/"
+  to = "/feed/index.xml"
+
+[[redirects]]
+  from = "/feed/*"
+  to = "/feed/:splat/index.xml"
+
 [[headers]]
   for = "/*"
   [headers.values]
