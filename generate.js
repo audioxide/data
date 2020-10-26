@@ -1,5 +1,6 @@
 const fs = require('fs');
 const nodePath = require('path');
+const RSS = require('rss-generator');
 const YAML = require('yaml');
 const showdown = require('showdown');
 const sharp = require('sharp');
@@ -49,6 +50,7 @@ const postBase = '/posts';
 const pageBase = '/pages';
 const imagesBase = '/images';
 const tagsBase = '/tags';
+const feedBase = '/feed';
 const segmentDetector = /(^|\r?\n?)---\r?\n/;
 const segmentDivisor = /\r?\n---\r?\n/;
 const localImage = /(?<=<img)([^>]+?src=")(?!http)([^"]+?)"/g;
@@ -142,11 +144,20 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
         });
     }
     metadata.title = startCase(metadata.slug);
+    let isGeneratedTitle = true;
     let content = [];
     try {
+        const parsed = YAML.parse(metadataYAML);
+        if ('title' in parsed) {
+            isGeneratedTitle = false;
+        }
         // Anything parsed from the first segment as YAML will overwrite and add to the defaults
-        Object.assign(metadata, YAML.parse(metadataYAML));
+        Object.assign(metadata, parsed);
     } catch {}
+    if (isGeneratedTitle && ('album' in metadata) && ('artist' in metadata)) {
+        // Special formatting for posts with an album and artist and no title
+        metadata.title = `${metadata.album} // ${metadata.artist}`;
+    }
     if (!('modified' in metadata) && 'created' in metadata) {
         metadata.modified = metadata.created;
     }
@@ -158,7 +169,6 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
     }
     // For each further segment, attempt to parse it as YAML, Markdown or just return plain text
     content = await Promise.all(contentSegments.map(async (contentStr) => {
-        let parsed;
         let yaml;
         try {
             yaml = YAML.parse(contentStr);
@@ -184,6 +194,18 @@ const processContentFile = async (path, metadataYAML, contentSegments) => {
         // if (parsed) return parsed;
         // return contentStr;
     }));
+    if (!('author' in metadata) && Array.isArray(content)) {
+        // Generate author from content if possible
+        const authors = content.reduce((acc, block) => {
+            if (typeof block === 'object' && 'author' in block) {
+                acc.push(block.author);
+            }
+            return acc;
+        }, []);
+        if (authors.length > 0) {
+            metadata.author = authors;
+        }
+    }
     return { metadata, content };
 };
 
@@ -296,6 +318,81 @@ const resolveAuthor = (obj) => {
     }
 }
 
+const generateRss = (latest, types, tags) => {
+    const POST_LIMIT = 10;
+    const writers = [];
+    const writeFeed = async (filename, feed) => {
+        // We use the HTML extension to abuse Netlify's URL normalisation
+        const path = `${outputBase}${feedBase}/${filename}.html`;
+        const dir = nodePath.dirname(path);
+        if (!fs.existsSync(dir)) {
+            await fs.promises.mkdir(dir, { recursive: true });
+        }
+        await fs.promises.writeFile(path, feed.xml());
+    };
+    const addItems = (posts, feed) => posts.slice(0, POST_LIMIT).forEach(post => feed.item({
+        title: post.metadata.title,
+        description: post.metadata.summary || post.metadata.blurb,
+        url: `${process.env.SITE_URL}/${post.metadata.type}/${post.metadata.slug}`,
+        categories: post.metadata.tags,
+        date: new Date(post.metadata.created).toISOString(),
+        custom_elements: [
+            { "dc:creator": post.metadata.author ? post.metadata.author.name : 'Audioxide' },
+        ],
+    }));
+    const now = new Date().toISOString();
+    const defaultOptions = {
+        title: "Audioxide",
+        description: "Independent music webzine. Publishes reviews, articles, interviews, and other oddities.",
+        feed_url: `${process.env.SITE_URL}/feed/`,
+        site_url: process.env.SITE_URL,
+        language: "en-GB",
+        pubDate: now,
+        ttl: 1440,
+        custom_namespaces: {
+            sy: "http://purl.org/rss/1.0/modules/syndication/",
+            dc: "http://purl.org/dc/elements/1.1/",
+        },
+        custom_elements: [
+            { "sy:updatePeriod": "daily" },
+            { "sy:updateFrequency": 1 },
+            { "lastBuildDate": now }
+        ]
+    };
+    // Default RSS is latest posts
+    const latestFeed = new RSS({
+        ...defaultOptions,
+        pubDate: new Date(latest[0].metadata.created).toISOString(),
+    });
+    addItems(latest, latestFeed);
+    writers.push(writeFeed('index', latestFeed));
+
+    // Top level post type feeds
+    Object.entries(types).forEach(([type, posts]) => {
+        const feed = new RSS({
+            ...defaultOptions,
+            title: `${startCase(type)} // Audioxide`,
+            feed_url: `${defaultOptions.feed_url}/${type}/`,
+            pubDate: new Date(posts[0].metadata.created).toISOString(),
+        });
+        addItems(posts, feed);
+        writers.push(writeFeed(`${type}/index`, feed));
+    });
+
+    // Tag group feeds
+    Object.entries(tags).forEach(([tag, posts]) => {
+        const feed = new RSS({
+            ...defaultOptions,
+            title: `Posts tagged "${tag}" // Audioxide`,
+            feed_url: `${defaultOptions.feed_url}/tags/${tag}/`,
+            pubDate: new Date(posts[0].metadata.created).toISOString(),
+        });
+        addItems(posts, feed);
+        writers.push(writeFeed(`tags/${tag}/index`, feed));
+    });
+    return Promise.all(writers);
+};
+
 const generateResponse = (obj, name) => {
     return fs.promises.writeFile(`./dist/${name}.json`, JSON.stringify(obj));
 };
@@ -351,7 +448,7 @@ const init = async () => {
         }
     }
 
-    await Promise.all(['', postBase, pageBase, imagesBase, tagsBase].map(dir => {
+    await Promise.all(['', postBase, pageBase, imagesBase, tagsBase, feedBase].map(dir => {
         const checkPath = outputBase + dir;
         if (!fs.existsSync(checkPath)) {
             return fs.promises.mkdir(checkPath, { recursive: true });
@@ -360,6 +457,7 @@ const init = async () => {
     }))
 
     await Promise.all([
+        generateRss(postsArr, typeGrouping, tagGrouping),
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
         ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
