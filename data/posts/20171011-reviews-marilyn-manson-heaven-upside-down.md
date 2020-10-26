@@ -9,6 +9,7 @@ tags:
   - marilyn manson
   - industrial
   - nine inch nails
+  - david bowie
 featuredimage: album-artwork/heaven-upside-down-marilyn-manson.jpg
 artist: Marilyn Manson
 album: Heaven Upside Down
@@ -24,7 +25,7 @@ totalscore:
 colours:
   - "#999999"
   - "#000000"
-  - "#323944"
+  - "#000000"
 pullquote: Weirdly disposable
 summary: When it comes down to it, I want Marilyn Manson music to be grotesque. I want to come out of his records feeling like I need my stomach pumped. The softcore offerings of Heaven Upside Down leave me wanting to wash my hands at best.
 week: 119
@@ -48,11 +49,14 @@ tracks:
   - KILL4ME
   - ­­Blood Honey
   - ­­Tattooed in Reverse
+
 score:
   score: 6
   max: 10
   fraction: 0.6
+
 ---
+
 author: Fred
 
 review: >-
@@ -62,7 +66,7 @@ review: >-
 
   When it comes down to it, I want Marilyn Manson music to be grotesque. I want to come out of his records feeling like I need my stomach pumped. The softcore offerings of *Heaven Upside Down* leave me wanting to wash my hands at best. I know what I want isn’t the same as ‘good’ necessarily, but in this case I think it is. Industrial music without a serrated edge can easily slip into something pedestrian, and I think that’s what’s happened here. A bit more rank fury, a serving of sleaze would have gone a long way. “Threats of Romance” clicks nicely because it ticks those boxes, I think, like a beyond the pale *Rocky Horror Show* number. 
   
-  [I’m not a natural fan of industrial metal](/reviews/nine-inch-nails-the-downward-spiral/) so in truth I don’t know what I’m talking about, but my core issue with *Heaven Upside Down* is that it’s good and I wish it was revolting.
+  [I’m not a natural fan of industrial metal](/reviews/nine-inch-nails-the-downward-spiral) so in truth I don’t know what I’m talking about, but my core issue with *Heaven Upside Down* is that it’s good and I wish it was revolting.
 
 tracks:
   - SAY10
@@ -75,10 +79,11 @@ score:
   fraction: 0.6
 
 ---
+
 author: Gabriel
 
 review: >-
-  Manson’s music has always lived within the visual. From the man himself, to the stage sets, to the guitar pedal boards, they permeate each other. And often with excellent consequences. Like Bowie innovated before him, he has an incredible ability to slip into personas and create records that are unified in their harmonic dissonance. Albums like *Mechanical Animals*, *Golden Age of Grotesque*, and even his most recent record *The Pale Emperor* do this in spades. This is where *Heaven Upside Down* falls down.
+  Manson’s music has always lived within the visual. From the man himself, to the stage sets, to the guitar pedal boards, they permeate each other. And often with excellent consequences. Like [Bowie](/reviews/david-bowie-hunky-dory) innovated before him, he has an incredible ability to slip into personas and create records that are unified in their harmonic dissonance. Albums like *Mechanical Animals*, *Golden Age of Grotesque*, and even his most recent record *The Pale Emperor* do this in spades. This is where *Heaven Upside Down* falls down.
 
   *Heaven Upside Down* fails to unify itself with an image, musically or visually. This is not to say however, that it does not have strengths. Tracks like “Tattooed in Reverse” ooze with Manson sleaze, like a murder of black crows and eels spilling from his chest. This is accompanied perfectly by the razor sharp synthesisers. There are similarly good tracks on this record such as “SAY10”. Whilst having slightly ‘ahh I see what you did there…’ lyrics, it packs a dirty punch. The strengths also follow with the production. Tyler Bates does a polished job on this record, although the production may not be quite as interesting as it is in *The Pale Emperor*.
 

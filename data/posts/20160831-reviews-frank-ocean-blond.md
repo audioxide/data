@@ -16,7 +16,7 @@ tags:
   - bon iver
 featuredimage: album-artwork/blonde-frank-ocean.jpg
 artist: Frank Ocean
-album: Blonde
+album: Blond
 essentialtracks:
   - Pink + White
 favouritetracks:
