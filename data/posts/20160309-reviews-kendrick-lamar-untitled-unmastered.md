@@ -38,7 +38,7 @@ artistLink: https://shop.kendricklamar.com
 author: André
 
 review: >-
-  Kendrick Lamar’s sparse activity in the past 12 months has been an intriguing conversion in hip-hop. Most rappers would find it difficult to leave the limelight after releasing such an acclaimed record as [*To Pimp a Butterfly*](/reviews/kendri k-lamar-to-pimp-a-butterfly/), but aside from some excellent TV performances Kendrick has laid relatively low. 
+  Kendrick Lamar’s sparse activity in the past 12 months has been an intriguing conversion in hip-hop. Most rappers would find it difficult to leave the limelight after releasing such an acclaimed record as [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly), but aside from some excellent TV performances Kendrick has laid relatively low. 
   
   This in mind, *untitled unmastered.* is a pretty startling release, offering a natural extension to the poignant voice found on *TPaB*. This collection of demos, B-sides — whatever you’d want to call them — is still a level above many full-length albums released by Kendrick Lamar’s peers, and it’s a testament to his craft that the record sounds even mildly cohesive. As opposed to Kanye West’s [*The Life of Pablo*](/reviews/kanye-west-the-life-of-pablo/), *untitled unmastered.*’s incomplete nature is one of its most endearing qualities, providing an informative and rewarding insight into the man behind the magnificence of *TPaB*. 
   
