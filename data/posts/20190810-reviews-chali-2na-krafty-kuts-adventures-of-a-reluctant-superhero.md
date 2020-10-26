@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.5666666666666667
 colours:
-  - "#979B9E"
+  - "#9F3695"
   - "#FDFDFD"
   - "#FDFDFD"
 pullquote: Cheesy & well-worn
