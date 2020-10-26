@@ -16,6 +16,11 @@
     Vary = "Origin"
 
 [[headers]]
+  for = "/feed/**/*.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=UTF-8"
+
+[[headers]]
   for = "/images/**/*.jpg"
   [headers.values]
     Content-Type = "image/jpeg"
