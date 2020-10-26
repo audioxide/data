@@ -448,6 +448,33 @@ const init = async () => {
         }
     }
 
+    // Generate recommendations
+    const RELATED_POSTS = 4;
+    postsArr.forEach(targetPost => {
+        const postTags = targetPost.metadata.tags;
+        if (!Array.isArray(postTags)) return;
+        const matchingTagPostsSet = new Set();
+        postTags.forEach(tag => {
+            const postGroup = tagGrouping[tag];
+            postGroup.forEach(post => matchingTagPostsSet.add(post));
+        });
+        matchingTagPostsSet.delete(targetPost);
+        const matchingTagPosts = Array.from(matchingTagPostsSet.values());
+        const matchTagCount = (tags) => tags.filter(tag => postTags.includes(tag)).length;
+        matchingTagPosts.sort((a, b) => {
+            const matchingTagsA = matchTagCount(a.metadata.tags);
+            const matchingTagsB = matchTagCount(b.metadata.tags);
+            return matchingTagsA === matchingTagsB ? 0 : ((matchingTagsA < matchingTagsB) * 2) - 1;
+        });
+        if (matchingTagPosts.length < RELATED_POSTS) {
+            postsArr.every(post => {
+                if (!matchingTagPosts.includes(post)) matchingTagPosts.push(post);
+                return matchingTagPosts.length < RELATED_POSTS;
+            });
+        }
+        targetPost.related = matchingTagPosts.slice(0, RELATED_POSTS).map(({ metadata }) => ({ metadata }));
+    });
+
     await Promise.all(['', postBase, pageBase, imagesBase, tagsBase, feedBase].map(dir => {
         const checkPath = outputBase + dir;
         if (!fs.existsSync(checkPath)) {
