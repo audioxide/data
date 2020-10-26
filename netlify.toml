@@ -8,14 +8,6 @@
 [context.alpha]
   environment = { SITE_URL = "https://alpha.audioxide.com", API_URL = "https://alpha.audioxide.com/api" }
 
-[[redirects]]
-  from = "/feed/"
-  to = "/feed/index.xml"
-
-[[redirects]]
-  from = "/feed/**/*"
-  to = "/feed/:splat/index.xml"
-
 [[headers]]
   for = "/*"
   [headers.values]
@@ -24,7 +16,7 @@
     Vary = "Origin"
 
 [[headers]]
-  for = "/feed/*"
+  for = "/feed/*.html"
   [headers.values]
     Content-Type = "application/rss+xml; charset=UTF-8"
 

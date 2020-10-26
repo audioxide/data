@@ -322,7 +322,8 @@ const generateRss = (latest, types, tags) => {
     const POST_LIMIT = 10;
     const writers = [];
     const writeFeed = async (filename, feed) => {
-        const path = `${outputBase}${feedBase}/${filename}.xml`;
+        // We use the HTML extension to abuse Netlify's URL normalisation
+        const path = `${outputBase}${feedBase}/${filename}.html`;
         const dir = nodePath.dirname(path);
         if (!fs.existsSync(dir)) {
             await fs.promises.mkdir(dir, { recursive: true });
