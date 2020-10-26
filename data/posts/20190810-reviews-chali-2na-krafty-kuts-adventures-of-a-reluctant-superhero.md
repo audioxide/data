@@ -1,7 +1,7 @@
 ---
 created: 2019-08-10T08:26:05.000Z
 modified: 2019-08-15T10:52:57.000Z
-slug: adventures-of-a-reluctant-superhero-chali-2nakrafty-kuts
+slug: chali-2na-krafty-kuts-adventures-of-a-reluctant-superhero
 type: reviews
 tags:
   - "17"

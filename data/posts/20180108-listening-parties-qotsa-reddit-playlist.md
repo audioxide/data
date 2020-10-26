@@ -2,9 +2,10 @@
 created: 2018-01-08T22:18:31.000Z
 modified: 2018-03-17T12:53:10.000Z
 slug: qotsa-reddit-playlist
-type: listeningparties
+type: listening-parties
 tags:
   - queens of the stone age
+  - rock
 featuredimage: article-images/queens-of-the-stone-age-logo.jpg
 featuredimageAlt: Queens of the Stone age logo
 title: André and Fred listen to r/qotsa&#8217;s Best Of album
@@ -13,27 +14,25 @@ blurb: "r/qotsa put together the ultimate Queens of the Stone Age playlist: ...V
 
 ---
 
-*This is part of a series in which two or more members of the Audioxide team listen to an album for the first time.&nbsp;Any moments of interest or insight are purely coincidental.*
-
-[“You Think I Ain’t Worth a Dollar, But I Feel Like a Millionaire”]
+## “You Think I Ain’t Worth a Dollar, But I Feel Like a Millionaire”
 
 **André**
-Still one of my favourite album opener of all time.
-That explosion still blows my mind.
+Still one of my favourite album opener of all time
+That explosion still blows my mind
 
 **Fred**
-‘Prepare to have your mind expanded, friend.’
+‘Prepare to have your mind expanded, friend’
 
 **André**
-I think a big part of why people find Nick Oliveri’s screaming tolerable is because it’s quite low in the mix.
-And nicely mixed, furthermore.
+I think a big part of why people find Nick Oliveri’s screaming tolerable is because it’s quite low in the mix
+And nicely mixed, furthermore
 I hear a lot of people say ‘I don’t like scream vocals in metal… except when QOTSA did it’
 
 **Fred**
 I think it’s because they treat it as part of something bigger
 Rather than the main event
 
-[“No-one Knows”]
+## “No-one Knows”
 
 **André**
 That 1-2 combo is SO good
@@ -55,8 +54,8 @@ So what is this?
 **André**
 Hahaha
 Yes
-Grohl’s drumming still reigns supreme here, my goodness.
-I will never get bored of No-one Knows.
+Grohl’s drumming still reigns supreme here, my goodness
+I will never get bored of No-one Knows
 
 **Fred**
 Safe choice putting it second
@@ -70,7 +69,7 @@ Pretty neat! Well done r/qotsa
 **Fred**
 Interesting!
 
-[“If Only”]
+## “If Only”
 
 **André**
 Love that riff
@@ -105,7 +104,7 @@ I CANNOT believe Song for the Dead didn’t make it
 An utter travesty
 Instead we have this…
 
-[“If I Had a Tail”]
+## “If I Had a Tail”
 
 **Fred**
 Ah I adore this song
@@ -138,7 +137,7 @@ The only song that lets it down in my opinion
 **Fred**
 Ah, I like it
 
-[“Better Living Through the Chemistry”]
+## “Better Living Through the Chemistry”
 
 **André**
 I’m SO glad this song made it
@@ -173,7 +172,7 @@ Haha yeah they branched out on Rated R
 This was definitely the most drug-fuelled one
 I mean the album starts off with Feel Good Hit of the Summer…
 
-[“Un-Reborn Again”]
+## “Un-Reborn Again”
 
 **André**
 Ah, the best Villains song
@@ -182,7 +181,7 @@ Ah, the best Villains song
 We called it
 
 **André**
-We’re rarely wrong, **Fred**
+We’re rarely wrong
 This works so well after Chemistry
 
 **Fred**
@@ -234,7 +233,7 @@ As is the sax!
 **André**
 Magnificent
 
-[“Mexicola”]
+## “Mexicola”
 
 **André**
 Yay another riff-fest!
@@ -247,9 +246,9 @@ He sounds good
 Not as refined maybe, but that’s part of the charm I suppose
 
 **André**
-Yeah I think so.
+Yeah I think so
 I think the debut album was more about the riffs, the grooves and the attitude
-Song-writing came with Rated R.
+Song-writing came with Rated R
 Think this stands up to something more modern like Un-Reborn Again?
 Or does it sound dated to you?
 I think it sounds of it’s time for sure, but still sounds great
@@ -258,7 +257,7 @@ I think it sounds of it’s time for sure, but still sounds great
 I think there’s some yin and yang about it
 Un-Reborn sounds great, but it’s so polished
 
-[“3’s & 7’s”]
+## “3’s & 7’s”
 
 **André**
 That wasn’t a particularly smooth transition on the production front
@@ -282,7 +281,7 @@ I don’t think it works very well in the playlist
 **André**
 Agreed, probably the weakest spot
 
-[“I Appear Missing”]
+## “I Appear Missing”
 
 **André**
 Ahhhh
@@ -320,7 +319,7 @@ The distance the group has travelled musically
 **André**
 They don’t get enough credit in that regard
 
-[“…Like Clockwork”]
+## “…Like Clockwork”
 
 **André**
 This was the only sensible way to follow I Appear Missing, surely?
@@ -352,7 +351,7 @@ Homme entering Pink Floyd orbit right about now
 I think this is their 2nd best closing track
 I Think I Lost My Headache is my favourite
 
-[“God is in the Radio”]
+## “God is in the Radio”
 
 **André**
 Oh that transition is glorious
@@ -376,7 +375,7 @@ Love this breakdown
 DYNAMICS people. So important
 I’m not sure the end of this song is going to fade into Fun Machine all that elegantly…
 
-[“The Fun Machine Took a Shit & Died”]
+## “The Fun Machine Took a Shit & Died”
 
 **André**
 Yeah, no. Haha
@@ -397,7 +396,7 @@ But I have a lot of time for it
 Ok how about this
 Remove 3s & 7s and Fun Machine from the playlist and they can be B-sides for whatever the lead singles are
 
-Andre
+**Andre**
 Haha hell yeah
 The first third of the playlist was ace
 Almost the first half, in fact
@@ -427,7 +426,7 @@ True enough
 Would be interested to hear r/qotsa put together a 40 minute album in whatever order they liked
 Though the logistics of that would be horrible
 
-[“Song for the Deaf”]
+## “Song for the Deaf”
 
 **André**
 This is such an ominous song
@@ -447,7 +446,7 @@ Some things just click
 **André**
 ‘ha ha ha ha ha haaaaa’
 
-[“Mosquito Song”]
+## “Mosquito Song”
 
 **Fred**
 Lush

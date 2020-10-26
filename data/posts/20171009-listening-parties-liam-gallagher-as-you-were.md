@@ -2,7 +2,7 @@
 created: 2017-10-09T16:00:19.000Z
 modified: 2018-02-28T21:15:52.000Z
 slug: liam-gallagher-as-you-were
-type: listeningparties
+type: listening-parties
 tags:
   - 2010s
   - liam gallagher
@@ -14,15 +14,11 @@ featuredimageAlt: Album artwork of 'As You Were' by Liam Gallagher
 title: "&#8220;Looks like Oaysis have competition&#8221; &#8211; André and Fred
   listen to Liam Gallagher"
 author: admin
-blurb: "\"Looks like Oaysis have competition.\" André and Fred's first
-  impressions of 'As You Were', the debut solo album by professional manc Liam
-  Gallagher."
+blurb: "\"Looks like Oaysis have competition.\" André and Fred's first impressions of 'As You Were', the debut solo album by professional manc Liam Gallagher."
 
 ---
 
-*This is part of a series in which two or more members of the Audioxide team listen to an album for the first time.&nbsp;Any instances of interest or insight are purely coincidental.*
-
-[“Wall of Glass”]
+## “Wall of Glass”
 
 **Fred**
 This was a pretty pleasant surprise when it came out
@@ -52,7 +48,7 @@ Anyway, strong start this. Easy listening pop rock
 Yeah, I like the fuzzy bass tone
 Not something I’d usually associate with Oasis/Liam either
 
-[“Bold”]
+## “Bold”
 
 **Fred**
 I think he actually wrote this one himself
@@ -65,7 +61,7 @@ I like this
 Production magic or not, his voice sounds great here
 
 **André**
-[Definitely Maybe](/reviews/oasis-definitely-maybe/) falls down on its mixing and production and this is just affirms that for me
+[Definitely Maybe](/reviews/oasis-definitely-maybe) falls down on its mixing and production and this is just affirms that for me
 You can hear everything and yet there’s still plenty of room
 This isn’t bad at all
 
@@ -78,7 +74,7 @@ For sure
 I’ll say one thing
 These first two tracks have more to them than anything from Noel’s Flying Boring Birds
 
-[“Greedy Soul”]
+## “Greedy Soul”
 
 **Fred**
 I agree, and that’s the thing isn’t it
@@ -103,11 +99,11 @@ Have you heard?
 3/3
 Not bad
 
-[“Paper Crown”]
+## “Paper Crown”
 
 **André**
 is it me
-Or is this a bit [Bowie](/reviews/david-bowie-hunky-dory/)?
+Or is this a bit [Bowie](/reviews/david-bowie-hunky-dory)?
 
 **Fred**
 It is!
@@ -126,7 +122,7 @@ I can’t say it appeals to me directly, and I’m hardly the biggest Oasis fan 
 **Fred**
 I’m with you, but it’s pretty darn solid
 
-[“For What It’s Worth”]
+## “For What It’s Worth”
 
 **André**
 Heard this too
@@ -152,7 +148,7 @@ I’d dare tell him that though
 **Fred**
 You what mate?
 
-[“When I’m in Need”]
+## “When I’m in Need”
 
 **André**
 This is a nice sonic change
@@ -181,7 +177,7 @@ I’d say though that the choice to go with a co-writer was a good one
 For sure. He’s been very open about it as well, which I appreciate
 And he does have this weird knack for a decent tune of his own from time to time
 
-[“You Better Run”]
+## “You Better Run”
 
 **André**
 The groove is a little clumsy
@@ -205,10 +201,10 @@ Apt comparison too
 Well it took us 7 songs to find a dud
 Which is better than I thought!
 
-[“I Get By”]
+## “I Get By”
 
 **André**
-This one reminds me of something like Come Together – the [Spiritualized](reviews/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/) one
+This one reminds me of something like Come Together – the [Spiritualized](reviews/spiritualized-ladies-and-gentlemen-we-are-floating-in-space) one
 It has a similar problem to the previous song though – and again his voice doesn’t suit this type of tempo.
 
 **Fred**
@@ -223,7 +219,7 @@ Vocal melodies are sore here too actually
 I think half the problem is his voice has been pulled back a little the last couple of tracks
 Like, no one’s buying this album for the instrumentals
 
-[“Chinatown”]
+## “Chinatown”
 
 **André**
 Hmm…
@@ -249,7 +245,7 @@ Slow things down a bit
 Strange one
 Could be a grower
 
-[“Come Back to Me”]
+## “Come Back to Me”
 
 **Fred**
 This is pretty Oasis-y too
@@ -263,7 +259,7 @@ Think the past few songs have worn me down a little.
 Same. Not sure the production is as good here either, for whatever reason
 That should’ve been better than it was
 
-[“Universal Gleam”]
+## “Universal Gleam”
 
 **André** 
 I just correctly predicted each chord change in the first verse
@@ -297,7 +293,7 @@ Certainly
 Bringing it home nicely here
 Right, last one
 
-[“I’ve All I Need”]
+## “I’ve All I Need”
 
 **Fred**
 Nice vibe
