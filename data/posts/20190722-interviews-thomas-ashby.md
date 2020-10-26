@@ -5,6 +5,9 @@ slug: thomas-ashby
 type: interviews
 tags:
   - thomas ashby
+  - acoustic
+  - folk
+  - blues
 featuredimage: interview-images/thomas-ashby.jpg
 featuredimageAlt: Thomas Ashby performing onstage with a guitar
 title: "Thomas Ashby: &#8216;When you’re in a studio that’s your space to be the biggest you you can be.’"
