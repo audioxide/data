@@ -16,7 +16,7 @@
     Vary = "Origin"
 
 [[headers]]
-  for = "/feed/*.html"
+  for = "/feed/*"
   [headers.values]
     Content-Type = "application/rss+xml; charset=UTF-8"
 
