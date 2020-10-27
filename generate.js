@@ -47,6 +47,7 @@ const toHTML = (md) => resolveLocalUrls(mdConverter.makeHtml(md.replace(/([^\n])
 const inputBase = './data';
 const outputBase = './dist';
 const postBase = '/posts';
+const indexedPostsBase = '/posts/indexed';
 const pageBase = '/pages';
 const imagesBase = '/images';
 const tagsBase = '/tags';
@@ -483,7 +484,7 @@ const init = async () => {
         targetPost.related = matchingTagPosts.slice(0, RELATED_POSTS).map(({ metadata }) => ({ metadata }));
     });
 
-    await Promise.all(['', postBase, pageBase, imagesBase, tagsBase, feedBase].map(dir => {
+    await Promise.all(['', postBase, indexedPostsBase, pageBase, imagesBase, tagsBase, feedBase].map(dir => {
         const checkPath = outputBase + dir;
         if (!fs.existsSync(checkPath)) {
             return fs.promises.mkdir(checkPath, { recursive: true });
@@ -496,6 +497,7 @@ const init = async () => {
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
         ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
+        ...postsArr.map((post, id) => generateResponse(post, `posts/indexed/${id}`)),
         generateResponse(data.authors, 'authors'),
         ...Object.values(data.pages).map(page => generateResponse(page, `pages/${page.metadata.slug}`)),
         generateResponse(Object.keys(tagGrouping), 'tags'),
