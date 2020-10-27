@@ -8,6 +8,8 @@ tags:
   - "27"
   - 27 plus club
   - wolf alice
+  - rock
+  - alternative rock
   - radiohead
   - kendrick lamar
   - pink floyd

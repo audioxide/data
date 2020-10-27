@@ -7,7 +7,7 @@ tags:
   - dylan seeger
   - pop 
   - 2010s
-  - independent
+  - indie
   - pink floyd
   - kendrick lamar
   - the beatles

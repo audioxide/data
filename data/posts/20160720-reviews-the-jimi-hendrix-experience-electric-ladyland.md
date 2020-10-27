@@ -34,7 +34,7 @@ colours:
 pullquote: Red-hot psychedelia
 summary: "To an extent, this is psychedelic background music, the kind only Hendrix, with his divine craft and exquisite ability, could muster. It plays like a vivid dream: beautiful, chaotic, and vigorous. This is prime Hendrix."
 week: 62
-blurb: Instinctive, messy, and rambling, with shimmers of the divine. *Electric Ladyland* speaks in a kind of rock and roll tongues, with Jimi Hendrix front and centre.
+blurb: Instinctive, messy, and rambling, with shimmers of the divine. Electric Ladyland speaks in a kind of rock and roll tongues, with Jimi Hendrix front and centre.
 artistMBID: 33b3c323-77c2-417c-a5b4-af7e6a111cc9
 albumMBID: 47ba2d59-5544-34a4-b108-dc08c0956298
 ---
