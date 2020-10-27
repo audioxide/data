@@ -496,6 +496,7 @@ const init = async () => {
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
         ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
+        ...postsArr.map((post, id) => generateResponse(post, `posts/indexed/${id}`)),
         generateResponse(data.authors, 'authors'),
         ...Object.values(data.pages).map(page => generateResponse(page, `pages/${page.metadata.slug}`)),
         generateResponse(Object.keys(tagGrouping), 'tags'),
