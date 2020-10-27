@@ -10,6 +10,8 @@ tags:
   - wolf alice
   - rock
   - alternative rock
+  - grunge
+  - pop
   - radiohead
   - kendrick lamar
   - pink floyd
@@ -44,7 +46,7 @@ artistLink: https://store.wolfalice.co.uk/
 author: ANDRÉ
 
 review: >-
-  My first listen of *Visions of a Life* was far more emotional than I had ever expected. Each of us saw great promise in Wolf Alice following [our review of their debut record](/reviews/wolf-alice-my-love-is-cool/) back in 2015. I wouldn’t have said they were destined for greatness, but the potential was undoubtedly there… and here we are. How did they get here so quickly? I have no right to feel like a proud father, yet that’s exactly how I feel. In the space of two years, Wolf Alice have elevated themselves to the best band in the UK. Not five years. Two.
+  My first listen of *Visions of a Life* was far more emotional than I had ever expected. Each of us saw great promise in Wolf Alice following [our review of their debut record](/reviews/wolf-alice-my-love-is-cool) back in 2015. I wouldn’t have said they were destined for greatness, but the potential was undoubtedly there… and here we are. How did they get here so quickly? I have no right to feel like a proud father, yet that’s exactly how I feel. In the space of two years, Wolf Alice have elevated themselves to the best band in the UK. Not five years. Two.
   
   I wrote that ‘Wolf Alice will only truly define themselves as a band once they settle on a totally refined sound’. Interestingly, *Visions of a Life* covers an even larger stretch of styles, yet their pallet is somehow distinguished further. Wolf Alice absolutely own this sound — this is *theirs*. Hints of rock’n’roll, shoegaze, grunge, and synthpop blend fluently, and it’s produced to absolute precision by Justin Meldal-Johnsen. Whereas *My Love is Cool* was guilty of trying too hard, no such thing can be said of *Visions*. The riffs roar and the melodies soar, with the band playing beautifully to Ellie Rowsell’s strengths. 
   
@@ -68,7 +70,7 @@ score:
 author: Fred
 
 review: >-
-  We all liked Wolf Alice’s debut, [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool/). We liked it very much. It was imperfect and vivid and we were all excited to hear the band grow — and my haven’t they. I think *Visions of a Life* is a masterpiece. I’m utterly infatuated with everything about it. The songs, the sound, the feel, the pacing. Everything. 
+  We all liked Wolf Alice’s debut, [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool). We liked it very much. It was imperfect and vivid and we were all excited to hear the band grow — and my haven’t they. I think *Visions of a Life* is a masterpiece. I’m utterly infatuated with everything about it. The songs, the sound, the feel, the pacing. Everything. 
   
   Genres are too small to contain what Wolf Alice achieve here. The group have talked about how they’d lived with *My Love is Cool*’s songs for years before they were put out down on record, and you could hear it. For all their character, they were almost fighting each other for attention. In *Visions of a Life* it’s clear that the songs have developed within the confines of a single creative process, and the album benefits enormously.
 
@@ -76,7 +78,7 @@ review: >-
   
   I connect with different songs every time I listen, and for different reasons. There’s a nimbleness to them that invites you to engage with something new every play. Are the songs fierce? Vulnerable? Simple? Transcendent? Depends what you’re focusing on in the moment. It’s all there, waiting to be adored. Massive props to producer Justin Meldal-Johnsen. He nailed it. The band go from punk to dreamscapes to out of orbit and the album’s continuity never falters. The threads never break, and woven together they make for something magical.
 
-  Perhaps most remarkably, I’m not even sure Wolf Alice have peaked… though I don’t mind if they have. I can live with that. They’ve already pushed into that feeling you get with [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/) or [The Beatles](/reviews/the-beatles-revolver/) where the very idea that four people can be so well suited and brush such heights together becomes its own beautiful thing. It’s just wonderful. *Visions of a Life* is everything I wanted. How often do you get everything you wanted? I’ve fallen in love with it. It rocks my world.
+  Perhaps most remarkably, I’m not even sure Wolf Alice have peaked… though I don’t mind if they have. I can live with that. They’ve already pushed into that feeling you get with [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon) or [The Beatles](/reviews/the-beatles-revolver) where the very idea that four people can be so well suited and brush such heights together becomes its own beautiful thing. It’s just wonderful. *Visions of a Life* is everything I wanted. How often do you get everything you wanted? I’ve fallen in love with it. It rocks my world.
 
 tracks:
   - Formidable Cool
@@ -92,9 +94,9 @@ score:
 author: Marcus
 
 review: >-
-  Rock releases over the past few years haven’t quite scratched the sweet spot, and there’s been somewhat of a dearth of genuinely exciting new talent. Brandon Flowers recently commented in [an interview with *Noisey*](https://noisey.vice.com/en_uk/article/mbb9n8/the-killers-arent-dead-yet) that new bands simply 'aren’t good enough' to make waves. 2017 doesn’t have an answer to [The Strokes](/reviews/the-strokes-first-impressions-of-earth/), or Interpol, he claims. Much like The Killers’ output, Flowers is both spot-on and wildly off the mark. Maybe it’s naïve of me to expect a Vegas-based musician to be familiar with a group widely earmarked as the next best British band, but if he was I’m sure he’d have held his tongue. 
+  Rock releases over the past few years haven’t quite scratched the sweet spot, and there’s been somewhat of a dearth of genuinely exciting new talent. Brandon Flowers recently commented in [an interview with *Noisey*](https://noisey.vice.com/en_uk/article/mbb9n8/the-killers-arent-dead-yet) that new bands simply 'aren’t good enough' to make waves. 2017 doesn’t have an answer to [The Strokes](/reviews/the-strokes-first-impressions-of-earth), or Interpol, he claims. Much like The Killers’ output, Flowers is both spot-on and wildly off the mark. Maybe it’s naïve of me to expect a Vegas-based musician to be familiar with a group widely earmarked as the next best British band, but if he was I’m sure he’d have held his tongue. 
   
-  Wolf Alice are, quite simply, one of the most electrifying acts going right now. [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool/) was a great debut, full of potential that was easy to notice but clearly not yet fully realized. With *Visions of a Life* that potential hasn’t quite been tapped in its entirety, but that doesn’t mean Wolf Alice haven’t put out a frontrunner for album of the year.
+  Wolf Alice are, quite simply, one of the most electrifying acts going right now. [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool) was a great debut, full of potential that was easy to notice but clearly not yet fully realized. With *Visions of a Life* that potential hasn’t quite been tapped in its entirety, but that doesn’t mean Wolf Alice haven’t put out a frontrunner for album of the year.
 
   Ellie Rowsell’s voice is utterly breathtaking. She masterfully harmonises with the ethereal synths, crunching chord progressions, and funky solitary guitar notes that punctuate many verses throughout the album. It floats in spite of its weight, with a characterful punch at every crucial moment, and feels tantamount to the band’s instrumentation in that regard. Wolf Alice, much like the Angela Carter short story their name is lifted from, feel feral and transgressive yet eerily wholesome and warm. 
   
