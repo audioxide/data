@@ -47,6 +47,7 @@ const toHTML = (md) => resolveLocalUrls(mdConverter.makeHtml(md.replace(/([^\n])
 const inputBase = './data';
 const outputBase = './dist';
 const postBase = '/posts';
+const indexedPostsBase = '/posts/indexed';
 const pageBase = '/pages';
 const imagesBase = '/images';
 const tagsBase = '/tags';
@@ -483,7 +484,7 @@ const init = async () => {
         targetPost.related = matchingTagPosts.slice(0, RELATED_POSTS).map(({ metadata }) => ({ metadata }));
     });
 
-    await Promise.all(['', postBase, pageBase, imagesBase, tagsBase, feedBase].map(dir => {
+    await Promise.all(['', postBase, indexedPostsBase, pageBase, imagesBase, tagsBase, feedBase].map(dir => {
         const checkPath = outputBase + dir;
         if (!fs.existsSync(checkPath)) {
             return fs.promises.mkdir(checkPath, { recursive: true });
