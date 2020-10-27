@@ -466,9 +466,17 @@ const init = async () => {
             const matchingTagsB = matchTagCount(b.metadata.tags);
             return matchingTagsA === matchingTagsB ? 0 : ((matchingTagsA < matchingTagsB) * 2) - 1;
         });
+        // Top up recommendations with latest posts of the same type...
+        if (matchingTagPosts.length < RELATED_POSTS) {
+            typeGrouping[targetPost.metadata.type].every(post => {
+                if (!matchingTagPosts.includes(post) && post !== targetPost) matchingTagPosts.push(post);
+                return matchingTagPosts.length < RELATED_POSTS;
+            });
+        }
+        // ...if that's not enough top up recommendations with any latest post
         if (matchingTagPosts.length < RELATED_POSTS) {
             postsArr.every(post => {
-                if (!matchingTagPosts.includes(post)) matchingTagPosts.push(post);
+                if (!matchingTagPosts.includes(post) && post !== targetPost) matchingTagPosts.push(post);
                 return matchingTagPosts.length < RELATED_POSTS;
             });
         }
