@@ -8,6 +8,7 @@ tags:
   - 2010s
   - taylor swift
   - pop
+  - country
   - lorde
   - robyn
   - janelle monae
@@ -28,7 +29,7 @@ totalscore:
 colours:
   - "#6abada"
   - "#fff4cc"
-  - "#eaa5d5"
+  - "#F9CDD4"
 pullquote: Remarkably addictive
 summary: Hip, catchy… all that stuff. Lover isn’t as expansive as Kate Bush or as daring as St. Vincent, but it is accessible and intelligent, which I think are the hallmarks of Swift at her best.
 week: 205
