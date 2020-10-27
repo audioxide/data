@@ -6,7 +6,7 @@ type: reviews
 tags:
   - "18"
   - 2020s
-  - eob
+  - ed obrien
   - alternative rock
   - thom yorke
   - radiohead
