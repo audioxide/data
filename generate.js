@@ -512,6 +512,7 @@ const init = async () => {
         generateResponse({
             pages: Object.values(data.pages).map(page => page.metadata.slug),
             postTypes: Object.keys(typeGrouping),
+            postTotal: postsArr.length,
         }, 'types'),
     ]);
 };
