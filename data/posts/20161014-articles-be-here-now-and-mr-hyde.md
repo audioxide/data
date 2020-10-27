@@ -11,10 +11,11 @@ tags:
   - david bowie
   - jefferson airplane
   - the beatles
+  - 1990s
 featuredimage: article-images/be-here-now-and-mr-hyde.jpg
 featuredimageAlt: Caricature of Liam Gallagher of Oasis
 title: "&#8216;Be Here Now&#8217; and Mr. Hyde"
-summary: Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in their third studio album.
+summary: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album
 author: fred
 blurb: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album.
 

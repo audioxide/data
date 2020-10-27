@@ -11,7 +11,7 @@ tags:
   - laura marling
   - mogwai
   - queens of the stone age
-  - Run the Jewels
+  - run the jewels
   - tyler the creator
   - wolf alice
   - 2010s
