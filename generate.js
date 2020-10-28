@@ -421,7 +421,8 @@ const init = async () => {
     const typeGrouping = {};
     // Group posts by tag
     const tagGrouping = {};
-    for (let post of postsArr) {
+    for (let id = 0; id < postsArr.length; id++) {
+        const post = postsArr[id];
         // Author resolution
         resolveAuthor(post.metadata);
         post.content.forEach(item => {
@@ -429,6 +430,9 @@ const init = async () => {
                 resolveAuthor(item);
             }
         });
+
+        // Add id to post
+        post.metadata.id = postsArr.length - 1 - id;
 
         // Type grouping
         const type = post.metadata.type;
