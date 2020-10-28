@@ -10,7 +10,6 @@ tags:
   - electronic
   - air
   - the chemical brothers
-  - fatboy slim
   - aphex twin
 featuredimage: album-artwork/the-fat-of-the-land-prodigy.jpg
 artist: The Prodigy
