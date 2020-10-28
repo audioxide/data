@@ -7,6 +7,7 @@ tags:
   - fallout
   - industrial
   - electronic
+  - the music of games
 featuredimage: article-images/the-music-of-fallout-3-vault-boy.jpg
 featuredimageAlt: Vault Boy holding an old fashioned radio
 title: "World On Fire: the Music of &#8216;Fallout 3&#8217;"
