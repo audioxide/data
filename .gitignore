@@ -4,3 +4,6 @@ dist
 
 # Local Netlify folder
 .netlify
+
+# Search index is generated
+functions/search/searchIndex.json
