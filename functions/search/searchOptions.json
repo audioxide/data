@@ -1,0 +1,18 @@
+{
+    "profile": "score",
+    "cache": true,
+    "doc": {
+        "id": "route",
+        "field": {
+            "title":  {
+                "encode": "advanced"
+            },
+            "tagStr": {
+                "encode": "advanced"
+            },
+            "content": {
+                "profile": "memory"
+            }
+        }
+    }
+}
