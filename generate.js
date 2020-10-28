@@ -322,9 +322,10 @@ const resolveAuthor = (obj) => {
     }
 }
 
-const generateSearchData = async (posts) => {
+const generateSearchData = async (posts, postTags, postTypes) => {
     const searchOptions = await fs.promises.readFile(`${searchBase}/searchOptions.json`, { encoding: 'utf8' });
     const index = new FlexSearch(JSON.parse(searchOptions));
+    const taxonomies = { tags: postTags, types: postTypes };
     posts.forEach(post => {
         const { metadata: { type, slug, title, tags }, content } = post;
         index.add({
@@ -339,7 +340,10 @@ const generateSearchData = async (posts) => {
                 .join(" "),
         });
     });
-    await fs.promises.writeFile('./functions/search/searchIndex.json', index.export());
+    await Promise.all([
+        fs.promises.writeFile(`${searchBase}/searchIndex.json`, index.export()),
+        fs.promises.writeFile(`${searchBase}/taxonomies.json`, JSON.stringify(taxonomies)),
+    ]);
 };
 
 const generateRss = (latest, types, tags) => {
@@ -520,7 +524,7 @@ const init = async () => {
     }));
 
     await Promise.all([
-        generateSearchData(postsArr),
+        generateSearchData(postsArr, Object.keys(tagGrouping), Object.keys(typeGrouping)),
         generateRss(postsArr, typeGrouping, tagGrouping),
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
