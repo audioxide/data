@@ -25,7 +25,7 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#95a49f"
+  - "#058CD0"
   - "#000000"
   - "#fff"
 pullquote: A steady, confident dance drone
@@ -34,18 +34,18 @@ week: 105
 blurb: "What The Fat of the Land lacks in diversity, it makes up for in consistency: pulsating basslines and thrilling beats, delivered with trademark Prodigy grit."
 artistMBID: 4a4ee089-93b1-4470-af9a-6ff575d32704
 albumMBID: ac9138ce-6331-3f8d-86d7-69f13e4ab4f4
-artistLink: https://theprodigy.tmstor.es/
+artistLink: https://theprodigy.tmstor.es
 
 ---
 
 author: ANDRÉ
 
 review: >-
-  When it comes to the ‘90s, opinions often sway to both extremes, but there’s no denying that it was host to a wide variety of excellent electronic music. Whilst [Aphex Twin](/reviews/aphex-twin-richard-d-james-album/) and [Air](/reviews/air-moon-safari/) were offering a calmness that was otherwise absent from dance music, [The Chemical Brothers](/reviews/the-chemical-brothers-dig-your-own-hole/>) and Fatboy Slim tapped into huge arena-rock sensibilities, propelling big beat to the very forefront of popular culture. The Prodigy, meanwhile, took one step further by applying a punk aesthetic to the electronic field, which ironically made them the most accessible and popular act of them all — at least for a period. 
+  When it comes to the ‘90s, opinions often sway to both extremes, but there’s no denying that it was host to a wide variety of excellent electronic music. Whilst [Aphex Twin](/reviews/aphex-twin-richard-d-james-album) and [Air](/reviews/air-moon-safari) were offering a calmness that was otherwise absent from dance music, [The Chemical Brothers](/reviews/the-chemical-brothers-dig-your-own-hole) and Fatboy Slim tapped into huge arena-rock sensibilities, propelling big beat to the very forefront of popular culture. The Prodigy, meanwhile, took one step further by applying a punk aesthetic to the electronic field, which ironically made them the most accessible and popular act of them all — at least for a period. 
   
   *The Fat of the Land*, their acclaimed 1997 record, is loud and boisterous; packing the visceral punch of rock and brutally blending it with bass-drenched blasts. With such theatrical production comes a sense of novelty: it’s easy to see why this thunderous noise made an impact 20 years ago, but the shock factor has slightly worn off. “Breathe” and “Firestarter” remain major highlights, whilst “Climbatize” and “Narayan” offer something smoother, and the record benefits from the change of pace, even if it’s only subtle. Despite fluctuations in intensity, the general vibe is very much the same throughout. 
   
-  What *The Fat of the Land* lacks in diversity, it makes up for in consistency: pulsating basslines and thrilling beats, polished with a grittiness that, at the time, was exclusive to The Prodigy. It doesn’t have the timelessness of records such as *Endtroducing…*, *Selected Ambient Works 85-92* or even *Moon Safari*, but *The Fat of the Land* is nonetheless an extremely accomplished dance record."
+  What *The Fat of the Land* lacks in diversity, it makes up for in consistency: pulsating basslines and thrilling beats, polished with a grittiness that, at the time, was exclusive to The Prodigy. It doesn’t have the timelessness of records like *Endtroducing…*, *Selected Ambient Works 85-92*, or even *Moon Safari*, but *The Fat of the Land* is nonetheless an extremely accomplished dance record."
 
 tracks:
   - Breathe
@@ -61,7 +61,7 @@ score:
 author: Fred
 
 review: >-
-  "*The Fat of the Land* is a very good dance album and a decent album. I don’t have the joy of dance in my heart, so it isn’t terribly useful to me, but the vibe is strong for as long as you feel inclined to not listen too closely. I always feel a little iffy about music that isn’t supposed to be heard, but the sound here is fresh and lively and has aged pretty well. 
+  "*The Fat of the Land* is a very good dance album and a decent album. I don’t have the joy of dance in my heart so it isn’t terribly useful to me, but the vibe is strong for as long as you feel inclined to not listen too closely. I always feel a little iffy about music that isn’t supposed to be heard, but the sound here is fresh and lively and has aged pretty well. 
   
   It gets better as it progresses, with “Narayan” and “Firestarter” probably edging my favourite tracks. The record is obviously a product of the late ‘90s, but it’s a good one. It has the crisp, glistening drive typical of the best that era of electronic music had to offer. The album is hardly a treasure trove, but it isn’t really trying to be; it’s a steady, confident dance drone, and on that level I recommend it heartily."
 
