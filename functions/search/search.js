@@ -13,16 +13,16 @@ const limitOpt = { limit: LIMIT };
 exports.handler = async (event, context) => {
   try {
     const term = event.queryStringParameters.term.toLowerCase();
-    const results = [];
-    results.push(...index.search(term, { field: ['title', 'tagStr'], ...limitOpt }));
+    const results = new Set();
+    index.search(term, { field: ['title', 'tagStr'], ...limitOpt }).forEach(result => results.add(result));
     if (results.length < LIMIT) {
-      results.push(...index.search(term, limitOpt));
+      index.search(term, limitOpt).forEach(result => results.add(result));
     }
     // const subject = event.queryStringParameters.name || 'World'
 
     return {
       statusCode: 200,
-      body: JSON.stringify(results.map(({ route, title }) => ({ route, title })))
+      body: JSON.stringify(Array.from(results).map(({ route, title }) => ({ route, title })))
         /* .slice(0, 10)
         .map(route => lookup[route])
         .sort((a, b) => {
