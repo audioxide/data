@@ -21,7 +21,11 @@ tags:
 featuredimage: article-images/favourite-albums-2019.jpg
 featuredimageAlt: Tyler, the Creator wearing a dashing baby blue suit and monstrous blonde wig
 title: Our 10 favourite albums of 2019
-author: admin
+author:
+  - andre
+  - fred
+  - marcus
+  - micheal
 blurb: It's the end of the year, which means we're legally obliged to round up our favourite albums. Here are our picks in the year of our Lorde 2019.
 
 ---
@@ -78,15 +82,15 @@ There’s a force of will present across the album that never relents, a confide
 
 -----
 
-### 6\. *Titanic Rising *// Weyes Blood
+## 6\. *Titanic Rising* // Weyes Blood
 
 ![Album artwork of 'Titanic Rising' by Weyes Blood](album-artwork/titanic-rising-weyes-blood.jpg "Album artwork of 'Titanic Rising' by Weyes Blood")
 
 **André**
 
-Truth be told, there were only a handful of records released this year that I was immediately captivated by. The latest project by Weyes Blood is one of the few. *Titanic Rising* is big, beautiful, and blissfully vast. It captures the essence of ’60s/’70s pop songwriting and carefully blends it with dramatic arrangements and modern electronics. It’s like listening to [The Kinks](/reviews/the-kinks-arthur/) inside a planetarium. The record sounds larger than life, yet it feels deeply personal. There are layers upon layers of sound, which only compliment the immense depths of emotion. To construct such a complex and varied album, and limit it to a lean 40 minutes, is a serious achievement. Natalie Mering crafted these songs and tasked them with lofty ambitions, those that go far beyond what you’d usually expect from chamber-pop. While it may not be flawless from beginning to end, *Titanic Rising* benefits hugely from such a strong, passionate desire to make a powerful piece of work. It stayed with me from the first listen, and will likely go down as one of the enduring records of 2019. This is Weyes Blood putting her stamp on the World, and it’s a better place for it.
+Truth be told, there were only a handful of records released this year that I was immediately captivated by. The latest project by Weyes Blood is one of the few. *Titanic Rising* is big, beautiful, and blissfully vast. It captures the essence of ’60s/’70s pop songwriting and carefully blends it with dramatic arrangements and modern electronics. It’s like listening to [The Kinks](/reviews/the-kinks-arthur) inside a planetarium. The record sounds larger than life, yet it feels deeply personal. There are layers upon layers of sound, which only compliment the immense depths of emotion. To construct such a complex and varied album, and limit it to a lean 40 minutes, is a serious achievement. Natalie Mering crafted these songs and tasked them with lofty ambitions, those that go far beyond what you’d usually expect from chamber-pop. While it may not be flawless from beginning to end, *Titanic Rising* benefits hugely from such a strong, passionate desire to make a powerful piece of work. It stayed with me from the first listen, and will likely go down as one of the enduring records of 2019. This is Weyes Blood putting her stamp on the World, and it’s a better place for it.
 
-[*Read our full review of _Titanic Rising_*](/reviews/weyes-blood-titanic-rising/>) →
+[*Read our full review of _Titanic Rising_*](/reviews/weyes-blood-titanic-rising) →
 
 -----
 
@@ -106,7 +110,7 @@ It is not sad, but wise; it may not have all the answers, but it is nevertheless
 
 -----
 
-### 4\. *All Mirrors* // Angel Olsen
+## 4\. *All Mirrors* // Angel Olsen
 
 ![Album artwork of 'All Mirrors' by Angel Olsen](album-artwork/all-mirrors-angel-olsen.jpg "Album artwork of 'All Mirrors' by Angel Olsen")
 
@@ -114,7 +118,7 @@ It is not sad, but wise; it may not have all the answers, but it is nevertheless
 
 Of all the records listed here, *All Mirrors* is the one with which I am least familiar, having only encountered it during an end-of-year cramming session in November. In my efforts to catch up with what has been written about the record, it has been curious to observe that critics have taken to describing *All Mirrors* as ‘cinematic’, as if this adjective identifies or illuminates anything specific about the record. One suspects that these references to cinema are intended to evoke a sense of scale, as this is unmistakably Olsen’s most grandiose and bombastic record to date – you know, like *My Dinner with Andre*.
 
-The gothic, baroque pop found here marks a bold departure from her previous work – which often unfairly cast her as sadness’ guitar-wielding muse – largely because of the twelve-piece string section that constitutes a fully integrated, essential competent of most every track here, as opposed to a mere embellishment or tonal bedding. Guided by the lavish compositions of Ben Babbett and Jherek Bischoff, the strings interact in violent, unexpected ways with Olsen’s remarkably malleable voice and the gauzy synth textures brought into her sonic palette by her previous record, *My Woman*. The effect is often as alarming and cacophonous as it is arresting, able to carry the full weight of the record’s outsized drama and emotion (which in turn is nurtured by the morbid, wildly melodramatic sensibility of producer John Congleton, who is best known for producing [St. Vincent’s finest records](/reviews/st-vincent-st-vincent/)).
+The gothic, baroque pop found here marks a bold departure from her previous work – which often unfairly cast her as sadness’ guitar-wielding muse – largely because of the twelve-piece string section that constitutes a fully integrated, essential competent of most every track here, as opposed to a mere embellishment or tonal bedding. Guided by the lavish compositions of Ben Babbett and Jherek Bischoff, the strings interact in violent, unexpected ways with Olsen’s remarkably malleable voice and the gauzy synth textures brought into her sonic palette by her previous record, *My Woman*. The effect is often as alarming and cacophonous as it is arresting, able to carry the full weight of the record’s outsized drama and emotion (which in turn is nurtured by the morbid, wildly melodramatic sensibility of producer John Congleton, who is best known for producing [St. Vincent’s finest records](/reviews/st-vincent-st-vincent)).
 
 It is a noisy, angry record that demands attention and shocks you into the moment, stressing Olsen’s lyrical preoccupations with anxieties and assumptions that diminish us and those we love—a preoccupation that is perhaps best articulated by the desperate, romantic final track, “Chance”: ‘It’s hard to say forever love/Forever’s just so far/Why don’t you say you’re with me now/With all of your heart?’ Certainly, when very little in our lives and in our relationships is certain, all we have is a moment that we too often fool ourselves into thinking beyond; *All Mirrors* has the clarity, the presence of mind, and, above all, the sheer force to pull us back there. What a precious gift that is.
 
