@@ -19,7 +19,7 @@ tags:
 featuredimage: album-artwork/the-universal-want-doves.jpg
 artist: Doves
 album: The Universal Want
-essentialtracks: "" 
+essentialtracks: ""
 favouritetracks:
   - For Tomorrow
   - Broken Eyes
@@ -68,7 +68,7 @@ author: Fred
 review: >-
   I think it’d be quite easy for an album like The Universal Want to sound rubbish. High paced pop rock with busy arrangements and ornate mixing is a potentially boorish combo, but Doves do an admirable job of spinning its plates. The album earns your attention and keeps hold of it without ever quite being exceptional.
 
-  If I had to sum up the album with a smug, pithy phrase — which I do — I’d probably call it plushy rock. The easy, drifting melodies and luminescent guitars are suggestive of bands like Oasis, but the inescapable neatness of everything that goes on is more like, well, [a Gallagher brother solo project](/listeningparties/liam-gallagher-as-you-were/). “For Tomorrow” probably captures this best. Though purposeful and powerful, it’s all a bit too cuddly to be proper rock and roll. Like much of the album it tries hard without necessarily being hard hitting.
+  If I had to sum up the album with a smug, pithy phrase — which I do — I’d probably call it plushy rock. The easy, drifting melodies and luminescent guitars are suggestive of bands like Oasis, but the inescapable neatness of everything that goes on is more like, well, [a Gallagher brother solo project](/listening-parties/liam-gallagher-as-you-were/). “For Tomorrow” probably captures this best. Though purposeful and powerful, it’s all a bit too cuddly to be proper rock and roll. Like much of the album it tries hard without necessarily being hard hitting.
 
   The Universal Want lands more in the realm of baroque pop, where the likes of [San Fermin](/reviews/san-fermin-jackrabbit/) roam. Motifs on tracks like “Carousel” and “Cycle of Hurt” are a real treat, with the mix offering its own pleasures whether the songs land or not. Whether that’s enough to make an album I’m not sure. I guess you could say the mood leaves me… wanting.
 

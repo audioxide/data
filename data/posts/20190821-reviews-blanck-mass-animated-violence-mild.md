@@ -41,7 +41,7 @@ artistLink: https://blanck-mass.tmstor.es/
 author: André
 
 review: >-
-  2017’s *World Eater* was a violent, volatile, and quite exhilarating record that saw Blanck Mass move further away from drone roots of Fuck Buttons, edging closer towards a complete electro-industrial project. His latest project follows a similar stylistic projectory, though not quite with the same degree of success. *Animated Violence Mild* goes for the upmost gargantuan of sounds, which is in itself is thoroughly entertaining. “Love is a Parasite” harks back to 90s-era [Marilyn Manson](/reviews/review-heaven-upside-down-marilyn-manson/), whilst the delightfully frenzied “Death Drop” blends black metal with earth-pounding electronics. There’s a lot to admire, though it can quickly become exhausting.
+  2017’s *World Eater* was a violent, volatile, and quite exhilarating record that saw Blanck Mass move further away from drone roots of Fuck Buttons, edging closer towards a complete electro-industrial project. His latest project follows a similar stylistic projectory, though not quite with the same degree of success. *Animated Violence Mild* goes for the upmost gargantuan of sounds, which is in itself is thoroughly entertaining. “Love is a Parasite” harks back to 90s-era [Marilyn Manson](/reviews/marilyn-manson-heaven-upside-down/), whilst the delightfully frenzied “Death Drop” blends black metal with earth-pounding electronics. There’s a lot to admire, though it can quickly become exhausting.
 
   *Animated Violence Mild* is impeccably produced, as one might expect. There’s no doubting the level of craft, and the vocal samples that feature in the likes of “House vs. House” and “No Dice” are a definite highlight. If the album lacks anything, it’s merely the restraint and control to offer another shade musicality. [Oneohtrix Point Never](/reviews/oneohtrix-point-never-garden-of-delete/)‘s previous two records are fine examples of experimental electronic music that manage to capture musical and emotive range, which this unfortunately lacks. Even so, *Animated Violence Mild* is an engaging, exciting and crushing experience that stimulates serious adrenaline in listeners. I’d recommend it, though not before *World Eater*, which remains his finest work.
 
@@ -81,8 +81,8 @@ author: Andrew
 review: >-
   I want to love Blanck Mass’ latest release. *Animated Violence Mild* is full of character and you have to at least marvel at the large, chaotic walls of sound that fill the tracklist. But once you’ve finished marvelling, you might be left wondering if there should be more to it.
 
-  With the cantering “Death Drop” to open proceedings, you can tell you’re in for a raucous ride. Throwing down a high-octane, driving bassline and a distorted vocal, it’s easy to see the video game vibes and [Marilyn Manson](/reviews/review-heaven-upside-down-marilyn-manson/)-esque similarities. At seven minutes, however, as the layers and ideas pile on, it ends up more confused than engaging. This spills out across most of the tracklist too, and “House Vs. House”, “Hush Money” and closer, “Wings of Hate”, are the worst offenders. 
-  
+  With the cantering “Death Drop” to open proceedings, you can tell you’re in for a raucous ride. Throwing down a high-octane, driving bassline and a distorted vocal, it’s easy to see the video game vibes and [Marilyn Manson](/reviews/review-heaven-upside-down-marilyn-manson/)-esque similarities. At seven minutes, however, as the layers and ideas pile on, it ends up more confused than engaging. This spills out across most of the tracklist too, and “House Vs. House”, “Hush Money” and closer, “Wings of Hate”, are the worst offenders.
+
   It all sounds great from a distance, and frustratingly like something I should be enjoying, even to the point where I’m reminded of the likes of Bloc Party from the late 00s. But it’s the overlapping, cacophony of sounds the listener is faced with that makes it hard to find much more in these tracks.
 
   Where I find this album shines best is the fifteen minutes towards the tail end, as “Love Is a Parasite”, “Creature/West Fuqua”, and “No Dice” make up a good portion of the second half. While the former sounds similar to the tracks that preceded it, the main theme, which breaks down into definitive stabs throughout, actually make some space for the other layers that enter later, a fully-fledged B section is given its own time rather than lumped on top of the A section. It’s noisy, it’s mechanical, but it’s far more comprehensible as a whole. “Creature/West Fuqua” is a total breath of fresh air, centring around a theme with minimal instrumentation, it makes a change to actually hear a lack of sound. “No Dice” returns to a noisier atmosphere, but it still feels sure of itself, cohesive as it revolves around a central theme, and it makes for a favourite of mine.
@@ -93,7 +93,7 @@ tracks:
   - Love Is a Parasite
   - ­­Creature/West Fuque
   - ­­No Dice
-  
+
 score:
   score: 6
   max: 10

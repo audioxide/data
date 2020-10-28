@@ -421,7 +421,8 @@ const init = async () => {
     const typeGrouping = {};
     // Group posts by tag
     const tagGrouping = {};
-    for (let post of postsArr) {
+    for (let id = 0; id < postsArr.length; id++) {
+        const post = postsArr[id];
         // Author resolution
         resolveAuthor(post.metadata);
         post.content.forEach(item => {
@@ -429,6 +430,9 @@ const init = async () => {
                 resolveAuthor(item);
             }
         });
+
+        // Add id to post
+        post.metadata.id = postsArr.length - 1 - id;
 
         // Type grouping
         const type = post.metadata.type;
@@ -497,7 +501,7 @@ const init = async () => {
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),
         ...Object.entries(typeGrouping).map(([type, posts]) => Promise.all(posts.map(post => generateResponse(post, `posts/${type}-${post.metadata.slug}`)))),
-        ...postsArr.map((post, id) => generateResponse(post, `posts/indexed/${id}`)),
+        ...postsArr.map(post => generateResponse(post, `posts/indexed/${post.metadata.id}`)),
         generateResponse(data.authors, 'authors'),
         ...Object.values(data.pages).map(page => generateResponse(page, `pages/${page.metadata.slug}`)),
         generateResponse(Object.keys(tagGrouping), 'tags'),
@@ -512,6 +516,7 @@ const init = async () => {
         generateResponse({
             pages: Object.values(data.pages).map(page => page.metadata.slug),
             postTypes: Object.keys(typeGrouping),
+            postTotal: postsArr.length,
         }, 'types'),
     ]);
 };
