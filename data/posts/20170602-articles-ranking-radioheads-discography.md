@@ -11,6 +11,7 @@ tags:
   - rock
   - electronic
   - aphex twin
+  - rankings
 featuredimage: article-images/radiohead-studio-albums-ranked.jpg
 featuredimageAlt: Radiohead performing onstage
 title: "2 + 2 = 9: Radiohead&#8217;s studio albums ranked"
