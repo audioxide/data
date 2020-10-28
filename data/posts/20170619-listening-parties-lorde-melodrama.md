@@ -6,6 +6,7 @@ type: listening-parties
 tags:
   - lorde
   - pop
+  - art pop
   - 2010s
   - bon iver
   - radiohead
@@ -13,7 +14,9 @@ tags:
 featuredimage: album-artwork/melodrama-lorde.jpg
 featuredimageAlt: Album artwork of 'Melodrama' by Lorde
 title: "“This is like a classy Disney tune” – André and Fred listen to Lorde"
-author: admin
+author:
+  - andre
+  - fred
 blurb: "“This is like a classy Disney tune” – André and Fred listen to Lorde"
 
 ---

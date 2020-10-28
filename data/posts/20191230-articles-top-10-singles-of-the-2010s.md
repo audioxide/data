@@ -17,7 +17,11 @@ tags:
 featuredimage: article-images/favourite-singles-2010s.jpg
 featuredimageAlt: Ellie Rowsell singing in front of a microphone
 title: Our 10 favourite singles of the 2010s
-author: admin
+author:
+  - marcus
+  - michael
+  - andre
+  - fred
 blurb: The decade had some doozies. Here were our favourites.
 
 ---
