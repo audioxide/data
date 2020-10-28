@@ -6,6 +6,8 @@ const read = (filename) => fs.readFileSync(path.resolve(__dirname, filename), { 
 const index = new FlexSearch(JSON.parse(read('./searchOptions.json')));
 index.import(read('./searchIndex.json'));
 
+const taxonomies = JSON.parse(read('./taxonomies.json'));
+
 const LIMIT = 10;
 const limitOpt = { limit: LIMIT };
 
@@ -18,11 +20,20 @@ exports.handler = async (event, context) => {
     if (results.length < LIMIT) {
       index.search(term, limitOpt).forEach(result => results.add(result));
     }
+    const response = {
+      results: Array.from(results).map(({ route, title }) => ({ route, title })),
+    };
+    Object.entries(taxonomies).forEach(([taxonomy, values]) => {
+      const matches = values.filter(item => item.indexOf(term) > -1);
+      if (matches.length > 0) {
+        response[taxonomy] = matches;
+      }
+    });
     // const subject = event.queryStringParameters.name || 'World'
 
     return {
       statusCode: 200,
-      body: JSON.stringify(Array.from(results).map(({ route, title }) => ({ route, title })))
+      body: JSON.stringify(response)
         /* .slice(0, 10)
         .map(route => lookup[route])
         .sort((a, b) => {
