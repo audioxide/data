@@ -62,16 +62,16 @@ score:
 author: Fred
 
 review: >-
-   I love the good Kanye, few marbles loose Kanye
-   I love the self-aware unhinged and in the groove Kanye
-   There’s also bad Kanye, the marbles lost Kanye
-   Vibes in ultralight with no real warmth Kanye
-   Uncaged the cray Kanye, light walkway dreams Kanye
-   Tsunami Silver Surfer in the flesh Kanye
-   Bleached asshole t-shirt Kanye, might still fuck Tay Kanye
-   Picasso’s scribbled shapes what they don’t say Kanye
-   It’s all ok Kanye, we’ll play the game Kanye
-   I love *Pablo* like Kanye loves Kanye
+   I love the good Kanye, few marbles loose Kanye<br>
+   I love the self-aware unhinged and in the groove Kanye<br>
+   There’s also bad Kanye, the marbles lost Kanye<br>
+   Vibes in ultralight with no real warmth Kanye<br>
+   Uncaged the cray Kanye, light walkway dreams Kanye<br>
+   Tsunami Silver Surfer in the flesh Kanye<br>
+   Bleached asshole t-shirt Kanye, might still fuck Tay Kanye<br>
+   Picasso’s scribbled shapes what they don’t say Kanye<br>
+   It’s all ok Kanye, we’ll play the game Kanye<br>
+   I love *Pablo* like Kanye loves Kanye<br>
 
 tracks:
   - I Love Kanye
