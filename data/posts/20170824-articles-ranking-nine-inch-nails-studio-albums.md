@@ -13,6 +13,7 @@ tags:
   - john lennon
   - david bowie
   - prince
+  - rankings
 featuredimage: article-images/nine-inch-nails-studio-albums-ranked.jpg
 featuredimageAlt: Trent Reznor walking through the desert wearing a black leather jacket and preparing to eat your soul
 title: "All the Pigs, All Lined Up: Nine Inch Nails&#8217; studio albums ranked"

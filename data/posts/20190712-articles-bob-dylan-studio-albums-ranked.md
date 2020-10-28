@@ -12,6 +12,7 @@ tags:
   - the jimi hendrix experience
   - elvis costello
   - u2
+  - rankings
 featuredimage: article-images/mr-tambourine-fan-bob-dylans-studio-albums-ranked.jpg
 featuredimageAlt: Photograph of Bob Dylan taken from the artwork of his album Nashville Skyline
 title: "Mr. Tambourine Fan: Bob Dylan&#8217;s studio albums ranked"
