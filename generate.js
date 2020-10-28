@@ -1,9 +1,11 @@
 const fs = require('fs');
 const nodePath = require('path');
+const { JSDOM } = require('jsdom');
 const RSS = require('rss-generator');
 const YAML = require('yaml');
 const showdown = require('showdown');
 const sharp = require('sharp');
+const FlexSearch = require('flexsearch');
 const { deburr, set, startCase, uniqueId } = require('lodash');
 
 const footnoteRefExtension = () => [
@@ -46,6 +48,7 @@ const toHTML = (md) => resolveLocalUrls(mdConverter.makeHtml(md.replace(/([^\n])
 
 const inputBase = './data';
 const outputBase = './dist';
+const searchBase = './functions/search';
 const postBase = '/posts';
 const indexedPostsBase = '/posts/indexed';
 const pageBase = '/pages';
@@ -319,6 +322,26 @@ const resolveAuthor = (obj) => {
     }
 }
 
+const generateSearchData = async (posts) => {
+    const searchOptions = await fs.promises.readFile(`${searchBase}/searchOptions.json`, { encoding: 'utf8' });
+    const index = new FlexSearch(JSON.parse(searchOptions));
+    posts.forEach(post => {
+        const { metadata: { type, slug, title, tags }, content } = post;
+        index.add({
+            route: `/${type}/${slug}`,
+            title,
+            type,
+            slug,
+            tagStr: tags.join(" "),
+            content: content
+                .map(block => typeof block === "string" ? block : block.review || block.content || block.body || "")
+                .map(html => new JSDOM(html).window.document.body.textContent)
+                .join(" "),
+        });
+    });
+    await fs.promises.writeFile('./functions/search/searchIndex.json', index.export());
+};
+
 const generateRss = (latest, types, tags) => {
     const POST_LIMIT = 10;
     const writers = [];
@@ -494,9 +517,10 @@ const init = async () => {
             return fs.promises.mkdir(checkPath, { recursive: true });
         }
         return Promise.resolve();
-    }))
+    }));
 
     await Promise.all([
+        generateSearchData(postsArr),
         generateRss(postsArr, typeGrouping, tagGrouping),
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
         generateResponse(Object.entries(typeGrouping).reduce((acc, [type, posts]) => Object.assign(acc, { [type]: posts.slice(0, 9).map(post => ({ metadata: post.metadata })) }), {}), 'latest'),

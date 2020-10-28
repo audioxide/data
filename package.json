@@ -11,7 +11,8 @@
     "dev": "yarn && node --unhandled-rejections=strict generate.js && npx http-server dist -p 8888 --cors -c-1"
   },
   "dependencies": {
-    "jsdom": "^16.2.2",
+    "flexsearch": "^0.6.32",
+    "jsdom": "^16.4.0",
     "lodash": "^4.17.15",
     "rss-generator": "^0.0.3",
     "sharp": "^0.25.3",
