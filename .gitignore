@@ -7,3 +7,4 @@ dist
 
 # Search index is generated
 functions/search/searchIndex.json
+functions/search/taxonomies.json
