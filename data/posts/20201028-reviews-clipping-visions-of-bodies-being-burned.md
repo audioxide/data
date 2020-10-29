@@ -1,17 +1,17 @@
 ---
 
-created: 2020-10-21
-modified: 2020-10-21
-slug: the-beach-boys-pet-sounds
+created: 2020-10-28
+modified: 2020-10-28
+slug: clipping-visions-of-bodies-being-burned
 type: reviews
 tags:
-  - 1960s
+  - 2020s
   - "SCORE"
-  - the beach boys
+  - clipping
   - rock
-featuredimage: album-artwork/pet-sounds-the-beach-boys.jpg
-artist: The Beach Boys
-album: Pet Sounds
+featuredimage: album-artwork/visions-of-bodies-being-burned-clipping.jpg
+artist: clipping.
+album: Visions of Bodies Being Burned
 essentialtracks: "" 
 favouritetracks:
   - For Tomorrow
@@ -22,16 +22,16 @@ totalscore:
   possible: 30
   fraction: 0.56666667
 colours:
-  - "#428d52"
-  - "#fee34c"
-  - "#fdfffc"
+  - "#000000"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A brick through the window of Bullshit Inc
 summary: There is a huge amount of musical and lyrical ingenuity to enjoy here, with strong messages and jovial piss takes. One thing is for certain, Joe Talbot is the town crier, a megaphoned voice of a generation.
 week: 250
 blurb: There is a huge amount of musical and lyrical ingenuity to enjoy here, with strong messages, jovial piss takes, and Joe Talbot as the megaphoned town crier.
-artistMBID: ebfc1398-8d96-47e3-82c3-f782abcdb13d
-albumMBID: fdd96703-7b21-365e-bdea-38029fbeb84e
-artistLink: https://shop.thebeachboys.com
+artistMBID: to-do
+albumMBID: to-do
+artistLink: http://www.clppng.com/merch
 
 ---
 
@@ -69,7 +69,7 @@ score:
 
 ---
 
-author: Marcus
+author: Andrew
 
 review: >-
   Text
