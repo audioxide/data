@@ -9,6 +9,12 @@
 [context.alpha]
   environment = { SITE_URL = "https://alpha.audioxide.com", API_URL = "https://alpha.audioxide.com/api" }
 
+[[redirects]]
+  from = "/search"
+  to = "/.netlify/functions/search"
+  status = 200
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
