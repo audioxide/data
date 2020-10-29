@@ -29,7 +29,7 @@ colours:
 pullquote: One big lovey dovey hooby dooby yeah yeah yeah jingle
 summary: The harmonies are wonderful, the instrumentation is charming, and, well, everything sounds rather bloody marvellous. There's a lot to love and little to dislike. Is it as extraordinary as so often cited? Perhaps not.
 week: 250
-blurb: The harmonies are wonderful, the instrumentation is charming, and, well, everything sounds rather bloody marvellous. There's a lot to love and little to dislike.
+blurb: The harmonies are wonderful, the instrumentation is charming, and, well, everything sounds rather bloody marvellous. Lots to love and little to dislike.
 artistMBID: ebfc1398-8d96-47e3-82c3-f782abcdb13d
 albumMBID: fdd96703-7b21-365e-bdea-38029fbeb84e
 artistLink: https://shop.thebeachboys.com
