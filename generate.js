@@ -527,6 +527,7 @@ const init = async () => {
     }));
 
     await Promise.all([
+        fs.promises.copyFile('./_redirects', `${outputBase}/_redirects`),
         generateSearchData(postsArr, Object.keys(tagGrouping), Object.keys(typeGrouping)),
         generateRss(postsArr, typeGrouping, tagGrouping),
         ...Object.entries(typeGrouping).map(([type, post]) => generateResponse(post.map(post => ({ metadata: post.metadata })), type)),
