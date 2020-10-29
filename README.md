@@ -145,7 +145,8 @@ All other links will be treated as plain URLs, although specifying `website` wil
 
 ```yaml
 ---
-name: John      # This will be used as a display name for this author
+name: John Doe      # This will be used as a display name for this author
+forename: John      # This will be used to head individual summaries on reviews
 links:          # A key-value store of links attached to this author
   twitter: sometwitterhandle        # Note that the @ character should NOT be included
   facebook: somefacebookhandle
