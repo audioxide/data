@@ -1,1 +1,1 @@
-/search  /.netlify/functions/search 200
+/search/:term  /.netlify/functions/search?term=:term 200
