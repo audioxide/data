@@ -27,7 +27,7 @@ colours:
   - "#ffffff"
 pullquote: A brick through the window of Bullshit Inc
 summary: There is a huge amount of musical and lyrical ingenuity to enjoy here, with strong messages and jovial piss takes. One thing is for certain, Joe Talbot is the town crier, a megaphoned voice of a generation.
-week: 250
+week: 251
 blurb: There is a huge amount of musical and lyrical ingenuity to enjoy here, with strong messages, jovial piss takes, and Joe Talbot as the megaphoned town crier.
 artistMBID: to-do
 albumMBID: to-do
