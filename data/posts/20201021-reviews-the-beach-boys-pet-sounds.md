@@ -26,10 +26,10 @@ colours:
   - "#428d52"
   - "#fee34c"
   - "#fdfffc"
-pullquote: A brick through the window of Bullshit Inc
-summary: The harmonies are wonderful, the instrumentation is charming, and, well, everything just sounds rather bloody marvellous. There's a lot to love, and little to dislike. Is it as extraordinary as so often cited? Perhaps not.
+pullquote: One big lovey dovey hooby dooby yeah yeah yeah jingle
+summary: The harmonies are wonderful, the instrumentation is charming, and, well, everything sounds rather bloody marvellous. There's a lot to love and little to dislike. Is it as extraordinary as so often cited? Perhaps not.
 week: 250
-blurb: The harmonies are wonderful, the instrumentation is charming, and, well, everything just sounds rather bloody marvellous. There's a lot to love, and little to dislike.
+blurb: The harmonies are wonderful, the instrumentation is charming, and, well, everything sounds rather bloody marvellous. There's a lot to love and little to dislike.
 artistMBID: ebfc1398-8d96-47e3-82c3-f782abcdb13d
 albumMBID: fdd96703-7b21-365e-bdea-38029fbeb84e
 artistLink: https://shop.thebeachboys.com
@@ -64,7 +64,7 @@ author: Fred
 review: >-
   I didn’t remember *Pet Sounds* feeling like such a transitional album. Although the music has moved on from the chummy surfer rock of the Beach Boys’ formative years, it hasn’t yet arrived at the harmony-filled halls of Brian Wilson’s imagination. It’s caught in the middle. Man-child music. 
 
-  It fits that an ad man was involved in the songwriting. *Pet Sounds* comes off like one big jingle. A lovey dovey hooby dooby yeah yeah yeah jingle. That’s by no means a bad thing, just stunted somehow. Childlike innocence can be pure... or it can be childish. For every “God Only Knows” or “Sloop John B” skipping towards the heavens there’s an “I’m Waiting for the Day” trudging along like a cheap fairground ride on a rainy day.
+  It fits that an ad man was involved in the songwriting. *Pet Sounds* comes off like a jingle. One big lovey dovey hooby dooby yeah yeah yeah jingle. That’s by no means a bad thing, just stunted somehow. Childlike innocence can be pure... or it can be childish. For every “God Only Knows” or “Sloop John B” skipping towards the heavens there’s an “I’m Waiting for the Day” trudging along like a cheap fairground ride on a rainy day.
 
   The harmonies are delightful of course, managing to float above surprisingly stilted production. Maybe this was the aha moment, but it wasn’t the arrival. Although it's certainly a lovely listen, the real magic of *Pet Sounds* was showing there was much, much more to come from the Beach Boys.
 
