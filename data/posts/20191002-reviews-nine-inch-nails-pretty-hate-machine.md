@@ -12,7 +12,7 @@ tags:
   - rock
 featuredimage: album-artwork/pretty-hate-machine-nine-inch-nails.jpg
 artist: Nine Inch Nails
-album: Pretty Hate Machine [Remastered]
+album: Pretty Hate Machine
 essentialtracks: ""
 favouritetracks:
   - Head Like A Hole
