@@ -20,11 +20,13 @@ exports.handler = async (event, context) => {
     if (results.length < LIMIT) {
       index.search(term, limitOpt).forEach(result => results.add(result));
     }
-    const response = {
-      results: Array.from(results).map(({ route, title }) => ({ route, title })),
-    };
+    const response = {};
+    const posts = Array.from(results).map(({ route, title }) => ({ route, title }));
+    if (posts.length > 0) {
+      response.posts = posts;
+    }
     Object.entries(taxonomies).forEach(([taxonomy, values]) => {
-      const matches = values.filter(item => item.indexOf(term) > -1);
+      const matches = values.filter(item => item.title.indexOf(term) > -1);
       if (matches.length > 0) {
         response[taxonomy] = matches;
       }
@@ -33,7 +35,7 @@ exports.handler = async (event, context) => {
 
     return {
       statusCode: 200,
-      body: JSON.stringify(response)
+      body: JSON.stringify(response),
         /* .slice(0, 10)
         .map(route => lookup[route])
         .sort((a, b) => {
@@ -43,7 +45,7 @@ exports.handler = async (event, context) => {
           return ((matchB > matchA) * 2) -1;
         }) ),*/
       // // more keys you can return:
-      // headers: { "headerName": "headerValue", ... },
+      headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "https://alpha.audioxide.com" },
       // isBase64Encoded: true,
     }
   } catch (err) {

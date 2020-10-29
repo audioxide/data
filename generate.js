@@ -325,7 +325,10 @@ const resolveAuthor = (obj) => {
 const generateSearchData = async (posts, postTags, postTypes) => {
     const searchOptions = await fs.promises.readFile(`${searchBase}/searchOptions.json`, { encoding: 'utf8' });
     const index = new FlexSearch(JSON.parse(searchOptions));
-    const taxonomies = { tags: postTags, types: postTypes };
+    const taxonomies = {
+        tags: postTags.map(tag => ({ title: tag, route: `/tags/${tag}` })),
+        types: postTypes.map(type => ({ title: type, route: `/${type}` })),
+    };
     posts.forEach(post => {
         const { metadata: { type, slug, title, tags }, content } = post;
         index.add({
