@@ -30,7 +30,7 @@ week: 34
 blurb: Inoffensive and unspectacular pop fodder. People will listen to it on the radio and find it agreeable and vaguely evocative and then forget it ever existed.
 artistMBID: cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493
 albumMBID: 5537624c-3d2f-4f5c-8099-df916082c85c
-artistLink: https://shop.adele.com/
+artistLink: https://shop.adele.com
 
 ---
 
@@ -58,7 +58,7 @@ author: Fred
 review: >-
   *25* is inoffensive and unspectacular pop fodder. People will listen to it on the radio and find it agreeable and vaguely evocative and no-one will be telling their grandchildren how exciting it was to be around when it was released. It’s a shame, because when it’s utilised effectively Adele has a voice like a freight train, and she’s shown herself to be an extremely capable songwriter in fits and bursts across *19* and *21*. 
   
-  Sadly, most of *25 *fails to showcase either of these gifts. “Sweetest Devotion” and “Hello” hint at a pretty great pop record that wasn’t, and there are a couple of other solid tracks besides, but most of what goes on is formulaic and flat — and all the names involved amount to little more than a collaborator of the week vibe. Par for the course in the realm of pop, but it does feel like an exceptional waste when it’s Adele’s talents that are being lost in the malaise.
+  Sadly, most of *25* fails to showcase either of these gifts. “Sweetest Devotion” and “Hello” hint at a pretty great pop record that wasn’t, and there are a couple of other solid tracks besides, but most of what goes on is formulaic and flat — and all the names involved amount to little more than a collaborator of the week vibe. Par for the course in the realm of pop, but it does feel like an exceptional waste when it’s Adele’s talents that are being lost in the malaise.
 
 tracks:
   - Sweetest Devotion
