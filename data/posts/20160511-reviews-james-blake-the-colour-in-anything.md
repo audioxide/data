@@ -8,6 +8,7 @@ tags:
   - 2010s
   - james blake
   - electronic
+  - soul
 featuredimage: album-artwork/the-colour-in-anything-james-blake.jpg
 artist: James Blake
 album: The Colour in Anything

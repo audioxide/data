@@ -11,6 +11,7 @@ tags:
   - electronic
   - aphex twin
   - nine inch nails
+  - experimental
 featuredimage: album-artwork/garden-of-delete-oneohtrix-point-never.jpg
 artist: Oneohtrix Point Never
 album: Garden of Delete

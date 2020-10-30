@@ -10,6 +10,7 @@ tags:
   - 27 plus club
   - dr dre
   - kendrick lamar
+  - experimental hip hop
 featuredimage: album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg
 artist: Kendrick Lamar
 album: To Pimp a Butterfly

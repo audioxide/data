@@ -9,6 +9,7 @@ tags:
   - "25"
   - pop
   - pop rock
+  - rock
   - michael jackson
 featuredimage: album-artwork/purple-rain-prince.jpg
 artist: Prince
