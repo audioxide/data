@@ -12,8 +12,6 @@ tags:
   - the beatles
   - the jimi hendrix experience
   - the rolling stones
-  - james blake
-  - swans
   - the avalanches
 featuredimage: album-artwork/surrealistic-pillow-jefferson-airplane.jpg
 artist: Jefferson Airplane

@@ -7,7 +7,7 @@ tags:
   - 2010s
   - "21"
   - solange
-  - rhythm and blues
+  - contemporary r&b
   - kendrick lamar
   - james blake
 featuredimage: album-artwork/a-seat-at-the-table-solange.jpg

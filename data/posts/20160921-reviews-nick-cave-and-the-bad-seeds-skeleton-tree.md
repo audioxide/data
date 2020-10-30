@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - david bowie
   - radiohead
+  - avant garde
 featuredimage: album-artwork/skeleton-tree-nick-cave-and-the-bad-seeds.jpg
 artist: Nick Cave & The Bad Seeds
 album: Skeleton Tree

@@ -8,7 +8,6 @@ tags:
   - "25"
   - nas
   - hip hop
-  - radiohead
 featuredimage: album-artwork/illmatic-nas.jpg
 artist: Nas
 album: Illmatic

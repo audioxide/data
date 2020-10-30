@@ -12,6 +12,7 @@ tags:
   - electronic
   - thom yorke
   - ed obrien
+  - art rock
 featuredimage: album-artwork/a-moon-shaped-pool-radiohead.jpg
 artist: Radiohead
 album: A Moon Shaped Pool

@@ -10,6 +10,7 @@ tags:
   - hip hop
   - pop
   - stevie wonder
+  - contemporary r&b
 featuredimage: album-artwork/channel-orange-frank-ocean.jpg
 artist: Frank Ocean
 album: Channel Orange

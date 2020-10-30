@@ -9,6 +9,7 @@ tags:
   - lianne la havas
   - pop
   - rhythm and blues
+  - contemporary r&b
 featuredimage: album-artwork/blood-lianne-la-havas.jpg
 artist: Lianne La Havas
 album: Blood
