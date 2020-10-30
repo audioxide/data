@@ -9,6 +9,7 @@ tags:
   - daft punk
   - electronic
   - radiohead
+  - disco
 featuredimage: album-artwork/discovery-daft-punk.jpg
 artist: Daft Punk
 album: Discovery

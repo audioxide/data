@@ -11,6 +11,8 @@ tags:
   - talking heads
   - david byrne
   - david bowie
+  - new wave
+  - art pop
 featuredimage: album-artwork/remain-in-light-talking-heads.jpg
 artist: Talking Heads
 album: Remain in Light

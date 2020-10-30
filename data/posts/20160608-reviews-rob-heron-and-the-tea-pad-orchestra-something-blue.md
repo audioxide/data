@@ -11,8 +11,6 @@ tags:
   - blues
   - country
   - tom waits
-  - lianne la havas
-  - savages
 featuredimage: album-artwork/something-blue-rob-heron-and-the-teapad-orchestra.jpg
 artist: Rob Heron & The Tea Pad Orchestra
 album: Something Blue

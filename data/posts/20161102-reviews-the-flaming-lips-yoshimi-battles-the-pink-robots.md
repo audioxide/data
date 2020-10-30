@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - pop rock
   - daft punk
+  - space rock
 featuredimage: album-artwork/yoshimi-battles-the-pink-robots-the-flaming-lips.jpg
 artist: The Flaming Lips
 album: Yoshimi Battles the Pink Robots

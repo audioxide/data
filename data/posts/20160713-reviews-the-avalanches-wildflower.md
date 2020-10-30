@@ -8,6 +8,7 @@ tags:
   - "21"
   - the avalanches
   - electronic
+  - disco
 featuredimage: album-artwork/wildflower-the-avalanches.jpg
 artist: The Avalanches
 album: Wildflower

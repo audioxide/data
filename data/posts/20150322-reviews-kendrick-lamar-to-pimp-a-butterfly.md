@@ -11,6 +11,7 @@ tags:
   - dr dre
   - kendrick lamar
   - experimental hip hop
+  - contemporary r&b
 featuredimage: album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg
 artist: Kendrick Lamar
 album: To Pimp a Butterfly
