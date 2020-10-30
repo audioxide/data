@@ -12,6 +12,7 @@
 [[redirects]]
   from = "/search"
   to = "/.netlify/functions/search"
+  query = {term = ":term"}
   status = 200
   force = true
 
