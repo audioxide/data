@@ -8,6 +8,8 @@ tags:
   - 1990s
   - pixies
   - alternative rock
+  - space rock
+  - surf rock
 featuredimage: album-artwork/bossanova-pixies.jpg
 artist: Pixies
 album: Bossanova

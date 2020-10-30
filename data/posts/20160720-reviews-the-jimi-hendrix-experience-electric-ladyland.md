@@ -12,8 +12,6 @@ tags:
   - queens of the stone age
   - radiohead
   - muse
-  - swans
-  - the avalanches
   - the beatles
 featuredimage: album-artwork/electric-ladyland-jimi-hendrix.jpg
 artist: The Jimi Hendrix Experience

@@ -7,6 +7,8 @@ tags:
   - 2010s
   - "23"
   - joanna newsom
+  - avant garde
+  - art pop
 featuredimage: album-artwork/divers-joanna-newsom.jpg
 artist: Joanna Newsom
 album: Divers

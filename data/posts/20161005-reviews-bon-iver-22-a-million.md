@@ -12,7 +12,7 @@ tags:
   - kanye west
   - frank ocean
   - james blake
-  - mia
+  - experimental
 featuredimage: album-artwork/22-a-million-bon-iver.jpg
 artist: Bon Iver
 album: 22, A Million

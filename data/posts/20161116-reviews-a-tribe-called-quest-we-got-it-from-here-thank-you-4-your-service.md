@@ -9,8 +9,6 @@ tags:
   - a tribe called quest
   - hip hop
   - kendrick lamar
-  - jack white
-  - bon iver
 featuredimage: album-artwork/we-got-it-from-here-thank-you-4-your-service-a-tribe-called-quest.jpg
 artist: A Tribe Called Quest
 album: We Got It from Here... Thank You 4 Your Service

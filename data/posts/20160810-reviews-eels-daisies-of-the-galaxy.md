@@ -9,6 +9,7 @@ tags:
   - eels
   - rock
   - alternative rock
+  - indie
 featuredimage: album-artwork/daisies-of-the-galaxy-eels.jpg
 artist: Eels
 album: Daisies of the Galaxy

@@ -8,6 +8,7 @@ tags:
   - "22"
   - james blake
   - electronic
+  - soul
 featuredimage: album-artwork/overgrown-james-blake.jpg
 artist: James Blake
 album: Overgrown

@@ -8,6 +8,7 @@ tags:
   - "22"
   - the chemical brothers
   - electronic
+  - big beat
 featuredimage: album-artwork/dig-your-own-hole-the-chemical-brothers.jpg
 artist: The Chemical Brothers
 album: Dig Your Own Hole

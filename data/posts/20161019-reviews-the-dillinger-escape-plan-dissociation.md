@@ -15,6 +15,7 @@ tags:
   - deftones
   - swans
   - squarepusher
+  - mathcore
 featuredimage: album-artwork/dissociation-the-dillinger-escape-plan.jpg
 artist: The Dillinger Escape Plan
 album: Dissociation
