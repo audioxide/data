@@ -9,7 +9,7 @@ tags:
   - daughters
   - david byrne
   - idles
-  - janelle monáe
+  - janelle monae
   - kurt vile
   - nine inch nails
   - robyn
