@@ -9,6 +9,9 @@ tags:
   - 27 plus club
   - david bowie
   - brian eno
+  - experimental
+  - art rock
+  - avant garde
   - kraftwerk
 featuredimage: album-artwork/low-david-bowie.jpg
 artist: David Bowie
