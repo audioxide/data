@@ -10,6 +10,7 @@ tags:
   - electronic
   - idm
   - aphex twin
+  - experimental
 featuredimage: album-artwork/damogen-furies-squarepusher.jpg
 artist: Squarepusher
 album: Damogen Furies

@@ -9,7 +9,7 @@ tags:
   - swans
   - alternative rock
   - portishead
-  - pj harvey
+  - experimental
 featuredimage: album-artwork/the-glowing-man-swans.jpg
 artist: Swans
 album: The Glowing Man

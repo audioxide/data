@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - rock
   - jazz
+  - experimental
 featuredimage: album-artwork/blackstar-david-bowie.jpg
 artist: David Bowie
 album: Blackstar

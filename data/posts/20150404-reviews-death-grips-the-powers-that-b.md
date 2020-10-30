@@ -9,6 +9,8 @@ tags:
   - death grips
   - double albums
   - industrial
+  - hip hop
+  - experimental hip hop
 featuredimage: album-artwork/the-powers-that-b-death-grips.jpg
 artist: Death Grips
 album: The Powers that B

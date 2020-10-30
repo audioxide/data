@@ -9,6 +9,7 @@ tags:
   - muse
   - rock
   - alternative rock
+  - progressive rock
 featuredimage: album-artwork/origin-of-symmetry-muse.jpg
 artist: Muse
 album: Origin of Symmetry

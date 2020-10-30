@@ -10,6 +10,7 @@ tags:
   - electronic
   - hip hop
   - jarvis cocker
+  - experimental hip hop
 featuredimage: album-artwork/martyrloserking-saul-williams.jpg
 artist: Saul Williams
 album: MartyrLoserKing

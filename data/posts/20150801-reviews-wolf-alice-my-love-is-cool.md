@@ -10,6 +10,7 @@ tags:
   - rock
   - alternative rock
   - pop rock
+  - shoegaze
 featuredimage: album-artwork/my-love-is-cool-wolf-alice.jpg
 artist: Wolf Alice
 album: My Love Is Cool

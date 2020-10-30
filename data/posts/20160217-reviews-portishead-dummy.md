@@ -8,8 +8,9 @@ tags:
   - "26"
   - portishead
   - alternative rock
-  - nine inch nails
   - beak
+  - trip hop
+  - electronic
 featuredimage: album-artwork/dummy-portishead.jpg
 artist: Portishead
 album: Dummy

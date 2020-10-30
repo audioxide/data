@@ -11,6 +11,7 @@ tags:
   - alternative rock
   - concept albums
   - pink floyd
+  - progressive rock
 featuredimage: album-artwork/the-dark-side-of-the-moon-pink-floyd.jpg
 artist: Pink Floyd
 album: The Dark Side of the Moon

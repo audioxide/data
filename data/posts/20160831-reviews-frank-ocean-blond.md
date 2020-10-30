@@ -14,6 +14,9 @@ tags:
   - kanye west
   - james blake
   - bon iver
+  - experimental
+  - contemporary r&b
+  - pop
 featuredimage: album-artwork/blonde-frank-ocean.jpg
 artist: Frank Ocean
 album: Blond

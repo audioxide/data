@@ -9,6 +9,8 @@ tags:
   - arcade fire
   - alternative rock
   - rock
+  - art rock
+  - chamber pop
 featuredimage: album-artwork/funeral-arcade-fire.jpg
 artist: Arcade Fire
 album: Funeral
