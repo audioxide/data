@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - pop rock
   - david byrne
+  - art pop
 featuredimage: album-artwork/st-vincent-st-vincent.jpg
 artist: St. Vincent
 album: St. Vincent

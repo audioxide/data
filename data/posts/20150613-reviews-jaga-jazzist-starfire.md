@@ -9,6 +9,7 @@ tags:
   - jaga jazzist
   - jazz
   - radiohead
+  - experimental
 featuredimage: album-artwork/starfire-jaga-jazzist.jpg
 artist: Jaga Jazzist
 album: Starfire

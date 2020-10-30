@@ -9,6 +9,7 @@ tags:
   - 27 plus club
   - neil young
   - rock
+  - folk
 featuredimage: album-artwork/on-the-beach-neil-young.jpg
 artist: Neil Young
 album: On the Beach

@@ -10,6 +10,8 @@ tags:
   - concept albums
   - nine inch nails
   - industrial
+  - alternative rock
+  - metal
 featuredimage: album-artwork/the-downward-spiral-nine-inch-nails.jpg
 artist: Nine Inch Nails
 album: The Downward Spiral

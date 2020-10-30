@@ -8,6 +8,7 @@ tags:
   - "22"
   - mogwai
   - post rock
+  - space rock
 featuredimage: album-artwork/atomic-mogwai.jpg
 artist: Mogwai
 album: Atomic

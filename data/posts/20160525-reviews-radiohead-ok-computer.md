@@ -15,6 +15,7 @@ tags:
   - britpop
   - oasis
   - blur
+  - art rock
 featuredimage: album-artwork/ok-computer-radiohead.jpg
 artist: Radiohead
 album: OK Computer

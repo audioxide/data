@@ -8,6 +8,7 @@ tags:
   - 2000s
   - moby
   - electronic
+  - ambient
 featuredimage: album-artwork/18-moby.jpg
 artist: Moby
 album: "18"

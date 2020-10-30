@@ -8,6 +8,7 @@ tags:
   - "26"
   - spiritualized
   - alternative rock
+  - space rock
 featuredimage: album-artwork/ladies-and-gentlemen-we-are-floating-in-space-spiritualized.jpg
 artist: Spiritualized
 album: Ladies and Gentleman We Are Floating in Space
