@@ -10,6 +10,7 @@ tags:
   - bjork
   - idm
   - art pop
+  - electronic
 featuredimage: album-artwork/homogenic-bjork.jpg
 artist: Björk
 album: Homogenic

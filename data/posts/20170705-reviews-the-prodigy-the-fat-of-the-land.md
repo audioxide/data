@@ -11,6 +11,7 @@ tags:
   - air
   - the chemical brothers
   - aphex twin
+  - bigbeat
 featuredimage: album-artwork/the-fat-of-the-land-prodigy.jpg
 artist: The Prodigy
 album: The Fat of the Land

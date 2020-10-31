@@ -9,6 +9,7 @@ tags:
   - godspeed you black emperor
   - post rock
   - fallout
+  - experimental
 featuredimage: album-artwork/f-sharp-a-sharp-infinity-godspeed-you-black-emperor.jpg
 artist: Godspeed You! Black Emperor
 album: F♯ A♯ ∞

@@ -9,11 +9,11 @@ tags:
   - grandaddy
   - alternative rock
   - indie
-  - a tribe called quest
   - weezer
   - blur
   - eels
   - pink floyd
+  - space rock
 featuredimage: album-artwork/last-place-grandaddy.jpg
 artist: Grandaddy
 album: Last Place

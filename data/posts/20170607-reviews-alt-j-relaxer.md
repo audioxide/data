@@ -11,6 +11,7 @@ tags:
   - folk
   - modest mouse
   - wolf alice
+  - pop
 featuredimage: album-artwork/relaxer-alt-j.jpg
 artist: alt-J
 album: Relaxer

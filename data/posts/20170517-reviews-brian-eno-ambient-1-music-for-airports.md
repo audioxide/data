@@ -11,6 +11,8 @@ tags:
   - aphex twin
   - david bowie
   - pink floyd
+  - ambient
+  - experimental 
 featuredimage: album-artwork/ambient-1-music-for-airports-brian-eno.jpg
 artist: Brian Eno
 album: "Ambient 1: Music for Airports"

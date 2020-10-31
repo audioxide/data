@@ -9,6 +9,8 @@ tags:
   - san fermin
   - pop
   - art pop
+  - indie
+  - chamber pop
 featuredimage: album-artwork/belong-san-fermin.jpg
 artist: San Fermin
 album: Belong

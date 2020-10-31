@@ -10,6 +10,7 @@ tags:
   - industrial
   - nine inch nails
   - david bowie
+  - alternative rock
 featuredimage: album-artwork/heaven-upside-down-marilyn-manson.jpg
 artist: Marilyn Manson
 album: Heaven Upside Down

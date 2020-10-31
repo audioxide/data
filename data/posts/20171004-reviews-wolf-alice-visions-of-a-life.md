@@ -13,10 +13,10 @@ tags:
   - grunge
   - pop
   - radiohead
-  - kendrick lamar
   - pink floyd
   - the beatles
   - the strokes
+  - shoegaze
 featuredimage: album-artwork/visions-of-a-life-wolf-alice.jpg
 artist: Wolf Alice
 album: Visions of a Life

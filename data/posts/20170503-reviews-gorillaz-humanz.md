@@ -8,6 +8,7 @@ tags:
   - 2010s
   - gorillaz
   - pop
+  - hip hop
 featuredimage: album-artwork/humanz-gorillaz.jpg
 artist: Gorillaz
 album: Humanz
