@@ -11,6 +11,7 @@ tags:
   - indie
   - prince
   - lcd soundsystem
+  - art pop
 featuredimage: album-artwork/hissing-fauna-are-you-the-destroyer-of-montreal.jpg
 artist: of Montreal
 album: Hissing Fauna, Are You the Destroyer?

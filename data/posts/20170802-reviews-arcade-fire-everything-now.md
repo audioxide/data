@@ -10,7 +10,6 @@ tags:
   - pop
   - pop rock
   - disco
-  - thom yorke
 featuredimage: album-artwork/everything-now-arcade-fire.jpg
 artist: Arcade Fire
 album: Everything Now

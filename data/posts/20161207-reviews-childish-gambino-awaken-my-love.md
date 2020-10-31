@@ -7,6 +7,10 @@ tags:
   - "19"
   - 2010s
   - childish gambino
+  - contemporary r&b
+  - soul
+  - funk
+  - psychedelia 
 featuredimage: album-artwork/awaken-my-love-childish-gambino.jpg
 artist: Childish Gambino
 album: '"Awaken, My Love!"'

@@ -13,6 +13,8 @@ tags:
   - pink floyd
   - taylor swift
   - lorde
+  - art pop
+  - new wave
 featuredimage: album-artwork/masseducation-st-vincent.jpg
 artist: St. Vincent
 album: Masseduction

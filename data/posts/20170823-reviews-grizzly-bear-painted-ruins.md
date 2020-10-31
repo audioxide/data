@@ -9,6 +9,7 @@ tags:
   - grizzly bear
   - alternative rock
   - jefferson airplane
+  - art rock
 featuredimage: album-artwork/painted-ruins-grizzly-bear.jpg
 artist: Grizzly Bear
 album: Painted Ruins

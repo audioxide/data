@@ -8,6 +8,7 @@ tags:
   - "24"
   - nirvana
   - grunge
+  - alternative rock
 featuredimage: album-artwork/in-utero-nirvana.jpg
 artist: Nirvana
 album: In Utero
