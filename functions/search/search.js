@@ -21,7 +21,9 @@ const limitOpt = { limit: LIMIT };
 // Docs on event and context https://www.netlify.com/docs/functions/#the-handler-method
 exports.handler = async (event, context) => {
   const { headers: { origin } } = event;
-  if (!domains.includes(origin) && (typeof origin !== 'string' || !origin.endsWith(netlifyDomainSuffix))) {
+  if (!domains.includes(origin)
+  && (typeof origin !== 'string' || !origin.endsWith(netlifyDomainSuffix))
+  && process.env.ALLOW_LOCALHOST !== "true") {
     return {
       statusCode: 401,
       body: "{}",
