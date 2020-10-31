@@ -35,7 +35,7 @@ exports.handler = async (event, context) => {
 
     return {
       statusCode: 200,
-      body: JSON.stringify(response),
+      body: JSON.stringify({ event, response }),
         /* .slice(0, 10)
         .map(route => lookup[route])
         .sort((a, b) => {
@@ -45,7 +45,7 @@ exports.handler = async (event, context) => {
           return ((matchB > matchA) * 2) -1;
         }) ),*/
       // // more keys you can return:
-      headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "https://alpha.audioxide.com" },
+      headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
       // isBase64Encoded: true,
     }
   } catch (err) {
