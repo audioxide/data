@@ -8,6 +8,7 @@ tags:
   - 2010s
   - eels
   - alternative rock
+  - indie
 featuredimage: album-artwork/the-deconstruction-eels.jpg
 artist: Eels
 album: The Deconstruction

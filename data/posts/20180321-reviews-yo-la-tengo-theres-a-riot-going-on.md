@@ -9,6 +9,7 @@ tags:
   - yo la tengo
   - folk
   - alternative rock
+  - indie
 featuredimage: album-artwork/theres-a-riot-going-on-yo-la-tengo.jpg
 artist: Yo La Tengo
 album: There's a Riot Going On

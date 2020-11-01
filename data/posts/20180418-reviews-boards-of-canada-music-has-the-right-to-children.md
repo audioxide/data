@@ -10,6 +10,8 @@ tags:
   - electronic
   - aphex twin
   - brian eno
+  - downtempo
+  - ambient
 featuredimage: album-artwork/music-has-the-right-to-children-boards-of-canada.jpg
 artist: Boards of Canada
 album: Music Has the Right to Children

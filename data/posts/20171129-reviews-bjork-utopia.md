@@ -10,6 +10,8 @@ tags:
   - electronic
   - art pop
   - james blake
+  - experimental
+  - IDM
 featuredimage: album-artwork/utopia-bjork.jpg
 artist: "Björk "
 album: Utopia

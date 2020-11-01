@@ -8,6 +8,8 @@ tags:
   - 1990s
   - unkle
   - electronic
+  - trip hop
+  - alternative rock
   - beastie boys
   - thom yorke
   - richard ashcroft

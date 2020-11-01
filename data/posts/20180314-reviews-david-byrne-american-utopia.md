@@ -11,6 +11,7 @@ tags:
   - radiohead
   - david bowie
   - talking heads
+  - art rock
 featuredimage: album-artwork/american-utopia-david-byrne.jpg
 artist: David Byrne
 album: American Utopia

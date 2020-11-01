@@ -8,9 +8,9 @@ tags:
   - "23"
   - idles
   - punk
+  - post punk
   - savages
   - jehnny beth
-  - foals
 featuredimage: album-artwork/joy-as-an-act-of-resistance-idles.jpg
 artist: Idles
 album: Joy as an Act of Resistance
