@@ -14,6 +14,8 @@ tags:
   - grunge
   - psychedelia
   - post rock
+  - space rock
+  - art rock
   - grandaddy
   - pixies
   - talking heads

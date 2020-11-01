@@ -8,6 +8,8 @@ tags:
   - "22"
   - jpegmafia
   - electronic
+  - experimental
+  - danny brown
   - hip hop
 featuredimage: album-artwork/all-my-heroes-are-cornballs-jpegmafia.jpg
 artist: JPEGMAFIA

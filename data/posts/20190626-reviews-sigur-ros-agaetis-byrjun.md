@@ -7,8 +7,11 @@ tags:
   - 1990s
   - "22"
   - sigur ros
-  - electronic
   - spiritualized
+  - post rock
+  - ambient
+  - shoegaze
+  - art rock
 featuredimage: album-artwork/agaetis-byrjun-sigur-ros.jpg
 artist: Sigur Rós
 album: Ágætis byrjun

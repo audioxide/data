@@ -8,6 +8,7 @@ tags:
   - 2010s
   - lightning bolt
   - rock
+  - noise rock
 featuredimage: album-artwork/sonic-citadel-lightning-bolt.jpg
 artist: Lightning Bolt
 album: Sonic Citadel

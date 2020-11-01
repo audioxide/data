@@ -8,7 +8,6 @@ tags:
   - 1980s
   - faith no more
   - rock
-  - jazz
   - queen
 featuredimage: album-artwork/the-real-thing-faith-no-more.jpg
 artist: Faith No More

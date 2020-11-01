@@ -9,7 +9,6 @@ tags:
   - david bowie
   - pop
   - pop rock
-  - alternative rock
 featuredimage: album-artwork/hunky-dory-david-bowie.jpg
 artist: David Bowie
 album: Hunky Dory

@@ -12,6 +12,7 @@ tags:
   - radiohead
   - blur
   - laura marling
+  - electronic
 featuredimage: album-artwork/earth-eob.jpg
 artist: EOB
 album: Earth

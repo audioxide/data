@@ -10,7 +10,7 @@ tags:
   - electronic
   - vampire weekend
   - air
-  - david bowie
+  - ambient
 featuredimage: album-artwork/weather-tycho.jpg
 artist: Tycho
 album: Weather

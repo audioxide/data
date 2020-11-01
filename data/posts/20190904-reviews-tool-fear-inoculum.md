@@ -9,6 +9,7 @@ tags:
   - tool
   - metal
   - godspeed you black emperor
+  - progressive rock
 featuredimage: album-artwork/fear-inoculum-tool.jpg
 artist: Tool
 album: Fear Inoculum

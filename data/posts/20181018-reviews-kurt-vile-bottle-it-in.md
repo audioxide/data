@@ -11,6 +11,7 @@ tags:
   - alternative rock
   - the jimi hendrix experience
   - psychedelia
+  - indie
 featuredimage: album-artwork/bottle-it-in-kurt-vile.jpg
 artist: Kurt Vile
 album: Bottle It In

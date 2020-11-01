@@ -14,8 +14,7 @@ tags:
   - britpop
   - rock
   - pop rock
-  - nine inch nails
-  - rock
+  - muse
 featuredimage: album-artwork/parachutes-coldplay.jpg
 artist: Coldplay
 album: Parachutes
