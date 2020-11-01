@@ -9,6 +9,7 @@ tags:
   - first aid kit
   - country
   - the simpsons
+  - folk
 featuredimage: album-artwork/ruins-first-aid-kit.jpg
 artist: First Aid Kit
 album: Ruins

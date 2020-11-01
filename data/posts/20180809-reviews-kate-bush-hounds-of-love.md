@@ -15,7 +15,6 @@ tags:
   - the legend of zelda
   - david bowie
   - michael jackson
-  - public image ltd
 featuredimage: album-artwork/hounds-of-love-kate-bush.jpg
 artist: Kate Bush
 album: Hounds of Love

@@ -10,6 +10,7 @@ tags:
   - hip hop
   - eminem
   - kendrick lamar
+  - nwa
 featuredimage: album-artwork/compton-dr-dre.jpg
 artist: Dr. Dre
 album: Compton

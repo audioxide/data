@@ -11,6 +11,7 @@ tags:
   - pop
   - air
   - pink floyd
+  - synth pop
 featuredimage: album-artwork/little-dark-age-mgmt.jpg
 artist: MGMT
 album: Little Dark Age
