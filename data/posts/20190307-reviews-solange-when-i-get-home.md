@@ -7,7 +7,7 @@ tags:
   - "17"
   - 2010s
   - solange
-  - rhythm and blues
+  - contemporary r&b
 featuredimage: album-artwork/when-i-get-home-solange.jpg
 artist: Solange
 album: When I Get Home

@@ -17,6 +17,7 @@ tags:
   - godspeed you black emperor
   - mogwai
   - led zeppelin
+  - stoner rock
 featuredimage: album-artwork/nothing-as-the-ideal-all-them-witches.jpg
 artist: All Them Witches
 album: Nothing as the Ideal

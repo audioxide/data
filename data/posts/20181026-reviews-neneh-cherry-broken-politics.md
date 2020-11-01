@@ -11,6 +11,8 @@ tags:
   - joanna newsom
   - solange
   - bjork
+  - trip hop
+  - soul
 featuredimage: album-artwork/broken-politics-neneh-cherry.jpg
 artist: Neneh Cherry
 album: Broken Politics

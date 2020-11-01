@@ -16,6 +16,8 @@ tags:
   - st vincent
   - janelle monae
   - james blake
+  - experimental
+  - electronic
 featuredimage: album-artwork/magdalene-fka-twigs.jpg
 artist: FKA Twigs
 album: MAGDALENE

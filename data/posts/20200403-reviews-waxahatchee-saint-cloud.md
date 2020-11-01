@@ -10,6 +10,7 @@ tags:
   - country
   - julia jacklin
   - courtney barnett
+  - indie
 featuredimage: album-artwork/saint-cloud-waxahatchee.jpg
 artist: Waxahatchee
 album: Saint Cloud

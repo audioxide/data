@@ -9,13 +9,14 @@ tags:
   - grandaddy
   - indie
   - alternative rock
-  - pop
+  - pop rock
   - radiohead
   - weezer
   - neil young
   - pixies
   - spiritualized
   - the flaming lips
+  - space rock
 featuredimage: album-artwork/the-sophtware-slump-grandaddy.jpg
 artist: Grandaddy
 album: The Sophtware Slump

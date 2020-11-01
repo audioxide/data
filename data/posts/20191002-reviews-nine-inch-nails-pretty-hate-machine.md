@@ -9,7 +9,8 @@ tags:
   - nine inch nails
   - industrial
   - pop
-  - rock
+  - alternative rock
+  - synth pop
 featuredimage: album-artwork/pretty-hate-machine-nine-inch-nails.jpg
 artist: Nine Inch Nails
 album: Pretty Hate Machine

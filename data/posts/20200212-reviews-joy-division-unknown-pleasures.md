@@ -10,7 +10,6 @@ tags:
   - post punk
   - radiohead
   - nine inch nails
-  - vince staples
   - new order
 featuredimage: album-artwork/unknown-pleasures-joy-division.jpg
 artist: Joy Division

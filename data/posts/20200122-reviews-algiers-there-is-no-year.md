@@ -12,6 +12,9 @@ tags:
   - clipping
   - nine inch nails
   - radiohead
+  - experimental
+  - post punk
+  - soul 
 featuredimage: album-artwork/there-is-no-year-algiers.jpg
 artist: Algiers
 album: There Is No Year
