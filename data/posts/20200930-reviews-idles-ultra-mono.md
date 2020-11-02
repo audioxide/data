@@ -64,7 +64,7 @@ score:
 author: Fred
 
 review: >-
-  IDLES are back, Terminator style. Screaming, thumping, taking names, *Ultra Mono* feels like a booster shot for the band; it’s nothing new, but more of a good thing is hard to argue with. Joe on fine form, as you’d expect, with tracks like “Model Village” providing a welcome fix. All in all the album listens like another brick thrown through the window of Bullshit Inc.
+  IDLES are back, Terminator style. Screaming, thumping, taking names, *Ultra Mono* feels like a booster shot from the band; it’s nothing new, but more of a good thing is hard to argue with. Joe Tablot is on fine form, as you’d expect, with tracks like “Model Village” providing a particularly welcome fix. All in all the album listens like another brick thrown through the window of Bullshit Inc.
 
   For all its snarling punk credentials the album does seem a smidge comfortable compared to previous projects. Several tracks lack behind, and the production lacks a certain edge.  No instrumentals on *Ultra Mono* are as thunderous as “Divide & Conquer” or as biting as “Great”. There are shades of evolution – “Grounds” hits a kind of funk punk groove, for example – but the album captures a band feeling confident rather than enterprising. That’s fine by me.
 
