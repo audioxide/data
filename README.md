@@ -1,6 +1,6 @@
 # audioxide-data
 
-This repository stores the data and generator for the Audioxide API.
+This repository stores the data for the Audioxide API.
 
 ## Layout
 
@@ -176,3 +176,7 @@ Files will only be reduced and cropped and will not be enlarged if they are smal
     - The product of this repository is hosted by Netlify. We use their configuration file format to provide data access only to websites on the audioxide.com domain or subdomains.
 - `./api`
     - This used the Wordpress API to pull data as part of the initial data import.
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/), and the source code in the `functions` directory, used for data interactivity is licensed under the [MIT license](https://spdx.org/licenses/MIT.html).
