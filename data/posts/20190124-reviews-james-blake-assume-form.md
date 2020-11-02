@@ -10,6 +10,7 @@ tags:
   - electronic
   - pop
   - moses sumney
+  - hip hop
 featuredimage: album-artwork/assume-form-james-blake.jpg
 artist: James Blake
 album: Assume Form

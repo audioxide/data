@@ -9,7 +9,6 @@ tags:
   - vampire weekend
   - indie
   - pop
-  - stevie wonder
   - double albums
   - the beatles
   - eels 

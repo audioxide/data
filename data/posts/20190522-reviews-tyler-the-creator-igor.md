@@ -9,6 +9,9 @@ tags:
   - tyler the creator
   - hip hop
   - frank ocean
+  - funk
+  - soul
+  - contemporary r&b
 featuredimage: album-artwork/igor-tyler-the-creator.jpg
 artist: Tyler, the Creator
 album: IGOR

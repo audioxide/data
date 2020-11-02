@@ -10,6 +10,8 @@ tags:
   - kendrick lamar
   - hip hop
   - flying lotus
+  - contemporary r&b
+  - jazz fusion
 featuredimage: album-artwork/it-is-what-it-is-thundercat.jpg
 artist: Thundercat
 album: It Is What It Is

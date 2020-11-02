@@ -8,8 +8,9 @@ tags:
   - "22"
   - low
   - electronic
+  - ambient
+  - experimental
   - bon iver
-  - sophie
   - alt j
 featuredimage: album-artwork/double-negative-low.jpg
 artist: Low

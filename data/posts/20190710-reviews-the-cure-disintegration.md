@@ -9,6 +9,7 @@ tags:
   - the cure
   - alternative rock
   - kendrick lamar
+  - new wave
 featuredimage: album-artwork/disintegration-the-cure.jpg
 artist: The Cure
 album: Disintegration

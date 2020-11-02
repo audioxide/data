@@ -10,8 +10,6 @@ tags:
   - folk
   - acoustic
   - bob dylan
-  - portishead
-  - gorillaz
 featuredimage: album-artwork/semper-femina-laura-marling.jpg
 artist: Laura Marling
 album: Semper Femina

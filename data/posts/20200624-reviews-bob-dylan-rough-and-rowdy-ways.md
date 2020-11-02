@@ -11,9 +11,7 @@ tags:
   - rock
   - blues
   - kendrick lamar
-  - spiritualized
   - neil young
-  - run the jewels
 featuredimage: album-artwork/rough-and-rowdy-ways-bob-dylan.jpg
 artist: Bob Dylan
 album: Rough and Rowdy Ways

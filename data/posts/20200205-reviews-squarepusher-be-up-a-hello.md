@@ -11,7 +11,7 @@ tags:
   - electronic
   - boards of canada
   - aphex twin
-  - eels
+  - ambient
 featuredimage: album-artwork/be-up-a-hello-squarepusher.jpg
 artist: Squarepusher
 album: Be Up A Hello

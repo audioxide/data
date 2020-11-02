@@ -9,6 +9,7 @@ tags:
   - nick cave and the bad seeds
   - alternative rock
   - electronic
+  - ambient
 featuredimage: album-artwork/ghosteen-nick-cave-and-the-bad-seeds.jpg
 artist: Nick Cave & the Bad Seeds
 album: Ghosteen

@@ -7,8 +7,8 @@ tags:
   - "19"
   - 2010s
   - drenge
+  - grunge
   - alternative rock
-  - public image ltd
   - idles
   - arctic monkeys
 featuredimage: album-artwork/strange-creatures-drenge.jpg

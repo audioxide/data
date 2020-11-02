@@ -13,6 +13,7 @@ tags:
   - marilyn manson
   - nine inch nails
   - sophie
+  - experimental
 featuredimage: album-artwork/animated-violence-mild-blanck-mass.jpg
 artist: Blanck Mass
 album: Animated Violence Mild

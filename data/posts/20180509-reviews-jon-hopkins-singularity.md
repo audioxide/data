@@ -10,6 +10,7 @@ tags:
   - electronic
   - brian eno
   - boards of canada
+  - ambient
 featuredimage: album-artwork/singularity-jon-hopkins.jpg
 artist: Jon Hopkins
 album: Singularity

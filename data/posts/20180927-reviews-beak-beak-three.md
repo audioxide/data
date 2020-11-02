@@ -10,6 +10,8 @@ tags:
   - alternative rock
   - portishead
   - oh sees
+  - trip hop
+  - experimental
 featuredimage: album-artwork/beak-three-beak.jpg
 artist: BEAK>
 album: ">>>"

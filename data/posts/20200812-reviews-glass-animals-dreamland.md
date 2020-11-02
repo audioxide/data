@@ -11,6 +11,8 @@ tags:
   - pop
   - electronic
   - dr dre
+  - psychedelia
+  - art pop
 featuredimage: album-artwork/dreamland-glass-animals.jpg
 artist: Glass Animals
 album: Dreamland

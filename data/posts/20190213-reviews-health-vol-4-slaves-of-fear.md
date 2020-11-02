@@ -9,6 +9,7 @@ tags:
   - health
   - industrial
   - nine inch nails
+  - noise rock
 featuredimage: album-artwork/vol-4-slaves-of-fear-health.jpg
 artist: HEALTH
 album: "Vol. 4 :: Slaves of Fear"

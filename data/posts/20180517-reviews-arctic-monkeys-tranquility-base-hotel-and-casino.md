@@ -12,6 +12,7 @@ tags:
   - jarvis cocker
   - pink floyd
   - david bowie
+  - lounge pop
 featuredimage: album-artwork/tranquility-base-hotel-and-casino-arctic-monkeys.jpg
 artist: Arctic Monkeys
 album: Tranquility Base Hotel & Casino

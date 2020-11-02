@@ -11,6 +11,7 @@ tags:
   - stevie wonder
   - kendrick lamar
   - frank ocean
+  - contemporary r&b
 featuredimage: album-artwork/ventura-anderson-paak.jpg
 artist: Anderson .Paak
 album: Ventura

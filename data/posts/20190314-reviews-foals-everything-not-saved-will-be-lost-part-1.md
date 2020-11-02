@@ -8,7 +8,6 @@ tags:
   - 2010s
   - foals
   - indie
-  - disco
   - alternative rock
   - blur
   - arcade fire

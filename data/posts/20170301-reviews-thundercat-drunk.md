@@ -8,6 +8,9 @@ tags:
   - 2010s
   - thundercat
   - kendrick lamar
+  - contemporary r&b
+  - jazz
+  - jazz fusion
 featuredimage: album-artwork/drunk-thundercat.jpg
 artist: Thundercat
 album: Drunk

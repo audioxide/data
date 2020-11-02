@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - rock
   - the kinks
+  - folk
 featuredimage: album-artwork/let-england-shake-pj-harvey.jpg
 artist: PJ Harvey
 album: Let England Shake

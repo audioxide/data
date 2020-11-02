@@ -8,6 +8,7 @@ tags:
   - 2010s
   - red fang
   - metal
+  - stoner rock
   - queens of the stone age
   - godspeed you black emperor
 featuredimage: album-artwork/murder-the-mountains-red-fang.jpg

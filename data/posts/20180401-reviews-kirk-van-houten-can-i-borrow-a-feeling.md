@@ -8,8 +8,6 @@ tags:
   - "20"
   - kirk van houten
   - the simpsons
-  - nine inch nails
-  - pixies
   - blues
 featuredimage: album-artwork/can-i-borrow-a-feeling-kirk-van-houten.jpg
 artist: Kirk Van Houten

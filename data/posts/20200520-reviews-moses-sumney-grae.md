@@ -19,6 +19,8 @@ tags:
   - james blake
   - lianne la havas
   - bjork
+  - contemporary r&b
+  - experimental
 featuredimage: album-artwork/grae-moses-sumney.jpg
 artist: Moses Sumney
 album: Græ

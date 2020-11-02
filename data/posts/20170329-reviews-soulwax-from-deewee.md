@@ -8,6 +8,7 @@ tags:
   - 2010s
   - soulwax
   - kraftwerk
+  - synth pop
 featuredimage: album-artwork/from-deewee-soulwax.jpg
 artist: Soulwax
 album: From Deewee
