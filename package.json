@@ -1,23 +1,13 @@
 {
   "name": "audioxide-data",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Pre-baked data for the Audioxide website",
-  "main": "index.json",
-  "repository": "https://github.com/andrewbridge/audioxide-data",
-  "author": "Andrew Bridge <andrew@andrewhbridge.co.uk>",
-  "license": "CC-BY-NC-SA-4.0",
-  "private": false,
-  "scripts": {
-    "dev": "yarn && node --unhandled-rejections=strict generate.js && npx http-server dist -p 8888 --cors -c-1"
-  },
-  "dependencies": {
-    "flexsearch": "^0.6.32",
-    "jsdom": "^16.4.0",
-    "lodash": "^4.17.15",
-    "rss-generator": "^0.0.3",
-    "sharp": "^0.25.3",
-    "showdown": "^1.9.1",
-    "wpapi": "^1.2.1",
-    "yaml": "^1.9.2"
-  }
+  "repository": "https://github.com/audioxide/data",
+  "contributors": [
+    "Andrew Bridge <andrew@andrewhbridge.co.uk> (https://github.com/andrewbridge)",
+    "Frederick O'Brien (https://github.com/frederickobrien)",
+    "André Dack (https://github.com/AndreDack)"
+  ],
+  "license": "CC-BY-NC-ND-4.0",
+  "private": false
 }
