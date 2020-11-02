@@ -9,6 +9,7 @@ tags:
   - weyes blood
   - pop
   - art pop
+  - chamber pop
   - julia jacklin
   - courtney barnett
   - muse

@@ -10,12 +10,7 @@ tags:
   - post punk
   - alternative rock
   - joy division
-  - blur
-  - britpop
-  - radiohead
-  - the verve
-  - new order
-  - tom waits
+  - public image ltd
 featuredimage: album-artwork/this-nations-saving-grace-the-fall.jpg
 artist: The Fall
 album: This Nation's Saving Grace

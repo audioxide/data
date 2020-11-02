@@ -8,6 +8,8 @@ tags:
   - "23"
   - clipping
   - hip hop
+  - industrial
+  - nine inch nails
   - electronic
   - eminem
   - low

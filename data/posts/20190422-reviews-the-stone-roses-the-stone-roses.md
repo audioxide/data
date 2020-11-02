@@ -9,9 +9,9 @@ tags:
   - the stone roses
   - rock
   - alternative rock
-  - spiritualized
   - the beatles
   - jefferson airplane
+  - oasis
 featuredimage: album-artwork/the-stone-roses-the-stone-roses.jpg
 artist: The Stone Roses
 album: The Stone Roses

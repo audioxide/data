@@ -11,6 +11,7 @@ tags:
   - wolf alice
   - nirvana
   - pixies
+  - noise rock
 featuredimage: album-artwork/daydream-nation-sonic-youth.jpg
 artist: Sonic Youth
 album: Daydream Nation

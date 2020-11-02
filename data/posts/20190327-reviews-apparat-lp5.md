@@ -11,7 +11,6 @@ tags:
   - thom yorke
   - radiohead
   - jon hopkins
-  - bon iver
 featuredimage: album-artwork/lp5-apparat.jpg
 artist: Apparat
 album: LP5

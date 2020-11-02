@@ -9,6 +9,7 @@ tags:
   - queens of the stone age
   - rock
   - alternative rock
+  - stoner rock
 featuredimage: album-artwork/queens-of-the-stone-age-queens-of-the-stone-age.jpg
 artist: Queens of the Stone Age
 album: Queens of the Stone Age

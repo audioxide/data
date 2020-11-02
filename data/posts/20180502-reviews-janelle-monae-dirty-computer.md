@@ -12,6 +12,7 @@ tags:
   - anderson paak
   - lorde
   - prince
+  - contemporary r&b
 featuredimage: album-artwork/dirty-computer-janelle-monae.jpg
 artist: Janelle Monáe
 album: Dirty Computer

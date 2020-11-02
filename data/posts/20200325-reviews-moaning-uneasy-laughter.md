@@ -11,6 +11,8 @@ tags:
   - pop rock
   - joy division
   - haim
+  - post punk
+  - shoegaze
 featuredimage: album-artwork/uneasy-laughter-moaning.jpg
 artist: Moaning
 album: Uneasy Laughter

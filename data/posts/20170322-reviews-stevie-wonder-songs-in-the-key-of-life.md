@@ -9,6 +9,9 @@ tags:
   - "28"
   - stevie wonder
   - frank ocean
+  - soul
+  - funk
+  - jazz fusion
 featuredimage: album-artwork/songs-in-the-key-of-life-stevie-wonder.jpg
 artist: Stevie Wonder
 album: Songs in the Key of Life

@@ -10,6 +10,8 @@ tags:
   - electronic
   - brian eno
   - apparat
+  - experimental
+  - ambient
 featuredimage: album-artwork/anoyo-tim-hecker.jpg
 artist: Tim Hecker
 album: Anoyo

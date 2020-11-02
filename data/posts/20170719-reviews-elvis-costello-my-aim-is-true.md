@@ -10,6 +10,7 @@ tags:
   - punk
   - rock
   - jarvis cocker
+  - new wave
 featuredimage: album-artwork/my-aim-is-true-elvis-costello.jpg
 artist: Elvis Costello
 album: My Aim Is True

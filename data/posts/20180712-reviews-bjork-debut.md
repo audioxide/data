@@ -8,10 +8,9 @@ tags:
   - "25"
   - bjork
   - pop
-  - bob dylan
-  - led zeppelin
+  - art pop
   - arcade fire
-  - elvis costello
+  - kate bush
 featuredimage: album-artwork/debut-bjork.jpg
 artist: Björk
 album: Debut

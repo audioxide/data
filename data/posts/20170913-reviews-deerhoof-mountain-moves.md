@@ -10,9 +10,8 @@ tags:
   - alternative rock
   - pop rock
   - radiohead
-  - nine inch nails
-  - kendrick lamar
-  - bob marley and the wailers
+  - indie
+  - art rock
 featuredimage: album-artwork/mountain-moves-deerhoof.jpg
 artist: Deerhoof
 album: Mountain Moves

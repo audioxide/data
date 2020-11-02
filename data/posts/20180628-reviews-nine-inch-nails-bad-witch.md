@@ -11,7 +11,6 @@ tags:
   - alternative rock
   - jazz
   - david bowie
-  - aphex twin
 featuredimage: album-artwork/bad-witch-nine-inch-nails.jpg
 artist: Nine Inch nails
 album: Bad Witch

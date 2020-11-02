@@ -9,6 +9,7 @@ tags:
   - nick cave and the bad seeds
   - alternative rock
   - rock
+  - post punk
 featuredimage: album-artwork/let-love-in-nick-cave-and-the-bad-seeds.jpg
 artist: Nick Cave & The Bad Seeds
 album: Let Love In

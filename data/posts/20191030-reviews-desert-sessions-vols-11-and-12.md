@@ -12,6 +12,7 @@ tags:
   - pop rock
   - royal blood
   - queens of the stone age
+  - stoner rock
 featuredimage: album-artwork/vols-11-and-12-desert-sessions.jpg
 artist: Desert Sessions
 album: Vols. 11 & 12

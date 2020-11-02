@@ -10,7 +10,7 @@ tags:
   - hip hop
   - frank ocean
   - death grips
-  - pink floyd
+  - contemporary r&b
 featuredimage: album-artwork/flower-boy-tyler-the-creator.jpg
 artist: Tyler, The Creator
 album: Flower Boy

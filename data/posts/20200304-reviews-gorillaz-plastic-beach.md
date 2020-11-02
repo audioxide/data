@@ -9,6 +9,8 @@ tags:
   - gorillaz
   - pop
   - pop rock
+  - electronic
+  - hip hop
   - the fall
   - little dragon
 featuredimage: album-artwork/plastic-beach-gorillaz.jpg

@@ -9,6 +9,7 @@ tags:
   - jack white
   - rock
   - alternative rock
+  - blues
 featuredimage: album-artwork/boarding-house-reach-jack-white.jpg
 artist: Jack White
 album: Boarding House Reach

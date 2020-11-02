@@ -12,6 +12,7 @@ tags:
   - justice
   - muse
   - daft punk
+  - disco
 featuredimage: album-artwork/the-slow-rush-tame-impala.jpg
 artist: Tame Impala
 album: The Slow Rush

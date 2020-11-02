@@ -9,7 +9,7 @@ tags:
   - vince staples
   - hip hop
   - kanye west
-  - brian eno
+  - electronic
   - lorde
   - flume
   - kendrick lamar

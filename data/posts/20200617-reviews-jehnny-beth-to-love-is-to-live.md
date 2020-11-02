@@ -10,6 +10,8 @@ tags:
   - jehnny beth
   - savages
   - industrial
+  - alternative rock
+  - art pop
 featuredimage: album-artwork/to-love-is-to-live-jehnny-beth.jpg
 artist: Jehnny Beth
 album: To Love Is to Live

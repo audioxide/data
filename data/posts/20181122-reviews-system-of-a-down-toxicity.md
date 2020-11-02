@@ -8,6 +8,7 @@ tags:
   - "21"
   - system of a down
   - metal
+  - nu metal
 featuredimage: album-artwork/toxicity-system-of-a-down.jpg
 artist: System of a Down
 album: Toxicity
