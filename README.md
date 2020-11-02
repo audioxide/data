@@ -166,16 +166,8 @@ Files will only be reduced and cropped and will not be enlarged if they are smal
 
 ### Non-data files
 
-- `generate.js`
-    - Generates various JSON files containing different versions, collections, groupings and transformations of the data. Additionally handles the resizing and generation of image files. The files generated are used as the Audioxide API responses.
-- `import.js` _(Deprecated)_
-    - The initial import script to import data from Wordpress to this new format. Included here for posterity as multiple manual edits have since been applied to the data store.
-- `importImages.js` _(Deprecated)_
-    - Similar to `import.js`, this file is included for posterity, and was used to initially copy and collect all distinct image sizes.
 - `netlify.toml`
     - The product of this repository is hosted by Netlify. We use their configuration file format to provide data access only to websites on the audioxide.com domain or subdomains.
-- `./api`
-    - This used the Wordpress API to pull data as part of the initial data import.
 
 ## License
 
