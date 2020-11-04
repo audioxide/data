@@ -9,5 +9,8 @@
     "André Dack (https://github.com/AndreDack)"
   ],
   "license": "CC-BY-NC-ND-4.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "flexsearch": "^0.6.32"
+  }
 }
