@@ -30,7 +30,7 @@ blurb: It's the end of the year, which means we're legally obliged to round up o
 
 ---
 
-*The album is dead, long live the album. We’d be lying if we said this year of our Lorde was bursting with instant classics, but that’s brought it’s own charms. This was a slow burner year, where the best albums were weird and wonderful rather than tour de forces. From newcomers to old favourites there’s been a lot to love and a lot to look forward to in the coming decade.*
+*The album is dead, long live the album. We’d be lying if we said this year of our Lorde was bursting with instant classics, but that’s brought its own charms. This was a slow burner year, where the best albums were weird and wonderful rather than tour de forces. From newcomers to old favourites there’s been a lot to love and a lot to look forward to in the coming decade.*
 
 ------
 

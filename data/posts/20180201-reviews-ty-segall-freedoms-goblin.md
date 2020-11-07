@@ -70,7 +70,7 @@ review: >-
   
   The record flaunts dynamic, enterprising rock exploring myriad sounds and wonders. There’s no denying that. The record’s nothing if not vast, and some of Ty Segall’s melodies really are beautiful. There’s a lot right with it, but there’s almost too many pieces for it to click together properly.
 
-  To an extent *Freedom’s Goblin *is a victim of its own ambition, and of Segall’s protean talent. A laudable amount of ground is covered, but the album’s identity fails to click into place and as a whole it comes off bloated and aimless. Combine this with a runtime of 75 minutes and you’re in trouble. There’s a slackness to the sound, as if it’s largely incapable of gripping you and holding on. Which is true, at least for me. 
+  To an extent *Freedom’s Goblin* is a victim of its own ambition, and of Segall’s protean talent. A laudable amount of ground is covered, but the album’s identity fails to click into place and as a whole it comes off bloated and aimless. Combine this with a runtime of 75 minutes and you’re in trouble. There’s a slackness to the sound, as if it’s largely incapable of gripping you and holding on. Which is true, at least for me. 
   
   Bizarrely, the album manages to traverse [The Beatles](/reviews/the-beatles-revolver/), [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/), and [Radiohead](/reviews/radiohead-ok-computer/) in one fell swoop and I *still* feel let down by it. Maybe that’s a testament to Segall’s talents; maybe to the depths of my joylessness. Who knows.
 
