@@ -3,7 +3,6 @@ const path = require('path');
 const FlexSearch = require('flexsearch');
 const read = (filename) => fs.readFileSync(path.resolve(__dirname, filename), { encoding: 'utf8' });
 
-const netlifyDomainSuffix = "competent-ardinghelli-0dde0e.netlify.app";
 const domains = [
   "https://alpha.audioxide.com",
   "https://beta.audioxide.com",
@@ -22,7 +21,7 @@ const limitOpt = { limit: LIMIT };
 exports.handler = async (event, context) => {
   const { headers: { origin } } = event;
   if (!domains.includes(origin)
-  && (typeof origin !== 'string' || !origin.endsWith(netlifyDomainSuffix))
+  && (typeof origin !== 'string' || !origin.endsWith(process.env.FRONTEND_NETLIFY_SUFFIX))
   && process.env.ALLOW_LOCALHOST !== "true") {
     return {
       statusCode: 401,
@@ -69,5 +68,3 @@ exports.handler = async (event, context) => {
     return { statusCode: 500, body: err.toString() }
   }
 }
-
-// console.log(JSON.stringify(index.search("bjork").map(route => lookup[route])));
