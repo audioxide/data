@@ -21,7 +21,7 @@ const limitOpt = { limit: LIMIT };
 exports.handler = async (event, context) => {
   const { headers: { origin } } = event;
   if (!domains.includes(origin)
-  && (typeof origin !== 'string' || !origin.endsWith(process.env.DOMAIN_SUFFIX))
+  && (typeof origin !== 'string' || !origin.endsWith(process.env.FRONTEND_NETLIFY_SUFFIX))
   && process.env.ALLOW_LOCALHOST !== "true") {
     return {
       statusCode: 401,
