@@ -30,7 +30,7 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ## 10\. “Humble.” // Kendrick Lamar
 
-TBD
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tvTRZJ-4EyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Marcus**
 

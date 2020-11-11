@@ -20,8 +20,17 @@ featuredimageAlt: Vinyl record of Kendrick Lamar's album DAMN. on a turntable
 title: Our 10 favourite albums of 2017
 author:
   - michael
-blurb: It's the end of the year, and that means it's time for fond remembrances. From hip-hop to folk, and R&B to rock, here lies our favourite albums of 2017.
+  - fred
+  - gabriel
+  - andrew
+  - andre
+  - marcus
+blurb: It's the end of the year, and that means it's time for fond remembrances of the best bits. From hip-hop to folk to R&B to rock, here lies our favourite albums of 2017.
 ---
+
+*It's the end of the year, which means it's time for fond remembrances of the best bits. From hip hop to folk to R&B to rock, here lies our favourite albums of 2017.*
+
+-----
 
 ## 10\. *Last Place*// Grandaddy
 
@@ -65,7 +74,7 @@ I’d be lying if I said *Every Country’s Sun* lit up the year, but I’m very
 
 **Fred**
 
-*Flower Boy* is the type of record that’s good for music, even if you never quite lose yourself to it. It has a dignity and elegance beyond its own running time, speaking to the ongoing importance of fully conceived and executed albums. When we reviewed this I said it was like ‘dropping into a funky neon dream’, and that’s been my enduring feeling about it. The specifics don’t have a hold on me, but I strongly remember how I feel, and I feel good whenever I listen to *Flower Boy*. Seldom has R&B sounded so smooth, so confident yet ethereal. It’s developed quite a hold on me, and everyone else, apparently. This one’s got some serious staying power. When things like *Flower Boy* are still being released, how can anyone claim the album is dying?
+*Flower Boy* is the type of record that’s good for music, even if you never quite lose yourself to it. It has a dignity and elegance that lingers well after it's finished, speaking to the ongoing importance of fully conceived and executed albums. When we reviewed this I said it was like ‘dropping into a funky neon dream’, and that’s been my enduring feeling about it. The specifics don’t have a hold on me, but I strongly remember how I feel, and I feel good whenever I listen to *Flower Boy*. Seldom have I heard R&B sound so smooth, so confident yet ethereal. It’s developed quite a hold on me, and everyone else, apparently. This one’s got some serious staying power. When things like *Flower Boy* are still being released how can anyone seriously claim the album is dying?
 
 [**Read our full review of _Flower Boy_**](/reviews/tyler-the-creator-flower-boy/) →
 
@@ -77,9 +86,9 @@ I’d be lying if I said *Every Country’s Sun* lit up the year, but I’m very
 
 **Andrew**
 
-Semper* Femina* looks to have been one of the more understated releases of the year. However, [Laura Marling’s latest record has seen a lot of love on Audioxide](/reviews/laura-marling-semper-femina/), achieving the highest score of a new release since Kendrick Lamar’s [*To Pimp a Butterfly.*](/reviews/kendrick-lamar-to-pimp-a-butterfly/) Since its release back in March, Semper Femina has continued to make a big part of my listening throughout the year. I cannot deny that I often come to the album for its opener: “Soothing” is a silky smooth song, showcasing Marling’s delicate vocals and wrapping them in warm washes of strings and bass. While I would adore an album of “Soothing”-esque tracks, *Semper Femina* shines in its distinctive tracks, each with their own character and atmosphere that wind their way through the forty minute tracklist without a moment of mundanity. Although some listeners have criticised the colder nature of certain tracks, there’s an abundance of heart to be found here too. The balance is just right. *Semper Femina* is a gorgeous album that I’ll no doubt continue to fawn over for the foreseeable future.
+*Semper Femina* looks to have been one of the more understated releases of the year. However, [Laura Marling’s latest record has seen a lot of love on Audioxide](/reviews/laura-marling-semper-femina/), achieving the highest score of a new release since Kendrick Lamar’s [*To Pimp a Butterfly.*](/reviews/kendrick-lamar-to-pimp-a-butterfly/) Since its release back in March, Semper Femina has continued to make a big part of my listening throughout the year. I cannot deny that I often come to the album for its opener: “Soothing” is a silky smooth song, showcasing Marling’s delicate vocals and wrapping them in warm washes of strings and bass. While I would adore an album of “Soothing”-esque tracks, *Semper Femina* shines in its distinctive tracks, each with their own character and atmosphere that wind their way through the forty minute tracklist without a moment of mundanity. Although some listeners have criticised the colder nature of certain tracks, there’s an abundance of heart to be found here too. The balance is just right. *Semper Femina* is a gorgeous album that I’ll no doubt continue to fawn over for the foreseeable future.
 
-[**Read our full review of _Semper Femina_**](/reviews/laura-marling-semper-femina/>) →
+[**Read our full review of _Semper Femina_**](/reviews/laura-marling-semper-femina/) →
 
 -----
 
