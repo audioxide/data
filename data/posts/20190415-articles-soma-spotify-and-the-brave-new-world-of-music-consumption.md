@@ -1,7 +1,7 @@
 ---
 created: 2019-04-15T18:32:49.000Z
 modified: 2020-04-08T15:53:36.000Z
-slug: soma-spotify-and-the-strange-new-world-of-music-consumption
+slug: soma-spotify-and-the-brave-new-world-of-music-consumption
 type: articles
 tags:
   - spotify
