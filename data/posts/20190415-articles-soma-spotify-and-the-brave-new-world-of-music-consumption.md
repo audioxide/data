@@ -6,6 +6,7 @@ type: articles
 tags:
   - spotify
   - david byrne
+  - music industry
 featuredimage: article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg
 featuredimageAlt: Artwork depicting a man listening to music with medical pills as ear buds
 title: Soma, Spotify, and the brave new world of music consumption

@@ -6,6 +6,7 @@ type: articles
 tags:
   - spotify
   - major lazer
+  - music industry
 featuredimage: article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg
 featuredimageAlt: Woman standing in front of musically themed red neon signs
 title: How Spotify has changed the way we listen to music

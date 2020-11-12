@@ -5,6 +5,7 @@ slug: the-dmca-rabbit-hole
 type: articles
 tags:
   - david byrne
+  - music industry
 featuredimage: article-images/the-dmca-rabbit-hole.jpg
 featuredimageAlt: Alice in Wonderland themed illustration of people arguing about music rights on the internet
 title: The DMCA rabbit hole
