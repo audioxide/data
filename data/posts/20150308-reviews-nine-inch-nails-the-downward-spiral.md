@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.9333333333333333
 colours:
-  - "#12110a"
-  - "#edeab2"
-  - "#edeab2"
+  - "#D2A04F"
+  - "#F2E0AF"
+  - "#F2E0AF"
 pullquote: A masterpiece
 summary: Reznor set a benchmark in the industrial rock genre whilst simultaneously providing a form of therapy for millions of angst-filled listeners, who inevitably soaked up his devastating portrayal of nihilism.
 week: 6
