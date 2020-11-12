@@ -24,9 +24,13 @@ author:
   - andre
   - andrew
   - thomas
-blurb: It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, here lies our favourite tracks of 2017.
+blurb: It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, here lies our favourite singles of 2017.
 
 ---
+
+*It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, here lies our favourite singles of 2017.*
+
+-----
 
 ## 10\. “Humble.” // Kendrick Lamar
 

@@ -14,8 +14,8 @@ tags:
   - the fall
   - ramones
 featuredimage: album-artwork/fresh-fruit-for-rotting-vegetables-dead-kennedys.jpg
-artworkcredit: The album artwork of Fresh Fruit for Rotting Vegetables by Dead Kennedys features a photo from the White Night Riots of May 21st, 1979. The riots were in response to the lenient sentence recieved by Dan White for killing Harvey Milk, San Francisco's first openly gay mayor. The typeface used is Engravers Old English by Morris Fuller Benton.
-artworkcreditsource: https://people.southwestern.edu/~bednarb/su_netWorks/projects/carter/DK.html
+artworkCredit: The album artwork of Fresh Fruit for Rotting Vegetables by Dead Kennedys features a photo from the White Night Riots of May 21st, 1979. The riots were in response to the lenient sentence recieved by Dan White for killing Harvey Milk, San Francisco's first openly gay mayor. The typeface used is Engravers Old English by Morris Fuller Benton.
+artworkCreditSource: https://people.southwestern.edu/~bednarb/su_netWorks/projects/carter/DK.html
 artist: Dead Kennedys
 album: Fresh Fruit for Rotting Vegetables
 essentialtracks:

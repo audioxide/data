@@ -47,7 +47,7 @@ title: Eob earth
 ---
 created: 2020-04-22T00:00:00Z   # Can be inferred from the filename
 modified: 2020-04-22T00:00:00Z  # The created date will be used in unspecified
-slug: the-slug-url              # Can be inferred from the filename
+slug: the-slug-url              # Can be inferred from the filename -- on reviews follows artist-name-album-name format
 title: The Slug URL             # Can be inferred from the slug in the filename
 type: article                   # Can be inferred from the filename
 tags:                           # Optional
@@ -84,7 +84,11 @@ colours:                        # As with tags...
   - "#f8f0ee"
 pullquote: An '80s love letter  # A very short, pithy summary of the review
 week: 207                       # The week number for this review
+artworkCredit: John Doe did it  # Details on the album artwork
+artworkCreditSource: acme.com   # Link to source for artwork credit information
+
 ---
+
 This is an example of a content section. I am able to use markdown syntax such as **bold** and _italics_.
 
 I can also freely spread content across multiple lines.
@@ -98,8 +102,11 @@ or the HTML tag
 <hr />
 
 otherwise this content will count as a new content section.
+
 ---
+
 author: andrew
+
 review: >-
  This is another content section, but it uses YAML syntax to provide further metadata about this
  specific section of content, such as the section author. This is most used by reviews, where each
@@ -109,21 +116,27 @@ review: >-
 
  Note the single space indentation at the start of each line. YAML is pretty relaxed with this, but
  you should _at least_ have this indentation on the **first** line of the content.
+
 tracks:         # As with tags above, both per line and array format/single line are acceptable
   - So Good
   - ­­Vampires
   - ­­Jasmine
+
 score:          # To make scores even stupider, notice that here, a "score" and "max" property are required
   score: 7      # This is verbose and inconsistent with the totalscore above and will be better in the future
   max: 10
   fraction: 0.7
+
 artistMBID: 00000000-0000-0000  # A MusicBrainz ID for the artist solely discussed in this section; used by articles; optional
 albumMBID: 00000000-0000-0000   # A MusicBrainz ID for the album solely discussed in this section; used by articles; optional
+
 ---
+
 We can continue to write as many content sections as we like in either format.
 
 Note also, that Markdown allows for HTML tags to be used within it, allowing for more involved styling
 to be used in content
+
 ```
 
 #### Author files
