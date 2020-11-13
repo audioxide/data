@@ -35,7 +35,10 @@ week: 124
 blurb: Murphy's not merely indulging his influences or recreating the past here. He delves into the past to forge a new, heady, indelible blend of electronica and rock.
 artistMBID: 2aaf7396-6ab8-40f3-9776-a41c42c8e26b
 albumMBID: 5cbcdd9f-4b7d-3b3c-b9f2-6b0e75971157
+artistLink: https://kf-merch.com/collections/lcd-soundsystem
+
 ---
+
 author: Michael
 
 review: >-

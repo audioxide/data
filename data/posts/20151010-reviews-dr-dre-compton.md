@@ -33,6 +33,7 @@ week: 26
 blurb: A polished, lumbering beast of an album. Not so much concerned with peaks and troughs as with a steady, charismatic drone of all things Compton.
 artistMBID: 5f6ab597-f57a-40da-be9e-adad48708203
 albumMBID: 0f7a9bb0-c99a-48ea-93fb-ecdcc0ed636e
+artistLink: https://www.drdre.com/store
 
 ---
 author: André

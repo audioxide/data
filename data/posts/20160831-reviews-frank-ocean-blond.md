@@ -39,6 +39,8 @@ week: 68
 blurb: Blonde flirts with indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas, and delicate musings.
 artistMBID: e520459c-dff4-491d-a6e4-c97be35e0044
 albumMBID: 0da340a0-6ad7-4fc2-a272-6f94393a7831
+artistLink: https://blonded.co/
+
 ---
 author: André
 

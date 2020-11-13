@@ -24,9 +24,9 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#776f85"
-  - "#B0BEBF"
-  - "#FFF"
+  - "#4D5378"
+  - "#fff"
+  - "#fff"
 pullquote: Hollow and homogenised
 summary: The content simply fails to match the concept. Music written by a composer of this class should never feel formulaic, but it does. It makes for a mildly enjoyable, yet rather hollow experience.
 week: 93
