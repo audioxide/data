@@ -34,9 +34,9 @@ colours:
   - "#e1e3e2"
   - "#e1e3e2"
 pullquote: Ambient R&B
-summary: The bottom line is that Blonde simply isn’t as accomplished as Channel Orange, nor is it as infinitely listenable. It flirts on indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas and delicate musings.
+summary: The bottom line is Blond isn’t as accomplished as Channel Orange, nor as infinitely listenable. The album flirts on indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas and delicate musings.
 week: 68
-blurb: Blonde flirts with indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas, and delicate musings.
+blurb: Blond flirts with indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas, and delicate musings.
 artistMBID: e520459c-dff4-491d-a6e4-c97be35e0044
 albumMBID: 0da340a0-6ad7-4fc2-a272-6f94393a7831
 artistLink: https://blonded.co/
@@ -47,13 +47,13 @@ author: André
 review: >-
   After months of build-up, speculation and [shrewd marketing](http://pitchfork.com/news/67329-snapchat-rolls-out-frank-ocean-filters/), Frank Ocean’s long-awaited second studio album is here. Does it live up to the extravagant hype? Probably not. Does it matter? Again, probably not. 
   
-  Ocean is something of an elusive character, carrying a limited media presence that mirrors the reticent nature of [Prince](/reviews/prince-purple-rain/). He feels the pain of [social and political injustice](http://frankocean.tumblr.com/post/146249813326/i-read-in-the-paper-that-my-brothers-are-being) just like [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) does, but his music remains deeply personal and highly reflective. He approaches works with craft and care, and though it regrettably follows the [curiously prevalent trend of feeling out of focus and slightly discordant](/reviews/kanye-west-the-life-of-pablo/), *Blonde* is no exception. 
+  Ocean is something of an elusive character, carrying a limited media presence that mirrors the reticent nature of [Prince](/reviews/prince-purple-rain/). He feels the pain of [social and political injustice](http://frankocean.tumblr.com/post/146249813326/i-read-in-the-paper-that-my-brothers-are-being) just like [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) does, but his music remains deeply personal and highly reflective. He approaches works with craft and care, and though it regrettably follows the [curiously prevalent trend of feeling out of focus and slightly discordant](/reviews/kanye-west-the-life-of-pablo/), *Blond* is no exception. 
   
-  With its muted tone and severe lack of robust beats, it could most certainly be described as an ambient R&B record. It will prove underwhelming for some, and magnificent for others, whilst the rest of us settle for mild enjoyment with a degree of apathy. There are occasions where Ocean finds great power in simplicity, but not enough for *Blonde* to be a complete triumph. Whilst the sparse nature of his songwriting takes considerable effort to consume over the hour-long duration, Ocean’s patient arrangements are commendable, if not exhausting. It shifts away from the obvious tropes found in popular music, and that can only be a positive thing in the long run. 
+  With its muted tone and severe lack of robust beats, it could most certainly be described as an ambient R&B record. It will prove underwhelming for some, and magnificent for others, whilst the rest of us settle for mild enjoyment with a degree of apathy. There are occasions where Ocean finds great power in simplicity, but not enough for *Blond* to be a complete triumph. Whilst the sparse nature of his songwriting takes considerable effort to consume over the hour-long duration, Ocean’s patient arrangements are commendable, if not exhausting. It shifts away from the obvious tropes found in popular music, and that can only be a positive thing in the long run. 
   
   The lyrics retain the intimacy found in Ocean’s earlier work, but veer away from the strong narratives found on [*Channel Orange*](/reviews/frank-ocean-channel-orange/) in favour of an impulsive and fragmented approach. It feels sincere as a result, and often very touching, but not always engaging. 
   
-  The bottom line is that *Blonde* simply isn’t as accomplished as *Channel Orange*, nor is it as infinitely listenable. It flirts on indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas and delicate musings. As a pure display of raw and hasty emotion, *Blonde* is naturally flawed — but its success can only set a progressive precedent.
+  The bottom line is *Blond* isn’t as accomplished as *Channel Orange*, nor as infinitely listenable. The album flirts on indulgence but just about manages to stay grounded. It’s an account of slight thoughts, vague ideas, and delicate musings. As a pure display of raw and hasty emotion, *Blond* is naturally flawed — but its success can only set a progressive precedent.
 
 tracks:
   - Pink + White

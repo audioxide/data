@@ -27,7 +27,7 @@ colours:
   - "#ffffff"
   - "#323944"
 pullquote: Breathless, explosive music
-summary: It's breathless, explosive music; the kind of stuff that compels listeners to pick up an instrument or start a band. Origin of Symmetry listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it's pretty rad, man.
+summary: It's breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band. Origin of Symmetry listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it's pretty rad, man.
 week: 17
 blurb: There are few better highs than Muse in top gear. It's breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band.
 artistMBID: 9c9f1380-2516-4fc9-a3e6-f9f61941d090
@@ -65,7 +65,7 @@ review: >-
   
   The wealth of sounds utilised — ranging from synthesiser anthems to Latin guitar — is held together by the band’s relentless charge towards the next crescendo. The pacing is more than a little skewed, but once in the midst of yet another great track you’re not terribly inclined to care. 
   
-  There are few better musical highs than Muse in top gear. It’s breathless, explosive music; the kind of stuff that compels listeners to pick up an instrument or start a band. *Origin of Symmetry* listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it’s pretty rad, man.
+  There are few better musical highs than Muse in top gear. It’s breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band. *Origin of Symmetry* listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it’s pretty rad, man.
 
 tracks:
   - Citizen Erased
