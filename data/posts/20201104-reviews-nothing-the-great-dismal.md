@@ -33,7 +33,7 @@ colours:
   - "#000000"
   - "#d1c6db"
   - "#d1c6db"
-pullquote: An uncanny breath of fresh air
+pullquote: Unabashedly grim, reassuringly gentle
 summary: Unabashedly grim, but reassuringly gentle. The album's striking cover art, of a red-eyed, mud-caked old man with a menacing but fragile look to him, is a pretty good indicator of what I found here.
 week: 252
 blurb: Unabashedly grim, but reassuringly gentle. The album's striking cover art of a menacing but fragile old man is a good indicator of what to expect.
