@@ -22,8 +22,8 @@ totalscore:
   fraction: 0.7333333333333333
 colours:
   - "#9CB8C1"
-  - "#DB4A27"
-  - "#DB4A27"
+  - "#fff"
+  - "#fff"
 pullquote: Sweltering Summer rap
 summary: "ZUU is a tour de force in the bait and switch: for every blunt or cliched element across its 30-minute runtime there’s an immediate follow-up that borders on genius. I’d argue that Denzel Curry even crosses that border every so often."
 week: 195
