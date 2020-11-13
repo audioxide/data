@@ -30,7 +30,7 @@ week: 252
 blurb: Relentless and unpredictable, the album's like the spawn of a Satanic ritual in a theme park. It’s oppressive and challenging, but also warm and charming.
 artistMBID: e86b5e8c-8a11-40ea-9bb0-551df95e99d4
 albumMBID: 0e9eff21-8115-4ab3-877c-5c4f6d0e09a0
-artistLink: https://nothing.bandcamp.com
+artistLink: https://www.bandofnothing.com/shop
 
 ---
 
