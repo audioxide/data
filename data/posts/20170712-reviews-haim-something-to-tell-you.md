@@ -27,7 +27,7 @@ totalscore:
   fraction: 0.7
 colours:
   - "#473220"
-  - "#accfec"
+  - "#FFF"
   - "#FFF"
 pullquote: Glossy, air-headed pop
 summary: Something to Tell You is an album of inoffensive and enjoyable pop music. With strong instrumentals that step above the norm, the shiny production is surplus to requirements and can often be my main critique of tracks.
