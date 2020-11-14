@@ -12,7 +12,7 @@
   "private": false,
   "scripts": {
     "build": "node --unhandled-rejections=strict ./node_modules/.bin/processAudioxideData",
-    "dev": "yarn && node --unhandled-rejections=strict processAudioxideData && npx http-server dist -p 8888 --cors -c-1"
+    "dev": "yarn && node --unhandled-rejections=strict ./node_modules/.bin/processAudioxideData && npx http-server dist -p 8888 --cors -c-1"
   },
   "dependencies": {
     "flexsearch": "^0.6.32",
