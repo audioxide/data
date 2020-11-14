@@ -27,7 +27,7 @@ colours:
   - "#ffffff"
   - "#FFF"
 pullquote: A cartoonish odyssey
-summary: A cartoonish odyssey bristling with creative energy. The whimsy of the band's debut album is toned down, and what steps in its stead is a biting sombreness very much of the 21st century. It's eclectic in the very best sense of the word.
+summary: A cartoonish odyssey bristling with creative energy. The whimsy of the band's debut album is toned down, and what emerges in its stead is a biting sombreness very much of the 21st century. It's eclectic in the very best sense of the word.
 week: 13
 blurb: A cartoonish odyssey bristling with creative energy. The whimsy of the band's debut album is replaced by a biting sombreness very much of the 21st century.
 artistMBID: e21857d5-3256-4547-afb3-4b6ded592596
@@ -55,7 +55,7 @@ score:
 author: Fred
 
 review: >-
-  It’s excellent; a cartoonish odyssey bristling with creative energy. The whimsy of the band’s debut album is toned down, and what steps in its stead is a biting sombreness very much of the 21st century. It’s eclectic in the very best sense of the word. 
+  It’s excellent; a cartoonish odyssey bristling with creative energy. The whimsy of the band’s debut album is toned down, and what emerges in its stead is a biting sombreness very much of the 21st century. It’s eclectic in the very best sense of the word. 
   
   The wide array of collaborations works in service of a final product that is far more cohesive than it has any right to be. I’m not sure it’s my favourite Gorillaz work, but it’s likely their most polished. *Demon Days* truly is a harmonic world, and one worth touching base with more than once.
 
