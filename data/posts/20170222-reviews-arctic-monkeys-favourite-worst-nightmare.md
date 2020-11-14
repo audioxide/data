@@ -4,7 +4,7 @@ modified: 2018-03-12T19:23:33.000Z
 slug: arctic-monkeys-favourite-worst-nightmare
 type: reviews
 tags:
-  - "2007"
+  - 2000s
   - "24"
   - arctic monkeys
   - rock
