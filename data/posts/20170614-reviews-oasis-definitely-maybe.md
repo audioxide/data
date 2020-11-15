@@ -28,9 +28,9 @@ colours:
   - "#FFF"
   - "#ffde8f"
 pullquote: Relentless rock & roll
-summary: What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s more or less the game on Definitely Maybe; relentless and unstoppable.
+summary: What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s the game on Definitely Maybe; relentless and unstoppable.
 week: 102
-blurb: Rock and roll delivered with swagger is such a buzz, and that’s more or less the game on Definitely Maybe. It's relentless, unstoppable, and totally mad fer it.
+blurb: Rock and roll delivered with swagger is such a buzz, and that’s the game on Definitely Maybe. It's relentless, unstoppable, and totally mad fer it.
 artistMBID: 39ab1aed-75e0-4140-bd47-540276886b60
 albumMBID: 451dca98-c118-32e1-9244-c47ca9c3c0f9
 artistLink: https://shop.oasisinet.com/
@@ -61,7 +61,7 @@ score:
 author: Fred
 
 review: >-
-  Straightforward, confident, full of earworms, the prestige of Oasis’s debut album is no great mystery. As revered as *Definitely Maybe* is, there is not much to be said about it. Its simplicity is exactly what makes it so good. “Rock ‘N’ Roll Star”, “Shakermaker”, and “Liver Forever” are as good an opening rock trio as you’re ever likely to hear, and that standard carries through. What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s more or less the game on *Definitely Maybe*; relentless and unstoppable. 
+  Straightforward, confident, full of earworms, the prestige of Oasis’s debut album is no great mystery. As revered as *Definitely Maybe* is, there is not much to be said about it. Its simplicity is exactly what makes it so good. “Rock ‘N’ Roll Star”, “Shakermaker”, and “Liver Forever” are as good an opening rock trio as you’re ever likely to hear, and that standard carries through. What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s the game on *Definitely Maybe*; relentless and unstoppable. 
   
   The sound does occasionally prompt a desire for more subtlety in the vein of closer “Married with Children”. As stellar as the songwriting is, the roughness of the mixing is sometimes detrimental to their execution. Even the album’s [demos](https://www.youtube.com/watch?v=jmC3553Q3Fo) have a grace that the finished product doesn’t quite manage. Still, I think *Definitely Maybe* gets a punk-like exemption, where the limitations of the sound are part and parcel of why it is so loved. When a bunch of nobodies turn up from out of nowhere and rock your socks off, who on earth cares what the dynamics are?
 
