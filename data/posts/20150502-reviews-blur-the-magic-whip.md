@@ -4,7 +4,6 @@ modified: 2018-03-11T19:07:31.000Z
 slug: blur-the-magic-whip
 type: reviews
 tags:
-  - "18"
   - 2010s
   - blur
   - alternative rock

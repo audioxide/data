@@ -5,7 +5,6 @@ slug: the-avalanches-wildflower
 type: reviews
 tags:
   - 2010s
-  - "21"
   - the avalanches
   - electronic
   - disco

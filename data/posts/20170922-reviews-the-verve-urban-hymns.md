@@ -5,7 +5,6 @@ slug: the-verve-urban-hymns
 type: reviews
 tags:
   - 1990s
-  - "24"
   - richard ashcroft
   - the verve
   - britpop

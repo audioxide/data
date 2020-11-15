@@ -5,7 +5,6 @@ slug: sonic-youth-daydream-nation
 type: reviews
 tags:
   - 1980s
-  - "21"
   - sonic youth
   - alternative rock
   - wolf alice

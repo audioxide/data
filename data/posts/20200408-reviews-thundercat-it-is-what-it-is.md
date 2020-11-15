@@ -4,7 +4,6 @@ modified: 2020-04-09T20:38:57.000Z
 slug: thundercat-it-is-what-it-is
 type: reviews
 tags:
-  - "19"
   - 2020s
   - thundercat
   - kendrick lamar

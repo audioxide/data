@@ -4,7 +4,6 @@ modified: 2018-06-15T17:49:43.000Z
 slug: courtney-barnett-tell-me-how-you-really-feel
 type: reviews
 tags:
-  - "20"
   - 2010s
   - courtney barnett
   - alternative rock

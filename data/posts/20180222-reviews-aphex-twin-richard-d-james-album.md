@@ -5,7 +5,6 @@ slug: aphex-twin-richard-d-james-album
 type: reviews
 tags:
   - 1990s
-  - "25"
   - aphex twin
   - squarepusher
   - electronic

@@ -4,7 +4,6 @@ modified: 2018-03-12T19:42:54.000Z
 slug: san-fermin-belong
 type: reviews
 tags:
-  - "18"
   - 2010s
   - san fermin
   - pop

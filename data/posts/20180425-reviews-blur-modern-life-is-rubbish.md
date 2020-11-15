@@ -5,7 +5,6 @@ slug: blur-modern-life-is-rubbish
 type: reviews
 tags:
   - 1990s
-  - "20"
   - blur
   - britpop
   - alternative rock

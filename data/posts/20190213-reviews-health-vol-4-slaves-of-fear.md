@@ -4,7 +4,6 @@ modified: 2019-02-19T20:32:27.000Z
 slug: health-vol-4-slaves-of-fear
 type: reviews
 tags:
-  - "17"
   - 2010s
   - health
   - industrial

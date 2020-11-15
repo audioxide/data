@@ -5,7 +5,6 @@ slug: jpegmafia-all-my-heroes-are-cornballs
 type: reviews
 tags:
   - 2010s
-  - "22"
   - jpegmafia
   - electronic
   - experimental

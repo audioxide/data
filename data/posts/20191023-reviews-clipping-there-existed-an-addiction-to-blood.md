@@ -5,7 +5,6 @@ slug: clipping-there-existed-an-addiction-to-blood
 type: reviews
 tags:
   - 2010s
-  - "23"
   - clipping
   - hip hop
   - industrial

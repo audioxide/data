@@ -5,7 +5,6 @@ slug: jefferson-airplane-surrealistic-pillow
 type: reviews
 tags:
   - 1960s
-  - "24"
   - jefferson airplane
   - psychedelia
   - rock

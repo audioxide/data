@@ -4,7 +4,6 @@ modified: 2018-03-04T22:26:31.000Z
 slug: st-vincent-masseduction
 type: reviews
 tags:
-  - "20"
   - 2010s
   - st vincent
   - pop

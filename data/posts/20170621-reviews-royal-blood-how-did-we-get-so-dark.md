@@ -4,7 +4,6 @@ modified: 2018-03-09T00:07:42.000Z
 slug: royal-blood-how-did-we-get-so-dark
 type: reviews
 tags:
-  - "20"
   - 2010s
   - royal blood
   - rock

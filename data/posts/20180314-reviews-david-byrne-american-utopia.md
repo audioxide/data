@@ -5,7 +5,6 @@ slug: david-byrne-american-utopia
 type: reviews
 tags:
   - 2010s
-  - "21"
   - david byrne
   - alternative rock
   - radiohead

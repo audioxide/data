@@ -5,7 +5,6 @@ slug: rem-out-of-time
 type: reviews
 tags:
   - 1990s
-  - "21"
   - rem
   - alternative rock
   - rock

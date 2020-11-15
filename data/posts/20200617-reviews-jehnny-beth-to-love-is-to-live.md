@@ -6,7 +6,6 @@ slug: jehnny-beth-to-love-is-to-live
 type: reviews
 tags:
   - 2020s
-  - "19"
   - jehnny beth
   - savages
   - industrial

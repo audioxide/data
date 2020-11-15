@@ -5,7 +5,6 @@ slug: pj-harvey-to-bring-you-my-love
 type: reviews
 tags:
   - 1990s
-  - "26"
   - pj harvey
   - alternative rock
   - grunge

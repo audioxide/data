@@ -4,7 +4,6 @@ modified: 2018-03-10T20:40:13.000Z
 slug: preoccupations-preoccupations
 type: reviews
 tags:
-  - "20"
   - 2010s
   - preoccupations
   - alternative rock

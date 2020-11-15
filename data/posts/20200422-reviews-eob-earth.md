@@ -4,7 +4,6 @@ modified: 2020-05-10T16:21:01.000Z
 slug: eob-earth
 type: reviews
 tags:
-  - "18"
   - 2020s
   - ed obrien
   - alternative rock

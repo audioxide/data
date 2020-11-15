@@ -5,7 +5,6 @@ slug: joy-division-unknown-pleasures
 type: reviews
 tags:
   - 1970s
-  - "24"
   - joy division
   - post punk
   - radiohead

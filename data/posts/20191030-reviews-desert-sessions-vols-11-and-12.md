@@ -5,7 +5,6 @@ slug: desert-sessions-vols-11-and-12
 type: reviews
 tags:
   - 2010s
-  - "21"
   - desert sessions
   - rock
   - alternative rock

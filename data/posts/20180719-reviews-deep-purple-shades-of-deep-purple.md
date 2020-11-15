@@ -5,7 +5,6 @@ slug: deep-purple-shades-of-deep-purple
 type: reviews
 tags:
   - 1960s
-  - "21"
   - deep purple
   - rock
   - psychedelia

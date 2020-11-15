@@ -5,7 +5,6 @@ slug: radiohead-a-moon-shaped-pool
 type: reviews
 tags:
   - 2010s
-  - "24"
   - radiohead
   - alternative rock
   - rock

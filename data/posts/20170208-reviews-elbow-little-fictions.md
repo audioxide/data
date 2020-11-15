@@ -4,7 +4,6 @@ modified: 2018-03-11T22:25:35.000Z
 slug: elbow-little-fictions
 type: reviews
 tags:
-  - "17"
   - 2010s
   - elbow
   - alternative rock

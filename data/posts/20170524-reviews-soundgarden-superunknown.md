@@ -5,7 +5,6 @@ slug: soundgarden-superunknown
 type: reviews
 tags:
   - 1990s
-  - "22"
   - soundgarden
   - grunge
   - alternative rock

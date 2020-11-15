@@ -5,7 +5,6 @@ slug: queens-of-the-stone-age-queens-of-the-stone-age
 type: reviews
 tags:
   - 1990s
-  - "21"
   - queens of the stone age
   - rock
   - alternative rock

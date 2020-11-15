@@ -4,7 +4,6 @@ modified: 2019-10-15T11:02:52.000Z
 slug: nick-cave-and-the-bad-seeds-ghosteen
 type: reviews
 tags:
-  - "19"
   - 2010s
   - nick cave and the bad seeds
   - alternative rock

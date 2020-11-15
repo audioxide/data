@@ -5,7 +5,6 @@ slug: nas-illmatic
 type: reviews
 tags:
   - 1990s
-  - "25"
   - nas
   - hip hop
 featuredimage: album-artwork/illmatic-nas.jpg

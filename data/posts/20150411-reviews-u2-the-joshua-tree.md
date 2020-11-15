@@ -5,7 +5,6 @@ slug: u2-the-joshua-tree
 type: reviews
 tags:
   - 1980s
-  - "22"
   - u2
   - brian eno
   - rock

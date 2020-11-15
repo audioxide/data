@@ -5,7 +5,6 @@ slug: beastie-boys-hello-nasty
 type: reviews
 tags:
   - 1990s
-  - "22"
   - beastie boys
   - hip hop
   - the avalanches

@@ -5,7 +5,6 @@ slug: the-jimi-hendrix-experience-electric-ladyland
 type: reviews
 tags:
   - 1960s
-  - "24"
   - the jimi hendrix experience
   - rock
   - psychedelia

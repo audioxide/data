@@ -4,7 +4,6 @@ modified: 2019-07-22T19:46:44.000Z
 slug: thom-yorke-anima
 type: reviews
 tags:
-  - "19"
   - 2010s
   - thom yorke
   - electronic

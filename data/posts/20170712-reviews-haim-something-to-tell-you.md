@@ -5,7 +5,6 @@ slug: haim-something-to-tell-you
 type: reviews
 tags:
   - 2010s
-  - "21"
   - haim
   - pop
   - pop rock

@@ -4,7 +4,6 @@ modified: 2019-03-15T23:37:20.000Z
 slug: foals-everything-not-saved-will-be-lost-part-1
 type: reviews
 tags:
-  - "19"
   - 2010s
   - foals
   - indie

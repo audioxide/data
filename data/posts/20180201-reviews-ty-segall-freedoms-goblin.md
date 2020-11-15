@@ -5,7 +5,6 @@ slug: ty-segall-freedoms-goblin
 type: reviews
 tags:
   - 2010s
-  - "21"
   - ty segall
   - rock
   - alternative rock

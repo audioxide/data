@@ -4,7 +4,6 @@ modified: 2018-08-28T22:27:11.000Z
 slug: oh-sees-smote-reverser
 type: reviews
 tags:
-  - "19"
   - 2010s
   - oh sees
   - alternative rock

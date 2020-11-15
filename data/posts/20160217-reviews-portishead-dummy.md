@@ -5,7 +5,6 @@ slug: portishead-dummy
 type: reviews
 tags:
   - 1990s
-  - "26"
   - portishead
   - alternative rock
   - beak

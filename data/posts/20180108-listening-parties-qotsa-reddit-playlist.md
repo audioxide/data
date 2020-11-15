@@ -12,7 +12,7 @@ title: André and Fred listen to r/qotsa&#8217;s Best Of album
 author:
   - andre
   - fred
-blurb: "r/qotsa put together the ultimate Queens of the Stone Age playlist: ...Vulgar Songs for Villains (Rated R). We treated ourselves to a listening party."
+blurb: "r/qotsa put together the ultimate Queens of the Stone Age playlist: ...Vulgar Songs for Villains (Rated R). We put it to the test."
 
 ---
 

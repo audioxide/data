@@ -4,7 +4,6 @@ modified: 2019-07-22T19:46:27.000Z
 slug: tycho-weather
 type: reviews
 tags:
-  - "16"
   - 2010s
   - tycho
   - electronic

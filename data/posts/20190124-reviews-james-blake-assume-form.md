@@ -5,7 +5,6 @@ slug: james-blake-assume-form
 type: reviews
 tags:
   - 2010s
-  - "22"
   - james blake
   - electronic
   - pop

@@ -5,7 +5,6 @@ slug: joanna-newsom-divers
 type: reviews
 tags:
   - 2010s
-  - "23"
   - joanna newsom
   - avant garde
   - art pop

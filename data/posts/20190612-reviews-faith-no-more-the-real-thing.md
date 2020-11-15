@@ -4,7 +4,6 @@ modified: 2019-07-09T21:25:28.000Z
 slug: faith-no-more-the-real-thing
 type: reviews
 tags:
-  - "19"
   - 1980s
   - faith no more
   - rock

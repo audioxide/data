@@ -4,7 +4,6 @@ modified: 2020-04-07T19:26:06.000Z
 slug: waxahatchee-saint-cloud
 type: reviews
 tags:
-  - "20"
   - 2020s
   - waxahatchee
   - country

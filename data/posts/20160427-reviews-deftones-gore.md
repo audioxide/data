@@ -4,7 +4,6 @@ modified: 2018-03-10T23:14:13.000Z
 slug: deftones-gore
 type: reviews
 tags:
-  - "20"
   - 2010s
   - deftones
   - metal

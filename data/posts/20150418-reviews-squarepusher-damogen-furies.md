@@ -5,7 +5,6 @@ slug: squarepusher-damogen-furies
 type: reviews
 tags:
   - 2010s
-  - "21"
   - squarepusher
   - electronic
   - idm

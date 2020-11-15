@@ -5,7 +5,6 @@ slug: wolf-alice-visions-of-a-life
 type: reviews
 tags:
   - 2010s
-  - "27"
   - 27 plus club
   - wolf alice
   - rock

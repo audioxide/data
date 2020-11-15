@@ -4,7 +4,6 @@ modified: 2019-05-31T20:23:41.000Z
 slug: tim-hecker-anoyo
 type: reviews
 tags:
-  - "19"
   - 2010s
   - tim hecker
   - electronic

@@ -5,7 +5,6 @@ slug: kanye-west-the-college-dropout
 type: reviews
 tags:
   - 2000s
-  - "25"
   - kanye west
   - hip hop
 featuredimage: album-artwork/the-college-dropout-kanye-west.jpg

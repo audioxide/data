@@ -5,7 +5,6 @@ slug: the-chemical-brothers-dig-your-own-hole
 type: reviews
 tags:
   - 1990s
-  - "22"
   - the chemical brothers
   - electronic
   - big beat

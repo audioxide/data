@@ -5,7 +5,6 @@ slug: swans-the-glowing-man
 type: reviews
 tags:
   - 2010s
-  - "21"
   - swans
   - alternative rock
   - portishead

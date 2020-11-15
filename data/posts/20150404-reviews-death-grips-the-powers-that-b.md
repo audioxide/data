@@ -5,7 +5,6 @@ slug: death-grips-the-powers-that-b
 type: reviews
 tags:
   - 2010s
-  - "21"
   - death grips
   - double albums
   - industrial

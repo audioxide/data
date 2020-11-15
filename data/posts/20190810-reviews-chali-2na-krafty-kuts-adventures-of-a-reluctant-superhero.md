@@ -4,7 +4,6 @@ modified: 2019-08-15T10:52:57.000Z
 slug: chali-2na-krafty-kuts-adventures-of-a-reluctant-superhero
 type: reviews
 tags:
-  - "17"
   - 2010s
   - chali 2na
   - krafty kuts

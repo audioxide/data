@@ -4,7 +4,6 @@ modified: 2018-03-11T18:57:09.000Z
 slug: lianne-la-havas-blood
 type: reviews
 tags:
-  - "19"
   - 2010s
   - lianne la havas
   - pop

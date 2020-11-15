@@ -5,7 +5,6 @@ modified: 2020-05-06T20:08:43.000Z
 slug: flying-lotus-cosmogramma
 type: reviews
 tags:
-  - "27"
   - 2010s
   - 27 plus club
   - flying lotus

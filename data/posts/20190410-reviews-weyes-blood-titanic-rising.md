@@ -5,7 +5,6 @@ slug: weyes-blood-titanic-rising
 type: reviews
 tags:
   - 2010s
-  - "22"
   - weyes blood
   - pop
   - art pop

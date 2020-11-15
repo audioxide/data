@@ -4,7 +4,6 @@ modified: 2018-06-15T17:41:45.000Z
 slug: jack-white-boarding-house-reach
 type: reviews
 tags:
-  - "18"
   - 2010s
   - jack white
   - rock

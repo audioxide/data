@@ -5,7 +5,6 @@ slug: the-specials-the-specials
 type: reviews
 tags:
   - 1970s
-  - "23"
   - the specials
   - 2 tone
   - reggae

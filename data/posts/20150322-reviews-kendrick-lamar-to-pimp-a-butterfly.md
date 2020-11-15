@@ -5,7 +5,6 @@ slug: kendrick-lamar-to-pimp-a-butterfly
 type: reviews
 tags:
   - 2010s
-  - "27"
   - hip hop
   - 27 plus club
   - dr dre

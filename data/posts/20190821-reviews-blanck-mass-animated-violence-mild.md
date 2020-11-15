@@ -4,7 +4,6 @@ modified: 2019-08-24T23:26:59.000Z
 slug: blanck-mass-animated-violence-mild
 type: reviews
 tags:
-  - "19"
   - 2010s
   - blanck mass
   - electronic

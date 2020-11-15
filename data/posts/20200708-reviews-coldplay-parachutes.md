@@ -6,7 +6,6 @@ slug: coldplay-parachutes
 type: reviews
 tags:
   - 2000s
-  - "19"
   - coldplay
   - u2
   - radiohead

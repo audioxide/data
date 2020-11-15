@@ -5,7 +5,6 @@ slug: foals-antidotes
 type: reviews
 tags:
   - 2000s
-  - "22"
   - foals
   - alternative rock
   - indie

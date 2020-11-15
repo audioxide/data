@@ -28,8 +28,6 @@ blurb: What would the end of the year be without some lists? Here lies our favou
 ---
 
 ## 10\. “EveryBody’s Coming to My House” // David Byrne
-
-TBD
 ­
 **Fred**
 
@@ -40,8 +38,6 @@ The rattling percussion, soaring horn arrangements, and near delirious delivery 
 -----
 
 ## 9\. “The Reason They Hate Me” // Daughters
-
-TBD
 ­
 **André**
 
@@ -50,8 +46,6 @@ You can always trust a noise-rock band to provide one of the catchiest songs of 
 -----
 
 ## 8\. “Diamond” // All Them Witches
-
-TBD
 ­
 **Gabriel**
 
@@ -60,8 +54,6 @@ TBD
 -----
 
 ## 7\. “I’ll Make You Sorry” // Screaming Females
-
-TBD
 ­
 **André**
 
@@ -70,8 +62,6 @@ Screaming Females’ 2018 record *All at Once* isn’t just one of the finest ro
 -----
 
 ## 6\. “Potato Salad” // Tyler, the Creator
-
-TBD
 ­
 **Andrew**
 
@@ -84,8 +74,6 @@ Pair all of that with a video of the two larking about in France with some under
 -----
 
 ## 5\. “God Break Down the Door” // Nine Inch Nails
-
-TBD
 ­
 **Fred**
 
@@ -96,8 +84,6 @@ The breathless muddle of horns and thumping percussion that undercuts the song i
 -----
 
 ## 4\. “Honey” // Robyn
-
-TBD
 ­
 **Fred**
 
@@ -107,8 +93,6 @@ Robyn’s reflectiveness is beautifully framed by the mix. In purely aesthetic t
 -----
 
 ## 3\. “Make Me Feel” // Janelle Monae
-
-TBD
 ­
 **Andrew**
 
@@ -121,8 +105,6 @@ It’s a thoroughly enjoyable pop track that set a standard for the rest of the 
 -----
 
 ## 2\. “Colossus” // IDLES
-
-TBD
 ­
 **Marcus**
 
@@ -131,8 +113,6 @@ TBD
 -----
 
 ## 1\. “This is America” // Childish Gambino
-
-TBD
 ­
 **André**
 

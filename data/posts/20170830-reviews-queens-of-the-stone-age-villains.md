@@ -5,7 +5,6 @@ slug: queens-of-the-stone-age-villains
 type: reviews
 tags:
   - 2010s
-  - "21"
   - queens of the stone age
   - rock
   - pop rock

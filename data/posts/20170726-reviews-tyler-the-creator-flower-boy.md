@@ -5,7 +5,6 @@ slug: tyler-the-creator-flower-boy
 type: reviews
 tags:
   - "2017"
-  - "23"
   - tyler the creator
   - hip hop
   - frank ocean

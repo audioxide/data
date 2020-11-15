@@ -6,7 +6,6 @@ slug: lianne-la-havas-lianne-la-havas
 type: reviews
 tags:
   - 2020s
-  - "19"
   - lianne la havas
   - radiohead
   - rhythm and blues

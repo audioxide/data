@@ -5,7 +5,6 @@ slug: the-strokes-first-impressions-of-earth
 type: reviews
 tags:
   - 2000s
-  - "21"
   - the strokes
   - alternative rock
   - indie

@@ -5,7 +5,6 @@ slug: laura-marling-semper-femina
 type: reviews
 tags:
   - 2010s
-  - "25"
   - laura marling
   - folk
   - acoustic

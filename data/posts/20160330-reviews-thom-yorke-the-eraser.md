@@ -5,7 +5,6 @@ slug: thom-yorke-the-eraser
 type: reviews
 tags:
   - 2000s
-  - "21"
   - thom yorke
   - radiohead
   - electronic

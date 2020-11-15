@@ -4,7 +4,6 @@ modified: 2018-03-09T20:36:26.000Z
 slug: childish-gambino-awaken-my-love
 type: reviews
 tags:
-  - "19"
   - 2010s
   - childish gambino
   - contemporary r&b

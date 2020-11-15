@@ -5,7 +5,6 @@ slug: dr-dre-compton
 type: reviews
 tags:
   - 2010s
-  - "22"
   - dr dre
   - hip hop
   - eminem

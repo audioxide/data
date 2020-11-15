@@ -5,7 +5,6 @@ slug: air-moon-safari
 type: reviews
 tags:
   - 1990s
-  - "23"
   - air
   - downtempo
   - electronic

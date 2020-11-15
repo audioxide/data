@@ -4,7 +4,6 @@ modified: 2020-04-12T11:19:33.000Z
 slug: queen-news-of-the-world
 type: reviews
 tags:
-  - "16"
   - 1970s
   - queen
   - rock

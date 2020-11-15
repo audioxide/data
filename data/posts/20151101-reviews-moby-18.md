@@ -4,7 +4,6 @@ modified: 2018-03-11T18:19:18.000Z
 slug: moby-18
 type: reviews
 tags:
-  - "19"
   - 2000s
   - moby
   - electronic

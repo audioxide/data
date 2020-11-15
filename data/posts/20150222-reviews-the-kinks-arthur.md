@@ -5,7 +5,6 @@ slug: the-kinks-arthur
 type: reviews
 tags:
   - 1960s
-  - "23"
   - concept albums
   - the kinks
   - rock

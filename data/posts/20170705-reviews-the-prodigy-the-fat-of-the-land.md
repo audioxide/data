@@ -5,7 +5,6 @@ slug: the-prodigy-the-fat-of-the-land
 type: reviews
 tags:
   - 1990s
-  - "22"
   - the prodigy
   - electronic
   - air

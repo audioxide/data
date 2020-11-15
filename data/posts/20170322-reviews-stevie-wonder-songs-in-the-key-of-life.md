@@ -6,7 +6,6 @@ type: reviews
 tags:
   - 1970s
   - 27 plus club
-  - "28"
   - stevie wonder
   - frank ocean
   - soul

@@ -5,7 +5,6 @@ slug: a-tribe-called-quest-midnight-marauders
 type: reviews
 tags:
   - 1990s
-  - "28"
   - a tribe called quest
   - hip hop
   - miles davis

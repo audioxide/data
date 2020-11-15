@@ -4,7 +4,6 @@ modified: 2018-03-04T20:29:30.000Z
 slug: bjork-utopia
 type: reviews
 tags:
-  - "18"
   - 2010s
   - bjork
   - electronic

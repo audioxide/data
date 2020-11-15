@@ -4,7 +4,6 @@ modified: 2018-03-10T18:32:30.000Z
 slug: g-love-and-special-sauce-g-love-and-special-sauce
 type: reviews
 tags:
-  - "19"
   - 1990s
   - g love and special sauce
   - hip hop

@@ -5,7 +5,6 @@ slug: bat-for-lashes-two-suns
 type: reviews
 tags:
   - 2000s
-  - "21"
   - bat for lashes
   - pop
   - art pop

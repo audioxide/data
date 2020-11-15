@@ -4,7 +4,6 @@ modified: 2018-03-11T14:14:59.000Z
 slug: pj-harvey-the-hope-six-demolition-project
 type: reviews
 tags:
-  - "18"
   - 2010s
   - pj harvey
   - rock

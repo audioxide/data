@@ -5,7 +5,6 @@ slug: robyn-honey
 type: reviews
 tags:
   - 2010s
-  - "23"
   - robyn
   - pop
   - art pop

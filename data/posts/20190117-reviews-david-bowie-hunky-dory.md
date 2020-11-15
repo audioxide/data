@@ -5,7 +5,6 @@ slug: david-bowie-hunky-dory
 type: reviews
 tags:
   - 1970s
-  - "26"
   - david bowie
   - pop
   - pop rock

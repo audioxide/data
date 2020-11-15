@@ -4,7 +4,6 @@ modified: 2018-03-08T23:40:27.000Z
 slug: arcade-fire-everything-now
 type: reviews
 tags:
-  - "16"
   - "2017"
   - arcade fire
   - pop

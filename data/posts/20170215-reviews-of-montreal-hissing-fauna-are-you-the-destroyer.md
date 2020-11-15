@@ -5,7 +5,6 @@ slug: of-montreal-hissing-fauna-are-you-the-destroyer
 type: reviews
 tags:
   - 2000s
-  - "24"
   - of montreal
   - pop
   - indie

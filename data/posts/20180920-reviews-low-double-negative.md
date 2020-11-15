@@ -5,7 +5,6 @@ slug: low-double-negative
 type: reviews
 tags:
   - 2010s
-  - "22"
   - low
   - electronic
   - ambient

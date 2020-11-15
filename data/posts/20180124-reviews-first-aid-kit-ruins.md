@@ -4,7 +4,6 @@ modified: 2018-03-04T13:42:34.000Z
 slug: first-aid-kit-ruins
 type: reviews
 tags:
-  - "18"
   - 2010s
   - first aid kit
   - country

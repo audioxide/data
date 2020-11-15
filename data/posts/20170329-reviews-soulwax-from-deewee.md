@@ -4,7 +4,6 @@ modified: 2018-03-12T19:27:58.000Z
 slug: soulwax-from-deewee
 type: reviews
 tags:
-  - "13"
   - 2010s
   - soulwax
   - kraftwerk

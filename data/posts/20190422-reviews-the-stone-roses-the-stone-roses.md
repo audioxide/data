@@ -5,7 +5,6 @@ slug: the-stone-roses-the-stone-roses
 type: reviews
 tags:
   - 1980s
-  - "24"
   - the stone roses
   - rock
   - alternative rock

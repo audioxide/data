@@ -4,7 +4,6 @@ modified: 2018-03-04T20:14:14.000Z
 slug: savages-adore-life
 type: reviews
 tags:
-  - "20"
   - 2010s
   - savages
   - post punk

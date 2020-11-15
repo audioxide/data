@@ -5,7 +5,6 @@ slug: boards-of-canada-music-has-the-right-to-children
 type: reviews
 tags:
   - 1990s
-  - "26"
   - boards of canada
   - electronic
   - aphex twin

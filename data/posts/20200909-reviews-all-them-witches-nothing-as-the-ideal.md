@@ -6,7 +6,6 @@ slug: all-them-witches-nothing-as-the-ideal
 type: reviews
 tags:
   - 2020s
-  - "22"
   - all them witches
   - rock
   - post rock

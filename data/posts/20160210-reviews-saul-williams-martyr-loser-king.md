@@ -5,7 +5,6 @@ slug: saul-williams-martyr-loser-king
 type: reviews
 tags:
   - 2010s
-  - "23"
   - saul williams
   - electronic
   - hip hop

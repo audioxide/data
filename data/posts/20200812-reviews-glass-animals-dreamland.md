@@ -6,7 +6,6 @@ slug: glass-animals-dreamland
 type: reviews
 tags:
   - 2020s
-  - "18"
   - glass animals
   - pop
   - electronic

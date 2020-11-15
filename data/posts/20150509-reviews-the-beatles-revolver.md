@@ -5,7 +5,6 @@ slug: the-beatles-revolver
 type: reviews
 tags:
   - 1960s
-  - "26"
   - the beatles
   - john lennon
   - rock

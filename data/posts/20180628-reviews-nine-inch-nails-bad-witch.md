@@ -5,7 +5,6 @@ slug: nine-inch-nails-bad-witch
 type: reviews
 tags:
   - 2010s
-  - "22"
   - nine inch nails
   - industrial
   - alternative rock

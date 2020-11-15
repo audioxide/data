@@ -5,7 +5,6 @@ slug: jon-hopkins-singularity
 type: reviews
 tags:
   - 2010s
-  - "21"
   - jon hopkins
   - electronic
   - brian eno

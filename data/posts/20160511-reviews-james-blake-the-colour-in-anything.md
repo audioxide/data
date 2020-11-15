@@ -4,7 +4,6 @@ modified: 2018-03-10T20:25:29.000Z
 slug: james-blake-the-colour-in-anything
 type: reviews
 tags:
-  - "20"
   - 2010s
   - james blake
   - electronic

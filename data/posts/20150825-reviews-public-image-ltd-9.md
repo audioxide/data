@@ -4,7 +4,6 @@ modified: 2018-03-04T20:11:00.000Z
 slug: public-image-ltd-9
 type: reviews
 tags:
-  - "19"
   - 1980s
   - public image ltd
   - post punk

@@ -5,7 +5,6 @@ slug: idles-joy-as-an-act-of-resistance
 type: reviews
 tags:
   - 2010s
-  - "23"
   - idles
   - punk
   - post punk

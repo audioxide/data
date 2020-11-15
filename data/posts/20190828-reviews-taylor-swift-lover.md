@@ -4,7 +4,6 @@ modified: 2019-08-31T10:42:03.000Z
 slug: taylor-swift-lover
 type: reviews
 tags:
-  - "20"
   - 2010s
   - taylor swift
   - pop

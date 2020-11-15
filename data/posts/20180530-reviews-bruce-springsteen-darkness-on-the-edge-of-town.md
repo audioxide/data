@@ -5,7 +5,6 @@ slug: bruce-springsteen-darkness-on-the-edge-of-town
 type: reviews
 tags:
   - 1970s
-  - "22"
   - bruce springsteen
   - rock
   - arcade fire

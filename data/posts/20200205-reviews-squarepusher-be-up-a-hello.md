@@ -5,7 +5,6 @@ slug: squarepusher-be-up-a-hello
 type: reviews
 tags:
   - 2020s
-  - "22"
   - squarepusher
   - idm
   - electronic

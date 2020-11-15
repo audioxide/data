@@ -5,7 +5,6 @@ slug: nine-inch-nails-pretty-hate-machine
 type: reviews
 tags:
   - 1980s
-  - "21"
   - nine inch nails
   - industrial
   - pop

@@ -4,7 +4,6 @@ modified: 2019-03-08T16:36:14.000Z
 slug: solange-when-i-get-home
 type: reviews
 tags:
-  - "17"
   - 2010s
   - solange
   - contemporary r&b

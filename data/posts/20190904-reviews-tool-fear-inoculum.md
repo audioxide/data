@@ -4,7 +4,6 @@ modified: 2019-09-08T09:45:42.000Z
 slug: tool-fear-inoculum
 type: reviews
 tags:
-  - "15"
   - 2010s
   - tool
   - metal

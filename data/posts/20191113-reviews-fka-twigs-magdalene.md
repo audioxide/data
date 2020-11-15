@@ -4,7 +4,6 @@ modified: 2019-11-17T21:30:00.000Z
 slug: fka-twigs-magdalene
 type: reviews
 tags:
-  - "19"
   - 2010s
   - fka twigs
   - pop

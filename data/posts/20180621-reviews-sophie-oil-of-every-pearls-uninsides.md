@@ -4,7 +4,6 @@ modified: 2018-06-28T16:25:25.000Z
 slug: sophie-oil-of-every-pearls-uninsides
 type: reviews
 tags:
-  - "18"
   - 2010s
   - sophie
   - electronic

@@ -4,7 +4,6 @@ modified: 2018-03-04T20:25:58.000Z
 slug: grizzly-bear-painted-ruins
 type: reviews
 tags:
-  - "18"
   - 2010s
   - grizzly bear
   - alternative rock

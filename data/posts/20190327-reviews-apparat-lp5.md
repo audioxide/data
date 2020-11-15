@@ -4,7 +4,6 @@ modified: 2019-03-28T11:39:58.000Z
 slug: apparat-lp5
 type: reviews
 tags:
-  - "18"
   - 2010s
   - apparat
   - electronic

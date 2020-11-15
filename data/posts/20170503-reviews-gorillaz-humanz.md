@@ -4,7 +4,6 @@ modified: 2018-03-11T22:48:33.000Z
 slug: gorillaz-humanz
 type: reviews
 tags:
-  - "18"
   - 2010s
   - gorillaz
   - pop

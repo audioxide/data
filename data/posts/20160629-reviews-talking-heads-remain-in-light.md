@@ -5,7 +5,6 @@ slug: talking-heads-remain-in-light
 type: reviews
 tags:
   - 1980s
-  - "25"
   - brian eno
   - alternative rock
   - talking heads

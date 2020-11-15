@@ -4,7 +4,6 @@ modified: 2018-03-12T19:48:23.000Z
 slug: marilyn-manson-heaven-upside-down
 type: reviews
 tags:
-  - "18"
   - 2010s
   - marilyn manson
   - industrial

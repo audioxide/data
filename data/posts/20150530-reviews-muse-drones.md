@@ -4,7 +4,6 @@ modified: 2018-03-11T17:49:02.000Z
 slug: muse-drones
 type: reviews
 tags:
-  - "17"
   - 2010s
   - muse
   - rock

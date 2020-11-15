@@ -5,7 +5,6 @@ slug: tom-waits-rain-dogs
 type: reviews
 tags:
   - 1980s
-  - "21"
   - tom waits
   - alternative rock
   - rock

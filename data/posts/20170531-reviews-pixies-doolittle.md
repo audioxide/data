@@ -5,7 +5,6 @@ slug: pixies-doolittle
 type: reviews
 tags:
   - 1980s
-  - "25"
   - pixies
   - alternative rock
   - grunge

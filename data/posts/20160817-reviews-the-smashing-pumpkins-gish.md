@@ -5,7 +5,6 @@ slug: the-smashing-pumpkins-gish
 type: reviews
 tags:
   - 1990s
-  - "22"
   - the smashing pumpkins
   - grunge
   - alternative rock

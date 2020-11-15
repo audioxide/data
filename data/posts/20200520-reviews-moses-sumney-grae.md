@@ -7,7 +7,6 @@ type: reviews
 tags:
   - 2020s
   - moses sumney
-  - "24"
   - pop
   - art pop
   - electronic

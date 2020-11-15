@@ -5,7 +5,6 @@ slug: david-bowie-blackstar
 type: reviews
 tags:
   - 2010s
-  - "24"
   - david bowie
   - alternative rock
   - rock

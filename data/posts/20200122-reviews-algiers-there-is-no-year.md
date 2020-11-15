@@ -4,7 +4,6 @@ modified: 2020-01-25T15:25:32.000Z
 slug: algiers-there-is-no-year
 type: reviews
 tags:
-  - "19"
   - 2020s
   - algiers
   - electronic

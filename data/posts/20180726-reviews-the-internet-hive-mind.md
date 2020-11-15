@@ -4,7 +4,6 @@ modified: 2018-07-26T21:47:15.000Z
 slug: the-internet-hive-mind
 type: reviews
 tags:
-  - "16"
   - 2010s
   - the internet
   - rhythm and blues

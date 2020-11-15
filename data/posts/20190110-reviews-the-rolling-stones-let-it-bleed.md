@@ -5,7 +5,6 @@ slug: the-rolling-stones-let-it-bleed
 type: reviews
 tags:
   - 1960s
-  - "25"
   - the rolling stones
   - rock
   - psychedelia

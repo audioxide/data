@@ -5,7 +5,6 @@ slug: black-sabbath-paranoid
 type: reviews
 tags:
   - 1970s
-  - "23"
   - black sabbath
   - metal
   - nine inch nails

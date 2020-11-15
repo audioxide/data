@@ -5,7 +5,6 @@ slug: david-bowie-low
 type: reviews
 tags:
   - 1970s
-  - "27"
   - 27 plus club
   - david bowie
   - brian eno

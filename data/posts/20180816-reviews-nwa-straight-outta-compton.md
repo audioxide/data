@@ -5,7 +5,6 @@ slug: nwa-straight-outta-compton
 type: reviews
 tags:
   - 1980s
-  - "24"
   - nwa
   - hip hop
   - kendrick lamar

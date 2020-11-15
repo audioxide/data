@@ -6,7 +6,6 @@ slug: nas-kings-disease
 type: reviews
 tags:
   - 2020s
-  - "20"
   - nas
   - hip hop
   - kanye west

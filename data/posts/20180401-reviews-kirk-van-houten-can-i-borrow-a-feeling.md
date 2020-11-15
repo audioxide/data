@@ -5,7 +5,6 @@ slug: kirk-van-houten-can-i-borrow-a-feeling
 type: reviews
 tags:
   - 1990s
-  - "20"
   - kirk van houten
   - the simpsons
   - blues

@@ -4,7 +4,6 @@ modified: 2018-06-02T14:12:18.000Z
 slug: mia-aim
 type: reviews
 tags:
-  - "12"
   - 2010s
   - mia
   - hip hop

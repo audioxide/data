@@ -4,7 +4,6 @@ modified: 2018-04-10T16:37:00.000Z
 slug: major-lazer-free-the-universe
 type: reviews
 tags:
-  - "16"
   - 2010s
   - major lazer
   - edm

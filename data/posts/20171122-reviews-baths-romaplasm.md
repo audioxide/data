@@ -4,7 +4,6 @@ modified: 2018-03-12T19:46:12.000Z
 slug: baths-romaplasm
 type: reviews
 tags:
-  - "19"
   - 2010s
   - baths
   - electronic

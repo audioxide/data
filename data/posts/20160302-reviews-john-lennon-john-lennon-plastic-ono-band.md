@@ -5,7 +5,6 @@ slug: john-lennon-john-lennon-plastic-ono-band
 type: reviews
 tags:
   - 1970s
-  - "21"
   - john lennon
   - the beatles
   - rock

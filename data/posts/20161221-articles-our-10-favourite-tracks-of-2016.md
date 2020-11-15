@@ -27,8 +27,6 @@ blurb: Songs what we liked in 2016.
 
 ## 10\. “Pripyat” // Mogwai
 
-TBD
-
 **André**
 
 Much of [Mogwai’s latest record/soundtrack](/reviews/mogwai-atomic/) is exceedingly beautiful, at times bordering on the realms of tranquility. “Pripyat”, with its ever-evolving drones and boisterous crescendos, is the terrifying exception. Named after the abandoned town in Ukraine that was subject to a tragic nuclear disaster 30 years ago, the track is utterly relentless in its apocalyptic tone. Mogwai are one of only a few artists who can muster such a menacing soundscape of this quality. The long bridge of mutating sounds and severe use of stretched dynamics are both key factors, but it’s the unsettling pace of the percussion that truly drives home the ominous inevitability of destruction, and the tom fills in the final crescendo are absolutely explosive. The dust quickly settles, which only highlights the extreme level of destruction. As an audible depiction of the looming threat of nuclear power, “Pripyat” is frighteningly flawless. I’m sure Mogwai will be pleased to know that it has joined my [‘end of](https://www.youtube.com/watch?v=YFrl01aPPkA) [the world’](https://www.youtube.com/watch?v=Z0GFRcFm-aY) playlist.
@@ -36,8 +34,6 @@ Much of [Mogwai’s latest record/soundtrack](/reviews/mogwai-atomic/) is exceed
 -----
 
 ## 9\. “Real Friends” // Kanye West
-
-TBD
 
 **Fred**
 
@@ -47,8 +43,6 @@ TBD
 
 ## 8\. “Life Itself” // Glass Animals
 
-TBD
-
 **Andrew**
 
 I’ve been hooked on most of Glass Animals’ latest album, *How to be a Human Being*, since its release in the summer, but “Life Itself” was the track that hooked its claws in furthest. Livelier than my other favourites on the album, “Life Itself” makes for an excellent opener with an infectious, tribal drum pattern panned right by the listener’s ears and synths twinkling and jerking at opposite ends of the stereo field as Dave Bayley’s smooth vocals glide through the centre of the mix. As the chorus erupts with thick, fizzing synths and a catchy vocal melody, “Life Itself” firmly worms its way into my head. The whole track reeks of summer to me which only does the track further favours. The cherry on top? The track’s lead character has [his own site](http://raygun123.com/), MIDI re-interpretation and all.
@@ -56,8 +50,6 @@ I’ve been hooked on most of Glass Animals’ latest album, *How to be a Human 
 -----
 
 ## 7\. “Untitled 02 \| 06.23.2014.” // Kendrick Lamar
-
-TBD
 
 **Fred**
 
@@ -67,8 +59,6 @@ Kendrick Lamar is silly talented. [*To Pimp a Butterfly*](/reviews/kendrick-lama
 
 ## 6\. “Symptom of Terminal Illness” // The Dillinger Escape Plan
 
-TBD
-
 **André**
 
 “Symptom of Terminal Illness” stands confidently as one of the best rock songs of the year. By The Dillinger Escape Plan’s frenzied standards, it’s a delicate and surprisingly measured affair, refraining from the usual traits of mathcore that [*Dissociation*](/reviews/the-dillinger-escape-plan-dissociation/) is otherwise made out of. It’s one of only a few cuts on the record that contains a conventional structure for listeners to follow, and it distinctly benefits from the obvious restrain. The roaring, thundering chorus, which admittedly sounds more like [Deftones](/reviews/deftones-gore/) than it does Dillinger, is almost anthem-like in its forthright approach. Greg Puciato’s confessional cries sound triumphant over the rousing backdrop of organised noise, of which the band have become so accustomed to generating during their rambunctious career. Upon release, Puciato described the song as “the most literal and non-metaphoric or abstract thing” that he’s ever written. It can be easily forgotten, but the simpler songs are often the most effective.
@@ -76,8 +66,6 @@ TBD
 -----
 
 ## 5\. “Distant Sky” // Nick cave & The Bad Seeds
-
-TBD
 
 **Andrew**
 
@@ -87,8 +75,6 @@ This was a surprising track for me and one that nearly escaped my top 10 list in
 
 ## 4\. “Burn the Witch” // Radiohead
 
-TBD
-
 **André**
 
 Though it may not go down as their best, “Burn the Witch” will likely be remembered as one of the most important songs in Radiohead’s contextual history. Its release back in early May felt like a highly satisfying glimpse into the eagerly anticipated [LP9](/reviews/radiohead-a-moon-shaped-pool/), putting to rest many of the fears that fans had aggregated since *The King of Limbs*, which polarised listeners due to its stiff, mechanical mannerisms. The first few bars of dramatic strings were once a welcome sensation – now, they represent the dawn of a new Radiohead era. String arrangements had been a feature of the band’s music since [*OK Computer*](/reviews/radiohead-ok-computer/), but never before have they been so prominent. Jonny Greenwood’s work is the beating heart of “Burn the Witch”. After a second rendition of the haunting chorus, the song reaches a climax of [*There Will Be Blood*](https://www.youtube.com/watch?v=f_Al5i_cwsk&index=8&list=PLKiEBsOXrNf7og5WPYsx1Klmhvhy_p_sK) proportions, as the speckled string notes rise in intensity to shower the ear ducts like a swarm of insects shifting through the dirt. The euphoria could not be contained – Radiohead’s music felt alive again.
@@ -96,8 +82,6 @@ Though it may not go down as their best, “Burn the Witch” will likely be rem
 -----
 
 ## 3\. “Hold up” // Beyonce
-
-TBD
 
 **Andrew**
 
@@ -107,8 +91,6 @@ Another track that’s found its way into my ears and won’t come back out agai
 
 ## 2\. “True Love Waits” // Radiohead
 
-TBD
-
 **Fred**
 
 It’s hard to explain why “True Love Waits” is so powerful without sounding like a colossal sap. There’s such a gentle finality to it. Prior to its recording for [*A Moon Shaped Pool*](/reviews/radiohead-a-moon-shaped-pool/), it had famously been kicking around for twenty years. Ed O’Brien once joked that failed attempts to record the song number in the hundreds—and that was in 2000! One can only wonder at the forms “True Love Waits” has taken in its lifetime. And after all that time and thought and care, Radiohead nail it as a piano ballad, because of course they do. That’s all it needed. Bittersweet doesn’t begin to describe the beauty of “True Love Waits”. It has that tenderness of beaten and bruised innocence. The impossible softness of Thom Yorke’s vocals, the almost childlike sway of the piano; the song’s purity-in-spite-of-itself borders on the sublime. I continue to find it uniquely moving. If *Songs of Innocence and of Experience *were songs, I think a lot of them would sound like “True Love Waits”.
@@ -117,11 +99,9 @@ It’s hard to explain why “True Love Waits” is so powerful without sounding
 
 ## 1\. “Blackstar”// David Bowie
 
-TBD
-
 **André**
 
-How typical of Bowie to turn the forecast of death into a fine piece of art. The beautifully composed [*Blackstar*](/reviews/david-bowie-blackstar/) is one of the most fascinating farewells in music history, with jazz-tinged instrumentals acting as an underlay for some of Bowie’s most striking lyrical content to date, and no song better illustrates the record’s creative credentials than its 10-minute art-rock title track. Thematically, it expands on the insurgent musings that have marked many of his previous works by converting them into subtle introspections. It wasn’t clear at the time, but Bowie had effectively created his own requiem. Listening to it now feels like some sort of religious experience. There’s a wonderful, spiritual vibe to the song that endures for its entire duration, with brooding chants of Satanic suggestions combining exquisitely with supernatural saxophone solo’s, plaguing it with an unforgiving sense of grief. Even during his [most experimental years](/reviews/david-bowie-low/>), Bowie had never sounded this mysterious: for him to produce something so audacious at this time, particularly at such a delicate stage of his life, is a truly remarkable feat. In spite of its many credentials, Bowie’s final album is unlikely to be held on the same pedestal as his most celebrated works, but “Blackstar” is nonetheless a song that completely exemplifies Bowie’s commitment to craft and his devotion to performance.
+How typical of Bowie to turn the forecast of death into a fine piece of art. The beautifully composed [*Blackstar*](/reviews/david-bowie-blackstar/) is one of the most fascinating farewells in music history, with jazz-tinged instrumentals acting as an underlay for some of Bowie’s most striking lyrical content to date, and no song better illustrates the record’s creative credentials than its 10-minute art-rock title track. Thematically, it expands on the insurgent musings that have marked many of his previous works by converting them into subtle introspections. It wasn’t clear at the time, but Bowie had effectively created his own requiem. Listening to it now feels like some sort of religious experience. There’s a wonderful, spiritual vibe to the song that endures for its entire duration, with brooding chants of Satanic suggestions combining exquisitely with supernatural saxophone solo’s, plaguing it with an unforgiving sense of grief. Even during his [most experimental years](/reviews/david-bowie-low/), Bowie had never sounded this mysterious: for him to produce something so audacious at this time, particularly at such a delicate stage of his life, is a truly remarkable feat. In spite of its many credentials, Bowie’s final album is unlikely to be held on the same pedestal as his most celebrated works, but “Blackstar” is nonetheless a song that completely exemplifies Bowie’s commitment to craft and his devotion to performance.
 
 **Fred**
 

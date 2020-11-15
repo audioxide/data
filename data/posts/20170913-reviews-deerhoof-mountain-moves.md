@@ -5,7 +5,6 @@ slug: deerhoof-mountain-moves
 type: reviews
 tags:
   - 2010s
-  - "22"
   - deerhoof
   - alternative rock
   - pop rock

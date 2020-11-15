@@ -5,7 +5,6 @@ slug: miles-davis-kind-of-blue
 type: reviews
 tags:
   - 1950s
-  - "27"
   - 27 plus club
   - miles davis
   - flying lotus

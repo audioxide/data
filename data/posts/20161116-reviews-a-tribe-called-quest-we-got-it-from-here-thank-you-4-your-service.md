@@ -4,7 +4,6 @@ modified: 2018-03-10T14:52:02.000Z
 slug: a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service
 type: reviews
 tags:
-  - "19"
   - 2010s
   - a tribe called quest
   - hip hop

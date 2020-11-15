@@ -5,7 +5,6 @@ slug: sigur-ros-agaetis-byrjun
 type: reviews
 tags:
   - 1990s
-  - "22"
   - sigur ros
   - spiritualized
   - post rock

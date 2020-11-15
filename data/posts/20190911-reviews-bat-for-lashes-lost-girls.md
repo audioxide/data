@@ -5,7 +5,6 @@ slug: bat-for-lashes-lost-girls
 type: reviews
 tags:
   - 2010s
-  - "22"
   - bat for lashes
   - pop
   - art pop

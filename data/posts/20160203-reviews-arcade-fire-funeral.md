@@ -5,7 +5,6 @@ slug: arcade-fire-funeral
 type: reviews
 tags:
   - 2000s
-  - "26"
   - arcade fire
   - alternative rock
   - rock

@@ -5,7 +5,6 @@ slug: solange-a-seat-at-the-table
 type: reviews
 tags:
   - 2010s
-  - "21"
   - solange
   - contemporary r&b
   - kendrick lamar

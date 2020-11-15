@@ -19,7 +19,7 @@ title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and
 author: 
   - andre
   - fred
-blurb: "&#8220;Show those ruffians how it&#8217;s done&#8221;"
+blurb: Metallica roll back the years with a tight, rollicking ride, wiping the smug looks off our faces in the process.
 
 ---
 

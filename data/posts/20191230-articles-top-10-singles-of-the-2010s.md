@@ -31,8 +31,6 @@ blurb: The decade had some doozies. Here were our favourites.
 -----
 
 ## 10\. “Blockbuster Night, Pt. 1” // Run the Jewels
-
-TBD
 ­
 **Marcus**
 
@@ -41,8 +39,6 @@ Distilling all the best qualities of one of the decade’s finest and most signi
 -----
 
 ## 9\. “Surgeon” // St. Vincent
-
-TBD
 ­
 **Marcus**
 
@@ -51,8 +47,6 @@ Rhythmic flexibility, a staggeringly serene voice lacking any pretence, and an u
 -----
 
 ## 8\. “Soothing” // Laura Marling
-
-TBD
 ­
 **Fred**
 
@@ -61,8 +55,6 @@ Laura Marling has an uncanny knack for making human intimacy and warmth feel ice
 -----
 
 ## 7\. “The Words that Maketh Murder” // PJ Harvey
-
-TBD
 ­
 **André**
 
@@ -71,8 +63,6 @@ TBD
 -----
 
 ## 6\. “Redbone” // Childish Gambino
-
-TBD
 ­
 **Andrew**
 
@@ -85,8 +75,6 @@ It also marks a more general return of funk and soul in the 2010s, with the like
 -----
 
 ## 5\. “I Sat by the Ocean” // Queens of the Stone Age
-
-TBD
 ­
 **Marcus**
 
@@ -95,8 +83,6 @@ TBD
 -----
 
 ## 4\. “Ain’t It Funny” // Danny Brown
-
-TBD
 ­
 **André**
 
@@ -105,8 +91,6 @@ Midway through the superb, Jonah Hill-directed video that accompanies “Ain’t
 -----
 
 ## 3\. “Pyramids” // Frank Ocean
-
-TBD
 ­
 **Marcus**
 
@@ -115,8 +99,6 @@ TBD
 -----
 
 ## 2\. “Blackstar” // David Bowie
-
-TBD
 ­
 **Fred**
 
@@ -125,8 +107,6 @@ The centre piece of David Bowie’s farewell album had to be something special, 
 -----
 
 ## 1\. “Don’t Delete the Kisses” // Wolf Alice
-
-TBD
 ­
 **André**
 

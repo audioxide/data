@@ -5,7 +5,6 @@ slug: the-flaming-lips-yoshimi-battles-the-pink-robots
 type: reviews
 tags:
   - 2000s
-  - "23"
   - the flaming lips
   - alternative rock
   - pop rock

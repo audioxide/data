@@ -5,7 +5,6 @@ slug: wolf-alice-my-love-is-cool
 type: reviews
 tags:
   - 2010s
-  - "21"
   - wolf alice
   - rock
   - alternative rock

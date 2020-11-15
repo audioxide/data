@@ -5,7 +5,6 @@ slug: pink-floyd-the-dark-side-of-the-moon
 type: reviews
 tags:
   - 1970s
-  - "27"
   - 27 plus club
   - rock
   - alternative rock

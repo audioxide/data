@@ -5,7 +5,6 @@ slug: gorillaz-plastic-beach
 type: reviews
 tags:
   - 2010s
-  - "24"
   - gorillaz
   - pop
   - pop rock

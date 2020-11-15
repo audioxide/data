@@ -6,7 +6,6 @@ slug: kelly-lee-owens-inner-song
 type: reviews
 tags:
   - 2020s
-  - "21"
   - kelly lee owens
   - electronic
   - james blake

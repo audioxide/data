@@ -5,7 +5,6 @@ slug: muse-origin-of-symmetry
 type: reviews
 tags:
   - 2000s
-  - "26"
   - muse
   - rock
   - alternative rock

@@ -5,7 +5,6 @@ slug: godspeed-you-black-emperor-f-sharp-a-sharp-infinity
 type: reviews
 tags:
   - 1990s
-  - "23"
   - godspeed you black emperor
   - post rock
   - fallout

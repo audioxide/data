@@ -4,7 +4,6 @@ modified: 2019-04-05T21:51:39.000Z
 slug: drenge-strange-creatures
 type: reviews
 tags:
-  - "19"
   - 2010s
   - drenge
   - grunge

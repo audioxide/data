@@ -5,7 +5,6 @@ slug: elvis-costello-my-aim-is-true
 type: reviews
 tags:
   - 1970s
-  - "24"
   - elvis costello
   - punk
   - rock

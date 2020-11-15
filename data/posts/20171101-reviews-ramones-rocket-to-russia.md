@@ -4,7 +4,6 @@ modified: 2020-04-12T11:16:26.000Z
 slug: ramones-rocket-to-russia
 type: reviews
 tags:
-  - "17"
   - 1970s
   - ramones
   - punk

@@ -4,7 +4,6 @@ modified: 2018-03-04T20:08:43.000Z
 slug: pixies-bossanova
 type: reviews
 tags:
-  - "19"
   - 1990s
   - pixies
   - alternative rock

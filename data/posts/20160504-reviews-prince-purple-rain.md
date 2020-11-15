@@ -6,7 +6,6 @@ type: reviews
 tags:
   - 1980s
   - prince
-  - "25"
   - pop
   - pop rock
   - rock

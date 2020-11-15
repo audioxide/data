@@ -5,7 +5,6 @@ slug: grandaddy-the-sophtware-slump
 type: reviews
 tags:
   - 2000s
-  - "25"
   - grandaddy
   - indie
   - alternative rock

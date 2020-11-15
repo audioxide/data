@@ -5,7 +5,6 @@ slug: spiritualized-ladies-and-gentleman-we-are-floating-in-space
 type: reviews
 tags:
   - 1990s
-  - "26"
   - spiritualized
   - alternative rock
   - space rock

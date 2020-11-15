@@ -5,7 +5,6 @@ slug: beak-beak-three
 type: reviews
 tags:
   - 2010s
-  - "22"
   - beak
   - alternative rock
   - portishead

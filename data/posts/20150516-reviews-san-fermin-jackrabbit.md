@@ -5,7 +5,6 @@ slug: san-fermin-jackrabbit
 type: reviews
 tags:
   - 2010s
-  - "22"
   - san fermin
   - pop
   - art pop

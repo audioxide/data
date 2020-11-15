@@ -5,7 +5,6 @@ slug: james-blake-overgrown
 type: reviews
 tags:
   - 2010s
-  - "22"
   - james blake
   - electronic
   - soul

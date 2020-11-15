@@ -5,7 +5,6 @@ slug: the-be-sharps-meet-the-be-sharps
 type: reviews
 tags:
   - 1990s
-  - "27"
   - 27 plus club
   - the be sharps
   - barbershop

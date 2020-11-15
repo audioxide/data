@@ -5,7 +5,6 @@ slug: weezer-the-blue-album
 type: reviews
 tags:
   - 1990s
-  - "24"
   - weezer
   - rock
   - alternative rock

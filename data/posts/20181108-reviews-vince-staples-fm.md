@@ -5,7 +5,6 @@ slug: vince-staples-fm
 type: reviews
 tags:
   - 2010s
-  - "21"
   - vince staples
   - hip hop
   - kendrick lamar

@@ -6,7 +6,6 @@ type: reviews
 tags:
   - 1990s
   - 27 plus club
-  - "28"
   - concept albums
   - nine inch nails
   - industrial

@@ -5,7 +5,6 @@ slug: janelle-monae-dirty-computer
 type: reviews
 tags:
   - 2010s
-  - "21"
   - janelle monae
   - pop
   - kendrick lamar

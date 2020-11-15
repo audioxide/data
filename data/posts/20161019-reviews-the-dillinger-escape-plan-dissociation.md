@@ -5,7 +5,6 @@ slug: the-dillinger-escape-plan-dissociation
 type: reviews
 tags:
   - 2010s
-  - "21"
   - dillinger escape plan
   - metal
   - jazz

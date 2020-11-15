@@ -4,7 +4,6 @@ modified: 2018-09-28T16:35:56.000Z
 slug: spiritualized-and-nothing-hurt
 type: reviews
 tags:
-  - "18"
   - 2010s
   - spiritualized
   - alternative rock

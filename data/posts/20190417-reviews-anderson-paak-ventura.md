@@ -5,7 +5,6 @@ slug: anderson-paak-ventura
 type: reviews
 tags:
   - 2010s
-  - "21"
   - anderson paak
   - hip hop
   - stevie wonder

@@ -4,7 +4,6 @@ modified: 2018-03-10T18:26:22.000Z
 slug: lady-gaga-joanne
 type: reviews
 tags:
-  - "14"
   - 2010s
   - lady gaga
   - pop

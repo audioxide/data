@@ -5,7 +5,6 @@ slug: system-of-a-down-toxicity
 type: reviews
 tags:
   - 2000s
-  - "21"
   - system of a down
   - metal
   - nu metal

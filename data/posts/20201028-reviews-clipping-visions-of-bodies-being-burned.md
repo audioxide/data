@@ -6,7 +6,6 @@ slug: clipping-visions-of-bodies-being-burned
 type: reviews
 tags:
   - 2020s
-  - "24"
   - clipping
   - hip hop
   - experimental hip hop

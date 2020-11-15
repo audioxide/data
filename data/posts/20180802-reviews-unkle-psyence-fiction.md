@@ -4,7 +4,6 @@ modified: 2018-08-02T11:04:59.000Z
 slug: unkle-psyence-fiction
 type: reviews
 tags:
-  - "23"
   - 1990s
   - unkle
   - electronic

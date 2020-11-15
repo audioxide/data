@@ -5,7 +5,6 @@ slug: laura-marling-song-for-our-daughter
 type: reviews
 tags:
   - 2020s
-  - "25"
   - laura marling
   - acoustic
   - folk

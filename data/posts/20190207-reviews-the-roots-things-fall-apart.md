@@ -5,7 +5,6 @@ slug: the-roots-things-fall-apart
 type: reviews
 tags:
   - 1990s
-  - "23"
   - the roots
   - hip hop
   - kendrick lamar

@@ -5,7 +5,6 @@ slug: st-vincent-st-vincent
 type: reviews
 tags:
   - 2010s
-  - "22"
   - st vincent
   - alternative rock
   - pop rock

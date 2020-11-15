@@ -4,7 +4,6 @@ modified: 2018-03-11T17:57:37.000Z
 slug: jaga-jazzist-starfire
 type: reviews
 tags:
-  - "19"
   - 2010s
   - jaga jazzist
   - jazz

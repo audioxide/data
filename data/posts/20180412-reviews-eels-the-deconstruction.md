@@ -4,7 +4,6 @@ modified: 2018-06-15T18:00:30.000Z
 slug: eels-the-deconstruction
 type: reviews
 tags:
-  - "19"
   - 2010s
   - eels
   - alternative rock

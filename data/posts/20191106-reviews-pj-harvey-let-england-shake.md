@@ -5,7 +5,6 @@ slug: pj-harvey-let-england-shake
 type: reviews
 tags:
   - 2010s
-  - "24"
   - pj harvey
   - alternative rock
   - rock

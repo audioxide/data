@@ -5,7 +5,6 @@ slug: nirvana-in-utero
 type: reviews
 tags:
   - 1990s
-  - "24"
   - nirvana
   - grunge
   - alternative rock

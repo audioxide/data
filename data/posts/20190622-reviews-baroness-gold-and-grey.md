@@ -5,7 +5,6 @@ slug: baroness-gold-and-grey
 type: reviews
 tags:
   - 2010s
-  - "22"
   - baroness
   - metal
 featuredimage: album-artwork/gold-and-grey-baroness.jpg

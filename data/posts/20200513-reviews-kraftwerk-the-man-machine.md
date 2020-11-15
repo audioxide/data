@@ -6,7 +6,6 @@ slug: kraftwerk-the-man-machine
 type: reviews
 tags:
   - 1970s
-  - "23"
   - kraftwerk
   - electronic
   - pop

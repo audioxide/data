@@ -5,7 +5,6 @@ slug: frank-ocean-channel-orange
 type: reviews
 tags:
   - 2010s
-  - "24"
   - frank ocean
   - hip hop
   - pop

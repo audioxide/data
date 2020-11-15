@@ -6,7 +6,6 @@ slug: nothing-the-great-dismal
 type: reviews
 tags:
   - 2020s
-  - "20"
   - nothing
   - rock
   - alternative rock

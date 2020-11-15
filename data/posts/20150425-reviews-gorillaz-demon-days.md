@@ -5,7 +5,6 @@ slug: gorillaz-demon-days
 type: reviews
 tags:
   - 2000s
-  - "26"
   - gorillaz
   - pop
   - pop rock

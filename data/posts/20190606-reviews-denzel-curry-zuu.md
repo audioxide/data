@@ -5,7 +5,6 @@ slug: denzel-curry-zuu
 type: reviews
 tags:
   - 2010s
-  - "22"
   - denzel curry
   - hip hop
 featuredimage: album-artwork/zuu-denzel-curry.jpg

@@ -5,7 +5,6 @@ slug: vampire-weekend-father-of-the-bride
 type: reviews
 tags:
   - 2010s
-  - "21"
   - vampire weekend
   - indie
   - pop

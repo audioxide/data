@@ -5,7 +5,6 @@ slug: kendrick-lamar-damn
 type: reviews
 tags:
   - 2010s
-  - "22"
   - kendrick lamar
   - hip hop
   - james blake

@@ -5,7 +5,6 @@ slug: run-the-jewels-run-the-jewels-2
 type: reviews
 tags:
   - 2010s
-  - "26"
   - run the jewels
   - hip hop
   - death grips

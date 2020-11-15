@@ -52,7 +52,7 @@ title: The Slug URL             # Can be inferred from the slug in the filename
 type: article                   # Can be inferred from the filename
 tags:                           # Optional
   - 2010s                       # Specify as one per line or ["in", "an", "array"] format
-  - "22"
+  - pop
   - bat for lashes
 featuredimage: 2016/06/file.png # Relates to a path from the ./data/images directory
 author: fred                    # Relates to an author file in ./data/authors directory

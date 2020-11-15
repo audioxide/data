@@ -4,7 +4,6 @@ modified: 2018-03-10T21:43:35.000Z
 slug: bat-for-lashes-the-bride
 type: reviews
 tags:
-  - "15"
   - 2010s
   - bat for lashes
   - pop

@@ -6,7 +6,6 @@ type: reviews
 tags:
   - 1990s
   - 27 plus club
-  - "28"
   - bjork
   - idm
   - art pop

@@ -5,7 +5,6 @@ slug: godspeed-you-black-emperor-luciferian-towers
 type: reviews
 tags:
   - 2010s
-  - "24"
   - godspeed you black emperor
   - post rock
   - mogwai

@@ -4,7 +4,6 @@ modified: 2018-03-09T00:12:33.000Z
 slug: alt-j-relaxer
 type: reviews
 tags:
-  - "16"
   - 2010s
   - alt j
   - alternative rock

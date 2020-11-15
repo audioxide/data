@@ -5,7 +5,6 @@ slug: elvis-presley-elvis-presley
 type: reviews
 tags:
   - 1950s
-  - "21"
   - elvis presley
   - rock
   - blues

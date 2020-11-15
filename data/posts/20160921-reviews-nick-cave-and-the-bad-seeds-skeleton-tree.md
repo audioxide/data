@@ -5,7 +5,6 @@ slug: nick-cave-and-the-bad-seeds-skeleton-tree
 type: reviews
 tags:
   - 2010s
-  - "23"
   - nick cave and the bad seeds
   - alternative rock
   - david bowie

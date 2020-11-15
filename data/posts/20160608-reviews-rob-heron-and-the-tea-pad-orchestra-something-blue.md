@@ -4,7 +4,6 @@ modified: 2018-03-06T00:20:39.000Z
 slug: rob-heron-and-the-tea-pad-orchestra-something-blue
 type: reviews
 tags:
-  - "18"
   - 2010s
   - rob heron and the tea pad orchestra
   - rock

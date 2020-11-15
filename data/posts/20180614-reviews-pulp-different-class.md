@@ -5,7 +5,6 @@ slug: pulp-different-class
 type: reviews
 tags:
   - 1990s
-  - "26"
   - jarvis cocker
   - pulp
   - britpop

@@ -6,7 +6,6 @@ slug: bob-dylan-rough-and-rowdy-ways
 type: reviews
 tags:
   - 2020s
-  - "18"
   - bob dylan
   - rock
   - blues

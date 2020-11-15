@@ -6,7 +6,6 @@ type: reviews
 tags:
   - 1990s
   - 27 plus club
-  - "29"
   - alternative rock
   - rock
   - radiohead

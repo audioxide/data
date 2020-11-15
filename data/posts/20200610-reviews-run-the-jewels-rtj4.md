@@ -6,7 +6,6 @@ slug: run-the-jewels-rtj4
 type: reviews
 tags:
   - 2020s
-  - "24"
   - run the jewels
   - hip hop
   - the prodigy

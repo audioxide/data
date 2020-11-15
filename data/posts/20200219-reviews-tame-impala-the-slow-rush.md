@@ -4,7 +4,6 @@ modified: 2020-02-21T14:14:38.000Z
 slug: tame-impala-the-slow-rush
 type: reviews
 tags:
-  - "20"
   - 2020s
   - tame impala
   - electronic

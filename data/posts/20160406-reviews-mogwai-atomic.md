@@ -5,7 +5,6 @@ slug: mogwai-atomic
 type: reviews
 tags:
   - 2010s
-  - "22"
   - mogwai
   - post rock
   - space rock

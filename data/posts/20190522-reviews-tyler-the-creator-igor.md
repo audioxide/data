@@ -5,7 +5,6 @@ slug: tyler-the-creator-igor
 type: reviews
 tags:
   - 2010s
-  - "23"
   - tyler the creator
   - hip hop
   - frank ocean

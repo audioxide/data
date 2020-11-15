@@ -4,7 +4,6 @@ modified: 2018-03-11T14:28:35.000Z
 slug: adele-25
 type: reviews
 tags:
-  - "17"
   - 2010s
   - adele
   - pop

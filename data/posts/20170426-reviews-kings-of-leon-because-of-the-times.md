@@ -5,7 +5,6 @@ slug: kings-of-leon-because-of-the-times
 type: reviews
 tags:
   - 2000s
-  - "21"
   - kings of leon
   - rock
   - u2

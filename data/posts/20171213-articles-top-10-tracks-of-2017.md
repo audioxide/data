@@ -34,8 +34,6 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ## 10\. “Humble.” // Kendrick Lamar
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tvTRZJ-4EyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **Marcus**
 
 “HUMBLE.”’s pre-album release worked as a simultaneous bookend to the themes and musical direction of [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly.jpg), and a spectacular act of misdirection. Following “The Heart Part IV”, The Young Pope comes back into the ring in a fighting mood, looking to throw weight behind his perfectly reasonable claim that he’s the greatest rapper alive. What we have in “HUMBLE.” is Kendrick at his most bombastic, egocentric, and playful. At the time the track admittedly fooled me into believing Kendrick had (at least partly) entered a new era of unbridled braggadocio, but in retrospect it feels like a deliberate ploy. After the introspective bars and tightly contained sonic textures of *Pimp*, the bouncing space, percussive piano notes, and near-violent self-reflexive affirmations are an alarming but organic change of pace that amply reminds us of Kendrick’s boundless range. It goes without saying that Kendrick’s flow and lyricism – original, natural, and tirelessly metamorphic – are impeccable, and the production’s blending of sharp synths, the aforementioned piano melody, and an unorthodox trap beat, is immaculate without feeling over-polished. In the context of the album “HUMBLE.” can feel like a dark horse alongside its less aggressive brethren, but it’s entirely vital to the LP-wide display of Kendrick’s mastery of momentum.
@@ -43,8 +41,6 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 -----
 
 ## 9\. “Popeye” // Quelle Chris
-
-TBD
 
 **Michael**
 
@@ -54,8 +50,6 @@ TBD
 
 ## 8\. “Bosses Hang” // Godspeed You! Black Emperor
 
-TBD
-
 **Fred**
 
 I was totally enamored with [*A Luciferian Towers*](/reviews/godspeed-you-black-emperor-luciferian-towers/) when it came out and I think “Bosses Hang” is the main reason why. I’m super indulgent of post-rock, but even I get frustrated with its passivity sometimes. So when “Bosses Hang” stormed into my head and shattered everything in sight, I dug it. The track — like the album — caters to a very specific feeling, but god is it good at it. The track is brutal and furious. I still get a kick out of it, the relentlessness. It isn’t even complicated, it’s just powerful in a very elemental way. Sometimes it’s nice to step back, let go of elegance and subtlety, and burn everything down. “Bosses Hang” is that kind of track. We’ve heard [Godspeed You! Black Emperor do subtlety](/reviews/godspeed-you-black-emperor-f%e2%99%af-a%e2%99%af-infinity/). It’s wonderful and it exists. Now I’m glad this exists too.
@@ -63,8 +57,6 @@ I was totally enamored with [*A Luciferian Towers*](/reviews/godspeed-you-black-
 -----
 
 ## 7\. “Shapeshifter” // Richard Dawson
-
-TBD
 
 **Michael**
 
@@ -74,8 +66,6 @@ With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle
 
 ## 6\. “Villains of Circumstance” // Queens of the Stone Age
 
-TBD
-
 **Gabriel**
 
 “Villains of Circumstance” has been floating around in Josh Homme’s psyche for some time now. He’s been known to play it live for many years often as slightly iterations. However, it was not until the 2017 release of [*Villains*](/reviews/queens-of-the-stone-age-villains/) that we were finally able to feast on a fully realised and fully produced version. This track stands out on *Villains*, not least of all because the album seems to borrow its name from the track, but because it is filled with hauntingly dark and beautiful elements. The lyrics are colourful and vivid, but in a way that is dark and relatable. These lyrics are matched in a beautifully sombre way by the chordal bass notes, which lead seamlessly into an almost orchestral chorus. “Villains of Circumstance” may be an ode to love songs and long distance relationships, but it is far from generic. Homme manages to capture sincerity without being over earnest. “Villains of Circumstance” is a far cry from Queens of the Stone Age’s older, more raucous tunes, but it exemplifies Homme’s signwriting abilities as well as his vocal chops, which are also a far cry from what they were in the early days of QotSA, but in a positive way. It’s important to remember that “Villains of Circumstance” sits among what some may say is a questionable offering from QotSA. But it sits there well, in a sort of modest honesty, equipped with some lovely guitar work.
@@ -83,8 +73,6 @@ TBD
 -----
 
 ## 5\. “Lush” // Four Tet
-
-TBD
 
 **Andrew**
 
@@ -94,8 +82,6 @@ The dynamism of “Lush” means it stands out amongst the rest of *New Energy*,
 
 ## 4\. “Holy Books” // Death From Above
 
-TBD
-
 **André**
 
 Death From Above’s third studio album *Outrage! Is Now* is perhaps the most satisfying surprise of 2017. It occupies a very different sound to previous records, with an emphasis on heavy rock in both song-writing and production. One of its main strengths lies in the sheer consistency of delivering hooks in practically every song, meaning a far more focused experience than 2014’s *The Physical World*. “Holy Books”, the album’s raucous closing track, stands out amongst the rest because it sounds more akin to classic DFA, this time with a pounding twist. It bears resemblance to the likes of “Turn it Out” and “Pull Out”, two major highlights from the duo’s punk-packed debut album: not quite as raw, a little more polished, yet retaining that unapologetically fierce attitude that made DFA so initially interesting back in 2004. Of course, the pair still find a way to divert the song towards a prog-rock groove towards the end, before storming back into its initial riff to conclude the album in gut-punching fashion. It’s the closest to heavy metal that DFA have gotten, and outrageously enough, it suits them down to the ground.
@@ -104,29 +90,21 @@ Death From Above’s third studio album *Outrage! Is Now* is perhaps the most sa
 
 ## 3\. “Visions of a Life” // Wolf Alice
 
-TBD
-
 **Fred**
 
 In hindsight, this was the only way [*Visions of a Life*](/reviews/wolf-alice-visions-of-a-life/) could end. The record’s title track is a belter, a rock epic with all the snarling, swaggering verve that requires. Wolf Alice can (very) occasionally be guilty of lacking sharp edges, but “Visions of a Life” has plenty. It speaks volumes about the track that despite being eight minutes long and the album closer, it still commands your full, undivided attention. There are shades of “When the Levee Breaks” in the opening portion before its drifts into psychedelic fury (with civil disagreement with Shakespeare thrown in for good measure), and it all winds up being a bit of a Moment. “Visions of a Life” is a thunderous blend of legend and forward thinking, and although it clearly knows its forebears it’s unquestionably Wolf Alice’s baby. It’s a proper stormer. Rock dead? Not a chance.
-
-**[Listen here](https://open.spotify.com/album/7Mn6FjNopuROYZLIN91hhe)**
 
 -----
 
 ## 2\. “Soothing” // Laura Marling
 
-TBD
-
 **Thomas**
 
-Laura Marling’s latest release aligns with the trend of her former albums; deploying the same enchanting song writing that we’ve grown to expect, with each addition a subtle yet rewarding progression. “Soothing” is the opener, and introduces us to Marling’s new sonics, beginning with snappy percussion, a head-nodding bass groove and an icy tone throughout that compliments Laura’s delivery. The track (and album) feels a step forward in maturity for Laura, with an emphasis on the arrangement providing harmony and musical narrative. Her lyrics remain as poetic, delicate and sharp as ever: ‘may those who find you find remorse/a change of course, a strange discord resolved’. S*emper Femina* is as much a statement of Laura’s personal gender (and identity) issues as it is on cultural femininity. To note, Laura had taken a hiatus from music before this record, following her move across the Atlantic to America, where she taught yoga in a country so large, she could do so anonymously. Likely a reaction to expectations and pressures, but also as revealed by Marling herself, to her questioning and seeking her own true identity. Honesty is key in folk music, even if not entirely accurate. This is an aspect of Marling’s writing that I find particularly engaging. A truly great artist doesn’t chase or follow the hot topic of today, but coincidently lives it, and more importantly, expresses it. For the Marling cynics, this is unlikely to change opinion, but to her credit, you could argue the opposite was intended.
+Laura Marling’s latest release aligns with the trend of her former albums; deploying the same enchanting song writing that we’ve grown to expect, with each addition a subtle yet rewarding progression. “Soothing” is the opener, and introduces us to Marling’s new sonics, beginning with snappy percussion, a head-nodding bass groove and an icy tone throughout that compliments Laura’s delivery. The track (and album) feels a step forward in maturity for Laura, with an emphasis on the arrangement providing harmony and musical narrative. Her lyrics remain as poetic, delicate and sharp as ever: ‘may those who find you find remorse/a change of course, a strange discord resolved’. [*Semper Femina*](/reviews/laura-marling-semper-femina/) is as much a statement of Laura’s personal gender (and identity) issues as it is on cultural femininity. To note, Laura had taken a hiatus from music before this record, following her move across the Atlantic to America, where she taught yoga in a country so large, she could do so anonymously. Likely a reaction to expectations and pressures, but also as revealed by Marling herself, to her questioning and seeking her own true identity. Honesty is key in folk music, even if not entirely accurate. This is an aspect of Marling’s writing that I find particularly engaging. A truly great artist doesn’t chase or follow the hot topic of today, but coincidently lives it, and more importantly, expresses it. For the Marling cynics, this is unlikely to change opinion, but to her credit, you could argue the opposite was intended.
 
 -----
 
 ## 1\. “Don’t Delete the Kisses” // Wolf Alice
-
-TBD
 
 **André**
 

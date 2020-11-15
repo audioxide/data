@@ -5,7 +5,6 @@ slug: kurt-vile-bottle-it-in
 type: reviews
 tags:
   - 2010s
-  - "23"
   - kurt vile
   - rock
   - alternative rock

@@ -4,7 +4,6 @@ modified: 2018-02-17T18:15:36.000Z
 slug: mgmt-little-dark-age
 type: reviews
 tags:
-  - "16"
   - 2010s
   - mgmt
   - electronic

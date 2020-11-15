@@ -5,7 +5,6 @@ slug: kate-bush-hounds-of-love
 type: reviews
 tags:
   - 1980s
-  - "25"
   - kate bush
   - pop
   - art pop

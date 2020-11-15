@@ -5,7 +5,6 @@ slug: the-fall-this-nations-saving-grace
 type: reviews
 tags:
   - 1980s
-  - "23"
   - the fall
   - post punk
   - alternative rock

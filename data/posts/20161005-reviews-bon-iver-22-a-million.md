@@ -4,7 +4,6 @@ modified: 2018-03-10T18:54:03.000Z
 slug: bon-iver-22-a-million
 type: reviews
 tags:
-  - "17"
   - 2010s
   - bon iver
   - electronic

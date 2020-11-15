@@ -5,7 +5,6 @@ slug: the-beatles-abbey-road
 type: reviews
 tags:
   - 1960s
-  - "24"
   - the beatles
   - john lennon
   - rock

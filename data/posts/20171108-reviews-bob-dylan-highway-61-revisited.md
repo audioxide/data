@@ -5,7 +5,6 @@ slug: bob-dylan-highway-61-revisited
 type: reviews
 tags:
   - 1960s
-  - "26"
   - bob dylan
   - folk
   - blues

@@ -5,7 +5,6 @@ slug: arctic-monkeys-favourite-worst-nightmare
 type: reviews
 tags:
   - 2000s
-  - "24"
   - arctic monkeys
   - rock
   - alternative rock

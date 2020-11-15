@@ -5,7 +5,6 @@ slug: brian-eno-ambient-1-music-for-airports
 type: reviews
 tags:
   - 1970s
-  - "26"
   - brian eno
   - electronic
   - aphex twin

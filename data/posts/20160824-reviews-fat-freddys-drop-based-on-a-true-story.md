@@ -5,7 +5,6 @@ slug: fat-freddys-drop-based-on-a-true-story
 type: reviews
 tags:
   - 2000s
-  - "21"
   - fat freddys drop
   - reggae
 featuredimage: album-artwork/based-on-a-true-story-fat-freddys-drop.jpg

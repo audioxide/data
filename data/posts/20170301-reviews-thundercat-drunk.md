@@ -4,7 +4,6 @@ modified: 2018-08-28T17:56:36.000Z
 slug: thundercat-drunk
 type: reviews
 tags:
-  - "19"
   - 2010s
   - thundercat
   - kendrick lamar

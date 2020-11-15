@@ -6,7 +6,6 @@ slug: doves-the-universal-want
 type: reviews
 tags:
   - 2020s
-  - "17"
   - doves
   - rock
   - pop

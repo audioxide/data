@@ -5,7 +5,6 @@ slug: grandaddy-last-place
 type: reviews
 tags:
   - 2010s
-  - "22"
   - grandaddy
   - alternative rock
   - indie

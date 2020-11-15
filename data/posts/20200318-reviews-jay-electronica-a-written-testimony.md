@@ -5,7 +5,6 @@ slug: jay-electronica-a-written-testimony
 type: reviews
 tags:
   - 2020s
-  - "23"
   - jay electronica
   - hip hop
   - kendrick lamar

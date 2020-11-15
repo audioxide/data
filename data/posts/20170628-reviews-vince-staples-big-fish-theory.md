@@ -4,7 +4,6 @@ modified: 2018-03-08T23:59:32.000Z
 slug: vince-staples-big-fish-theory
 type: reviews
 tags:
-  - "18"
   - 2010s
   - vince staples
   - hip hop

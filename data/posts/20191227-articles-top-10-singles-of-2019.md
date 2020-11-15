@@ -30,8 +30,6 @@ blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the
 ------
 
 ## 10\. “101fm” // Little Simz
-
-TBD
 ­
 **Marcus**
 
@@ -40,8 +38,6 @@ TBD
 -----
 
 ## 9\. “Two Halves” // Richard Dawson
-
-TBD
 ­
 **Michael**
 
@@ -52,8 +48,6 @@ Granted, as “Two Halves” so wonderfully demonstrates, Dawson’s growing emb
 -----
 
 ## 8\. “Movies” // Weyes Blood
-
-TBD
 ­
 **André**
 
@@ -62,8 +56,6 @@ Though it’s something I scarcely confess nowadays, my musical life began with 
 -----
 
 ## 7\. “Doorman” // slowthai
-
-TBD
 ­
 **Marcus**
 
@@ -72,8 +64,6 @@ slowthai’s “Doorman” is comfortably the most moreish grime track I’ve ev
 -----
 
 ## 6\. “Andromeda” // Weyes Blood
-
-TBD
 ­
 **Fred**
 
@@ -82,8 +72,6 @@ This was a textbook example of a single promising more than the album delivered.
 -----
 
 ## 5\. “All Mirrors” // Angel Olsen
-
-TBD
 ­
 **Fred**
 
@@ -92,8 +80,6 @@ To my mind *All Mirrors* by Angel Olsen was one of the runaway winners of 2019. 
 -----
 
 ## 4\. “Nothing is Safe” // clipping.
-
-TBD
 ­
 **Marcus**
 
@@ -102,8 +88,6 @@ The more numerous the plinks, the greater the dread. Cinematically composed, “
 -----
 
 ## 3\. “Pressure to Party” // Julia Jacklin
-
-TBD
 ­
 **Michael**
 
@@ -114,8 +98,6 @@ It’s just about the most anxious song about depression, a simple but neverthel
 -----
 
 ## 2\. “Petty Thieving” // FEET
-
-TBD
 ­
 **André**
 
@@ -124,8 +106,6 @@ Sometimes it takes years to get a song in shape. Hell, [sometimes it even takes 
 -----
 
 ## 1\. “EARFQUAKE” // Tyler, the Creator
-
-TBD
 ­
 **Fred**
 

@@ -4,7 +4,6 @@ modified: 2018-03-11T14:38:51.000Z
 slug: iggy-pop-post-pop-depression
 type: reviews
 tags:
-  - "19"
   - 2010s
   - iggy pop
   - rock

@@ -4,7 +4,6 @@ modified: 2018-03-28T16:08:32.000Z
 slug: marmozets-knowing-what-you-know-now
 type: reviews
 tags:
-  - "20"
   - 2010s
   - marmozets
   - alternative rock

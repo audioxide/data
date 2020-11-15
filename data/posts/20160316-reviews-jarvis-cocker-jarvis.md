@@ -4,7 +4,6 @@ modified: 2018-03-28T17:18:59.000Z
 slug: jarvis-cocker-jarvis
 type: reviews
 tags:
-  - "20"
   - 2000s
   - jarvis cocker
   - pulp

@@ -5,7 +5,6 @@ slug: kendrick-lamar-untitled-unmastered
 type: reviews
 tags:
   - 2010s
-  - "23"
   - kendrick lamar
   - hip hop
   - kanye west

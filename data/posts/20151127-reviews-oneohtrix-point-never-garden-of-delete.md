@@ -5,7 +5,6 @@ slug: oneohtrix-point-never-garden-of-delete
 type: reviews
 tags:
   - 2010s
-  - "21"
   - oneohtrix point never
   - idm
   - electronic

@@ -5,7 +5,6 @@ slug: mogwai-every-countrys-sun
 type: reviews
 tags:
   - 2010s
-  - "22"
   - mogwai
   - rock
   - post rock

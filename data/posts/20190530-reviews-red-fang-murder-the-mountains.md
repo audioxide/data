@@ -4,7 +4,6 @@ modified: 2019-05-31T20:23:15.000Z
 slug: red-fang-murder-the-mountains
 type: reviews
 tags:
-  - "20"
   - 2010s
   - red fang
   - metal

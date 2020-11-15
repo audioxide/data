@@ -5,7 +5,6 @@ slug: led-zeppelin-led-zeppelin
 type: reviews
 tags:
   - 1960s
-  - "24"
   - led zeppelin
   - rock
   - the jimi hendrix experience

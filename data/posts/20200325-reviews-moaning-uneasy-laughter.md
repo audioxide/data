@@ -4,7 +4,6 @@ modified: 2020-03-28T18:06:30.000Z
 slug: moaning-uneasy-laughter
 type: reviews
 tags:
-  - "16"
   - 2020s
   - moaning
   - pop

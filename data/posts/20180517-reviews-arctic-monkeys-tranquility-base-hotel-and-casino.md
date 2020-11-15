@@ -4,7 +4,6 @@ modified: 2018-06-15T17:51:47.000Z
 slug: arctic-monkeys-tranquility-base-hotel-and-casino
 type: reviews
 tags:
-  - "20"
   - 2010s
   - arctic monkeys
   - alternative rock

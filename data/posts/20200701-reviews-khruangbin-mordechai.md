@@ -6,7 +6,6 @@ slug: khruangbin-mordechai
 type: reviews
 tags:
   - 2020s
-  - "19"
   - khruangbin
   - alternative rock
   - los zafiros

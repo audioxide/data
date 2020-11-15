@@ -5,7 +5,6 @@ slug: michael-jackson-bad
 type: reviews
 tags:
   - 1990s
-  - "22"
   - michael jackson
   - pop
   - pop rock

@@ -4,7 +4,6 @@ modified: 2018-10-26T18:06:47.000Z
 slug: neneh-cherry-broken-politics
 type: reviews
 tags:
-  - "19"
   - 2010s
   - neneh cherry
   - saul williams

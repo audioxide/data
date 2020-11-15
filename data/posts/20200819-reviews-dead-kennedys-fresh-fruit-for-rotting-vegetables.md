@@ -6,7 +6,6 @@ slug: dead-kennedys-fresh-fruit-for-rotting-vegetables
 type: reviews
 tags:
   - 1980s
-  - "25"
   - dead kennedys
   - punk
   - post punk

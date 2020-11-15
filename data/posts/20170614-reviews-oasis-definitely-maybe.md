@@ -5,7 +5,6 @@ slug: oasis-definitely-maybe
 type: reviews
 tags:
   - 1990s
-  - "22"
   - oasis
   - the beatles
   - liam gallagher

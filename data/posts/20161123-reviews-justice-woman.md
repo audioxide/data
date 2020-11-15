@@ -5,7 +5,6 @@ slug: justice-woman
 type: reviews
 tags:
   - 2010s
-  - "22"
   - justice
   - daft punk
   - electronic

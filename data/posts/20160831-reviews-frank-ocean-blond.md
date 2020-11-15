@@ -5,7 +5,6 @@ slug: frank-ocean-blond
 type: reviews
 tags:
   - 2010s
-  - "21"
   - frank ocean
   - hip hop
   - electronic

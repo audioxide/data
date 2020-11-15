@@ -5,7 +5,6 @@ slug: eminem-the-marshall-mathers-lp
 type: reviews
 tags:
   - 2000s
-  - "26"
   - eminem
   - hip hop
   - marilyn manson

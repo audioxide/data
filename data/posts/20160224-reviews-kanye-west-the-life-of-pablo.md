@@ -4,7 +4,6 @@ modified: 2018-03-11T14:47:25.000Z
 slug: kanye-west-the-life-of-pablo
 type: reviews
 tags:
-  - "20"
   - 2010s
   - kanye west
   - hip hop

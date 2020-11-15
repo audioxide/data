@@ -5,7 +5,6 @@ slug: oneohtrix-point-never-age-of
 type: reviews
 tags:
   - 2010s
-  - "23"
   - oneohtrix point never
   - electronic
   - idm

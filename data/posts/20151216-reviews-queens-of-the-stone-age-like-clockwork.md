@@ -5,7 +5,6 @@ slug: queens-of-the-stone-age-like-clockwork
 type: reviews
 tags:
   - 2010s
-  - "24"
   - queens of the stone age
   - rock
   - alternative rock

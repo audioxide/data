@@ -4,7 +4,6 @@ modified: 2019-10-21T11:43:15.000Z
 slug: lightning-bolt-sonic-citadel
 type: reviews
 tags:
-  - "16"
   - 2010s
   - lightning bolt
   - rock

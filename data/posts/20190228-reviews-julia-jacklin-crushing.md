@@ -4,7 +4,6 @@ modified: 2019-03-02T23:48:58.000Z
 slug: julia-jacklin-crushing
 type: reviews
 tags:
-  - "20"
   - 2010s
   - julia jacklin
   - alternative rock

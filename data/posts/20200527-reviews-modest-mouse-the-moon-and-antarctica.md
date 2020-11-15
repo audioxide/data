@@ -6,7 +6,6 @@ slug: modest-mouse-the-moon-and-antarctica
 type: reviews
 tags:
   - 2000s
-  - "25"
   - modest mouse
   - rock
   - alternative rock

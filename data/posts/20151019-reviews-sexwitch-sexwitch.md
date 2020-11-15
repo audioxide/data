@@ -4,7 +4,6 @@ modified: 2018-03-11T18:22:44.000Z
 slug: sexwitch-sexwitch
 type: reviews
 tags:
-  - "18"
   - 2010s
   - sexwitch
   - alternative rock

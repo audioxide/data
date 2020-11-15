@@ -5,7 +5,6 @@ slug: nick-cave-and-the-bad-seeds-let-love-in
 type: reviews
 tags:
   - 1990s
-  - "23"
   - nick cave and the bad seeds
   - alternative rock
   - rock

@@ -5,7 +5,6 @@ slug: the-cure-disintegration
 type: reviews
 tags:
   - 1980s
-  - "23"
   - the cure
   - alternative rock
   - kendrick lamar

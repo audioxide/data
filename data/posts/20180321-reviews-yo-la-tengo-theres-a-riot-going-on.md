@@ -4,7 +4,6 @@ modified: 2018-06-15T17:44:14.000Z
 slug: yo-la-tengo-theres-a-riot-going-on
 type: reviews
 tags:
-  - "15"
   - 2010s
   - yo la tengo
   - folk

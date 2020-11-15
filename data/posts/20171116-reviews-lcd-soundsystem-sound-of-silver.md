@@ -5,7 +5,6 @@ slug: lcd-soundsystem-sound-of-silver
 type: reviews
 tags:
   - 2000s
-  - "26"
   - lcd soundsystem
   - alternative rock
   - electronic

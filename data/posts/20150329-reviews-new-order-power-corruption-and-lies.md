@@ -4,7 +4,6 @@ modified: 2018-03-10T18:15:47.000Z
 slug: new-order-power-corruption-and-lies
 type: reviews
 tags:
-  - "14"
   - 1980s
   - new order
   - post punk

@@ -5,7 +5,6 @@ slug: eels-daisies-of-the-galaxy
 type: reviews
 tags:
   - 2000s
-  - "24"
   - eels
   - rock
   - alternative rock

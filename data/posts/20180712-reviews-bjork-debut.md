@@ -5,7 +5,6 @@ slug: bjork-debut
 type: reviews
 tags:
   - 1990s
-  - "25"
   - bjork
   - pop
   - art pop

@@ -5,7 +5,6 @@ slug: daft-punk-discovery
 type: reviews
 tags:
   - 2000s
-  - "23"
   - daft punk
   - electronic
   - radiohead
