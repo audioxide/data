@@ -11,6 +11,8 @@ tags:
   - rock
   - pop
 featuredimage: album-artwork/pet-sounds-the-beach-boys.jpg
+artworkCredit: The album artwork of 'Pet Sounds' by The Beach Boys features a photograph of the band at San Diego zoo taken by photographer George Jerman. The typeface used is Cooper Black.
+artworkCreditSource: https://time.com/4325553/pet-sounds-beach-boys-50/
 artist: The Beach Boys
 album: Pet Sounds
 essentialtracks: "" 

@@ -19,6 +19,8 @@ tags:
   - st vincent
   - courtney barnett
 featuredimage: album-artwork/to-bring-you-my-love-pj-harvey.jpg
+artworkCredit: The album artwork of 'To Bring You My Love' by PJ Harvey was designed by Martin Callomon, who was the Island Records art director at the time of the album's release.
+artworkCreditSource: https://www.u2songs.com/news/the_history_mix_covering_passengers
 artist: PJ Harvey
 album: To Bring You My Love
 essentialtracks: ""
