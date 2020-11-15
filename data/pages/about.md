@@ -8,6 +8,6 @@ Since starting in 2015 we've branched out into [articles](/articles/), [intervie
 
 Others have joined us to contribute from time to time: [Marcus Lawrence](https://mlawrence.journoportfolio.com), [Michael Clark](https://twitter.com/Pixleh), [Gabriel Sutton](https://www.instagram.com/gpsutton9), [Rüya Yönak](https://twitter.com/ymagination_), [Charlie Clissitt](https://twitter.com/CharlieClissitt), [Thomas Ashby](https://thomasashby.co.uk), Nick Marsh, [Rob Wilson](https://twitter.com/colourfulse7ens), and Kieran James. Early branding work by [Samuel Simpson](https://www.instagram.com/autonwolf) lives on as *Audioxide* evolves. The current site was mostly designed by Fred and mostly built by Andrew.
 
-To those unsure where to start we humbly direct you to our top rated albums in [the 27+ Club](/tags/27-plus-club/). For more leisurely browsing there's [the archive](/reviews/). Or if all else fails you could always try [a random review...](/random/)
+To those unsure where to start we humbly direct you to our top rated albums in [the 27+ Club](/tags/27-plus-club/). For more leisurely browsing there's [the archive](/reviews/). Or if all else fails you could always try [a random page...](/random/)
 
 Happy listening.
