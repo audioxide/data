@@ -17,7 +17,12 @@ tags:
 featuredimage: article-images/favourite-singles-2018.jpg
 featuredimageAlt: David Bryne performing onstage during his American Utopia tour
 title: Our 10 favourite singles of 2018
-author: admin
+author: 
+  - fred
+  - andre
+  - gabriel
+  - andrew
+  - marcus
 blurb: What would the end of the year be without some lists? Here lies our favourite singles of 2018.
 
 ---
