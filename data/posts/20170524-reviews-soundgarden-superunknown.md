@@ -44,7 +44,7 @@ author: ANDRÉ
 review: >-
   My generation has a habit of pining for the ’90s. Like anything that impacts popular culture, music works in cycles, and the current landscape isn’t exactly glowing with great rock bands. The notion that rock is somehow ‘dead’ is a complete fallacy of course, but it stopped being a dominant force in music long ago. 
   
-  In many ways, *Superunknown* represents a golden age for the genre. It was released at a time where grunge continued to maintain its grip on alternative radio, before eventually falling to the emergence of [Britpop](/reviews/oasis-definitely-maybe/) and consequently fragmenting into infinite subgenres. Today, it stands as a worthy memorial for no-nonsense rock music, and when you consider [the staggering amount](/reviews/nas-illmatic/) [of great,](/reviews/portishead-dummy/)[genre-defining works](/reviews/nine-inch-nails-the-downward-spiral/)[that were birthed in 1994](/reviews/weezer-the-blue-album/), *Superunknown*’s enduring legacy only seems more extraordinary. It’s not the best record of its kind, but it is one of the finest examples of a band capitalising on the growth of a genre, and embracing a newly found mainstream audience.
+  In many ways, *Superunknown* represents a golden age for the genre. It was released at a time where grunge continued to maintain its grip on alternative radio, before eventually falling to the emergence of [Britpop](/reviews/oasis-definitely-maybe/) and consequently fragmenting into infinite subgenres. Today, it stands as a worthy memorial for no-nonsense rock music, and when you consider [the staggering amount](/reviews/nas-illmatic/) [of great,](/reviews/portishead-dummy/) [genre-defining works](/reviews/nine-inch-nails-the-downward-spiral/) [that were birthed in 1994](/reviews/weezer-the-blue-album/), *Superunknown*’s enduring legacy only seems more extraordinary. It’s not the best record of its kind, but it is one of the finest examples of a band capitalising on the growth of a genre, and embracing a newly found mainstream audience.
 
   *Superunknown* is a sprawling record, spanning grunge, alternative metal, stoner rock, and psychedelia; streamlined under a pop supervision that makes it one of the most accessible and infectious rock albums of the decade. It’s the type of album that the genre has been craving for quite some time, with only [a few bands](/reviews/queens-of-the-stone-age-like-clockwork/) prepared to offer the type of aggressive, confidently cerebral sound that Soundgarden achieve on their breakthrough album. 
   
@@ -61,6 +61,7 @@ score:
   fraction: 0.8
 
 ---
+
 author: Fred
 
 review: >-
@@ -83,6 +84,7 @@ score:
   fraction: 0.7
 
 ---
+
 author: Andrew
 
 review: >-

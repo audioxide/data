@@ -132,7 +132,7 @@ It is a noisy, angry record that demands attention and shocks you into the momen
 
 I’ve not always had the kindest things to say about James Blake’s past projects. I’ve likened them to carpet samples and [beached whales](/reviews/james-blake-the-colour-in-anything/), among other things. Imagine my smugness then when Blake not only comes out with his best record to date, but acknowledges preceding works had the very failings I was complaining about.
 
-*Assume Form* is a tighter, warmer, and more focused glimpse into Blake’s world. The record showcases Blake as a songwriter as well as a producer. Instead of hiding behind idiosyncratic beats and slack loops, he opens up. The results aren’t perfect, but they’re often lovely. “Where’s the Catch?” is as good a song as you’re likely to find from 2019, and there’s a few more where that came from.
+*Assume Form* is a tighter, warmer, and more focused glimpse into Blake’s world. The record showcases Blake as a songwriter as well as a producer. Instead of hiding behind idiosyncratic beats and slack loops, he opens up. The results aren’t perfect, but they’re often lovely. “Where’s the Catch?” is as good a song as you’re likely to find from 2019, and there are a few more where that came from.
 
 This was the first time we reviewed a James Blake album and I felt excited rather than annoyed. It genuinely feels like he has grown as an artist and a person. What a lovely thing. I just hope he has the courage to keep going. *Assume Form* is great in its own right, but I very much hope it proves to be a major step towards something special.
 
