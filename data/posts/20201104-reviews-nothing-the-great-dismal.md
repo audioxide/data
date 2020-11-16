@@ -68,7 +68,7 @@ author: Fred
 review: >-
   By and large *The Great Dismal* listens like something out of the gentle giant school of rock, serving up heavy riffs and thumping rhythms with all the awkward, stuttering grace of a class nerd with horn-rimmed glasses. I’m a fan of the sound, but the album does lay it on a bit thick at times.
 
-  Power chord fans will be well supplied here. “Catch a Fade” isn’t far off [Pixies](/reviews/pixies-doolittle/) or Weezer when it comes to easy listening. The solo would sound right at home on [*the Blue Album*](/reviews/weezer-the-blue-album/). When Nothing give their instruments space to shimmer and shine rather than crunch, like on “April Ha Ha”, the results are hard to argue with. It’s a thumping yet chummy ride.
+  Power chord fans will be well supplied here. “Catch a Fade” isn’t far off [Pixies](/reviews/pixies-doolittle/) or Weezer when it comes to easy listening. The solo would sound right at home on [*The Blue Album*](/reviews/weezer-the-blue-album/). When Nothing give their instruments space to shimmer and shine rather than crunch, like on “April Ha Ha”, the results are hard to argue with. It’s a thumping yet chummy ride.
 
   It’s all just a touch too heavy. After the final few tracks I feel like I’m soaring through the great cosmos with a killer migraine. Is that a bad thing? I don’t know any more. After multiple listens I'm still not entirely sure whether I like “Bernie Sanders” because it’s a good song or because I like Bernie Sanders.
 

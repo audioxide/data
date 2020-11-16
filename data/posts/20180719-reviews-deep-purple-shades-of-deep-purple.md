@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#654494"
+  - "#5F2079"
   - "#ffffff"
   - "#ffffff"
 pullquote: A psychedelic gateway

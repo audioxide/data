@@ -44,13 +44,9 @@ The Demeaning of Soul?’
 Ray Sunshine slumped back in his seat and put on his best pout. He had a world class pout, developed during years of being spoiled. The rest of the band was not overly fussed by Hazard’s decision to keep moving. They were on the run, after all. Ten miles out of Coppleton they had stopped for snacks and Laina Gould picked up a copy of that morning’s *Yorkshire Beagle*. Its front page gave them rather a start:
 
 > **BAND INCITES RIOT, ARSON AT HISTORIC PUB**
->
 > The humble pub goers of Coppleton were left bewildered last night by the exploits of a mysterious, quite possibly dangerous new musical act.
->
 > Fronted by notorious troublemaker Alan Hazard, the five-piece outfit tormented onlookers for eight straight minutes before fist fights and fires broke out. As of this morning most of the structure is ash and the in-house drum kit is reportedly missing.
->
 > “It was one of the greatest exploits of rock and roll I’ve ever seen,’ said local beauty Elaine Gold. “Wherever they’ve gone I sure do hope people go see them play.”
->
 > Police are making enquiries into the incident. At press time the band’s location is unknown.
 
 As pleased as everyone was by this inaugural piece of press (and infamy) it did spark a rather keen desire to stay on the move, a desire compounded by the distant sound of sirens. They’d piled back into the van and had been racing south since.

@@ -17,11 +17,11 @@ blurb: In which Bas replenishes his supply of nectar.
   <figcaption></figcaption>
 </figure>
 
-When the Band with No Name pulled up outside the hotel they were greeted by a man clothed entirely in resplendent purple. With his waistcoat and bow tie and top hat and Cheshire Cat grin he looked like a dandy who’d been put through a strict regimen of hallucinogens. That wasn’t far off the truth.
+When the Band with No Name pulled up outside the hotel they were greeted by a man clothed entirely in resplendent turqoise. With his waistcoat and bow tie and top hat and Cheshire Cat grin he looked like a dandy put through a strict regimen of hallucinogens. That wasn’t far off the truth.
 
 As they disembarked he stooped low before them in mock gentility, brandishing his hat in a silk gloved hand.
 
-‘Greetings, lady and gentleman,’ the man said. His voice was greasy with trust money and the band members’ natural northern hostilities were immediately riled.
+‘Greetings, lady and gentlemen,’ the man said. His voice was greasy with trust money and the band members’ natural northern hostilities were immediately riled.
 
 ‘Who are you?’ Hazard said.
 
@@ -43,7 +43,7 @@ Thenmayne waved his hand. ‘I keep close tabs on all my top clients, and Bas is
 
 ‘Charming, charming. Well if you’d be so kind as to wake Mr. Bas up I’ll take you to my local chain. I hate to rush but I have appointments I simply must keep, you understand.’
 
-*
+<center>*</center>
 
 Their pied piper led them through a maze of alleys, down a stairway, over a dozing mongrel, through a door, across a damp, dirty utility room, and past a reinforced metal door. Behind the door was a wide, spacious room resplendent with illicit goods.
 

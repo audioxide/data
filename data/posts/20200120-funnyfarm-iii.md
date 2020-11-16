@@ -38,7 +38,7 @@ Sunshine began to shake his head, then paused. ‘There is that one guy down the
 
 ‘He likes to hit things.’ Sunshine shrugged. ‘Drummers hit things.’
 
-Hazard’s mind whirred looking for a hole in this argument, but he couldn’t find one. At least, he reasoned, no-one would mistake Theo as someone more important than he was.
+Hazard’s mind whirred looking for a hole in this argument, but he couldn’t find one. At least, he reasoned, no-one would mistake Theo for someone more important than he was.
 
 ‘Where can we find him?’
 
@@ -88,7 +88,7 @@ Hazard and Sunshine almost collapsed with relief. Bas stepped forward.
 
 They found him at the library. Theo had stayed behind to finish destroying the car, and Bas had stayed behind to watch him, but the instructions provided to Alan and Ray were enough to lead them to a wiry, clean-cut fellow stamping returned books at the front desk.
 
-His name was Waltz and he had an inoffensive haircut, inoffensive eyes that blinked often behind inoffensive rimless glasses, and was wearing a deeply offensive blue turtleneck jumper. A team of crack scientists couldn’t have designed a more perfect librarian.
+His name was Irvine Waltz and he had an inoffensive haircut, inoffensive eyes that blinked often behind inoffensive rimless glasses, and was wearing a deeply offensive blue turtleneck jumper. A team of crack scientists couldn’t have designed a more perfect librarian.
 
 He was humming gently to himself, a deep, groovy hum that danced around the thwack of his stamp. For a time Alan and Ray watched him from the shadows of the classics section, their feet ever so gently tapping the floor.
 
@@ -104,7 +104,7 @@ Finally, convinced, Hazard and Sunshine approached. The man looked up and met th
 
 ‘We’re putting a band together,’ Hazard said. ‘Theodore Stone just joined us as a drummer and he said you were a mean bassist. Is it true?’
 
-Waltz chuckled. ‘I don’t know about a *mean *bassist,’ he said, ‘but I can play. If you’ve got Stone on board that’s meanness enough I expect.’
+Waltz chuckled. ‘I don’t know about a *mean* bassist,’ he said, ‘but I can play. If you’ve got Stone on board that’s meanness enough I expect.’
 
 ‘How do you know Theo?’ Sunshine asked.
 
@@ -112,7 +112,7 @@ Waltz chuckled. ‘I don’t know about a *mean *bassist,’ he said, ‘but I c
 
 ‘No kidding,’ Hazard said. The silence was filled by another huge snort, this time from History. ‘Anyway, how about it. Will you join us?’
 
-Irvine Waltz was perfectly content with his life at the library, but during rare moments of introspection he suspected he wasn’t actually all that happy there. He sometimes wondered if the world was more enjoyable in person than it is on paper. He just needed a way out, an excuse to leave.
+Waltz was perfectly content with his life at the library, but during rare moments of introspection he suspected he wasn’t actually all that happy there. He sometimes wondered if the world was more enjoyable in person than it is on paper. He just needed a way out, an excuse to leave.
 
 ‘Do you have any songs?’ he asked.
 
