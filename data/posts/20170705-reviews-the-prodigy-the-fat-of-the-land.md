@@ -57,12 +57,13 @@ score:
   fraction: 0.7
 
 ---
+
 author: Fred
 
 review: >-
-  "*The Fat of the Land* is a very good dance album and a decent album. I don’t have the joy of dance in my heart so it isn’t terribly useful to me, but the vibe is strong for as long as you feel inclined to not listen too closely. I always feel a little iffy about music that isn’t supposed to be heard, but the sound here is fresh and lively and has aged pretty well. 
+  *The Fat of the Land* is a very good dance album and a decent album. I don’t have the joy of dance in my heart so it isn’t terribly useful to me, but the vibe is strong for as long as you feel inclined to not listen too closely. I always feel a little iffy about music that isn’t supposed to be heard, but the sound here is fresh and lively and has aged pretty well. 
   
-  It gets better as it progresses, with “Narayan” and “Firestarter” probably edging my favourite tracks. The record is obviously a product of the late ‘90s, but it’s a good one. It has the crisp, glistening drive typical of the best that era of electronic music had to offer. The album is hardly a treasure trove, but it isn’t really trying to be; it’s a steady, confident dance drone, and on that level I recommend it heartily."
+  It gets better as it progresses, with “Narayan” and “Firestarter” probably edging my favourite tracks. The record is obviously a product of the late ‘90s, but it’s a good one. It has the crisp, glistening drive typical of the best that era of electronic music had to offer. The album is hardly a treasure trove, but it isn’t really trying to be; it’s a steady, confident dance drone, and on that level I recommend it heartily.
 
 tracks:
   - Narayan
@@ -75,6 +76,7 @@ score:
   fraction: 0.7
 
 ---
+
 author: Andrew
 
 review: >-
