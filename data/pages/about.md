@@ -2,7 +2,7 @@
 created: 2016-05-09T16:15:47.000Z
 ---
 
-*Audioxide* is three friends — [André Dack](https://twitter.com/andredack), [Frederick O’Brien](https://fredobrien.co.uk), and [Andrew Bridge](http://www.andrewhbridge.co.uk) — reviewing an album a week. That’s how it started and that’s more or less what it remains, though if we’re in a self-important mood we may try to convince you it’s a music webzine.
+*Audioxide* is three friends — [André Dack](https://twitter.com/andredack), [Frederick O’Brien](https://frederickobrien.com), and [Andrew Bridge](http://www.andrewhbridge.co.uk) — reviewing an album a week. That’s how it started and that’s more or less what it remains, though if we’re in a self-important mood we may try to convince you it’s a music webzine.
 
 Since starting in 2015 we've branched out into [articles](/articles/), [interviews](/interviews/), [listening parties](/listening-parties/), and [other oddities](/funnyfarm/). All this we do as a hobby because we enjoy listening to and discussing music. We do not use affiliate links, show ads, track visitors, or charge musicians for coverage. We encourage readers to do what they can to support the artists we write about. No, we do not get a cut. We may be a small publication, but we try to be a small publication that behaves properly.
 

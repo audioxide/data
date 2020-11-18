@@ -4,5 +4,5 @@ forename: Fred
 links:
   twitter: yagayagafred
   email: fred@audioxide.com
-  website: https://fredobrien.co.uk
+  website: https://frederickobrien.com
   default: twitter
