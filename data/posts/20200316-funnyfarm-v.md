@@ -76,7 +76,7 @@ Stone awakened from the depths.
 
 ‘Give the van a good kick.’
 
-Theo straightened up. He was all too happy to oblige. Allowing himself room for a proper runup, he jogged forward and exectuted with perfect form. The steel toe of his boot hit the van’s bumper with a deep, beautiful bong. The metalwork shivered, the wing mirrors quivered. The van stayed intact.
+Theo straightened up. He was all too happy to oblige. Allowing himself room for a proper runup, he jogged forward and executed with perfect form. The steel toe of his boot hit the van’s bumper with a deep, booming bong sound. The metalwork shivered, the wing mirrors quivered. The van stayed intact.
 
 ‘We’ll take it,’ Gould said. ‘Load up, boys. There’s a world out there just waiting for you to fall into its lap.’
 

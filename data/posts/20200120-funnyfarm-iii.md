@@ -48,7 +48,7 @@ Hazard and Sunshine edged forward, wielding Bas as a kind of human shield. As th
 
 ‘Ahoy there,’ Sunshine sang with what Hazard and Bas thought to be rather reckless cheeriness.
 
-Stone stopped in mid smash and turned his head with ice freezing slowness.
+Stone stopped in mid smash and turned his head with blood freezing slowness.
 
 ‘What do you want?’ he said.
 

@@ -65,7 +65,7 @@ No response. A tender melody drifted from the back of the van like a dove riding
 
 ‘Splendid,’ Hazard muttered. ‘Songs with no titles brought to you by the band with no name.’
 
-‘The Band with No Name? That’s not a bad shout.’ Gould had emerged from the bathroom looking disconcertingly pleased with herself. ‘It’s mysterious, and might make people think of Clint Eastwood. Just as well if the alternative is thinking about any of you.’
+‘The Band with No Name? That’s not a bad shout.’ Gould had emerged from the bathroom once again looking unnervingly pleased with herself. ‘It’s mysterious, and might make people think of Clint Eastwood. Just as well if the alternative is thinking about any of you.’
 
 She eased herself between Hazard and Sunshine and lit a cigarette. For a while the three of them were silent, each tapping a foot to the jam unfolding behind them. Waltz had joined Bas and Stone with his bass and the three of them were working each other out.
 
