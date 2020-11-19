@@ -31,7 +31,7 @@ blurb: What would the end of the year be without some lists? Here lies our favou
 ­
 **Fred**
 
-Let’s not pretend otherwise — a lot of artists put out dreadful stuff in their autumn years. And that’s to say nothing of those who put out dross at the peak of their powers. David Byrne picks and chooses his moments, and it showed in [American Utopia](/reviews/david-byrne-american-utopia/)‘*s lead single. “Everybody’s Coming to My House” springs along with a pep beyond many musicians half Byrne’s age. Immaculately produced, this for me was one of the standout feel-good singles of the year.
+Let’s not pretend otherwise — a lot of artists put out dreadful stuff in their autumn years. And that’s to say nothing of those who put out dross at the peak of their powers. David Byrne picks and chooses his moments, and it showed in [*American Utopia*](/reviews/david-byrne-american-utopia/)’s lead single. “Everybody’s Coming to My House” springs along with a pep beyond many musicians half Byrne’s age. Immaculately produced, this for me was one of the standout feel-good singles of the year.
 
 The rattling percussion, soaring horn arrangements, and near delirious delivery of the vocals are reminiscent of Talking Head’s [*Remain in Light*](/reviews/talking-heads-remain-in-light/), but this track is very much its own animal. This bares out in its [live performances](https://www.youtube.com/watch?v=07G4xhSefuI). The song went out into the world and took on a life of its own. In a time where acrimony is king, it’s more important than ever to make time for music that dares to be joyful.
 
@@ -77,7 +77,7 @@ Pair all of that with a video of the two larking about in France with some under
 ­
 **Fred**
 
-This was the standout track on [*Bad Witch*](/reviews/nine-inch-nails-bad-witch/), one of the murkier albums of the year. “God Break Down the Door” hits a balance of finesse and filth that has seldom been bettered in Trent Reznor’s decidedly fine and filthy career. The track dives headlong into the murky jazz underworld of David Bowie’s swansong, *[Blackstar](/reviews/david-bowie-blackstar/), *and there finds all manner of shadowy gems.
+This was the standout track on [*Bad Witch*](/reviews/nine-inch-nails-bad-witch/), one of the murkier albums of the year. “God Break Down the Door” hits a balance of finesse and filth that has seldom been bettered in Trent Reznor’s decidedly fine and filthy career. The track dives headlong into the murky jazz underworld of David Bowie’s swansong, [*Blackstar*](/reviews/david-bowie-blackstar/), and there finds all manner of shadowy gems.
 
 The breathless muddle of horns and thumping percussion that undercuts the song is juxtapositioned beautifully with an eerie, alien ambience. It’s decidedly creepy. Reznor sits growling in the middle, naturally. It all amounts to a track that’s as elegant as it is disconcerting, and a touching NIN tribute to Bowie. The starman couldn’t have done it better himself.
 
@@ -88,7 +88,8 @@ The breathless muddle of horns and thumping percussion that undercuts the song i
 **Fred**
 
 Great albums need great flagship songs, and [*Honey*](/reviews/robyn-honey/) certainly got it with “Honey”. The single’s lush, enveloping sound wasn’t just gorgeous in its own right —it teased what was to come from the whole album. Anthemic in tone, sensuous rather than sexy, this was atypical pop from an artist who always seems a couple of steps ahead of the curve.
-Robyn’s reflectiveness is beautifully framed by the mix. In purely aesthetic terms the song is a treat, something that gushes through the speakers and round your head. Throw Robyn’s gentle, probing vocals and one does well not to be swept along by the current. The song’s no classic, but it is perfectly representative of one of 2018’s finest albums. ‘Come get your *Honey.’ *Who could resist?
+
+Robyn’s reflectiveness is beautifully framed by the mix. In purely aesthetic terms the song is a treat, something that gushes through the speakers and round your head. Throw Robyn’s gentle, probing vocals and one does well not to be swept along by the current. The song’s no classic, but it is perfectly representative of one of 2018’s finest albums. ‘Come get your *Honey*.’ Who could resist?
 
 -----
 
