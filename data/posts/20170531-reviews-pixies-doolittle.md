@@ -25,7 +25,7 @@ totalscore:
   possible: 30
   fraction: 0.8333333333333334
 colours:
-  - "#321600"
+  - "#562820"
   - "#b5c8b2"
   - "#f6fffe"
 pullquote: Scintillating pop tunes
