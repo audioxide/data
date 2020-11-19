@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.9333333333333333
 colours:
-  - "#D2A04F"
+  - "#3B241C"
   - "#F2E0AF"
   - "#F2E0AF"
 pullquote: A masterpiece
