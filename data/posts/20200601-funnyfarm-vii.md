@@ -121,4 +121,4 @@ As one the band realised they had been casually shepherded to the exit.
 
 ‘Thank you ever so much for your custom,’ Thenmayne said, and closed the door behind them.
 
-<center><strong>← <a href="funnyfarm/vi/">Previous</a></strong></p></center>
+<center><p><strong>← <a href="funnyfarm/vi/">Previous</a> // <a href="funnyfarm/viii/">Next</a> →</strong></p></center>
