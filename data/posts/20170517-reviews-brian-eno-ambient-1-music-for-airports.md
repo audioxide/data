@@ -26,7 +26,7 @@ totalscore:
   fraction: 0.8666666666666667
 colours:
   - "#73aba2"
-  - "#f2e297"
+  - "#FBFBDA"
   - "#000000"
 pullquote: A truly meditative space
 summary: Music for Airports is comprised of calming tones that induce sedation and tranquillity. The sound, or lack thereof, is so loose and open-ended that listeners are obliged to attach their own emotions.
