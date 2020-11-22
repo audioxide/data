@@ -6,38 +6,87 @@ type: articles
 tags:
   - bioshock
   - the music of games
-featuredimage: article-images/hyrules-lament-the-music-of-twilight-princess.jpg
-featuredimageAlt: Zelda-themed artwork of Link listening to sinister music
-title: "Hyrule&#8217;s Lament: the music of &#8216;Twilight Princess&#8217;"
-summary: This is the first in a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.
+  - avant garde
+  - experimental
+featuredimage: article-images/state-of-rapture-the-music-of-bioshock.jpg
+featuredimageAlt: BioShock-themed ink and pencil artwork
+title: "State of Rapture: the music of &#8216;BioShock&#8217;"
+summary: Splicing classical arrangements with avant-garde experimentation, Garry Schyman’s soundtrack reflected the game’s grand, warped, doomed vision of a new world
 author: fred
-blurb: Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack for Twilight Princess had bolder intentions than it is often given credit for.
+blurb: Splicing classical arrangements with avant-garde experimentation, Garry Schyman’s soundtrack reflected the game’s grand, warped, doomed vision of a new world.
 
 ---
 
 <figure class="wide">
-  <img src="article-images/hyrules-lament-the-music-of-twilight-princess.jpg" alt="Link of the Zelda series listens to sinister tunes" />
+  <img src="article-images/state-of-rapture-the-music-of-bioshock.jpg" alt="BioShock-themed ink and pencil artwork" />
   <figcaption>Image by Frederick O'Brien</figcaption>
 </figure>
 
-The music of *The Legend of Zelda* ranks amongst the most iconic in gaming history, capturing the imaginations of millions of gamers for over 20 years. What started as simple 8-bit melodies have blossomed into fully orchestrated arrangements, which have effectively followed in the footsteps of fanfare film music. Although its universe may not be as vast or as intricately detailed, the *Zelda* series has clear parallels with the likes of *Star Wars* and *Indiana Jones*, and much like those beloved franchises it relies heavily on repeated themes and motifs to drive its narrative. This particular entry, 2006’s *Twilight Princess*, was initially well received, but has divided opinion in the time since its release. The game is often placed as one of the weaker entries on the 3D *Zelda* spectrum. Nonetheless, the score had notable changes from previous titles that gave *Twilight Princess* a distinctly destitute atmosphere.
+In any conversation about whether video games are art, odds are someone will wheel out *BioShock* as an example of why they are. And with good reason. The game was a revelation when it was released in 2007, and still garners write ups and analysis all these years later. 
 
-Much like the game itself, the music is largely enjoyable but relatively uneven. Whereas *Wind Waker* opted for a lush, colourful, and exceedingly animated approach, *Twilight Princess* is sparse and startlingly exposed. The orchestration is mostly minimal, the general method being ‘less is more,’ which heaps pressure on the game’s visuals to provide further artistic direction. The majority of themes set to prominent locations have a lone instrument setting the tone. [“Faron Woods”](https://www.youtube.com/watch?v=WsVT_-RsONg), for example, begins with an arpeggiated acoustic guitar, inviting a main melody to accompany it and guide the track forward in an arrangement similar to that of baroque music. Its texture is slender, with typically no more than three instruments playing simultaneously. [“Kakariko Village”](https://www.youtube.com/watch?v=DlMGdW87Wuo) is much the same, but with added percussion to depict the tribal nature of the Gorons who reside nearby. This particular Kakariko theme doesn’t exactly leave a lasting impression, and although it does achieve its objective in portraying a somewhat desolate residence, it is possibly the least satisfying version in the entire series. These sorts of tracks, ‘town tunes,’ are often a jarring experience in *Twilight Princess*. Whilst their stripped-back nature successfully portrays feelings of uncertainty and isolation, it is difficult to gauge a strong fundamental character — something so distinct in [previous *Zelda* titles.
+The soundtrack plays a huge part in the game’s ongoing prestige. By splicing together classical arrangements, avant garde experimentation, and musique concrete, Garry Schyman created a sound befitting Rapture’s ruinous splendour. Supported by sound designer Emily Ridgeway and given space to explore by creative head Ken Levine, the *BioShock* soundtrack took on a life of its own.
 
-![Screenshot of The Legend of Zelda: Twilight Princess](article-images/hyrules-lament-forest.jpg)
+Earlier this year, before the pandemic kicked off, Schyman was kind enough to share some of his thoughts on the soundtrack’s making.
 
-*Twilight Princess’*s most engaging musical moments tend to happen outside of specified locations, often in the Twilight Realm. The track that plays throughout multiple player visits to the dimension, appropriately named [“Twilight”](https://www.youtube.com/watch?v=bUwkjIXaHEI), is one of the most challenging pieces of music in the entire series. With a heavy influence from minimalism and similar avant-garde movements, the harmony in “Twilight” steers well away from [the conventions that Koji Kondo initially set in 1986.](https://www.youtube.com/watch?v=x5biIXoKAHo>) With a clear aim of unsettling the player, there’s no recognisable melody or traditional sense of structure. Instead, dreary drones and peculiar patterns weave in and out of the piece to create a scattered texture; a soundscape that would feel right at home on [a soundtrack to a David Lynch film.](https://www.youtube.com/watch?v=ry5vs331sMY) Whilst it’s not abnormal for a *Zelda* game to contain ominous moments in its score, the music heard in the Twilight Realm likely ranks as the most unsettling and, frankly, perplexing.
+## Classical and avante garde inspiration
 
-The dungeons in *Twilight Princess* are the biggest showcase of a ‘less is more’ method, with a shift in focus towards sound design. Whilst this isn’t anything new for the series [(the eerily understated forest temple music in *Ocarina of Time* is among the most unsettling tracks in the series)](https://www.youtube.com/watch?v=hmsZyC0UXUU), the emphasis on minimal arrangement is more prominent here than ever before. As the player progresses through to the dungeons’ final stages, the heat is naturally raised to increase the intensity of boss battles, whilst still retaining the threatening atmosphere of the dungeon itself. One of the most successful instances of this development is heard during the battle against Blizzetta of Snowpeak Ruins; the backdropping music containing orchestration similar to that of classic *[Castlevania](https://www.youtube.com/watch?v=Oquad3rnZSI&list=PL9C2427AFB919D8C2>)* titles. [The second half](https://www.youtube.com/watch?v=0jsAo8uE9dU>) of the battle begins with haunting organ arpeggios, which are gradually accompanied by timpani and dramatic choir chanting to stress the sense of climax. This was one of the standout musical moments of the entire game: the majority of boss battles lean towards the traditional custom of tribal percussion, and it’s the sheer contrast of the Blizzetta battle that makes it such a momentous moment.
- ­
-![Screenshot of dungeon combat in The Legend of Zelda: Twilight Princess](article-images/hyrules-lament-dungeon.jpg)
+The early stages of *BioShock*’s soundtrack development were highly experimental. Schyman was brought on board by Emily Ridgeway. They had worked together on *Destroy All Humans*. Left mostly to his own devices by Ken Levine, Schyman began sending snippets to Ridgeway as they searched for the game’s sound together.
 
-Although the dungeons in *Twilight Princess* are amongst the finest in the series, the game’s focus on character development was far from a total success, with the opening hours suffering from serious pacing issues. Fortunately, the effort made to properly establish and develop the backstory of key characters is a key reason as to why Midna is one of the most interesting (read: less irritating) sidekicks in the series. Her peppery personality and rigorous determination is a vital part of what makes Link’s adventure so engaging, so it makes for a genuinely distressing experience when she falls into a weak and frail state, close to death. [“Midna’s Lament”](https://www.youtube.com/watch?v=8Nq-gEG-E04), the beautiful piano ballad that plays over Hyrule Field as you rush to recover her, contains an emotional resonance that makes the moment even more poignant. Midna’s heavy breathing is just about audible amid the piano keys, which only evokes further fear in the player. For a piece of music to focus so intensely on a character outside of Link, Zelda, and Ganon is a rewarding rarity, and another satisfying instance of the minimal approach to the soundtrack. To this day, “Midna’s Lament” is a fan favourite in the *Zelda* series. Before and after *Twilight Princess*, there has never been a piece of music quite like it.
+Although concept art and story details gave Schyman an insight into the world early on, it was the failed dream of Rapture that touched him most, and guided his approach to its sound. He recognised Andrew Ryan’s uber individualistic vision as another ideal corrupted and warped out of recognition. “It was tragic to me,” Schyman says. Fleeing fascism, communism, and theocracy, Rapture was simply free to create its own nightmare. 
 
-The triumph of “Midna’s Lament” brings with it an element of disappointment. The Twilight Realm revels in its ominous ambiance but, as has already been mentioned, what transpires elsewhere is fairly standard, relying on stripped-back renditions of series tropes which are enjoyable, but ultimately predictable. Outside of [an amusing homage to Ennio Morricone](https://www.youtube.com/watch?v=hgnKbFSySfk), the music of *Twilight Princess* fails to offer any further surprises. The modest approach Kondo and his fellow composers adopted unquestionably suits the secluded atmosphere, but it’s a vision that can be easily misunderstood. At its most basic, the score can feel like it’s doing the bare minimum required. At its best, it supplies a loose backdrop for the game to work around; something adaptable. At no point does the music sound inappropriate, but this is beside the point. The music of *The Legend of Zelda* should do considerably more than merely function — this is, after all, the journey of a hero.
- ­
-![Screenshot of the Twilight Realm in The Legend of Zelda: Twilight Princess](article-images/hyrules-lament-twilight-realm.jpg)
+It called for something less colourful than traditional video game soundtracks, and Schyman had a willing partner in Ridgeway. ‘Sometimes you get into the right mindset,” Schyman says. “That was certainly one. I had a really good partner in Emily. She was open and experimental. Some people might have heard of the stuff I did and went, “That’s really too different for a game score.” She was the opposite. She loved it. It was the right people doing the right game.’
 
-Music and sound design are key components of the *Zelda* infrastructure, fundamental to making its hero’s journeys feel so engrossing, epic, and vast. It’s no coincidence that *Twilight Princess*, with its sporadic score and intermittent pacing, fails to register with fans in the same way that *Ocarina of Time* does. Whereas *Wind Waker* still looks beautiful to this day, *Twilight Princess*’s visuals have not aged quite so elegantly, and whilst this is no fault of the score, it requires a sonic impetus to atone for a muddy palette. Though similar criticism could be levelled at *Ocarina of Time* and *Majora’s Mask*, those titles have captivating compositions that blossom at the right moments. Their scores are often atmospheric, but also fantastically vibrant when appropriate, with shades of Disney-esque magic that continue to evoke enormous amounts of nostalgia across a wide audience.
+The BioSchock soundtrack has two key strains that reflect its crumbling world. The first: grand classical arrangements. The second: dissonant avant-garde experimentation from the mid 20th century. 
 
-*Twilight Princess* is a peculiar game with bolder intentions than it is often given credit for. In some ways its minimal soundtrack is ideal for such a desolate environment, but it could have done with a heftier dose of the glorious, dazzling *Zelda* fanfare. With it, Link’s adventure would surely have felt grander than it did. There’s no guarantee that *Twilight Princess* would have flourished with a more dynamic score — not even John Williams could compensate for such an empty Hyrule Field — but it would have stood more of a chance. A merely ‘good’ Zelda game is still a marvellous gaming experience, and I’d never brand it a disappointment. The game’s intentions were resolute and true, but the execution simply lacked the quality and precision required for its vision to be fully realised.
+Schyman’s early sources of inspiration lived against similar backdrops of malformed ideals. Of the early 20th century composers he mentions when we speak — Dmitri Shostakovich, Sergei Prokofiev, and Béla Bartók — two were Russian Soviets while the third lived through the collapse of the Austrian-Hungarian Empire. They were no strangers to utopian promises giving way to the same old human mess.
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7UIHl0oJEpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+The other main strain of composition that informed Schyman’s early experiments was more unconventional. He incorporated aleatoric music — in which arrangements are partially left to chance. It is a breakdown of order. Dissonant clusters appear like sonic fault lines in the music.
+
+With some composers these fault lines become fissures. While much aleatoric music comes across as fairly benign (think John Cage’s “Music of Changes”), Schyman cites the not so benign György Sándor Ligeti and Krzysztof Penderecki.
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bnZqZmcyvvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Music of this style can be like an ice pick to the frontal lobe — in a good way. Pendericki wrote “Threnody to the Victims of Hiroshima”, a piece of music that makes the violins in *Psycho* sound like a lullaby by comparison. It won the Tribune Internationale des Compositeurs UNESCO prize in 1961.
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Dp3BlFZWJNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Sprinkled on top of these two schools was a healthy dose of musique concrète — the incorporation of raw recorded sounds into composition. (Think the clocks in The Dark Side of the Moon.) Non-musical sounds burst the bubble when needed, keeping the illusion at bay.
+
+A fresh start, levity, grandiosity, giving way to social upheaval, terror, fragmentation, and a whole lot of death; sounds familiar to BioShock fans doesn’t it? Schyman’s influences formed something of a microcosm. 
+
+In the early 20th century classicists one finds Rapture’s grandeur and elegance, the promise of something extraordinary. Then in the work of more dissonant, experimental composers there comes a sense of sonic corruption, horror even. Stark realities creep into traditionally lush arrangements to keep them off balance — and listeners on edge.
+Schyman’s sound find’s form
+
+## The penny drops
+
+This molotov cocktail of sounds was what was kicking around inside Schyman’s head when the penny finally dropped.
+
+“One day I had an epiphany,” he says, “an idea with a solo violin and some dark ambient dissonant synth sound. I sent it to Emily and she said, that’s it. That’s the BioShock sound.” 
+
+Anyone who has played BioShock ought to be familiar with that sound. The soundtrack grew from the seed of that eureka moment, each track a fresh branch. “The hardest part is finding the approach,” Schyman says. “Once you do it gets much easier.”
+
+## A life of its own
+
+No composition better shows the soundtrack taking on a life of its own than “Dr. Steinman”. Although the track’s Jaws-meets-Hiroshima Threnody vibe feels custom made for Rapture’s exceptionally gruesome cosmetic surgeon, Schyman was never even asked to write a track for him. It emerged from Schyman’s overflow of writing. “Serendipity, as they say. I was inspired by the world.” When Ridgeway heard the arrangement she knew exactly where to put it.
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-GzXp-Fzv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Fan favourite “Cohen’s Masterpiece” evolved in a slightly different way. The deranged key-pounding of Rapture’s superstar musician was supposed to be limited to his finale, but it became a motif for that section of the game. They liked it so much that they used it throughout the level, overflowing from the soundtrack into the game. 
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2IpmezdSifw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+As ever the caveat is needed that video game soundtracks are not the main attraction, and shouldn’t be. As Schyman says himself: “In a way if you’re not hearing the music that’s a good sign, because you're really just drawn deeply in to the whole experience. That’s what scoring is supposed to do. It’s not supposed to be in your face saying listen to me listen to me, forget the game.”
+
+The musique concrete aspects of the soundtrack were especially important for softening that effect. The rickety dockside noises of “The Docks”, for example, ground the music in the setting, setting a tone without stealing the show.
+
+## They chose Rapture
+
+In a way the game’s development reflects Andrew Ryan’s vision for Rapture, where ‘the artist would not fear the censor.’ Other than writing a city anthem together, Schyman had more contact with Ridgeway than with Ken Levine. They were free to make their mark more or less as they saw fit.
+
+Schyman recalls that Levine’s hands-off approach to BioShock’s music ‘added to my creativity. It gave me and Emily the opportunity to experiment, to do wild things.’ 
+
+Throughout development the message was clear: better to go too far than not go far enough. “Ken said something to me during the making of BioShock. He said, “You know what, we’re either going to make a game that ends up in the garbage heap, or it’s going to be brilliant. It’s not going to be mediocre. We’re going to make something unique and it’s either going to be hated or loved.” And he was absolutely right.” 
+
+The soundtrack was clearly made in the same spirit. It is a product of Rapture — magnificent and damned all at once. Where Andrew Ryan failed Ken Levine succeeded, and where Cohen went mad Schyman pushed the boundaries of video game music. Rapture was a spectacular failure, and Schyman’s soundtrack captured that spectacularly.
