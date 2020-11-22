@@ -33,7 +33,7 @@ blurb: Albums what we liked in 2016.
 
 When we reviewed Kanye West’s latest discography entry, *The Life of Pablo*, the media circus surrounding him and the new release gave me a negative bias: I wanted to hate it. Despite everything though, the album has become one of the most memorable releases of the year, whether that’s because of the fervent ”patching’ of the album in the months after its release, the controversy some tracks caused, or the bombastic nature of the whole affair which led to further months of the Internet doing what it will to keep Kanye in the conversation. Our review just about summed up the whole experience, taking the chance to reflect some of the madness back on to the album. For sure, *The Life of Pablo* had a long list of faults, but between the genuinely good tracks and the lunacy of others, it managed to defeat the uphill battle, and we continue to remember it with smirks on our faces.
 
-**[Read our full review of *The Life of Pablo*](/reviews/kanye-west-the-life-of-pablo/) →**
+[**Read our full review of _The Life of Pablo_**](/reviews/kanye-west-the-life-of-pablo/) →
 
 -----
 
@@ -45,7 +45,7 @@ When we reviewed Kanye West’s latest discography entry, *The Life of Pablo*, t
 
 This was a welcome deviation from the norm. Backed by a rich, eclectic mix of percussion, synthesisers, and samples, the spoken word slant on *MartyrLoserKing* was a lovely thing to hear. Saul Williams—artist, poet, musician, activist, astronaut—is a commanding presence, giving the whole record a serious kick. The performance is relentless, with an often primal energy. The album’s sole single, “Burundi”, is especially reflective of its heights. Breathless stuff. Although *MartyrLoserKing* can be a little clunky, the strengths far outweigh the shortcoming. It can be easy to slip into a narrow view of what music can be, and to be reminded of the breadth of possibility is always valuable. The album’s release seemed to slip under the radar a tad, which I thought was a shame. Still, he’s snuck onto our top ten list, which no doubt eclipses all other honours.
 
-[Read our full review of MartyrLoserKing](/reviews/saul-williams-martyr-loser-king/) →
+[**Read our full review of _MartyrLoserKing_**](/reviews/saul-williams-martyr-loser-king/) →
 
 -----
 
@@ -67,7 +67,7 @@ I’ve said a lot about this album recently – with “Life Itself” featuring
 
 *A Seat at the Table* is an absolute pleasure to listen to. Solange’s third studio album is one of the most cohesive and focused albums of 2016, thriving on its low-key warmth. It gives a crucial lesson to some of this years big-hitters in how far an album can go when it’s actually approachable. *A Seat* is thoroughly welcoming, and doesn’t need unnecessary interferences to prove itself. The instrumentals are gorgeous, and Solange’s voice – whilst not the most authoritative – soars in its own gracious way. The guest appearances fit like a cozy, well-knitted glove (Lil Wayne is one of the highlights of the record, remarkably) and the entire experience sounds consequently communal. *A Seat at the Table* is unlikely to blow listeners away, but that was never the intention. It’s a lovely listen, and there is always a space for that amongst the spectacular.
 
-[Read our full review of A Seat at the Table](/reviews/solange-a-seat-at-the-table/) →
+[**Read our full review of _A Seat at the Table_**](/reviews/solange-a-seat-at-the-table/) →
 
 -----
 
@@ -79,7 +79,7 @@ I’ve said a lot about this album recently – with “Life Itself” featuring
 
 No record represents the anguish of 2016 better than *Skeleton Tree*. Its presence lingers like an ominous cloud, constantly reminding us of the inevitability of despair. The record is lined with unbearable tension, and it refuses to let up until the very end. Its deeply distressing atmosphere is heightened by an immeasurable tragedy, which Nick Cave valiantly confronts in order to find some sort of solace. You’d be hard pressed to find anyone who finds such an overwhelming sense of devastation enjoyable, but it is undoubtedly beautiful. *Skeleton Tree* is not a record you play over and over; it’s a record you listen to in times of need. It can be adequately treated as its own form of mourning for listeners when required. The record is far from flawless, but its imperfections only intensify the struggle. Its one of the most powerful pieces of art to be constructed this year, and will continue to be remembered with a tender fondness.
 
-[Read our full review of Skeleton Tree](/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/) →
+[**Read our full review of _Skeleton Tree_**](/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/) →
 
 -----
 
@@ -91,7 +91,7 @@ No record represents the anguish of 2016 better than *Skeleton Tree*. Its presen
 
 Given the amount of ‘‘‘‘‘irony’’’’’ and mess in music this year, *Atomic* was a soothing presence. It is sincerely, carefully made work, and an immensely satisfying listen. Born of a collaboration with the BBC, Mogwai produced a barnstormer of a project. They tackle themes of nuclear war and power with appropriate sobriety, making for a surprisingly seductive listen. It has weight, power, and nuance — a potent combination at the worst of times. I’ve honestly been surprised by just how much I continue to return in to it. *Atomic* is unlikely to be spoken about in generations to come, and that’s ok. It commits to a subject and follows through. I appreciated that, and continue to. Solid, authoritative post-rock rules supreme in this record, and in a wishy-washy scatterbrain of a year I actually found that rather brave.
 
-[Read our full review of Atomic](/reviews/mogwai-atomic/) →
+[**Read our full review of _Atomic_**](/reviews/mogwai-atomic/) →
 
 -----
 

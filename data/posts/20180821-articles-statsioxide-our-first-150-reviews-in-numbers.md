@@ -63,8 +63,8 @@ Our individual scores are where things start to fragment a little. We’ve each 
 Andrew gave a score of nine or higher in 17.93% of his reviews, André 13.60%, and Fred 9.02%. We’ve each given two perfect scores so far:
 
 - **André:** [*The Downward Spiral*](/reviews/nine-inch-nails-the-downward-spiral/) by Nine Inch Nails & [*OK Computer*](/reviews/radiohead-ok-computer/) by Radiohead
-- **Fred:**[*The Dark Side of the Moon*](/reviews/pink-floyd-the-dark-side-of-the-moon/) by Pink Floyd & [*On the Beach*](/reviews/neil-young-on-the-beach/) by Neil Young
-- **Andrew:***OK Computer *by Radiohead & [*Can I Borrow a Feeling?*](/reviews/kirk-van-houten-can-i-borrow-a-feeling/) By Kirk Van Houten
+- **Fred:** [*The Dark Side of the Moon*](/reviews/pink-floyd-the-dark-side-of-the-moon/) by Pink Floyd & [*On the Beach*](/reviews/neil-young-on-the-beach/) by Neil Young
+- **Andrew:** *OK Computer *by Radiohead & [*Can I Borrow a Feeling?*](/reviews/kirk-van-houten-can-i-borrow-a-feeling/) By Kirk Van Houten
 
 All worthy works to be sure.
 
