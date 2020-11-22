@@ -58,6 +58,7 @@ score:
   fraction: 0.7
 
 ---
+
 author: Fred
 
 review: >-
@@ -65,7 +66,7 @@ review: >-
 
   Sadly, these highs feel like base camps. The spaces between them bob and sway with an ease that’s serene in the moment, but indistinct in retrospect. Cherry’s soft spoken poetic streams feel like confidences; tidings better brought to listeners through the intimacy of live performance, or a muskier mix. On record the weight behind the whispers is seldom apparent.
 
-  *Broken Politics *is gentle in its boldness, and as such I’m only ever dimly aware of why I should be opening myself up to it. It feels like the record hasn’t distilled its core energies as well as they deserved to be. Having soaked the music in over the last week I’m keen to see Cherry perform the material live, I’m excited by the territory she’s exploring, but there’s no serious desire to return to the record itself.
+  *Broken Politics* is gentle in its boldness, and as such I’m only ever dimly aware of why I should be opening myself up to it. It feels like the record hasn’t distilled its core energies as well as they deserved to be. Having soaked the music in over the last week I’m keen to see Cherry perform the material live, I’m excited by the territory she’s exploring, but there’s no serious desire to return to the record itself.
 
 tracks:
   - Natural Skin Deep
@@ -78,6 +79,7 @@ score:
   fraction: 0.6
 
 ---
+
 author: Marcus
 
 review: >-
