@@ -24,7 +24,7 @@ blurb: Splicing classical arrangements with avant-garde experimentation, Garry S
 
 In any conversation about whether video games are art, odds are someone will wheel out *BioShock* as an example of why they are. And with good reason. The game was a revelation when it was released in 2007, and still garners write ups and analysis all these years later. 
 
-The soundtrack plays a huge part in the game’s ongoing prestige. By splicing together classical arrangements, avant garde experimentation, and musique concrete, Garry Schyman created a sound befitting Rapture’s ruinous splendour. Supported by sound designer Emily Ridgeway and given space to explore by creative head Ken Levine, the *BioShock* soundtrack took on a life of its own.
+The soundtrack plays a huge part in the game’s ongoing prestige. By splicing together classical arrangements, avant garde experimentation, and musique concrete, [Garry Schyman](https://garryschyman.com/) created a sound befitting Rapture’s ruinous splendour. Supported by sound designer Emily Ridgeway and given space to explore by creative head Ken Levine, the *BioShock* soundtrack took on a life of its own.
 
 Earlier this year, before the pandemic kicked off, Schyman was kind enough to share some of his thoughts on the soundtrack’s making.
 
