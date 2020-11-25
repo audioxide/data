@@ -63,7 +63,7 @@ No response. A tender melody drifted from the back of the van like a dove riding
 
 ‘Aitycbag,’ Bas said.
 
-‘Splendid,’ Hazard muttered. ‘Songs with no titles brought to you by the band with no name.’
+‘Great,’ Hazard muttered. ‘Songs with no titles brought to you by the band with no name.’
 
 ‘The Band with No Name? That’s not a bad shout.’ Gould had emerged from the bathroom once again looking unnervingly pleased with herself. ‘It’s mysterious, and might make people think of Clint Eastwood. Just as well if the alternative is thinking about any of you.’
 

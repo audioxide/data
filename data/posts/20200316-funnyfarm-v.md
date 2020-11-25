@@ -34,7 +34,7 @@ Laina Gould caught up with them just as they arrived at this conclusion. She loo
 
 ‘Had. My boss was in the audience. He fired me.’
 
-‘Splendid, splendid.’ Gould was already on another plane. Her glitter-framed eyes glazed as a plan of action slid smoothly into place.
+‘Wonderful.’ Gould was already on another plane. Her glitter-framed eyes glazed as a plan of action slid smoothly into place.
 
 ‘We’ll need a touring vehicle, but it’s too late tonight. Reconvene here tomorrow at dawn with your instruments and a shoulder-bag’s worth of belongings each. Burn anything you leave behind. You, drummer.’ Stone’s head tilted gently to the side like an obedient dog. ‘Go back to that pub and take the drum kit. They won’t stop you.’
 
@@ -76,7 +76,7 @@ Stone awakened from the depths.
 
 ‘Give the van a good kick.’
 
-Theo straightened up. He was all too happy to oblige. Allowing himself room for a proper runup, he jogged forward and executed with perfect form. The steel toe of his boot hit the van’s bumper with a deep, booming bong sound. The metalwork shivered, the wing mirrors quivered. The van stayed intact.
+Theo straightened up. He was all too happy to oblige. Allowing himself room for a proper runup, he jogged forward and executed with perfect form. The steel toe of his boot hit the van’s bumper with a deep, booming bonging sound. The metalwork shivered, the wing mirrors quivered. The van stayed intact.
 
 ‘We’ll take it,’ Gould said. ‘Load up, boys. There’s a world out there just waiting for you to fall into its lap.’
 

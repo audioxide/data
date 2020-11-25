@@ -45,7 +45,7 @@ Thenmayne waved his hand. ‘I keep close tabs on all my top clients, and Bas is
 
 <center>*</center>
 
-Their pied piper led them through a maze of alleys, down a stairway, over a dozing mongrel, through a door, across a damp, dirty utility room, and past a reinforced metal door. Behind the door was a wide, spacious room resplendent with illicit goods.
+Their pied piper led them through a maze of alleys, down a stairway, over a dozing mongrel, through a door, across a damp, dirty utility room, and past a reinforced metal door. Behind the door was a wide, spacious illicit goods showroom.
 
 The walls of this room were lined with ornately carved oak shelves which were affixed with rolling ladders and lined with hundreds of glass jars containing various powders and ‘herbs’ and pills. An unseen sound system played BBC Radio 4 and the air smelled faintly of cinnamon – or, to be exact, something rather more potent that itself smelled faintly of cinnamon. A marble fountain bubbled tranquilly beside the counter.
 
@@ -107,7 +107,7 @@ The cash machine pinged lavishly, displaying the tallied total. Gould read it an
 
 ‘The big chap?’ Thenmayne smiled rather more darkly than at any point previously. ‘He’ll be in there for a few hours yet, mark my words. Don’t worry about him. I’ll see he gets back to your hotel. Now madame, here is your loyalty card. After eight orders you get a ninth half price. They’re accepted at all our stores.’
 
-Gould examined here ornately printed piece of paper. The stamp was a little caricature of Thenmayne’s face.
+Gould examined her ornately printed piece of paper. The stamp was a little caricature of Thenmayne’s face.
 
 ‘How many stores are there?’ she said.
 

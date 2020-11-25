@@ -90,9 +90,9 @@ They found him at the library. Theo had stayed behind to finish destroying the c
 
 His name was Irvine Waltz and he had an inoffensive haircut, inoffensive eyes that blinked often behind inoffensive rimless glasses, and was wearing a deeply offensive blue turtleneck jumper. A team of crack scientists couldn’t have designed a more perfect librarian.
 
-He was humming gently to himself, a deep, groovy hum that danced around the thwack of his stamp. For a time Alan and Ray watched him from the shadows of the classics section, their feet ever so gently tapping the floor.
+He was humming gently to himself, a deep, groovy hum that danced around the thwack of his stamp. For a time Alan and Ray watched him from the shadows of the Music section, their feet ever so gently tapping the floor.
 
-The only other sound was an occasional snort from somewhere in the Classics section.
+The only other sound was an occasional snort from somewhere in Classics.
 
 Finally, convinced, Hazard and Sunshine approached. The man looked up and met them with a model professional smile.
 

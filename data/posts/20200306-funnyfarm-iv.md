@@ -73,7 +73,7 @@ Gould inhaled deeply, ignoring him. She leaned forward, the glint in her eye giv
 
 Hazard nodded vigorously. This was enough for Gould, who continued.
 
-‘You’re going to need gigs. You’re going to need radio slots. You’re going to need recording studios and photo shoots. You’re going to need horrible accidents to happen to other up and coming artists that sound like you. I can get you those gigs. I can make those accidents happen. I can fight your corner when you’re passed out on the canvas. Luckily for you, boys, this industry isn’t about how good you are. It’s about how good you are at making people believe how good you are. You don’t want my help? Fine. Walk away. But if you want to make something of yourselves, to play ratty little clubs around the country and maybe, one day, play ratty little festivals, I suggest you sign this napkin, because it’s the best deal you’re ever going to get.’
+‘You’re going to need gigs. You’re going to need radio slots. You’re going to need recording studios and photo shoots. You’re going to need horrible accidents to happen to other up and coming artists that sound like you. I can get you those gigs. I can make those accidents happen. Luckily for you, boys, this industry isn’t about how good you are. It’s about how good you are at making people believe how good you are. You don’t want my help? Fine. Walk away. But if you want to make something of yourselves, to play ratty little clubs around the country and maybe, one day, play ratty little festivals, I suggest you sign this napkin, because it’s the best deal you’re ever going to get.’
 
 The band processed this in silence. The landlord, who had approached to reprimand Gould about what was now her second cigarette, backed away and pretended to busy himself at a nearby table. The pub’s decibel levels eased back up to normal.
 
@@ -81,7 +81,7 @@ Bas pulled the napkin towards himself and turned to Gould.
 
 ‘Pahldr?’ he said.
 
-‘Of course,’ Gould purred, handing him a pen. Bas signed the napkin – the ink was blood red – and pushed it back into the centre of the table.
+‘Of course,’ Gould purred, handing him a pen. Bas signed the napkin – the ink was blood red – and pushed it back to the centre of the table.
 
 ‘Well,’ Waltz said slowly, ‘fifty percent of nothing is still nothing.’
 
