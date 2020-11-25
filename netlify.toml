@@ -3,6 +3,8 @@
   command = "sed -i \"s|ALLOWED_URL|${SITE_URL}|g\" netlify.toml && yarn && yarn build"
   functions = "functions"
   environment = { SITE_URL = "https://audioxide.com", API_URL = "https://audioxide.com/api" }
+[context.alpha]
+  environment = { SITE_URL = "https://deploy-preview-107--clever-murdock-f2e04c.netlify.app", API_URL = "https://deploy-preview-107--clever-murdock-f2e04c.netlify.app/api" }
 
 [[redirects]]
   from = "/search"
