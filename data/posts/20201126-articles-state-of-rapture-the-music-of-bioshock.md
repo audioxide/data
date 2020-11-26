@@ -87,6 +87,6 @@ In a way the game’s development reflects Andrew Ryan’s vision for Rapture, w
 
 Schyman recalls that Levine’s hands-off approach “added to my creativity. It gave me and Emily the opportunity to experiment, to do wild things.” 
 
-Throughout development the message was clear: better to go too far than not go far enough. “Ken said something to me during the making of *BioShock*. He said we’re either going to make a game that ends up in the garbage heap, or it’s going to be brilliant. It’s not going to be mediocre. We’re going to make something unique and it’s either going to be hated or loved. He was absolutely right.” 
+Throughout development the message was clear: better to go too far than not go far enough. “Ken said something to me during the making of *BioShock*. He said (and I paraphrase) we’re either going to make a game that ends up in the garbage heap, or it’s going to be brilliant. It’s not going to be mediocre. We’re going to make something unique and it’s either going to be hated or loved. He was absolutely right.” 
 
 The soundtrack was clearly made in the same spirit. It is a product of Rapture — magnificent and damned all at once. Where Andrew Ryan failed Ken Levine succeeded, and where Cohen went mad Schyman pushed the boundaries of video game music. Rapture was a spectacular failure, and Schyman’s soundtracsk captured that spectacularly.
