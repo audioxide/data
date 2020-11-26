@@ -30,7 +30,7 @@ Earlier this year, before the pandemic kicked off, Schyman was kind enough to sh
 
 ## Classical and avant garde inspiration
 
-The early stages of *BioShock*’s soundtrack development were highly experimental. Schyman was brought on board by Emily Ridgeway. They had worked together on *Destroy All Humans*. Left mostly to his own devices by Ken Levine, Schyman began sending snippets to Ridgeway as they searched for the game’s sound together.
+The early stages of *BioShock*’s soundtrack development were highly experimental. Schyman was brought on board by Emily Ridgeway, who he had previously worked with on *Destroy All Humans*. Schyman began sending snippets to Ridgeway as they searched for the game’s sound together. 
 
 Although concept art and story details gave Schyman an insight into the world early on, it was the failed dream of Rapture that touched him most, and guided his approach to its sound. He recognised Andrew Ryan’s uber individualistic vision as another ideal corrupted and warped out of recognition. “It was tragic to me,” Schyman says. Fleeing fascism, communism, and theocracy, Rapture was simply free to create its own nightmare. 
 
@@ -54,7 +54,7 @@ Music of this style can be like an ice pick to the frontal lobe — in a good wa
 
 Sprinkled on top of these two schools was a healthy dose of musique concrète — the incorporation of raw recorded sounds into composition. (Think the clocks in The Dark Side of the Moon.) Non-musical sounds burst the bubble when needed, keeping the illusion at bay.
 
-A fresh start, levity, grandiosity, giving way to social upheaval, terror, fragmentation, and a whole lot of death; sounds familiar to BioShock fans doesn’t it? Schyman’s influences formed something of a microcosm. 
+A fresh start, levity, grandiosity, giving way to social upheaval, terror, fragmentation, and a whole lot of death; sounds familiar to *BioShock* fans doesn’t it? Schyman’s influences formed something of a microcosm. 
 
 In the early 20th century classicists one finds Rapture’s grandeur and elegance, the promise of something extraordinary. Then in the work of more dissonant, experimental composers there comes a sense of sonic corruption, horror even. Stark realities creep into traditionally lush arrangements to keep them off balance — and listeners on edge.
 Schyman’s sound find’s form
@@ -63,9 +63,9 @@ Schyman’s sound find’s form
 
 This molotov cocktail of sounds was what was kicking around inside Schyman’s head when the penny finally dropped.
 
-“One day I had an epiphany,” he says, “an idea with a solo violin and some dark ambient dissonant synth sound. I sent it to Emily and she said, that’s it. That’s the BioShock sound.” 
+“One day I had an epiphany,” he says, “an idea with a solo violin and some dark ambient dissonant synth sound. I sent it to Emily and she said, that’s it. That’s the *BioShock* sound.” 
 
-Anyone who has played BioShock ought to be familiar with that sound. The soundtrack grew from the seed of that eureka moment, each track a fresh branch. “The hardest part is finding the approach,” Schyman says. “Once you do it gets much easier.”
+Anyone who has played *BioShock* is likely familiar with that sound. The soundtrack grew from the seed of that eureka moment, each track a fresh branch. “The hardest part is finding the approach,” Schyman says. “Once you do it gets much easier.”
 
 ## A life of its own
 
@@ -83,10 +83,10 @@ The musique concrete aspects of the soundtrack were especially important for sof
 
 ## They chose Rapture
 
-In a way the game’s development reflects Andrew Ryan’s vision for Rapture, where ‘the artist would not fear the censor.’ Other than writing a city anthem together, Schyman had more contact with Ridgeway than with Ken Levine. They were free to make their mark more or less as they saw fit.
+In a way the game’s development reflects Andrew Ryan’s vision for Rapture, where ‘the artist would not fear the censor.’ Although Schyman did write the city anthem with Levine, most of his contact was with Ridgeway. Levine of course followed their progress and listened to the work as it evolved, but the game's sound was ultimately their show.
 
-Schyman recalls that Levine’s hands-off approach to BioShock’s music ‘added to my creativity. It gave me and Emily the opportunity to experiment, to do wild things.’ 
+Schyman recalls that Levine’s hands-off approach ‘added to my creativity. It gave me and Emily the opportunity to experiment, to do wild things.’ 
 
-Throughout development the message was clear: better to go too far than not go far enough. “Ken said something to me during the making of BioShock. He said, “You know what, we’re either going to make a game that ends up in the garbage heap, or it’s going to be brilliant. It’s not going to be mediocre. We’re going to make something unique and it’s either going to be hated or loved.” And he was absolutely right.” 
+Throughout development the message was clear: better to go too far than not go far enough. “Ken said something to me during the making of *BioShock*. He said we’re either going to make a game that ends up in the garbage heap, or it’s going to be brilliant. It’s not going to be mediocre. We’re going to make something unique and it’s either going to be hated or loved. He was absolutely right.” 
 
-The soundtrack was clearly made in the same spirit. It is a product of Rapture — magnificent and damned all at once. Where Andrew Ryan failed Ken Levine succeeded, and where Cohen went mad Schyman pushed the boundaries of video game music. Rapture was a spectacular failure, and Schyman’s soundtrack captured that spectacularly.
+The soundtrack was clearly made in the same spirit. It is a product of Rapture — magnificent and damned all at once. Where Andrew Ryan failed Ken Levine succeeded, and where Cohen went mad Schyman pushed the boundaries of video game music. Rapture was a spectacular failure, and Schyman’s soundtracsk captured that spectacularly.
