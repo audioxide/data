@@ -34,7 +34,7 @@ The early stages of *BioShock*’s soundtrack development were highly experiment
 
 Although concept art and story details gave Schyman an insight into the world early on, it was the failed dream of Rapture that touched him most, and guided his approach to its sound. He recognised Andrew Ryan’s uber individualistic vision as another ideal corrupted and warped out of recognition. “It was tragic to me,” Schyman says. Fleeing fascism, communism, and theocracy, Rapture was simply free to create its own nightmare. 
 
-It called for something less colourful than traditional video game soundtracks, and Schyman had a willing partner in Ridgeway. ‘Sometimes you get into the right mindset,” Schyman says. “That was certainly one. I had a really good partner in Emily. She was open and experimental. Some people might have heard of the stuff I did and went, “That’s really too different for a game score.” She was the opposite. She loved it. It was the right people doing the right game.’
+It called for something less colourful than traditional video game soundtracks, and Schyman had a willing partner in Ridgeway. “Sometimes you get into the right mindset,” Schyman says. “That was certainly one. I had a really good partner in Emily. She was open and experimental. Some people might have heard of the stuff I did and went, “That’s really too different for a game score.” She was the opposite. She loved it. It was the right people doing the right game.’
 
 The BioSchock soundtrack has two key strains that reflect its crumbling world. The first: grand classical arrangements. The second: dissonant avant-garde experimentation from the mid 20th century. 
 
@@ -85,7 +85,7 @@ The musique concrete aspects of the soundtrack were especially important for sof
 
 In a way the game’s development reflects Andrew Ryan’s vision for Rapture, where ‘the artist would not fear the censor.’ Although Schyman did write the city anthem with Levine, most of his contact was with Ridgeway. Levine of course followed their progress and listened to the work as it evolved, but the game's sound was ultimately their show.
 
-Schyman recalls that Levine’s hands-off approach ‘added to my creativity. It gave me and Emily the opportunity to experiment, to do wild things.’ 
+Schyman recalls that Levine’s hands-off approach “added to my creativity. It gave me and Emily the opportunity to experiment, to do wild things.” 
 
 Throughout development the message was clear: better to go too far than not go far enough. “Ken said something to me during the making of *BioShock*. He said we’re either going to make a game that ends up in the garbage heap, or it’s going to be brilliant. It’s not going to be mediocre. We’re going to make something unique and it’s either going to be hated or loved. He was absolutely right.” 
 
