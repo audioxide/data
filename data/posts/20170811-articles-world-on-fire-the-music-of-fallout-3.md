@@ -11,7 +11,7 @@ tags:
 featuredimage: article-images/the-music-of-fallout-3-vault-boy.jpg
 featuredimageAlt: Vault Boy holding an old fashioned radio
 title: "World On Fire: the Music of &#8216;Fallout 3&#8217;"
-summary: This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game
+summary: From Galaxy News Radio to the old-school homages of Inon Zur's ambient soundtrack, Fallout 3 owes much of its brilliance to its music
 author: fred
 blurb: From Galaxy News Radio to the old-school homages of Inon Zur's ambient soundtrack, Fallout 3 owes much of its brilliance to its music.
 
