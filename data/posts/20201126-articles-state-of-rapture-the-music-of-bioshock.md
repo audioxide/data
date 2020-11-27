@@ -57,7 +57,6 @@ Sprinkled on top of these two schools was a healthy dose of musique concrète �
 A fresh start, levity, grandiosity, giving way to social upheaval, terror, fragmentation, and a whole lot of death; sounds familiar to *BioShock* fans doesn’t it? Schyman’s influences formed something of a microcosm. 
 
 In the early 20th century classicists one finds Rapture’s grandeur and elegance, the promise of something extraordinary. Then in the work of more dissonant, experimental composers there comes a sense of sonic corruption, horror even. Stark realities creep into traditionally lush arrangements to keep them off balance — and listeners on edge.
-Schyman’s sound find’s form
 
 ## The penny drops
 
