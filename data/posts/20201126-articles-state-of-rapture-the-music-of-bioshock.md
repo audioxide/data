@@ -52,7 +52,7 @@ Music of this style can be like an ice pick to the frontal lobe — in a good wa
 
 <center><iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Dp3BlFZWJNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Sprinkled on top of these two schools was a healthy dose of musique concrète — the incorporation of raw recorded sounds into composition. (Think the clocks in The Dark Side of the Moon.) Non-musical sounds burst the bubble when needed, keeping the illusion at bay.
+Sprinkled on top of these two schools was a healthy dose of musique concrète — the incorporation of raw recorded sounds into composition. (Think the clocks in [*The Dark Side of the Moon*](/reviews/pink-floyd-the-dark-side-of-the-moon/).) Non-musical sounds burst the bubble when needed, keeping the illusion at bay.
 
 A fresh start, levity, grandiosity, giving way to social upheaval, terror, fragmentation, and a whole lot of death; sounds familiar to *BioShock* fans doesn’t it? Schyman’s influences formed something of a microcosm. 
 
