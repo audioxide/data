@@ -14,7 +14,7 @@ featuredimageAlt: Black and white photograph of Morrissey surrounded by smoke
 title: The &#8217;80s according to Stewart Lee
 author: fred
 blurb: The most miserable man in comedy has five favourite albums from everyone's least favourite decade. We explore Stewart Lee's highlights of the '80s.
-summary: The most miserable man in comedy has five favourite albums from everyone’s least favourite decade. Who could turn down a trip through ’80s music in a Stewart Lee devotee vehicle? Don’t answer that.
+summary: The most miserable man in comedy has five favourite albums from everyone’s least favourite decade. Who could turn down a trip through ’80s music in a Stewart Lee devotee vehicle? Don’t answer that
 
 ---
 
@@ -53,9 +53,9 @@ The two’s journeys are not *exactly* the same. Gaughan’s dark night of the s
 
 -----
 
-## Hex Enduction Hour
+## *Hex Enduction Hour* (1982)
 
-### The Fall (1982)
+### The Fall
 
 Stewart Lee’s career is largely The Fall’s fault. I’m not saying he’s Mark E. Smith’s illegitimate child. I’m not saying that. I’m saying Stewie saw ‘anti-comic’ Ted Chippington open for The Fall in 1984 and decided that was where his future lay. [‘It’s almost like a switch flipped. I’m sure it’s from listening to The Fall a lot.’](http://thequietus.com/articles/06324-stewart-lee-interview-favourite-albums?page=5) History turns on small, rusty hinges.
 
@@ -77,14 +77,14 @@ MES and SL are kindred spirits here. Blackened, hateful spirits, but spirits all
 
 -----
 
-## The Days of Wine and Roses
+## *The Days of Wine and Roses* (1982)
 
-### The Dream Syndicate (1982)
+### The Dream Syndicate
 
 Moving on from the irredeemable farce of Stewie’s origin story, *The Days of Wine and Roses* glides in with sophistication and elegance. A lot of the same energies as *Hex Enduction Hour* are here, but the finish is slicker. This is extra impressive given the album was [recorded and mixed in three consecutive night sessions, from midnight to 8am](https://www.stevewynn.net/days_of_wine_and_roses.php). It sounds phenomenal. The record channels post-punk, 2-tone, and other genres with names. It’s good fun with marvellous energy.
 
 <span class="pull-right">
-  ![Album artwork of 'The Days of Wine and Roses' by The Dream Syndicate](album-artwork/the-days-of-wine-and-roses-the-dream-syndicate.jpg)
+  <img class="article-album-image" src="album-artwork/the-days-of-wine-and-roses-the-dream-syndicate.jpg" alt="Album artwork of 'The Days of Wine and Roses' by The Dream Syndicate">
 </span>
 
 In a lot of ways Stewie’s sets are like records; they’re the same every time, but that doesn’t matter if the one time is good enough. Albums at their best are sublime moments captured in ember, and the same can arguably be said of stand up routines, though that would of course be ridiculous.
@@ -97,14 +97,14 @@ The Dream Syndicate presumably practiced a lot to be ready to make The Moment co
 
 -----
 
-## Pigs on Purpose
+## *Pigs on Purpose* (1982)
 
-### The Nightingales (1982)
+### The Nightingales
 
 Initially I didn’t think this was as good as the others. Having had time and repeat listens to think about it, I still don’t. *Pigs on Purpose* is yet another post-punk serving, and a decent one at that, with more of the faux-unfiltered, yobbish charm we know and tolerate.
 
 <span class="pull-right">
-  ![Album artwork of 'Pigs on Purpose' by The Nightingales](album-artwork/pigs-on-purpose-nightingales.jpg)
+  <img class="article-album-image" src="album-artwork/pigs-on-purpose-nightingales.jpg" alt="Album artwork of 'Pigs on Purpose' by The Nightingales">
 </span>
 
 Stewie claims, [‘In 1982, The Nightingales were the Birmingham Fall, and The Fall were the Manchester Nightingales, and it could have gone either way.’](http://thequietus.com/articles/06324-stewart-lee-interview-favourite-albums?page=5) Be this as it may, the production lets the album down. The trick of *Hex Enduction Hour* and *The Days of Wine and Roses* is their loose, frenetic energies are at the same time strangely immaculate, giving you the best of both worlds. *Pigs on Purpose*, however, sounds as you’d expect a low-cost post-punk band from the midlands to sound.
@@ -115,9 +115,9 @@ Does it have the raw energy of *Hex Enduction Hour*? No. Does it bottle lightni
 
 -----
 
-## Prairie School Freakout
+## *Prairie School Freakout* (1988)
 
-### Eleventh Dream Day (1988)
+### Eleventh Dream Day
 
 This might be the best of them. It listens like a marvelous jam, which it basically was. Recorded [‘on a hot pollution alert day during July 1987 in Louisville, Kentucky … between 11pm and 5am,’](https://www.thetimes.co.uk/article/eleventh-day-dream-prairie-school-freakout-ch9kkz25sq7) It seems appropriate that half that time was spent ‘trying to fix the wild buzz coming out of [guitarist] Rick’s amp.’ *Prairie School Freakout* is nothing if not a mad buzz. It’s relentlessly brilliant.
 

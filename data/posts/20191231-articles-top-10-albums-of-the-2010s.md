@@ -75,7 +75,6 @@ When bands begin to reach their latter years, the quality tends to drop, sometim
 ## 7\. *Let England Shake* // PJ Harvey
 
 <img class="article-album-image" src="album-artwork/let-england-shake-pj-harvey.jpg" alt="Album artwork of 'Let England Shake' by PJ Harvey">
-<!--> ![Album artwork of 'Let England Shake' by PJ Harvey](album-artwork/let-england-shake-pj-harvey.jpg "Album artwork of 'Let England Shake' by PJ Harvey") -->
 
 **André**
 

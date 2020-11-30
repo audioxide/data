@@ -34,7 +34,7 @@ blurb: It's the end of the year, and that means it's time for fond remembrances 
 
 ## 10\. *Last Place*// Grandaddy
 
-![Album artwork of 'Last Place' by Grandaddy](album-artwork/last-place-grandaddy.jpg "Album artwork of 'Last Place' by Grandaddy")
+<img class="article-album-image" src="album-artwork/last-place-grandaddy.jpg" alt="Album artwork of 'Last Place' by Grandaddy">
 
 **Michael**
 
@@ -94,7 +94,7 @@ I’d be lying if I said *Every Country’s Sun* lit up the year, but I’m very
 
 ## 5\. *New Energy* // Four Tet
 
-![Album artwork of 'New Energy' by Four Tet](album-artwork/new-energy-four-tet.jpg "Album artwork of 'New Energy' by Four Tet")
+<img class="article-album-image" src="album-artwork/new-energy-four-tet.jpg" alt="Album artwork of 'New Energy' by Four Tet">
 
 **André**
 

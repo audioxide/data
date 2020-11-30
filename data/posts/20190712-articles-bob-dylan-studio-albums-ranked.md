@@ -258,7 +258,7 @@ Dylan almost left the slow version of “Forever Young” off the album when his
 
 ## 13\. *Infidels* (1983)
 
-![Album artwork of 'Infidels' by Bob Dylan](album-artwork/infidels-bob-dylan.jpg "Album artwork of 'Infidels' by Bob Dylan")
+<img class="article-album-image" src="album-artwork/infidels-bob-dylan.jpg" alt="Album artwork of 'Infidels' by Bob Dylan">
 
 *Infidels* was yet another ‘return to form’ for Dylan, following on from his unpopular Christian trilogy. He made a decided move away from evangelizing, which happily coincided with some of his best songwriting since the mid-70s. What’s more, after struggling to find a producer for the album ([Bowie](/reviews/david-bowie-hunky-dory/), Zappa, and [Costello](/reviews/elvis-costello-my-aim-is-true/) were all unavailable), Dylan got his hands on Mark Knopfler, whose contributions on guitar would become a big part of the record.
 
@@ -337,7 +337,7 @@ This is the album that turned Dylan into ‘the Spokesman of a Generation’. Fo
 
 ## 5\. *The Times They Are a-Changin’* (1964)
 
-![Album artwork of 'The Times They Are a-Changin' by Bob Dylan](album-artwork/the-times-they-are-a-changin-bob-dylan.jpg "Album artwork of 'The Times They Are a-Changin' by Bob Dylan")
+<img class="article-album-image" src="album-artwork/the-times-they-are-a-changin-bob-dylan.jpg" alt="Album artwork of 'The Times They Are a-Changin' by Bob Dylan">
 
 Just half a year after the release of *The Freewheelin’ Bob Dylan*, the up-and-coming singer-songwriter put out his third album, and it was decidedly darker than its predecessor.
 
@@ -349,7 +349,7 @@ From the rousing, title-track opener to the concluding “Restless Farewell”, 
 
 ## 4\. *Bringing It All Back Home* (1965)
 
-![Album artwork of 'Bringing It All Back Home' by Bob Dylan](album-artwork/bringing-it-all-back-home-bob-dylan.jpg "Album artwork of 'Bringing It All Back Home' by Bob Dylan")
+<img class="article-album-image" src="album-artwork/bringing-it-all-back-home-bob-dylan.jpg" alt="Album artwork of 'Bringing It All Back Home' by Bob Dylan">
 
 Ironically, *Bringing It All Back Home* was very unfamiliar territory for Dylan. After four albums of hard-hitting protest songs and folk ballads, he took a left turn and switched to rock ‘n’ roll.
 
@@ -361,7 +361,7 @@ The second half of the record is a far less ferocious affair (there are no drums
 
 ## 3\. *Highway 61 Revisited* (1965)
 
-![Album artwork of 'Highway 61 Revisited' by Bob Dylan](album-artwork/highway-61-revisited-bob-dylan.jpg "Album artwork of 'Highway 61 Revisited' by Bob Dylan")
+<img class="article-album-image" src="album-artwork/highway-61-revisited-bob-dylan.jpg" alt="Album artwork of 'Highway 61 Revisited' by Bob Dylan">
 
 With “Like a Rolling Stone” at the start and “Desolation Row” at the end, no Dylan album (or, perhaps, any album) wields better bookends than *Highway 61 Revisited*. Bizarrely, “Like a Rolling Stone” started out as a 20-page poem (‘a long piece of vomit’, as Dylan described it) before becoming a brilliant, sneering slice of rock ‘n’ roll.
 

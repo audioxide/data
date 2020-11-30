@@ -32,7 +32,7 @@ The band’s albums are crafted with great care and attention to detail and, as
 
 ## 9\. *Pablo Honey* (1993)
 
-![Album artwork of 'Pablo Honey' by Radiohead](album-artwork/pablo-honey-radiohead.jpg "Album artwork of 'Pablo Honey' by Radiohead")
+<img class="article-album-image" src="album-artwork/pablo-honey-radiohead.jpg" alt="Album artwork of 'Pablo Honey' by Radiohead">
 
 **Andrew**
 
@@ -104,7 +104,7 @@ When I listened to *Kid A* for the first time, almost ten years ago, it made tot
 
 ## 2\. *OK Computer* (1997)
 
-![Album artwork of 'OK Computer' by Radiohead](album-artwork/ok-computer-radiohead.jpg "Album artwork of 'OK Computer' by Radiohead")
+<img class="article-album-image" src="album-artwork/ok-computer-radiohead.jpg" alt="Album artwork of 'OK Computer' by Radiohead">
 
 **Fred**
 

@@ -30,7 +30,7 @@ blurb: It's the end of the year, and that means it's time for fond remembrances.
 
 ## 10\. *American Utopia* // David Byrne
 
-![Album artwork of 'American Utopia' by David Byrne](album-artwork/american-utopia-david-byrne.jpg "Album artwork of 'American Utopia' by David Byrne")
+<img class="article-album-image" src="album-artwork/american-utopia-david-byrne.jpg" alt="Album artwork of 'American Utopia' by David Byrne">
 
 **Andrew**
 
@@ -52,7 +52,7 @@ When David Byrne released his latest album in early 2018, it took a while to cli
 
 ## 8\. *FM! *// Vince Staples
 
-![Album artwork of 'FM!' by Vince Staples](album-artwork/fm-vince-staples.jpg "Album artwork of 'FM!' by Vince Staples")
+<img class="article-album-image" src="album-artwork/fm-vince-staples.jpg" alt="Album artwork of 'FM!' by Vince Staples">
 
 **Marcus**
 
@@ -70,7 +70,7 @@ I was dubious about the current trend in hip-hop for releasing albums around hal
 
 Arctic Monkeys are one of the few bands on earth that can release an album and expect almost everyone to have an opinion on it. *Tranquility Base* was not to everyone’s taste, but I think that reflected its ambition. It would have been much easier for Arctic Monkeys to come out with *AM2*, but instead they opted for the greasy spoken-word sophistication of *Tranquility Base*. I think it was a brave, intelligent change of tact. It’s a seedy, ruminatory album that has improved with time. When people look back on the Arctic Monkeys discography I think this will rank high. It certainly does for me.
 
-Going all in on a sonic aesthetic of smoky basement bars and one-too-many whiskeys, *Tranquility Base *puts Alex Turner’s lyricism front and centre. Tidy riffs, funky bass lines, and driving drumwork are not required. Instead the tracks are tightly wound and suavely packaged. The [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/)\-esque muscle of “Science Fiction” and “Batphone” were personal highlights, but the track list scratches a lot of different itches. It’s a limited album, but also a progressive one. *Tranquility Base *showed Arctic Monkeys are still capable of evolving. I think that’s really exciting.
+Going all in on a sonic aesthetic of smoky basement bars and one-too-many whiskeys, *Tranquility Base* puts Alex Turner’s lyricism front and centre. Tidy riffs, funky bass lines, and driving drumwork are not required. Instead the tracks are tightly wound and suavely packaged. The [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/)\-esque muscle of “Science Fiction” and “Batphone” were personal highlights, but the track list scratches a lot of different itches. It’s a limited album, but also a progressive one. *Tranquility Base* showed Arctic Monkeys are still capable of evolving. I think that’s really exciting.
 
 [**Read our full review of _Tranquility Base Hotel & Casino_**](/reviews/arctic-monkeys-tranquility-base-hotel-and-casino/) →
 
@@ -128,9 +128,9 @@ I’ve always felt somewhat of a philistine for not having any kind of inclinati
 
 **Fred**
 
-It’s been such a low-key music year that even its best pop record is slow and solemn. *Honey *was a pleasure to listen to — both on its own terms and as a window into one of pop’s true evergreen talents. Robyn has nothing left to prove, and that shows in the easiness of the record. The album is gentle, colourful, and all hers. The production is aptly honeylike, glossy and sweet and comfortable. The album feels expansive in spite of its uniform, understated sound. Rejecting the bangers of conventional pop in favour of a more inward-looking approach reaps its rewards.
+It’s been such a low-key music year that even its best pop record is slow and solemn. *Honey* was a pleasure to listen to — both on its own terms and as a window into one of pop’s true evergreen talents. Robyn has nothing left to prove, and that shows in the easiness of the record. The album is gentle, colourful, and all hers. The production is aptly honeylike, glossy and sweet and comfortable. The album feels expansive in spite of its uniform, understated sound. Rejecting the bangers of conventional pop in favour of a more inward-looking approach reaps its rewards.
 
-*Honey *has grown on me since its release, and I was a big fan to begin with. It’s the kind of record that rewards repeat listens, such is its texture and intimacy. Robyn’s openness breeds a familiarity that is likely to endure for years. I considered this a bit of a luxury item when it came out, and I stand by that, but it sure is good at it. This pop on another plane, the kind of thing everyone should listen to at least once. I worry that I undersold *Honey *in our original review, but not that much. Anyone who puts stock in the things I say is beyond help anyway.
+*Honey* has grown on me since its release, and I was a big fan to begin with. It’s the kind of record that rewards repeat listens, such is its texture and intimacy. Robyn’s openness breeds a familiarity that is likely to endure for years. I considered this a bit of a luxury item when it came out, and I stand by that, but it sure is good at it. This pop on another plane, the kind of thing everyone should listen to at least once. I worry that I undersold *Honey* in our original review, but not that much. Anyone who puts stock in the things I say is beyond help anyway.
 
 [**Read our full review of _Honey_**](/reviews/robyn-honey/) →
 
@@ -138,7 +138,7 @@ It’s been such a low-key music year that even its best pop record is slow and 
 
 ## 1\. *Joy as an Act of Resistance* // IDLES
 
-![Album artwork of 'Joy as an Act of Resistance' by Idles](album-artwork/joy-as-an-act-of-resistance-idles.jpg "Album artwork of 'Joy as an Act of Resistance' by Idles")
+<img class="article-album-image" src="album-artwork/joy-as-an-act-of-resistance-idles.jpg" alt="Album artwork of 'Joy as an Act of Resistance' by Idles">
 
 **André**
 
@@ -148,7 +148,7 @@ IDLES are the band of the moment. An antidote to Brexit; a fuck you to toxic mas
 
 Clear, articulate anger can draw blood like a knife. It can also be really funny. *Joy As an Act of Resistance* was a breath of fresh air. Straddling punk, post-punk, grunge, and a bunch of other labels that don’t quite fit, the album delights in a kind of silly, righteous fury. The instrumentals are harsh and relentless, Joe Talbot spends much more time shouting than singing, yet the results are as sharp as anything punk has produced in years. A hipster/skinhead hybrid shouldn’t be much of a surprise in 2018, but I’m delighted it sounds this good in musical form.
 
-Hearing a band run headfirst into British topics of the day — immigration, Brexit, press sensationalism, masculinity, I could go on — feels oddly quaint. Popular music is so saturated with characterless abstractions that one forgets it can attach itself to the real world. And it’s not standoffish, necessarily. Plenty won’t be pleased about what they hear (though Islam really *didn’t *eat your hamster) but the music is largely playful. It’s an album looking for laughs, not fights, and it finds plenty. *Joy as an Act of Resistance *feels like an album people will talk about years down the line. It has that weight to it. Don’t call it a comeback, but British punk is alive and well.
+Hearing a band run headfirst into British topics of the day — immigration, Brexit, press sensationalism, masculinity, I could go on — feels oddly quaint. Popular music is so saturated with characterless abstractions that one forgets it can attach itself to the real world. And it’s not standoffish, necessarily. Plenty won’t be pleased about what they hear (though Islam really *didn’t* eat your hamster) but the music is largely playful. It’s an album looking for laughs, not fights, and it finds plenty. *Joy as an Act of Resistance* feels like an album people will talk about years. It has that weight to it. Don’t call it a comeback, but British punk is alive and well.
 
 **Andrew**
 

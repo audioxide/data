@@ -27,7 +27,7 @@ blurb: What a year it's been. Hip hop kings, hip hop princes, UK rock upstarts, 
 
 ## 10\. *Peace is the Mission* // Major Lazer
 
-![Album artwork of 'Peace is the Mission' by Major Lazer](album-artwork/peace-is-the-mission-major-lazer.jpg "Album artwork of 'Peace is the Mission' by Major Lazer")
+<img class="article-album-image" src="album-artwork/peace-is-the-mission-major-lazer.jpg" alt="Album artwork of 'Peace is the Mission' by Major Lazer">
 
 **Andrew**
 
