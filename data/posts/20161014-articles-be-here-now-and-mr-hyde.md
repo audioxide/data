@@ -30,7 +30,7 @@ Oasis’s infamous 1997 mad fer it cocaine extravaganza *Be Here Now* was re-r
 To nip any inadvertent apologetics in the bud: the album isn’t very good. It’s spectacularly not very good. There are the makings of a proper rock record in there, but they’re mostly scattered in rubble. That, however, is its charm. It’s an excess ride. Riding on the crest of an unprecedented popular rise, veins caked thick with drugs, and surrounded by a writhing legion of Yes Men, Oasis produced something profoundly overblown in *Be Here Now*. The remaster of its lead single, “D’You Know What I Mean?”, sweeps some of the bombastics under the rug, but the video more than makes up for any retroactive modesty:
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/jyJU2136ym4?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    <iframe src="https://www.youtube.com/embed/jyJU2136ym4?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 Glorious, no? Icarus suddenly seems a measured and modest chap. That’s the curiousness of *Be Here Now*; it’s a Mr. Hyde album, that moment when the demons get the better of the angels and it all gets a bit weird and messy. In that light it’s actually strangely authentic, as well as a fine dirty indulgence. It’s all well and good joining The Velvet Underground in a heroin dream, or going on psychedelic marches with [Jefferson Airplane](/reviews/jefferson-airplane-surrealistic-pillow/), but what about when things go wrong? What about the monsters? *Be Here Now* is no [*Low*](/reviews/david-bowie-low/), to be sure, but it can pass as a decadent cousin. They’re two sides of the same coin.
