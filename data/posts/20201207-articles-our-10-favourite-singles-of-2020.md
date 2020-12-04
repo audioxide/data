@@ -58,7 +58,9 @@ Text
 ­
 **Marcus**
 
-Text
+It goes without saying that Mura Masa is a fantastic producer, capable of elevating the simplest hooks into naggingly moreish and complete tracks tied together by a trademark sense of serenity. He’s also got a habit of finding ideal collaborators and making the most of their abilities, and in Ellie Rowsell it’s safe to say he held true to that reputation. The cutesy, simplistic intro to “Teenage Headache Dreams” taps directly into a certain naivety that makes [Wolf Alice](reviews/wolf-alice-visions-of-a-life/) so palettable, with a funky but soft-hitting one-two stomp to the percussion and sudden injections of complexity that magnify the track’s themes. 
+
+As the bass hook kicks in—in tandem with Rowsell’s inimitable, rich, and soaring vocals—the track takes on a life of its own as an endlessly expanding and contracting soundscape that mimics the chaotic and romantic thinking patterns of a teenager. Once it gets going, its noisy, messy, frenetic, and impassioned arrangements flash by in moments of near-confusion, held together by an unerring beat and enthralling, dynamic vocals from Rowsell herself. I was hoping we’d get the third Wolf Alice album at some point this year, but in the meantime I’ll happily settle for the fine chemistry that Mura Masa’s captured with their frontwoman.
 
 -----
 
@@ -112,6 +114,8 @@ Text
 
 If ever there was a year for a song like “Mr Motivator” to burst onto the scene, it was 2020. What a horrible time it's been. The devastating ramifications of COVID have turned us into miserable bastards with a severe lack of drive and energy. Releasing this particular track during lockdown – a bad time for even the most positive-minded people - was a masterstroke from IDLES. “Mr Motivator” is as fun as it is galvanising, accompanied by a thoroughly amusing music video that features members of a wonderful online community named AF Gang. It never fails to raise a smile. Once again, Joe Talbot is on fine form, with absurd references to everyone from Connor McGregor to Delia Smith. It's thoroughly entertaining from start to finish, and incredibly addictive. I wouldn't say “Mr Motivator” is the greatest song of 2020, but it's absolutely one of my favourites. Cheers for the pick-me-up, chaps.
 
-**TBC**
+**Marcus**
 
-Text
+“Mr Motivator” dropped at a pretty essential moment in my lockdown experience — around the time I was beyond the novelty, tired of *Animal Crossing*, and falling into anxious misery. If anything could represent everything I was sick of, it was the endless string of corporate TV ads reminding us, via the medium of low-res home video clips of people grinning and bearing it, that times were weird but we were all in it together. Oh, and we should buy more of their shit. I wasn’t grinning and bearing it by that point, and no amount of racket being made for key workers on a Thursday night was going to alter that, but “Mr Motivator” came along and breathed a bit of life back into me. 
+
+The music video, a facsimile of the inane ads I’ve already moaned about, struck on a legitimacy and sense of togetherness that I hadn’t realised I was missing so badly, and the typically barnstorming, sharp-edged, and driving instrumentation and lyricism of a top IDLES track sealed the deal. I don’t want to suggest that “Mr Motivator” set me on a course of recovery from — or acceptance of — the endless bullshit of 2020, but it didn’t half kick me out of the stupor it had put me in.
