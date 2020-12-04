@@ -50,7 +50,9 @@ Text
 ­
 **Fred**
 
-Text
+“Melt!” to my mind represents Kelly Lee Owen’s [*Inner Song*](reviews/kelly-lee-owens-inner-song/) at its best. It’s powerful, elegant, ice cool, expertly mixed, and super, super catchy. It’s a beautiful piece of music, shivering along the electronic sweet spot between hypnotic trance and delirious danceability. All that’s missing is Owen’s soaring vocals. Luckily, they’re well represented elsewhere on the record.
+
+In a way the instrumental focus on “Melt!” is why it’s just the one to highlight from the album. Owen’s performance is stunning, yes, but so too is its production and composition. “Melt!” is a three and a half minute masterclass in why that’s where the magic really starts. I have well documented reservations about IDM but Kelly Lee Owens put in all the stops needed on “Melt!” for me to shut up, listen, and enjoy.
 
 -----
 
@@ -104,7 +106,9 @@ Text
 ­
 **Fred**
 
-Text
+We’ve done our fair share of gushing about Laura Marling over the years and the very tender, very warm, very resolute [*Song for Our Daughter*](reviews/laura-marling-song-for-our-daughter/) was no exception. “Held Down” embodies much of what makes the album so affecting, and so unlike anything that had come before. It’s Marling’s signature sound ramped up a notch, going harder and spreading further, with a pop-like ear for melodies to boot. It’s an easy, easing listen. 
+
+The harmonies find strength in simplicity and the band sways beautifully as it drives forward, bleeding from acoustic into electric as the song reaches its climax. Marling’s lyrics and vocals are wonderful, as ever. Hearing her dabble in more expansive songs was such a treat, and just what a lot of people needed this year. She said that she [‘indulged in lushness a bit more than I had done previously.’](https://www.nme.com/big-reads/laura-marling-cover-interview-2020-america-has-become-a-bit-more-sinister-now-that-its-trump-addled-2648468) I hope the indulgences keep on coming.
 
 -----
 
