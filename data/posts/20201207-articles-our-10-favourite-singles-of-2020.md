@@ -34,7 +34,11 @@ blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the
 ­
 **Rachael**
 
-Text
+Although *Kiwanuka* was released at the end of 2019, I’ve had it on repeat like a comfort blanket all year. Out in spring this year, “Rolling” was the one of the last singles to be released from the LP, and considering how much I’ve listened to the Mercury Prize-winning album it’d be a crime not to include it on my year-end list.
+
+The jazzy percussion, bluesy guitars and funky bassline come together with Kiwanuka’s soulful vocals to form a track that’s like honey in your ears. Lyrically it’s simple but uplifting — ‘rolling with the times, don’t be late’ — a refrain that builds to a crescendo with flanged guitar and gospel-choir backing vocals at the end of the track.
+
+The influence of producer Danger Mouse (of Gnarls Barkley) comes through in the smooth, crooning vocals, vintage instrumentation and psychedelic-soul direction of the track, which combines with Kiwanuka’s laid-back, sanguine tone to form a single that’s warming, lavish and a delight to listen to. It’s a dreamy, silky smooth yet energising single; it feels like stepping into a hot bath on a cold day, or getting a pat on the shoulder that says everything’s going to be okay — which I, for one, certainly needed this year.
 
 -----
 
@@ -98,7 +102,11 @@ Text
 ­
 **Rachael**
 
-Text
+Is anyone really free when we’re controlled by money, capitalism and a corrupt government? A big question, but one Run The Jewels tackle deftly in the punchy, frank “JU$T”. There aren’t any bells and whistles on this track, but it doesn’t need them: it’s a protest anthem dominated by a harsh bassline and biting flows.
+
+The chorus of ‘Look at all these slave masters posin’ on yo’ dollar’ is the filling in the sandwich of harsh realities, personal observations, and (of course) witty lyricism delivered by Killer Mike and El-P. Zack de la Rocha’s feature ramps up the punk defiance while Pharrell Williams adds a melodic touch to the no-frills, bass-driven production. It’s darkly comic, ragging on the hypocrisy of systemic racism in the modern world (‘Master of these politics, you swear that you got options (slave) / Master of opinion ’cause you vote with the white collar (slave)’) and delivers a string of home-truths and nimble analyses of how modern society works.
+
+“JU$T” brings a new flavour of protest song, with punchy bass that echoes the bullets fired at innocent Black Americans, a marching beat reminiscent of the global BLM demos, and a wake-up call to Western society. On top of that, it’s an insanely fun track to listen to, and it’ll sound fantastic when we finally get to hear it live. It’s pertinent, a distinctly-2020 single, and one I couldn’t have done without.
 
 -----
 
