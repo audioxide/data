@@ -31,6 +31,8 @@ blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the
 ------
 
 ## 10\. “Rolling” // Michael Kiwanuka
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/WeRQ_Essido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **Rachael**
 
@@ -43,6 +45,8 @@ The influence of producer Danger Mouse (of Gnarls Barkley) comes through in the 
 -----
 
 ## 9\. “Saturnine and Iron Jaw” // All Them Witches
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/I9jcStLbYjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **Gabriel**
 
@@ -54,6 +58,8 @@ It is 2 minutes in before we hear a discernible melody. But when it comes, it do
 
 ## 8\. “Melt!” // Kelly Lee Owens
 ­
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/4kW0vbVEIXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Fred**
 
 “Melt!” to my mind represents Kelly Lee Owen’s [*Inner Song*](reviews/kelly-lee-owens-inner-song/) at its best. It’s powerful, elegant, ice cool, expertly mixed, and super, super catchy. It’s a beautiful piece of music, shivering along the electronic sweet spot between hypnotic trance and delirious danceability. All that’s missing is Owen’s soaring vocals. Luckily, they’re well represented elsewhere on the record.
@@ -63,6 +69,8 @@ In a way the instrumental focus on “Melt!” is why it’s just the one to hig
 -----
 
 ## 7\. “Teenage Headache Dreams” // Mura Masa
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/CbcUXLr4k9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **Marcus**
 
@@ -73,6 +81,8 @@ As the bass hook kicks in—in tandem with Rowsell’s inimitable, rich, and soa
 -----
 
 ## 6\. “Pain Everyday” // clipping.
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/c0RYIIzsvFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **André**
 
@@ -83,6 +93,8 @@ Although the similarities between *Visions* and its predecessor remains a common
 -----
 
 ## 5\. “Me in 20 Years” // Moses Sumney
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/6VFoh5AbpBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **André**
 
@@ -93,7 +105,9 @@ Sumney's lyrics are touching, and occasionally haunting. The second verse in par
 -----
 
 ## 4\. “Ooh La La” // Run the Jewels
-­
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/1C4zAbTA-QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>­
+
 **Andrew**
 
 It feels an age ago that Run The Jewels were releasing teaser singles for their 2020 release. Harking back to the ’90s ‘golden era’, with a Gang Starr sample and a credit for DJ Premier, “ooh la la” was a fresh sound from RTJ, making a statement of intent for the upcoming album ([which didn’t disappoint either](reviews/run-the-jewels-rtj4/)).
@@ -105,7 +119,9 @@ Lumbering in with its off-kilter piano sample and subby bombast, it’s sure to 
 -----
 
 ## 3\. “JU$T” // Run the Jewels
-­
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/32hUIGnMpOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>­
+
 **Rachael**
 
 Is anyone really free when we’re controlled by money, capitalism and a corrupt government? A big question, but one Run The Jewels tackle deftly in the punchy, frank “JU$T”. There aren’t any bells and whistles on this track, but it doesn’t need them: it’s a protest anthem dominated by a harsh bassline and biting flows.
@@ -117,6 +133,8 @@ The chorus of ‘Look at all these slave masters posin’ on yo’ dollar’ is 
 -----
 
 ## 2\. “Held Down” // Laura Marling
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/dLL1KAc18hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **Fred**
 
@@ -126,14 +144,16 @@ The harmonies find strength in simplicity and the band sways beautifully as it d
 
 -----
 
-## 1\. “Mr Motivator” // IDLES
+## 1\. “Mr. Motivator” // IDLES
+
+<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/YNCopmqsw1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **André**
 
-If ever there was a year for a song like “Mr Motivator” to burst onto the scene, it was 2020. What a horrible time it's been. The devastating ramifications of COVID have turned us into miserable bastards with a severe lack of drive and energy. Releasing this particular track during lockdown – a bad time for even the most positive-minded people - was a masterstroke from IDLES. “Mr Motivator” is as fun as it is galvanising, accompanied by a thoroughly amusing music video that features members of a wonderful online community named AF Gang. It never fails to raise a smile. Once again, Joe Talbot is on fine form, with absurd references to everyone from Connor McGregor to Delia Smith. It's thoroughly entertaining from start to finish, and incredibly addictive. I wouldn't say “Mr Motivator” is the greatest song of 2020, but it's absolutely one of my favourites. Cheers for the pick-me-up, chaps.
+If ever there was a year for a song like “Mr. Motivator” to burst onto the scene, it was 2020. What a horrible time it's been. The devastating ramifications of COVID have turned us into miserable bastards with a severe lack of drive and energy. Releasing this particular track during lockdown – a bad time for even the most positive-minded people - was a masterstroke from IDLES. “Mr. Motivator” is as fun as it is galvanising, accompanied by a thoroughly amusing music video that features members of a wonderful online community named AF Gang. It never fails to raise a smile. Once again, Joe Talbot is on fine form, with absurd references to everyone from Connor McGregor to Delia Smith. It's thoroughly entertaining from start to finish, and incredibly addictive. I wouldn't say “Mr. Motivator” is the greatest song of 2020, but it's absolutely one of my favourites. Cheers for the pick-me-up, chaps.
 
 **Marcus**
 
-“Mr Motivator” dropped at a pretty essential moment in my lockdown experience — around the time I was beyond the novelty, tired of *Animal Crossing*, and falling into anxious misery. If anything could represent everything I was sick of, it was the endless string of corporate TV ads reminding us, via the medium of low-res home video clips of people grinning and bearing it, that times were weird but we were all in it together. Oh, and we should buy more of their shit. I wasn’t grinning and bearing it by that point, and no amount of racket being made for key workers on a Thursday night was going to alter that, but “Mr Motivator” came along and breathed a bit of life back into me. 
+“Mr. Motivator” dropped at a pretty essential moment in my lockdown experience — around the time I was beyond the novelty, tired of *Animal Crossing*, and falling into anxious misery. If anything could represent everything I was sick of, it was the endless string of corporate TV ads reminding us, via the medium of low-res home video clips of people grinning and bearing it, that times were weird but we were all in it together. Oh, and we should buy more of their shit. I wasn’t grinning and bearing it by that point, and no amount of racket being made for key workers on a Thursday night was going to alter that, but “Mr. Motivator” came along and breathed a bit of life back into me. 
 
-The music video, a facsimile of the inane ads I’ve already moaned about, struck on a legitimacy and sense of togetherness that I hadn’t realised I was missing so badly, and the typically barnstorming, sharp-edged, and driving instrumentation and lyricism of a top IDLES track sealed the deal. I don’t want to suggest that “Mr Motivator” set me on a course of recovery from — or acceptance of — the endless bullshit of 2020, but it didn’t half kick me out of the stupor it had put me in.
+The music video, a facsimile of the inane ads I’ve already moaned about, struck on a legitimacy and sense of togetherness that I hadn’t realised I was missing so badly, and the typically barnstorming, sharp-edged, and driving instrumentation and lyricism of a top IDLES track sealed the deal. I don’t want to suggest that “Mr. Motivator” set me on a course of recovery from — or acceptance of — the endless bullshit of 2020, but it didn’t half kick me out of the stupor it had put me in.
