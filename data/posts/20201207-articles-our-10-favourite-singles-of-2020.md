@@ -46,7 +46,9 @@ The influence of producer Danger Mouse (of Gnarls Barkley) comes through in the 
 ­
 **Gabriel**
 
-Text
+All Them Witches are a band of many talents. Whilst their discography can vary in style, song writing, and overall ‘feel’, the most recent edition, [*Nothing as the Ideal*](reviews/all-them-witches-nothing-as-the-ideal/) does what they always do so well: create a tangible, real sense of atmosphere. The first single from *Nothing as the Ideal*, “Saturnine & Iron Jaw” does this extremely well. The near 1.5-minute intro (consisting mainly of ambient sounds and distorted cracked vocals) would not be out of place in a horror film. However, it acts to build the anticipation of the listener to near itching levels.
+
+It is 2 minutes in before we hear a discernible melody. But when it comes, it does not disappoint. This track walks the line between ethereal reverbed vocals in the (loose) chorus and the punch and staccato guitar riff in the verse. Layer on top viscerally visual lyrics and you have all the makings of a great blues rock single, albeit a very *All Them Witches* blues rock. For any new listeners, “Saturnine & Iron Jaw” makes a great entry into the band’s sound. It perfectly exemplifies their ability to mix and marry countless influences into a single track. As these lists hopefully show, some good things came out of 2020, and this single is without a doubt one of them.
 
 -----
 
@@ -94,7 +96,11 @@ Sumney's lyrics are touching, and occasionally haunting. The second verse in par
 ­
 **Andrew**
 
-Text
+It feels an age ago that Run The Jewels were releasing teaser singles for their 2020 release. Harking back to the ’90s ‘golden era’, with a Gang Starr sample and a credit for DJ Premier, “ooh la la” was a fresh sound from RTJ, making a statement of intent for the upcoming album ([which didn’t disappoint either](reviews/run-the-jewels-rtj4/)).
+
+Lumbering in with its off-kilter piano sample and subby bombast, it’s sure to illicit a nod and a smirk. A simple but strong beat underlines the whole affair with an airhorn or two thrown in for good measure. Killer Mike and El-P have some killer lines here, managing to call out an age of disinformation and corruption while referencing El-P’s hatred of eggs all at once.
+
+“ooh la la” was a regular in my summer soundtrack and it has remained an earworm ever since. It’s well deserving of its position up here in our top 10, and I doubt it’ll be the last time we see RTJ here either.
 
 -----
 
