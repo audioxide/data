@@ -40,17 +40,23 @@ The BioSchock soundtrack has two key strains that reflect its crumbling world. T
 
 Schyman’s early sources of inspiration lived against similar backdrops of malformed ideals. Of the early 20th century composers he mentions when we speak — Dmitri Shostakovich, Sergei Prokofiev, and Béla Bartók — two were Russian Soviets while the third lived through the collapse of the Austrian-Hungarian Empire. They were no strangers to utopian promises giving way to the same old human mess.
 
-<center><iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/7UIHl0oJEpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7UIHl0oJEpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The other main strain of composition that informed Schyman’s early experiments was more unconventional. He incorporated aleatoric music — in which arrangements are partially left to chance. It is a breakdown of order. Dissonant clusters appear like sonic fault lines in the music.
 
 With some composers these fault lines become fissures. While much aleatoric music comes across as fairly benign (think John Cage’s “Music of Changes”), Schyman cites the not so benign György Sándor Ligeti and Krzysztof Penderecki.
 
-<center><iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/bnZqZmcyvvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bnZqZmcyvvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Music of this style can be like an ice pick to the frontal lobe — in a good way. Pendericki wrote “Threnody to the Victims of Hiroshima”, a piece of music that makes the violins in *Psycho* sound like a lullaby by comparison. It won the Tribune Internationale des Compositeurs UNESCO prize in 1961.
 
-<center><iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/Dp3BlFZWJNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Dp3BlFZWJNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Sprinkled on top of these two schools was a healthy dose of musique concrète — the incorporation of raw recorded sounds into composition. (Think the clocks in [*The Dark Side of the Moon*](/reviews/pink-floyd-the-dark-side-of-the-moon/).) Non-musical sounds burst the bubble when needed, keeping the illusion at bay.
 
@@ -70,11 +76,15 @@ Anyone who has played *BioShock* is likely familiar with that sound. The soundtr
 
 No composition better shows the soundtrack taking on a life of its own than “Dr. Steinman”. Although the track’s Jaws-meets-Hiroshima Threnody vibe feels custom made for Rapture’s exceptionally gruesome cosmetic surgeon, Schyman was never even asked to write a track for him. It emerged from Schyman’s overflow of writing. “Serendipity, as they say. I was inspired by the world.” When Ridgeway heard the arrangement she knew exactly where to put it.
 
-<center><iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/8-GzXp-Fzv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-GzXp-Fzv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Fan favourite “Cohen’s Masterpiece” evolved in a slightly different way. The deranged key-pounding of Rapture’s superstar musician was supposed to be limited to his finale, but it became a motif for that section of the game. They liked it so much that they used it throughout the level, overflowing from the soundtrack into the game. 
 
-<center><iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/2IpmezdSifw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2IpmezdSifw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 As ever the caveat is needed that video game soundtracks are not the main attraction, and shouldn’t be. As Schyman says himself: “In a way if you’re not hearing the music that’s a good sign, because you're really just drawn deeply in to the whole experience. That’s what scoring is supposed to do. It’s not supposed to be in your face saying listen to me listen to me, forget the game.”
 
