@@ -38,7 +38,9 @@ blurb: 2020 has been... testing, to put it mildly. The magic of music has been a
 
 ## 10\. “Rolling” // Michael Kiwanuka
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WeRQ_Essido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WeRQ_Essido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **Rachael**
 
