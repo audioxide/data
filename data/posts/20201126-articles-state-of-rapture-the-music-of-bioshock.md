@@ -36,7 +36,7 @@ Although concept art and story details gave Schyman an insight into the world ea
 
 It called for something less colourful than traditional video game soundtracks, and Schyman had a willing partner in Ridgeway. “Sometimes you get into the right mindset,” Schyman says. “That was certainly one. I had a really good partner in Emily. She was open and experimental. Some people might have heard of the stuff I did and went, “That’s really too different for a game score.” She was the opposite. She loved it. It was the right people doing the right game.’
 
-The BioSchock soundtrack has two key strains that reflect its crumbling world. The first: grand classical arrangements. The second: dissonant avant-garde experimentation from the mid 20th century. 
+The *BioShock* soundtrack has two key strains that reflect its crumbling world. The first: grand classical arrangements. The second: dissonant avant-garde experimentation from the mid 20th century. 
 
 Schyman’s early sources of inspiration lived against similar backdrops of malformed ideals. Of the early 20th century composers he mentions when we speak — Dmitri Shostakovich, Sergei Prokofiev, and Béla Bartók — two were Russian Soviets while the third lived through the collapse of the Austrian-Hungarian Empire. They were no strangers to utopian promises giving way to the same old human mess.
 
