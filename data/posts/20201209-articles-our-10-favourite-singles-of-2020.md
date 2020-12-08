@@ -1,6 +1,6 @@
 ---
-created: 2020-12-07T12:47:53.000Z
-modified: 2020-12-07T21:20:59.000Z
+created: 2020-12-09T12:47:53.000Z
+modified: 2020-12-09T21:20:59.000Z
 slug: our-10-favourite-singles-of-2020
 type: articles
 tags:
@@ -22,17 +22,21 @@ author:
   - fred
   - andrew
   - andre
-blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do.
+blurb: 2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat this year.
   
 ---
 
-*The role of singles has changed massively in recent years, but they still tend to lead the charge during an album’s full release. In 2019 we got some pretty unconventional warfare. From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do, but it’s been that kind of year, and if the music’s good it can sound however it damn well pleases.*
+*Music is powerful. One minute it's an adrenaline rush, the next it's a comfort blanket. Films, books, and video games entertain and captivate us, but there's nothing quite like a song that leaves you inspired. You know the feeling. It can galvanise you for days.*
+
+*2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. I dread to think how we would have coped without the fabulous new music released over the course of the year. Ranking our 10 favourites was perhaps even more of a challenge than usual. Maybe we just have more time to contemplate such things.*
+
+*So here are the songs that kept us in check this year. We just live in hope that, soon enough, we will be able to experience some of these tracks performed live: shoulder to shoulder, beer in hand, with sweat dripping off the ceiling. Or, you know, just sitting down with a pair of binoculars at the O2 Arena.*
 
 ------
 
 ## 10\. “Rolling” // Michael Kiwanuka
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/WeRQ_Essido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WeRQ_Essido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ­
 **Rachael**
 
@@ -46,7 +50,9 @@ The influence of producer Danger Mouse (of Gnarls Barkley) comes through in the 
 
 ## 9\. “Saturnine and Iron Jaw” // All Them Witches
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/I9jcStLbYjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I9jcStLbYjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **Gabriel**
 
@@ -58,7 +64,9 @@ It is 2 minutes in before we hear a discernible melody. But when it comes, it do
 
 ## 8\. “Melt!” // Kelly Lee Owens
 ­
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/4kW0vbVEIXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4kW0vbVEIXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Fred**
 
@@ -70,7 +78,9 @@ In a way the instrumental focus on “Melt!” is why it’s just the one to hig
 
 ## 7\. “Teenage Headache Dreams” // Mura Masa
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/CbcUXLr4k9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CbcUXLr4k9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **Marcus**
 
@@ -82,7 +92,9 @@ As the bass hook kicks in—in tandem with Rowsell’s inimitable, rich, and soa
 
 ## 6\. “Pain Everyday” // clipping.
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/c0RYIIzsvFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c0RYIIzsvFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **André**
 
@@ -94,7 +106,9 @@ Although the similarities between *Visions* and its predecessor remains a common
 
 ## 5\. “Me in 20 Years” // Moses Sumney
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/6VFoh5AbpBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6VFoh5AbpBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **André**
 
@@ -106,7 +120,9 @@ Sumney's lyrics are touching, and occasionally haunting. The second verse in par
 
 ## 4\. “Ooh La La” // Run the Jewels
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/1C4zAbTA-QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>­
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1C4zAbTA-QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>­
 
 **Andrew**
 
@@ -120,7 +136,9 @@ Lumbering in with its off-kilter piano sample and subby bombast, it’s sure to 
 
 ## 3\. “JU$T” // Run the Jewels
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/32hUIGnMpOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>­
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/32hUIGnMpOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>­
 
 **Rachael**
 
@@ -134,7 +152,9 @@ The chorus of ‘Look at all these slave masters posin’ on yo’ dollar’ is 
 
 ## 2\. “Held Down” // Laura Marling
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/dLL1KAc18hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dLL1KAc18hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **Fred**
 
@@ -146,7 +166,9 @@ The harmonies find strength in simplicity and the band sways beautifully as it d
 
 ## 1\. “Mr. Motivator” // IDLES
 
-<iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/YNCopmqsw1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YNCopmqsw1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ­
 **André**
 
