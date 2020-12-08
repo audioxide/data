@@ -24,8 +24,8 @@ author:
   - fred
   - andrew
   - andre
-summary: 2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat
-blurb: 2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat this year.
+summary: This year has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat
+blurb: This year has been... testing, to put it mildly. Music's magic has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat.
   
 ---
 
