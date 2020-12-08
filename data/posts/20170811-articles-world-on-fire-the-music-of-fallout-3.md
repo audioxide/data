@@ -26,8 +26,7 @@ blurb: From Galaxy News Radio to the old-school homages of Inon Zur's ambient so
 
 To fully understand the game’s soundtrack, you need to look where it came from. *Fallout 3*, obviously, exists in the context of the *Fallout* franchise. Not everyone likes where it wandered after its acquisition by Bethesda, but the continuity in soundtracks between *2* and *3* is unmistakable. Mark Morgan, who composed for *Fallout* and *Fallout 2*, said that, [‘The challenge to me was to blend a kind of odd ethnic and industrial sound design into something not only musical, but emotional.’](http://www.game-ost.com/articles.php?id=24&action=view) This is clear to hear if you listen through [his two soundtracks](https://www.youtube.com/watch?v=vGyB093QOIo). There is something mystical about them, suggestive of a newly discovered planet — vast, hostile, untameable. Morgan’s music feels like an ode to the Wasteland itself; in *Fallout 3,* Zur uses those ethnic/industrial components to explore the player’s place in it.
 
-![Fallout 3 concept art](article-images/music-of-fallout-3-concept-art-2.jpg)
-Beneath the rubble, the game hints at a clean slate
+![Fallout 3 concept art](article-images/music-of-fallout-3-concept-art-2.jpg "Beneath the rubble, Fallout 3 hints at a clean slate")
 
 The ‘feel’ of *Fallout 3 *is a commonly cited appeal. A major strength of the game is that it crafts a kind of psychological ambience around its players. The soundtrack explores the human potential of the Capital Wasteland: the likely thoughts, fears, and responses of the player. Talking to IGN in 2008, Zur said he was [‘going for more of the psychological effects rather than describing what’s going on on the screen.’](http://uk.ign.com/articles/2008/11/03/inon-zur-talks-fallout-3) The soundtrack is generally ambient in nature, but it has an edge that colours the in-game experience. Whereas the nature of Morgan’s music seems synonymous with that of the Wasteland, Zur’s work explores humanity’s place within it. The coarsely mystic undertones remain, but they are overlaid with thematic motifs consistent with the game’s story.
 
@@ -43,8 +42,7 @@ In contrast, tracks like [“Fortress”](https://www.youtube.com/watch?v=8mk43b
 
 These kinds of juxtapositions are threaded throughout the game’s soundtrack, though they’re seldom in your face. Zur’s work is, ultimately, ambient. It isn’t strictly meant to be noticed. As he recently put it in an interview with GamesIndustry.biz last May, [‘In video games, you don’t need to hear the music – you need to feel it … you don’t need to notice the music but it needs to be part of the whole experience on an emotional level.’](http://www.gamesindustry.biz/articles/2017-05-18-inon-zur-in-video-games-you-dont-need-to-hear-the-music-you-need-to-feel-it) Agree or not, it’s safe to say Zur’s soundtrack is the furthest thing from intrusive. Instead it drifts, lapping at the listener’s mind just enough to tint his or her experience. For the game’s more overt sounds, the player needs to turn to the wireless.
 
-![Fallout 3 concept art](article-images/music-of-fallout-3-concept-art-1.jpg)
-What’s a post-apocalyptic world without people to ruin it all over again?
+![Fallout 3 concept art](article-images/music-of-fallout-3-concept-art-1.jpg "What’s a post-apocalyptic world without people to ruin it all over again?")
 
 It’s impossible to talk about *Fallout 3*’s soundtrack without mentioning Galaxy News Radio. Its cheerful, crackling tunes are a haven for players — tellingly, [the GNR Soundtrack](https://www.youtube.com/watch?v=WGmHaMRAXuI) has enjoyed much more playtime on YouTube than the OST has — but they also reinforce the same themes explored by Morgan and Zur. The Capital Wasteland is a product of the same world that produced the Ink Spots and Billie Holiday. The songs Three Dog plays are remnants of the same past, one the players themselves share given that the songs are ‘real’. Billie Holiday and Co. didn’t cause the war, obviously (that particular DLC was shelved), but their prevalence creates clear parallels with the ambient soundtrack’s tone. The weapons of *Fallout 3*’s past salt the earth; its melodies hold up the sky.
 
@@ -52,7 +50,9 @@ The interplay is subtle, but undeniable. It is crucial to *Fallout 3*’s atmosp
 
 The soundtrack guides moments like that more than is immediately apparent. It’s all about implementation, and for sheer punch this moment unquestionably belongs to Inon Zur:
 
-<center><iframe src="https://www.youtube.com/embed/5L4HTUS1RYE?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/5L4HTUS1RYE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 Both the OST and GNR bolster the theme of humanity’s place in post-war ruin. More of the same? Rebirth? Let’s see. Indeed, the OST track listing almost feels like a spectrum. The further along it gets, the more technology falls away in favour of a smoother, purer sound. And as post-war society develops, further motifs grow out of that. There are elements of blues and folk in [“Megaton”](https://www.youtube.com/watch?v=ghSqiSqVF38). The same is true of the town’s ambient tracks. Zur nods to this, saying that the people of Megaton “are kind of creating a new, wild west world,” planting their flag in a new frontier.
 
