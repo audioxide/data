@@ -4,8 +4,10 @@ modified: 2020-12-09T21:20:59.000Z
 slug: our-10-favourite-singles-of-2020
 type: articles
 tags:
+  - michael kiwanuka
   - all them witches
   - kelly lee owens
+  - mura masa
   - clipping
   - moses sumney
   - run the jewels
