@@ -24,15 +24,14 @@ author:
   - fred
   - andrew
   - andre
+summary: 2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat
 blurb: 2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat this year.
   
 ---
 
-*Music is powerful. One minute it's an adrenaline rush, the next it's a comfort blanket. Films, books, and video games entertain and captivate us, but there's nothing quite like a song that leaves you inspired. You know the feeling. It can galvanise you for days.*
+*Music is powerful. One minute it's an adrenaline rush, the next it's a comfort blanket. Films, books, and video games entertain and captivate us, but there's nothing quite like a song that leaves you inspired. You know the feeling. It can galvanise you for days. We dread to think how we would have coped without the fabulous new music released over the course of the 2020.*
 
-*2020 has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. I dread to think how we would have coped without the fabulous new music released over the course of the year. Ranking our 10 favourites was perhaps even more of a challenge than usual. Maybe we just have more time to contemplate such things.*
-
-*So here are the songs that kept us in check this year. We just live in hope that, soon enough, we will be able to experience some of these tracks performed live: shoulder to shoulder, beer in hand, with sweat dripping off the ceiling. Or, you know, just sitting down with a pair of binoculars at the O2 Arena.*
+*Ranking our 10 favourites was perhaps even more of a challenge than usual. Maybe we just have more time to contemplate such things. In any case, here are the songs that kept us in check this year. We just live in hope that, soon enough, we will be able to experience some of these tracks performed live: shoulder to shoulder, beer in hand, with sweat dripping off the ceiling. Or, you know, just sitting down with a pair of binoculars at the O2 Arena.*
 
 ------
 
@@ -102,7 +101,7 @@ As the bass hook kicks in—in tandem with Rowsell’s inimitable, rich, and soa
 ­
 **André**
 
-Clipping treated us to another horror-inspired rap album this year with *Visions of Bodies Being Burned*, and whilst its release didn't quite leave the same mark on me as 2019's excellent *There Addicted an Addiction to Blood* it does contain some stunning highlights. Most notable of all is “Pain Everyday”, a striking 7/4 breakcore piece that rises to the most incredible climax, with beautiful strings caught in a frenzied storm of percussion. 
+Clipping treated us to another horror-inspired rap album this year with *Visions of Bodies Being Burned*, and whilst its release didn't quite leave the same mark on me as 2019's excellent *There Existed an Addiction to Blood* it does contain some stunning highlights. Most notable of all is “Pain Everyday”, a striking 7/4 breakcore piece that rises to the most incredible climax, with beautiful strings caught in a frenzied storm of percussion. 
 
 Although the similarities between *Visions* and its predecessor remains a common criticism, “Pain Everyday” is an obvious exception. If it wasn't for Daveed Diggs and his irresistible flow (the man is finally getting the recognition he deserves) you'd be forgiven for thinking you were listening to [Squarepusher](reviews/squarepusher-be-up-a-hello/), or even Venetian Snares. It's a powerful piece that is perfectly placed on the record. “Pain Everyday” is one of the most exquisite tracks I've listened to this year. I only wish it were longer, as I can't quite get enough of it.
 
