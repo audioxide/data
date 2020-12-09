@@ -29,9 +29,9 @@ blurb: This year has been... testing, to put it mildly. Music's magic has been a
   
 ---
 
-*Music is powerful. One minute it's an adrenaline rush, the next it's a comfort blanket. Films, books, and video games entertain and captivate us, but there's nothing quite like a song that leaves you inspired. You know the feeling. It can galvanise you for days. We dread to think how we would have coped without the fabulous new music released over the course of the 2020.*
+*Music is powerful. One minute it's an adrenaline rush, the next it's a comfort blanket. Films, books, and video games entertain and captivate us, but there's nothing quite like a song that leaves you inspired. You know the feeling. It can galvanise you for days. We dread to think how we would have coped without the fabulous new music released over the course of 2020.*
 
-*Ranking our 10 favourites was perhaps even more of a challenge than usual. Maybe we just have more time to contemplate such things. In any case, here are the songs that kept us in check this year. We just live in hope that, soon enough, we will be able to experience some of these tracks performed live: shoulder to shoulder, beer in hand, with sweat dripping off the ceiling. Or, you know, just sitting down with a pair of binoculars at the O2 Arena.*
+*Ranking our 10 favourites was perhaps even more of a challenge than usual. Maybe we just had more time to contemplate such things. In any case, here are the songs that kept us in check this year. We just live in hope that, soon enough, we will be able to experience some of these tracks performed live, shoulder to shoulder, beer in hand, with sweat dripping off the ceiling. Or, you know, just sitting down with a pair of binoculars at the O2 Arena.*
 
 ------
 
