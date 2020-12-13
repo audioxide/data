@@ -79,7 +79,11 @@ Indie rock often feels stagnant and non-descript, trapped in a cycle of post-00s
 
 **Fred**
 
-Text
+Something I’ve learned about myself while doing Audioxide is that I love me some slow, heavy, brooding post rock. Just love it. Nothing as the Ideal isn’t quite that, but it was the closest I got to my annual fix. I was plenty content with it. 
+
+All Them Witches carry themselves with a marvellous southern twang — a little eccentric, a little downtrodden, a little swampy, and hard as nails. « See You Next Fall » has been on constant rotation this year and will probably remain so until next fall, while I’d trust « Saturnine & Iron Jaw » to stand toe to toe with the dustiest, most sunburnt Queens of the Stone Age tracks going. 
+
+The formula is not to everyone’s taste (even I’m worn down by the end) but Nothing as the Ideal delivered a foggy rock concoction quite unlike anything else in 2020. Not so much desert rock as it is voodoo swamp rock, the album is a mighty fine time.
 
 [**Read our full review of _Nothing as the Ideal_**](/reviews/all-them-witches-nothing-as-the-ideal/) →
 
@@ -145,7 +149,11 @@ Few projects are as inventive, bold, and focused as clipping.’s *Visions of Bo
 
 **Fred**
 
-Text
+Thank god for Laura Marling. With the world unravelling she glided in with Song for Our Daughter to cradle us in her cardiganed arms. I wouldn’t say I’ve grown to love the album, but boy am I grateful for it. 
+
+Marling’s eloquence and intricacy is well represented, as you’d expect, but there is also a softness to the music that doesn’t necessarily come through on previous records like Semper Femina. The songs have the gentle drift and unshakeable moral core of bedtime stories, with the titular track probably showing that best of all. 
+
+I can’t think of a better singer/songwriter around right now than Laura Marling. Having only just turned 30 she already carries herself like a sage. Song for Our Daughter is possibly her best album yet. That in itself takes some doing.
 
 [**Read our full review of _Song for Our Daughter_**](/reviews/laura-marling-song-for-our-daughter/) →
 
