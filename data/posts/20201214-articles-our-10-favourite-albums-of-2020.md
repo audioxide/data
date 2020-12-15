@@ -190,14 +190,11 @@ Run the Jewels have always operated on the miraculous alchemy of Killer Mike and
 
 On “pulling the pin”, Mavis Staples’ haunting vocals are married impeccably to the trademark spookiness of [Josh Homme](reviews/queens-of-the-stone-age-queens-of-the-stone-age/)’s instrumentation, such that I’m staggered the idea hasn’t been broached before. In these fraught times, this coming together of opposing sonic forces — going above and beyond the well-established synchronicity of Render and Meline — is as powerful as the predictably brilliant writing, not only in how great it all sounds but in its projection of RTJ’s overarching focus on solidarity against oppression.
 
-<span class="block-gap">
-**Fred**
+<p class="block-gap">**Fred**</p>
 
 I'm glad this got top spot. *RTJ4* was an album that connected with all of us. It had something to say and belted it out with the bombastic swagger typical of Killer Mike and El-P. The album may not have had the best hooks or choruses or ear worms of the year, but it had an unstoppable sense of purpose, of getting some hard truths off of its chest. There is a restless, righteous anger throughout *RTJ4* that I expect will resonate for years to come. I found it bizarre to hear the press crediting Bob Dylan’s dirges about the 1960s as capturing the current zeitgeist when Run the Jewels were standing up to be counted in the here and now. (No shade at Dylan, I like his dirges.)
-</span>
 
-<span class="block-gap">
-**André**
+<p class="block-gap">**André**</p>
 
 *RTJ4* is not just a great rap album, but a vital protest record. Much of the best music released is as culturally critical as it is satisfying. Listening to *RTJ4* makes me angry. It causes me to look deeper and start asking questions of myself. It inspires me to make personal changes, however small, to help improve the wider picture. I'm certainly not alone in this. I'll say with some confidence that, throughout the entirety of 2020, Run the Jewels have helped galvanised the younger generation more than most politicians. This is highly significant when you look back upon the year: severe racial conflict, incompetent management of a pandemic, and Trump (eventually) being booted out of office. Protest music makes a difference.
 
@@ -206,10 +203,8 @@ El-P and Killer Mike are a singular voice. Their chemistry has excelled anything
 I don't think *RTJ4* is perfect. I'm not sure it's even the best RTJ album. However, you can forgive flaws when the rage feels so sincere and heartfelt. Emotion can overwhelm anything and everything else. Closing track “a few words for the firing squad (radiation)” finds the duo reflecting upon their privileged positions. Of course, money and fame do not eradicate pain and suffering. More importantly, stardom should never eliminate compassion. Mike and El-P strive for equality, at a time where so many are eager to dismiss others based on race or gender.
 
 *RTJ4* is protest without the preachiness. It feels like a triumphant pursuit for unity. The music hits hard, and the message hits even harder. The poignancy of “JU$T” wouldn't land nearly as well if it wasn't such a bouncing banger. *RTJ4* is essential listening. If it takes good music for people to realise capitalism is bad, so be it. I'm rarely an optimist, but I feel like moments like these could result in the start of a brighter future. At least, I sincerely fucking hope so.
-</span>
 
-<span class="block-gap">
-**Andrew**
+<p class="block-gap">**Andrew**</p>
 
 They may not have topped our singles list last week, but they made up a fifth of it. This week, Run The Jewels bettered that by taking our top album of the year. *RTJ4* follows the trend set by the hip hop duo with previous releases, bringing something fresh to the table packaged in a familiar sound.
 
@@ -218,4 +213,3 @@ Written in a time of growing tension and released at its flashpoint during the p
 There's a laundry list of familiar names in the credits too, many of whom aren't known for pulling punches when it comes to opinionated lyrics either. These collaborations, particularly those towards the back of the album, touch on social injustices from modern slavery to capitalist evils, calling for change through personal action. It makes for a charged listen that the duo intends to inspire and motivate listeners with, and it's hard to feel any other way by its climatic, six-minute closing epic.
 
 It's been a chaotic cavalcade of a year, but we've seen incredible music come out of it. Whether it's offered catharsis, called to action, or just been bloody good listening, we couldn't have done without it, and I'm thrilled to see Run The Jewels take the top spot with *RTJ4*.
-</span>
