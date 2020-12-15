@@ -15,8 +15,8 @@ tags:
   - laura marling
   - run the jewels
   - 2020s
-featuredimage: article-images/favourite-albums-2019.jpg
-featuredimageAlt: Tyler, the Creator wearing a dashing baby blue suit and monstrous blonde wig
+featuredimage: article-images/favourite-albums-2020.jpg
+featuredimageAlt: Moses Sumney performing
 title: Our 10 favourite albums of 2020
 author:
   - rachael-davis
@@ -192,7 +192,7 @@ On “pulling the pin”, Mavis Staples’ haunting vocals are married impeccabl
 
 **Fred**
 
-I'm glad this got top spot. *RTJ4* was an album that connected with all of us. It had something to say and belted it out with the bombastic swagger typical of Killer Mike and El-P. The album may not have had the best hooks or choruses or ear worms of the year, but it had an unstoppable sense of purpose, of getting some hard truths off of its chest. There is a restless, righteous anger throughout *RTJ4* that I expect will resonate for years to come. I found it bizarre to hear the press crediting Bob Dylan’s dirges about the 1960s as ‘capturing the current zeitgeist’ when Run the Jewels are standing up to be counted here and now. (No shade at Dylan, I like his dirges.)
+I'm glad this got top spot. *RTJ4* was an album that connected with all of us. It had something to say and belted it out with the bombastic swagger typical of Killer Mike and El-P. The album may not have had the best hooks or choruses or ear worms of the year, but it had an unstoppable sense of purpose, of getting some hard truths off of its chest. There is a restless, righteous anger throughout *RTJ4* that I expect will resonate for years to come. I found it bizarre to hear the press crediting Bob Dylan’s dirges about the 1960s as capturing the current zeitgeist when Run the Jewels were standing up to be counted in the here and now. (No shade at Dylan, I like his dirges.)
 
 
 **André**
