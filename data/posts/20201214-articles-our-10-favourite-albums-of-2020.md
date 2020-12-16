@@ -16,7 +16,7 @@ tags:
   - run the jewels
   - 2020s
 featuredimage: article-images/favourite-albums-2020.jpg
-featuredimageAlt: Moses Sumney performing
+featuredimageAlt: Run the Jewels performing live
 title: Our 10 favourite albums of 2020
 author:
   - rachael-davis
