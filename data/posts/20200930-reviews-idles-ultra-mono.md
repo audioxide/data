@@ -1,12 +1,12 @@
 ---
 
-created: 2020-09-30
-modified: 2020-09-30
+created: 2020-09-30T12:00:15.000Z
+modified: 2020-12-16T12:50:73.000Z
 slug: idles-ultra-mono
 type: reviews
 tags:
   - 2020s
-  - "SCORE"
+  - "24"
   - idles
   - rock
   - punk
@@ -17,13 +17,13 @@ artist: Idles
 album: Ultra Mono
 essentialtracks: "" 
 favouritetracks:
-  - For Tomorrow
-  - Broken Eyes
-  - Cathedrals of the Mind
+  - Model Village
+  - The Lover
+  - Mr. Motivator
 totalscore:
-  given: 17
+  given: 24
   possible: 30
-  fraction: 0.56666667
+  fraction: 0.8
 colours:
   - "#f2587e"
   - "#090000"
@@ -66,7 +66,7 @@ author: Fred
 review: >-
   IDLES are back, Terminator style. Screaming, thumping, taking names, *Ultra Mono* feels like a booster shot from the band; it’s nothing new, but more of a good thing is hard to argue with. Joe Tablot is on fine form, as you’d expect, with tracks like “Model Village” providing a particularly welcome fix. All in all the album listens like another brick thrown through the window of Bullshit Inc.
 
-  For all its snarling punk credentials the album does seem a smidge comfortable compared to previous projects. Several tracks lack behind, and the production lacks a certain edge.  No instrumentals on *Ultra Mono* are as thunderous as “Divide & Conquer” or as biting as “Great”. There are shades of evolution – “Grounds” hits a kind of funk punk groove, for example – but the album captures a band feeling confident rather than enterprising. That’s fine by me.
+  For all its snarling punk credentials the album does seem a smidge comfortable compared to previous projects. Several tracks lack behind, and the production lacks a certain edge. No instrumentals on *Ultra Mono* are as thunderous as on earlier songs like “Divide & Conquer” or as biting as “Great”. There are shades of evolution – “Grounds” hits a kind of funk punk groove, for example – but the album captures a band feeling confident rather than enterprising. That’s fine by me.
 
   It’s a bit like a heavyweight boxer putting in a routine title defense. Yes he’s an adonis who could still rearrange your face with one arm tied behind his back, but he’s not quite as sharp or as chiseled or as powerful as when he’s in peak condition. *Ultra Mono* is a fine specimen of an album, but for me it isn’t IDLES’ best.
 
@@ -85,11 +85,22 @@ score:
 author: Andrew
 
 review: >-
-  Text
+  Idles have been teasing their latest album over the summer, drip-feeding fans with the likes of “Mr. Motivator” and “Grounds” starting in May. Now *Ultra Mono* has dropped, and it’s proven to be stiff competition for 2018’s critically acclaimed *Joy as an Act of Resistance*.
 
-tracks: ""
+  This time around, Joe Talbot’s lyrics feel less confessional and more confrontational. “Model Village” takes aim at the small-town mentality that breeds hostility and division, while in “Reigns”, a menacing bassline assists Talbot in asking "How does it feel to have shanked the working classes into dust?" There’s some introspection too, as sweary love song “The Lover” thumps along at a terrific pace, and “Anxiety” makes for a does-what-it-says-on-the-tin mania that I could see fitting into their live shows perfectly. In attempting to put the world to rights in 2020, however, it seems *Ultra Mono* isn’t sure what to tackle first as it jumps from motivational to combative to forthright, trying to paint a landscape in broad strokes.
+
+  Underpinning Joe, the rest of the band never lets up, from the opening moments of “War”, where Jon Beavis’ machine-gun drums clatter through the entire track, to Mark Bowen and Lee Kiernan’s surging guitars in closer, “Danke", Idles stamp, stomp, and stonk their way through forty minutes. Adam Devonshire can never be forgotten, often taking centre stage with brazen basslines in the likes of “Carcinogenic” and “Reigns”.
+
+  The odd one out here, however, is “A Hymn”, which makes for a refreshing change in the back half of the tracklist. Building from a tentative, muffled hook, to a sizzling, pacing suspense, to a lethargic, rolling rhythm, Talbot’s melancholic, emotional lyrics are mirrored perfectly in the music.
+
+  *Ultra Mono* has delivered. It’s raucous, unfiltered and powerful. I can’t deny it feels muddled at times, but it’s a cracking album nevertheless, and that speaks to the broad quality the five-piece have achieved and maintained. There are some real earworms here, and I’m dying to see some of them play out live in a packed crowd. For now, I’ll have to make do with annoying the neighbours and blasting this on repeat.
+
+tracks:
+  - Mr. Motivator
+  - Reigns
+  - A Hymn
 
 score:
-  score: 4
+  score: 8
   max: 10
-  fraction: 0.4
+  fraction: 0.8
