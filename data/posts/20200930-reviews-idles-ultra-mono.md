@@ -85,11 +85,11 @@ score:
 author: Andrew
 
 review: >-
-  Idles have been teasing their latest album over the summer, drip-feeding fans with the likes of “Mr. Motivator” and “Grounds” starting in May. Now *Ultra Mono* has dropped, and it’s proven to be stiff competition for 2018’s critically acclaimed *Joy as an Act of Resistance*.
+  IDLES have been teasing their latest album over the summer, drip-feeding fans with the likes of “Mr. Motivator” and “Grounds” starting in May. Now *Ultra Mono* has dropped, and it’s proven to be stiff competition for 2018’s critically acclaimed *Joy as an Act of Resistance*.
 
   This time around, Joe Talbot’s lyrics feel less confessional and more confrontational. “Model Village” takes aim at the small-town mentality that breeds hostility and division, while in “Reigns”, a menacing bassline assists Talbot in asking "How does it feel to have shanked the working classes into dust?" There’s some introspection too, as sweary love song “The Lover” thumps along at a terrific pace, and “Anxiety” makes for a does-what-it-says-on-the-tin mania that I could see fitting into their live shows perfectly. In attempting to put the world to rights in 2020, however, it seems *Ultra Mono* isn’t sure what to tackle first as it jumps from motivational to combative to forthright, trying to paint a landscape in broad strokes.
 
-  Underpinning Joe, the rest of the band never lets up, from the opening moments of “War”, where Jon Beavis’ machine-gun drums clatter through the entire track, to Mark Bowen and Lee Kiernan’s surging guitars in closer, “Danke", Idles stamp, stomp, and stonk their way through forty minutes. Adam Devonshire can never be forgotten, often taking centre stage with brazen basslines in the likes of “Carcinogenic” and “Reigns”.
+  Underpinning Joe, the rest of the band never lets up, from the opening moments of “War”, where Jon Beavis’ machine-gun drums clatter through the entire track, to Mark Bowen and Lee Kiernan’s surging guitars in closer, “Danke", IDLES stamp, stomp, and stonk their way through forty minutes. Adam Devonshire can never be forgotten, often taking centre stage with brazen basslines in the likes of “Carcinogenic” and “Reigns”.
 
   The odd one out here, however, is “A Hymn”, which makes for a refreshing change in the back half of the tracklist. Building from a tentative, muffled hook, to a sizzling, pacing suspense, to a lethargic, rolling rhythm, Talbot’s melancholic, emotional lyrics are mirrored perfectly in the music.
 
