@@ -1,6 +1,6 @@
 {
   "name": "audioxide-data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pre-baked data for the Audioxide website",
   "repository": "https://github.com/audioxide/data",
   "contributors": [
@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "flexsearch": "^0.6.32",
-    "@audioxide/data-processor": "^0.9.7"
+    "@audioxide/data-processor": "^0.10.0"
   }
 }

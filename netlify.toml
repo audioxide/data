@@ -4,6 +4,9 @@
   functions = "functions"
   environment = { SITE_URL = "https://audioxide.com", API_URL = "https://audioxide.com/api" }
 
+[[plugins]]
+package = "/plugins/netlify-plugin-cache-audioxide-data"
+
 [[redirects]]
   from = "/search"
   to = "/.netlify/functions/search"
