@@ -90,7 +90,7 @@ The glitched vocal hook in “Hymn (Remix)”, the near-screams on “Hollywood�
 
 Something I’ve learned about myself while doing Audioxide is that I love me some slow, heavy, brooding post rock. Just love it. *Nothing as the Ideal* isn’t quite that, but it was the closest I got to my annual fix. I was plenty content with it. 
 
-All Them Witches carry themselves with a marvellous southern twang — a little eccentric, a little downtrodden, a little swampy, and hard as nails. “See You Next Fall” has been on constant rotation this year and will probably remain so until next fall, while I’d trust “Saturnine & Iron Jaw” to stand toe to toe with the dustiest, most sunburnt [Queens of the Stone Age](reviews/queens-of-the-stone-age-like-clockwork/) tracks going. 
+All Them Witches carry themselves with a marvellous southern twang — a little eccentric, a little downtrodden, a little swampy, and hard as nails. “See You Next Fall” has been on constant rotation this year and will probably remain so until next fall, while I’d trust “Saturnine & Iron Jaw” to stand toe to toe with the dustiest, most sunburnt [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) tracks going. 
 
 The formula is not to everyone’s taste (even I’m worn down by the end) but *Nothing as the Ideal* delivered a foggy rock concoction quite unlike anything else in 2020. Not so much desert rock as it is voodoo swamp rock, the album is a mighty fine time.
 
@@ -104,7 +104,7 @@ The formula is not to everyone’s taste (even I’m worn down by the end) but *
 
 **André**
 
-Gorgeous, sweeping electronica. Just what the doctor ordered. Kelly Lee Owens strikes a lovely balance on *Inner Song*, with contagious dance tunes sandwiched between beautiful dream pop ballads, all produced with prestigious care and detail. Not too dissimilar to [Jon Hopkins](reviews/jon-hopkins-singularity/), or even [Thom Yorke](reviews/thom-yorke-anima/), Owens approaches dance music in a more nuanced way than most. It means *Inner Song* is just as enjoyable with headphones as it is on the dance-floor. Presumably.
+Gorgeous, sweeping electronica. Just what the doctor ordered. Kelly Lee Owens strikes a lovely balance on *Inner Song*, with contagious dance tunes sandwiched between beautiful dream pop ballads, all produced with prestigious care and detail. Not too dissimilar to [Jon Hopkins](/reviews/jon-hopkins-singularity/), or even [Thom Yorke](/reviews/thom-yorke-anima/), Owens approaches dance music in a more nuanced way than most. It means *Inner Song* is just as enjoyable with headphones as it is on the dance-floor. Presumably.
 
 It's refreshing to hear an electronic album with a genuine sense of purpose and direction. I'm the most avid fan of nerdy IDM you'll likely find, but I take great pleasure in hearing Owens take certain elements of electronic music and unfolding them in such a focused and cohesive manner. Just when *Inner Song* needs softening up, Owens takes the edge off. Like all the best DJs, she knows the value of relief, and this results in an exquisitely-paced record. A wonderfully stylish one at that. 
 
@@ -122,7 +122,7 @@ There have been countless nights (or, more accurately, early mornings) where I h
 
 This rhetoric may be echoed throughout many publications at this time, not least of all our own at *Audioxide*, but 2020 has no doubt been a terrible year, one we’d like to but won’t easily forget. That’s what made IDLES’ 2020 release, *Ultra Mono* such a joy.
 
-Following up in a very much similar tonality to [*Joy As An Act of Resistance*](reviews/idles-joy-as-an-act-of-resistance/), *Ultra Mono* keeps IDLES’ signature riff heavy, lyrically bombastic song writing. This however, is not to their detriment. IDLES take enough of a leap here to sound evolved, with slower tracks like “A Hymn”, but they maintain the raucous crashing riffs they’re known for in tracks like “Grounds”.
+Following up in a very much similar tonality to [*Joy As An Act of Resistance*](/reviews/idles-joy-as-an-act-of-resistance/), *Ultra Mono* keeps IDLES’ signature riff heavy, lyrically bombastic song writing. This however, is not to their detriment. IDLES take enough of a leap here to sound evolved, with slower tracks like “A Hymn”, but they maintain the raucous crashing riffs they’re known for in tracks like “Grounds”.
 
 *Ultra Mono* doesn’t falter with the superb lyrics either. Charged with irony, politics, and twisted imagery they create anthem-like vocals, best shown in tracks like “Reigns”.  This time around IDLES get self-referential with the lyricism, even mentioning the anthem-like nature of songs in tracks like “Model Village”. Even more so do IDLES do this in the track “Mr. Motivator”, commenting ‘How’d you like them clichés?’, coincidentally one of my favourite songs on the album.
 
@@ -138,13 +138,13 @@ Without intending to be overly earnest, IDLES manage to instil a sort of hope an
 
 **Andrew**
 
-Moses Sumney followed up his 2017 debut this year, and he didn't take any half measures in doing so. With [*Græ*](reviews/moses-sumney-grae/), Sumney retains the powerful vocal performances that first turned my attention to him, and builds on the already lush instrumentation we saw in *Aromanticism*.
+Moses Sumney followed up his 2017 debut this year, and he didn't take any half measures in doing so. With *Græ*, Sumney retains the powerful vocal performances that first turned my attention to him, and builds on the already lush instrumentation we saw in *Aromanticism*.
 
-This double album is a grander affair in many ways, and it uses its 60+ minutes playtime to travel around a musical landscape. Back in May all three of us drew comparisons: [Frank Ocean](reviews/frank-ocean-channel-orange/), [Lianne La Havas](reviews/lianne-la-havas-lianne-la-havas/) and, my favourite, ‘[Thom Yorke](reviews/thom-yorke-the-eraser/) with steroids and a few hallucinogens in his belly.’ Returning to it, I could probably add a few more to the list, but *Græ* doesn't trade character for eclecticism, and instead solidifies Sumney's absorbing formula of soulful electronic music.
+This double album is a grander affair in many ways, and it uses its 60+ minutes playtime to travel around a musical landscape. Back in May all three of us drew comparisons: [Frank Ocean](/reviews/frank-ocean-channel-orange/), [Lianne La Havas](/reviews/lianne-la-havas-lianne-la-havas/) and, my favourite, ‘[Thom Yorke](/reviews/thom-yorke-the-eraser/) with steroids and a few hallucinogens in his belly.’ Returning to it, I could probably add a few more to the list, but *Græ* doesn't trade character for eclecticism, and instead solidifies Sumney's absorbing formula of soulful electronic music.
 
 It's hard not to retread covered ground, having gushed about the entire tracklist back in May, but I can't help but give one notable mention. After some time away from it, the rollercoaster that "Colouour" sends me on hasn't diminished. Opening with a horn section that flies and flutters around a cavern of reverb, Sumney's vocals enter delicately, as the rest of the track falls away for a moment, holding the listener in silence before dropping them back into a rippling, warm pool of lush chords. It's a real experience, and it's a track that missed out on my favourites list at the time.
 
-With [André's cracking write-up of "Me in 20 Years"](articles/our-10-favourite-singles-of-2020/) last week and our original review on *Græ*, we've had a lot of praise for this album. Sumney has produced an enchanting, overwhelming hour of music that I'm delighted to see in our listing this year.
+With [André's cracking write-up of "Me in 20 Years"](/articles/our-10-favourite-singles-of-2020/) last week and our original review on *Græ*, we've had a lot of praise for this album. Sumney has produced an enchanting, overwhelming hour of music that I'm delighted to see in our listing this year.
 
 [**Read our full review of _Græ_**](/reviews/moses-sumney-grae/) →
 
@@ -156,7 +156,7 @@ With [André's cracking write-up of "Me in 20 Years"](articles/our-10-favourite-
 
 **Marcus**
 
-Few projects are as inventive, bold, and focused as clipping.’s *Visions of Bodies Being Burned*, the second part of a dual-album project that began with [*There Existed An Addiction to Blood*](reviews/clipping-visions-of-bodies-being-burned/) in 2019. Through sides E to H of the project, Diggs, Huston, and Snipes build upon and perfect their horrorcore motifs in what I consider to be a masterpiece. The development of Diggs’ deliveries, the willingness to warp any and all aspects of the composition into gothic, uncanny, and oftentimes miserable new modes, and the loosely-defined storytelling combine into an expansive and addictive listening experience that grows in grandeur with every listen. 
+Few projects are as inventive, bold, and focused as clipping.’s *Visions of Bodies Being Burned*, the second part of a dual-album project that began with [*There Existed An Addiction to Blood*](/reviews/clipping-visions-of-bodies-being-burned/) in 2019. Through sides E to H of the project, Diggs, Huston, and Snipes build upon and perfect their horrorcore motifs in what I consider to be a masterpiece. The development of Diggs’ deliveries, the willingness to warp any and all aspects of the composition into gothic, uncanny, and oftentimes miserable new modes, and the loosely-defined storytelling combine into an expansive and addictive listening experience that grows in grandeur with every listen. 
 
 I’ve waxed lyrical about this album enough already, so I’ll close by noting that Enlacing’s ability to dive between its life-affirming choruses and dread-inspiring verses ought to be enough to convince anyone that clipping. are at the forefront of pushing and cracking hip-hop’s ever-flexible boundaries.
 
@@ -172,7 +172,7 @@ I’ve waxed lyrical about this album enough already, so I’ll close by noting 
 
 Thank god for Laura Marling. With the world unravelling she glided in with *Song for Our Daughter* to cradle us in her cardiganed arms and tell us, well, not that it's ok exactly but at least not all that bad. I wouldn’t say I’ve grown to love the album, but boy am I grateful for it. 
 
-Marling’s eloquence and intricacy is well represented, as you’d expect, but there is also a softness to the music that doesn’t necessarily come through on previous records like [*Semper Femina*](reviews/laura-marling-semper-femina/). The songs have the gentle drift and unshakeable moral core of bedtime stories, with the titular track probably showing that best of all. 
+Marling’s eloquence and intricacy is well represented, as you’d expect, but there is also a softness to the music that doesn’t necessarily come through on previous records like [*Semper Femina*](/reviews/laura-marling-semper-femina/). The songs have the gentle drift and unshakeable moral core of bedtime stories, with the titular track probably showing that best of all. 
 
 In truth I can’t think of a better singer/songwriter around right now than Laura Marling. Having only just turned 30 she already carries herself like a sage. A turtleneck jumper-wearing sage. *Song for Our Daughter* is possibly her best album yet, and that in itself takes some doing.
 
@@ -188,7 +188,7 @@ In truth I can’t think of a better singer/songwriter around right now than Lau
 
 Run the Jewels have always operated on the miraculous alchemy of Killer Mike and El-P, and each record’s growth in confidence from the duo is as astounding as it is impressive. On *RTJ4*, it feels like the underlying theme of improbably successful combinations has been ratcheted to another level — represented best, perhaps, by the coupling of Zach de la Rocha and Pharrell Williams on “JU$T”. Sticking a pitbull and a rabbit in a pen together seems like a terrible idea, and yet it comes off with aplomb. 
 
-On “pulling the pin”, Mavis Staples’ haunting vocals are married impeccably to the trademark spookiness of [Josh Homme](reviews/queens-of-the-stone-age-queens-of-the-stone-age/)’s instrumentation, such that I’m staggered the idea hasn’t been broached before. In these fraught times, this coming together of opposing sonic forces — going above and beyond the well-established synchronicity of Render and Meline — is as powerful as the predictably brilliant writing, not only in how great it all sounds but in its projection of RTJ’s overarching focus on solidarity against oppression.
+On “pulling the pin”, Mavis Staples’ haunting vocals are married impeccably to the trademark spookiness of [Josh Homme](/reviews/queens-of-the-stone-age-queens-of-the-stone-age/)’s instrumentation, such that I’m staggered the idea hasn’t been broached before. In these fraught times, this coming together of opposing sonic forces — going above and beyond the well-established synchronicity of Render and Meline — is as powerful as the predictably brilliant writing, not only in how great it all sounds but in its projection of RTJ’s overarching focus on solidarity against oppression.
 
 <p class="block-gap"><strong>Fred</strong></p>
 
@@ -213,3 +213,5 @@ Written in a time of growing tension and released at its flashpoint during the p
 There's a laundry list of familiar names in the credits too, many of whom aren't known for pulling punches when it comes to opinionated lyrics either. These collaborations, particularly those towards the back of the album, touch on social injustices from modern slavery to capitalist evils, calling for change through personal action. It makes for a charged listen that the duo intends to inspire and motivate listeners with, and it's hard to feel any other way by its climatic, six-minute closing epic.
 
 It's been a chaotic cavalcade of a year, but we've seen incredible music come out of it. Whether it's offered catharsis, called to action, or just been bloody good listening, we couldn't have done without it, and I'm thrilled to see Run The Jewels take the top spot with *RTJ4*.
+
+[**Read our full review of _RTJ4_**](/reviews/run-the-jewels-rtj4/) →
