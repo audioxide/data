@@ -15,7 +15,7 @@ blurb: For reasons known not even to himself, Fred decides to disparage the memo
 
 <figure class="wide">
   <img src="article-images/confessions-of-an-album-reviewer.jpg" alt="Abstract illustrations of two heads" />
-  <figcaption>Image by Frederick O'Brien</figcaption>
+  <figcaption>Image by the author</figcaption>
 </figure>
 
 In an expensive yet strangely characterless flat in some important city or other a man sits unblinking before a computer screen. His hands tremble over the keyboard in anticipation of words that have not come for hours and will not come for hours yet. Countless pairs of headphones litter the floor and one wall is piled high with speakers. After years of listening and thousands of pounds of debt incurred, our hero has resigned himself to the fact that most music sounds irredeemably awful.

@@ -16,7 +16,7 @@ blurb: Answering a demand we barely notice, the growth of audiobooks seems unst
 
 <figure class="wide">
   <img src="article-images/the-rise-and-rise-of-audiobooks.jpg" alt="An audiobook version of Apple's famous coloured iPod advertising campaign" />
-  <figcaption>Image by Frederick O'Brien</figcaption>
+  <figcaption>Image by the author</figcaption>
 </figure>
 
 Last week, the Audio Publishers Association (APA) released the [2016 sales figures for audiobooks](https://www.audiopub.org/uploads/pdf/APAC2017PR_final.pdf), and things are looking rosy. There has been a 33.9% increase in the number of audiobooks sold, with sales totalling $2.1 billion (£1.65 billion) in 2016. In the U.S.A. alone 67 million people listened to at least one audiobook last year. The medium is exploding, and the most remarkable thing about these figures is that they’re not terribly remarkabl — they’re the norm. 2016 was the third consecutive year in which audiobook sales increased by over 20%.

@@ -18,7 +18,7 @@ blurb: In 2012, David Byrne wrote that music risked becoming a soma-like drug. T
 
 <figure class="wide">
   <img src="article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg" alt="Filler featured image" />
-  <figcaption>Image by Frederick O'Brien</figcaption>
+  <figcaption>Image by the author</figcaption>
 </figure>
 
 In 2012 David Byrne asked whether music had become a ‘soma-like drug,’ a kind of emotional medication. He was referring to Aldous Huxley’s dystopian 1932 novel *Brave New World*, in which soma subdues society’s passions and keeps people apart. Faced with the rise of digital distribution and personal audio players, Byrne saw a similar fate awaiting music.

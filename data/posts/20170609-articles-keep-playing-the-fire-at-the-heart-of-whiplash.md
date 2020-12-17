@@ -18,7 +18,7 @@ blurb: However grotesque Terence Fletcher may be, he leaves the impression he 
 
 <figure class="wide">
   <img src="article-images/keep-playing-the-fire-at-the-heart-of-whiplash.jpg" alt="Illustrations of Fletcher and Neiman from the film 'Whiplash'" />
-  <figcaption>Image by Frederick O'Brien</figcaption>
+  <figcaption>Image by the author</figcaption>
 </figure>
 
 *Whiplash* hit — and shot — plenty of nerves when it was released in 2014. It lit up the year’s film awards season and will in all likelihood endure as a classic piece of cinema. But why? What about the film strikes so deep, is so morbidly absorbing? *Whiplash* is ostensibly about jazz, but its core speaks to something more fundamental than even music, and often in ways difficult to stomach. It speculates that love of a craft isn’t enough to master it; disdain for one’s shortcomings is crucial.

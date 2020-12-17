@@ -19,7 +19,7 @@ blurb: Time might be up for 2-D and the gang. Without the music belonging to the
 
 <figure class="wide">
   <img src="article-images/gorillaz-go-1-d.jpg" alt="2-D from Gorillaz with his mouth taped over" />
-  <figcaption>Image by Frederick O'Brien</figcaption>
+  <figcaption>Image by the author</figcaption>
 </figure>
 
 When is a virtual band over? That’s been the question on my mind since listening to [*Humanz*](/reviews/gorillaz-humanz/), an album that confirmed fears which had been lurking since [*Plastic Beach*](/reviews/gorillaz-plastic-beach/). Gorillaz don’t seem to be a thing anymore. Albums have their name on them, the gang get wheeled out for interviews, but I don’t hear them in the music. It isn’t a novel feeling, obviously. Bands lose their spark all the time, but there’s something decidedly sinister about it happening to 2-D and the gang. Without the music belonging to them they’re nothing but cardboard cutouts, and without them the music rings hollow.
