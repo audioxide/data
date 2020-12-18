@@ -31,7 +31,7 @@ You can say a lot of things about Thomas Ashby (and I have, you can ask him) but
 
 Not that *Backlash* is an activist record. Listen to it and that much is obvious. For Tom it was more a case of looking outward and responding to what he sees. That’s the main business of the EP, and rather than spending its time complaining, it explores the good that can come out of having to climb out of bad situations. There are elements of that in all five tracks, but I think it’s especially true for “Look Up” and “Capitalize”.
 
-‘That’s the idea of it,’ he says, ‘to take these situations which could be quite alarming or upsetting or anxious and showing the light at the end of the tunnel.’ Tom has said he wants the album to have longevity, and I think time will show he’s achieved that. Rather than taking stands on specific issues, *Backlash *is more about the desire to respond to difficult circumstances with positive action, and so actually channels something far more universal.
+‘That’s the idea of it,’ he says, ‘to take these situations which could be quite alarming or upsetting or anxious and showing the light at the end of the tunnel.’ Tom has said he wants the album to have longevity, and I think time will show he’s achieved that. Rather than taking stands on specific issues, *Backlash* is more about the desire to respond to difficult circumstances with positive action, and so actually channels something far more universal.
 
 ![Ink sketch of vinyl record by Frederick O'Brien](interview-images/thomas-ashby-vinyl-drawing.jpg)
 
@@ -41,13 +41,13 @@ It’s quite a simple shift, really. His early projects are more introspective, 
 
 That sense of opening up extends to other aspects of the EP. Tom’s time at our flat in London was the first time he could really spread out and record demos in a bigger space than a bedroom. For most of our time together the flat’s living room was kitted out as an ad hoc studio. This gave Tom more room, naturally, but it also gave him the option of having people come over to play.
 
-Many a time I came home to violins or trumpets or harmonies. Tom seized the chance to experiment with song arrangements, a luxury he didn’t have with his debut album, *Cache*. ‘Just jamming through things live is hugely important, which with *Cache *wasn’t possible until all the demos were created. *Backlash* was more of a shared vision.’
+Many a time I came home to violins or trumpets or harmonies. Tom seized the chance to experiment with song arrangements, a luxury he didn’t have with his debut album, *Cache*. ‘Just jamming through things live is hugely important, which with *Cache* wasn’t possible until all the demos were created. *Backlash* was more of a shared vision.’
 
-I think that comes across. *Backlash *is a more stripped down project than *Cache*, but the sounds that are there sound more deliberate, and more cared for. Tom has learnt that restraint can be as important as expression. ‘Space and silence is as important as noise and sound.’
+I think that comes across. *Backlash* is a more stripped down project than *Cache*, but the sounds that are there sound more deliberate, and more cared for. Tom has learnt that restraint can be as important as expression. ‘Space and silence is as important as noise and sound.’
 
 This came to a head during the EP’s recording, which took place over a weekend at Big Jelly Studios in Ramsgate. Tom’s preparation left him ready for the narrow window. After his experiences making *Cache*, which he describes as something close to manic, he felt more comfortable this time round.
 
-I wasn’t there for the recording, but I still remember how elated Tom was when he came home. You don’t get that kind of buzz when you fluke something. Tom went into *Backlash *knowing the songs were ready, believing in the people he was making it with, and trusting himself to meet the occasion.
+I wasn’t there for the recording, but I still remember how elated Tom was when he came home. You don’t get that kind of buzz when you fluke something. Tom went into *Backlash* knowing the songs were ready, believing in the people he was making it with, and trusting himself to meet the occasion.
 
 ‘I almost had to learn how to sing again, because when you’re singing at home you’re singing in a much lower, more reserved voice, whereas when you’re in a studio that’s your space to be the biggest you you can be.’
 
@@ -61,7 +61,9 @@ For videos Tom had a vague idea of one stage being used in all his videos. As we
 
 Then there’s the video for “What I Expected”, which was inspired by the forced perspective scene in *Eternal Sunshine of the Spotless Mind*, one of Tom’s favourite films. There’s no green screen business; just stop motion and lots and lots of takes. Tom has kindly sent over ‘behind the scenes’ footage so you can see how he set it up:
 
-<center><iframe src="https://www.youtube.com/embed/tCa3hCcYQuM" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tCa3hCcYQuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The artwork was a series of happy accidents. Tom took a liking to an ink drawing I did of a made up vinyl record, where the groove was a single, uninterrupted line. ‘I think the kind of timeless feel of that artwork is what connected with me,’ he says. ‘In a lot of ways it goes back to the roots of what music was for a lot of people, how people listened to it and interacted with it.’He asked if I’d make one for *Backlash*, and I obliged. He likened the design to a Batman symbol when he first saw it, but he’s warmed to it since.
 
