@@ -1,29 +1,29 @@
 ---
 
-created: 2020-10-21
-modified: 2020-10-21
+created: 2020-10-21T12:00:15.000Z
+modified: 2020-12-18T01:07:45.000Z
 slug: the-beach-boys-pet-sounds
 type: reviews
 tags:
   - 1960s
-  - "SCORE"
+  - "24"
   - the beach boys
   - rock
   - pop
 featuredimage: album-artwork/pet-sounds-the-beach-boys.jpg
-artworkCredit: The album artwork of 'Pet Sounds' by The Beach Boys features a photograph of the band at San Diego zoo taken by photographer George Jerman. The typeface used is Cooper Black.
+artworkCredit: features a photograph of the band at San Diego zoo taken by photographer George Jerman. The typeface used is Cooper Black.
 artworkCreditSource: https://time.com/4325553/pet-sounds-beach-boys-50/
 artist: The Beach Boys
 album: Pet Sounds
-essentialtracks: "" 
+essentialtracks:
+  - God Only Knows
 favouritetracks:
-  - For Tomorrow
-  - Broken Eyes
-  - Cathedrals of the Mind
+  - Sloop John B
+  - Let's Go Away for a While
 totalscore:
-  given: 17
+  given: 24
   possible: 30
-  fraction: 0.56666667
+  fraction: 0.8
 colours:
   - "#428d52"
   - "#fee34c"
@@ -85,11 +85,22 @@ score:
 author: Andrew
 
 review: >-
-  Text
+  While I often have a touch of lyrical deafness, *Pet Sounds* gives me a real flare-up and, at the risk of sounding like a crotchety senior citizen, I think that might be because there are a lot of sweet-nothings and good feeling and not a lot more.
 
-tracks: ""
+  But wait! Hold onto your rotten tomatoes for a moment, you can hurl them at me later. I'm a big fan of this album. Set aside the nuzzled shoulders and never-ending kisses and there are some intriguing instrumental moments across the tracklist. "Let's Go Away For A While" and "Pet Sounds" are some of my favourite moments here. The former shimmers and shines like a summer day, with a nonchalant horn section and warm strings. The latter shimmies along with a sultry guitar and a bossa nova beat, confidently strutting around for two minutes and change. They come out of nowhere, and they're much appreciated every time they do so.
+
+  Listen elsewhere though, is that a solo oboe in "I'm Waiting For The Day"? A harpsichord and a honking horn in "You Still Believe In Me"? What about that french horn in "God Only Knows"? Across *Pet Sounds* there's a fantastic variety of instrumentation, with an inclination towards woodwind and strings that often gives tracks a warm, fuzzy, quaint village green feeling, which is quite a feat for a bunch of Californians.
+
+  *Pet Sounds* was a huge achievement and has a well-deserved prestige and legacy, though in my opinion the lyrics often become surplus to requirements. The instrumental cuts only highlight that further, making me wish we'd "Gone Away For A While" longer and told Caroline more firmly, "No". Nevertheless, it's excellent listening, and none of my nitpicks have stopped me re-spinning this record. Still, dive elsewhere into the Beach Boys discography and you'll likely find something just as fun to listen to and a lot more engaging. 
+  
+  Okay, feel free to let those tomatoes loose.
+
+tracks:
+  - Pet Sounds
+  - Let's Go Away for a While
+  - God Only Knows
 
 score:
-  score: 4
+  score: 8
   max: 10
-  fraction: 0.4
+  fraction: 0.8
