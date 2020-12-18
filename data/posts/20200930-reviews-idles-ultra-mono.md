@@ -6,7 +6,6 @@ slug: idles-ultra-mono
 type: reviews
 tags:
   - 2020s
-  - "24"
   - idles
   - rock
   - punk

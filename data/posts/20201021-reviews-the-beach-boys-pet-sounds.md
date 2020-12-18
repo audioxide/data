@@ -6,7 +6,6 @@ slug: the-beach-boys-pet-sounds
 type: reviews
 tags:
   - 1960s
-  - "24"
   - the beach boys
   - rock
   - pop
