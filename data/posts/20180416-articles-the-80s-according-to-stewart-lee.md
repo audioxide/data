@@ -20,7 +20,7 @@ summary: The most miserable man in comedy has five favourite albums from everyon
 
 <figure class="wide">
   <img src="article-images/the-80s-according-to-stewart-lee.jpg" alt="Morrissey lets himself go" />
-  <figcaption>Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke</figcaption>
+  <figcaption>Stewart Lee performs in Edinburgh. Photograph by [Samuel Gehrke](http://www.samgehrkephotography.com/)</figcaption>
 </figure>
 
 Stewart Lee is a fat British comedian known for his unfunny routines and holding audiences in contempt. As a smug, pseudointellectual leftist, I naturally hold Stewart Lee in sycophantic high regard, to such an extent that I actually write a little bit like he does when I’m writing about him, though less articulately.[^*]

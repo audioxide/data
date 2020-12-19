@@ -110,7 +110,7 @@ It's refreshing to hear an electronic album with a genuine sense of purpose and 
 
 There have been countless nights (or, more accurately, early mornings) where I have been absorbed by the lush sonics of *Inner Song*. Kelly Lee Owens provided an essential tonic for me to turn to during the past few months - this year of the Unprecedented Times™ - and she has my eternal gratitude.
 
-[*Read our full review of _Inner Song_*](/reviews/kelly-lee-owens-inner-song/) →
+[**Read our full review of _Inner Song_**](/reviews/kelly-lee-owens-inner-song/) →
 
 -----
 

@@ -63,7 +63,7 @@ review: >-
   
   It listens like a new lease of life, and it’s infectious. Although it doesn’t necessarily coax out a great deal of sentiment, it bears mentioning that for the most part it doesn’t try to. There’s revelry going on, and as a listener it’s just nice to be along for the ride. 
   
-  Homme’s quip that rock ‘should be heavy enough for the boys and sweet enough for the girls’ rings true here; there’s a near perfect balance of grit and finesse on *…Like Clockwork* that surely makes it Queens of the Stone Age’s most accomplished work since *Songs for the Deaf*.
+  Homme’s quip that rock [‘should be heavy enough for the boys and sweet enough for the girls’](https://hobbs1767.tripod.com/transcripts/ozzfest2000.html) rings true here. There’s a near perfect balance of grit and finesse on *…Like Clockwork* that surely makes it Queens of the Stone Age’s most accomplished work since *Songs for the Deaf*.
 
 tracks:
   - If I Had a Tail
