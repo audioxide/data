@@ -13,6 +13,7 @@ tags:
   - janelle monae
   - kate bush
   - st vincent
+  - billie eilish
 featuredimage: album-artwork/lover-taylor-swift.jpg
 artist: Taylor Swift
 album: Lover

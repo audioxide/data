@@ -25,7 +25,7 @@ totalscore:
 colours:
   - "#150d12"
   - "#c3c79b"
-  - "#FFF"
+  - "#c3c79b"
 pullquote: Youthful charm
 summary: Wolf Alice have clearly experimented with plenty of good ideas in the first half of this decade, but I have a feeling once they find their sound and concentrate their efforts on that, they will be a band to watch throughout the second half.
 week: 22
