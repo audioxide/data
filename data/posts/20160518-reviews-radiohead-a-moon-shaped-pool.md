@@ -13,7 +13,7 @@ tags:
   - ed obrien
   - art rock
 featuredimage: album-artwork/a-moon-shaped-pool-radiohead.jpg
-artworkCredit: was designed by English artist Stanley Donwood. While the band was recording the album, Donwood set up in a nearby barn and had a live feed from the studio play while he worked, the idea being his paintings would be a live response to the music.
+artworkCredit: was designed by English artist Stanley Donwood. While the band was recording, Donwood set up in a nearby barn and had a live feed from the studio play while he worked, the idea being his paintings would be a live response to the music.
 artworkCreditSource: https://www.creativereview.co.uk/stanley-donwood-radiohead/
 artist: Radiohead
 album: A Moon Shaped Pool
