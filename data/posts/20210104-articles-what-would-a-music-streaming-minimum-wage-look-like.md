@@ -13,7 +13,7 @@ featuredimageAlt: Artwork of Spotify as a musical meat grinder
 title: What would a music streaming minimum wage look like?
 summary: Artists aren’t working for pennies any more - they’re working for fractions of fractions of pennies, and pressure is growing for systemic changes to the music industry meat grinder
 author: fred
-blurb: Business is booming for music streaming services, but the musicians who make them possible aren't doing so hot. Is it time for a music streaming minium wage?
+blurb: Business is booming for streaming services, but not for the musicians who make them possible. Is it time for a music streaming minium wage?
 
 ---
 
