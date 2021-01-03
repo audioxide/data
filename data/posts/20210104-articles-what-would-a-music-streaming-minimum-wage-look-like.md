@@ -24,7 +24,7 @@ blurb: Business is booming for music streaming services, but the musicians who m
 
 Music streaming royalty rates are bad for musicians. This is well covered ground by this point, with _[The Trichordist](https://thetrichordist.com/2020/03/05/2019-2020-streaming-price-bible-youtube-is-still-the-1-problem-to-solve/)_, _[NME](https://www.nme.com/news/music/new-figures-show-how-many-streams-artists-need-to-earn-minimum-wage-2649715)_, _[Mashable](https://mashable.com/article/music-streaming-spotify-minimum-wage/)_, and plenty of other publications digging into the numbers this year. The long and short of it is artists aren’t even working for pennies these days - they’re working for fractions of pennies. Spotify is paying out around $3,500 for every million streams. If that doesn’t sound like a lot, that’s because it’s not.
 
-Increasingly musicians [have had to fall back on touring as their main source of income](https://www.vulture.com/2019/04/how-indie-artists-actually-make-money-in-2019.html). Thanks to COVID that’s no longer possible for the foreseeable future, and it has helped renew scrutiny on the fairness of existing streaming royalty rates. In the wake of Bob Dylan selling his entire catalog to Universal Music, [David Crosby revealed even he can’t support himself based](https://twitter.com/thedavidcrosby/status/1335980504735072256) on streaming revenue.
+Increasingly musicians [have had to fall back on touring as their main source of income](https://www.vulture.com/2019/04/how-indie-artists-actually-make-money-in-2019.html). Thanks to COVID that’s no longer possible for the foreseeable future, and it has helped renew scrutiny on the fairness of existing streaming royalty rates. In the wake of Bob Dylan selling his entire catalog to Universal Music, David Crosby revealed [even he can’t support himself](https://twitter.com/thedavidcrosby/status/1335980504735072256) based on streaming revenue.
 
 If _David Crosby_ can’t get by one can only wonder how badly smaller artists are struggling. Only, one doesn’t have to imagine. According to the UK Musician’s Union, [34% of musicians are considering abandoning their career](https://musiciansunion.org.uk/campaigns/invest-in-musicians), while almost half have already been forced to look for work outside the industry.
 
@@ -33,7 +33,6 @@ Proposed solutions have ranged from music consumers spending more ethically to s
 Faced with such brazen corporate indifference some are tempted to turn their fury onto consumers, which is seldom fair or productive. Many music listeners have their own pitiful minimum wages to contend with. There comes a point when legislation needs to step in. Huge companies don’t pay minimum wage out of the kindness of their hearts. They pay it because they have to. That’s why it’s there. 
 
 More and more people are calling for music royalties to get similar treatment. So let’s talk about it.
-
 
 ## One cent per stream
 
