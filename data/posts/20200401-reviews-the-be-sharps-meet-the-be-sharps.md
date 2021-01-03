@@ -13,6 +13,7 @@ tags:
   - pink floyd
   - brian eno
 featuredimage: album-artwork/meet-the-be-sharps-the-be-sharps.jpg
+artworkCredit: was designed by American artist Andy Warhol. He died shortly after, saying he 'had nothing left to live for.'
 artist: The Be Sharps
 album: Meet The Be Sharps
 essentialtracks:

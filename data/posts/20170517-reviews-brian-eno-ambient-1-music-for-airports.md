@@ -13,6 +13,8 @@ tags:
   - ambient
   - experimental 
 featuredimage: album-artwork/ambient-1-music-for-airports-brian-eno.jpg
+artworkCredit: was designed by Eno himself. When the album was released he said its dreamy ambient tone ‘must be as ignorable as it is interesting,’ a sentiment which extended to the gentle, map-like tones of its packaging.
+artworkCreditSource: https://www.moma.org/collection/works/183956
 artist: Brian Eno
 album: "Ambient 1: Music for Airports"
 essentialtracks:

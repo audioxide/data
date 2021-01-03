@@ -9,6 +9,8 @@ tags:
   - john lennon
   - rock
 featuredimage: album-artwork/abbey-road-the-beatles.jpg
+artworkCredit: was designed by Kosh and features a photograph taken by Iain Macmillan. Inspired by a Paul McCartney sketch, the chosen shot was one of six taken during a ten-minute window in which Macmillan balanced on a stepladder in the middle of Abbey Road while a policeman held up traffic behind him.
+artworkCreditSource: https://www.popspotsnyc.com/afterthegoldrush/
 artist: The Beatles
 album: Abbey Road
 essentialtracks: ""

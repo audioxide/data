@@ -15,6 +15,8 @@ tags:
   - radiohead
   - thom yorke
 featuredimage: album-artwork/after-the-gold-rush-neil-young.jpg
+artworkCredit: features a solarised photograph of Young walking past the New York University School of Law campus. It was taken by American photographer Joel Bernstein, who at the time was just 18 years old.
+artworkCreditSource: https://www.popspotsnyc.com/afterthegoldrush/
 artist: Neil Young
 album: After the Gold Rush
 essentialtracks:
