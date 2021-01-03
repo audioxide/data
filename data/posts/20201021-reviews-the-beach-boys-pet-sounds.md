@@ -10,7 +10,7 @@ tags:
   - rock
   - pop
 featuredimage: album-artwork/pet-sounds-the-beach-boys.jpg
-artworkCredit: features a photograph of the band at San Diego zoo taken by photographer George Jerman. The typeface used is Cooper Black.
+artworkCredit: features a photograph of the band taken by George Jerman at San Diego Zoo. The band members weren't exactly well behaved during the shoot and were banned for life as a result. The typeface used is Cooper Black.
 artworkCreditSource: https://time.com/4325553/pet-sounds-beach-boys-50/
 artist: The Beach Boys
 album: Pet Sounds
