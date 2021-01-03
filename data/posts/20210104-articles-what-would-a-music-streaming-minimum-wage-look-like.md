@@ -45,11 +45,11 @@ Putting aside the fuckery of record labels taking the lion’s share of many art
 
 Let’s do some quick calculations to see what that might mean in real terms. Though Spotify does not show users play statistics, it does show monthly listeners. Let’s say on average each listener plays ten songs per year and see what that translates to. (Fully appreciate these are back-of-the-envelope calculations and they should be treated as such. If more concrete data was available I’d use it.)
 
-|               | Members | Annual Spotify listeners | Annual royalties at $0.00348 | Annual royalties at $0.01 |
+|               | **Members** | **Annual Spotify listeners** | **Annual royalties at $0.00348** | **Annual royalties at $0.01** |
 |---------------|---------|--------------------------|------------------------------|---------------------------|
-| David Crosby  | One     | 3,039,636[^*]            | $10,577.93                   | $30,396.36                |
-| Wolf Alice    | Four    | 16,012,020               | $55,721.83                   | $160,120.20               |
-| Beak>         | Three   | 1,097,950                | $3,820.87                    | $10,979.50                |
+| **David Crosby**  | One     | 3,039,636[^*]            | $10,577.93                   | $30,396.36                |
+| **Wolf Alice**    | Four    | 16,012,020               | $55,721.83                   | $160,120.20               |
+| **Beak>**         | Three   | 1,097,950                | $3,820.87                    | $10,979.50                |
 
 [^*]: This is to say nothing of projects like Crosby, Stills, Nash & Young
 
@@ -105,10 +105,10 @@ Then of course there are entrenched forces of the status quo. If history is any 
 
 What does this all mean for those of us who care about musicians being fairly? There is no great master plan so much as there are a number of small things that can be done to move the needle towards a fairer industry:
 
-- *Explore ethical alternatives to Spotify et al.* With their pay per play approaches it literally costs pennies to try them out.
-- *If you can afford it, buy from and support artists you like.* Platforms like Patreon and [Ampled](https://www.ampled.com/) are good places to start, as well as merch shops. Bandcamp Fridays are also continuing into 2021, so [keep an eye out for those](https://isitbandcampfriday.com/).
-- *Make your representatives aware of your principles on the matter.* Remind them of the political cost of those principles being ignored.
-- *Join the increasing number of music unions, collectives, and charities.* [UMAW](https://www.unionofmusicians.org/), the UK [Musicians’ Union](https://musiciansunion.org.uk/), the [American Federation of Musicians](https://www.afm.org/), and the [Music Venue Trust](http://musicvenuetrust.com/) come to mind. Which one(s) depends on your interests and background.
-- *Talk about it.* Positive change seldom happens without huge, undeniable public pressure. There is no real substitute for discussing the issues, identifying solutions, and advocating for them.
+- **Explore ethical alternatives to Spotify et al.** With their pay per play approaches it literally costs pennies to try them out.
+- **If you can afford it, buy from and support artists you like.** Platforms like Patreon and [Ampled](https://www.ampled.com/) are good places to start, as well as merch shops. Bandcamp Fridays are also continuing into 2021, so [keep an eye out for those](https://isitbandcampfriday.com/).
+- **Make your representatives aware of your principles on the matter.** Remind them of the political cost of those principles being ignored.
+- **Join the increasing number of music unions, collectives, and charities.** [UMAW](https://www.unionofmusicians.org/), the UK [Musicians’ Union](https://musiciansunion.org.uk/), the [American Federation of Musicians](https://www.afm.org/), and the [Music Venue Trust](http://musicvenuetrust.com/) come to mind. Which one(s) depends on your interests and background.
+- **Talk about it.** Positive change seldom happens without huge, undeniable public pressure. There is no real substitute for discussing the issues, identifying solutions, and advocating for them.
 
 And again, one would do well to remember berating individuals for their spending habits isn’t going to fix decades-long systemic issues. Being kind, communicative, and organised probably won’t either, but it makes for a far better fight. From recording studios to factories to hospitals, fair pay for fair work is a cause with many more natural allies than enemies.
