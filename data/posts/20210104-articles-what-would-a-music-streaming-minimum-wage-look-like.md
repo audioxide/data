@@ -1,6 +1,6 @@
 ---
-created: 2021-01-04T12:47:15.000Z
-modified: 2021-01-04T12:47:15.000Z
+created: 2021-01-04T08:00:00.000Z
+modified: 2021-01-04T08:00:00.000Z
 slug: what-would-a-music-streaming-minimum-wage-look-like
 type: articles
 tags:
