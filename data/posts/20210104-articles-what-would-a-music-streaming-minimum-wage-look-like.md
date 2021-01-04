@@ -56,7 +56,7 @@ Even those numbers look pretty meagre, but it’s a start. Artists seldom see an
 
 Paying artists more per stream is not a purely hypothetical question. There are platforms already at the cent per play mark — or higher. [Resonate](resonate.is) is a cooperative founded in 2015. Its ‘stream2own’ model doubles the amount paid to artists each time a song is played until on the ninth play the listener owns it. That way the artist receives just over a dollar per song, roughly equivalent to an iTunes single download. Stream an album enough times and you effectively ‘buy’ it.
 
-![Chart showing Resonate's 'stream2own' model for music streaming royalty payment](article-images/streaming-minimum-wage-resonate-model.png "Chart showing Resonate's 'stream2own' model for music streaming royalty payment")
+![Chart showing Resonate's 'stream2own' model for music streaming royalty payment](article-images/streaming-minimum-wage-resonate-stream2own-chart.png "Chart showing Resonate's 'stream2own' model for music streaming royalty payment")
 
 Resonate founder Peter Harris started the platform with the intent of bypassing music label/tech company stranglehold, putting money directly into artist’s pockets. ‘The prevailing streaming rates were somewhat arbitrarily set by agreement between various tech companies and the major music labels,’ he says, ‘which negotiated from their position as owners of massive catalogs, not as mediators for individual artists.’
 
