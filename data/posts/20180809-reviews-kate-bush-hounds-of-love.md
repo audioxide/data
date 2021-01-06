@@ -15,6 +15,8 @@ tags:
   - david bowie
   - michael jackson
 featuredimage: album-artwork/hounds-of-love-kate-bush.jpg
+artworkCredit: was shot by her brother, John Carder Bush. The hounds in question are Weimaraners. They were very energetic. John Bush recalls that, ‘For them to be involved in something as serious as a photo session for an album cover was far too exciting, and it took a long time and a lot of patience from us before they calmed down enough for the photos.’ He knew the photographs would work as he was taking them. ‘You always hope, but sometimes you actually know.’
+artworkCreditSource: https://books.google.co.uk/books?id=FLVKCAAAQBAJ
 artist: Kate Bush
 album: Hounds of Love
 essentialtracks:
