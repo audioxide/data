@@ -1,0 +1,57 @@
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Site preview
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - name: Checkout data
+    - uses: actions/checkout@v2
+      with:
+        path: data
+    - name: Checkout website
+      uses: actions/checkout@v2
+      with:
+        repository: audioxide/website
+        path: website   
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: yarn
+      working-directory: data
+    - run: yarn build
+      working-directory: data
+      env:
+        SITE_URL: https://data-preview-$GITHUB_HEAD_REF--clever-murdock-f2e04c.netlify.app
+        API_URL: https://data-preview-$GITHUB_HEAD_REF--wizardly-payne-3612b7.netlify.app
+    - run: npx netlify deploy --alias data-preview-$GITHUB_HEAD_REF
+      working-directory: data
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.API_NETLIFY_SITE_ID }}
+    - run: yarn
+      working-directory: website
+    - run: yarn build
+      working-directory: website
+      env:
+        SITE_URL: https://data-preview-$GITHUB_HEAD_REF--clever-murdock-f2e04c.netlify.app
+        EXT_API_URL: https://data-preview-$GITHUB_HEAD_REF--wizardly-payne-3612b7.netlify.app
+    - run: npx netlify deploy --alias data-preview-$GITHUB_HEAD_REF
+      working-directory: website
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.WEB_NETLIFY_SITE_ID }}
