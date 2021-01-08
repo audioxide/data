@@ -9,14 +9,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [12.x, 14.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
     - name: Checkout data
       uses: actions/checkout@v2
@@ -27,12 +20,14 @@ jobs:
       with:
         repository: audioxide/website
         path: website   
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js 14
       uses: actions/setup-node@v1
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: 14
     - run: yarn
       working-directory: data
+      env:
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: yarn build
       working-directory: data
       env:
@@ -45,6 +40,8 @@ jobs:
         NETLIFY_SITE_ID: ${{ secrets.API_NETLIFY_SITE_ID }}
     - run: yarn
       working-directory: website
+      env:
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: yarn build
       working-directory: website
       env:
