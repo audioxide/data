@@ -11,7 +11,7 @@ tags:
   - art pop
   - electronic
 featuredimage: album-artwork/homogenic-bjork.jpg
-artworkCredit: shows Bjork wearing a kimono made by British fashion designer Alexander McQueen. It was a custom project in response to Bjork's request for an outfit befitting someone who ‘had to become a warrior. A warrior who had to fight not with weapons, but with love.’ 
+artworkCredit: shows Bjork wearing a kimono made by British fashion designer Alexander McQueen. It was a custom project in response to Björk's request for an outfit befitting someone who ‘had to become a warrior. A warrior who had to fight not with weapons, but with love.’ 
 artworkCreditSource: https://www.theguardian.com/music/gallery/2015/jan/22/bjorks-album-artwork-in-pictures-vulnicura-biophilia
 artist: Björk
 album: Homogenic
