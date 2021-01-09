@@ -36,7 +36,13 @@ jobs:
     - run: yarn
       working-directory: website
       env:
-        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}  
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
+    - run: sed -i "s|export SITE_URL=\$URL && export EXT_API_URL=\$PROD_API_URL && [^&]*&& ||g" netlify.toml
+      working-directory: website
+    - run: sed -i \"s|SITE_URL|${SITE_URL}|g\" netlify.toml
+      working-directory: website
+      env:
+        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
     - run: npx netlify deploy --build --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: website
       env:
