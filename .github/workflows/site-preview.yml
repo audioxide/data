@@ -47,7 +47,7 @@ jobs:
       working-directory: website
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-    - run: yarn build
+    - run: yarn generate
       working-directory: website
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
