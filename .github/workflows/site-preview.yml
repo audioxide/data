@@ -25,43 +25,21 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 14
-    - run: yarn
-      working-directory: data
-      env:
-        GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - run: yarn build
+    - run: npx netlify deploy --build --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: data
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
         API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
-    - run: npx netlify deploy --alias data-preview-$CI_HEAD_REF_SLUG
-      working-directory: data
-      env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.API_NETLIFY_SITE_ID }}
-    - run: yarn
-      working-directory: website
-      env:
-        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-    - run: yarn setup
-      working-directory: website
-      env:
-        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
-        EXT_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
-        API_URL: ${{ env.SITE_URL }}/api
-        SEARCH_URL: ${{ env.EXT_API_URL }}/search
-    - run: yarn generate
-      working-directory: website
-      env:
-        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
-        EXT_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
-        API_URL: ${{ env.SITE_URL }}/api
-        SEARCH_URL: ${{ env.EXT_API_URL }}/search
     - run: npx netlify deploy --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: website
       env:
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
+        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        EXT_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
+        API_URL: ${{ env.SITE_URL }}/api
+        SEARCH_URL: ${{ env.EXT_API_URL }}/search
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.WEB_NETLIFY_SITE_ID }}
