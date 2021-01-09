@@ -11,6 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - uses: Actions-R-Us/default-env@v1
     - name: Checkout data
       uses: actions/checkout@v2
       with:
