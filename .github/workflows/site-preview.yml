@@ -11,6 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - uses: FranzDiebold/github-env-vars-action@v2
     - name: Checkout data
       uses: actions/checkout@v2
       with:
@@ -31,11 +32,10 @@ jobs:
     - run: yarn build
       working-directory: data
       env:
-        GITHUB_HEAD_REF: $GITHUB_HEAD_REF  
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SITE_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--clever-murdock-f2e04c.netlify.app
-        API_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--wizardly-payne-3612b7.netlify.app
-    - run: npx netlify deploy --alias data-preview-$GITHUB_HEAD_REF
+        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
+    - run: npx netlify deploy --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: data
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
@@ -53,9 +53,9 @@ jobs:
       env:
         GITHUB_HEAD_REF: $GITHUB_HEAD_REF
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-        SITE_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--clever-murdock-f2e04c.netlify.app
-        EXT_API_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--wizardly-payne-3612b7.netlify.app
-    - run: npx netlify deploy --alias data-preview-$GITHUB_HEAD_REF
+        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        EXT_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
+    - run: npx netlify deploy --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: website
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
