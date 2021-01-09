@@ -37,7 +37,7 @@ jobs:
       working-directory: website
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-    - run: sed -i "s|export SITE_URL=\$URL && export EXT_API_URL=\$PROD_API_URL && [^&]*&& ||g" netlify.toml
+    - run: sed -i "s|export SITE_URL=\$URL && export EXT_API_URL=\$PROD_API_URL && [^&]*&& export API_URL=\$SITE_URL/api && ||g" netlify.toml
       working-directory: website
     - run: sed -i "s|SITE_URL|${SITE_URL}|g" netlify.toml
       working-directory: website
@@ -48,6 +48,7 @@ jobs:
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
         SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app/api
         EXT_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.WEB_NETLIFY_SITE_ID }}
