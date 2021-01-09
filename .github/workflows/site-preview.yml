@@ -41,9 +41,9 @@ jobs:
       working-directory: website
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-        SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
-        EXT_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
-        API_URL: ${{ env.SITE_URL }}/api
-        SEARCH_URL: ${{ env.EXT_API_URL }}/search
+        URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        DEPLOY_PRIME_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        PROD_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
+        DP_API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.WEB_NETLIFY_SITE_ID }}
