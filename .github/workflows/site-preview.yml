@@ -33,6 +33,10 @@ jobs:
         API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.API_NETLIFY_SITE_ID }}
+    - run: yarn
+      working-directory: website
+      env:
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}  
     - run: npx netlify deploy --build --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: website
       env:
