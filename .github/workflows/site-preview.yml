@@ -11,7 +11,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: Actions-R-Us/default-env@v1
     - name: Checkout data
       uses: actions/checkout@v2
       with:
@@ -32,6 +31,7 @@ jobs:
     - run: yarn build
       working-directory: data
       env:
+        GITHUB_HEAD_REF: $GITHUB_HEAD_REF  
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SITE_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--clever-murdock-f2e04c.netlify.app
         API_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--wizardly-payne-3612b7.netlify.app
@@ -51,6 +51,7 @@ jobs:
     - run: yarn generate
       working-directory: website
       env:
+        GITHUB_HEAD_REF: $GITHUB_HEAD_REF
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
         SITE_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--clever-murdock-f2e04c.netlify.app
         EXT_API_URL: https://data-preview-${{ env.GITHUB_HEAD_REF }}--wizardly-payne-3612b7.netlify.app
