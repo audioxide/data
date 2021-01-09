@@ -32,8 +32,8 @@ jobs:
       working-directory: data
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SITE_URL: https://data-preview-$GITHUB_HEAD_REF--clever-murdock-f2e04c.netlify.app
-        API_URL: https://data-preview-$GITHUB_HEAD_REF--wizardly-payne-3612b7.netlify.app
+        SITE_URL: https://data-preview-${{ GITHUB_HEAD_REF }}--clever-murdock-f2e04c.netlify.app
+        API_URL: https://data-preview-${{ GITHUB_HEAD_REF }}--wizardly-payne-3612b7.netlify.app
     - run: npx netlify deploy --alias data-preview-$GITHUB_HEAD_REF
       working-directory: data
       env:
@@ -51,8 +51,8 @@ jobs:
       working-directory: website
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.REGISTRY_RETRIEVAL_TOKEN }}
-        SITE_URL: https://data-preview-$GITHUB_HEAD_REF--clever-murdock-f2e04c.netlify.app
-        EXT_API_URL: https://data-preview-$GITHUB_HEAD_REF--wizardly-payne-3612b7.netlify.app
+        SITE_URL: https://data-preview-${{ GITHUB_HEAD_REF }}--clever-murdock-f2e04c.netlify.app
+        EXT_API_URL: https://data-preview-${{ GITHUB_HEAD_REF }}--wizardly-payne-3612b7.netlify.app
     - run: npx netlify deploy --alias data-preview-$GITHUB_HEAD_REF
       working-directory: website
       env:
