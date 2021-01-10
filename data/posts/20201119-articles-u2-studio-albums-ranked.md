@@ -15,7 +15,7 @@ tags:
 featuredimage: article-images/u2-studio-albums-ranked.jpg
 featuredimageAlt: Photograph from the album cover of 'The Joshua Tree' by U2
 title: "How to Dismantle a Frontloaded Discography: U2&#8217;s studio albums ranked"
-summary: U2’s music feels larger than life, and although their bombastic sound will always turn some listeners away there is no denying the lasting impact of their finest records 
+summary: U2’s music often feels larger than life. Although their bombastic sound will always turn some listeners away, there is no denying the lasting impact of their finest records 
 author: 
   - andre
   - fred
