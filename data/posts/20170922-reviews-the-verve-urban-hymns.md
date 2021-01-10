@@ -33,7 +33,10 @@ week: 116
 blurb: An overwhelming, but vastly enjoyable experience — the essential Verve record. Richard Ashcroft set out to make history, and with Urban Hymns he did so.
 artistMBID: d4d17620-fd97-4574-92a8-a2cb7e72ce42
 albumMBID: 3dd0c8e4-af53-3605-9c20-f27c7635fb60
+artistLink: https://www.merchbar.com/rock-alternative/verve
+
 ---
+
 author: ANDRÉ
 
 review: >-

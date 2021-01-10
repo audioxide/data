@@ -33,7 +33,10 @@ week: 90
 blurb:
 artistMBID: 1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e
 albumMBID: ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f
+artistLink: https://www.merchbar.com/r-b-hiphop-rap/stevie-wonder
+
 ---
+
 author: ANDRÉ
 
 review: >-
