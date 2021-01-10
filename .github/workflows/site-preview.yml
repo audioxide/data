@@ -81,3 +81,4 @@ jobs:
     - uses: mshick/add-pr-comment@v1
       with:
         message: Preview this PR at https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
