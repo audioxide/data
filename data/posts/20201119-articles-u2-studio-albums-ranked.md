@@ -121,7 +121,8 @@ Of course, it isn’t without merit. “Desire”, their first #1 single, is an 
 
 My history with *How to Dismantle an Atomic Bomb* will influence what’s written here. Released just before my 11th birthday, it received regular rotation in my family home and its singles dominated the charts just as I prepared to leave primary school. All of this meant that it became the soundtrack to my first realisation that not only did life have chapters, but that the first major chapter of my life was ending. It was a lot to take in at the time, so forgive me if I still feel something twinge when “City of Blinding Lights” winds up.
 
-With hindsight, it’s hard to ignore the distracting influence of post-Britpop’s biggest names upon proceedings here. [Coldplay](/reviews/coldplay-parachutes/), Keane, Snow Patrol, even Athlete (who toured with U2 during this album’s cycle) – they each get a look in at various stages. The heavily strained and emotive vocals from Bono that persist throughout; the glitzy sheen applied to everything in the mix; the pivot away from more experimental flavours and towards those adopted by their aforementioned pop rock contemporaries. It all makes for something that’s listenable and occasionally reminiscent of the band’s heyday, but frustratingly uninspired and occasionally quite bland.
+With hindsight, it’s hard to ignore the distracting influence of post-Britpop’s biggest names upon proceedings here. [Coldplay](/reviews/coldplay-parachutes/), Keane, Snow Patrol, even Athlete (who toured with U2 during this album’s cycle) – they each get a look in at various stages. The heavily strained and emotive vocals from Bono that persist throughout; the glitzy sheen applied to everything in the mix; the pivot away from more experimental flavours and towards those adopted by their aforementioned pop rock contemporaries. It all makes for something that’s listenable and occasionally reminiscent of the band’s heyday, but frustratingly un
+and occasionally quite bland.
 
 I’ve always been a sucker for the singles this album spawned, purely for the memories I have attached to them. “Vertigo” is just about the best you can get from a guy so willingly smelling his own farts; “Sometimes You Can’t Make It On Your Own”, which recounts the death of Bono’s father, is a genuinely affecting ballad; “City of Blinding Lights” is the show-stopper, reading from the hymn sheet that made *X&Y* such a worldwide success but still retaining the production touches that gives it an individual identity. Still, they’re only an indication towards what could have been. *Atomic Bomb* is hardly a death knell for the band, but this was the last time they would command such sway with the public – and for good reason.
 
@@ -193,7 +194,7 @@ The best compliment I can pay *Pop* is that it scratches an itch the band’s ot
 
 **André**
 
-U2 had their sights set high from the very beginning. While only offering a fraction of the scope that we have now come to expect from the band, their 1980 debut album *Boy* still contains some of the hallmarks that U2 are known for today. Most notably, Larry Mullen Jr’s arena-rock drumming and Bono’s rousing wails. Such elements are fused together by the urgency of post-punk, and the aesthetic of new wave. As a result, *Boy* remains a distinctive listen. Though U2 have released far more ambitious albums since, their debut continues to stand out as one of their most inspired releases in the entire discography.
+U2 had their sights set high from the very beginning. While only offering a fraction of the scope that we have now come to expect from the band, their 1980 debut album *Boy* still contains some of the hallmarks that U2 are known for today. Most notably, Larry Mullen Jr’s arena-rock drumming and Bono’s rousing wails. Such elements are fused together by the urgency of post-punk, and the aesthetic of new wave. As a result, *Boy* remains a distinctive listen. Though U2 have released far more ambitious albums since, their debut continues to stand out as one of their most inspired releases in their entire discography.
 
 Opening track “I Will Follow” encapsulates everything that makes the record such a riveting listen: immediate, captivating, and out-right addictive. The Edge has never been the most elaborate guitarist, but there’s a sense of simplicity here that offers a finishing touch to the album’s best songs. There are flashes of what was to come – particularly the echoed jangles that induce trademark U2 atmospheres – but it often sounds like the band are playing without the guitarist we now recognize as The Edge. There’s a real charm to this disparity.
 
@@ -224,7 +225,7 @@ Of course, this first step onto a new frontier does not come without teething pr
 
 **André**
 
-In many ways, *War* was the first album from U2. To this day it remains one of their greatest achievements. Though they went on to record projects with bigger scopes and ambitions, the band never sounded as sincere and passionate as they do their third studio album. “Sunday Bloody Sunday” is a hell of a way to open any album: a stirring protest song with distinct musical passages, and a huge indication of what was to come. 
+In many ways, *War* was the first album from U2 as we recognise them today. To this day it remains one of their greatest achievements. Though they went on to record projects with bigger scopes and ambitions, the band never sounded as sincere and passionate as they do their third studio album. “Sunday Bloody Sunday” is a hell of a way to open any album: a stirring protest song with distinct musical passages, and a huge indication of what was to come. 
 
 With its militaristic drumbeat and potent lyrical content that borrows from religious texts, U2 had constructed the ultimate political post-punk anthem. It remains one of their signature songs, having been played live almost 1000 times since its release. “New Year’s Day” was the band’s first no.1 in the UK, and though Bono was quick to dismiss it as a ‘pop single’ there’s no denying its charm. A song was inspired by something as poignant as the Polish Solidarity movement, yet remained so extremely catchy and infectious. This paradoxical balance was a significant reason for U2’s colossal success. It was on *War* where Bono unleashed one of his most powerful assets: making universal struggles sound personal and intimate.
 
@@ -247,6 +248,8 @@ There’s a romance to *The Joshua Tree* that no other U2 record quite manages. 
 *The Joshua Tree* is U2 riding on the crest of their own sound. It’s the moment everything really came together. Bono plays ringmaster with a control lacking in earlier releases, while The Edge at times feels unstoppable. (Special mention to the guitar on “Bullet the Blue Sky”. Good lawd.) It’s a wonderful ride, as much a part of American travelling folklore as Jack Kerouac’s *On the Road* or Ernie Pyle’s *Home Country*.
 
 The fact the band came crashing down afterward with the truly awful *Rattle and Hum* is neither here nor there. For a moment in time four boys from Dublin drank in the American horizon and wrote music worthy of both its grandeur and its self-importance. After that, where else was there to go but down?
+
+[**Read our full review of _The Joshua Tree_**](/reviews/u2-the-joshua-tree/) →
 
 -----
 
