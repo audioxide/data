@@ -47,7 +47,7 @@ jobs:
         # An explicit key for restoring and saving the cache
         key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
     # Hack away at the config to remove hard coded environment variables
-    - run: sed -i ""s|^\s*environment.*$||g"" netlify.toml
+    - run: sed -i "s|^\s*environment.*$||g" netlify.toml
       working-directory: data
     # Build and deploy the data repo
     - run: npx netlify deploy --build --alias data-preview-$CI_HEAD_REF_SLUG
