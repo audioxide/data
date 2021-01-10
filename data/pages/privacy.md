@@ -1,5 +1,6 @@
 ---
 created: 2020-11-15
+blurb: We care about your privacy. No really. Here is all the nefarious stuff Audioxide doesn't (and will never) do with visitors' data.
 ---
 
 We care about your privacy. No really, we do. The site does not track visitors, record sessions, send your data to Facebook, or do any other seedy stuff like that. Don't take our word for it either. Run us through [Blacklight](https://themarkup.org/blacklight?url=audioxide.com) to see all the nefarious stuff we don't (and will never) do. 

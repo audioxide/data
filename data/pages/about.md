@@ -1,5 +1,6 @@
 ---
 created: 2016-05-09T16:15:47.000Z
+blurb: Audioxide is three friends - André Dack, Frederick O’Brien, and Andrew Bridge - reviewing an album a week. At a stretch you could call it a music webzine.
 ---
 
 *Audioxide* is three friends — [André Dack](https://twitter.com/andredack), [Frederick O’Brien](https://frederickobrien.com), and [Andrew Bridge](https://www.andrewhbridge.co.uk) — reviewing an album a week. That’s how it started and that’s more or less what it remains, though if we’re in a self-important mood we may try to convince you it’s a music webzine.
