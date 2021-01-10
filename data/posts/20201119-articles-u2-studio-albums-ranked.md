@@ -56,7 +56,11 @@ To long-time fans: we’re sorry for getting it wrong.
 
 **Rob**
 
+<div class="gif-container">
+
 <div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/3orifajlYAbWQV04EM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+</div>
 
 -----
 
