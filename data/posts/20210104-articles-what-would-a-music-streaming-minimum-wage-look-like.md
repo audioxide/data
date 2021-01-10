@@ -44,15 +44,11 @@ Putting aside the fuckery of record labels taking the lion’s share of many art
 
 Let’s do some quick calculations to see what that might mean in real terms. Though Spotify does not show users play statistics, it does show monthly listeners. Let’s say on average each listener plays ten songs per year and see what that translates to. (Fully appreciate these are back-of-the-envelope calculations and they should be treated as such. If more concrete data was available I’d use it.)
 
-<div class="table-container">
-
 |                   | **Members** | **Annual Spotify listeners** | **Annual royalties at $0.00348** | **Annual royalties at $0.01** |
 |-------------------|-------------|------------------------------|----------------------------------|-------------------------------|
 | **David Crosby**  | One         | 3,039,636[^*]                | $10,577.93                       | $30,396.36                    |
 | **Wolf Alice**    | Four        | 16,012,020                   | $55,721.83                       | $160,120.20                   |
 | **Beak>**         | Three       | 1,097,950                    | $3,820.87                        | $10,979.50                    |
-
-</div>
 
 [^*]: This is to say nothing of projects like Crosby, Stills, Nash & Young
 
