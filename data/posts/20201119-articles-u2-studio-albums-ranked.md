@@ -1,6 +1,6 @@
 ---
-created: 2020-11-19T14:30:50.000Z
-modified: 2020-11-19T14:30:50.000Z
+created: 2021-01-11T09:00:00.000Z
+modified: 2021-01-11T09:00:00.000Z
 slug: u2-studio-albums-ranked
 type: articles
 tags:
@@ -15,11 +15,12 @@ tags:
 featuredimage: article-images/u2-studio-albums-ranked.jpg
 featuredimageAlt: Photograph from the album cover of 'The Joshua Tree' by U2
 title: "How to Dismantle a Frontloaded Discography: U2&#8217;s studio albums ranked"
+summary: U2’s music feels larger than life, and although their bombastic sound will always turn some listeners away there is no denying the lasting impact of their finest records 
 author: 
   - andre
   - fred
   - rob-wilson
-blurb: Our journey had its ups and downs but we feel confident of where we ended up. Which is just as well, because we're never putting ourselves through this again.
+blurb: Our journey had its ups and downs but we feel confident of where we ended up. Which is just as well, because we’re never putting ourselves through this again.
 artistMBID: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
 albumMBID:
   - 53b0d89e-f856-3015-a3a6-a70e1e935fd6 ## Boy
@@ -39,13 +40,13 @@ albumMBID:
 
 ---
 
-Writing about U2 is possibly the most uncool thing you can do on the internet in 2020. However, we feel it's important to remember there was a time - albeit some years ago - when they were releasing excellent music. Not just the biggest band in the world, but one of the very best. U2's music feels larger than life, and although their bombastic sound will always turn some listeners away, there is no denying the lasting impact of their finest records.
+Writing about U2 is possibly the most uncool thing you can do on the internet in 2021. However, we feel it's important to remember there was a time - albeit some years ago - when they were releasing excellent music. Not just the biggest band in the world, but one of the very best.
 
-So, what is the best U2 album? To find out, we delved head-first into the band's entire discography, from the early post-punk days of *Boy* right through to the painfully mundane *Songs of Innocence* and *Experience*. Our journey had its ups and downs, to say the least, but we feel confident of where we ended up. Which is just as well, because we're never putting ourselves through this again.
+So, what is the best U2 album? To find out, we delved head-first into the band’s entire discography, from the early post-punk days of *Boy* right through to the painfully mundane *Songs of Innocence* and *Experience*. Our journey had its ups and downs, to say the least, but we feel confident of where we ended up. Which is just as well, because we’re never putting ourselves through this again.
 
 To those looking to find an entry point into U2: you can probably skip the first half of the list.
 
-To long-time fans: we're sorry for getting it wrong.
+To long-time fans: we’re sorry for getting it wrong.
 
 -----
 
@@ -84,7 +85,7 @@ On the echoing green.’<br>
 
 **André**
 
-*No Line on the Horizon* doesn’t start off too badly. In fact, the opening few tracks are pretty damn good. Although the title track does feature the typical ‘WOAHHH’s that Bono has been wailing out for decades, its sense of progression and climax is extremely satisfying. It's a slight hark back to the days of *The Unforgettable Fire*, which seemed inevitable with Eno and Lanois back on production duties.
+*No Line on the Horizon* doesn’t start off too badly. In fact, the opening few tracks are pretty damn good. Although the title track does feature the typical ‘WOAHHH’s that Bono has been wailing out for decades, its sense of progression and climax is extremely satisfying. It’s a slight hark back to the days of *The Unforgettable Fire*, which seemed inevitable with Eno and Lanois back on production duties.
 
 Though “Magnificent” is more patient in its approach, it gradually evolves into another weighty chorus of trademark chimes and chants. For a moment it seemed like the band had found a new lease of life: they hadn’t moved into uncharted territory, but instead recaptured what once made them a worldwide sensation. Still unmistakeably U2, but more compelling and less trite than *Atomic Bomb*. It served as further proof that these gents have an undeniable knack for grandiose arena anthems. If there was ever any doubt.
 
@@ -146,7 +147,7 @@ I suppose the record just lacks those tentpole hits. Christian modesty only gets
 
 I’ve often cited [Muse](/reviews/muse-origin-of-symmetry/) as the first band I truly loved, and I think U2 (with this album in particular) had a part to play in that. To this day I still have a soft spot for tasteful arena rock. I guess I get a kick out of the extravagance. There’s always a degree of grandiose nonsense, of course: perfectly epitomised by the unfortunate trend of middle-aged white men thinking they can pull off R&B. “In A Little While” is one such moment. Alas, it’s simply best to look past it.
 
-All that being said, *ATYCLB* is actually one of U2’s most low-key records. It's nowhere near as vast as *The Joshua Tree*, and certainly not as daring as any of the ’90s releases. Following the anthemic opening portion of the record (it’s still U2, after all) the band steadily dial things down a notch, and the result is quite satisfying. “Kite” stands high as one of my favourite U2 tracks of the 21st century. Though slightly formulaic, it features some of Bono’s most heartfelt and genuine lyrical passages, set over a gorgeous musical backdrop. It’s a reflection of Bono’s relationship with his father, who had been diagnosed with terminal cancer: ‘I’m a man, I’m not a child/a man who sees the shadow behind your eyes.’
+All that being said, *ATYCLB* is actually one of U2’s most low-key records. It’s nowhere near as vast as *The Joshua Tree*, and certainly not as daring as any of the ’90s releases. Following the anthemic opening portion of the record (it’s still U2, after all) the band steadily dial things down a notch, and the result is quite satisfying. “Kite” stands high as one of my favourite U2 tracks of the 21st century. Though slightly formulaic, it features some of Bono’s most heartfelt and genuine lyrical passages, set over a gorgeous musical backdrop. It’s a reflection of Bono’s relationship with his father, who had been diagnosed with terminal cancer: ‘I’m a man, I’m not a child/a man who sees the shadow behind your eyes.’
 
 It’s this level of sincerity that is sorely missing from most of U2’s music following *ATYCLB*. Indeed, this is perhaps the most tender album in their entire discography. It’s far from cutting-edge, but undeniably thoughtful, and generally well constructed. Despite lacking in excitement, *ATYCLB* is comfortably U2’s greatest effort of the 2000s.
 
@@ -194,7 +195,7 @@ Opening track “I Will Follow” encapsulates everything that makes the record 
 
 One of the most compelling aspects of *Boy* is its youthful enthusiasm. With an average age of 21, the band sound innocent, romantic, and even slightly confused, but this results in a deeply honest work. Despite the rally cries, there’s very little sense of grandeur. Bono’s declaration of ‘I started a landslide in my ego’ on “A Day Without Me” would probably be interpreted very differently if released today. The band exude a sense of self-belief that give these songs the necessary driving force, without them sounding pretentious or preachy. They were dreaming of the big-time, but having fun in the process. *Boy* is arguably the band’s most danceable album prior to the experimentation we saw in the 90s.
 
-At its best, U2 sound like a rockier and more soulful version of Joy Division. Steve Lilywhite’s production is a vital part of this process; combining the band’s take on post-punk with ambiguous ambience. Altogether, it’s a surprisingly accomplished debut album in spite of the band’s obvious state of adolescence. It’s not entirely consistent from start to finish, but it makes up for it in sheer spirit. *Boy* stands strong as one of U2's most exciting records.
+At its best, U2 sound like a rockier and more soulful version of Joy Division. Steve Lilywhite’s production is a vital part of this process; combining the band’s take on post-punk with ambiguous ambience. Altogether, it’s a surprisingly accomplished debut album in spite of the band’s obvious state of adolescence. It’s not entirely consistent from start to finish, but it makes up for it in sheer spirit. *Boy* stands strong as one of U2’s most exciting records.
 
 -----
 
