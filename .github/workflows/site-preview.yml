@@ -46,6 +46,9 @@ jobs:
           website/node_modules
         # An explicit key for restoring and saving the cache
         key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+    # Hack away at the config to remove hard coded environment variables
+    - run: sed -i ""s|^\s*environment.*$||g"" netlify.toml
+      working-directory: data
     # Build and deploy the data repo
     - run: npx netlify deploy --build --alias data-preview-$CI_HEAD_REF_SLUG
       working-directory: data
@@ -53,7 +56,7 @@ jobs:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the repo specific token
         # Concatenate branch specific URLs
         SITE_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app
-        API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--wizardly-payne-3612b7.netlify.app
+        API_URL: https://data-preview-${{ env.CI_HEAD_REF_SLUG }}--clever-murdock-f2e04c.netlify.app/api
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.API_NETLIFY_SITE_ID }}
     - run: yarn
