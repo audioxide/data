@@ -11,8 +11,8 @@
   "license": "CC-BY-NC-ND-4.0",
   "private": false,
   "scripts": {
-    "build": "processAudioxideData",
-    "dev": "yarn && processAudioxideData && npx http-server dist -p 8888 --cors -c-1"
+    "build": "node --unhandled-rejections=strict ./node_modules/.bin/processAudioxideData",
+    "dev": "yarn && node --unhandled-rejections=strict ./node_modules/.bin/processAudioxideData && npx http-server dist -p 8888 --cors -c-1"
   },
   "dependencies": {
     "flexsearch": "^0.6.32",
