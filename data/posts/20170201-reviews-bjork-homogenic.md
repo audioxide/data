@@ -11,6 +11,8 @@ tags:
   - art pop
   - electronic
 featuredimage: album-artwork/homogenic-bjork.jpg
+artworkCredit: shows the Icelandic singer-songwriter wearing a kimono made by British fashion designer Alexander McQueen. It was a custom project, with Björk asking for an outfit befitting ‘a warrior who had to fight not with weapons, but with love.’
+artworkCreditSource: https://www.theguardian.com/music/gallery/2015/jan/22/bjorks-album-artwork-in-pictures-vulnicura-biophilia
 artist: Björk
 album: Homogenic
 essentialtracks:
@@ -27,9 +29,9 @@ colours:
   - "#f7f8fc"
   - "#ccdfe6"
 pullquote: A stunning work
-summary: Björk has not stopped searching, reinventing herself; and if this unending hunt is the driving force behind her art, Homogenic can be understood as the point at which she realised this – declaring herself 'The Hunter' – and the nadir of her brilliant work.
+summary: Björk has not stopped searching, reinventing herself; and if this unending hunt is the driving force behind her art, Homogenic can be understood as the point at which she realised this – declaring herself ‘The Hunter’ – and the nadir of her brilliant work.
 week: 83
-blurb: Homogenic is a stunning work. Björk often defies categorisation, but her third studio album has a coherence that's often missing from her other records.
+blurb: Homogenic is a stunning work. Björk often defies categorisation, but her third studio album has a coherence that’s often missing from her other records.
 artistMBID: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
 albumMBID: 810272e0-aef1-3d85-b2d3-e512e87fc38c
 artistLink: https://shop.bjork.com/
@@ -39,7 +41,7 @@ artistLink: https://shop.bjork.com/
 author: ANDRÉ
 
 review: >-
-  *Homogenic* is, quite simply, a stunning work. The music of Björk, who is righty credited as one of the most creative and unique artists of the past few decades, can often defy categorisation, but there is little doubt that her third studio album benefits from a coherence that has often been missing from the majority of her other records. 
+  *Homogenic* is, quite simply, a stunning work. The music of Björk, who is righty credited as one of the most creative and unique artists of the past few decades, can often defy categorisation, but there is little doubt that her third studio album benefits from a coherence that has often been missing from the majority of her other records.
   
   Each arrangement on *Homogenic* is masterful in its own right, crafted from the consequence of an intriguing conflict between human and artificial elements. Abstract beats are fused exquisitely with lush, cinematic strings, and it sounds simultaneously perverse and beautiful. For the most part, *Homogenic* hasn’t aged a single year: the beats sound as crisp and imaginative now as they ever have, and the fascinating blend of IDM and baroque music remains unique even today. It certainly does not sound like a 1997 record, nor does it sound like one from 2017, such is its mystical quality. Indeed, *Homogenic* seems practically otherworldly, as if it could have been fashioned by anyone, of any race, of any time.
 
