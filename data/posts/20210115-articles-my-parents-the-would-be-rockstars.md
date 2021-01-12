@@ -5,8 +5,8 @@ slug: my-parents-the-would-be-rockstars
 type: articles
 tags:
   - spotify
-featuredimage: article-images/streaming-minimum-wage-spotify-meat-grinder.jpg
-featuredimageAlt: Artwork of Spotify as a musical meat grinder
+featuredimage: article-images/dr-rob-and-the-radi8ors-dublin-castle.jpg
+featuredimageAlt: Dr Rob & the Radi8ors performing at the Dublin Castle in London
 title: My parents the would-be rockstars
 summary: Artists aren’t working for pennies any more - they’re working for fractions of fractions of pennies, and pressure is growing for systemic changes to the music industry meat grinder
 author: fred
@@ -15,8 +15,8 @@ blurb: Business is booming for streaming services, but not for the musicians who
 ---
 
 <figure class="wide">
-  <img src="article-images/streaming-minimum-wage-spotify-meat-grinder.jpg" alt="Abstract artwork depicting Spotify as a musical meat grinder" />
-  <figcaption>Image by the author</figcaption>
+  <img src="article-images/dr-rob-and-the-radi8ors-dublin-castle.jpg" alt="Dr Rob & the Radi8ors performing at the Dublin Castle in London" />
+  <figcaption>Photograph by <a href="https://stephenswain.com/">Stephen Swain</a></figcaption>
 </figure>
 
 Text
