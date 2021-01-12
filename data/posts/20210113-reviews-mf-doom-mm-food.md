@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.66666667
 colours:
-  - "#000000"
-  - "#d1c6db"
-  - "#d1c6db"
+  - "#a84945"
+  - "#ecdfcc"
+  - "#ecdfcc"
 pullquote: TBD
 summary: TBD
 week: 253
@@ -41,13 +41,13 @@ author: Andre
 review: >-
   MF DOOM was like no other. He was your favourite rapper’s favourite rapper. The news of his death felt like the knockout blow of 2020, a year most of us were already keen to forget. There’s no better way to mourn than cherishing the incredible music he gave us; from the youthful days of *KMD* to the mastery of *Madvillainy*. However, if there’s one record that truly signifies the craft, humour, and outlandish creativity MF DOOM possessed, it’s 2004’s *MM...FOOD*. It may not be the unequivocal classic that stamps his name in the history books, but for my money it’s the most fun and nourish project in his whole discography.
 
-  Everything about *MM...FOOD* feels effortless. MF DOOM doesn’t try too hard, in fact it feels like he’s barely trying at all. It’s pure, natural talent that cannot be taught, nor replicated. He defies the expectations of wordplay time and time again. The third verse of opening track “Beef Rap” is an exhilarating early example of his technique, as he brilliantly mocks the culture of beef rap within hip-hop: ‘to all rappers: shut up with your shutting up/and keep a shirt on, at least with a button up/yuck, is they rhymers or stripping males?/out of work jerks since they shut down Chippendales.’
+  Everything about *MM..FOOD* feels effortless. MF DOOM doesn’t try too hard, in fact it feels like he’s barely trying at all. It’s pure, natural talent that cannot be taught, nor replicated. He defies the expectations of wordplay time and time again. The third verse of opening track “Beef Rap” is an exhilarating early example of his technique, as he brilliantly mocks the culture of beef rap within hip-hop: ‘to all rappers: shut up with your shutting up/and keep a shirt on, at least with a button up/yuck, is they rhymers or stripping males?/out of work jerks since they shut down Chippendales.’
 
   I think most rappers knew better than to take on MF DOOM, simply because there’s no way they could have matched him for intricate wordplay. His casual delivery and calm demeanour was, and always will be, a welcome contrast to rappers who aim for as many rhymes per minute as possible. There’ll always be a place for songs like “Rap God”, if only for the novelty factor. Pair it up against “Vomitspit”, though, and it ironically feels like child’s play. In a way, MF DOOM was the Godfather of underground hip-hop.
 
-  When the wordplay is so sublime, it’s easy to forget MF DOOM’s other major skillset: production. The jazzy beats of *MM... FOOD* are comprised of joyful, humorous food samples that have a distinct ’90s feel to them. The instrumentals on “Hoe Cakes” and “Deep Fried Frenz” are delightful, and I will never get tired of the guitar loop on “Rapp Snitch Knishes” (I have had that song on repeat for quite literally hours on end). Truthfully, some of the skits scattered across the album leave me slightly fatigued, and it’s a relief when songs do re-enter. Perhaps that’s the point, and they certainly keep the album ticking along nicely, I just think the record would be no worse off without the middle interlude, where MF DOOM doesn’t feature (on vocals, at least) for almost 10 minutes.
+  When the wordplay is so sublime, it’s easy to forget MF DOOM’s other major skillset: production. The jazzy beats of *MM..FOOD* are comprised of joyful, humorous food samples that have a distinct ’90s feel to them. The instrumentals on “Hoe Cakes” and “Deep Fried Frenz” are delightful, and I will never get tired of the guitar loop on “Rapp Snitch Knishes” (I have had that song on repeat for quite literally hours on end). Truthfully, some of the skits scattered across the album leave me slightly fatigued, and it’s a relief when songs do re-enter. Perhaps that’s the point, and they certainly keep the album ticking along nicely, I just think the record would be no worse off without the middle interlude, where MF DOOM doesn’t feature (on vocals, at least) for almost 10 minutes.
 
-  A large part of my skepticism towards these instrumental interludes is purely because I love listening to MF DOOM rap. With every passing year, life finds further ways to test and challenge me. Music has always been there to bring me back from the depths, and there are very few things as thrilling and heartening than listening to MF DOOM in full flow. *MM...FOOD* may have its flaws, but for much of the time I couldn’t care less. It’s a go-to album for when I’m feeling low. It represents everything I adore about MF DOOM: the greatest supervillain of them all. When we grieve, we keep them alive. And supervillains never die.
+  A large part of my skepticism towards these instrumental interludes is purely because I love listening to MF DOOM rap. With every passing year, life finds further ways to test and challenge me. Music has always been there to bring me back from the depths, and there are very few things as thrilling and heartening than listening to MF DOOM in full flow. *MM..FOOD* may have its flaws, but for much of the time I couldn’t care less. It’s a go-to album for when I’m feeling low. It represents everything I adore about MF DOOM: the greatest supervillain of them all. When we grieve, we keep them alive. And supervillains never die.
 
 tracks:
   - Rapp Snitch Knishes
