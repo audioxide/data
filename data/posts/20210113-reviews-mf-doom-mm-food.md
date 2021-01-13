@@ -8,8 +8,9 @@ tags:
   - 2000s
   - mf doom
   - hip hop
+  - eminem
 featuredimage: album-artwork/mm-food-mf-doom.jpg
-artworkCredit: was painted by American artist Jason Jägel.
+artworkCredit: was painted by American artist Jason Jägel, who also did the “Hoe Cakes” single cover.
 artworkCreditSource: https://thehundreds.uk/blogs/content/jason-jagel-interview/
 artist: MF DOOM
 album: MM..FOOD
