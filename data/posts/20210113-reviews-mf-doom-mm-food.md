@@ -1,7 +1,7 @@
 ---
 
-created: 2021-01-13T12:47:15.000Z
-modified: 2021-01-13T12:47:15.000Z
+created: 2021-01-13T11:37:15.000Z
+modified: 2021-01-13T11:37:15.000Z
 slug: mf-doom-mm-food
 type: reviews
 tags:
@@ -13,23 +13,23 @@ artworkCredit: was painted by American artist Jason Jägel.
 artworkCreditSource: https://thehundreds.uk/blogs/content/jason-jagel-interview/
 artist: MF DOOM
 album: MM..FOOD
-essentialtracks:
-  - TBD 
+essentialtracks: ""
 favouritetracks:
-  - TBD
-  - TBD
+  - Rapp Snitch Knishes
+  - Potholderz
+  - One Beer
 totalscore:
-  given: 20
+  given: 25
   possible: 30
-  fraction: 0.66666667
+  fraction: 0.83333333
 colours:
   - "#a84945"
   - "#ecdfcc"
   - "#ecdfcc"
-pullquote: TBD
-summary: TBD
+pullquote: A master at work
+summary: Everything about MM..FOOD feels effortless. MF DOOM doesn’t try too hard - in fact it feels like he’s barely trying at all. It’s pure, natural talent that cannot be taught, nor replicated. He defies the expectations of wordplay time and time again.
 week: 253
-blurb: TBD
+blurb: Never does the record come off as grandiose or self-important; it’s just that good, and it’s just that much fun. Not a masterpiece, but a master at work.
 artistMBID: 188711ed-c99b-439c-844a-ca831f63a727
 albumMBID: ec84ab32-eb41-3d91-a099-7a01c72f21d2
 artistLink: https://gasdrawls.com/
@@ -39,9 +39,9 @@ artistLink: https://gasdrawls.com/
 author: Andre
 
 review: >-
-  MF DOOM was like no other. He was your favourite rapper’s favourite rapper. The news of his death felt like the knockout blow of 2020, a year most of us were already keen to forget. There’s no better way to mourn than cherishing the incredible music he gave us; from the youthful days of *KMD* to the mastery of *Madvillainy*. However, if there’s one record that truly signifies the craft, humour, and outlandish creativity MF DOOM possessed, it’s 2004’s *MM...FOOD*. It may not be the unequivocal classic that stamps his name in the history books, but for my money it’s the most fun and nourish project in his whole discography.
+  MF DOOM was like no other. He was your favourite rapper’s favourite rapper. The news of his death felt like the knockout blow of 2020, a year most of us were already keen to forget. There’s no better way to mourn than cherishing the incredible music he gave us; from the youthful days of *KMD* to the mastery of *Madvillainy*. However, if there’s one record that truly signifies the craft, humour, and outlandish creativity MF DOOM possessed, it’s 2004’s *MM...FOOD*. It may not be the unequivocal classic that stamps his name in the history books, but for my money it’s the most fun and nourishing project in his whole discography.
 
-  Everything about *MM..FOOD* feels effortless. MF DOOM doesn’t try too hard, in fact it feels like he’s barely trying at all. It’s pure, natural talent that cannot be taught, nor replicated. He defies the expectations of wordplay time and time again. The third verse of opening track “Beef Rap” is an exhilarating early example of his technique, as he brilliantly mocks the culture of beef rap within hip-hop: ‘to all rappers: shut up with your shutting up/and keep a shirt on, at least with a button up/yuck, is they rhymers or stripping males?/out of work jerks since they shut down Chippendales.’
+  Everything about *MM..FOOD* feels effortless. MF DOOM doesn’t try too hard - in fact it feels like he’s barely trying at all. It’s pure, natural talent that cannot be taught, nor replicated. He defies the expectations of wordplay time and time again. The third verse of opening track “Beef Rap” is an exhilarating early example of his technique, as he brilliantly mocks the culture of beef rap within hip-hop: ‘to all rappers: shut up with your shutting up/and keep a shirt on, at least with a button up/yuck, is they rhymers or stripping males?/out of work jerks since they shut down Chippendales.’
 
   I think most rappers knew better than to take on MF DOOM, simply because there’s no way they could have matched him for intricate wordplay. His casual delivery and calm demeanour was, and always will be, a welcome contrast to rappers who aim for as many rhymes per minute as possible. There’ll always be a place for songs like “Rap God”, if only for the novelty factor. Pair it up against “Vomitspit”, though, and it ironically feels like child’s play. In a way, MF DOOM was the Godfather of underground hip-hop.
 
@@ -66,7 +66,7 @@ author: Fred
 review: >-
   Playful and stylish, with flows so smooth they border on indecent, *MM..FOOD* is hip hop on another plane. It’s a joy to listen to. MF DOOM’s wordplay and delivery have that weightlessness of peak performance, like [Muhammad Ali dancing circles around Cleveland Williams](https://www.youtube.com/watch?v=oJUzl0aFHZw), or [David Gilmour solos in Pompeii](https://www.youtube.com/watch?v=y-E7_VHLvkE). I can barely string together a ‘thanks, have a nice day’ at the supermarket and here’s DOOM with words tumbling out of him for minutes at a time with every single one fitting together like god made them specially for that purpose. It’s marvellous, and quite wonderful.
 
-  This display of talent is made all the better by the fact it’s presented with the technicolour kookiness of a Saturday morning cartoon. There are skits and samples aplenty - masterfully produced might I add - with the overall effect being of something effortlessly larger than life. Never does the record come off as grandiose or self-important; it’s just that good, and it’s just that much fun. Content to kick back in its own world, on its own terms, *MM..FOOD* comes across as a master at work rather than a masterpiece, and I’m grateful to have finally gotten acquainted.
+  This display of talent is made all the better by the fact it’s presented with the technicolour kookiness of a Saturday morning cartoon. There are skits and samples aplenty - masterfully produced might I add - with the overall effect being of something effortlessly larger than life. Never does the record come off as grandiose or self-important; it’s just that good, and it’s just that much fun. Content to kick back in its own world, on its own terms, *MM..FOOD* comes across like a master at work rather than a masterpiece, and I’m grateful to have finally gotten acquainted.
 
 tracks:
   - Vomitspit
@@ -83,14 +83,20 @@ score:
 author: Andrew
 
 review: >-
-  Text
+  *MM..FOOD* is one of those albums I can enjoy in back to back (to back) listens. By the time I find myself in the cartoon mania of the closing moments of “Kookies”, I’m left wanting more, and from there it’s very easy to end up back in the middle, listening to ramblings about “Gumbo” all over again.
+
+  The other two have already done a far better job pointing to the impeccable wordplay across the album. Even after multiple repeats, lines have me smirking or just left in awe, but it’s the production that keeps things fresh and exciting for me. Be it the tiniest elements like the chasm of momentary silence in the first seconds of "Potholderz" and the hooky guitar that extends out across the track, or the cartoon aesthetic and loose narrative that stitches the whole affair together. “Hoe Cakes” uses the J.J. Fad sample at the centre of its arrangement, but the track has a tone entirely unlike the original. The whole album has distinct character coursing through it, and if you wanted to you could easily ignore the vocals and still come away loving it. You shouldn’t, but there’s enough here that it’s possible.
+
+  The central skits have proven divisive for us, but I’d miss them if they disappeared, as there are exceptional instrumentals in these tracks alone. These, combined with the cartoon decoration that weaves through the album, takes what could’ve been a collection of disjointed tracks, and produces a well-polished platter for the tracklist to sit upon.
+
+  This is a firm favourite of mine then, and one that’s stuck with me over the years. Doom’s passing was a huge loss to music, as he had a ‘touch it and turn it gold’ quality wherever he was involved. *MM..FOOD* showcases that quality as an album, and it’s one album I can’t recommend enough.
 
 tracks:
-  - A Fabricated Life
-  - Bernie Sanders
-  - Catch a Fade
+  - Potholderz
+  - Rapp Snitch Knishes
+  - Hoe Cakes
 
 score:
-  score: 7
+  score: 9
   max: 10
-  fraction: 0.7
+  fraction: 0.9
