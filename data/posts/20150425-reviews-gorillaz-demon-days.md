@@ -9,6 +9,7 @@ tags:
   - pop
   - pop rock
   - alternative rock
+  - mf doom
 featuredimage: album-artwork/demon-days-gorillaz.jpg
 artist: Gorillaz
 album: Demon Days
