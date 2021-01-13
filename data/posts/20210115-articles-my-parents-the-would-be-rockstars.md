@@ -46,4 +46,4 @@ I’ve almost certainly shrugged off their concerns with some hippy bull about t
 
 All the same, the band is already a triumph. It’s a triumph of music, of the will to make things and put them out there. Like Bowie before them, when I listen to the Radi8ors and am reassured that youth is a state of mind, the audacity to create new things. Not everyone has the time or resources to run a band, of course, but not everyone has the will either.
 
-My understanding was the original plan for the band was three albums. With _This Is Now_ they’ve achieved that. Eda and Rob don’t have ‘Stop’ settings so who knows what’s next. Whatever the future holds for Dr Rob & the Radi8ors I hope they know how much it was worth while it was happening.
+My understanding was the original plan for the band was three albums. With _This Is Now_ they’ve achieved that. Eda and Rob don’t have ‘Stop’ settings so who knows what’s next. Whatever the future holds for Dr Rob & the Radi8ors I hope they know how much it was worth while it was happening. They're already rockstars in my eyes.
