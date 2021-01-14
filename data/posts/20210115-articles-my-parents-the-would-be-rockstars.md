@@ -4,14 +4,17 @@ modified: 2021-01-15T08:00:00.000Z
 slug: my-parents-the-would-be-rockstars
 type: articles
 tags:
+  - dr rob and the radi8ors
   - rock
   - alternative rock
+  - david bowie
+  - pixies
 featuredimage: article-images/dr-rob-and-the-radi8ors-dublin-castle.jpg
 featuredimageAlt: Dr Rob & the Radi8ors performing at the Dublin Castle in London
 title: My parents the would-be rockstars
-summary: Five years ago David Bowie passed away and my parents formed a band. Four albums and boatload of work later it’s safe to say they’ve done him proud
+summary: Five years ago David Bowie passed away and my parents formed a band. Three albums later it’s safe to say they done him proud
 author: fred
-blurb: Five years ago David Bowie passed away and my parents formed a band. Four albums and boatload of work later it’s safe to say they’ve done him proud.
+blurb: Five years ago David Bowie passed away and my parents formed a band. Three albums and boatload of work later it’s safe to say they done him proud.
 
 ---
 
@@ -28,7 +31,7 @@ Just as a fly on the wall it has been quite a ride, one that deserves attention.
 
 No words will quite do justice to what I’ve been privy to over the last few years — the work, the laughs, the tears, the heartache, and highs that made it all worthwhile. From magical gigs to one-liners worthy of _Spinal Tap_ (‘Why do you have four amps?’ ‘I couldn’t afford five’) it’s been the full rock and roll package, a beautiful and messy tempest.
 
-The lineup a couple of years to settle, but I for one wouldn’t change it for the world. On guitar is (Doctor) Robert Doyle, my stepdad; on vocals Eda Kuran, my mum; on bass John Rigg; and on drums Jose Joyette. Together they are the Radi8ors, four formidable disciples of rock and roll in the vein of Pixies, Public Image Ltd, Blondie, and, of course, David Bowie.
+The lineup took a couple of years to settle, but I for one wouldn’t change it for the world. On guitar is (Doctor) Robert Doyle, my stepdad; on vocals Eda Kuran, my mum; on bass John Rigg; and on drums Jose Joyette. Together they are the Radi8ors, four formidable disciples of rock and roll in the vein of Pixies, Public Image Ltd, Blondie, and, of course, David Bowie.
 
 It took a lot of work for the Radi8ors to find their sound -- weekly practices, rewriting, refining, exploring. Rob and I developed a tradition in which he’d play me mixes he’d slaved over for weeks, I’d cheerfully explain everything wrong with them then saunter off to make some tea, and he’d resist the urge to rip my arm off and beat me to death with the song. This eventually earned me the moniker Judge Fredd. Just know, dad, I do it out of love.  
 
@@ -38,7 +41,9 @@ Though I’m not sure they’ve ever quite managed it over the course of an albu
 
 The Radi8ors catalogue has been performed across southeast England, as mentioned at The Dublin Castle, the Gulbenkian, at Margate Rocks, in flint-walled basements and coastal bunkers. The Radi8ors have radiated far and wide in their time. There’s no saying whether they would have secured slots on the 2020 summer festival circuit, but they would have deserved it.
 
-Their music has been a constant backdrop over what has been a rather turbulent five years. Out in the world there has been Brexit, historic disinformation, political turmoil, and the coup de grasse of a global pandemic. Closer to home, my sister grew up and left for university; my brother and his partner were wed and had a beautiful baby boy; Eda has unlocked her considerable talents as a painter, the nine pictures on the cover of _This Is Now_ her own work. The family dog, Sid, passed away two summers ago, and it is strangely comforting to know that when the first two Radi8ors albums were being recorded he was chilling out in the middle of the studio floor, rock and roll blasting through his lovely, empty head.
+Their music has been a constant backdrop over what has been a rather turbulent five years. Out in the world there has been Brexit, historic disinformation, political turmoil, and the coup de grasse of a global pandemic. Closer to home, my sister grew up and left for university; my brother and his partner were wed and had a beautiful baby boy; Eda has unlocked her considerable talents as a painter, with the nine pictures on the cover of _This Is Now_ her own work. The family dog, Sid, passed away two summers ago, and it is strangely comforting to know that when the first two Radi8ors albums were being recorded he was chilling out in the middle of the studio floor, rock and roll blasting through his lovely, empty head.
+
+![Album artwork of 'This Is Now' by Dr Rob & the Radi8ors](album-artwork/this-is-now-dr-rob-and-the-radi8ors.jpg "Album artwork of 'This Is Now' by Dr Rob & the Radi8ors")
 
 I worry sometimes that Eda, Rob, John, and Jose aren't as proud of themselves as they should be. Like many artists, they’ve struggled to curry favour with industry tastemakers — be they radio hosts or playlist curators — and find the wider audience their material deserves. Like many artists, I don’t think that reflects their quality. Some make it, others don’t. It’s hard enough when artists are in their twenties with marketable names, let alone when they’re touching 60 and called ‘Dr Rob & the Radi8ors’.
 
