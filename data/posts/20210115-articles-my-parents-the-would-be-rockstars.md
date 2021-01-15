@@ -30,7 +30,7 @@ Formed in the wake of David Bowie’s death (someone had to take up the torch) t
 
 Just as a fly on the wall it has been quite a ride, one that deserves attention. Mum has twice suggested that I, Andre, and Andrew could review one of their albums. I have twice suggested that would not be happening. Instead I wanted to write about the band as I see it, which is to say not impartially.
 
-No words could do justice to what I’ve been privy to over the last few years — the work, the laughs, the tears, the heartache, and highs. From magical gigs to one-liners worthy of _Spinal Tap_ (‘Why do you have four amps?’ ‘I couldn’t afford five’) it’s been the full rock and roll package, a mad a beautiful tempest.
+No words could do justice to what I’ve been privy to over the last few years — the work, the laughs, the tears, the heartache, and highs. From magical gigs to one-liners worthy of _Spinal Tap_ (‘Why do you have four amps?’ ‘I couldn’t afford five’) it’s been the full rock and roll package, a mad and beautiful tempest.
 
 The lineup took a couple of years to settle, but I for one wouldn’t change it for the world. On guitar is (Doctor) Robert Doyle, my stepdad; on vocals Eda Kuran, my mum; on bass John Rigg; and on drums Jose Joyette. Together they are the Radi8ors, four formidable disciples of rock and roll in the vein of Pixies, Public Image Ltd, Blondie, and, of course, David Bowie.
 
