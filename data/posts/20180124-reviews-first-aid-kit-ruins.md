@@ -60,7 +60,7 @@ score:
 author: Fred
 
 review: >-
-  *Ruins *is a place where life is found to be beautiful, there are harmonies and steel pedal guitars, and the landscape isn’t terribly memorable. That’s the long and short of it. Beyond being a space for people to be pleased with themselves for finding life beautiful I don’t understand why this exists. I can’t hear any other reason. 
+  *Ruins* is a place where life is found to be beautiful, there are harmonies and steel pedal guitars, and the landscape isn’t terribly memorable. That’s the long and short of it. Beyond being a space for people to be pleased with themselves for finding life beautiful I don’t understand why this exists. I can’t hear any other reason. 
   
   On the whole the songwriting is loose, and when a few decent hooks and melodies do get strung together they’re let down by the mixing. The vocals are really out in front and it doesn’t sit right. The instrumentals are reduced to filler, the tracks made tight and confined. First Aid Kit’s previous achievements showed that their sound benefits from spacious mixes and back and forth with the instrumentation, and *Ruins* achieves neither.
 
