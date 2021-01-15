@@ -39,7 +39,7 @@ Though I’m not sure they’ve ever quite managed it over the course of an albu
 
 “Are You Coming Round” and “Shelly Mae” are personal standouts from _This Is Now_, magnificent songs by any standard, and there are plenty more where they came from.
 
-The Radi8ors catalogue has been performed across southeast England, as mentioned at The Dublin Castle, the Gulbenkian, at Margate Rocks, in flint-walled basements and coastal bunkers. The Radi8ors have radiated far and wide in their time. There’s no saying whether they would have secured slots on the 2020 summer festival circuit, but they would have deserved it.
+The Radi8ors catalogue has been performed across southeast England, as mentioned at The Dublin Castle, The Borderline, at Margate Rocks, in flint-walled basements and coastal bunkers. The Radi8ors have radiated far and wide. There’s no knowing whether they would have secured slots on the 2020 summer festival circuit, but they would have deserved it.
 
 Their music has been a constant backdrop over what has been a rather turbulent five years. Out in the world there has been Brexit, historic disinformation, political turmoil, and the coup de grasse of a global pandemic. Closer to home, my sister grew up and left for university; my brother and his partner were wed and had a beautiful baby boy; Eda has unlocked her considerable talents as a painter, with the nine pictures on the cover of _This Is Now_ her own work. The family dog, Sid, passed away two summers ago, and it is strangely comforting to know that when the first two Radi8ors albums were being recorded he was chilling out in the middle of the studio floor, rock and roll blasting through his lovely, empty head.
 
