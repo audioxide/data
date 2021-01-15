@@ -7,6 +7,9 @@
 [[plugins]]
 package = "/plugins/netlify-plugin-cache-audioxide-data"
 
+[[plugins]]
+package = "/plugins/netlify-plugin-trigger-website-rebuild"
+
 [[redirects]]
   from = "/search"
   to = "/.netlify/functions/search"
