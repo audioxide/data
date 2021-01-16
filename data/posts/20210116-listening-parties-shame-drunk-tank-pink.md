@@ -9,6 +9,7 @@ featuredimageAlt: Album artwork of 'Drunk Tank Pink' by Shame
 author:
   - andre
   - andrew
+blurb: Lorem ipsum dolor
 ---
 ## “Alphabet”
 
