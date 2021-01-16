@@ -1,5 +1,7 @@
 ---
 created: 2021-01-16T14:59:00.000Z
+slug: shame-drunk-tank-pink
+type: listening-parties
 title: "André and Andrew listen to Shame"
 tags: []
 author:
