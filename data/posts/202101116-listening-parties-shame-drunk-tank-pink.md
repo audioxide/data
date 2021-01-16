@@ -29,7 +29,6 @@ Good opener!
 **You**
 Yeah, it's a nice noisey brash open
 
-**André**
 ## “Nigel Hitter”
 
 
@@ -81,7 +80,6 @@ Yeah the guitar work especially
 **André**
 But more DIY
 
-**André**
 ## “Born in Luton”
 
 
@@ -145,7 +143,6 @@ Yeah, it's turned into a pretty grand affair in four minutes
 **André**
 I mean, whisper it, but this is kinda the direction I wanted IDLES to try following Joy...
 
-**André**
 ## “March Day”
 
 
@@ -194,7 +191,6 @@ maybe, nice change of pace I think
 **You**
 Yeah, I think I'll be spinning this a few times
 
-**André**
 ## “Water in the Well”
 
 
@@ -237,7 +233,6 @@ This would go down very well live
 **You**
 I was just about to say that
 
-**André**
 ## “Snow Day”
 
 
@@ -313,7 +308,6 @@ Seems like a centrepiece of sorts, this song
 **André**
 Very good
 
-**André**
 ## “Human, for a Minute”
 
 
@@ -347,7 +341,6 @@ Agree on all counts
 **André**
 This one is a nice change from the frantic nature of previous songs
 
-**André**
 ## “Great Dog”
 
 
@@ -378,7 +371,6 @@ Type of thing that slaps a smile on my face
 **You**
 Yeah, imagine watching that live
 
-**André**
 ## “6/1”
 
 
@@ -412,7 +404,6 @@ I've heard brilliant things already
 **You**
 The back half of this albums puts me into a sweaty gig next to someone that's spilt multiple pints over themselves
 
-**André**
 ## “Harsh Degrees”
 
 
@@ -452,7 +443,6 @@ Quite a bit
 **André**
 Love how the guitars offer this weird computer-malfunction type of texture
 
-**André**
 ## “Station Wagon”
 
 
