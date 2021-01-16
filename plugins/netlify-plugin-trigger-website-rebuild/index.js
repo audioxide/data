@@ -2,7 +2,7 @@ const https = require('https');
 
 module.exports = {
   onPostBuild() {
-    if (process.env.BRANCH !== 'website-trigger') return;
+    if (process.env.BRANCH !== 'main') return;
     return https.request({
       hostname: 'https://api.netlify.com',
       port: 443,
