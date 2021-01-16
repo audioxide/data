@@ -46,6 +46,10 @@ jobs:
           website/node_modules
         # An explicit key for restoring and saving the cache
         key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+    - run: yarn
+      working-directory: data
+      env:
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     # Hack away at the config to remove hard coded environment variables
     - run: sed -i "s|^\s*environment.*$||g" netlify.toml
       working-directory: data
