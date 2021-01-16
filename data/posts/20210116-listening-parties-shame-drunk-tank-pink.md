@@ -8,13 +8,13 @@ author:
 ## “Alphabet”
 
 
-**You**
+**Andrew**
 Always up for a cantering start
 
 **André**
 Crikey, vocal delivery is very IDLES
 
-**You**
+**Andrew**
 Yeah, exactly, IDLES, Slaves is what I think of immediately
 
 **André**
@@ -26,16 +26,16 @@ Lovely snare rolls throughout this
 **André**
 Good opener!
 
-**You**
+**Andrew**
 Yeah, it's a nice noisey brash open
 
 ## “Nigel Hitter”
 
 
-**You**
+**Andrew**
 Oh, that's a change of pace
 
-**You**
+**Andrew**
 Kinda groovy
 
 **André**
@@ -53,25 +53,25 @@ That bass tone is strange but kinda great
 **André**
 This is a proper toe-tapper
 
-**You**
+**Andrew**
 Yeah, I like all the guitar tones, it's bright
 
-**You**
+**Andrew**
 And yeah, I've been nodding my head from the start of this one
 
-**You**
+**Andrew**
 Note this as a potential favourite already
 
 **André**
 Excellent percussion overdubs all over the place
 
-**You**
+**Andrew**
 Lovey little percussive patters going on around my head
 
 **André**
 Yep haha
 
-**You**
+**Andrew**
 In a lot of ways I'm reminded of jittery indie rock of 15 years ago
 
 **André**
@@ -86,7 +86,7 @@ But more DIY
 **André**
 Wow
 
-**You**
+**Andrew**
 There's a lot more of that percussive rhythm going on in the background
 
 **André**
@@ -95,13 +95,13 @@ The guitar work and production is pretty fucking rad
 **André**
 A lot to take in
 
-**You**
+**Andrew**
 It's really nice
 
-**You**
+**Andrew**
 It is yeah
 
-**You**
+**Andrew**
 That kind of percussive background always makes me want to mention Talking Heads
 
 **André**
@@ -110,25 +110,25 @@ I can see why haha
 **André**
 This slower section is really nice
 
-**You**
+**Andrew**
 Taken a dip in tempo though
 
-**You**
+**Andrew**
 Wow, what a busy track
 
 **André**
 3 tracks in and the songwriting is more ambitious than I thought
 
-**You**
+**Andrew**
 I'm all for it, but there are beeps and bloops and roaring guitar
 
 **André**
 I kinda love the beeps and bloops lol
 
-**You**
+**Andrew**
 Oh I totally do, yeah
 
-**You**
+**Andrew**
 Alongside these tempo shifts too
 
 **André**
@@ -137,7 +137,7 @@ This is great tbh
 **André**
 Really builds momentum
 
-**You**
+**Andrew**
 Yeah, it's turned into a pretty grand affair in four minutes
 
 **André**
@@ -146,16 +146,16 @@ I mean, whisper it, but this is kinda the direction I wanted IDLES to try follow
 ## “March Day”
 
 
-**You**
+**Andrew**
 Haha, what a finish
 
 **André**
 Yeah these guys really know how to get into a great groove
 
-**You**
+**Andrew**
 It's another change of pace, and I'm once again reaching for guitar music the NME used to cover in the 00s
 
-**You**
+**Andrew**
 Y'know, when they did music 👀
 
 **André**
@@ -167,7 +167,7 @@ Quite literally
 **André**
 But anyway..
 
-**You**
+**Andrew**
 Haha, March Day is a good jaunt anyway
 
 **André**
@@ -176,10 +176,10 @@ I honestly didn't realise these guys were so groove-based
 **André**
 I'm all for it
 
-**You**
+**Andrew**
 Well I'm certainly having fun with them
 
-**You**
+**Andrew**
 If I'm going to nitpick, this is slightly more straight down the middle than the previous tracks
 
 **André**
@@ -188,13 +188,13 @@ I already know I'm gonna be coming back to this
 **André**
 maybe, nice change of pace I think
 
-**You**
+**Andrew**
 Yeah, I think I'll be spinning this a few times
 
 ## “Water in the Well”
 
 
-**You**
+**Andrew**
 That thudding drum and bass combo right out the gate is great
 
 **André**
@@ -203,34 +203,34 @@ Oh I've heard this
 **André**
 Was one of the singles
 
-**You**
+**Andrew**
 Ah okay, it's a good single choice
 
-**You**
+**Andrew**
 Very satisfying chord progression
 
 **André**
 Yeah, though Snow Day was my favourite one, which is next
 
-**You**
+**Andrew**
 And the drums seem kicked up for me
 
-**You**
+**Andrew**
 My right ear just got pummelled haha
 
 **André**
 Drumming is great so far, quite unorthodox in places
 
-**You**
+**Andrew**
 In fact I think the kick is thumping on the right every phrase or so
 
-**You**
+**Andrew**
 Stonking final section to this track too
 
 **André**
 This would go down very well live
 
-**You**
+**Andrew**
 I was just about to say that
 
 ## “Snow Day”
@@ -242,13 +242,13 @@ I love this track
 **André**
 Really got my attention straight away
 
-**You**
+**Andrew**
 I've purposely left even the singles unlistened to
 
-**You**
+**Andrew**
 Although thirty seconds in, this is shaping up to be another strong track
 
-**You**
+**Andrew**
 So it makes sense that it's a single
 
 **André**
@@ -257,13 +257,13 @@ Some of the industrial noises remind me of Daughters actually
 **André**
 Really interesting
 
-**You**
+**Andrew**
 Yeah, for sure, I can see that
 
-**You**
+**Andrew**
 It's a bit grimier, this
 
-**You**
+**Andrew**
 Big wall of sound
 
 **André**
@@ -272,16 +272,16 @@ Oooooof this section is great
 **André**
 I can't get enough of this fucking drummer tbh
 
-**You**
+**Andrew**
 Yeah, "oooof" is right
 
-**You**
+**Andrew**
 I've thoroughly enjoyed the drumming thus far
 
-**You**
+**Andrew**
 Not to take away from the rest of the band
 
-**You**
+**Andrew**
 There's some cracking musicianship here
 
 **André**
@@ -296,10 +296,10 @@ Not these guys
 **André**
 They can fucking play
 
-**You**
+**Andrew**
 Well punk doesn't always go hand and hand with great musicians, just a passion for what they're doing. But it seems these guys have both
 
-**You**
+**Andrew**
 This driving section towards the end is another great close to a track
 
 **André**
@@ -311,7 +311,7 @@ Very good
 ## “Human, for a Minute”
 
 
-**You**
+**Andrew**
 That's an earthy bassline
 
 **André**
@@ -320,19 +320,19 @@ Slower, but still groovy
 **André**
 How you feeling about the vocals?
 
-**You**
+**Andrew**
 Was just about to mention the vocals, he's got a range of styles
 
 **André**
 It's quite low in the mix a lot of the time. Allows everything else to shine
 
-**You**
+**Andrew**
 I think as a respite from the rest of the tracklist thus far, these softer, spoken vocals fit well with the rest of the track
 
-**You**
+**Andrew**
 I'm glad he mixes it up though
 
-**You**
+**Andrew**
 Yeah, although being lower in the mix, they have the potential to be missed, I've been enjoying the instrumentals
 
 **André**
@@ -344,31 +344,31 @@ This one is a nice change from the frantic nature of previous songs
 ## “Great Dog”
 
 
-**You**
+**Andrew**
 I'll sound like a broken record about the ending, I'll say it differently, they build and layer tracks well
 
-**You**
+**Andrew**
 Certainly another change of pace
 
 **André**
 Here we go then
 
-**You**
+**Andrew**
 Ah the vocals are getting a bit more of an outing eh?
 
 **André**
 This is more of what I expected initially
 
-**You**
+**Andrew**
 I wouldn't have been upset if this was it. i too was expecting this noisey, raucous, manic pace
 
 **André**
 Haha, this is ace
 
-**You**
+**Andrew**
 Type of thing that slaps a smile on my face
 
-**You**
+**Andrew**
 Yeah, imagine watching that live
 
 ## “6/1”
@@ -377,19 +377,19 @@ Yeah, imagine watching that live
 **André**
 That guitar has my attention already
 
-**You**
+**Andrew**
 Yeah, me too, some interesting crossing rhythms
 
 **André**
 Gonna mention drums again, my word
 
-**You**
+**Andrew**
 That'll always hold my attention
 
-**You**
+**Andrew**
 Agreed on the drums
 
-**You**
+**Andrew**
 It's that agitated, twitching drum line
 
 **André**
@@ -401,19 +401,19 @@ We need to make a point of catching these live when normality returns
 **André**
 I've heard brilliant things already
 
-**You**
+**Andrew**
 The back half of this albums puts me into a sweaty gig next to someone that's spilt multiple pints over themselves
 
 ## “Harsh Degrees”
 
 
-**You**
+**Andrew**
 And not giving a shit
 
 **André**
 Haha
 
-**You**
+**Andrew**
 Well that was a thump
 
 **André**
@@ -425,16 +425,16 @@ I'm all for it
 **André**
 Backend of the album feels like a build-up to a big crash
 
-**You**
+**Andrew**
 I swear I'm listening to something other than the drums, but there's a kind of a 3 over 4 rhythm going somewhere in there that's scratching an itch
 
-**You**
+**Andrew**
 Yes, I wonder how they'll close
 
 **André**
 I am enjoying this.
 
-**You**
+**Andrew**
 The guitars are doing a stellar job here
 
 **André**
@@ -449,13 +449,13 @@ Love how the guitars offer this weird computer-malfunction type of texture
 **André**
 Here we go, closing track
 
-**You**
+**Andrew**
 Yeah, very into the distorted fuzz
 
-**You**
+**Andrew**
 Well that's a moody, atmospheric start
 
-**You**
+**Andrew**
 Maybe the crash happened and this is the comedown
 
 **André**
@@ -464,13 +464,13 @@ Yep
 **André**
 Love the mellow vibe
 
-**You**
+**Andrew**
 I'm in suspense, but maybe I should be in reflection
 
-**You**
+**Andrew**
 Maybe this is falling out of the sweaty gig
 
-**You**
+**Andrew**
 It's a long closer though, so maybe it's ramping up
 
 **André**
@@ -482,13 +482,13 @@ Makes a change from the shouts and screams previously haha
 **André**
 Piano!
 
-**You**
+**Andrew**
 Yeah, this is similar to the respite we got in Human, for a Minute
 
-**You**
+**Andrew**
 Have we had anything besides a standard guitar band instrumentation before now?
 
-**You**
+**Andrew**
 Piano is certainly notable
 
 **André**
@@ -497,22 +497,22 @@ I don't believe so
 **André**
 This is a real moment, isn't it
 
-**You**
+**Andrew**
 Indeed, they were ramping up to something after all
 
-**You**
+**Andrew**
 Oh that's a dirty guitar pushing its way in
 
-**You**
+**Andrew**
 Here we go
 
 **André**
 Powerful this.
 
-**You**
+**Andrew**
 Yeah, I think we're heading straight for a huge wall of noise
 
-**You**
+**Andrew**
 Phew
 
 **André**
@@ -521,41 +521,41 @@ I was totally immersed in that
 **André**
 What a brilliant closer
 
-**You**
+**Andrew**
 My goodness, yes, at the start I thought it might've been a low key closer
 
-**You**
+**Andrew**
 Honestly, that was a pleasure to listen to
 
 **André**
 Yeah, I'm definitely going to be returning a lot. Quite comfortably the best thing I've listened to this year.
 
-**You**
+**Andrew**
 Haha, quite the accolade on January 15th 😉
 
 **André**
 This feels like a momentous moment for them
 
-**You**
+**Andrew**
 But I'm with you
 
 **André**
 The pacing of the album was spot on
 
-**You**
+**Andrew**
 That's a brilliant follow up album
 
 **André**
 And there are so many subtleties that it could be a real grower too
 
-**You**
+**Andrew**
 Some excellent playing, satisfying rhythmic games being played in the background, great production
 
-**You**
+**Andrew**
 Agreed on the pacing too
 
 **André**
 Let's catch 'em live.
 
-**You**
+**Andrew**
 If we're ever allowed
