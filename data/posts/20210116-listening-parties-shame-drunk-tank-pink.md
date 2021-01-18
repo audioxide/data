@@ -1,8 +1,10 @@
 ---
-created: 2021-01-16T14:59:00.000Z
+created: 2021-01-18T09:00:00.000Z
+modified: 2021-01-18T09:00:00.000Z
 slug: shame-drunk-tank-pink
 type: listening-parties
 title: "‘Quite comfortably the best thing I've listened to this year’ - André and Andrew listen to Shame"
+summary: Crunchy guitars and relentless percussion abound in 'Drunk Tank Pink'
 tags:
   - shame
   - idles
@@ -13,7 +15,7 @@ featuredimageAlt: Album artwork of 'Drunk Tank Pink' by Shame
 author:
   - andre
   - andrew
-blurb: Crunchy guitars and relentless percussion abound as André and Andrew listen to Shame's new album 'Drunk Tank Pink' for the first time.
+blurb: Crunchy guitars and relentless percussion abound in Shame's relentless new record 'Drunk Tank Pink'. Yes we're two weeks into the year, but a highlight all the same.
 ---
 
 This is a series in which two of us listen to an album for the first time and chat about it as we go. These are our real first impressions, and any moments of insight are entirely coincidental.
@@ -117,7 +119,7 @@ Really builds momentum
 Yeah, it's turned into a pretty grand affair in four minutes
 
 **André**
-I mean, whisper it, but this is kinda the direction I wanted IDLES to try following [Joy](/reviews/idles-joy-as-an-act-of-resistence/)...
+I mean, whisper it, but this is kinda the direction I wanted IDLES to try following [Joy](/reviews/idles-joy-as-an-act-of-resistance/)...
 
 **Andrew**
 Haha, what a finish
