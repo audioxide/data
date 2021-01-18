@@ -2,17 +2,23 @@
 created: 2021-01-16T14:59:00.000Z
 slug: shame-drunk-tank-pink
 type: listening-parties
-title: "André and Andrew listen to Shame"
-tags: []
+title: "‘Quite comfortably the best thing I've listened to this year’ - André and Andrew listen to Shame"
+tags:
+  - shame
+  - idles
+  - talking heads
+  - daughters
 featuredimage: album-artwork/drunk-tank-pink-shame.jpg
 featuredimageAlt: Album artwork of 'Drunk Tank Pink' by Shame
 author:
   - andre
   - andrew
-blurb: Lorem ipsum dolor
+blurb: Crunchy guitars and relentless percussion abound as André and Andrew listen to Shame's new album 'Drunk Tank Pink' for the first time.
 ---
-## “Alphabet”
 
+This is a series in which two of us listen to an album for the first time and chat about it as we go. These are our real first impressions, and any moments of insight are entirely coincidental.
+
+## “Alphabet”
 
 **Andrew**
 Always up for a cantering start
@@ -34,7 +40,6 @@ Good opener!
 Yeah, it's a nice noisey brash open
 
 ## “Nigel Hitter”
-
 
 **Andrew**
 Oh, that's a change of pace
@@ -112,7 +117,7 @@ Really builds momentum
 Yeah, it's turned into a pretty grand affair in four minutes
 
 **André**
-I mean, whisper it, but this is kinda the direction I wanted IDLES to try following Joy...
+I mean, whisper it, but this is kinda the direction I wanted IDLES to try following [Joy](/reviews/idles-joy-as-an-act-of-resistence/)...
 
 **Andrew**
 Haha, what a finish
@@ -168,19 +173,19 @@ And the drums seem to be kicked up a notch for me. My right ear just got pummell
 Drumming is great so far, quite unorthodox in places
 
 **Andrew**
-In fact I think the kick is thumping on the right every phrase or so.
+In fact I think the kick is thumping on the right every phrase or so
 Stonking final section to this track too
 
 **André**
 This would go down very well live
 
 **Andrew**
-I was _just_ about to say that.
+I was _just_ about to say that
 
 ## “Snow Day”
 
 **André**
-I love this track. Really got my attention straight away.
+I love this track. Really got my attention straight away
 
 **Andrew**
 I've purposely left even the singles unlistened to
@@ -193,8 +198,8 @@ Really interesting
 
 **Andrew**
 Yeah, for sure, I can see that
-It's a bit grimier, this.
-Big wall of sound.
+It's a bit grimier, this
+Big wall of sound
 
 **André**
 Oooooof this section is great
@@ -212,11 +217,11 @@ There's some cracking musicianship here
 
 **André**
 Yeah maybe more than I initially thought
-You sometimes get the wrong impression with punk bands. Not these guys, they can fucking play.
+You sometimes get the wrong impression with punk bands. Not these guys, they can fucking play
 
 **Andrew**
-Well punk doesn't always go hand and hand with great musicians, just a passion for what they're doing. But it seems these guys have both.
-This driving section towards the end is another great close to a track.
+Well punk doesn't always go hand and hand with great musicians, just a passion for what they're doing. But it seems these guys have both
+This driving section towards the end is another great close to a track
 
 **André**
 Seems like a centrepiece of sorts, this song. Very good
@@ -277,7 +282,7 @@ Type of thing that slaps a smile on my face. Imagine watching that live
 That guitar has my attention already
 
 **Andrew**
-Yeah, me too, some interesting crossing rhythms. That'll always hold my attention.
+Yeah, me too, some interesting crossing rhythms. That'll always hold my attention
 
 **André**
 Gonna mention drums again, my word
@@ -364,7 +369,7 @@ Oh that's a dirty guitar pushing its way in
 Here we go
 
 **André**
-Powerful this.
+Powerful this
 
 **Andrew**
 Yeah, I think we're heading straight for a huge wall of noise
@@ -381,7 +386,7 @@ My goodness, yes, at the start I thought it might've been a low key closer
 Honestly, that was a pleasure to listen to
 
 **André**
-Yeah, I'm definitely going to be returning a lot. Quite comfortably the best thing I've listened to this year.
+Yeah, I'm definitely going to be returning a lot. Quite comfortably the best thing I've listened to this year
 
 **Andrew**
 Haha, quite the accolade on January 15th 😉. But I'm with you
@@ -390,14 +395,14 @@ Haha, quite the accolade on January 15th 😉. But I'm with you
 This feels like a momentous moment for them
 
 **André**
-The pacing of the album was spot on and there are so many subtleties that it could be a real grower too.
+The pacing of the album was spot on and there are so many subtleties that it could be a real grower too
 
 **Andrew**
 That's a brilliant follow up album. Some excellent playing, satisfying rhythmic games being played in the background, great production
 Agreed on the pacing too
 
 **André**
-Let's catch 'em live.
+Let's catch 'em live
 
 **Andrew**
 If we're ever allowed
