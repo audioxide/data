@@ -15,7 +15,7 @@ featuredimageAlt: Album artwork of 'Drunk Tank Pink' by Shame
 author:
   - andre
   - andrew
-blurb: Crunchy guitars and relentless percussion abound in Shame's relentless new record 'Drunk Tank Pink'. Yes we're two weeks into the year, but a highlight all the same.
+blurb: Crunchy guitars and relentless percussion abound in Shame's new record 'Drunk Tank Pink'. Yes we're two weeks into the year, but a highlight all the same.
 ---
 
 This is a series in which two of us listen to an album for the first time and chat about it as we go. These are our real first impressions, and any moments of insight are entirely coincidental.
