@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@audioxide/data-processor@^0.11.5":
-  version "0.11.5"
-  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.11.5/d4ffe8c46fc6b515301d83c7d7584ebcf9bef80c9019cd399a2d0ec7e5fc105c#78babee0dc26696722d4ead191481991e1ebaa69"
-  integrity sha512-6YD9HdcAGPA4zfq6NYjLq6szk/1//SD8AZOL8ABnUrGjNKmLRWw8ht0BIJHLv/bBiKstyKKIHTdHndfrA0CGcA==
+"@audioxide/data-processor@^0.12.0":
+  version "0.12.0"
+  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.12.0/ec2aaeb7471d7f83f6e99e3b1bb111f88c580c0aa3138e5291e9c61d8d306b6f#b3befa1379d6c7387a6763d2c7ce6f812bad031c"
+  integrity sha512-2gI3n9fKKDLCWR9qzmvPJLYaMhzeObogFB1SyhouLFJ4PqmeRoizCEkXW30i08U6SCHrrIrakmQWWsuskAAwBA==
   dependencies:
     flexsearch "^0.6.32"
     jsdom "^16.4.0"
