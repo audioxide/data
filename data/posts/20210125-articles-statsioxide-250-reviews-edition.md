@@ -20,7 +20,7 @@ blurb: After six long, resolutely joyless years we passed another album review m
 
 In 2015, Andre, Andrew, and I started reviewing albums together. We’d choose a record, spend the week listening to it, spend an evening talking about it, then assign scores. We liked it, so we kept doing it, and in October of last year we hit our 250th review.
 
-To celebrate the milestone I’m diving ([back](https://audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers)) into the numbers behind our arbitrary numbers. Who doesn’t love seeing passion projects reduced to cold, impersonal data? We’ve got average scores, genre preferences, even a bit of institutional bias. A birds-eye view, in a nutshell, if you’ll forgive the mixed metaphors. 
+To celebrate the milestone I’m diving ([back](/articles/statsioxide-our-first-150-reviews-in-numbers)) into the numbers behind our arbitrary numbers. Who doesn’t love seeing passion projects reduced to cold, impersonal data? We’ve got average scores, genre preferences, even a bit of institutional bias. A birds-eye view, in a nutshell, if you’ll forgive the mixed metaphors. 
 
 ## Brass tacks
 
@@ -30,4 +30,4 @@ Our 250th album review was in October, 2020, and it was of [_Pet Sounds_](/revie
 
 Of our first 250 reviews 136 were of new releases and 114 were retrospectives. **It would take almost eight and a half days to play all of the albums we’ve reviewed back to back**. Their combined length is a cool 202 hours, 27 minutes, and 32 seconds (give or take a few seconds.)
 
-Below is the full distribution of overall _Audioxide _scores, old and new.
+Below is the full distribution of overall _Audioxide_ scores, old and new.
