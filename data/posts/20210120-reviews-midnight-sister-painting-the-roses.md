@@ -28,8 +28,8 @@ totalscore:
   fraction: 0.8
 colours:
   - "#a1c5ab"
-  - "#d8d8cd"
-  - "#d8d8cd"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: TBD
 summary: TBD
 week: 254
