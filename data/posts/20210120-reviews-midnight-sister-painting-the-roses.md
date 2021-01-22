@@ -1,7 +1,7 @@
 ---
 
-created: 2021-01-20T12:00:15.000Z
-modified: 2021-01-20T01:07:45.000Z
+created: 2021-01-20T12:00:00.000Z
+modified: 2021-01-22T11:07:45.000Z
 slug: midnight-sister-painting-the-roses
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - art pop
   - psychedelia
   - jazz
+  - funk
+  - indie
   - arcade fire
   - talking heads
   - the beatles
@@ -28,13 +30,13 @@ totalscore:
   possible: 30
   fraction: 0.66666667
 colours:
-  - "#a1c5ab"
+  - "#6EAC6B"
   - "#ffffff"
   - "#ffffff"
 pullquote: Part dramatic dream, part sun-soaked soliloquy
-summary: An eclectic mixture of indie rock and baroque pop, with not-so-subtle nods to psychedelia, jazz, dance, and classical music. Not every experiment pays off, but there’s bound to be something for everyone to enjoy. The record feels remarkably loose; a trait that delights and frustrates in equal measure.
+summary: An eclectic mixture of indie rock and baroque pop, with not-so-subtle nods to psychedelia, jazz, dance, and classical music. Not every experiment pays off, but there’s bound to be something for everyone to enjoy.
 week: 254
-blurb: Part dramatic dream, part sun-soaked soliloquy, part love letter to mid-century pop rock, the album is a wistful, woozy ride.
+blurb: Part dramatic dream, part sun-soaked soliloquy, part love letter to mid-century pop rock, Midnight Sister have sewn together a wistful, woozy record.
 artistMBID: d2523400-656e-4bd2-98c3-5582d2da3a3f
 albumMBID: b52cdcc6-bef1-413d-8a22-b809b0498310
 artistLink: https://midnightsister.bandcamp.com/merch
