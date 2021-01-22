@@ -50,7 +50,7 @@ review: >-
 
   The album thrives on its unexpected moments: the fuzzy guitar solo on “Foxes”, the outrageously groovy bassline on “Sirens”, the cinematic string motif on “My Elevator Song”. Just to name a few. Midnight Sister offer plenty of surprises with instrumentation, so it’s a shame their songwriting can often feel so passive. *Painting the Roses* is unpredictable, but I take no issue with that. In fact, I end up enjoying the experimental tracks more than the laid-back indie strolls, as pleasant as they may sound.
 
-  Although *Painting the Roses* falls short of greatness, there’s plenty here for listeners to enjoy. The aforementioned “Sirens” is an absolute jam, offering a similar sensation to one of [Arcade Fire](/reviews/arcade-fire-funeral/)’s greatest dance anthems “Sprawl II (Mountains Beyond Mountains)”. Elsewhere, there are hints of glam-rock and power pop in the same vein as The Lemon Twigs, another eclectic American duo. Only, with much less chaos. If that sounds like your type of thing, then *Painting the Roses* comes recommended.
+  Although *Painting the Roses* falls short of greatness, there’s plenty here for listeners to enjoy. The aforementioned “Sirens” is an absolute jam, offering a similar sensation to one of [Arcade Fire](/reviews/arcade-fire-funeral/)’s greatest dance anthems “Sprawl II (Mountains Beyond Mountains)”. Elsewhere, there are hints of glam-rock and power pop in the same vein as The Lemon Twigs, another eclectic American duo. Only, with much less chaos (and a little less excitement). If that sounds like your type of thing, then *Painting the Roses* comes recommended.
 
 tracks:
   - Siren
