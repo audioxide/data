@@ -12,7 +12,7 @@ tags:
   - jamie xx
   - neneh cherry
   - gorillaz
-featuredimage: album-artwork/we-will-always-love-you-the-avalanches.jpg
+featuredimage: article-images/we-will-always-love-you-the-avalanches.jpg
 featuredimageAlt: Album artwork of 'We Will Always Love You' by The Avalanches
 title: The Avalanches martial star-studded line up to delight in third album
 summary: Gliding in under the radar at the tail end of last year, the Australian duo earn their 70-minute playtime and show they’ve plenty left in the tank
