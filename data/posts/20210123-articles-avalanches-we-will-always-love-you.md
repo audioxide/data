@@ -1,7 +1,7 @@
 ---
-created: 2021-01-23T19:05:00.000Z
-modified: 2021-01-23T19:05:00.000Z
-slug: avalanches-we-will-always-love-you
+created: 2021-01-29T09:05:00.000Z
+modified: 2021-01-29T09:05:00.000Z
+slug: the-avalanches-marshal-star-studded-line-up-in-third-album 
 type: articles
 tags:
   - the avalanches
@@ -14,7 +14,7 @@ tags:
   - gorillaz
 featuredimage: article-images/we-will-always-love-you-the-avalanches.jpg
 featuredimageAlt: Album artwork of 'We Will Always Love You' by The Avalanches
-title: The Avalanches martial star-studded line up to delight in third album
+title: The Avalanches marshal star-studded line up to delight in third album
 summary: Gliding in under the radar at the tail end of last year, the Australian duo earn their 70-minute playtime and show they’ve plenty left in the tank
 author: andrew
 blurb: Gliding in under the radar at the tail end of last year, the Australian duo earn their 70-minute playtime and show they’ve plenty left in the tank.
