@@ -82,16 +82,16 @@ The site has also had a rather lovely supporting cast of would-be critics who ha
 
 ## The 27+ Club
 
-A consequence of our three-piece review system is high scores are actually _really _hard to get. Getting a nine from one of us is hard; averaging nines from all of us borders on miraculous. Hence the very tastefully named **27+ Club** — the albums that have scored 27 or higher.
+A consequence of our three-piece review system is high scores are actually _really_ hard to get. Getting a nine from one of us is hard; averaging nines from all of us borders on miraculous. Hence the very tastefully named **27+ Club** — the albums that have scored 27 or higher.
 
 Only 14 of the first 250 albums made it in. That’s a 5.6% success rate. Only two of those were new releases, making the success rate there a mere 1.47%. The full list of club members is below.
 
-#### New releases
+### New releases
 
 - _[To Pimp a Butterfly](/reviews/kendrick-lamar-to-pimp-a-butterfly/)_ by Kendrick Lamar
 - _[Visions of a Life](/reviews/wolf-alice-visions-of-a-life/)_ by Wolf Alice
 
-#### Retrospectives
+### Retrospectives
 
 - _[OK Computer](/reviews/radiohead-ok-computer)_ by Radiohead
 - _[Homogenic](/reviews/bjork-homogenic/)_ by Björk
@@ -120,13 +120,13 @@ The 1980s are currently the ‘weakest’ decade, scoring an average of 22.235. 
 
 |                  | **Highest scoring album(s)**                                                                                                                                       | **Score** |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| **1950s**            | _Kind of Blue_ by Miles Davis                                                                                                                                    | 27    |
-| **1960s**            | _Highway 61 Revisited_ by Bob Dylan, Revolver by The Beatles                                                                                                     | 26    |
-| **1970s**            | _Songs in the Key of Life_ by Stevie Wonder                                                                                                                      | 28    |
-| **1980s**            | _Fresh Fruit for Rotting Vegetables_ by Dead Kennedys, _Remain in Light_ by Talking Heads, _Purple Rain_ by Prince, _Hounds of Love_ by Kate Bush, _Doolittle_ by Pixies | 25    |
-| **1990s**            | _OK Computer_ by Radiohead                                                                                                                                       | 29    |
-| **2000s**            | _The Marshall Mathers LP_ by Eminem, _Funeral_ by Arcade Fire, _Origin of Symmetry_ by Muse, _Demon Days_ by Gorillaz, _Sound of Silver_ by LCD Soundsystem              | 26    |
-| **2010s (pre-2015)** | _Cosmogramma_ by Flying Lotus                                                                                                                                    | 27    |
+| **1950s**            | [_Kind of Blue_](/reviews/miles-david-kind-of-blue/) by Miles Davis                                                                                                                                    | 27    |
+| **1960s**            | [_Highway 61 Revisited_](/reviews/bob-dylan-highway-61-revisited/) by Bob Dylan, Revolver by The Beatles                                                                                                     | 26    |
+| **1970s**            | [_Songs in the Key of Life_](/reviews/stevie-wonder-songs-in-the-key-of-life/) by Stevie Wonder                                                                                                                      | 28    |
+| **1980s**            | [_Fresh Fruit for Rotting Vegetables_](/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/) by Dead Kennedys, [_Remain in Light_](/reviews/talking-heads-remain-in-light/) by Talking Heads, [_Purple Rain_](/reviews/prince-purple-rain/) by Prince, [_Hounds of Love_](/reviews/kate-bush-hounds-of-love/) by Kate Bush, [_Doolittle_](/reviews/pixies-doolittle/) by Pixies | 25    |
+| **1990s**            | [_OK Computer_](/reviews/radiohead-ok-computer/) by Radiohead                                                                                                                                       | 29    |
+| **2000s**            | [_The Marshall Mathers LP_](/reviews/eminem-the-marshall-mathers-lp/) by Eminem, [_Funeral_](/reviews/arcade-fire-funeral/) by Arcade Fire, [_Origin of Symmetry_](/reviews/muse-origin-of-symmetry/) by Muse, [_Demon Days_](/reviews/gorillaz-demon-days/) by Gorillaz, [_Sound of Silver_](/reviews/lcd-soundsystem-sound-of-silver/) by LCD Soundsystem              | 26    |
+| **2010s (pre-2015)** | [_Cosmogramma_](/reviews/flying-lotus-cosmogramma/) by Flying Lotus                                                                                                                                    | 27    |
 
 Not a bad bunch. The sixties, eighties, and noughties are yet to crack the **27+ Club**. The noughties is especially surprising given we were teens for a lot of that time. You’d think something would have cruised in on a wave of pure nostalgia (_Origin of Symmetry_ almost managed it) but alas no.
 
