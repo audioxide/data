@@ -46,14 +46,14 @@ We tend to lean towards stuff we don’t think we’ll hate, which is why the to
 
 | **Year** | **Highest scoring new album(s)**                                                                                         | **Score** |
 |----------|--------------------------------------------------------------------------------------------------------------------------|-----------|
-| **2015** | _To Pimp a Butterfly_ by Kendrick Lamar                                                                                  | 27        |
-| **2016** | _Blackstar_ by David Bowie, _A Moon Shaped Pool_ by Radiohead                                                            | 24        |
-| **2017** | _Visions of a Life_ by Wolf Alice                                                                                        | 27        |
-| **2018** | _Honey_ by Robyn, _Bottle It In_ by Kurt Vile, _Joy as an Act of Resistance_ by IDLES, _Age Of_ by Oneohtrix Point Never | 23        |
-| **2019** | _IGOR_ by Tyler, the Creator                                                                                             | 23        |
-| **2020** | _Song for Our Daughter_ by Laura Marling                                                                                 | 25        |
+| **2015** | [_To Pimp a Butterfly_](/reviews/kendrick-lamar-to-pimp-a-butterfly/) by Kendrick Lamar                                                                                  | 27        |
+| **2016** | [_Blackstar_](/reviews/david-bowie-blackstar/) by David Bowie, [_A Moon Shaped Pool_](/reviews/radiohead-a-moon-shaped-pool/) by Radiohead                                                            | 24        |
+| **2017** | [_Visions of a Life_](/reviews/wolf-alice-visions-of-a-life/) by Wolf Alice                                                                                        | 27        |
+| **2018** | [_Honey_](/reviews/robyn-honey/) by Robyn, [_Bottle It In_](/reviews/kurt-vile-bottle-it-in/) by Kurt Vile, [_Joy as an Act of Resistance_](/reviews/idles-joy-as-an-act-of-resistance/) by IDLES, [_Age Of_](/reviews/oneohtrix-point-never-age-of/) by Oneohtrix Point Never | 23        |
+| **2019** | [_IGOR_](/reviews/tyler-the-creator-igor/) by Tyler, the Creator                                                                                             | 23        |
+| **2020** | [_Song for Our Daughter_](/reviews/laura-marling-song-for-our-daughter/) by Laura Marling                                                                                 | 25        |
 
-_Song for Our Daughter_ by Laura Marling was the only time our highest rated album didn’t also top our year-end favourites. (It was edged out by _RTJ4_ by Run the Jewels.) In the tied years the year-end victors were _A Moon Shaped Pool_ and _Joy as an Act of Resistance_.
+_Song for Our Daughter_ by Laura Marling was the only time our highest rated album didn’t also top our year-end favourites. (It was edged out by [_RTJ4_](/reviews/run-the-jewels-rtj4/) by Run the Jewels.) In the tied years the year-end victors were _A Moon Shaped Pool_ and _Joy as an Act of Resistance_.
 
 ## Authors
 
@@ -150,21 +150,21 @@ We’ve reviewed twice as many solo male artists as solo female artists. More th
 
 A similar narrowness emerges when we look at where the artists we’ve reviewed are from. The United States and England are by far the most common nationality (in that order). We’ve listened to music from 15 different countries in all so far. The _Audioxide_ empire as it stands looks pretty good to us.
 
-![Map showing home countries of artists reviewed by Audioxide in their first 250 reviews](article-images/statsioxide-250-world-map.png)
+![World map showing home countries of artists reviewed by Audioxide in their first 250 reviews](article-images/statsioxide-250-world-map.png)
 
 I suspect the bias here is linguistic rather than regional or cultural, as lyrics play an important part in how we listen. Still, we’ve reviewed enough instrumental albums to know this is an area we can also stand to be more adventurous in. One of the reasons we started reviewing albums together was to introduce each other to new music, after all.
 
 ## Other tidbits 
 
-There are a few more stats worth mentioning. Iterations of the site come to mind. We’ve built two to date. The original was launched in January of 2016. A new and improved version of the site went live in November of 2020. It has more than 250 reviews, more than 30 articles, and a handful of interviews, listening parties, and other oddities. 
+There are a few more stats worth mentioning. Iterations of the site come to mind. We’ve built two to date. The original was [launched](/articles/welcome/) in January of 2016. A new and improved version of the site went live in November of 2020. It has more than 250 reviews and more than 30 articles, as well as a handful of interviews, listening parties, and other oddities.
 
 Bizarrely we’ve also had a fair few visitors over the years — tens of thousands, apparently. According to Google around 4,000 people a month find the site through search engine queries. [One of our reviews has even turned up as a source on Wikipedia](https://en.m.wikipedia.org/wiki/Surrealistic_Pillow). (We had nothing to do with it, we swear.)
 
 ![Giant cassette of 'Can I Borrow a Feeling?' by Kirk Van Houten](article-images/statsioxide-250-can-i-borrow-a-feeling.jpg)
 
-What else… an American craftsman called Gerald Lauze [made a giant cassette of Kirk Van Houten’s Can I Borrow a Feeling?](https://www.instagram.com/p/BqOHtXEBj9d/) and used the track names from [our review on it](https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/). Pretty cool. At over 6,000 words our longest article by far is Charlie Clissitt’s ranking of every single Bob Dylan studio album.
+What else… an American craftsman called Gerald Lauze [made a giant cassette of Kirk Van Houten’s Can I Borrow a Feeling?](https://www.instagram.com/p/BqOHtXEBj9d/) and used the track names from [our review on it](https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/). Pretty cool. At over 6,000 words our longest article by far is [Charlie Clissitt’s truly epic ranking of every single Bob Dylan studio album](/articles/bob-dylan-studio-albums-ranked/).
 
-## The numbers don’t decide 
+## The numbers don’t decide
 
 _Audioxide_ started as a hobby and that’s what it remains. We do it to enrich our lives with good music and good talk. The stats are fun — and as we’ve seen, sometimes useful — but as much as anything else they’re an excuse to look back on all the ground we’ve covered together.
 
