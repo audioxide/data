@@ -121,7 +121,7 @@ The 1980s are currently the ‘weakest’ decade, scoring an average of 22.235. 
 |                  | **Highest scoring album(s)**                                                                                                                                       | **Score** |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | **1950s**            | [_Kind of Blue_](/reviews/miles-david-kind-of-blue/) by Miles Davis                                                                                                                                    | 27    |
-| **1960s**            | [_Highway 61 Revisited_](/reviews/bob-dylan-highway-61-revisited/) by Bob Dylan, Revolver by The Beatles                                                                                                     | 26    |
+| **1960s**            | [_Highway 61 Revisited_](/reviews/bob-dylan-highway-61-revisited/) by Bob Dylan, [_Revolver_](/reviews/the-beatles-revolver/) by The Beatles                                                                                                     | 26    |
 | **1970s**            | [_Songs in the Key of Life_](/reviews/stevie-wonder-songs-in-the-key-of-life/) by Stevie Wonder                                                                                                                      | 28    |
 | **1980s**            | [_Fresh Fruit for Rotting Vegetables_](/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/) by Dead Kennedys, [_Remain in Light_](/reviews/talking-heads-remain-in-light/) by Talking Heads, [_Purple Rain_](/reviews/prince-purple-rain/) by Prince, [_Hounds of Love_](/reviews/kate-bush-hounds-of-love/) by Kate Bush, [_Doolittle_](/reviews/pixies-doolittle/) by Pixies | 25    |
 | **1990s**            | [_OK Computer_](/reviews/radiohead-ok-computer/) by Radiohead                                                                                                                                       | 29    |
@@ -150,7 +150,7 @@ We’ve reviewed twice as many solo male artists as solo female artists. More th
 
 A similar narrowness emerges when we look at where the artists we’ve reviewed are from. The United States and England are by far the most common nationality (in that order). We’ve listened to music from 15 different countries in all so far. The _Audioxide_ empire as it stands looks pretty good to us.
 
-![Filler](article-images/filler.jpg)
+![Map showing home countries of artists reviewed by Audioxide in their first 250 reviews](article-images/statsioxide-250-world-map.png)
 
 I suspect the bias here is linguistic rather than regional or cultural, as lyrics play an important part in how we listen. Still, we’ve reviewed enough instrumental albums to know this is an area we can also stand to be more adventurous in. One of the reasons we started reviewing albums together was to introduce each other to new music, after all.
 
@@ -160,7 +160,7 @@ There are a few more stats worth mentioning. Iterations of the site come to mind
 
 Bizarrely we’ve also had a fair few visitors over the years — tens of thousands, apparently. According to Google around 4,000 people a month find the site through search engine queries. [One of our reviews has even turned up as a source on Wikipedia](https://en.m.wikipedia.org/wiki/Surrealistic_Pillow). (We had nothing to do with it, we swear.)
 
-![Filler](article-images/filler.jpg)
+![Giant cassette of 'Can I Borrow a Feeling?' by Kirk Van Houten](article-images/statsioxide-250-can-i-borrow-a-feeling.jpg)
 
 What else… an American craftsman called Gerald Lauze [made a giant cassette of Kirk Van Houten’s Can I Borrow a Feeling?](https://www.instagram.com/p/BqOHtXEBj9d/) and used the track names from [our review on it](https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/). Pretty cool. At over 6,000 words our longest article by far is Charlie Clissitt’s ranking of every single Bob Dylan studio album.
 
