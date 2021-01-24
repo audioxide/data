@@ -88,23 +88,23 @@ Only 14 of the first 250 albums made it in. That’s a 5.6% success rate. Only t
 
 #### New releases
 
-- _[To Pimp a Butterfly](https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/)_ by Kendrick Lamar
-- _[Visions of a Life](https://audioxide.com/reviews/wolf-alice-visions-of-a-life/)_ by Wolf Alice
+- _[To Pimp a Butterfly](/reviews/kendrick-lamar-to-pimp-a-butterfly/)_ by Kendrick Lamar
+- _[Visions of a Life](/reviews/wolf-alice-visions-of-a-life/)_ by Wolf Alice
 
 #### Retrospectives
 
-- _[OK Computer](https://audioxide.com/reviews/radiohead-ok-computer)_ by Radiohead
-- _[Homogenic](https://audioxide.com/reviews/bjork-homogenic/)_ by Björk
-- _[The Downward Spiral](https://audioxide.com/reviews/nine-inch-nails-the-downward-spiral/)_ by Nine Inch Nails
-- _[Midnight Marauders](https://audioxide.com/reviews/a-tribe-called-quest-midnight-marauders/)_ by A Tribe Called Quest
-- _[Songs in the Key of Life](https://audioxide.com/reviews/stevie-wonder-songs-in-the-key-of-life/)_ by Stevie Wonder
-- _[Cosmogramma](https://audioxide.com/reviews/flying-lotus-cosmogramma)_ by Flying Lotus
-- _[Meet The Be Sharps](https://audioxide.com/reviews/the-be-sharps-meet-the-be-sharps/)_ by The Be Sharps
-- _[Low](https://audioxide.com/reviews/david-bowie-low)_ by David Bowie
-- _[On the Beach](https://audioxide.com/reviews/neil-young-on-the-beach/)_ by Neil Young
-- _[The Dark Side of the Moon](https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/)_ by Pink Floyd
-- _[After the Gold Rush](https://audioxide.com/reviews/neil-young-after-the-gold-rush/)_ by Neil Young
-- _[Kind of Blue](https://audioxide.com/reviews/miles-davis-kind-of-blue/)_ by Miles Davis
+- _[OK Computer](/reviews/radiohead-ok-computer)_ by Radiohead
+- _[Homogenic](/reviews/bjork-homogenic/)_ by Björk
+- _[The Downward Spiral](/reviews/nine-inch-nails-the-downward-spiral/)_ by Nine Inch Nails
+- _[Midnight Marauders](/reviews/a-tribe-called-quest-midnight-marauders/)_ by A Tribe Called Quest
+- _[Songs in the Key of Life](/reviews/stevie-wonder-songs-in-the-key-of-life/)_ by Stevie Wonder
+- _[Cosmogramma](/reviews/flying-lotus-cosmogramma)_ by Flying Lotus
+- _[Meet The Be Sharps](/reviews/the-be-sharps-meet-the-be-sharps/)_ by The Be Sharps
+- _[Low](/reviews/david-bowie-low)_ by David Bowie
+- _[On the Beach](/reviews/neil-young-on-the-beach/)_ by Neil Young
+- _[The Dark Side of the Moon](/reviews/pink-floyd-the-dark-side-of-the-moon/)_ by Pink Floyd
+- _[After the Gold Rush](/reviews/neil-young-after-the-gold-rush/)_ by Neil Young
+- _[Kind of Blue](/reviews/miles-davis-kind-of-blue/)_ by Miles Davis
 
 Funnily enough the first ever new release we reviewed together was _To Pimp a Butterfly_ by Kendrick Lamar. Talk about peaking early. We’ve been chasing the dragon ever since.
 
