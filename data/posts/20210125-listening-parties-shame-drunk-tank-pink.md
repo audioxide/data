@@ -1,6 +1,6 @@
 ---
-created: 2021-01-18T09:00:00.000Z
-modified: 2021-01-18T09:00:00.000Z
+created: 2021-01-25T12:00:00.000Z
+modified: 2021-01-25T12:00:00.000Z
 slug: shame-drunk-tank-pink
 type: listening-parties
 title: "‘Quite comfortably the best thing I've listened to this year’ - André and Andrew listen to Shame"
