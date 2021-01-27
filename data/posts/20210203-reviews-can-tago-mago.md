@@ -9,7 +9,7 @@ tags:
   - can
   - punk
 featuredimage: album-artwork/tago-mago-can.jpg
-artworkCredit: was designed by Ulrich Eichberger
+artworkCredit: was designed by Ulrich Eichberger.
 artworkCreditSource: https://www.discogs.com/artist/1839365-Ulrich-Eichberger
 artist: Can
 album: Tago Mago
