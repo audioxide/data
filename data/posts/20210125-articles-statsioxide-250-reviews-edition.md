@@ -28,7 +28,7 @@ To celebrate the milestone I’m diving ([back](/articles/statsioxide-our-first-
 
 ## Brass tacks
 
-Our first ever album review was in January, 2015, and it was of [_Bossanova_](/reviews/pixies-bossanova/) by Pixies. It was ok. At the time Andrew and I were in the final years of our respective undergraduate degrees. Andre, having graduated a year earlier, had just started tending bar at an independent venue called the Ramsgate Music Hall.
+Our first ever album review was in January, 2015, and it was of [_Bossanova_](/reviews/pixies-bossanova/) by Pixies. It was ok. At the time Andrew and I were in the final years of our respective undergraduate degrees. Andre, having graduated a year earlier, had just started tending bar at an independent venue called the [Ramsgate Music Hall](https://www.ramsgatemusichall.com/).
 
 Our 250th album review was in October, 2020, and it was of [_Pet Sounds_](/reviews/the-beach-boys-pet-sounds) by The Beach Boys. It was great. By then I was a journalist and international sex symbol, Andrew was a full stack developer, and Andre had worked his way up to be co-owner of the Ramsgate Music Hall. Good going.
 
