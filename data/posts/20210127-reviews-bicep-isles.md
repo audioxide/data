@@ -31,7 +31,7 @@ colours:
   - "#fb3f36"
   - "#fff8fb"
   - "#fff8fb"
-pullquote: ‘Bicep-lite’ rather than a ‘Bicep at home’
+pullquote: Bicep-lite rather than Bicep at home
 summary: Tracks swirl about at a slower pace than in Bicep’s debut, and it often feels as though in creating a ‘home version’ of their music they have instead cut out the excitement.
 week: 255
 blurb: Tracks swirl about at a slower pace than in Bicep’s debut. It often feels as though in creating a ‘home version’ they have instead cut out the excitement.
