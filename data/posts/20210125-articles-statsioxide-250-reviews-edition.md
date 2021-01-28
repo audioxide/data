@@ -36,11 +36,14 @@ Of our first 250 reviews 136 were of new releases and 114 were retrospectives. *
 
 Below is the full distribution of overall _Audioxide_ scores, old and new.
 
-![Filler](article-images/filler.jpg)
+![Filler](article-images/statsioxide-250-all-scores.jpg)
 
 The average _Audioxide_ score for new releases is **19.897 out of 30**. For retrospectives it’s **23.211**, and the overall average is **21.408**. The distribution of scores for new releases by year is below.
 
-![Filler](article-images/filler.jpg)
+<div class="gif-container">
+    <iframe title="New release review scores by year" aria-label="Stacked Bars" id="datawrapper-chart-Fryik" src="https://datawrapper.dwcdn.net/Fryik/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="315"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+</div>
 
 We tend to lean towards stuff we don’t think we’ll hate, which is why the top of the bell curve is higher than the likes of _Pitchfork_ or _The Needle Drop_. Still, we’re no pushovers when it comes to new releases, as shown by our top scores from each year.
 
@@ -114,7 +117,10 @@ To date the only artist to appear more than once in the 27+ Club is Neil Young. 
 
 In retrospective reviews the most popular decade by far has been the 1990s. We’ve listened to 34 albums from the decade, giving an average score of 23.474. We’re all ‘90s brats, so this fits.
 
-![Filler](article-images/filler.jpg)
+<div class="gif-container">
+    <iframe title="Number of albums reviewed from each decade" aria-label="Bar Chart" id="datawrapper-chart-lmPk4" src="https://datawrapper.dwcdn.net/lmPk4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="361"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+</div>
 
 The 1980s are currently the ‘weakest’ decade, scoring an average of 22.235. The highest scoring albums from each decade so far are:
 
@@ -134,7 +140,10 @@ Not a bad bunch. The sixties, eighties, and noughties are yet to crack the **27+
 
 Rock was by far and away our most listened to genre, with 133 of the 250 albums falling under that umbrella. The next largest was electronic with 44 albums, then hip hop with 30. You’re always playing with broad strokes when the genres are this loose, but so it goes.
 
-![Filler](article-images/filler.jpg)
+<div class="gif-container">
+    <iframe title="Number of reviews by genre" aria-label="chart" id="datawrapper-chart-7s52w" src="https://datawrapper.dwcdn.net/7s52w/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="409"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+</div>
 
 Rock also had the highest average score with **21.647**. Next was hip hop with **21.633**, then electronic with **21.068**. Surprising no-one, pop was the poorest performer at **20.056**. It’s not really our bag, baby.
 
@@ -142,7 +151,10 @@ Rock also had the highest average score with **21.647**. Next was hip hop with *
 
 This was something we hadn’t looked at before — the genders of artists whose albums we’ve reviewed. We thought the results would more or less balance out and boy were we wrong. (Pun not intended, but probably appropriate.)
 
-![Filler](article-images/filler.jpg)
+<div class="gif-container">
+    <iframe title="Genders of those reviewed" aria-label="chart" id="datawrapper-chart-a6j3g" src="https://datawrapper.dwcdn.net/a6j3g/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="409"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+</div>
 
 We’ve reviewed twice as many solo male artists as solo female artists. More than half of the artists we’ve reviewed were groups, but even they tend to be pretty blokey affairs. Is this an industry thing? An us thing? We expect a bit of both, though let’s be real; there’s more than enough music out there for those numbers to be more representative than they are. Something for us to keep an eye on over the next 250.
 
