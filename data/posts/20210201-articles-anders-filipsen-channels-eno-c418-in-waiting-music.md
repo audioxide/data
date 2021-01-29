@@ -11,7 +11,7 @@ tags:
 featuredimage: article-images/anders-filipsen-portrait.jpg
 featuredimageAlt: Artwork of Spotify as a musical meat grinder
 title: Anders Filipsen channels Brian Eno and C418 in solo debut ‘Waiting Music’
-summary: Few people whinge about electronic music more than I do, but when the genre lands it truly is majestic. Danish composer Anders Filipsen delivers something serene and uncannily innocent in this LP
+summary: Few people whinge about electronic music more than I do, but when the genre lands it truly is majestic. Danish composer Anders Filipsen delivers something serene and uncannily innocent in this record
 author: fred
 blurb: Danish composer Anders Filipsen delivers something serene and uncannily innocent, bringing a playfulness to gentle, pensive ambient soundscapes. 
 
@@ -19,7 +19,7 @@ blurb: Danish composer Anders Filipsen delivers something serene and uncannily i
 
 <figure class="wide">
   <img src="album-artwork/waiting-music-anders-filipsen.jpg" alt="Album artwork of 'Waiting Music' by Anders Filipsen" />
-  <figcaption>Album artwork by [Ditte Bolt](www.dittebolt.dk)</figcaption>
+  <figcaption>Album artwork by <a href="www.dittebolt.dk">Ditte Bolt</a></figcaption>
 </figure>
 
 Danish composer [Anders Filipsen](https://www.andersfilipsen.com/) has released an album called _[Waiting Music](https://andersfilipsen.bandcamp.com/album/waiting-music)_, and I think it’s really, really good. Composed of unedited live takes of four synthesizers, the tracks flow with the gentleness and grace of a Spring breeze. Although it has all the hallmarks of great ambient music, there are enough wildcards sprinkled across the album to keep it from feeling at all samey. 
