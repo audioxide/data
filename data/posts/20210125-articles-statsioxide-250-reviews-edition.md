@@ -36,7 +36,7 @@ Of our first 250 reviews 136 were of new releases and 114 were retrospectives. *
 
 Below is the full distribution of overall _Audioxide_ scores, old and new.
 
-![Filler](article-images/statsioxide-250-all-scores.jpg)
+![Line chart showing the distribution of scores in Audioxide's first 250 album reviews](article-images/statsioxide-250-all-scores.jpg)
 
 The average _Audioxide_ score for new releases is **19.897 out of 30**. For retrospectives it’s **23.211**, and the overall average is **21.408**. The distribution of scores for new releases by year is below.
 
