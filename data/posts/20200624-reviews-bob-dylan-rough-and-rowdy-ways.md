@@ -9,10 +9,9 @@ tags:
   - bob dylan
   - rock
   - blues
-  - kendrick lamar
   - neil young
 featuredimage: album-artwork/rough-and-rowdy-ways-bob-dylan.jpg
-artworkCredit: features a photograph by British photojournalist Ian Berry. It was taken in 1964 at an underground club on Cable Street in east London, which Berry left when people started throwing beer bottles at him. “It’s something that happens a lot to photographers in different parts of the world,” he said, “but I think it’s the only time it happened in England to me.”
+artworkCredit: features a photograph by British photojournalist Ian Berry. It was taken in 1964 at an underground club on Cable Street in east London, which Berry left when people started throwing beer bottles at him. ‘It’s something that happens a lot to photographers in different parts of the world,’ he said, ‘but I think it’s the only time it happened in England to me.’
 artworkCreditSource: https://www.rollingstone.com/music/music-news/how-a-56-year-old-photo-wound-up-on-the-cover-of-bob-dylans-upcoming-lp-997105/
 artist: Bob Dylan
 album: Rough and Rowdy Ways
