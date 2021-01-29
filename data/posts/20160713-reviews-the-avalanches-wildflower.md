@@ -8,6 +8,7 @@ tags:
   - the avalanches
   - electronic
   - disco
+  - mf doom
 featuredimage: album-artwork/wildflower-the-avalanches.jpg
 artist: The Avalanches
 album: Wildflower
@@ -37,11 +38,11 @@ artistLink: https://artists.sound-merch.com.au/theavalanches/
 author: André
 
 review: >-
-  The Avalanches have finally returned with a new record, and it’s fairly good. Thank heavens. *Wildflower* is brimming with positive energy, and is a worthy, if lopsided follow-up to the acclaimed *Since I Left You*. The music is carefree, graceful, and extremely accessible, with an open-ended structure that makes the listening experience feel like a vast and joyous journey. 
+  The Avalanches have finally returned with a new record, and it’s fairly good. Thank heavens. *Wildflower* is brimming with positive energy, and is a worthy, if lopsided follow-up to the acclaimed *Since I Left You*. The music is carefree, graceful, and extremely accessible, with an open-ended structure that makes the listening experience feel like a vast and joyous journey.
   
   Core tracks are connected by gorgeous instrumental interludes, meaning the record flows effortlessly in a unified, summery package. *Wildflower* promptly sets a jubilant tone with “Because I’m Me”, and the rest of the album follows suit with breezy beats and psychedelic tones. The feature of guest vocalists is what really sets it apart from *SILY*: some work well, others less so, but they are all cohesive collaborations. 
   
-  Most of the miscues occur in tracks that feature rappers (“Live a Lifetime Love” is an unwelcome distraction, whilst “Clumsy Eater” is charming in its absurdity), whereas the indie pop songs are generally a success. *Wildflower’s* one significant blemish is its lacklustre final third, which tends to drag out the tail of the record. After a while you’re just a little fed up of waiting for it all to end, which is unfortunate considering the strength of what precedes the slog. The nostalgic novelty doesn’t wear off as such, but it does reveal the album’s dependence on the feel-good sensitivities of Summer, and I wonder if the experience relies too heavily on its seasonal warmth. 
+  Most of the miscues occur in tracks that feature rappers (“Live a Lifetime Love” is an unwelcome distraction, whilst “Clumsy Eater” is charming in its absurdity), whereas the indie pop songs are generally a success. *Wildflower’s* one significant blemish is its lacklustre final third, which tends to drag out the tail of the record. After a while you’re just a little fed up of waiting for it all to end, which is unfortunate considering the strength of what precedes the slog. The nostalgic novelty doesn’t wear off as such, but it does reveal the album’s dependence on the feel-good sensitivities of Summer, and I wonder if the experience relies too heavily on its seasonal warmth.
   
   Even so, *Wildflower* is a solid return, and I hope we get to see another album from The Avalanches sooner rather than later. They’re clearly well equipped and fully capable of creating a brilliant record — *Wildflower* will assuredly age more favourably if it’s followed by an excellent continuation, becoming the start of a rewarding new Avalanches era. As of now, it’s a welcome sequel that generally pushes the right buttons and almost, *almost*, gets it spot on.
 
