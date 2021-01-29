@@ -26,7 +26,7 @@ blurb: Gliding in under the radar at the tail end of last year, the Australian d
   <figcaption>Album artwork by <a href="http://zawada.art/">Jonathan Zawada</a></figcaption>
 </figure>
 
-The Avalanches aren’t prolific with their output by any stretch. Their sophomore studio album, [_Wildflower_](/reviews/the-avalanches-wildflower/) was sixteen years in the making after their critically acclaimed debut. _We Will Always Love You_ was unexpectedly prompt in its arrival in comparison.
+The Avalanches aren’t prolific with their output by any stretch. Their sophomore studio album, [_Wildflower_](/reviews/the-avalanches-wildflower/) was sixteen years in the making after their critically acclaimed debut. [_We Will Always Love You_](https://theavalanches.lnk.to/WeWillAlwaysLoveYou) was unexpectedly prompt in its arrival in comparison.
 
 Released at the start of last December, when annual [top tens](/articles/our-10-favourite-albums-of-2020/) and best-ofs are at the top of the agenda, their latest album made a quiet entrance, but with a 70-minute playtime and a star-studded tracklist it’s well worth a listen.
 
