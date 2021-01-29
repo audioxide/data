@@ -13,7 +13,7 @@ featuredimageAlt: Artwork of Spotify as a musical meat grinder
 title: Anders Filipsen channels Brian Eno and C418 in solo debut ‘Waiting Music’
 summary: Few people whinge about electronic music more than I do, but when the genre lands it truly is majestic. Danish composer Anders Filipsen delivers something serene and uncannily innocent in this record
 author: fred
-blurb: Danish composer Anders Filipsen delivers something serene and uncannily innocent, bringing a playfulness to gentle, pensive ambient soundscapes. 
+blurb: Danish composer Anders Filipsen delivers something serene and uncannily innocent, bringing a playfulness to his sweeping ambient soundscapes. 
 
 ---
 
