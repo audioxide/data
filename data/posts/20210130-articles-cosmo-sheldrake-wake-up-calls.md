@@ -9,7 +9,7 @@ tags:
   - avant garde
 featuredimage: article-images/cosmo-sheldrake-portrait.jpg
 featuredimageAlt: Album artwork of 'Wake Up Calls' by Cosmo Sheldrake
-title: Cosmo Sheldrake transports listener to warmer, wilder climes in ‘Wake Up Calls’
+title: Cosmo Sheldrake transports listeners to warmer, wilder climes with the birdsong of ‘Wake Up Calls’
 author: andrew
 summary: Using recordings from birds (mostly) on the red and amber endangered lists in Britain, Sheldrake layers and manipulates birdsong to produce music as calming as it is beautiful
 blurb: Using recordings from birds (mostly) on endangered lists in Britain, Sheldrake layers and manipulates birdsong to produce music as calming as it is beautiful
