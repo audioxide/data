@@ -9,7 +9,7 @@ tags:
   - brian eno
   - david bowie
 featuredimage: article-images/anders-filipsen-portrait.jpg
-featuredimageAlt: Artwork of Spotify as a musical meat grinder
+featuredimageAlt: Photograph of Danish composer Anders Filipsen
 title: Anders Filipsen channels Brian Eno and C418 in solo debut ‘Waiting Music’
 summary: Few people whinge about electronic music more than I do, but when the genre lands it truly is majestic. Danish composer Anders Filipsen delivers something serene and uncannily innocent in this record
 author: fred
@@ -28,4 +28,4 @@ The closest things we’ve formally reviewed on _Audioxide_ are probably _[Ambie
 
 Filipsen says the goal with _Waiting Music_ was ‘stepping back and letting things take shape without intervention,’ and I think he’s delivered on that. The album is meditative, but it also has a playful streak. On tracks like “III” and “VIII” I find myself thinking of C418’s arrangements _Minecraft_ of all things. The ebb and flow of different synth tones has that same far-off innocence to it, I suppose.
 
-_Waiting Music_ is an altogether weightier project, though. The experience is expansive and bold, but also deeply serene. Far from sterile or robotic, the album’s pensive, melodic flow feels more like the hum of nature. It amounts to somethings uninhibited rather than uneventful, like instinct in slow motion. Ambient fans will be well served by _Waiting Music_’s offerings. For my part I suspect I’ll be listening to it a fair bit in the coming months.
+_Waiting Music_ is an altogether weightier project, though. The experience is expansive and bold, but also deeply serene. Far from sterile or robotic, the album’s pensive, melodic flow feels more like the hum of nature. It’s uninhibited rather than uneventful, like instinct in slow motion. Ambient fans will be well served by _Waiting Music_’s offerings. For my part I suspect I’ll be listening to it a fair bit in the coming months.
