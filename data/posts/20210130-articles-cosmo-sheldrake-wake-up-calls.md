@@ -1,7 +1,7 @@
 ---
-created: 2021-01-30T12:00:00.000Z
-modified: 2021-01-30T12:00:00.000Z
-slug: cosmo-sheldrake-wake-up-calls
+created: 2021-02-08T12:00:00.000Z
+modified: 2021-02-08T12:00:00.000Z
+slug: cosmo-sheldrake-transports-listeners-with-birdsong-of-wake-up-calls
 type: articles
 tags:
   - cosmo sheldrake
