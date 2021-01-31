@@ -27,6 +27,6 @@ Created over nine years using recordings from birds (mostly) on the red and ambe
 
 At the centre of the tracklist, “Cuckoo Song” is the only track with a vocal, moving the bird song to the background and focussing on a chorus of vocal backing to provide a pensive, delicate piece with a more intimate, human touch than the rest of the album.
 
-By the closing moments, “Nightingale, Pt. 2” delivers a quaint, marry pastiche that sends me straight into the middle of a deserted forest, making it hard to pull myself away from the album. Just shy of half an hour long, _Wake Up Calls_ often finishes all too quickly. I’ve certainly gone in for second listens without hesitation.
+By the closing moments, “Nightingale, Pt. 2” delivers a quaint, merry pastiche that sends me straight into the middle of a deserted forest, making it hard to pull myself away from the album. Just shy of half an hour long, _Wake Up Calls_ often finishes all too quickly. I’ve certainly gone in for second listens without hesitation.
 
 Audio diversion or not, _Wake Up Calls_ made for a corner of tranquillity at the end of my year. Playing it during a sun-filled dawn makes for quite the impact, and in these dreary days of winter it can transport its listener to warmer, wilder climes. An effect I’d consider a superpower. For that, I can only thank Cosmo Sheldrake and heartily recommend giving his music a listen.
