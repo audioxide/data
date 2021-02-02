@@ -15,6 +15,8 @@ tags:
   - pop rock
   - muse
 featuredimage: album-artwork/parachutes-coldplay.jpg
+artworkCredit: features a photograph of a globe taken by the band with a disposable Kodak camera. They supposedly bought the globe from WHSmith for ten quid.
+artworkCreditSource: https://www.gigwise.com/news/42732/
 artist: Coldplay
 album: Parachutes
 essentialtracks:
