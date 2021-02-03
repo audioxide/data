@@ -10,6 +10,7 @@ tags:
   - alternative rock
   - joy division
   - public image ltd
+  - can
 featuredimage: album-artwork/this-nations-saving-grace-the-fall.jpg
 artist: The Fall
 album: This Nation's Saving Grace
