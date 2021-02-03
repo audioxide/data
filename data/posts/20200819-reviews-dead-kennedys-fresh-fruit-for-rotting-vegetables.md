@@ -13,7 +13,7 @@ tags:
   - the fall
   - ramones
 featuredimage: album-artwork/fresh-fruit-for-rotting-vegetables-dead-kennedys.jpg
-artworkCredit: features a photograph from the White Night Riots of May 21st, 1979. The riots were in response to the lenient sentence received by Dan White for murdering San Francisco Mayor George Moscone and Supervisor Harvey Milk. The typeface used is Engravers' Old English by Morris Fuller Benton.
+artworkCredit: features a photograph from the White Night Riots of May 21st, 1979. The riots were in response to the lenient sentence received by Dan White for murdering San Francisco Mayor George Moscone and Supervisor Harvey Milk. The typeface used is Engravers’ Old English by Morris Fuller Benton.
 artworkCreditSource: https://people.southwestern.edu/~bednarb/su_netWorks/projects/carter/DK.html
 artist: Dead Kennedys
 album: Fresh Fruit for Rotting Vegetables
