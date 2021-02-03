@@ -13,6 +13,7 @@ tags:
   - rock
   - progressive rock
   - avant garde
+  - experimental
   - davide bowie
   - radiohead
   - the simpsons
@@ -39,7 +40,7 @@ colours:
 pullquote: A hypnotic, woozy, weird anomaly
 summary: Like a house party, it invites you in with a chilled groove and warm atmosphere. Midway through, someone pulls out something a little stronger, all hell breaks loose, time disappears, and the next moment you’re dazed, confused and nursing a warm drink before being promptly turfed out.
 week: 256
-blurb: The record listens like an all-night jam at an impossibly cool bohemian gettogether. It’s funky, relaxed, audacious, exhausting... Above all, it’s brilliant.
+blurb: The record listens like an all-night jam at an impossibly cool bohemian gettogether. It’s funky, relaxed, audacious, exhausting... but above all, it’s brilliant.
 artistMBID: 13501c7d-d181-45ba-af52-5f101d8516a0
 albumMBID: 13d08c0e-14e2-30b2-9ad7-5f501761a8ea
 artistLink: https://www.spoonrecords.com/
