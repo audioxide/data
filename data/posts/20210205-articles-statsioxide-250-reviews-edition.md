@@ -9,6 +9,34 @@ tags:
   - kendrick lamar
   - david bowie
   - radiohead
+  - wolf alice
+  - robyn
+  - kurt vile
+  - idles
+  - oneohtrix point never
+  - tyler the creator
+  - laura marling
+  - run the jewels
+  - bjork
+  - nine inch nails
+  - a tribe called quest
+  - flying lotus
+  - the simpsons
+  - neil young
+  - pink floyd
+  - miles davis
+  - bob dylan
+  - the beatles
+  - stevie wonder
+  - dead kennedys
+  - talking heads
+  - prince
+  - kate bush
+  - eminem
+  - arcade fire
+  - muse
+  - gorillaz
+  - lcd soundsystem
 featuredimage: article-images/statsioxide-250-featured-image.jpg
 featuredimageAlt: Artwork of Spotify as a musical meat grinder
 title: "Statsioxide: our first 250 reviews in numbers"
@@ -45,7 +73,7 @@ The average _Audioxide_ score for new releases is **19.897 out of 30** (or 6.63 
 </script>
 </div>
 
-We tend to lean towards stuff we don’t think we’ll hate, which is why the top of the bell curve overall is higher than _The Needle Drop_ (6.25/10) and _Pitchfork_ ([7.00/10](https://nolanbconaway.github.io/blog/2017/pitchfork-roundup.html)). Still, we’re no pushovers when it comes to new releases, as shown by our top scores from each year.
+We tend to lean towards stuff we don’t think we’ll hate, which is why the top of the bell curve overall is higher than _The Needle Drop_ ([6.25/10](https://www.youtube.com/watch?v=jJY3QrKQRWE)) and _Pitchfork_ ([7.00/10](https://nolanbconaway.github.io/blog/2017/pitchfork-roundup.html)). Still, we’re no pushovers when it comes to new releases, as shown by our top scores from each year.
 
 | **Year** | **Highest scoring new album(s)**                                                                                         | **Score** |
 |----------|--------------------------------------------------------------------------------------------------------------------------|-----------|
