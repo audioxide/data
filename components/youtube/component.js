@@ -7,16 +7,6 @@ class YouTubeVideo extends HTMLElement {
     constructor() {
         super();
         this.addEventListener('click', (e) => {
-            let ratioMultiplier = 0.5625; // 16:9;
-            const ratio = this.getAttribute('ratio');
-            if (typeof ratio === 'string') {
-                const [denominator, numerator] = ratio.split(':');
-                const userMultiplier = Number(numerator) / Number(denominator);
-                if (Number.isFinite(userMultiplier)) {
-                    ratioMultiplier = userMultiplier;
-                }
-            }
-
             const videoId = this.getAttribute('video-id');
             e.preventDefault();
             const shadow = this.attachShadow({ mode: 'open' });
@@ -26,8 +16,14 @@ class YouTubeVideo extends HTMLElement {
             frame.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
             frame.setAttribute('allowfullscreen', '');
             frame.setAttribute('frameborder', 0);
-            frame.width = 560;
-            frame.height = 560 * ratioMultiplier;
+            Object.assign(frame.style, {
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%',
+                height: '100%',
+                border: 0,
+            });
 
             shadow.appendChild(frame);
         }, false);

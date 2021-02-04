@@ -2,11 +2,12 @@
 # yarn lockfile v1
 
 
-"@audioxide/data-processor@0.13.0--alpha.1":
-  version "0.13.0--alpha.1"
-  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.13.0--alpha.1/118a108641de3846ff5c19c29aca9aaad40df3f7ac63b3fab3897e2c70b886d2#2edda9ef04f9480a8ab07b724007bfdde02e10b2"
-  integrity sha512-zCwHPefOTKnzjAOlVVGTTUdSE+stezkn74VrvebTAHOQCjNH7D4SJVyoUEDwi60d4SIluGqJGP/2bmfJtIhrmw==
+"@audioxide/data-processor@0.13.0--alpha.4":
+  version "0.13.0--alpha.4"
+  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.13.0--alpha.4/09e68be993523ae3edd039df28a685426769b04d5818387d13d2f9f21f8e402d#5cb351b019b191c694d429444898cd96639e8ba9"
+  integrity sha512-FslQF2skDb9jiEqS5I7KGWINt0nEIWjHjN4CenU4ev5R0kaVcBqs/Bzlr4KR6mq9UxZVXfxvDxqHso7yALV70Q==
   dependencies:
+    "@parcel/transformer-svgo" "^2.0.0-nightly.1739"
     flexsearch "^0.6.32"
     jsdom "^16.4.0"
     lodash "^4.17.15"
@@ -1297,6 +1298,13 @@
   dependencies:
     "@parcel/plugin" "2.0.0-nightly.562+36de59e1"
 
+"@parcel/plugin@2.0.0-nightly.117+ed04041c":
+  version "2.0.0-nightly.117"
+  resolved "https://registry.yarnpkg.com/@parcel/plugin/-/plugin-2.0.0-nightly.117.tgz#1cfaff0a2330583af3401085a24279c26de5fe42"
+  integrity sha512-bVMqVTlVi0+WgPIH6xY/P43GxlZ84ep6mRsX8e/nWn07PzRSF8borsVd+JgC5Lyqvb62G5rXoUvpVoHlFkdqBg==
+  dependencies:
+    "@parcel/types" "2.0.0-nightly.117+ed04041c"
+
 "@parcel/plugin@2.0.0-nightly.562+36de59e1":
   version "2.0.0-nightly.562"
   resolved "https://registry.yarnpkg.com/@parcel/plugin/-/plugin-2.0.0-nightly.562.tgz#aafd1e57db391b2e5765578de68347422a3ee2e0"
@@ -1647,6 +1655,14 @@
     "@parcel/plugin" "2.0.0-nightly.562+36de59e1"
     postcss "^8.0.5"
 
+"@parcel/transformer-svgo@^2.0.0-nightly.1739":
+  version "2.0.0-nightly.1739"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-svgo/-/transformer-svgo-2.0.0-nightly.1739.tgz#2a1e42c9233612bdcc3e55c8a49f387f8bec39df"
+  integrity sha512-0Uu6tO2mdqZSj/XV7CGBQ8xaax1KLaSVUdhir5LGqfv4q+NOg86Hk8OIyEP30Wbq2ko/tQv41UxxXJo7xx5n+w==
+  dependencies:
+    "@parcel/plugin" "2.0.0-nightly.117+ed04041c"
+    svgo "^1.3.2"
+
 "@parcel/transformer-toml@2.0.0-nightly.562+36de59e1":
   version "2.0.0-nightly.562"
   resolved "https://registry.yarnpkg.com/@parcel/transformer-toml/-/transformer-toml-2.0.0-nightly.562.tgz#64082976b57015f9f24642e7bee7129880b65838"
@@ -1690,6 +1706,11 @@
   integrity sha512-d0EcEFN6bGQsZJBsiKFEGg0IGEisDQgS2zb2JZWKQV+y4xvk7M41GbU70yCjEs8cL8aVfbpBc6OUqhELVRNm6g==
   dependencies:
     nullthrows "^1.1.1"
+
+"@parcel/types@2.0.0-nightly.117+ed04041c":
+  version "2.0.0-nightly.117"
+  resolved "https://registry.yarnpkg.com/@parcel/types/-/types-2.0.0-nightly.117.tgz#386cd5ea7844b0f6110fc36c615f0d2f718c7080"
+  integrity sha512-Hp9xB9AhMPPaFNG7b3NjR68D7rPMIuCWbYp1nhwt5dqmJ+FWJc7DTAqhfxl7NDrEkNJZY/DL8wy8gfs7yVT/WA==
 
 "@parcel/types@2.0.0-nightly.562+36de59e1":
   version "2.0.0-nightly.562"

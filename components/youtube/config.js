@@ -11,7 +11,12 @@ module.exports = {
         alt: text(desc),
     }),
     externalHost,
-    html: ({ videoId, desc, ratio }) => `<${tagName} video-id="${videoId}" ratio="${ratio || '16:9'}">
+    html: ({
+        videoId,
+        desc,
+        ratio = "16:9",
+        tone = "light",
+    }) => `<${tagName} video-id="${videoId}" ratio="${ratio}" tone="${tone}">
         <a href="${externalHost(videoId)}">
             <img src="${imageSrc(videoId)}" alt="${text(desc)}" />
         </a>
