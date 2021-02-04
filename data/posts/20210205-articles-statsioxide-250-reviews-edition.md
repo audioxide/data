@@ -1,6 +1,6 @@
 ---
-created: 2021-01-25T08:00:00.000Z
-modified: 2021-01-25T08:00:00.000Z
+created: 2021-02-05T08:00:00.000Z
+modified: 2021-02-05T08:00:00.000Z
 slug: statsioxide-250-reviews-edition
 type: articles
 tags:
@@ -11,7 +11,7 @@ tags:
   - radiohead
 featuredimage: article-images/statsioxide-250-featured-image.jpg
 featuredimageAlt: Artwork of Spotify as a musical meat grinder
-title: "Statsioxide: 250 reviews edition"
+title: "Statsioxide: our first 250 reviews in numbers"
 summary: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data
 author: fred
 blurb: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data.
@@ -22,30 +22,30 @@ blurb: After six long, resolutely joyless years we passed another album review m
   <img src="article-images/statsioxide-250-featured-image.jpg" alt="Collage of the first 250 albums reviewed by Audioxide" />
 </figure>
 
-In 2015, Andre, Andrew, and I started reviewing albums together. We’d choose a record, spend the week listening to it, spend an evening talking about it, then assign scores. We liked it, so we kept doing it, and in October of last year we hit our 250th review.
+In 2015, Andre, Andrew, and I started reviewing albums together. We’d choose a record, spend the week listening to it, spend an evening talking about it, then assign scores. It was a way to experience new music while learning more about ourselves and each other. We enjoyed the process, so we kept doing it, and in October of last year we hit our 250th review.
 
-To celebrate the milestone I’m diving ([back](/articles/statsioxide-our-first-150-reviews-in-numbers)) into the numbers behind our arbitrary numbers. Who doesn’t love seeing passion projects reduced to cold, impersonal data? We’ve got average scores, genre preferences, even a bit of institutional bias. A birds-eye view, in a nutshell, if you’ll forgive the mixed metaphors. 
+To celebrate the milestone I’m diving ([back](/articles/statsioxide-our-first-150-reviews-in-numbers)) into the numbers behind our arbitrary numbers. Who doesn’t love seeing passion projects reduced to cold, impersonal data reports? We’ve got average scores, genre preferences, even a bit of institutional bias. A birds-eye view, in a nutshell, if you’ll forgive the mixed metaphors.
 
 ## Brass tacks
 
 Our first ever album review was in January, 2015, and it was of [_Bossanova_](/reviews/pixies-bossanova/) by Pixies. It was ok. At the time Andrew and I were in the final years of our respective undergraduate degrees. Andre, having graduated a year earlier, had just started tending bar at an independent venue called the [Ramsgate Music Hall](https://www.ramsgatemusichall.com/).
 
-Our 250th album review was in October, 2020, and it was of [_Pet Sounds_](/reviews/the-beach-boys-pet-sounds) by The Beach Boys. It was great. By then I was a journalist and international sex symbol, Andrew was a full stack developer, and Andre had worked his way up to be co-owner of the Ramsgate Music Hall. Good going.
+Our 250th album review was in October, 2020, and it was of [_Pet Sounds_](/reviews/the-beach-boys-pet-sounds) by The Beach Boys. It was great. By then I was a journalist and international sex symbol, Andrew was a full stack developer, and André had worked his way up to be co-owner of the Ramsgate Music Hall. Good going all round.
 
 Of our first 250 reviews 136 were of new releases and 114 were retrospectives. **It would take almost eight and a half days to play all of the albums we’ve reviewed back to back**. Their combined length is a cool 202 hours, 27 minutes, and 32 seconds (give or take a few seconds.)
 
-Below is the full distribution of overall _Audioxide_ scores, old and new.
+Below is the full distribution of overall _Audioxide_ scores, old and new:
 
 ![Line chart showing the distribution of scores in Audioxide's first 250 album reviews](article-images/statsioxide-250-all-scores.jpg)
 
-The average _Audioxide_ score for new releases is **19.897 out of 30**. For retrospectives it’s **23.211**, and the overall average is **21.408**. The distribution of scores for new releases by year is below.
+The average _Audioxide_ score for new releases is **19.897 out of 30** (or 6.63 out of 10). For retrospectives it’s **23.21/30** (7.74/10), and the overall average is **21.41/30** (or 7.14). The distribution of scores for new releases by year is below.
 
 <div class="gif-container">
     <iframe title="New release review scores by year" aria-label="Stacked Bars" id="datawrapper-chart-Fryik" src="https://datawrapper.dwcdn.net/Fryik/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="315"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 </div>
 
-We tend to lean towards stuff we don’t think we’ll hate, which is why the top of the bell curve is higher than the likes of _Pitchfork_ or _The Needle Drop_. Still, we’re no pushovers when it comes to new releases, as shown by our top scores from each year.
+We tend to lean towards stuff we don’t think we’ll hate, which is why the top of the bell curve overall is higher than _The Needle Drop_ (6.25/10) and _Pitchfork_ ([7.00/10](https://nolanbconaway.github.io/blog/2017/pitchfork-roundup.html)). Still, we’re no pushovers when it comes to new releases, as shown by our top scores from each year.
 
 | **Year** | **Highest scoring new album(s)**                                                                                         | **Score** |
 |----------|--------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -60,7 +60,7 @@ _Song for Our Daughter_ by Laura Marling was the only time our highest rated alb
 
 ## Authors
 
-Overall _Audioxide_ scores are the three author scores combined — with the three authors usually being me (227 reviews), Andre (236), and Andrew (221). The last time I did this, at the 150 album mark, the emerging trend was that Andre was the kindest reviewer, I was the harshest, and Andrew floated breezily somewhere in between. This has held true.
+Overall _Audioxide_ scores are the three author scores combined — with the three authors usually being me (227 reviews), André (236), and Andrew (221). The last time I did this, at the 150 album mark, the emerging trend was that André was the kindest reviewer, I was the harshest, and Andrew floated breezily somewhere in between. This has held true.
 
 |            | **New releases average** | **Retrospectives average** | **Overall average** |
 |------------|--------------------------|----------------------------|---------------------|
@@ -70,7 +70,7 @@ Overall _Audioxide_ scores are the three author scores combined — with the thr
 
 I know what you’re thinking and the answer is yes, I did opt for three decimal places so my average score would stay below seven.
 
-The site has also had a rather lovely supporting cast of would-be critics who have stepped in when one of us has gone awol.
+The site has also had a rather lovely supporting cast of fellow would-be critics who have stepped in whenever one of us has gone awol.
 
 |             | **Reviews** | **Average score** |
 |-------------|-------------|-------------------|
@@ -83,11 +83,13 @@ The site has also had a rather lovely supporting cast of would-be critics who ha
 | **Rob**     | 1           | 9.000             |
 | **Kieran**  | 1           | 5.000             |
 
+We like to think Marcus has become something of a fourth musketeer, so it’s fitting that his own average score sits neatly between our own.
+
 ## The 27+ Club
 
-A consequence of our three-piece review system is high scores are actually _really_ hard to get. Getting a nine from one of us is hard; averaging nines from all of us borders on miraculous. Hence the very tastefully named **27+ Club** — the albums that have scored 27 or higher.
+A consequence of our three-piece review system is high scores are actually _really_ hard to get. Getting a nine from one of us is hard; averaging nines from all of us borders on miraculous. Hence our very tastefully named **27+ Club** — the albums that have scored 27 or higher.
 
-Only 14 of the first 250 albums made it in. That’s a 5.6% success rate. Only two of those were new releases, making the success rate there a mere 1.47%. The full list of club members is below.
+Only 14 of the first 250 albums made it in to the 27+ Club. That’s a 5.6% success rate. Only two of those were new releases, making the success rate there a mere 1.47%. The full list of members is below.
 
 ### New releases
 
@@ -109,13 +111,13 @@ Only 14 of the first 250 albums made it in. That’s a 5.6% success rate. Only t
 - _[After the Gold Rush](/reviews/neil-young-after-the-gold-rush/)_ by Neil Young
 - _[Kind of Blue](/reviews/miles-davis-kind-of-blue/)_ by Miles Davis
 
-Funnily enough the first ever new release we reviewed together was _To Pimp a Butterfly_ by Kendrick Lamar. Talk about peaking early. We’ve been chasing the dragon ever since.
+What a catalogue. Funnily enough the first ever new release we reviewed together was _To Pimp a Butterfly_ by Kendrick Lamar. Talk about peaking early. We’ve been chasing the dragon ever since.
 
-To date the only artist to appear more than once in the 27+ Club is Neil Young. We’ve reviewed two of his albums and both have made the cut. We love him.
+To date the only artist to appear more than once in the 27+ Club is Neil Young. We’ve reviewed two of his albums and both have made the cut. He is wonderful and we love him.
 
 ## Decades
 
-In retrospective reviews the most popular decade by far has been the 1990s. We’ve listened to 34 albums from the decade, giving an average score of 23.474. We’re all ‘90s brats, so this fits.
+In retrospective reviews the most popular decade by far has been the 1990s. We’ve listened to 34 albums from the decade, giving an average score of **23.474**. We’re all ‘90s brats, so this fits.
 
 <div class="gif-container">
     <iframe title="Number of albums reviewed from each decade" aria-label="Bar Chart" id="datawrapper-chart-lmPk4" src="https://datawrapper.dwcdn.net/lmPk4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="361"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -160,24 +162,24 @@ We’ve reviewed twice as many solo male artists as solo female artists. More th
 
 ## Nationalities
 
-A similar narrowness emerges when we look at where the artists we’ve reviewed are from. The United States and England are by far the most common nationality (in that order). We’ve listened to music from 15 different countries in all so far. The _Audioxide_ empire as it stands looks pretty good to us.
+A similar narrowness emerges when we look at where the artists we’ve reviewed are from. The United States and England are by far the most common nationality (in that order). We’ve listened to music from 15 different countries in all so far. The _Audioxide_ empire as it stands looks pretty good to us, though plenty of musical lands yet to explore.
 
 ![World map showing home countries of artists reviewed by Audioxide in their first 250 reviews](article-images/statsioxide-250-world-map.png)
 
 I suspect the bias here is linguistic rather than regional or cultural, as lyrics play an important part in how we listen. Still, we’ve reviewed enough instrumental albums to know this is an area we can also stand to be more adventurous in. One of the reasons we started reviewing albums together was to introduce each other to new music, after all.
 
-## Other tidbits 
+## Other tidbits
 
-There are a few more stats worth mentioning. Iterations of the site come to mind. We’ve built two to date. The original was [launched](/articles/welcome/) in January of 2016. A new and improved version of the site went live in November of 2020. It has more than 250 reviews and more than 30 articles, as well as a handful of interviews, listening parties, and other oddities.
+There are a few more stats worth mentioning. Iterations of the site come to mind. We’ve built two so far. The original was [launched](/articles/welcome/) in January of 2016. You can still see it [here](https://old.audioxide.com/). A new and improved version of the site went live in November of 2020. Its ongoing development can be followed on [GitHub](https://github.com/audioxide/). The site has more than 250 reviews and more than 30 articles, as well as a handful of interviews, listening parties, and other oddities.
 
-Bizarrely we’ve also had a fair few visitors over the years — tens of thousands, apparently. According to Google around 4,000 people a month find the site through search engine queries. [One of our reviews has even turned up as a source on Wikipedia](https://en.m.wikipedia.org/wiki/Surrealistic_Pillow). (We had nothing to do with it, we swear.)
+Bizarrely we’ve also had a fair few visitors over the years — tens of thousands, apparently. According to Google around 4,000 people a month find the site through search engine queries, a number backed up by [our analytics](/privacy/). [One of our reviews has even turned up as a source on Wikipedia](https://en.m.wikipedia.org/wiki/Surrealistic_Pillow). We had nothing to do with it, we swear.
 
 ![Giant cassette of 'Can I Borrow a Feeling?' by Kirk Van Houten](article-images/statsioxide-250-can-i-borrow-a-feeling.jpg)
 
-What else… an American craftsman called Gerald Lauze [made a giant cassette of Kirk Van Houten’s Can I Borrow a Feeling?](https://www.instagram.com/p/BqOHtXEBj9d/) and used the track names from [our review on it](https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/). Pretty cool. At over 6,000 words our longest article by far is [Charlie Clissitt’s truly epic ranking of every single Bob Dylan studio album](/articles/bob-dylan-studio-albums-ranked/).
+What else… an American craftsman called Gerald Lauze [made a giant cassette of Kirk Van Houten’s timeless record _Can I Borrow a Feeling?_](https://www.instagram.com/p/BqOHtXEBj9d/) and used the track names from [our review on it](https://audioxide.com/reviews/kirk-van-houten-can-i-borrow-a-feeling/). Pretty cool. At over 6,000 words our longest article by far is [Charlie Clissitt’s truly epic ranking of every single Bob Dylan studio album](/articles/bob-dylan-studio-albums-ranked/). No doubt there are other interesting facts, but they may have to wait until our next retrospective.
 
 ## The numbers don’t decide
 
-_Audioxide_ started as a hobby and that’s what it remains. We do it to enrich our lives with good music and good talk. The stats are fun — and as we’ve seen, sometimes useful — but as much as anything else they’re an excuse to look back on all the ground we’ve covered together.
+_Audioxide_ started as a hobby and that’s what it remains. We do it to enrich our lives with good music and good talk. The stats are fun — and as we’ve seen, sometimes useful — but as much as anything else they’re an excuse to look back on all the ground we’ve covered together. It has been a joy.
 
 Who knows where we’ll each be in another five years. Reviewing 500 albums together seems unthinkable, but then so did 250 once upon a time. Let’s see where the music takes us.
