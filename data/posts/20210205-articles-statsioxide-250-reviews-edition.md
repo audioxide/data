@@ -91,12 +91,12 @@ A consequence of our three-piece review system is high scores are actually _real
 
 Only 14 of the first 250 albums made it in to the 27+ Club. That’s a 5.6% success rate. Only two of those were new releases, making the success rate there a mere 1.47%. The full list of members is below.
 
-### New releases
+**New releases**
 
 - _[To Pimp a Butterfly](/reviews/kendrick-lamar-to-pimp-a-butterfly/)_ by Kendrick Lamar
 - _[Visions of a Life](/reviews/wolf-alice-visions-of-a-life/)_ by Wolf Alice
 
-### Retrospectives
+**Retrospectives**
 
 - _[OK Computer](/reviews/radiohead-ok-computer)_ by Radiohead
 - _[Homogenic](/reviews/bjork-homogenic/)_ by Björk
