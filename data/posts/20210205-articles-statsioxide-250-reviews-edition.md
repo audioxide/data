@@ -198,7 +198,7 @@ I suspect the bias here is linguistic rather than regional or cultural, as lyric
 
 ## Other tidbits
 
-There are a few more stats worth mentioning. Iterations of the site come to mind. We’ve built two so far. The original was [launched](/articles/welcome/) in January of 2016. You can still see it [here](https://old.audioxide.com/). A new and improved version of the site went live in November of 2020. Its ongoing development can be followed on [GitHub](https://github.com/audioxide/). The site has more than 250 reviews and more than 30 articles, as well as a handful of interviews, listening parties, and other oddities.
+There are a few more stats worth mentioning. Iterations of the site come to mind. We’ve built two so far. The original was [launched](/articles/welcome/) in January of 2016. You can still see it [here](https://web.archive.org/web/20201115182905/https://audioxide.com/). A new and improved version of the site went live in November of 2020. Its ongoing development can be followed on [GitHub](https://github.com/audioxide/). The site has more than 250 reviews and more than 30 articles, as well as a handful of interviews, listening parties, and other oddities.
 
 Bizarrely we’ve also had a fair few visitors over the years — tens of thousands, apparently. According to Google around 4,000 people a month find the site through search engine queries, a number backed up by [our analytics](/privacy/). [One of our reviews has even turned up as a source on Wikipedia](https://en.m.wikipedia.org/wiki/Surrealistic_Pillow). We had nothing to do with it, we swear.
 
