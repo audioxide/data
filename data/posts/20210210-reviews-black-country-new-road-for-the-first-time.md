@@ -22,7 +22,7 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#b4c8e3"
+  - "#213831"
   - "#ffffff"
   - "#ffffff"
 pullquote: TBD
