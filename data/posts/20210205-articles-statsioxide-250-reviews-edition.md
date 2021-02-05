@@ -1,6 +1,6 @@
 ---
-created: 2021-02-05T08:00:00.000Z
-modified: 2021-02-05T08:00:00.000Z
+created: 2021-02-05T12:00:00.000Z
+modified: 2021-02-05T12:00:00.000Z
 slug: statsioxide-250-reviews-edition
 type: articles
 tags:
@@ -38,7 +38,7 @@ tags:
   - gorillaz
   - lcd soundsystem
 featuredimage: article-images/statsioxide-250-featured-image.jpg
-featuredimageAlt: Artwork of Spotify as a musical meat grinder
+featuredimageAlt: Collage of the first 250 albums reviewed by Audioxide
 title: "Statsioxide: our first 250 reviews in numbers"
 summary: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data
 author: fred
