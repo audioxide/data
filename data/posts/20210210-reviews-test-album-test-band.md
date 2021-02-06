@@ -1,5 +1,4 @@
 ---
-
 created: 2021-02-10T12:00:00.000Z
 modified: 2021-02-10T19:00:00.000Z
 slug: test-band-test-album
@@ -33,15 +32,23 @@ albumMBID: 13d08c0e-14e2-30b2-9ad7-5f501761a8ea
 artistLink: https://www.spoonrecords.com/
 
 ---
-
 author: Andrew
+review: |-
+  This is a title
+  This is a subtitle
+  This is a Heading 1
+  ==========
+  This is a Heading 2
+  ----------
+  This is a Heading 3
+  This is some _italicised_ and **bolded** and _**bold italicised text**_.
 
-review: Lorem ipsum dolor
 
+
+  This is some test with “quoted” ‘text’ and it’s very interesting
 tracks:
-  -
-
+  - test
 score:
-  score: 9
+  score: 1
   max: 10
-  fraction: 0.9
+  fraction: 0.1
