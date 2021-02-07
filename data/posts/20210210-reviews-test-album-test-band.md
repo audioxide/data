@@ -32,7 +32,7 @@ albumMBID: 13d08c0e-14e2-30b2-9ad7-5f501761a8ea
 artistLink: https://www.spoonrecords.com/
 
 ---
-author: Andrew
+author: Fred
 review: |-
   This is a title
   This is a subtitle
