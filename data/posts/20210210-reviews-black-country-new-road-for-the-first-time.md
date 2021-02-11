@@ -9,6 +9,7 @@ tags:
   - black country new road
   - rock
   - alternative rock
+  - grunge
   - jazz
   - godspeed you black emperor
   - mogwai
