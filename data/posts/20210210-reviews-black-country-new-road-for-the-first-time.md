@@ -18,9 +18,9 @@ essentialtracks:
 favouritetracks:
   - Track X
 totalscore:
-  given: 18
+  given: 25
   possible: 30
-  fraction: 0.6
+  fraction: 0.8333333333
 colours:
   - "#213831"
   - "#ffffff"
