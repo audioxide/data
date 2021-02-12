@@ -14,6 +14,8 @@ tags:
   - sophie
   - experimental
 featuredimage: album-artwork/animated-violence-mild-blanck-mass.jpg
+artworkCredit: was designed by London-based design and creative studio Middle Boop. It features photography by Alex de Mora with art direction and hand provided by Lucie Red. As in it’s her hand, she didn’t procure a hand.
+artworkCreditSource: https://www.creativeboom.com/inspiration/middle-boop-blanck-mass/
 artist: Blanck Mass
 album: Animated Violence Mild
 essentialtracks:

@@ -10,6 +10,8 @@ tags:
   - blues
   - miles davis
 featuredimage: album-artwork/elvis-presley-elvis-presley.jpg
+artworkCredit: uses a photograph taken by William V. “Red” Robertson of Robertson & Fresch. It captures Presley performing at the Fort Homer Hesterly Armory in Tampa, Florida, on July 31, 1955. Presley was a support act for Andy Griffith that night and was yet to reach the national charts, but that didn’t keep him from rocking out.
+artworkCreditSource: https://www.elvis.com.au/presley/news/forever-elvis-in-tampa.shtml
 artist: Elvis Presley
 album: Elvis Presley
 essentialtracks:
