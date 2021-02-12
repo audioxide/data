@@ -1,4 +1,4 @@
-const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+import canAutoplay from './canAutoplay';
 
 class YouTubeVideo extends HTMLElement {
     static get observedAttributes() {
@@ -12,8 +12,9 @@ class YouTubeVideo extends HTMLElement {
             e.preventDefault();
             this.attachPlayer(true);
         }, false);
-        if (isIOS) {
-            // iOS protects users from autoplaying videos, which is great! But it breaks our element
+        canAutoplay.then(({ result }) => {
+            if (result) return;
+            // Mobile browsers protect users from autoplaying videos, which is great! But it breaks our element
             // As a compromise, only load the YouTube player when it scrolls into view
             const observer = new IntersectionObserver(([entry]) => {
                 if (entry.intersectionRatio > 0) {
@@ -22,7 +23,7 @@ class YouTubeVideo extends HTMLElement {
                 }
             });
             observer.observe(this);
-        }
+        });
     }
 
     attachPlayer(autoplay) {
