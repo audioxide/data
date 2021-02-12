@@ -8,8 +8,8 @@ tags:
   - 2020s
   - django django
 featuredimage: album-artwork/glowing-in-the-dark-django-django.jpg
-artworkCredit: TBD
-artworkCreditSource: TBD
+artworkCredit: features a painting gifted to the band’s drummer and producer, David Maclean, by an old art school friend. Maclean found the painting gathering dust in his parents’ attic and thought its imagery was just the right fit for their latest project.
+artworkCreditSource: https://www.nme.com/en_asia/reviews/album/django-django-glowing-in-the-dark-review-2878638
 artist: Django Django
 album: Glowing in the Dark
 essentialtracks:
