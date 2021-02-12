@@ -16,7 +16,8 @@ module.exports = {
         desc,
         ratio = "16:9",
         tone = "light",
-    }) => `<${tagName} video-id="${videoId}" ratio="${ratio}" tone="${tone}">
+        fullscreen = "false"
+    }) => `<${tagName} video-id="${videoId}" ratio="${ratio}" tone="${tone}" fullscreen="${fullscreen}">
         <a href="${externalHost(videoId)}">
             <img src="${imageSrc(videoId)}" alt="${text(desc)}" />
         </a>

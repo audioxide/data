@@ -8,11 +8,12 @@ class YouTubeVideo extends HTMLElement {
         super();
         this.addEventListener('click', (e) => {
             const videoId = this.getAttribute('video-id');
+            const playsinline = Number(this.getAttribute('fullscreen') === "false")
             e.preventDefault();
             const shadow = this.attachShadow({ mode: 'open' });
 
             const frame = document.createElement('iframe');
-            frame.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&modestbranding=1`;
+            frame.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&playsinline=${playsinline}&modestbranding=1`;
             frame.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
             frame.setAttribute('allowfullscreen', '');
             frame.setAttribute('frameborder', 0);
