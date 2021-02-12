@@ -50,7 +50,7 @@ blurb: After six long, resolutely joyless years we passed another album review m
   <img src="article-images/statsioxide-250-featured-image.jpg" alt="Collage of the first 250 albums reviewed by Audioxide" />
 </figure>
 
-In 2015, Andre, Andrew, and I started reviewing albums together. We’d choose a record, spend the week listening to it, spend an evening talking about it, then assign scores. It was a way to experience new music while learning more about ourselves and each other. We enjoyed the process, so we kept doing it, and in October of last year we hit our 250th review.
+In 2015, André, Andrew, and I started reviewing albums together. We’d choose a record, spend the week listening to it, spend an evening talking about it, then assign scores. It was a way to experience new music while learning more about ourselves and each other. We enjoyed the process, so we kept doing it, and in October of last year we hit our 250th review.
 
 To celebrate the milestone I’m diving ([back](/articles/statsioxide-our-first-150-reviews-in-numbers)) into the numbers behind our arbitrary numbers. Who doesn’t love seeing passion projects reduced to cold, impersonal data reports? We’ve got average scores, genre preferences, even a bit of institutional bias. A birds-eye view, in a nutshell, if you’ll forgive the mixed metaphors.
 

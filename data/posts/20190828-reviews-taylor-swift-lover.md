@@ -15,6 +15,8 @@ tags:
   - st vincent
   - billie eilish
 featuredimage: album-artwork/lover-taylor-swift.jpg
+artworkCredit: features a photograph by Colombian artist Valheria Rocha. Specialising in fashion portraits and collage art, Rocha’s work is ‘inspired by distinctive color palettes, theatricality, and a love for all things vintage and eclectic.’ An apt fit for Taytay, to be sure.
+artworkCreditSource: https://www.valheriarocha.com/6378266-taylorswift
 artist: Taylor Swift
 album: Lover
 essentialtracks: ""
