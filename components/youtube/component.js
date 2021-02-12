@@ -8,8 +8,11 @@ class YouTubeVideo extends HTMLElement {
     constructor() {
         super();
         this.isAttached = false;
-        this.addEventListener('click', () => this.attachPlayer(true), false);
-        if (isIOS()) {
+        this.addEventListener('click', (e) => {
+            e.preventDefault();
+            this.attachPlayer(true);
+        }, false);
+        if (isIOS) {
             // iOS protects users from autoplaying videos, which is great! But it breaks our element
             // As a compromise, only load the YouTube player when it scrolls into view
             const observer = new IntersectionObserver(([entry]) => {
@@ -26,7 +29,6 @@ class YouTubeVideo extends HTMLElement {
         if (this.isAttached) return;
         const videoId = this.getAttribute('video-id');
         const playsinline = Number(this.getAttribute('fullscreen') === "false");
-        e.preventDefault();
         const shadow = this.attachShadow({ mode: 'open' });
 
         const frame = document.createElement('iframe');
