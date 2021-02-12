@@ -18,6 +18,7 @@ class YouTubeVideo extends HTMLElement {
                     observer.disconnect();
                 }
             });
+            observer.observe(this);
         }
     }
 
