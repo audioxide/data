@@ -1,0 +1,72 @@
+.wrapper {
+    width: 750px;
+}
+
+youtube-video {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+}
+
+youtube-video[ratio="16:9"] {
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+youtube-video a {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+youtube-video[ratio] a {
+    height: 0;
+}
+
+youtube-video[ratio="16:9"] a {
+    padding-bottom: 56.25%;
+}
+
+youtube-video[ratio="16:9"] a img {
+    margin-top: -9.4%;
+}
+
+youtube-video img {
+    width: 100%;
+    height: 315px;
+    object-fit: cover;
+    display: block;
+}
+
+youtube-video a::before {
+    display: block;
+    background: url('./assets/play_fill_light.svg') no-repeat;
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 55px;
+    background-size: cover;
+    left: calc(50% - 25px);
+    top: calc(50% - 30px);
+}
+
+youtube-video[tone="dark"] a::before {
+    background-image: url('./assets/play_fill_dark.svg');
+}
+
+youtube-video a::after {
+    display: block;
+    background: url('./assets/yt_logo_mono_light.svg') no-repeat;
+    content: '';
+    width: 120px;
+    height: calc((114 / 512) * 120px);
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-size: cover;
+}
+
+youtube-video[tone="dark"] a::after {
+    background-image: url('./assets/yt_logo_mono_dark.svg');
+}

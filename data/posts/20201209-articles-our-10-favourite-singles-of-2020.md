@@ -26,7 +26,7 @@ author:
   - andre
 summary: This year has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat
 blurb: This year has been... testing, to put it mildly. Music's magic has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat.
-  
+
 ---
 
 *Music is powerful. One minute it's an adrenaline rush, the next it's a comfort blanket. Films, books, and video games entertain and captivate us, but there's nothing quite like a song that leaves you inspired. You know the feeling. It can galvanise you for days. We dread to think how we would have coped without the fabulous new music released over the course of 2020.*
@@ -37,9 +37,7 @@ blurb: This year has been... testing, to put it mildly. Music's magic has been a
 
 ## 10\. “Rolling” // Michael Kiwanuka
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WeRQ_Essido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="WeRQ_Essido" desc="Rolling by Michael Kiwanuka" />
 ­
 **Rachael**
 
@@ -53,9 +51,7 @@ The influence of producer Danger Mouse (of Gnarls Barkley) comes through in the 
 
 ## 9\. “Saturnine and Iron Jaw” // All Them Witches
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I9jcStLbYjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="I9jcStLbYjk" desc="Saturnine and Iron Jaw by All Them Witches" />
 ­
 **Gabriel**
 
@@ -67,9 +63,7 @@ It is two minutes in before we hear a discernible melody. But when it comes, it 
 
 ## 8\. “Melt!” // Kelly Lee Owens
 ­
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4kW0vbVEIXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="4kW0vbVEIXE" desc="Melt! by Kelly Lee Owens" />
 
 **Fred**
 
@@ -81,13 +75,11 @@ In a way the instrumental focus on “Melt!” is why it’s just the one to hig
 
 ## 7\. “Teenage Headache Dreams” // Mura Masa
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CbcUXLr4k9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="CbcUXLr4k9U" desc="Teenage Headache Dreams by Mura Masa" />
 ­
 **Marcus**
 
-It goes without saying that Mura Masa is a fantastic producer, capable of elevating the simplest hooks into naggingly moreish and complete tracks tied together by a trademark sense of serenity. He’s also got a habit of finding ideal collaborators and making the most of their abilities, and in Ellie Rowsell it’s safe to say he held true to that reputation. The cutesy, simplistic intro to “Teenage Headache Dreams” taps directly into a certain naivety that makes [Wolf Alice](reviews/wolf-alice-visions-of-a-life/) so palettable, with a funky but soft-hitting one-two stomp to the percussion and sudden injections of complexity that magnify the track’s themes. 
+It goes without saying that Mura Masa is a fantastic producer, capable of elevating the simplest hooks into naggingly moreish and complete tracks tied together by a trademark sense of serenity. He’s also got a habit of finding ideal collaborators and making the most of their abilities, and in Ellie Rowsell it’s safe to say he held true to that reputation. The cutesy, simplistic intro to “Teenage Headache Dreams” taps directly into a certain naivety that makes [Wolf Alice](reviews/wolf-alice-visions-of-a-life/) so palettable, with a funky but soft-hitting one-two stomp to the percussion and sudden injections of complexity that magnify the track’s themes.
 
 As the bass hook kicks in — in tandem with Rowsell’s inimitable, rich, soaring vocals — the track takes on a life of its own as an endlessly expanding and contracting soundscape that mimics the chaotic and romantic thinking patterns of a teenager. Once it gets going, its noisy, messy, frenetic, and impassioned arrangements flash by in moments of near-confusion, held together by an unerring beat and enthralling, dynamic vocals from Rowsell. I was hoping we’d get the third Wolf Alice album at some point this year, but in the meantime I’ll happily settle for the fine chemistry that Mura Masa’s captured with their frontwoman.
 
@@ -95,13 +87,11 @@ As the bass hook kicks in — in tandem with Rowsell’s inimitable, rich, soari
 
 ## 6\. “Pain Everyday” // clipping.
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c0RYIIzsvFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="c0RYIIzsvFw" desc="Pain Everyday by clipping." />
 ­
 **André**
 
-Clipping treated us to another horror-inspired rap album this year with *Visions of Bodies Being Burned*, and whilst its release didn't quite leave the same mark on me as 2019's excellent *There Existed an Addiction to Blood* it does contain some stunning highlights. Most notable of all is “Pain Everyday”, a striking 7/4 breakcore piece that rises to the most incredible climax, with beautiful strings caught in a frenzied storm of percussion. 
+Clipping treated us to another horror-inspired rap album this year with *Visions of Bodies Being Burned*, and whilst its release didn't quite leave the same mark on me as 2019's excellent *There Existed an Addiction to Blood* it does contain some stunning highlights. Most notable of all is “Pain Everyday”, a striking 7/4 breakcore piece that rises to the most incredible climax, with beautiful strings caught in a frenzied storm of percussion.
 
 Although the similarities between *Visions* and its predecessor remains a common criticism, “Pain Everyday” is an obvious exception. If it wasn't for Daveed Diggs and his irresistible flow (the man is finally getting the recognition he deserves) you'd be forgiven for thinking you were listening to [Squarepusher](reviews/squarepusher-be-up-a-hello/), or even Venetian Snares. It's a powerful piece that is perfectly placed on the record. “Pain Everyday” is one of the most exquisite tracks I've listened to this year. I only wish it were longer, as I can't quite get enough of it.
 
@@ -109,9 +99,7 @@ Although the similarities between *Visions* and its predecessor remains a common
 
 ## 5\. “Me in 20 Years” // Moses Sumney
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6VFoh5AbpBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="6VFoh5AbpBM" desc="Me in 20 Years by Moses Sumney" />
 ­
 **André**
 
@@ -123,9 +111,7 @@ Sumney's lyrics are touching, and occasionally haunting. The second verse in par
 
 ## 4\. “Ooh La La” // Run the Jewels
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1C4zAbTA-QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>­
+<youtube-video video-id="1C4zAbTA-QM" desc="Ooh La La by Run the Jewels" />
 
 **Andrew**
 
@@ -139,9 +125,7 @@ Lumbering in with its off-kilter piano sample and subby bombast, the track’s s
 
 ## 3\. “JU$T” // Run the Jewels
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/32hUIGnMpOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>­
+<youtube-video video-id="32hUIGnMpOY" desc="JU$T by Run the Jewels" />
 
 **Rachael**
 
@@ -155,13 +139,11 @@ The chorus of ‘Look at all these slave masters posin’ on yo’ dollar’ is 
 
 ## 2\. “Held Down” // Laura Marling
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dLL1KAc18hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="dLL1KAc18hs" desc="Held Down by Laura Marling" tone="dark" />
 ­
 **Fred**
 
-We’ve done our fair share of gushing about Laura Marling over the years and the very tender, very warm, very resolute [*Song for Our Daughter*](reviews/laura-marling-song-for-our-daughter/) was no exception. “Held Down” embodies much of what makes the album so affecting, and so unlike anything that had come before. It’s Marling’s signature sound ramped up a notch, going harder and travelling further, with a pop-like ear for melodies to boot. It’s an easy, easing listen. 
+We’ve done our fair share of gushing about Laura Marling over the years and the very tender, very warm, very resolute [*Song for Our Daughter*](reviews/laura-marling-song-for-our-daughter/) was no exception. “Held Down” embodies much of what makes the album so affecting, and so unlike anything that had come before. It’s Marling’s signature sound ramped up a notch, going harder and travelling further, with a pop-like ear for melodies to boot. It’s an easy, easing listen.
 
 The harmonies find strength in simplicity and the band sways beautifully as it drives forward, bleeding from acoustic into electric as the song reaches its climax. Marling’s lyrics and vocals are wonderful, as ever. Hearing her dabble in more expansive songs was such a treat, and just what a lot of people needed this year. She said that she [‘indulged in lushness a bit more than I had done previously.’](https://www.nme.com/big-reads/laura-marling-cover-interview-2020-america-has-become-a-bit-more-sinister-now-that-its-trump-addled-2648468) I hope the indulgences keep on coming.
 
@@ -169,9 +151,7 @@ The harmonies find strength in simplicity and the band sways beautifully as it d
 
 ## 1\. “Mr. Motivator” // IDLES
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YNCopmqsw1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="YNCopmqsw1Q" desc="Mr. Motivator by IDLES" />
 ­
 **André**
 
@@ -179,6 +159,6 @@ If ever there was a year for a song like “Mr. Motivator” to burst onto the s
 
 **Marcus**
 
-“Mr. Motivator” dropped at a pretty essential moment in my lockdown experience — around the time I was beyond the novelty, tired of *Animal Crossing*, and falling into anxious misery. If anything could represent everything I was sick of, it was the endless string of corporate TV ads reminding us, via the medium of low-res home video clips of people grinning and bearing it, that times were weird but we were all in it together. Oh, and we should buy more of their shit. I wasn’t grinning and bearing it by that point, and no amount of racket being made for key workers on a Thursday night was going to alter that, but “Mr. Motivator” came along and breathed a bit of life back into me. 
+“Mr. Motivator” dropped at a pretty essential moment in my lockdown experience — around the time I was beyond the novelty, tired of *Animal Crossing*, and falling into anxious misery. If anything could represent everything I was sick of, it was the endless string of corporate TV ads reminding us, via the medium of low-res home video clips of people grinning and bearing it, that times were weird but we were all in it together. Oh, and we should buy more of their shit. I wasn’t grinning and bearing it by that point, and no amount of racket being made for key workers on a Thursday night was going to alter that, but “Mr. Motivator” came along and breathed a bit of life back into me.
 
 The music video, a facsimile of the inane ads I’ve already moaned about, struck on a legitimacy and sense of togetherness that I hadn’t realised I was missing so badly, and the typically barnstorming, sharp-edged, and driving instrumentation and lyricism of a top IDLES track sealed the deal. I don’t want to suggest “Mr. Motivator” set me on a course to recover from — or accept — 2020's endless bullshit, but it didn’t half kick me out of my stupor.
