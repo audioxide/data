@@ -31,6 +31,8 @@ blurb: The decade had some doozies. Here were our favourites.
 -----
 
 ## 10\. “Blockbuster Night, Pt. 1” // Run the Jewels
+
+<youtube-video video-id="uuWQyfGa1yI" desc="Run the Jewels: Blockbuster Night, Pt. 1" />
 ­
 **Marcus**
 
@@ -39,6 +41,8 @@ Distilling all the best qualities of one of the decade’s finest and most signi
 -----
 
 ## 9\. “Surgeon” // St. Vincent
+
+<youtube-video video-id="RGIbR5jdA58" desc="St. Vincent: Surgeon" />
 ­
 **Marcus**
 
@@ -48,6 +52,8 @@ Rhythmic flexibility, a staggeringly serene voice lacking any pretence, and an u
 
 ## 8\. “Soothing” // Laura Marling
 ­
+<youtube-video video-id="eCS4OTgaHeM" desc="Laura Marling: Soothing" />
+
 **Fred**
 
 Laura Marling has an uncanny knack for making human intimacy and warmth feel ice cold. As a Brit I’m all about that energy. “Soothing” is the opening statement of Marling’s 2016 record [*Semper Femina*](/reviews/laura-marling-semper-femina/) and it makes no bones about when listeners can expect. The combined force of the track’s instrumentals wouldn’t make a silk curtain flutter. It is so gentle, so restrained, and so light that you half expect it to fly away should you make any sudden moves. Marling has always been a bit of an enigma – [Bob Dylan](/articles/bob-dylan-studio-albums-ranked/)\-esque, dare I say – but the beauty of her sound is as reliable as the sunrise (on a desperately chilly morning, with a hangover.) “Soothing” showcases that rather well, not least because it keeps you at arms length while it’s doing it.
@@ -56,6 +62,8 @@ Laura Marling has an uncanny knack for making human intimacy and warmth feel ice
 
 ## 7\. “The Words that Maketh Murder” // PJ Harvey
 ­
+<youtube-video video-id="Fws4fEE8Yy0" desc="PJ Harvey: The Words that Maketh Murder" />
+
 **André**
 
 *Let England Shake* was the first masterpiece of the 2010s, and it remains one of the most enduring and powerful records of a quite wretched decade. A poignant anti-war work constructed around an overriding sentiment that has only grown more significant with every passing year. It’s a big, British ‘fuck you’ to World leaders. Not many tracks capture the mood better than “The Words That Maketh Murder”, with the most striking of opening stanzas: ‘I’ve seen and done things I want to forget/I’ve seen soldiers fall like lumps of meat/Blown and shot out beyond belief/Arms and legs were in the trees’. This visceral imagery is contrasted quite wonderfully with a driving-yet-delicate instrumental, guided by the album’s main weapon: the autoharp. It’s an astonishing song, a passionate earworm that spares no punches, not least with its spectacularly sarcastic outro, as PJ Harvey asks with a sneer, ‘What if I take my problem to the United Nations?’. It’s becoming increasingly difficult to enjoy any real sense of pride as a UK citizen, but the lasting genius of PJ Harvey is a genuine beacon of honour and hope.
@@ -64,6 +72,8 @@ Laura Marling has an uncanny knack for making human intimacy and warmth feel ice
 
 ## 6\. “Redbone” // Childish Gambino
 ­
+<youtube-video video-id="Kp7eSUU9oy8" desc="Childish Gambino: Redbone" />
+
 **Andrew**
 
 Donald Glover has put his hand to many successes this decade. Both in front and behind the camera, he’s left a trail of impressive work. But his music career under “Childish Gambino” has also excelled, culminating in most recent successes with “This Is America”, which set the Internet alight with its poignant video and controversial themes.
@@ -76,6 +86,8 @@ It also marks a more general return of funk and soul in the 2010s, with the like
 
 ## 5\. “I Sat by the Ocean” // Queens of the Stone Age
 ­
+<youtube-video video-id="Ol8eMfmzpe0" desc="Queens of the Stone Age: I Sat by the Ocean" />
+
 **Marcus**
 
 “I Sat by the Ocean” features one of Queens of the Stone Age’s most iconic riffs, twanging and kicking alongside a striding beat as one of Josh Homme’s outlaws kills brain cells by the sea, pining for a lost love. The track’s tone is set with the speed and precision of its [*…Like Clockwork*](/reviews/queens-of-the-stone-age-like-clockwork/) brethren, transporting you to the side of the narrator where he regales you with a sorry tale about love unrequited and as yet unforgotten. With a nervy, bouncing rhythm, Homme philosophises over the self-destruction of heartbreak and the bitterness can inspire. ‘Lies are a funny thing / They slip through your fingertips because they never happened to you,’ he laments, but he dwells on them regardless as he heads over the horizon is search of someone new. He can’t let go, and the memory of his love disturbs him when he least expects it; ‘crashing ships in the night.’ Outside the lyricism, which are sparing themselves, the composition is simple, straightforward and direct like in so many of QotSA’s best tracks. Combining the subject matter of the lyrics with a straightforward structure and buoyant guitar work completes the narrator’s characterisation with a peculiar, roguish optimism, and he departs having been charming and fun despite his sorrow.
@@ -84,6 +96,8 @@ It also marks a more general return of funk and soul in the 2010s, with the like
 
 ## 4\. “Ain’t It Funny” // Danny Brown
 ­
+<youtube-video video-id="7L4JnAuW00k" desc="Danny Brown: Ain't It Funny" />
+
 **André**
 
 Midway through the superb, Jonah Hill-directed video that accompanies “Ain’t it Funny”, Danny Brown explains his adverse behaviour with a haunting confession: ‘I’ve been destroyed, and if I destroy, maybe I’ll feel ok’. This is a sentiment that echoes throughout the entirety of *Atrocity Exhibition*, one of the most thrillingly nihilistic albums ever released in contemporary hip-hop. No track represents the manic behaviour of Brown more than “Ain’t it Funny”, a hysterical banger driven by a pounding beat that contrasts wonderfully with the rapper’s acute and honest words. It’s an exhilarating listen; a steam train of memorable bars delivered in rapid fashion, and a candid perception of mental health. ‘Staring in the devil face, but ya can’t stop laughing/it’s a living nightmare that most of us might share’. A feeling that feels far too familiar for many listeners. It’s a downward spiral – we’ve just gotta figure it out. Brown is one of the very best at pairing the trouble of his lyrics with beats ridden in anxiety and tension, and no song showcases this better than “Ain’t it Funny”.
@@ -92,6 +106,8 @@ Midway through the superb, Jonah Hill-directed video that accompanies “Ain’t
 
 ## 3\. “Pyramids” // Frank Ocean
 ­
+<youtube-video video-id="-qaO-i5rD9Y" desc="Frank Ocean: Pyramids" />
+
 **Marcus**
 
 “Pyramids” is one of the most elegantly crafted songs I have ever heard, cutting across time and locations as a pimp’s fascination with one of his prostitutes is detailed and dissected. The opening notes set a tragic tone while Frank sets the scene – a woman, “Cleopatra”, has been taken, and the balancing act of the subject being both a lost love and a lost possession is thrown to the fore immediately. As the percussion’s pace accelerates after the first dance hook plays, the narrator becomes indignant, incredulous, at his lack of control – and the song’s first half closes with the death of Cleopatra, the identity of her killer left to the imagination. The second dance hook plays (that melody never gets old), and the scene morphs. Where the song’s first act held motifs of Ancient Egypt, the scene is now of a motel room. Cleopatra is reborn and “she’s working at the pyramids”, switching the regality of Egyptian pyramids to the sordid tragedy of modern Cleopatra’s work. A warm synth accompanies a seductive trap beat as the pimp takes a bath with Cleopatra – objectifying her, idolising her, prizing her, before she returns from her pimp to the pyramids. John Mayer’s guitar croons as the pimp wrestles with his, and her, lot. Each stage of the story is backed by wildly varied tones and composition, driving through ideas while the pace is dictated by the story. It’s really something, and I’m certain I’ll still be trying to figure out its intricacies for years to come.
@@ -100,6 +116,8 @@ Midway through the superb, Jonah Hill-directed video that accompanies “Ain’t
 
 ## 2\. “Blackstar” // David Bowie
 ­
+<youtube-video video-id="kszLwBaC4Sw" desc="David Bowie: Blackstar" />
+
 **Fred**
 
 The centre piece of David Bowie’s farewell album had to be something special, and it was. All black velvet and voodoo rumbles, “Blackstar” put Bowie on the cutting edge one last time. Its thick, oozing jazz backdrop – partly inspired by Kendrick Lamar’s [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), apparently – is haunting, as are Bowie’s lyrics, which he delivers with typical swagger. It’s a patient track, a lifetime in the making, and the final stretch provides a hell of a payoff. The synergy between the band, Tony Visconti’s production, and Bowie’s showmanship couldn’t be better. Equal parts dirge, tribal chant, and pied piper ditty, years later the track still sends shivers down my spine. Honourable mention also goes to the music video, which is pretty great in its own right.
@@ -108,6 +126,8 @@ The centre piece of David Bowie’s farewell album had to be something special, 
 
 ## 1\. “Don’t Delete the Kisses” // Wolf Alice
 ­
+<youtube-video video-id="WqxE-zppu30" desc="Wolf Alice: Don't Delete the Kisses" />
+
 **André**
 
 Do I think “Don’t Delete the Kisses” is the best song of the decade? Far from it. This is very much a sentimental decision. On the surface, it’s a simple-yet-stirring synth-pop ballad that deals in corny, romantic nonsense. But this is a state that we’re all prone to experiencing, even the most cold-hearted among us. There’s a real emotive, nostalgic quality to the track that has resonated with many of us on *Audioxide*, ever since its release in 2017. Ellie Rowsell’s words are unpretentious and incredibly honest – flaws ‘n all – and the frigidness of her spoken delivery gives the song that extra measure of power. The music itself, as gorgeous as it is, acts more as a hazy, mystical backdrop that allows Roswell to narrate so effectively. The final chorus, in all its stadium-pop glory, is capable of inducing the most potent chills.
@@ -118,4 +138,4 @@ Do I think “Don’t Delete the Kisses” is the best song of the decade? Far f
 
 The great songs of old almost feel mythical in their power. Top track lists are awash with odes to love and power and revolution (and heroin, whatever floats your boat). “Don’t Delete the Kisses” is not “The Times They Are a-Changin’”, but then we are not in the 1960s. Serving as the centrepiece of what I think is one of the 2010s’ finest albums, [*Visions of a Life*](/reviews/wolf-alice-visions-of-a-life/), this is a track genuinely tuned into modern culture, as corny as it is heartfelt.
 
-Listening like a shoegaze diary entry, “Don’t Delete the Kisses” is very lovely, but it’s not a masterpiece. It’s better than that; it’s honest. I think a fair few artists are too proud to talk about love in the context of modern technology. Snapchat and house parties don’t exactly scream romance, but this is the world we live in. Even I, with my black, shrivelled heart, recognise the sweet idiot neurosis Ellie Roswell describes. Here’s to love, however daft.
+Listening like a shoegaze diary entry, “Don’t Delete the Kisses” is very lovely, but it’s not a masterpiece. It’s better than that; it’s honest. I think a fair few artists are too proud to talk about love in the context of modern technology. Snapchat and house parties don’t exactly scream romance, but this is the world we live in. Even I, with my black, shrivelled heart, recognise the sweet idiot neurosis Ellie Rowsell describes, and life would be a lot less rich without it. Here’s to love, however daft.
