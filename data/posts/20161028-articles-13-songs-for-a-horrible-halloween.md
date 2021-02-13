@@ -41,7 +41,7 @@ blurb: Let's face it, Halloween playlists can be awful. Here lies an alternativ
 
 <youtube-video video-id="Jj_vCNevsfY" desc="Marilyn Manson: Cryptorchild" />
 
-Yes, Marilyn Manson is an obvious choice — but for good reason. After all, Manson is one of the highest profile Satanist’s in popular culture, with numerous religious groups protesting against his uncompromising anti-Christian stance. Manson’s remarkable 1996 album *Antichrist Superstar* was a deep examination of the Nietzschean Übermensch, telling the twisted tale of a misunderstood worm who gradually develops into the Antichrist. On “Cryptorchild”, the worm explores his darker side to discover his true purpose of inducing doom. The instrumental features a twisted drum beat and numerous grotesque voices and vibrations. It’s one of Manson’s spookiest tracks, and is arranged in a surprisingly measured manner. The video is slightly less subtle.
+Yes, [Marilyn Manson](/reviews/marilyn-manson-heaven-upside-down/) is an obvious choice — but for good reason. After all, Manson is one of the highest profile Satanist’s in popular culture, with numerous religious groups protesting against his uncompromising anti-Christian stance. Manson’s remarkable 1996 album *Antichrist Superstar* was a deep examination of the Nietzschean Übermensch, telling the twisted tale of a misunderstood worm who gradually develops into the Antichrist. On “Cryptorchild”, the worm explores his darker side to discover his true purpose of inducing doom. The instrumental features a twisted drum beat and numerous grotesque voices and vibrations. It’s one of Manson’s spookiest tracks, and is arranged in a surprisingly measured manner. The video is slightly less subtle.
 
 -----
 
@@ -57,7 +57,7 @@ Scottish electronic duo Boards of Canada are typically known for [their lush sou
 
 <youtube-video video-id="Orlbo9WkZ2E" desc="Death Grips: Guillotine" />
 
-Five albums in and “Guillotine” remains Death Grips’ scariest song. MC Ride’s menacing delivery is probably enough to set the faint-hearted over the edge, but it’s the looming bass synth that causes the uncomfortable, nauseating sense of claustrophobia. As some sort of twisted climax, a high-pitched synth pierces your brain like an electric shock. It’s severely intimidating in its hideous, simplistic beauty. Ride sounds like a genuine psychopath at the best of times, but he sounds particularly deranged here. He has that warm aura of amenity, which he shares with the likes of Freddy Krueger and Jason Voorhees. Think of him as the modern day Michael Myers. Just less stabby.
+Multiple albums in and “Guillotine” remains [Death Grips](/reviews/death-grips-the-powers-that-b/)’ scariest song. MC Ride’s menacing delivery is probably enough to set the faint-hearted over the edge, but it’s the looming bass synth that causes the uncomfortable, nauseating sense of claustrophobia. As some sort of twisted climax, a high-pitched synth pierces your brain like an electric shock. It’s severely intimidating in its hideous, simplistic beauty. Ride sounds like a genuine psychopath at the best of times, but he sounds particularly deranged here. He has that warm aura of amenity, which he shares with the likes of Freddy Krueger and Jason Voorhees. Think of him as the modern day Michael Myers. Just less stabby.
 
 -----
 
@@ -73,7 +73,7 @@ Five albums in and “Guillotine” remains Death Grips’ scariest song. MC Rid
 
 <youtube-video video-id="E3olE6bHjBw" desc="Eminem: Kim" />
 
-Marshall Mathers was once a very angry man. In what is likely his most controversial song, Eminem acts out a violent fantasy that ultimately ends in him killing his ex-wife. It shouldn’t be taken at face value of course, but nonetheless, the rage is genuine and derived from pure emotion. My initial listen was one of the most unsettling experiences of my childhood (I have grown to understand why my parents saw fit to remove [*The Marshall Mathers LP*](/reviews/eminem-the-marshall-mathers-lp/) from my CD collection), and I imagine it left a striking mark on many more of Em’s younger listeners. The savage imagery in the lyrics are pushed way beyond the norm in hip-hop, edging towards the gruesome nature of slasher films. Incredibly, Mathers actually played the song to Kim before the album was released. Dr. Dre conceded that, ‘if I was her, I would have ran when I heard that shit.’ Honestly, some people just have no sense of humour…
+Marshall Mathers was once a very angry man. In what is likely his most controversial song, Eminem acts out a violent fantasy that ultimately ends in him killing his ex-wife. It shouldn’t be taken at face value of course, but nonetheless, the rage is genuine and derived from pure emotion. My initial listen was one of the most unsettling experiences of my childhood (I have grown to understand why my parents saw fit to remove [*The Marshall Mathers LP*](/reviews/eminem-the-marshall-mathers-lp/) from my CD collection), and I imagine it left a striking mark on many more of Em’s younger listeners. The savage imagery in the lyrics are pushed way beyond the norm in hip-hop, edging towards the gruesome nature of slasher films. Incredibly, Mathers actually played the song to Kim before the album was released. [Dr. Dre](/reviews/dr-dre-compton/) conceded that, ‘if I was her, I would have ran when I heard that shit.’ Honestly, some people just have no sense of humour…
 
 -----
 
@@ -89,7 +89,7 @@ Cheesy Antichrist metal is always a winner. If you aren’t already familiar wit
 
 <youtube-video video-id="8IQ3QZqAUgc" desc="Flying Lotus: Obligatory Cadence" />
 
-You can always count on FlyLo to deliver the most luscious Halloween jam imaginable. Though his previous works had always possessed something of a supernatural quality, 2014’s *You’re Dead!* was the first to truly hone in on his darker twist of jazz fusion—it was, after all, a concept album about death, taking the listener on a journey through the afterlife. His colourful perception of the afterlife is vibrant, ghostly, and gorgeous, with a compelling trace of the unknown. “Obligatory Cadence” is one of the finest examples of this unique blend, a surreal soundscape of mysterious melodies and peculiar production techniques that sends your head spinning, as you feel yourself travelling through different dimensions. Good, spooky vibes.
+You can always count on [FlyLo](/reviews/flying-lotus-cosmogramma/) to deliver the most luscious Halloween jam imaginable. Though his previous works had always possessed something of a supernatural quality, 2014’s *You’re Dead!* was the first to truly hone in on his darker twist of jazz fusion — it was, after all, a concept album about death, taking the listener on a journey through the afterlife. His colourful perception of the afterlife is vibrant, ghostly, and gorgeous, with a compelling trace of the unknown. “Obligatory Cadence” is one of the finest examples of this unique blend, a surreal soundscape of mysterious melodies and peculiar production techniques that sends your head spinning, as you feel yourself travelling through different dimensions. Good, spooky vibes.
 
 -----
 
@@ -113,13 +113,13 @@ This curious [Radiohead](/articles/ranking-radioheads-discography/) track is as 
 
 <youtube-video video-id="Be67Sb4S-ec" desc="Oneohtrix Point Never: Mutant Standard" />
 
-It’s difficult to explain what exactly it is about Oneohtrix Point Never that makes his music so enjoyable. It’s often very ridiculous, amalgamating an absurd amount of different arrangements, but remains strangely compelling. On “Mutant Standard”, Daniel Lopatin reaches dazzling levels of disorientation. The rhythms are restless, the progressions are seemingly perpetual, and the melodies evoke a variety of emotions. How one person manages to create something as perplexingly poignant as this is, in itself, rather supernatural. One minute you feel fidgety, nervous, and invariably on edge, the next you feel as though you’re travelling through hyperspace. It flows like dynamic dialogue. I wonder, is this how Aliens communicate?
+It’s difficult to explain what exactly it is about [Oneohtrix Point Never](/reviews/oneohtrix-point-never-age-of/) that makes his music so enjoyable. It’s often very ridiculous, amalgamating an absurd amount of different arrangements, but remains strangely compelling. On “Mutant Standard”, Daniel Lopatin reaches dazzling levels of disorientation. The rhythms are restless, the progressions are seemingly perpetual, and the melodies evoke a variety of emotions. How one person manages to create something as perplexingly poignant as this is, in itself, rather supernatural. One minute you feel fidgety, nervous, and invariably on edge, the next you feel as though you’re travelling through hyperspace. It flows like dynamic dialogue. I wonder, is this how Aliens communicate?
 
 -----
 
 ## “Half Day Closing” // Portishead
 
-<youtube-video video-id="K6JTjhWUUy" desc="Portishead: Half Day Closing" />
+<youtube-video video-id="K6JTjhWUUyI" desc="Portishead: Half Day Closing" />
 
 Since [the very beginning](/reviews/portishead-dummy/), Portishead have always possessed the ability to carefully tread the line between mysterious and sexy. They do occasionally venture to one side, and when it occurs, Portishead fully commit. “Glory Box” is one side, whilst “Half Day Closing” is on the other. Nothing about it seems right: the bass slides with an awkward swagger, the drums are restricted to one side of the stereo field, and the vocals sound like they were recorded deep underwater. In fact, are we absolutely certain Beth Gibbons wasn’t possessed during the recording? Either that or Emily Rose makes an appearance during the songs frightening climax. The anguish is overwhelming and deeply affecting in one way or another. Furthermore, if you listen closely on headphones, you can hear a male voice quietly counting in your right ear. You know, in case you weren’t unsettled enough.
 
