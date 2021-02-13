@@ -2,38 +2,35 @@ import canAutoplay from './canAutoplay';
 
 class YouTubeVideo extends HTMLElement {
     static get observedAttributes() {
-        return ['video-id', 'ratio'];
+        return ['video-id', 'ratio', 'fullscreen'];
     }
-
     constructor() {
         super();
-        this.isAttached = false;
-        this.addEventListener('click', (e) => {
+        this.clickHandler = (e) => {
             e.preventDefault();
             this.attachPlayer(true);
-        }, false);
-        canAutoplay.then(({ result }) => {
-            if (result) return;
-            // Mobile browsers protect users from autoplaying videos, which is great! But it breaks our element
-            // As a compromise, only load the YouTube player when it scrolls into view
-            const observer = new IntersectionObserver(([entry]) => {
-                if (entry.intersectionRatio > 0) {
+        };
+        this.addEventListener('click', this.clickHandler, false);
+        // Mobile browsers protect users from autoplaying videos, which is great! But it breaks our element
+        // As a compromise, only load the YouTube player when it scrolls into view
+        this.observer = new IntersectionObserver(([entry]) => {
+            if (entry.intersectionRatio > 0) {
+                canAutoplay().then((result) => {
+                    if (result === true) return;
                     this.attachPlayer(false);
-                    observer.disconnect();
-                }
-            });
-            observer.observe(this);
+                });
+            }
         });
+        this.observer.observe(this);
     }
 
     attachPlayer(autoplay) {
-        if (this.isAttached) return;
         const videoId = this.getAttribute('video-id');
-        const playsinline = Number(this.getAttribute('fullscreen') === "false");
+        const playsinline = this.getAttribute('fullscreen') === "false";
         const shadow = this.attachShadow({ mode: 'open' });
 
         const frame = document.createElement('iframe');
-        frame.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=${Number(autoplay)}&playsinline=${playsinline}&modestbranding=1`;
+        frame.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=${Number(autoplay)}&playsinline=${Number(playsinline)}&modestbranding=1`;
         frame.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
         frame.setAttribute('allowfullscreen', '');
         frame.setAttribute('frameborder', 0);
@@ -47,7 +44,12 @@ class YouTubeVideo extends HTMLElement {
         });
 
         shadow.appendChild(frame);
-        this.isAttached = true;
+        this.stopWatching();
+    }
+
+    stopWatching() {
+        this.removeEventListener('click', this.clickHandler);
+        this.observer.disconnect();
     }
 }
 
