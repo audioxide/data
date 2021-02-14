@@ -1,6 +1,6 @@
 ---
 created: 2017-12-13T11:46:43.000Z
-modified: 2020-03-14T21:32:41.000Z
+modified: 2021-02-14T21:32:41.000Z
 slug: top-10-tracks-of-2017
 type: articles
 tags:
@@ -16,6 +16,7 @@ tags:
 featuredimage: article-images/favourite-singles-2017.jpg
 featuredimageAlt: Screenshot from the music video for Laura Marling's song "Soothing"
 title: Our 10 favourite tracks of 2017
+summary: It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, these were our favourite singles of 2017
 author:
   - marcus
   - gabriel
@@ -28,11 +29,9 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ---
 
-*It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, here lies our favourite singles of 2017.*
-
------
-
 ## 10\. “Humble.” // Kendrick Lamar
+
+<youtube-video video-id="tvTRZJ-4EyI" desc="Kendrick Lamar: Humble." />
 
 **Marcus**
 
@@ -42,6 +41,8 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 
 ## 9\. “Popeye” // Quelle Chris
 
+<youtube-video video-id="uew8bf8AWGU" desc="Quelle Chris: Popeye" />
+
 **Michael**
 
 “Popeye,” with its hands buried deep in its pockets and a reflexive inability to meet your eye, is a particularly evocative example of the kind of wounded, introspective hip-hop to which I am slightly too susceptible. Chris aches on this track in a way that only the reluctantly numb can; taking the stance of his most despairing self, he laments his inadequacies with a casual eloquence and a dry wit that are suggestive of both an intimacy and a tired resignation, of a lifetime spent with an acute awareness that his failings are insurmountable and that self-actualisation — or even just a sense of contentedness with oneself — will always be deferred. To be sure, Popeye’s spinach will necessarily remain elusive because, unlike in the cartoons to which Chris repeatedly refers, there’s no substance that’ll magically make us stronger, better; thus, as much as his heart yearns for more, and for all his attempts to renovate his mind and muster some kind of resolve, he feels forever doomed to be his lousy self. For all this self-loathing, however, Chris never once submits the listener to a juvenile sense of angst or whininess: instead, he speaks honestly and inventively towards a feeling of hopelessness with which many of us will be familiar, both in terms of his lyrics and MNDSGN’s miraculous beat, a devastating, wearily melancholic thing that perfectly captures the unremitting nature of this affliction, built as it is around a gorgeous looping sample of a vocal harmony from Giles, Giles and Fripp’s [“Why Don’t You Just Drop In”](https://www.youtube.com/watch?v=xq4skTo7vSk). Nothing about it is particularly groundbreaking, but it’s just about as bleak as an apathetic shrug can get, and it may just break you as it broke me.
@@ -49,6 +50,8 @@ blurb: It's year's end, and that means it's time for fond remembrances. From lov
 -----
 
 ## 8\. “Bosses Hang” // Godspeed You! Black Emperor
+
+<youtube-video video-id="iebbQ9KYMx8" desc="Godspeed You! Black Emperor: Bosses Hang" />
 
 **Fred**
 
@@ -58,6 +61,8 @@ I was totally enamored with [*A Luciferian Towers*](/reviews/godspeed-you-black-
 
 ## 7\. “Shapeshifter” // Richard Dawson
 
+<youtube-video video-id="nqA5NbrRvww" desc="Richard Dawson: Shapeshifter" />
+
 **Michael**
 
 With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle his most accessible work from a concept album (!) about the residents of a medieval kingdom (!!) in the North East of England (!!!). Admittedly, this probably says less about the characteristically raucous Peasant than it does Dawson’s previous records — all harsh, structurally obtuse exercises in experimental folk — but such a concession should not obscure the essential fact that, despite Dawson’s predilection for the abrasive and the weird, this record is frequently guided by a warm, melodic impulse that largely eluded his earlier work. Never is this more keenly felt than on the rousing — dare I say jaunty — “Shapeshifter,” which is the rare Richard Dawson joint that actually invites you to sing and dance along. Though the songwriting is obviously crucial here — as Dawson employs both a straightforward verse-chorus-verse structure and honest-to-God hooks — I’m inclined to say that this song’s allure and potency have everything to do with the way in which Dawson transforms the acoustic guitar into a full-bodied force, into a swinging four-piece band in and of itself. Dawson’s playing has always been a visceral thrill — his handling of the instrument strange, his tunings gnarly as fuck, his dexterity frankly remarkable — but here he sounds as if he’s truly delighting in his instrument, rather than wrestling with it; there’s a remarkable fleetness and precision to the way in which he merrily skips up and down the fretboard, a palpable, infectious joy motivating every movement. This is, of course, still done with a mind towards creating a tremendous racket, but it’s gregarious and generous as opposed to severe or intimidating: the kind that beckons you in with a smile and overtakes you; the kind made by people cavorting around a campfire at the dead of night.
@@ -65,6 +70,8 @@ With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle
 -----
 
 ## 6\. “Villains of Circumstance” // Queens of the Stone Age
+
+<youtube-video video-id="fsqhJcGbaEI" desc="Queens of the Stone Age: Villains of Circumstance" />
 
 **Gabriel**
 
@@ -74,21 +81,27 @@ With *Peasant*, his sixth solo record, Richard Dawson somehow manages to wrangle
 
 ## 5\. “Lush” // Four Tet
 
+<youtube-video video-id="9F4g5pBrEYE" desc="Four Tet: Lush" />
+
 **Andrew**
 
 The dynamism of “Lush” means it stands out amongst the rest of *New Energy*, which is mostly occupied by icy, cavernous tracks. Galloping along at a fervent pace, its main hook opens up and rings out endlessly over the course of the track, while whirling synths emanate off into the distance. The atmosphere is tantalising throughout its duration. It’s a great exemplar of the entire album too, showcasing tactile and percussive instrumentation – like the quivering, rustles during the breakdown midway through – alongside unabashedly warm electronic pads that hug the track together. Twinkling stabs and flashes of sound are buried at the songs close, spanning across the entire stereo field: some off in the distance, others sitting closer to the listener. “Lush” is an atmospheric and deeply textured earworm that I’ve found very difficult to tire of since its release. It’s racked up a healthy play count in 2017, and I’m sure it will continue getting repeat plays in the new year.
 
 -----
 
-## 4\. “Holy Books” // Death From Above
+## 4\. “Holy Books” // Death from Above
+
+<youtube-video video-id="-XlwKK4jUkw" desc="Death from Above: Holy Books" />
 
 **André**
 
-Death From Above’s third studio album *Outrage! Is Now* is perhaps the most satisfying surprise of 2017. It occupies a very different sound to previous records, with an emphasis on heavy rock in both song-writing and production. One of its main strengths lies in the sheer consistency of delivering hooks in practically every song, meaning a far more focused experience than 2014’s *The Physical World*. “Holy Books”, the album’s raucous closing track, stands out amongst the rest because it sounds more akin to classic DFA, this time with a pounding twist. It bears resemblance to the likes of “Turn it Out” and “Pull Out”, two major highlights from the duo’s punk-packed debut album: not quite as raw, a little more polished, yet retaining that unapologetically fierce attitude that made DFA so initially interesting back in 2004. Of course, the pair still find a way to divert the song towards a prog-rock groove towards the end, before storming back into its initial riff to conclude the album in gut-punching fashion. It’s the closest to heavy metal that DFA have gotten, and outrageously enough, it suits them down to the ground.
+Death from Above’s third studio album *Outrage! Is Now* is perhaps the most satisfying surprise of 2017. It occupies a very different sound to previous records, with an emphasis on heavy rock in both song-writing and production. One of its main strengths lies in the sheer consistency of delivering hooks in practically every song, meaning a far more focused experience than 2014’s *The Physical World*. “Holy Books”, the album’s raucous closing track, stands out amongst the rest because it sounds more akin to classic DFA, this time with a pounding twist. It bears resemblance to the likes of “Turn it Out” and “Pull Out”, two major highlights from the duo’s punk-packed debut album: not quite as raw, a little more polished, yet retaining that unapologetically fierce attitude that made DFA so initially interesting back in 2004. Of course, the pair still find a way to divert the song towards a prog-rock groove towards the end, before storming back into its initial riff to conclude the album in gut-punching fashion. It’s the closest to heavy metal that DFA have gotten, and outrageously enough, it suits them down to the ground.
 
 -----
 
 ## 3\. “Visions of a Life” // Wolf Alice
+
+<youtube-video video-id="n6dCAY0hGHI" desc="Wolf Alice: Visions of a Life" />
 
 **Fred**
 
@@ -98,6 +111,8 @@ In hindsight, this was the only way [*Visions of a Life*](/reviews/wolf-alice-vi
 
 ## 2\. “Soothing” // Laura Marling
 
+<youtube-video video-id="eCS4OTgaHeM" desc="Laura Marling: Soothing" />
+
 **Thomas**
 
 Laura Marling’s latest release aligns with the trend of her former albums; deploying the same enchanting song writing that we’ve grown to expect, with each addition a subtle yet rewarding progression. “Soothing” is the opener, and introduces us to Marling’s new sonics, beginning with snappy percussion, a head-nodding bass groove and an icy tone throughout that compliments Laura’s delivery. The track (and album) feels a step forward in maturity for Laura, with an emphasis on the arrangement providing harmony and musical narrative. Her lyrics remain as poetic, delicate and sharp as ever: ‘may those who find you find remorse/a change of course, a strange discord resolved’. [*Semper Femina*](/reviews/laura-marling-semper-femina/) is as much a statement of Laura’s personal gender (and identity) issues as it is on cultural femininity. To note, Laura had taken a hiatus from music before this record, following her move across the Atlantic to America, where she taught yoga in a country so large, she could do so anonymously. Likely a reaction to expectations and pressures, but also as revealed by Marling herself, to her questioning and seeking her own true identity. Honesty is key in folk music, even if not entirely accurate. This is an aspect of Marling’s writing that I find particularly engaging. A truly great artist doesn’t chase or follow the hot topic of today, but coincidently lives it, and more importantly, expresses it. For the Marling cynics, this is unlikely to change opinion, but to her credit, you could argue the opposite was intended.
@@ -105,6 +120,8 @@ Laura Marling’s latest release aligns with the trend of her former albums; dep
 -----
 
 ## 1\. “Don’t Delete the Kisses” // Wolf Alice
+
+<youtube-video video-id="WqxE-zppu30" desc="Wolf Alice: Don't Delete the Kisses" />
 
 **André**
 
