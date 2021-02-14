@@ -13,7 +13,7 @@ tags:
   - radiohead
   - beyonce
   - david bowie
-  - 2010s
+  - year end lists
 featuredimage: article-images/favourite-tracks-2016.jpg
 featuredimageAlt: Beyonce Knowles in a bright yellow dress for the music video of her song "Hold Up"
 title: Our 10 favourite tracks of 2016

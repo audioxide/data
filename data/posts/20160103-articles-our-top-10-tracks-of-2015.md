@@ -11,6 +11,7 @@ tags:
   - major lazer
   - muse
   - oneohtrix point never
+  - year end lists
 featuredimage: article-images/favourite-tracks-2015.jpg
 featuredimageAlt: Joanna Newsom playing the harp
 title: Our 10 favourite tracks of 2015

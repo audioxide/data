@@ -13,7 +13,7 @@ tags:
   - run the jewels
   - laura marling
   - idles
-  - 2020s
+  - year end lists
 featuredimage: article-images/favourite-singles-2020.jpg
 featuredimageAlt: Screenshot of the music video for "Me In 20 Years" by Moses Sumney
 title: Our 10 favourite singles of 2020

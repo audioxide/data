@@ -13,6 +13,7 @@ tags:
   - quelle chris
   - richard dawson
   - wolf alice
+  - year end lists
 featuredimage: article-images/favourite-singles-2017.jpg
 featuredimageAlt: Screenshot from the music video for Laura Marling's song "Soothing"
 title: Our 10 favourite tracks of 2017

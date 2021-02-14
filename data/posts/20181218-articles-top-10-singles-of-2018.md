@@ -13,7 +13,7 @@ tags:
   - tyler the creator
   - nine inch nails
   - janelle monae
-  - 2010s
+  - year end lists
 featuredimage: article-images/favourite-singles-2018.jpg
 featuredimageAlt: David Bryne performing onstage during his American Utopia tour
 title: Our 10 favourite singles of 2018

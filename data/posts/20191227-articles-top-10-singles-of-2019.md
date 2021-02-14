@@ -13,6 +13,7 @@ tags:
   - slowthai
   - tyler the creator
   - weyes blood
+  - year end lists
 featuredimage: article-images/favourite-singles-2019.jpg
 featuredimageAlt: Tyler, the Creator in a promotional shot for his album Igor
 title: Our 10 favourite singles of 2019

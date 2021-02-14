@@ -14,7 +14,7 @@ tags:
   - clipping
   - laura marling
   - run the jewels
-  - 2020s
+  - year end lists
 featuredimage: article-images/favourite-albums-2020.jpg
 featuredimageAlt: Run the Jewels performing live
 title: Our 10 favourite albums of 2020
