@@ -1,6 +1,6 @@
 ---
 created: 2018-12-18T12:00:21.000Z
-modified: 2020-03-14T21:35:50.000Z
+modified: 2021-02-14T21:35:50.000Z
 slug: top-10-singles-of-2018
 type: articles
 tags:
@@ -17,6 +17,7 @@ tags:
 featuredimage: article-images/favourite-singles-2018.jpg
 featuredimageAlt: David Bryne performing onstage during his American Utopia tour
 title: Our 10 favourite singles of 2018
+summary: What would the end of the year be without some lists?
 author: 
   - fred
   - andre
@@ -27,7 +28,9 @@ blurb: What would the end of the year be without some lists? Here lies our favou
 
 ---
 
-## 10\. “EveryBody’s Coming to My House” // David Byrne
+## 10\. “Everybody’s Coming to My House” // David Byrne
+
+<youtube-video video-id="euEgyXoOonk" desc="David Byrne: Everybody's Coming to My House" />
 ­
 **Fred**
 
@@ -38,6 +41,8 @@ The rattling percussion, soaring horn arrangements, and near delirious delivery 
 -----
 
 ## 9\. “The Reason They Hate Me” // Daughters
+
+<youtube-video video-id="cqa4_YuQQV8" desc="Daughters: The Reason They Hate Me" />
 ­
 **André**
 
@@ -46,6 +51,8 @@ You can always trust a noise-rock band to provide one of the catchiest songs of 
 -----
 
 ## 8\. “Diamond” // All Them Witches
+
+<youtube-video video-id="kh1Jd8xU42U" desc="All Them Witches: Diamond" />
 ­
 **Gabriel**
 
@@ -54,6 +61,8 @@ You can always trust a noise-rock band to provide one of the catchiest songs of 
 -----
 
 ## 7\. “I’ll Make You Sorry” // Screaming Females
+
+<youtube-video video-id="LhJ0n5G5jCo" desc="Screaming Females: I'll Make You Sorry" />
 ­
 **André**
 
@@ -62,6 +71,8 @@ Screaming Females’ 2018 record *All at Once* isn’t just one of the finest ro
 -----
 
 ## 6\. “Potato Salad” // Tyler, the Creator
+
+<youtube-video video-id="93M1QtYDtpU" desc="Tyler, the Creator: Potato Salad" />
 ­
 **Andrew**
 
@@ -74,6 +85,8 @@ Pair all of that with a video of the two larking about in France with some under
 -----
 
 ## 5\. “God Break Down the Door” // Nine Inch Nails
+
+<youtube-video video-id="eeJ_DzRJUI4" desc="Nine Inch Nails: God Break Down the Door" />
 ­
 **Fred**
 
@@ -84,6 +97,8 @@ The breathless muddle of horns and thumping percussion that undercuts the song i
 -----
 
 ## 4\. “Honey” // Robyn
+
+<youtube-video video-id="Mru9GG3ur9U" desc="Robyn: Honey" />
 ­
 **Fred**
 
@@ -94,6 +109,8 @@ Robyn’s reflectiveness is beautifully framed by the mix. In purely aesthetic t
 -----
 
 ## 3\. “Make Me Feel” // Janelle Monae
+
+<youtube-video video-id="tGRzz0oqgUE" desc="Janelle Monae: Make Me Feel" />
 ­
 **Andrew**
 
@@ -106,6 +123,8 @@ It’s a thoroughly enjoyable pop track that set a standard for the rest of the 
 -----
 
 ## 2\. “Colossus” // IDLES
+
+<youtube-video video-id="VODKZxsRa_E" desc="IDLES: Colossus" />
 ­
 **Marcus**
 
@@ -114,6 +133,8 @@ It’s a thoroughly enjoyable pop track that set a standard for the rest of the 
 -----
 
 ## 1\. “This is America” // Childish Gambino
+
+<youtube-video video-id="VYOjWnS4cMY" desc="Childish Gambino: This is America" />
 ­
 **André**
 
