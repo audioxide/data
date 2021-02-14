@@ -1,6 +1,6 @@
 ---
 created: 2016-01-03T13:48:24.000Z
-modified: 2020-03-14T21:31:59.000Z
+modified: 2021-02-14T20:31:59.000Z
 slug: our-top-10-tracks-of-2015
 type: articles
 tags:
@@ -14,15 +14,18 @@ tags:
 featuredimage: article-images/favourite-tracks-2015.jpg
 featuredimageAlt: Joanna Newsom playing the harp
 title: Our 10 favourite tracks of 2015
+summary: From Kendrick Lamar to Joanna Newsom, the year had its fair share of beautiful tracks. Here is our pick of the bunch
 author: 
   - fred
   - andrew
   - andre
-blurb: From Kendrick Lamar to Joanna Newsom, 2015 has had its fair share of beautiful tracks. Here are our picks of the year.
+blurb: From Kendrick Lamar to Joanna Newsom, 2015 had its fair share of beautiful tracks. Here are our picks of the year.
 
 ---
 
 ## 10\. “Mortal Man” // Kendrick Lamar
+
+<youtube-video video-id="axwpgn3GRMs" desc="Kendrick Lamar: Mortal Man" />
 
 **Fred**
 
@@ -32,6 +35,8 @@ This track makes you sit and listen. Really listen. It’s one of the best endin
 
 ## 9\. “Oino” // LA Priest
 
+<youtube-video video-id="ZJPjSaOcVwg" desc="LA Priest: Oino" />
+
 **Andrew**
 
 The solo project of Samuel Eastgate, LA Priest, takes on many of the influences from Late of the Pier, which he fronted in the 2000s. “Oino”, the single taken from the project’s debut album release this year, *Inji*, follows these influences, with sampled, reverb filled percussion and interesting electronic instrumentation as Samuel’s vocals float over the top, an air of the tropical aesthetic that’s been popular through the year flowing through the whole track. This catchy, excited track was on regular circulation after its release and it still sounds great now. It’s even better live, where Samuel clearly tries to keep as much of the music live as one man can possibly attempt to, and, even in the wet festival atmosphere we experienced it in, still brightened everyone’s spirits.
@@ -39,6 +44,8 @@ The solo project of Samuel Eastgate, LA Priest, takes on many of the influences 
 -----
 
 ## 8\. “King Kunta” // Kendrick Lamar
+
+<youtube-video video-id="hRK7PVJFbS8" desc="Kendrick Lamar: King Kunta" />
 
 **André**
 
@@ -48,6 +55,8 @@ Timing is key. Whereas “i” and “The Blacker the Berry” preceded the albu
 
 ## 7\. “Lean On” // Major Lazer
 
+<youtube-video video-id="YqeW9_5kURI" desc="Major Lazer: Lean On" />
+
 **Andrew**
 
 A reverb soaked, spacey track from Major Lazer’s *Peace Is The Mission*, “Lean On” was the first single from the album and clearly garnered some interest, with various remixes that spanned from Drum and Bass, Moombahton, and Hard House, playing out across club nights through the year and Shazam users looking for the song 16.6 million times. The collaboration with Danish singer, MØ, and French DJ, DJ Snake, saw wide critical acclaim and commercial success. The track itself breaks from the current traditional house track formula in most chart tracks, with a half-tempo, Moombahton beat, featuring a muted synth, and vocals that ring through the track and a final ethereal breakdown of sampled vocals. With lyrics remembering a simple romance, and describing warm nights, and instrumentation and melodies which easily evoke memories of summer, it’s a great track for a chilled moment and certainly had me coming back to it many times over.
@@ -55,6 +64,8 @@ A reverb soaked, spacey track from Major Lazer’s *Peace Is The Mission*, “Le
 -----
 
 ## 6\. “Reapers” // Muse
+
+<youtube-video video-id="gcNEC9NaJuE" desc="Muse: Reapers" />
 
 **Fred**
 
@@ -64,13 +75,17 @@ Muse kick some serious arse when they’re on point, and they’re on point for 
 
 ## 5\. “Sticky Drama” // Oneohtrix Point Never
 
+<youtube-video video-id="td-e4i2BL_Q" desc="Oneohtrix Point Never: Sticky Drama" />
+
 **André**
 
-Visceral, hyperactive and totally brutal, [*Garden of Delete*](/reviews/oneohtrix-point-never-garden-of-delete/) is relentless in its message, and no track illustrates Oneohtrix Point Never’s abstract depiction better than “Sticky Drama”. It inherits the riffs and roars of metal and combines them with EDM hooks, and if I were to romanticise the situation, I’d dare say it’s the type of track a young Trent Reznor would create today. A track of this caliber cannot be adequately described; such is its mutilated character. There’s no pay off, it will baffle as much as it delights, yet it remains irresistible for those with an ear for the peculiar. “Sticky Drama” is a grotesque beast that drips with the remains of your musical consciousness, and it’s fucking brilliant.
+Visceral, hyperactive and totally brutal, [*Garden of Delete*](/reviews/oneohtrix-point-never-garden-of-delete/) is relentless in its message, and no track illustrates Oneohtrix Point Never’s abstract depiction better than “Sticky Drama”. It inherits the riffs and roars of metal and combines them with EDM hooks, and if I were to romanticise the situation, I’d dare say it’s the type of track [a young Trent Reznor](/reviews/nine-inch-nails-pretty-hate-machine/) would create today. A track of this caliber cannot be adequately described; such is its mutilated character. There’s no pay off, it will baffle as much as it delights, yet it remains irresistible for those with an ear for the peculiar. “Sticky Drama” is a grotesque beast that drips with the remains of your musical consciousness, and it’s fucking brilliant.
 
 -----
 
 ## 4\. “Gosh” // Jamie XX
+
+<youtube-video video-id="hTGJfRPLe08" desc="Jamie XX: Gosh" />
 
 **Andrew**
 
@@ -80,6 +95,8 @@ The opener to Jamie XX’s debut album, *In Colour*, “Gosh” is a rolling, ev
 
 ## 3\. “The Handler” // Muse
 
+<youtube-video video-id="BF1DQr5dKW8" desc="Muse: The Handler" />
+
 **André**
 
 Muse are a band that delight me one moment, and make me want to tear my hair out the next. *Drones* epitomises this more than any of their releases, though I can say with confidence that “The Handler” is the finest track from the band in almost ten years. It struts with a finesse not otherwise seen on their latest absurd release, which is ultimately the most frustrating thing. The riffs are contagious, Bellamy’s falsetto’s soar high with pride, and Howard’s drumming retains a flair that has been found wanting in his playing since *Absolution*. Collectively, they still have the ability to produce one of the most badass tracks of the year. Muse will never give me what I want – a focused hard rock release – so when I get glimpses I’m forced to grip it with both hands and never let go. As we jest about the pitfalls of such a talented trio, the frustration turns into a resounding lack of interest. The way things are going, “The Handler” could well be one of the last cases of ‘good Muse’, an expression I find myself saying less and less with each album. Maybe it’s just time we all move on.
@@ -88,13 +105,17 @@ Muse are a band that delight me one moment, and make me want to tear my hair out
 
 ## 2\. “Divers” // Joanna Newsom
 
+<youtube-video video-id="48xlgXqQKLA" desc="Joanna Newsom: Divers" />
+
 **Fred**
 
-Although I wasn’t exactly infatuated with *Divers*—due to the blackness of my own heart, no doubt—its title track was the closest I came to being disarmed. “Divers” is of a finesse that redeems the world and makes it seem rich and lovely. Melancholy is ultimately a life-affirming thing, laced as it is with depths of feeling we all treasure, and “Divers” is as esteemed an expression of it as anyone could wish for. If you haven’t yet seen fit to make time for *Divers*, I gently suggest giving this track a listen. The album will likely follow.
+Although I wasn’t exactly infatuated with [*Divers*](/reviews/joanna-newsom-divers/) — due to the blackness of my own heart, no doubt — its title track was the closest I came to being disarmed. “Divers” is of a finesse that redeems the world and makes it seem rich and lovely. Melancholy is ultimately a life-affirming thing, laced as it is with depths of feeling we all treasure, and “Divers” is as esteemed an expression of it as anyone could wish for. If you haven’t yet seen fit to make time for *Divers*, I gently suggest giving this track a listen. The album will likely follow.
 
 -----
 
-## 1\. “How Much a Dollar Cost”// Kendrick Lamar
+## 1\. “How Much a Dollar Cost” // Kendrick Lamar
+
+<youtube-video video-id="y8kEiL81_R4" desc="Kendrick Lamar: How Much a Dollar Cost" />
 
 **André**
 
