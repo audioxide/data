@@ -14,7 +14,7 @@ tags:
   - nine inch nails
   - robyn
   - vince staples
-  - 2010s
+  - year end lists
 featuredimage: article-images/favourite-albums-2018.jpg
 featuredimageAlt: British punk band Idles performing onstage
 title: Our 10 favourite albums of 2018

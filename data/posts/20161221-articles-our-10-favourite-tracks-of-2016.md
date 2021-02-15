@@ -1,6 +1,6 @@
 ---
 created: 2016-12-21T18:00:59.000Z
-modified: 2020-03-14T21:31:09.000Z
+modified: 2021-02-14T19:31:09.000Z
 slug: our-10-favourite-tracks-of-2016
 type: articles
 tags:
@@ -13,19 +13,22 @@ tags:
   - radiohead
   - beyonce
   - david bowie
-  - 2010s
+  - year end lists
 featuredimage: article-images/favourite-tracks-2016.jpg
 featuredimageAlt: Beyonce Knowles in a bright yellow dress for the music video of her song "Hold Up"
 title: Our 10 favourite tracks of 2016
+summary: Real friends, true love, and mushroom clouds
 author:
   - andre
   - andrew
   - fred
-blurb: Songs what we liked in 2016. 
+blurb: Real friends, true love, and mushroom clouds. 
 
 ---
 
 ## 10\. “Pripyat” // Mogwai
+
+<youtube-video video-id="vXIWS3Z9qcc" desc="Mogwai: Pripyat" />
 
 **André**
 
@@ -35,6 +38,8 @@ Much of [Mogwai’s latest record/soundtrack](/reviews/mogwai-atomic/) is exceed
 
 ## 9\. “Real Friends” // Kanye West
 
+<youtube-video video-id="fWD9GF-Ogf4" desc="Kanye West: Real Friends" />
+
 **Fred**
 
 [*The Life of Pablo*](/reviews/the-life-of-pablo/)was a mixed bag to say the least. “Real Friends” was one of several tracks which showcased the album’s untapped potential, balancing kooky neon sound against a biting sobriety. Kanye West is a baffling figure, but profound moments pop out of the nuttiness often enough to make him an important one. In the case of “Real Friends”, the shift in focus from bleached assholes to two-faced assholes was a welcome one, and it’s a terrific song. That the famous and powerful have to navigate a minefield of leeches and manipulators is well known, but Kanye’s reflections in “Real Friends” make it well felt. The simplicity of their expression only makes them more impactful. The clarity is stunning, frankly. There’s a decent chance Kanye West is out of his mind, but what a mind it is.
@@ -42,6 +47,8 @@ Much of [Mogwai’s latest record/soundtrack](/reviews/mogwai-atomic/) is exceed
 -----
 
 ## 8\. “Life Itself” // Glass Animals
+
+<youtube-video video-id="yd9p4n5hLEg" desc="Glass Animals: Life Itself" />
 
 **Andrew**
 
@@ -51,6 +58,8 @@ I’ve been hooked on most of Glass Animals’ latest album, *How to be a Human 
 
 ## 7\. “Untitled 02 \| 06.23.2014.” // Kendrick Lamar
 
+<youtube-video video-id="gb9H6iF3-tA" desc="Kendrick Lamar: Untitled 02 \| 06.23.2014." />
+
 **Fred**
 
 Kendrick Lamar is silly talented. [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/) was so good that its leftovers have provided some of the highlights of 2016. Silly. [*untitled unmastered.*](/reviews/untitled-unmastered/) was solid throughout, but “Untitled 02” did a particularly good job of bridging the gap between Kendrick’s A game and his B-side project, providing a deeply satisfying peek into the mind of one of the greatest talents in music right now. It’s off-kilter, melodic hip-hop sounds — as you might expect — like a rugged cousin of *Butterfly*, oozing kindred class, but proving far more abrasive. There’s a prickliness to early versions of things that I like very much. That roughness feels truer to life, in many respects. “Untitled 02” is rough, groovy, and gorgeous — a fine ambassador for Kendrick’s latest project. Until his next one: pimp pimp hooray.
@@ -59,13 +68,17 @@ Kendrick Lamar is silly talented. [*To Pimp a Butterfly*](/reviews/kendrick-lama
 
 ## 6\. “Symptom of Terminal Illness” // The Dillinger Escape Plan
 
+<youtube-video video-id="yztG35U5Hrw" desc="The Dillinger Escape Plan: Sympton of Terminal Illness" />
+
 **André**
 
 “Symptom of Terminal Illness” stands confidently as one of the best rock songs of the year. By The Dillinger Escape Plan’s frenzied standards, it’s a delicate and surprisingly measured affair, refraining from the usual traits of mathcore that [*Dissociation*](/reviews/the-dillinger-escape-plan-dissociation/) is otherwise made out of. It’s one of only a few cuts on the record that contains a conventional structure for listeners to follow, and it distinctly benefits from the obvious restrain. The roaring, thundering chorus, which admittedly sounds more like [Deftones](/reviews/deftones-gore/) than it does Dillinger, is almost anthem-like in its forthright approach. Greg Puciato’s confessional cries sound triumphant over the rousing backdrop of organised noise, of which the band have become so accustomed to generating during their rambunctious career. Upon release, Puciato described the song as “the most literal and non-metaphoric or abstract thing” that he’s ever written. It can be easily forgotten, but the simpler songs are often the most effective.
 
 -----
 
-## 5\. “Distant Sky” // Nick cave & The Bad Seeds
+## 5\. “Distant Sky” // Nick Cave & The Bad Seeds
+
+<youtube-video video-id="xCVgsI5h9p0" desc="Nick Cave & The Bad Seeds: Distant Sky" />
 
 **Andrew**
 
@@ -75,6 +88,8 @@ This was a surprising track for me and one that nearly escaped my top 10 list in
 
 ## 4\. “Burn the Witch” // Radiohead
 
+<youtube-video video-id="yI2oS2hoL0k" desc="Radiohead: Burn the Witch" />
+
 **André**
 
 Though it may not go down as their best, “Burn the Witch” will likely be remembered as one of the most important songs in Radiohead’s contextual history. Its release back in early May felt like a highly satisfying glimpse into the eagerly anticipated [LP9](/reviews/radiohead-a-moon-shaped-pool/), putting to rest many of the fears that fans had aggregated since *The King of Limbs*, which polarised listeners due to its stiff, mechanical mannerisms. The first few bars of dramatic strings were once a welcome sensation – now, they represent the dawn of a new Radiohead era. String arrangements had been a feature of the band’s music since [*OK Computer*](/reviews/radiohead-ok-computer/), but never before have they been so prominent. Jonny Greenwood’s work is the beating heart of “Burn the Witch”. After a second rendition of the haunting chorus, the song reaches a climax of [*There Will Be Blood*](https://www.youtube.com/watch?v=f_Al5i_cwsk&index=8&list=PLKiEBsOXrNf7og5WPYsx1Klmhvhy_p_sK) proportions, as the speckled string notes rise in intensity to shower the ear ducts like a swarm of insects shifting through the dirt. The euphoria could not be contained – Radiohead’s music felt alive again.
@@ -82,6 +97,8 @@ Though it may not go down as their best, “Burn the Witch” will likely be rem
 -----
 
 ## 3\. “Hold up” // Beyonce
+
+<youtube-video video-id="PeonBmeFR8o" desc="Beyonce: Hold Up" />
 
 **Andrew**
 
@@ -91,13 +108,17 @@ Another track that’s found its way into my ears and won’t come back out agai
 
 ## 2\. “True Love Waits” // Radiohead
 
+<youtube-video video-id="WSnc_6Z7HqQ" desc="Radiohead: Burn the Witch" />
+
 **Fred**
 
-It’s hard to explain why “True Love Waits” is so powerful without sounding like a colossal sap. There’s such a gentle finality to it. Prior to its recording for [*A Moon Shaped Pool*](/reviews/radiohead-a-moon-shaped-pool/), it had famously been kicking around for twenty years. Ed O’Brien once joked that failed attempts to record the song number in the hundreds—and that was in 2000! One can only wonder at the forms “True Love Waits” has taken in its lifetime. And after all that time and thought and care, Radiohead nail it as a piano ballad, because of course they do. That’s all it needed. Bittersweet doesn’t begin to describe the beauty of “True Love Waits”. It has that tenderness of beaten and bruised innocence. The impossible softness of Thom Yorke’s vocals, the almost childlike sway of the piano; the song’s purity-in-spite-of-itself borders on the sublime. I continue to find it uniquely moving. If *Songs of Innocence and of Experience *were songs, I think a lot of them would sound like “True Love Waits”.
+It’s hard to explain why “True Love Waits” is so powerful without sounding like a colossal sap. There’s such a gentle finality to it. Prior to its recording for [*A Moon Shaped Pool*](/reviews/radiohead-a-moon-shaped-pool/), it had famously been kicking around for twenty years. Ed O’Brien once joked that failed attempts to record the song number in the hundreds—and that was in 2000! One can only wonder at the forms “True Love Waits” has taken in its lifetime. And after all that time and thought and care, Radiohead nail it as a piano ballad, because of course they do. That’s all it needed. Bittersweet doesn’t begin to describe the beauty of “True Love Waits”. It has that tenderness of beaten and bruised innocence. The impossible softness of Thom Yorke’s vocals, the childlike sway of the piano; the song’s purity-in-spite-of-itself borders on the sublime. I continue to find it uniquely moving. If *Songs of Innocence and of Experience* were songs, I think a lot of them would sound like “True Love Waits”.
 
 -----
 
 ## 1\. “Blackstar”// David Bowie
+
+<youtube-video video-id="kszLwBaC4Sw" desc="David Bowie: Blackstar" />
 
 **André**
 

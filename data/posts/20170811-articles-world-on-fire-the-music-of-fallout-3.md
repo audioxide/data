@@ -50,9 +50,7 @@ The interplay is subtle, but undeniable. It is crucial to *Fallout 3*’s atmosp
 
 The soundtrack guides moments like that more than is immediately apparent. It’s all about implementation, and for sheer punch this moment unquestionably belongs to Inon Zur:
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/5L4HTUS1RYE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+<youtube-video video-id="5L4HTUS1RYE" desc="Fallout 3 Exiting the Vault 101" />
 
 Both the OST and GNR bolster the theme of humanity’s place in post-war ruin. More of the same? Rebirth? Let’s see. Indeed, the OST track listing almost feels like a spectrum. The further along it gets, the more technology falls away in favour of a smoother, purer sound. And as post-war society develops, further motifs grow out of that. There are elements of blues and folk in [“Megaton”](https://www.youtube.com/watch?v=ghSqiSqVF38). The same is true of the town’s ambient tracks. Zur nods to this, saying that the people of Megaton “are kind of creating a new, wild west world,” planting their flag in a new frontier.
 
