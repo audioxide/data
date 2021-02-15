@@ -17,7 +17,7 @@ tags:
   - lorde
   - robyn
   - janelle monae
-  - 2010s
+  - year end lists
 featuredimage: article-images/favourite-albums-2019.jpg
 featuredimageAlt: Tyler, the Creator wearing a dashing baby blue suit and monstrous blonde wig
 title: Our 10 favourite albums of 2019

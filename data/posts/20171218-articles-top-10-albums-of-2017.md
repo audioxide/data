@@ -14,7 +14,7 @@ tags:
   - run the jewels
   - tyler the creator
   - wolf alice
-  - 2010s
+  - year end lists
 featuredimage: article-images/favourite-albums-2017.jpg
 featuredimageAlt: Vinyl record of Kendrick Lamar's album DAMN. on a turntable
 title: Our 10 favourite albums of 2017

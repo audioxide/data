@@ -14,6 +14,7 @@ tags:
   - radiohead
   - saul williams
   - solange
+  - year end lists
 featuredimage: article-images/favourite-albums-2016.jpg
 featuredimageAlt: David Bowie holding a bible
 title: Our 10 favourite albums of 2016
