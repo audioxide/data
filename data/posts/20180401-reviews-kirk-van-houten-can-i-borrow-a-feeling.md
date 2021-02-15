@@ -9,6 +9,7 @@ tags:
   - the simpsons
   - blues
 featuredimage: album-artwork/can-i-borrow-a-feeling-kirk-van-houten.jpg
+artworkCredit: was designed by the Springfield Records art department. Van Houten insisted on 48 variations being made before deciding he liked the first one the best. The cost of making so many covers, combined with the historic underperformance of the album, led to Springfield Records going bankrupt at the start of 1997.
 artist: Kirk Van Houten
 album: Can I Borrow a Feeling?
 essentialtracks: ""

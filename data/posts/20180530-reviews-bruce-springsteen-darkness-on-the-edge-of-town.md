@@ -11,6 +11,8 @@ tags:
   - u2
   - kings of leon
 featuredimage: album-artwork/darkness-on-the-edge-of-town-bruce-springsteen.jpg
+artworkCredit: uses a photograph taken by New Jersey photographer Frank Stefanko. Springsteen recalled, ‘He got the 13-year-old kid from next door to hold a light. He borrowed a camera. I don’t know if he even had a camera! But when I saw the picture I said, “That’s the guy in the songs.” I wanted the part of me that’s still that guy to be on the cover.’
+artworkCreditSource: https://www.theguardian.com/music/2010/sep/23/bruce-springsteen-darkness-edge-town
 artist: Bruce Springsteen
 album: Darkness on the Edge of Town
 essentialtracks:

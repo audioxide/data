@@ -16,6 +16,8 @@ tags:
   - the beatles
   - gorillaz
 featuredimage: album-artwork/modern-life-is-rubbish-blur.jpg
+artworkCredit: was designed by longtime band collaborators Stylorouge. It features a painting of the Mallard steam engine by British artist Paul Gribble. The font used for the album title is Festival Titling, the official display face for the 1951 Festival of Britain.
+artworkCreditSource: https://fontsinuse.com/uses/31027/blur-modern-life-is-rubbish-album-art
 artist: Blur
 album: Modern Life Is Rubbish
 essentialtracks:

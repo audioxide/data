@@ -11,6 +11,8 @@ tags:
   - rock
   - britpop
 featuredimage: album-artwork/definitely-maybe-oasis.jpg
+artworkCredit: was shot by British photographer Michael Spencer Jones. It was taken in Bonehead’s living room and Jones had to use a wide angle lens to fit all the band members in, which then made the floor look massive. Worried the picture would look like an advert for varnish, Spencer Jones asked frontman Liam Gallagher to lie on the floor, mummy style. The liquid in the wine glasses is actually Ribena, because it photographs better.
+artworkCreditSource: https://www.theguardian.com/artanddesign/2019/feb/06/michael-spencer-jones-oasis-definitely-maybe-album-cover
 artist: Oasis
 album: Definitely Maybe
 essentialtracks:
