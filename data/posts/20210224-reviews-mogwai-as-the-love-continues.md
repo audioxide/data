@@ -7,9 +7,9 @@ type: reviews
 tags:
   - 2020s
   - mogwai
-featuredimage: album-artwork/for-the-first-time-black-country-new-road.jpg
-artworkCredit: is nice, isn't it?
-artworkCreditSource: https://unsplash.com/photos/vRQmBBsJspo
+featuredimage: album-artwork/as-the-love-continues-mogwai.jpg
+artworkCredit: is the work of graphic designer DLT. 
+artworkCreditSource: https://twitter.com/dltdesigner/status/1321818474415575041
 artist: Mogwai
 album: As the Love Continues
 essentialtracks:
@@ -22,16 +22,16 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#213831"
-  - "#ffffff"
-  - "#ffffff"
+  - "#ac192b"
+  - "#fcecdd"
+  - "#fcecdd"
 pullquote: TBD
 summary: TBD
 week: 259
 blurb: TBD
-artistMBID: TBD
-albumMBID: TBD
-artistLink: TBD
+artistMBID: d700b3f5-45af-4d02-95ed-57d301bda93e
+albumMBID: ef8e8e4d-05a2-4732-b68a-c5b6af86d786
+artistLink: https://store.mogwai.scot/
 
 ---
 

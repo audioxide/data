@@ -11,7 +11,7 @@ tags:
   - new order
 featuredimage: album-artwork/every-countrys-sun-mogwai.jpg
 artist: Mogwai
-album: Every Country's Sun
+album: Every Country’s Sun
 essentialtracks:
   - aka 47
 favouritetracks:
