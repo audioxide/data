@@ -22,9 +22,9 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#ac192b"
+  - "#95212b"
   - "#fcecdd"
-  - "#fcecdd"
+  - "#fdfafe"
 pullquote: TBD
 summary: TBD
 week: 259
