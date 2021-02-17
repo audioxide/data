@@ -34,9 +34,9 @@ colours:
   - "#b7b9cf"
   - "#f0a597"
 pullquote: Dusky psychedelic pop
-summary: Covered in so much haze that, despite some serious musical detours, tracks still tend to blend together. This is very much the selling point for many listeners, and there’s no knocking the aesthetic. I myself have grown enamoured with a handful of tracks.
+summary: Covered in so much haze that, despite some serious musical detours, tracks still tend to blend together. This is very much the selling point for many listeners, though, and there’s no knocking the aesthetic. I myself have grown enamoured with a handful of tracks.
 week: 258
-blurb: The album dusky psychedelic pop is covered in so much haze that, despite serious musical detours, tracks still tend to blend together. It’s a good blend, though.
+blurb: The album dusky psychedelic pop is covered in so much haze that, despite serious musical detours, tracks tend to blend together. It’s a good blend, though.
 artistMBID: 4bfce038-b1a0-4bc4-abe1-b679ab900f03
 albumMBID: 590b2c0f-1a80-4e6f-9c7e-e5388620620b
 artistLink: https://shop.djangodjango.co.uk
@@ -50,7 +50,7 @@ review: >-
   
   This virtuosic approach results in some great songs spread across the tracklist, though I would likely find the whole thing more engaging if Django Django had stuck to a definitive musical concept. After all, just because you can do something doesn’t always mean you should. Similar to [Khruangbin’s album from last year](/reviews/khruangbin-mordechai/), _Glowing in the Dark_ plays more like mood music. Good mood music, so we’re clear. I just think there’s a lot more in the tank that we’re not seeing.
 
-  _Glowing in the Dark_ is covered in so much haze that, despite some serious musical detours, tracks still tend to blend together. This is very much the selling point for many listeners, and there’s no knocking the aesthetic. I myself have grown enamoured with a handful of tracks. “Got me Worried” is a clear favourite, practically pleading to be played over a Tarantino film in which a handsome group of individuals are driving through Texas on a dry, sunny day. “Free from Gravity” is one of the more welcome curveballs, especially with its cute synth lines that bubble up during the chorus, and “Night of the Buffalo” is a cinematic journey with more twists and turns than I expected for a song under four minutes.
+  _Glowing in the Dark_ is covered in so much haze that, despite some serious musical detours, tracks still tend to blend together. This is very much the selling point for many listeners, though, and there’s no knocking the aesthetic. I myself have grown enamoured with a handful of tracks. “Got me Worried” is a clear favourite, practically pleading to be played over a Tarantino film in which a handsome group of individuals are driving through Texas on a dry, sunny day. “Free from Gravity” is one of the more welcome curveballs, especially with its cute synth lines that bubble up during the chorus, and “Night of the Buffalo” is a cinematic journey with more twists and turns than I expected for a song under four minutes.
   
   How typical of me to wish for more songs with such a sense of theatrical drama. What can I say? I just love music that sets a scene. For the most part, _Glowing in the Dark_ excels more at establishing a baseline vibe. Whilst this comes with some limitations, there’s no denying that the album has more than enough to please all types of listeners.
 
