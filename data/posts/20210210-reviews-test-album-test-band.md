@@ -69,9 +69,9 @@ tracks:
   - Hahaha, what
   - You joshin'?
 score:
-  score: 6
+  score: 7
   max: 10
-  fraction: 0.6
+  fraction: 0.7
 review: >-
   Signing to a major label, playing Glastonbury, making the cover of the NME
   then releasing an album to wide critical acclaim are the goals of an entire
