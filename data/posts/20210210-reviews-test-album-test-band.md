@@ -33,25 +33,13 @@ artistLink: https://www.spoonrecords.com/
 
 ---
 author: Fred
-review: |-
-  This is a title
-  This is a subtitle
-  This is a Heading 1
-  ==========
-  This is a Heading 2
-  ----------
-  This is a Heading 3
-  This is some _italicised_ and **bolded** and _**bold italicised text**_.
-
-
-
-  This is some test with “quoted” ‘text’ and it’s very interesting
+review: Best test review I’ve ever seen. Splendid.
 tracks:
   - test
 score:
-  score: 1
+  score: 8
   max: 10
-  fraction: 0.1
+  fraction: 0.8
 
 ---
 author: charlie-clissitt
