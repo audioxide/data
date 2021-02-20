@@ -54,27 +54,6 @@ score:
   fraction: 0.1
 
 ---
-author: andrew
-tracks:
-  - Test
-  - Thing
-  - Lol
-score:
-  score: 4
-  max: 10
-  fraction: 0.4
-review: |-
-  This is a title
-  This is a subtitle
-
-  # This is a Heading 1
-  ## This is a Heading 2
-  ### This is a Heading 3
-  This is some _italicised_ and **bolded** and _**bold italicised text**_.
-
-  This is _some_ test with “quoted” ‘text’ and it’s very interesting
-
----
 author: charlie-clissitt
 tracks:
   - test
