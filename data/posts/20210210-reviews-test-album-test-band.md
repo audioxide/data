@@ -62,3 +62,29 @@ score:
   max: 10
   fraction: 0.2
 review: ""
+
+---
+author: andrew
+tracks:
+  - Hahaha, what
+  - You joshin'?
+score:
+  score: 6
+  max: 10
+  fraction: 0.6
+review: >-
+  Signing to a major label, playing Glastonbury, making the cover of the NME
+  then releasing an album to wide critical acclaim are the goals of an entire
+  career for many. For Arlo Parks, it’s what she’s achieved in the first three
+  years of hers. _Collapsed In Sunbeams_ has received a wealth of positive
+  attention, and to find myself returning to this debut over and again, a month
+  on from its release, it’s not hard to see why.
+
+
+  A cool nonchalance characterises this album from top to bottom. Parks delivers vocals with a laid back confidence which is immediately moreish. Instrumentation follows her lead, layering easy-going beats and basslines, alongside simmering horns, and guitar that varies from bright and brazen to light and delicate. In “Black Dog”, Parks cites Radiohead’s In Rainbows as a musical influence, while elsewhere tracks take inspiration from Motown and The Supremes. It makes for a memorable tracklist that remains cohesive despite this melting pot of influences.
+
+
+  Poetry and spoken word weave throughout _Collapsed In Sunbeams_, with the opening moments made up of a spoken-word piece Parks recorded in her bedroom. This lean on poetry, combined with the personal experience drawn on in every track, makes for intimate, reflective passages throughout. In “Hope”, the pace is broken towards the end with words that distil the sense of isolation and loneliness the track deals with, finally offering “know that I know and you’re not alone”. It elevates the track and makes for a favourite of mine across the tracklist.
+
+
+  In listening longer to _Collapsed In Sunbeams_, one could draw comparisons to Lily Allen, Amy Winehouse, and Lianne La Havas. Each have had stand out debut albums, each with a distinctive sound and a string of excellent music that came after it. It’s quite exciting to think we may have another artist with such a career going into the 2020s and it’ll be interesting to see the next steps Arlo Parks takes following this debut success.
