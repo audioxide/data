@@ -81,7 +81,7 @@ review: >-
   on from its release, it’s not hard to see why.
 
 
-  A cool nonchalance characterises this album from top to bottom. Parks delivers vocals with a laid back confidence which is immediately moreish. Instrumentation follows her lead, layering easy-going beats and basslines, alongside simmering horns, and guitar that varies from bright and brazen to light and delicate. In “Black Dog”, Parks cites Radiohead’s In Rainbows as a musical influence, while elsewhere tracks take inspiration from Motown and The Supremes. It makes for a memorable tracklist that remains cohesive despite this melting pot of influences.
+  A cool nonchalance characterises this album from top to bottom. Parks delivers vocals with a laid back confidence which is immediately moreish. Instrumentation follows her lead, layering easy-going beats and basslines, alongside simmering horns, and guitar that varies from bright and brazen to light and delicate. In “Black Dog”, Parks cites Radiohead’s In Rainbows as a musical influence, while elsewhere tracks take inspiration from Motown and The Supremes. It makes for a memorable tracklist that remains cohesive despite this melting p[ot of influences.](http://example.com)
 
 
   Poetry and spoken word weave throughout _Collapsed In Sunbeams_, with the opening moments made up of a spoken-word piece Parks recorded in her bedroom. This lean on poetry, combined with the personal experience drawn on in every track, makes for intimate, reflective passages throughout. In “Hope”, the pace is broken towards the end with words that distil the sense of isolation and loneliness the track deals with, finally offering “know that I know and you’re not alone”. It elevates the track and makes for a favourite of mine across the tracklist.
