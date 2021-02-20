@@ -60,9 +60,9 @@ tracks:
   - Thing
   - Lol
 score:
-  score: 3
+  score: 4
   max: 10
-  fraction: 0.3
+  fraction: 0.4
 review: |-
   This is a title
   This is a subtitle
