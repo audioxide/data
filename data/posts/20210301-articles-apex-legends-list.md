@@ -14,13 +14,9 @@ blurb: TBD
 
 ---
 
-<figure class="wide">
-  <img src="article-images/filler.jpg" alt="Filler" />
-</figure>
-
 *Apex Legends* has changed my life. It's my favourite competitive shooter ever. I've made memories, and I've gained friends. It's a game that I probably take way too seriously (if I find you camping in a corner with Caustic traps, prepare to be mercilessly quipped after your inevitable demise). It's a game that has ruined other games for me: no FPS offers the same level of freedom and control that Apex does. Well, except *Titanfall 2*.
 
-Another key reason that I, and so many others, have fallen in love with Apex is due to the fantastic lore that the Respawn Entertainment team have developed since its launch in February 2019. This sets Apex aside from other battle royale titles. Since the very beginning, Lead Composer Steve Barton has done a wonderful job in helping to bring each legend to life, with all of them having their own unique musical themes. These themes are then incorporated into aspects of the game, such as lobby and victory music.
+Another key reason that I, and so many others, have fallen in love with Apex is due to the fantastic lore that the Respawn Entertainment team have developed since its launch in February 2019. This sets Apex aside from other battle royale titles. Since the very beginning, Lead Composer [Stephen Barton](https://stephenbarton.com) has done a wonderful job in helping to bring each legend to life, with all of them having their own unique musical themes. These themes are then incorporated into aspects of the game, such as lobby and victory music.
 
 As of February 2021, there are now 16 playable legends. After much deliberation, I've carefully ranked each musical theme that accompanies our beloved heroes (and villains). There's a noticeable pattern to the list: the newer the legend, the more memorable and distinct the theme. This is likely because Barton has had more time - and creative flexibility - to work on each individual theme since the original cast of characters.
 
