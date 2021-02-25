@@ -1,5 +1,4 @@
 ---
-
 created: 2021-02-24T12:00:00.000Z
 modified: 2021-02-24T12:00:00.000Z
 slug: mogwai-as-the-love-continues
@@ -8,7 +7,7 @@ tags:
   - 2020s
   - mogwai
 featuredimage: album-artwork/as-the-love-continues-mogwai.jpg
-artworkCredit: is the work of graphic designer DLT. 
+artworkCredit: is the work of graphic designer DLT.
 artworkCreditSource: https://twitter.com/dltdesigner/status/1321818474415575041
 artist: Mogwai
 album: As the Love Continues
@@ -34,51 +33,36 @@ albumMBID: ef8e8e4d-05a2-4732-b68a-c5b6af86d786
 artistLink: https://store.mogwai.scot/
 
 ---
-
 author: Andre
-
-review: >-
-  Text
-
+review: Text
 tracks:
   - TBD
   - TBD
   - TBD
-
 score:
   score: 8
   max: 10
   fraction: 0.8
 
 ---
-
 author: Fred
-
-review: >-
-  Text
-
+review: Text
 tracks:
   - TBD
   - TBD
   - TBD
-
 score:
   score: 9
   max: 10
   fraction: 0.9
 
 ---
-
 author: Andrew
-
-review: >-
-  Text
-
+review: Test text
 tracks:
   - TBD
   - TBD
   - TBD
-
 score:
   score: 8
   max: 10
