@@ -36,7 +36,7 @@ Bloodhound is one of the best Legends in the game. The inclusion of a non-binary
 
 <youtube-video video-id="DqY1fEkb6uU" desc="Apex Legends: Wraith Music Pack" />
 
-Wraith is another excellent Legend, and undoubtedly one of the best to play. Statistics show she's been the most popular since day one, though recent nerfs for Season 8 seem to have thrown a spanner in the works. I can't say I'm sad about it, given the amount of times I've been one-clipped by a bald Wraith named something like iGunz. It's a shame, then, that the musical theme doesn't quite live up to her prestige. The electronic elements are nice enough, and the soft vocal effects lend the theme an other-worldly feel, but the music doesn't give you too much insight into Wraith's character other than a sense of mystery. To be clear, it's a good piece of music. It's just not as effective as many others.
+Wraith is another excellent Legend, and undoubtedly one of the best to play. Statistics show she's been the most popular since day one, though recent nerfs for Season 8 seem to have thrown a spanner in the works. I can't say I'm sad about it, given the amount of times I've been one-clipped by a bald Wraith named something like iGunz. It's a shame, then, that the musical theme doesn't quite live up to her prestige. The electronic elements are nice enough, and the soft vocal effects lend the theme an other-worldly feel, but the music doesn't give you too much insight into Wraith's character other than a sense of mystery. To be clear, it's a good piece of music. It's just not as memorable as many others.
 
 -----
 
@@ -60,7 +60,7 @@ Our favourite passive-aggressive robot has a theme too. It seems many Apex playe
 
 <youtube-video video-id="23wuM70XnfE" desc="Apex Legends: Caustic Music Pack" />
 
-Dr Alexander Maxwell Nox, AKA Caustic, has been a divisive legend since day one. He was the first villainous character, before Revenant [so ruthlessly introduced himself](https://www.youtube.com/watch?v=oHUNqFls2-c&ab_channel=IGN). His musical theme certainly plays on this. Though it's not massively memorable, it is slightly terrifying. The introduction reminds me of [classic John Carpenter soundtracks](https://www.youtube.com/watch?v=pT4FY3NrhGg&ab_channel=RodrigoCantillano), and wouldn't sound too out of place in a game like Dead by Daylight. In terms of sheer suspense, Barton did an excellent job with Caustic' theme. Appropriate too, with quips such as “I do not care who makes the kill, as long as I can observe it die”. You just leave Wattson alone. Understood, Doctor?
+Dr Alexander Maxwell Nox, AKA Caustic, has been a divisive legend since day one. He was the first villainous character, before Revenant [so ruthlessly introduced himself](https://www.youtube.com/watch?v=oHUNqFls2-c&ab_channel=IGN). His musical theme certainly plays on this. Though it's not massively memorable, it is slightly terrifying. The introduction reminds me of [classic John Carpenter soundtracks](https://www.youtube.com/watch?v=pT4FY3NrhGg&ab_channel=RodrigoCantillano), and wouldn't sound too out of place in a game like Dead by Daylight. In terms of sheer suspense, Barton did an excellent job with Caustic's theme. Appropriate too, with quips such as “I do not care who makes the kill, as long as I can observe it die”. You just leave Wattson alone. Understood, Doctor?
 
 -----
 
@@ -108,7 +108,7 @@ Crypto's theme is a perfect representation of his character. He's a skilled hack
 
 <youtube-video video-id="-5O9e3IAXgI" desc="Apex Legends: Fuse Music Pack" />
 
-I expect Barton was very excited upon seeing the details for Fuse, a highly confident Australian who is as enthusiastic about explosives as he is guitars, because clearly a lot of fun was had making this one. Guitars have been prominent throughout this list, but they have been used so creatively until now. Fans of classic rock will adore Fuse's theme, and I'm sure for many players this will rank even higher - especially those with a keen ear for roaring riffs. This is proper hair-metal stuff. It skirts dangerously close to being full-on ridiculous, but it's all the better for it. I cannot help but chuckle every time that absurd vocoder effect comes in during the introduction. This is undoubtedly one of the best themes to date, and a real insight into Fuse's character. He's loud, he's crude, and he doesn't really give a fuck. 
+I expect Barton was very excited upon seeing the details for Fuse, a highly confident Australian who is as enthusiastic about explosives as he is guitars, because clearly a lot of fun was had making this one. Guitars have been prominent throughout this list, but they have never been used so creatively until now. Fans of classic rock will adore Fuse's theme, and I'm sure for many players this will rank even higher - especially those with a keen ear for roaring riffs. This is proper hair-metal stuff. It skirts dangerously close to being full-on ridiculous, but it's all the better for it. I cannot help but chuckle every time that absurd vocoder effect comes in during the introduction. This is undoubtedly one of the best themes to date, and a real insight into Fuse's character. He's loud, he's crude, and he doesn't really give a fuck. 
 
 -----
 
@@ -124,7 +124,7 @@ Boy are we getting to the good stuff now. Revenant's theme is arguably the most 
 
 <youtube-video video-id="MvM46c80qIc" desc="Apex Legends: Loba Music Pack" />
 
-Banger alert. In addition to being Revenant's mortal enemy, Loba Andrade is an adept thief with a keen eye for opportunity. Barton's theme captures her character perfectly. Just like Revenant's before, it starts with a lone acoustic guitar, though this time with a sense of wistful elegance. Loba's past is one of tragedy, and the way in which this theme develops makes her seem like a phoenix rising from the ashes. It demonstrates the gracefulness that she so often exudes, but also her hostile mannerisms. There's a slight twist to the apex melody here too, supported superbly by sumptuous sub-bass. It's bloody brilliant, basically. Put this one on repeat.
+Banger alert. In addition to being Revenant's mortal enemy, Loba Andrade is an adept thief with a keen eye for opportunity. Barton's theme captures her character perfectly. Just like Revenant's before, it starts with a lone acoustic guitar, though this time with a sense of wistful elegance. Loba's past is one of tragedy, and the way in which this theme develops makes her seem like a phoenix rising from the ashes. It demonstrates the gracefulness that she so often exudes, but also her hostile mannerisms. There's a slight twist to the Apex melody here too, supported superbly by sumptuous sub-bass. It's bloody brilliant, basically. Put this one on repeat.
 
 -----
 
@@ -140,7 +140,7 @@ If we're talking in terms of outright fun, Rampart's theme may be the best here.
 
 <youtube-video video-id="7nXqAE1hFPU" desc="Apex Legends: Wattson Music Pack" />
 
-Hands down, the most under-rated theme in Apex Legends. What? No, I'm not biased. So what if I'm a Wattson main? Whilst the music doesn't feature one particular element that sets it aside from other entries here, the arrangement is, quite frankly, exquisite. Despite the game only recently celebrating its two-year anniversary, the romantic strings that open the piece overwhelm me with nostalgia. The orchestration here is beautiful. You can't help but think of Wattson's past, and the relationship she had with her Father. From there, you're greeted with the classic tropes of Apex themes: most notably, the thumping drums, and the fabled Apex melody, which seems to carry more emotive weight here than anywhere else. It's a beautiful piece of music, composed with thought and consideration to deeply special character.
+Hands down, the most under-rated theme in Apex Legends. What? No, I'm not biased. So what if I'm a Wattson main? Whilst the music doesn't feature one particular element that sets it aside from other entries here, the arrangement is, quite frankly, exquisite. Despite the game only recently celebrating its two-year anniversary, the romantic strings that open the piece overwhelm me with nostalgia. The orchestration here is beautiful. You can't help but think of Wattson's past, and the relationship she had with her Father. From there, you're greeted with the classic tropes of Apex themes: most notably, the thumping drums, and the fabled Apex melody, which seems to carry more emotive weight here than anywhere else. It's a gorgeous piece of music, composed with thought and consideration to a deeply special character.
 
 -----
 
