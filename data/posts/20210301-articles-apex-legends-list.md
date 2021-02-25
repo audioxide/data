@@ -16,7 +16,7 @@ blurb: TBD
 
 *Apex Legends* has changed my life. It's my favourite competitive shooter ever. I've made memories, and I've gained friends. It's a game that I probably take way too seriously (if I find you camping in a corner with Caustic traps, prepare to be mercilessly quipped after your inevitable demise). It's a game that has ruined other games for me: no FPS offers the same level of freedom and control that Apex does. Well, except *Titanfall 2*.
 
-Another key reason that I, and so many others, have fallen in love with Apex is due to the fantastic lore that the Respawn Entertainment team have developed since its launch in February 2019. This sets Apex aside from other battle royale titles. Since the very beginning, Lead Composer [Stephen Barton](https://stephenbarton.com) has done a wonderful job in helping to bring each legend to life, with all of them having their own unique musical themes. These themes are then incorporated into aspects of the game, such as lobby and victory music.
+Another key reason that I, and so many others, have fallen in love with *Apex* is due to the fantastic lore that the Respawn Entertainment team have developed since its launch in February 2019. This sets *Apex* aside from other battle royale titles. Since the very beginning, Lead Composer [Stephen Barton](https://stephenbarton.com) has done a wonderful job in helping to bring each legend to life, with all of them having their own unique musical themes. These themes are then incorporated into aspects of the game, such as lobby and victory music.
 
 As of February 2021, there are now 16 playable legends. After much deliberation, I've carefully ranked each musical theme that accompanies our beloved heroes (and villains). There's a noticeable pattern to the list: the newer the legend, the more memorable and distinct the theme. This is likely because Barton has had more time - and creative flexibility - to work on each individual theme since the original cast of characters.
 
@@ -28,7 +28,7 @@ Thank you to Barton for making such magic, and of course to Respawn for the memo
 
 <youtube-video video-id="ToxnnwXqKQA" desc="Apex Legends: Bloodhound Music Pack" />
 
-Bloodhound is one of the best Legends in the game. The inclusion of a non-binary playable character is refreshing, and it's very important. However, their musical theme is the weakest of the bunch. Whilst its pulsating rhythm does create atmosphere and tension, the music itself lacks any memorable characteristic. The tribal drums do sound great, and are bound to get you pretty pumped for the battle ahead. However, as we'll come on to soon enough, this isn't a feature exclusive to Bloodhound's theme. This is still an effective piece of music, and perfectly pleasant to listen to. If only for the Apex melody, which certainly soars here.
+Bloodhound is one of the best Legends in the game. The inclusion of a non-binary playable character is refreshing, and it's very important. However, their musical theme is the weakest of the bunch. Whilst its pulsating rhythm does create atmosphere and tension, the music itself lacks any memorable characteristic. The tribal drums do sound great, and are bound to get you pretty pumped for the battle ahead. However, as we'll come on to soon enough, this isn't a feature exclusive to Bloodhound's theme. This is still an effective piece of music, and perfectly pleasant to listen to. If only for the *Apex* melody, which certainly soars here.
 
 -----
 
@@ -44,7 +44,7 @@ Wraith is another excellent Legend, and undoubtedly one of the best to play. Sta
 
 <youtube-video video-id="XnpxgVOLyVQ" desc="Apex Legends: Mirage Music Pack" />
 
-Sorry Mirage, you've been bamboozled. Like Bloodhound and Wraith before, this theme is short and simple. The guitar riff is charmingly cool – as you'd expect with anything associated with a heart-throb like Mirage – and is eventually accompanied by a beat that almost has a chillwave vibe to it. These aspects do give us a better sense of Mirage's character than the previous themes, but it's not nearly as interesting as the ones still to come. Although, once again, the Apex melody sounds fab here. Anyone else get goosebumps whenever they hear it? No? Just me...
+Sorry Mirage, you've been bamboozled. Like Bloodhound and Wraith before, this theme is short and simple. The guitar riff is charmingly cool – as you'd expect with anything associated with a heart-throb like Mirage – and is eventually accompanied by a beat that almost has a chillwave vibe to it. These aspects do give us a better sense of Mirage's character than the previous themes, but it's not nearly as interesting as the ones still to come. Although, once again, the *Apex* melody sounds fab here. Anyone else get goosebumps whenever they hear it? No? Just me...
 
 -----
 
@@ -52,7 +52,7 @@ Sorry Mirage, you've been bamboozled. Like Bloodhound and Wraith before, this th
 
 <youtube-video video-id="tiCkCIqh7X8" desc="Apex Legends: Pathfinder Music Pack" />
 
-Our favourite passive-aggressive robot has a theme too. It seems many Apex players, myself included, didn't unlock his music pack at the time, but fortunately enough the internet exists so we can still listen. It's a fun little theme, driven somewhat expectedly by a tech-heavy beat with nice intricate details. I really enjoy the swirling bassline too. Unfortunately, it does sound very similar to the music attached to other original cast legends, particularly Wraith and Mirage. Actually, it also reminds me a lot of [Astrolander](https://www.youtube.com/watch?v=HqG6rPbiO2k&ab_channel=jumpropeman) from Timesplitters 2. Bit of a blast from the past there. What a fun game that was.
+Our favourite passive-aggressive robot has a theme too. It seems many *Apex* players, myself included, didn't unlock his music pack at the time, but fortunately enough the internet exists so we can still listen. It's a fun little theme, driven somewhat expectedly by a tech-heavy beat with nice intricate details. I really enjoy the swirling bassline too. Unfortunately, it does sound very similar to the music attached to other original cast legends, particularly Wraith and Mirage. Actually, it also reminds me a lot of [Astrolander](https://www.youtube.com/watch?v=HqG6rPbiO2k&ab_channel=jumpropeman) from Timesplitters 2. Bit of a blast from the past there. What a fun game that was.
 
 -----
 
@@ -92,7 +92,7 @@ Like Pathfinder before, Lifeline's theme is another that seems to have gone unde
 
 <youtube-video video-id="XG2H2D9vF7s" desc="Apex Legends: Gibralter Music Pack" />
 
-We're midway through the list, and in my humble opinion, it's Gibralter's theme that is the best of the bunch from the original cast of Apex Legends. It sets the tone immediately: opening with a palm-muted guitar riff and continues to build towards the momentous Apex melody, aided by tribal drums that pound powerfully with urgency and desire. It feels like a real rallying cry. It's not the most complex of themes, but once again it proves incredibly effective. It's a fairly good representation of Gibralter's abilities as a playable character, too. I do love our big boy Gibby, but please, Respawn, nerf that bloody gun-shield already. 
+We're midway through the list, and in my humble opinion, it's Gibralter's theme that is the best of the bunch from the original cast of *Apex*. It sets the tone immediately: opening with a palm-muted guitar riff and continues to build towards the momentous *Apex* melody, aided by tribal drums that pound powerfully with urgency and desire. It feels like a real rallying cry. It's not the most complex of themes, but once again it proves incredibly effective. It's a fairly good representation of Gibralter's abilities as a playable character, too. I do love our big boy Gibby, but please, Respawn, nerf that bloody gun-shield already. 
 
 -----
 
@@ -100,7 +100,7 @@ We're midway through the list, and in my humble opinion, it's Gibralter's theme 
 
 <youtube-video video-id="gper6NBkVLo" desc="Apex Legends: Crypto Music Pack" />
 
-Crypto's theme is a perfect representation of his character. He's a skilled hacker and encryption expert who uses drones to track down his opponents, which you'd probably guess just by listening to the music. It's a piece driven by electronic textures, reminding me a little of Michael McCann's exceptional score for Deux Ex: Human Revolution. The attention to detail in the percussion is superb, especially the hypnotic hi-hats that pan back and forth. There are so many subtleties that radiate the perception of digital warfare. Plus the Apex melody is super prominent, which as we've established already, is always a huge positive. Great stuff.
+Crypto's theme is a perfect representation of his character. He's a skilled hacker and encryption expert who uses drones to track down his opponents, which you'd probably guess just by listening to the music. It's a piece driven by electronic textures, reminding me a little of [Michael McCann's exceptional score for Deux Ex: Human Revolution](https://www.youtube.com/watch?v=Ns7fNPiNiNc&ab_channel=deusex3soundtrack). The attention to detail in the percussion is superb, especially the hypnotic hi-hats that pan back and forth. There are so many subtleties that radiate the perception of digital warfare. Plus the *Apex* melody is super prominent, which as we've established already, is always a huge positive. Great stuff.
 
 -----
 
@@ -124,7 +124,7 @@ Boy are we getting to the good stuff now. Revenant's theme is arguably the most 
 
 <youtube-video video-id="MvM46c80qIc" desc="Apex Legends: Loba Music Pack" />
 
-Banger alert. In addition to being Revenant's mortal enemy, Loba Andrade is an adept thief with a keen eye for opportunity. Barton's theme captures her character perfectly. Just like Revenant's before, it starts with a lone acoustic guitar, though this time with a sense of wistful elegance. Loba's past is one of tragedy, and the way in which this theme develops makes her seem like a phoenix rising from the ashes. It demonstrates the gracefulness that she so often exudes, but also her hostile mannerisms. There's a slight twist to the Apex melody here too, supported superbly by sumptuous sub-bass. It's bloody brilliant, basically. Put this one on repeat.
+Banger alert. In addition to being Revenant's mortal enemy, Loba Andrade is an adept thief with a keen eye for opportunity. Barton's theme captures her character perfectly. Just like Revenant's before, it starts with a lone acoustic guitar, though this time with a sense of wistful elegance. Loba's past is one of tragedy, and the way in which this theme develops makes her seem like a phoenix rising from the ashes. It demonstrates the gracefulness that she so often exudes, but also her hostile mannerisms. There's a slight twist to the *Apex* melody here too, supported superbly by sumptuous sub-bass. It's bloody brilliant, basically. Put this one on repeat.
 
 -----
 
@@ -132,7 +132,7 @@ Banger alert. In addition to being Revenant's mortal enemy, Loba Andrade is an a
 
 <youtube-video video-id="RoFNzh07hVo" desc="Apex Legends: Rampart Music Pack" />
 
-If we're talking in terms of outright fun, Rampart's theme may be the best here. There are so many different aspects to the music: the Ska guitars during the intro, the groovy basslines throughout, and the bouncy drums that recall the feeling of jumping in time with the music at a Summer festival, alongside friends, beverage in hand (remember those days?). Once again Barton does a fantastic job of creating a theme that feels totally separate from the rest. Rampart's music gets you in the mood for some frolicking, which is really all you can ask for from a video game like Apex. If only Rampart were as fun to play as. Alas. I'm sure her day will come.
+If we're talking in terms of outright fun, Rampart's theme may be the best here. There are so many different aspects to the music: the Ska guitars during the intro, the groovy basslines throughout, and the bouncy drums that recall the feeling of jumping in time with the music at a Summer festival, alongside friends, beverage in hand (remember those days?). Once again Barton does a fantastic job of creating a theme that feels totally separate from the rest. Rampart's music gets you in the mood for some frolicking, which is really all you can ask for from a video game like *Apex*. If only Rampart were as fun to play as. Alas. I'm sure her day will come.
 
 -----
 
@@ -140,7 +140,7 @@ If we're talking in terms of outright fun, Rampart's theme may be the best here.
 
 <youtube-video video-id="7nXqAE1hFPU" desc="Apex Legends: Wattson Music Pack" />
 
-Hands down, the most under-rated theme in Apex Legends. What? No, I'm not biased. So what if I'm a Wattson main? Whilst the music doesn't feature one particular element that sets it aside from other entries here, the arrangement is, quite frankly, exquisite. Despite the game only recently celebrating its two-year anniversary, the romantic strings that open the piece overwhelm me with nostalgia. The orchestration here is beautiful. You can't help but think of Wattson's past, and the relationship she had with her Father. From there, you're greeted with the classic tropes of Apex themes: most notably, the thumping drums, and the fabled Apex melody, which seems to carry more emotive weight here than anywhere else. It's a gorgeous piece of music, composed with thought and consideration to a deeply special character.
+Hands down, the most under-rated theme in *Apex*. What? No, I'm not biased. So what if I'm a Wattson main? Whilst the music doesn't feature one particular element that sets it aside from other entries here, the arrangement is, quite frankly, exquisite. Despite the game only recently celebrating its two-year anniversary, the romantic strings that open the piece overwhelm me with nostalgia. The orchestration here is beautiful. You can't help but think of Wattson's past, and the relationship she had with her Father. From there, you're greeted with the classic tropes of Apex themes: most notably, the thumping drums, and the fabled *Apex* melody, which seems to carry more emotive weight here than anywhere else. It's a gorgeous piece of music, composed with thought and consideration to a deeply special character.
 
 -----
 
@@ -148,4 +148,4 @@ Hands down, the most under-rated theme in Apex Legends. What? No, I'm not biased
 
 <youtube-video video-id="IcXoQESjk6U" desc="Apex Legends: Horizon Music Pack" />
 
-We have our Apex Champion. Horizon's theme was an immediate fan favourite, and it's easy to see why. This is perhaps the most celestial of the bunch, which in itself makes perfect sense. Horizon is an astrophysicist, after all, and quite sharply named her son Newton. The first half of the theme is totally tranquil, almost as if you're floating in space. It's perhaps the most peaceful moment of all the music showcased here. I'm reminded of modern sci-fi film soundtracks such as [Clint Mansell's Moon](https://www.youtube.com/watch?v=_lAfMT5FIZE&ab_channel=Daniel). At least, until the second half of the theme, where the music erupts and the bagpipes start blaring. If you weren't already aware of Horizon's Scottish heritage, her theme is sure to enlighten you. Truly, it's one of the most euphoric musical moments Apex has to offer. Horizon's theme has it all: not only does it get you pumped, but it makes you feel. It's a stunning showcase of Barton's talents. Wonderful work.
+We have our *Apex* Champion. Horizon's theme was an immediate fan favourite, and it's easy to see why. This is perhaps the most celestial of the bunch, which in itself makes perfect sense. Horizon is an astrophysicist, after all, and quite sharply named her son Newton. The first half of the theme is totally tranquil, almost as if you're floating in space. It's perhaps the most peaceful moment of all the music showcased here. I'm reminded of modern sci-fi film soundtracks such as [Clint Mansell's Moon](https://www.youtube.com/watch?v=_lAfMT5FIZE&ab_channel=Daniel). At least, until the second half of the theme, where the music erupts and the bagpipes start blaring. If you weren't already aware of Horizon's Scottish heritage, her theme is sure to enlighten you. Truly, it's one of the most euphoric musical moments *Apex* has to offer. Horizon's theme has it all: not only does it get you pumped, but it makes you feel. It's a stunning showcase of Barton's talents. Wonderful work.
