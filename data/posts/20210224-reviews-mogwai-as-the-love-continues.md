@@ -46,15 +46,26 @@ score:
 
 ---
 author: Fred
-review: Text
+review: >-
+  I was ready to lavish this album with simpering, unconditional praise and slap
+  an eight on it and prance into the sunset. Alas, it is merely very good.
+  Floating out of post-rock orbit and towards the lighter, brighter moons of
+  electronic (and even pop) music, _As the Love Continues_ manages to feel both
+  enterprising and tentative — an album caught between worlds.
+
+
+  The mix of sounds is a genuine shift, which is commendable. Although Mogwai’s tight, dense fundamentals remain, they’re used in service of an altogether lighter sound than previous albums of theirs we’ve reviewed. “Dry Fantasy” has a sumptuous glitter sheen to it, a kind of sci-fi mirage, while “Ceiling Granny” sounds like an instrumental Weezer track of all things. I’m not complaining, but the blend is nothing if not unexpected.
+
+
+  My experience of the album has been that in covering more ground Mogwai seldom have time to set up camp and explore. Singing robots rub shoulders with synthesizers and power chords and grand piano keys, all of which has to contend with atypically muffled production. It’s bold, and every bit as solid as you’d expect, but for me it never quite lands.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Supposedly, We Were Nightmares
+  - Ceiling Granny
+  - Dry Fantasy
 score:
-  score: 9
+  score: 7
   max: 10
-  fraction: 0.9
+  fraction: 0.7
 
 ---
 author: Andrew
