@@ -7,7 +7,7 @@ tags:
   - 2020s
   - julien baker
 featuredimage: album-artwork/little-oblivions-julien-baker.jpg
-artworkCredit: is the work of Seattle-based oil painter Wylee Risso.
+artworkCredit: was designed by Seattle-based oil painter Wylee Risso.
 artworkCreditSource: https://www.instagram.com/p/CGnIJG1pCaI/
 artist: Julien Baker
 album: Little Oblivions
