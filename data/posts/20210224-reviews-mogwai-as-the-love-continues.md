@@ -23,7 +23,7 @@ favouritetracks:
   - Ceiling Granny
   - It's What I Want To Do, Mum
 totalscore:
-  given: 23
+  given: 22
   possible: 30
   fraction: 0.76666666666
 colours:
