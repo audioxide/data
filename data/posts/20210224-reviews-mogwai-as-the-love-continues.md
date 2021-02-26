@@ -25,7 +25,7 @@ favouritetracks:
 totalscore:
   given: 22
   possible: 30
-  fraction: 0.76666666666
+  fraction: 0.73333333
 colours:
   - "#95212b"
   - "#fdfafe"
