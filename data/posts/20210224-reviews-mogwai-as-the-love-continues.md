@@ -69,15 +69,30 @@ score:
 
 ---
 author: Andrew
-review: Test text
+review: >-
+  I’ve been harbouring a secret: Mogwai is not my bag. Though I had praise for
+  _[Atomic](/reviews/mogwai-atomic)_ and their previous LP, _[Every Country’s
+  Sun](/reviews/mogwai-every-countrys-sun)_, suggesting that“I can certainly see
+  myself returning for more” was maybe a bit ambitious. While much of Mogwai’s
+  appeal is in the band’s ability to slowly build large soundscapes, it can wear
+  a little thin for me when that’s all an album has to offer.
+
+
+  _As The Love Continues_ has made for a less wearing experience, however, and while it’s still taken time for me to warm up to it, this album feels varied and dynamic in a way I didn’t feel _Every Country’s Sun_ did. Maybe that’s because of the first half of this tracklist. The eventual roaring, surging fuzz of the opener, the pacier kinetic beat of“Here We, Here We, Here We Go Forever”, and the quivering and lumbering of“Dry Fantasy” all caught my attention within the first fifteen minutes.
+
+
+  Given my reservations with slow builds, it’s probably unsurprising that“Ceiling Granny”, a track that blusters in with a crunchy riff and opens up with guitars stretching and wailing and fizzing, is a standout highlight of mine here.“Midnight Flit”, which follows, has some subtle signs of Atticus Ross’ contributions but is more notable for the ambitious orchestral arrangement he directed from LA with an orchestra in Budapest. A feat that paid off as strings glide and then tumble through an ethereal world the band builds over six minutes.
+
+
+  I won’t suggest that I’ll be rushing back to _As The Love Continues_. As with a lot of Mogwai’s work, this album is a beast to tackle. Consigned to background music doesn’t do it justice, and to pay it your full attention through these slow-burning builds often requires more patience than I’m willing to spare. But _As The Love Continues_ has made for an expansive, impressive listen with some delicious moments of climactic eruption. For Mogwai fans, this should feel like a hit in the band’s discography, and for the rest, I think this is still worth a listen.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Ceiling Granny
+  - Midnight Flit
+  - Dry Fantasy
 score:
-  score: 8
+  score: 7
   max: 10
-  fraction: 0.8
+  fraction: 0.7
 
 ---
 author: andré
