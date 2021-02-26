@@ -58,16 +58,17 @@ review: >-
 
   At its core, _As The Love Continues_ is still a stew of sounds from the various brackets of rock music, produced with a washy, yet gritty, aesthetic. Occasionally the distortion on the drums can feel overpowering, though I generally appreciate the album’s attitude towards cacophonous noise. There’s a beauty in leaving imperfect things alone, particularly with such expansive music. Overall, it’s one of their best sounding records to date.
 
-  The albums most engrossing moments tend to derive from moody soundscapes that slowly mutate. This is Mogwai’s bread and butter. However, it’s the likes of “Ritchie Sacramento” and “Fuck off Money” that makes _As The Love Continues_ one of the band’s most varied albums to date. The former may prove divisive due to the faint, washed-out vocals of Stuart Braithwaite, but it does contribute towards the fine flow of the record. The latter just sounds like _[Moon Safari](/reviews/air-moon-safari)__ _with loud distortion, and that’s fine too. Elsewhere, “Ceiling Granny” and “Drive the Nail” provide two fantastic foundations of instrumental rock, though as sacrilege as it is to say, I often find myself thinking they’d excel even further with a strong vocal performance.
+  The albums most engrossing moments tend to derive from moody soundscapes that slowly mutate. This is Mogwai’s bread and butter. However, it’s the likes of “Ritchie Sacramento” and “Fuck off Money” that makes _As The Love Continues_ one of the band’s most varied albums to date. The former may prove divisive due to the faint, washed-out vocals of Stuart Braithwaite, but it does contribute towards the fine flow of the record. The latter just sounds like _[Moon Safari](/reviews/air-moon-safari)_ with loud distortion, and that’s fine too. Elsewhere, “Ceiling Granny” and “Drive the Nail” provide two fantastic foundations of instrumental rock, though as sacrilege as it is to say, I often find myself thinking they’d excel even further with a strong vocal performance.
 
   It’s difficult to place why, but _As The Love Continues_ feels more emotive than previous albums. I’ve certainly connected with it quicker than I ever did _[Every Country’s Sun](/reviews/mogwai-every-countrys-sun)_, which was a far more passive affair. As pretentious as this may sound, Mogwai make grandiose and sophisticated music. Yet the band never exude an air of arrogance. _As The Love Continues_ feels more like a direct reflection of the band’s thoughts, which leads to songs that sound more impulsive than anything before. Music that represents their feelings, rather than music made to make you feel. I should imagine their Mums are very proud indeed.
-
-  tracks: - Dry Fantasy - It’s What I Want To Do, Mum - Drive The Nail
 score:
   score: 8
   max: 10
   fraction: 0.8
-tracks: null
+tracks:
+  - Dry Fantasy
+  - It’s What I Want To Do, Mum
+  - Drive The Nail
 
 ---
 author: Fred
