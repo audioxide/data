@@ -5,6 +5,9 @@ slug: arlo-parks-debuts-with-moreish-confidence-in-collapsed-in-sunbeams
 type: articles
 tags:
   - arlo parks
+  - indie
+  - soul
+  - pop
   - radiohead
   - lianne la havas
 featuredimage: article-images/arlo-parks-portrait.jpg
@@ -18,7 +21,7 @@ blurb: Drawing from a melting pot of influences, Parks delivers cool confidence 
 
 <figure class="wide">
   <img src="album-artwork/collapsed-in-sunbeams-arlo-parks.jpg" alt="Album artwork of 'Collapsed In Sunbeams' by Arlo Parks" />
-  <figcaption>Album artwork by [Jack Bridgeland](https://www.jackbridgland.com/) and [Go De Jong](http://www.godejong.com/)</figcaption>
+  <figcaption>Album artwork by <a href="https://www.jackbridgland.com/">Jack Bridgeland</a> and <a href="http://www.godejong.com/">Go De Jong</a></figcaption>
 </figure>
 
 Signing to a major label, playing Glastonbury, making the cover of the _NME_, and releasing an album to wide critical acclaim are the goals of an entire career for many. For Arlo Parks, it’s what she’s achieved in the first three years of hers. _Collapsed In Sunbeams_ has received a wealth of positive attention, and to find myself returning to this debut over and again, a month on from its release it’s easy to see why.
