@@ -1,22 +1,22 @@
 ---
-created: 2021-02-20T12:00:00.000Z
-modified: 2021-02-20T12:00:00.000Z
+created: 2021-02-28T12:00:00.000Z
+modified: 2021-02-28T12:00:00.000Z
 slug: arlo-parks-collapsed-in-sunbeams
 type: articles
 tags:
   - arlo parks
-featuredimage: album-artwork/collapsed-in-sunbeams-arlo-parks.jpg
-featuredimageAlt: Lorem ipsum dolor
-title: Arlo Parks - Collapsed In Sunbeams
+featuredimage: article-images/arlo-parks-portrait.jpg
+featuredimageAlt: Musician Arlo Parks, staring off screen to the left against plain background, photo by Chris Almeida
+title: Arlo Parks debuts with moreish confidence
 author: andrew
-summary: Lorem ipsum summary dolor
-blurb: Lorem ipsum blurb dolor
+summary: Drawing from a melting pot of influences, Parks delivers cool confidence and honest intimacy in a debut as exciting as it is impressive
+blurb: Parks delivers cool confidence and honest intimacy in a debut as exciting as it is impressive
 
 ---
 
 <figure class="wide">
   <img src="album-artwork/collapsed-in-sunbeams-arlo-parks.jpg" alt="Album artwork of 'Collapsed In Sunbeams' by Arlo Parks" />
-  <figcaption></figcaption>
+  <figcaption>Album artwork of 'Collapsed In Sunbeams' by Arlo Parks</figcaption>
 </figure>
 
 Signing to a major label, playing Glastonbury, making the cover of the NME then releasing an album to wide critical acclaim are the goals of an entire career for many. For Arlo Parks, it's what she's achieved in the first three years of hers. _Collapsed In Sunbeams_ has received a wealth of positive attention, and to find myself returning to this debut over and again, a month on from its release, it's not hard to see why.
