@@ -1,6 +1,6 @@
 ---
 created: 2021-02-24T12:00:00.000Z
-modified: 2021-02-26T12:00:00.000Z
+modified: 2021-02-27T22:00:00.000Z
 slug: mogwai-as-the-love-continues
 type: reviews
 tags:
@@ -67,9 +67,9 @@ author: Fred
 review: >-
   I was ready to lavish this album with simpering, unconditional praise and slap an eight on it and prance into the sunset. Alas, it is merely very good. Floating out of post-rock orbit and towards the lighter, brighter moons of electronic (and even pop) music, _As the Love Continues_ manages to feel both enterprising and tentative — an album caught between worlds.
 
-  The mix of sounds is a genuine shift, which is commendable. Although Mogwai’s tight, dense fundamentals remain, they’re used in service of an altogether lighter sound than previous albums of theirs we’ve reviewed. “Dry Fantasy” has a sumptuous glitter sheen to it, a kind of sci-fi mirage, while “Ceiling Granny” sounds like an instrumental Weezer track of all things. The blend is nothing if not unexpected, though I’m not complaining.
+  The mix of tones is a genuine shift, which is commendable. Although Mogwai’s tight, dense fundamentals remain, they’re used in service of an altogether lighter sound than previous albums of theirs we’ve reviewed. “Dry Fantasy” has a sumptuous glitter sheen to it, a kind of sci-fi mirage, while “Ceiling Granny” sounds like an instrumental [Weezer](/reviews/weezer-the-blue-album/) track of all things. The blend is unexpected, though I’m certainly not complaining.
 
-  My experience of the album has been that in covering more ground Mogwai seldom have time to set up camp and explore. Singing robots rub shoulders with synthesizers and power chords and grand pianos, all of which has to break through atypically muffled production. It’s bold, and every bit as solid as you’d expect, but for me it never quite hits the spot.
+  My experience of the album has been that in covering more ground Mogwai seldom have time to set up camp and explore. Singing robots rub shoulders with synthesizers and power chords and grand pianos, all of which has to break through atypically muffled production. It’s bold, and every bit as solid as you’d expect, but for me it never quite hits the spot the way previous releases have.
 
 tracks:
   - Supposedly, We Were Nightmares
