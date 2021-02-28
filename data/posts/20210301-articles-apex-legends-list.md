@@ -1,15 +1,15 @@
 ---
-created: 2021-03-01T12:00:00.000Z
-modified: 2021-03-01T12:00:00.000Z
+created: 2021-03-05T12:00:00.000Z
+modified: 2021-03-05T12:00:00.000Z
 slug: apex-legends-character-themes-ranked
 type: articles
 tags:
   - the music of games
-featuredimage: article-images/cosmo-sheldrake-portrait.jpg
-featuredimageAlt: Musician Cosmo Sheldrake standing in a forest wearing a boat hat
+featuredimage: article-images/apex-legends-character-themes-ranked.jpg
+featuredimageAlt: I have no fucking idea what I'm looking at
 title: 'A Grand Soirée: All character themes in Apex Legends ranked'
 author: andre
-summary: TBD
+summary: 'For anyone reading: feel free to get in touch to tell me how much you disagree. I'm sure we can settle it in the firing range'
 blurb: TBD
 
 ---
