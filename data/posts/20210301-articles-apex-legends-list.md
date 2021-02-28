@@ -9,7 +9,7 @@ featuredimage: article-images/apex-legends-character-themes-ranked.jpg
 featuredimageAlt: I have no fucking idea what I'm looking at
 title: 'A Grand Soirée: All character themes in Apex Legends ranked'
 author: andre
-summary: 'For anyone reading: feel free to get in touch to tell me how much you disagree. I'm sure we can settle it in the firing range'
+summary: 'For anyone reading: feel free to get in touch to tell me how much you disagree. I’m sure we can settle it in the firing range'
 blurb: TBD
 
 ---
