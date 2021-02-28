@@ -1,7 +1,7 @@
 ---
 created: 2021-03-05T12:00:00.000Z
 modified: 2021-03-05T12:00:00.000Z
-slug: apex-legends-character-themes-ranked
+slug: all-apex-legends-character-themes-ranked
 type: articles
 tags:
   - the music of games
