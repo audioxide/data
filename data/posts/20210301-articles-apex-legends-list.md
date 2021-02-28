@@ -14,7 +14,7 @@ blurb: TBD
 
 ---
 
-*Apex Legends* has changed my life. It's my favourite competitive shooter ever. I've made memories, and I've gained friends. It's a game that I probably take way too seriously (if I find you camping in a corner with Caustic traps, prepare to be mercilessly quipped after your inevitable demise). It's a game that has ruined other games for me: no FPS offers the same level of freedom and control that Apex does. Well, except *Titanfall 2*.
+*Apex Legends* has changed my life. It is, without a doubt, my favourite competitive shooter ever. I've made memories, and I've gained friends. It's something that I probably take way too seriously (if I find you camping in a corner with Caustic traps, prepare to be mercilessly quipped after your inevitable demise). It's a game that has ruined other games for me: no FPS offers the same level of freedom and control that Apex does. Well, except *Titanfall 2*.
 
 Another key reason that I, and so many others, have fallen in love with *Apex* is due to the fantastic lore that the Respawn Entertainment team have developed since its launch in February 2019. This sets *Apex* aside from other battle royale titles. Since the very beginning, Lead Composer [Stephen Barton](https://twitter.com/ComposerBarton) has done a wonderful job in helping to bring each legend to life, with all of them having their own unique musical themes. These themes are then incorporated into other aspects of the game, such as lobby and victory music. To my knowledge, Barton has been at the controls for every music pack released so far. The majority of guitar work you hear in these themes are courtesy of [Tom Strahle](https://twitter.com/tstrahle). 
 
