@@ -24,7 +24,7 @@ blurb: Drawing from a melting pot of influences, Parks delivers ice cool nonchal
   <figcaption>Album artwork by <a href="https://www.jackbridgland.com/">Jack Bridgeland</a> and <a href="http://www.godejong.com/">Go De Jong</a></figcaption>
 </figure>
 
-Signing to a major label, playing Glastonbury, making the cover of the _NME_, and releasing an album to wide critical acclaim are the goals of an entire career for many. For Arlo Parks, it’s what she’s achieved in the first three years of hers. _Collapsed in Sunbeams_ has received a wealth of positive attention, and to find myself returning to this debut over and again. A month on from its release it’s easy to see why.
+Signing to a major label, playing Glastonbury, making the cover of the _NME_, and releasing an album to wide critical acclaim are the goals of an entire career for many. For Arlo Parks, it’s what she’s achieved in the first three years of hers. _Collapsed in Sunbeams_ has received a wealth of positive attention, and I find myself returning to this debut over and again. A month on from its release it’s easy to see why.
 
 A cool nonchalance characterises the album from top to bottom. Parks delivers vocals with a laid back confidence which is immediately moreish. Instrumentation follows her lead, layering easy-going beats and basslines alongside simmering horns and guitar that varies from bright and brazen to light and delicate. In “Black Dog”, Parks cites [Radiohead](/articles/ranking-radioheads-discography/)’s _In Rainbows_ as a musical influence, while elsewhere tracks take inspiration from Motown and The Supremes. It makes for a memorable tracklist that remains cohesive despite this melting pot of influences.
 
