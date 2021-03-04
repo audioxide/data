@@ -34,15 +34,22 @@ artistLink: https://julienbaker.com/collections/music
 
 ---
 author: andré
-review: Text
+review: >-
+  Julien Baker makes brutally candid music; exploring the torment that comes with addiction, depression and desolation. Like most of the artists I cherish, basically. So it’s unfortunate that I don’t connect with _Little Oblivions_ as much as I’d hoped. Baker’s songwriting is as genuine and introspective as anything you’ll hear within the bracket of indie folk music. Her music derives from pain, and she sings with a confessional tone; reinforcing her complicated relationship with religion. It’s genuinely agonising to hear of her struggles. _Little Oblivions_ is a success in terms of this portrayal, but less so in terms of musical satisfaction. I admire it far more than I enjoy it.
+
+
+  Baker’s passionate and yearning vocals are accompanied by larger arrangements than we’ve seen on previous records, though I’m not sure it’s always necessary. My favourite songs here tend to be those that feel intimate and tender, such as the piano ballad “Song in E”. Aside from a few early highlights, most notably “Relative Fiction” and “Faith Healer”, most tracks feature vague supplements that often feel like afterthoughts. Whilst I welcome the shift away from skeletal guitars, I don’t think Baker’s strengths lie in creating expansive arrangements herself. These songs sound like they’ve been developed for arena’s, which in itself is a strange paradox.
+
+
+  Baker’s most extraordinary asset is her crushing poetry. She excels at turning trauma into devastating art. Across the record are multiple lyrical highlights, those of which stay with me longer than the music itself. ’Face down in the carpet, I wish you’d hurt me, it’s the mercy I can’t take’, she sings on “Song in E”, with an aura of self-loathing that just decimates me. _Little Oblivion_ aches with sadness, and it can be a beautiful, strangely cathartic experience. Once it’s finished, however, I find myself asking why I have such little urge to return. Perhaps this is the one occasion where I’m actually overwhelmed by the bleakness.
 score:
-  score: 8
+  score: 7
   max: 10
-  fraction: 0.8
+  fraction: 0.7
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Relative Fiction
+  - Song in E
+  - Faith Healer
 
 ---
 author: Fred
