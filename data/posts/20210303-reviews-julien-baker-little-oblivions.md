@@ -53,15 +53,20 @@ tracks:
 
 ---
 author: Fred
-review: Text
+review: >-
+  I thought I was losing my mind until I saw [Anthony Fantano gave this a four](https://www.youtube.com/watch?v=LXdabIrzrDs). I haven’t connected with _Little Oblivions_ at all, and I don’t think that’s (solely) because I’m an emotional husk. For all its rawness and openness, the cold hard truth for me is that the album has plenty of good qualities and yet no standout ones. 
+
+
+  As we’ve heard from solo projects before, the backing band sounds like something off the rack. “Heatwave” and “Faith Healer” show early promise but things quickly blur from there. It reminds me of [Jarvis Cocker’s solo debut](/reviews/jarvis-cocker-jarvis/) of all things. The band is there and yet not there, with the weight of expectation falling mainly on the artist. Julien Baker deserves better accompaniment than she gives herself. Maudlin Americana seems to press a lot of people’s buttons, but it sure as hell doesn’t press mine.
+
+
+  In a way the album’s sameness is a testament to Baker’s vocal delivery, which has the fluttering lightness of a spoken word poetry performance. In another, more accurate way, it shows the potential pitfalls of doing everything yourself.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Heatwave
 score:
-  score: 7
+  score: 5
   max: 10
-  fraction: 0.7
+  fraction: 0.5
 
 ---
 author: Andrew
