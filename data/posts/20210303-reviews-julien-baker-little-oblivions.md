@@ -63,6 +63,7 @@ review: >-
   In a way the album’s sameness is a testament to Baker’s vocal delivery, which has the fluttering lightness of a spoken word poetry performance. In another, more accurate way, it shows the potential pitfalls of doing everything yourself.
 tracks:
   - Heatwave
+  - Faith Healer
 score:
   score: 5
   max: 10
