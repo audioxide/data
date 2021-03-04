@@ -11,7 +11,7 @@ tags:
   - marilyn manson
   - rankings
 featuredimage: article-images/apex-legends-character-themes-ranked.jpg
-featuredimageAlt: I have no fucking idea what I’m looking at
+featuredimageAlt: Wattson from Apex Legends shushing at the camera
 title: 'A Grand Soirée: All character themes in ‘Apex Legends’ ranked'
 author: andre
 summary: Music is one of many reasons the game stands apart from other battle royale titles, each tune bringing our favourite heroes (and villains) to life. Disagree? I’ll see you on the firing range
