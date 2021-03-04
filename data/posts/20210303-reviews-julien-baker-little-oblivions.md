@@ -64,7 +64,7 @@ review: >-
 
   As we’ve heard from solo projects before, the backing arrangements sound rather off the rack. “Heatwave” and “Faith Healer” show early promise but things quickly blur from there. The record reminds me of [Jarvis Cocker’s solo debut](/reviews/jarvis-cocker-jarvis/) of all things. The band is there and yet not there, with the weight of expectation falling mainly on the artist, who in this case deserves better accompaniment than she gives herself. Maudlin Americana seems to press a lot of people’s buttons, but it sure as hell doesn’t press mine.
 
-  In a way the album’s sameness is a testament to Julien Baker’s vocal delivery, which has the fluttering lightness of a spoken word poetry performance. In another, more accurate way, it shows the potential pitfalls of doing everything yourself. Like André and Andrew I have only respect for the sincerity, but sincerity alone does not an album make.
+  In a way the album’s sameness is a testament to Julien Baker’s vocal delivery, which has the fluttering lightness of a spoken word poetry performance. In another, more accurate way, it shows the potential pitfalls of doing everything yourself. Like André and Andrew I have only admiration and love for Baker’s sincerity, but sincerity alone does not an album make.
 
 tracks:
   - Heatwave
