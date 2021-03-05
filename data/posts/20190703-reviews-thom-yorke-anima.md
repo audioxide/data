@@ -1,6 +1,6 @@
 ---
 created: 2019-07-03T10:00:51.000Z
-modified: 2019-07-22T19:46:44.000Z
+modified: 2021-03-05T19:08:20.000Z
 slug: thom-yorke-anima
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - alternative rock
   - radiohead
 featuredimage: album-artwork/anima-thom-yorke.jpg
+artworkCredit: was designed by ‘Dr. Tchock’ (i.e. Yorke) and long-time Radiohead collaborator Stanley Donwood. The illustration is in pencil and the font used is Radikal.
+artworkCreditSource: https://fontsinuse.com/uses/27020/anima-thom-yorke
 artist: Thom Yorke
 album: Anima
 essentialtracks:

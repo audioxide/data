@@ -1,6 +1,6 @@
 ---
 created: 2018-03-01T18:00:34.000Z
-modified: 2019-08-17T19:08:20.000Z
+modified: 2021-03-05T19:08:20.000Z
 slug: miles-davis-kind-of-blue
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - flying lotus
   - jazz
 featuredimage: album-artwork/kind-of-blue-miles-davis.jpg
+artworkCredit: features a shot of Davis taken by American photographer Jay Maisel in New York City.
+artworkCreditSource: https://www.jaymaisel.com/products/mile-davis-some-kind-of-blue
 artist: Miles Davis
 album: Kind of Blue
 essentialtracks:

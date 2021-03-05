@@ -1,6 +1,6 @@
 ---
 created: 2019-01-24T12:00:09.000Z
-modified: 2019-01-24T14:19:05.000Z
+modified: 2021-03-05T19:08:20.000Z
 slug: james-blake-assume-form
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - moses sumney
   - hip hop
 featuredimage: album-artwork/assume-form-james-blake.jpg
+artworkCredit: features a shot by American photographer Amanda Charchian, with styling by Rita Zebdi and grooming by Christine Nelli. How they convinced Blake to pull back the fringe we’ll never know.
+artworkCreditSource: http://www.foxandleopard.com/assumeform/
 artist: James Blake
 album: Assume Form
 essentialtracks:
