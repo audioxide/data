@@ -7,8 +7,8 @@ tags:
   - 2020s
   - wolf alice
 featuredimage: album-artwork/blue-weekend-wolf-alice.jpg
-artworkCredit: TBD
-artworkCreditSource: TBD
+artworkCredit: was shot by photographer and director Jordan Hemingway, who filmed 11 videos in seven days with the band ahead of the record’s release.
+artworkCreditSource: https://www.instagram.com/p/CLr83vfAeBD/
 artist: Wolf Alice
 album: Blue Weekend
 essentialtracks:
