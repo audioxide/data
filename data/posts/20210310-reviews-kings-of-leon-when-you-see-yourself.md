@@ -8,8 +8,8 @@ tags:
   - kings of leon
   - rock
 featuredimage: album-artwork/when-you-see-yourself-kings-of-leon.jpg
-artworkCredit: TBD
-artworkCreditSource: TBD
+artworkCredit: was designed by creative agency Night After Night, a longtime collaborator of the band.
+artworkCreditSource: https://www.wearenightafternight.com/news-and-insights/kings-of-leon-announce-eighth-studio-album-via-fans-when-you-see-yourself-out-march-5th
 artist: Kings of Leon
 album: When You See Yourself
 essentialtracks:
