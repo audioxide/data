@@ -8,6 +8,7 @@ tags:
   - st vincent
   - rock
   - alternative rock
+  - david bowie
 featuredimage: album-artwork/daddys-home-st-vincent.jpg
 artworkCredit: TBD
 artworkCreditSource: TBD
