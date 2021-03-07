@@ -8,7 +8,7 @@ tags:
   - st vincent
   - rock
   - alternative rock
-featuredimage: album-artwork/when-you-see-yourself-kings-of-leon.jpg
+featuredimage: album-artwork/daddys-home-st-vincent.jpg
 artworkCredit: TBD
 artworkCreditSource: TBD
 artist: St. Vincent
@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
+  - "#000000"
   - "#c9a42d"
-  - "#000000"
-  - "#000000"
+  - "#c9a42d"
 pullquote: TBD
 summary: TBD
 week: 280
