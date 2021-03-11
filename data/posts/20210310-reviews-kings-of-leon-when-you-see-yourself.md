@@ -62,15 +62,20 @@ tracks:
 
 ---
 author: Fred
-review: Text
+review: >-
+  Albums like this beg the age-old question: would anybody care if this wasn’t released by** [INSERT NAME OF FAMOUS BAND HERE]**? With _When You See Yourself_, I doubt it. But it’s Kings of Leon, so here we are. What would otherwise be dismissed as pedestrian and aimless becomes an ‘evolution’, the sounds of a band ‘exploring’ new ground. All I hear is a band trying — and mostly failing — to justify the decision to keep making music together.
+
+
+  That’s not to say the album’s bad. It’s not. Nor is it particularly good. It just _is_. It’s an album that is. The exceptions are “100,000 People” and “Claire & Eddie”. The former is a steady, mellow mountain bear of a song, while the latter has the dusty, tired clarity of a fireside lullaby. They sound like evolution, a band exploring new ground. Alas, then, that two or three promising songs in a 50-minute spell doesn’t quite cut the mustard. Most of what remains slumps unto the realm of dozy stadium rock — pleasant and forgettable in equal measure.
+
+
+  On a surface level this reminded me of [the last Arctic Monkeys album](/reviews/arctic-monkeys-tranquility-base-hotel-and-casino/). (Rock superstars slow things down, dabble in ‘70s kitsch, etc.) However, while Alex Turner and Co. really did unearth new, unexpected, at times deeply compelling sides of themselves, all Kings of Leon manage to do on _When You See Yourself_ is sound like they’re all out of ideas.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Claire & Eddie
 score:
-  score: 5
+  score: 6
   max: 10
-  fraction: 0.5
+  fraction: 0.6
 
 ---
 author: Andrew
