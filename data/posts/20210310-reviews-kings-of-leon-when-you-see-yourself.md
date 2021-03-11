@@ -35,15 +35,11 @@ artistLink: https://kingsofleonshop.com/
 
 ---
 author: Gabriel
-
-review: >-
-  Text
-
+review: Text
 score:
   score: 7
   max: 10
   fraction: 0.7
-
 tracks:
   - TBD
   - TBD
@@ -51,15 +47,11 @@ tracks:
 
 ---
 author: Fred
-
-review: >-
-  Text
-
+review: Text
 tracks:
   - TBD
   - TBD
   - TBD
-
 score:
   score: 5
   max: 10
@@ -67,15 +59,21 @@ score:
 
 ---
 author: Andrew
-
 review: >-
-  Text
+  _When You See Yourself_ sits in a no man’s land of ineffectual indie rock. While there’s nothing egregious here, there’s nothing exceptional either. In fact, far from egregious, there’s some well-performed, well-produced music in this tracklist, but it’s all for nought if it doesn’t grab its listener. The contrast between this and our retrospective review of Because of the Times only highlights the character I’d previously missed in the latter: A swagger and a twang reminiscent of Franz Ferdinand or The Strokes that’s missing from this latest release. Calmer, softer-edged, _almost_ cosy at times, the album brings warm intentions and a recognisable Kings of Leon sound, but it all culminates in an album that doesn’t stick the landing.
 
+
+  You’ll find the most archetypal Kings of Leon music in the likes of “The Bandit”, a punchy track with an Interpol-esque chorus, and “Golden Restless Age”, with its driving start, splashy drums and insistent bassline. Elsewhere, things are more sedate, for better or worse. “Claire & Eddie” is where the band feels most comfortable. Caleb Followill’s vocal is soothing, guitars and bass have a satisfying tone, and the solo midway through sits well. “Fairytale” does a similar job, a warm, hugging chord progression lining the entire track and a nostalgic, distant synth rounding out both track and album.
+
+
+  Unfortunately, the remainder of the tracklist has little staying power. “100,000 People” and “Stormy Weather” are the only other tracks of note, both featuring potentially interesting elements but missing any bite. The slightly over-polished production may be the cause of these soft-edges, and it’s certainly the cause of Caleb’s vocal often disappearing into the scrum of the track. Still, there’s a sense of lethargy in many of these tracks where a sense of tranquillity might have been intended.
+
+
+  That said, I’m not angling to make Kings of Leon sound washed up or past it. Their 2016 release, _WALLS_, was more enjoyable and more exploratory than the majority of this latest release and wasn’t a carbon copy of their 2000s material. I’m all for a band’s progression given their two-decade career, but _When You See Yourself_ neither progresses the band’s sound for the future nor does it recapture a sound of their past, leaving it stagnating in the present.
 tracks:
-  - TBD
-  - TBD
-  - TBD
-
+  - Claire & Eddie
+  - Fairytale
+  - Stormy Weather
 score:
   score: 6
   max: 10
