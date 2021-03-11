@@ -35,15 +35,30 @@ artistLink: https://kingsofleonshop.com/
 
 ---
 author: Gabriel
-review: Text
+review: >-
+  Not long ago, I had the pleasure of reviewing Kings of Leon’s, _Because of the Times_. At the time I gave it a 7/10, however, if you sit alongside their new record, _When You See Yourself_, it’s easily an 8 or 9/10.
+
+
+  Kings of Leon are a band I’ll never _not _take notice of. If they release a new record I’ll always give it a listen, mainly because I had such a good time with their early work, specifically _Youth and Young Manhood_ and _Because of the Times_. Sadly, they seem reluctant to return to the sounds we heard in those works.
+
+
+  On first listen, _Now You See Yourself_ sort of just washes over you like a beige, indie blanket. Like the magnolia walls of your favourite Shoreditch coffee shop. It’s by no means unpleasant, but if I weren’t reviewing it, would I have given it the time to find those odd tracks and moments that actually are interesting? Maybe not, but thankfully I did. Caleb Followill’s voice is always a pleasure to listen to and still has the Tennessee swag heard in the early days of Kings of Leon. The production across the album is clean and tight, almost to a fault. At points, such as in “A Wave” is verges into _Only the Night _territory, my personal least favourite ‘era’ of Kings of Leon.
+
+
+  However, things get interesting for me in tracks like “Golden Restless Age”. With a fairly innocuous introduction lulling you in, the verse slaps back with a perfectly simplistic Interpol-esque riff. This quick change of scenery is welcomed where other tracks seemingly remain level throughout.
+
+
+  The other standout is “100,000 People”, a track more reminiscent of Kings of Leon’s youth. Rhythmically it is more challenging that many of the other tracks and brings a welcomed mellow heat to an otherwise fairly bland affair.
+
+
+  Ultimately, there are some nicely written melodies and well produced tracks throughout, and I think this album certainly has an audience, somewhere, I’m just not sure it’s me. _When You See Yourself_ is by no means a bad album, but maybe I’m forever disappointed because I’m forever chasing a sound that just isn’t Kings of Leon anymore.
 score:
-  score: 7
+  score: 6
   max: 10
-  fraction: 0.7
+  fraction: 0.6
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Golden Restless Age
+  - 100,000 People
 
 ---
 author: Fred
