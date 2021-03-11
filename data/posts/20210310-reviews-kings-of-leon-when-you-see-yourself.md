@@ -31,7 +31,7 @@ colours:
 pullquote: A beige indie blanket
 summary: I’m all for a band’s progression after two decades of making music, but this neither advances Kings of Leon’s sound nor recaptures the glory of their past. It’s stuck in the space inbetween.
 week: 261
-blurb: An album caught in no-man’s land. Its dozy stadium rock offerings neither advancing Kings of Leon’s sound nor recapturing the glory of their past.
+blurb: An album caught in no-man’s land, its dozy stadium rock tunes neither advancing Kings of Leon’s sound nor recapturing the glory of their past.
 artistMBID: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
 albumMBID: 4486d356-5ad2-43ec-b9f0-c571eafde4f3
 artistLink: https://kingsofleonshop.com/
