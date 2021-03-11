@@ -72,6 +72,7 @@ review: >-
   On a surface level this reminded me of [the last Arctic Monkeys album](/reviews/arctic-monkeys-tranquility-base-hotel-and-casino/). (Rock superstars slow things down, dabble in ‘70s kitsch, etc.) However, while Alex Turner and Co. really did unearth new, unexpected, at times deeply compelling sides of themselves, all Kings of Leon manage to do on _When You See Yourself_ is sound like they’re all out of ideas.
 tracks:
   - Claire & Eddie
+  - 100,000 People
 score:
   score: 6
   max: 10
