@@ -33,52 +33,47 @@ albumMBID: 964ccc52-2873-3bce-a806-73d71532c539
 artistLink: https://www.leonardcohenshop.com/
 
 ---
-
 author: andré
-
-review: >-
-  Text
-
+review: Text
 score:
   score: 6
   max: 10
   fraction: 0.6
-
 tracks:
   - TBD
   - TBD
   - TBD
 
 ---
-
 author: Fred
-
-review: >-
-  Text
-
+review: Text
 tracks:
   - TBD
   - TBD
   - TBD
-
 score:
   score: 6
   max: 10
   fraction: 0.6
 
 ---
-
 author: Andrew
-
 review: >-
-  Text
+  From the simmering, cinematic opening moments of “Avalanche”, I was smitten with _Songs Of Love And Hate_. Cohen’s vocal stretches out over an urgent guitar as swells of strings sweep across to form a backdrop. It’s a suspenseful, moody start that entices with each listen.
 
+
+  This is an album of similarly evocative moments, and while Cohen’s lyrics are often the focus, the musicianship throughout the tracklist is scintillating. “Famous Blue Raincoat” paints a delicate, sentimental vignette around the lyrical letter, backing vocals quivering above subtle surges of strings. It exemplifies the bittersweet melancholy that much of this album conjures. By the time I’ve reached “Joan of Arc”, as it ebbs and flows between sweet solo guitar and backing vocals, Cohen has become a puppetmaster of emotions as I find myself misty-eyed for the whole affair.
+
+
+  Sitting atop all that, Cohen’s writing is emotive and referential, twisting likeness and telling vivid stories, whether it’s grim contemplations in “Dress Rehearsal Rag”, the lamentations of “Diamonds in the Mine” or the dual thread that runs through “Joan of Arc”. The album title promises some strong emotions, and Cohen doesn’t fall short in meeting it.
+
+
+  It seems as though this album isn’t widely lauded as a notable entry in Leonard Cohen’s discography. Cohen himself [described it as](https://www.leonardcohenfiles.com/nme2.html) “gimmicky” and “an experiment that failed”. However, it’s not an opinion that I can level with as _Songs Of Love And Hate_ has me more enamoured than a Dylan, Reed or Young release of the time. Brilliant musicianship and Cohen’s trademark lyricism combined with intimate emotion laid bare make for an album I’ve thoroughly enjoyed my time with and one well worth a listen.
 tracks:
-  - TBD
-  - TBD
-  - TBD
-
+  - Joan of Arc
+  - Avalanche
+  - Famous Blue Raincoat
 score:
-  score: 6
+  score: 9
   max: 10
-  fraction: 0.6
+  fraction: 0.9
