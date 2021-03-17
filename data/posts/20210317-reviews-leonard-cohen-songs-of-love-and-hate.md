@@ -32,7 +32,7 @@ colours:
 pullquote: A joy. A sad, bitter, solemn, rueful, depressing, hopeless joy.
 summary: The album embraces a brutal honesty that, although daunting on the surface, reminds you that bleakness can be beautiful. It exudes the kind of wisdom that only comes from authentic human experience.
 week: 262
-blurb: An epic poem in LP form, here Coen embraces a brutal honesty that, although daunting on the surface, reminds you that bleakness can be beautiful. 
+blurb: An epic poem in LP form, throughout Cohen embraces a brutal honesty that, although daunting on the surface, reminds you that bleakness can be beautiful. 
 artistMBID: 65314b12-0e08-43fa-ba33-baaa7b874c15
 albumMBID: 964ccc52-2873-3bce-a806-73d71532c539
 artistLink: https://www.leonardcohenshop.com/
