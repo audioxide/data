@@ -62,15 +62,22 @@ tracks:
 
 ---
 author: Fred
-review: Text
+review: >-
+  One person and a guitar; a combination of timeless simplicity and beauty. That is, when it’s done right, and boy does _Songs of Love and Hate_ do it right. Although never quite as simple as it appears, the album certainly is timeless, and plenty of other things too. Tender, magisterial, and wisened are qualities that come to mind, though in a way it feels like I’m sullying it by trying to reign in and nail down what it actually is. 
+
+
+  In part I think that’s because the album is built around Leonard Cohen’s wanderings. It’s like an epic poem in LP form, complete with string flourishes, horn swells, and choral hollering. Absurdly, Cohen didn’t see fit to become a singer-songwriter until his thirties. Before that he was an author and a poet, experiences made clear by the weight of his words and the authority with which he delivers them. He’s lived, loved, hurt, been hurt, and had ample time to learn how to write about it all in terms that lift the fog somehow. 
+
+
+  Gentler tracks like “Dress Rehearsal Rag” and “Avalanches” are personal favourites as I write this, but the tracklist has a tendency to ebb and flow differently each time. From lyrics to instrumentation to Bob Johnston’s production, the record carries itself with the unshakeable elegance of master craftsmanship. There’s a lot going on behind Cohen’s earthy, bard-like veneer, and it’s a joy to listen to. A sad, bitter, solemn, rueful, depressing, hopeless joy.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Dress Rehearsal Rag
+  - Avalanche
+  - Famous Blue Raincoat
 score:
-  score: 6
+  score: 9
   max: 10
-  fraction: 0.6
+  fraction: 0.9
 
 ---
 author: Andrew
