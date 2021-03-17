@@ -12,6 +12,7 @@ tags:
   - daughters
   - bob dylan
   - neil young
+  - 27 plus club
 featuredimage: album-artwork/songs-of-love-and-hate-leonard-cohen.jpg
 artist: Leonard Cohen
 album: Songs of Love and Hate
