@@ -34,15 +34,31 @@ artistLink: https://www.leonardcohenshop.com/
 
 ---
 author: andré
-review: Text
+review: >-
+  Ashamedly, the recent time I’ve spent with _Songs of Love and Hate_ is my first proper Leonard Cohen experience. It’s as emotionally intense as I imagined, yet surprisingly gentle too. The songs are comprised of acoustic guitars guiding passionate tales of love, hate, and everything in between; with poignant imagery that references the likes of Joan of Arc and Cain and Abel.
+
+
+  It comes as no surprise that Cohen was a writer long before taking up music. The album carries a sense of brutal honesty that, although appears daunting on the surface, reminds you that bleakness can be beautiful. It exudes the type of wisdom that can only come from authentic human experience. The fiendish sense of humour only asserts the degree of genuine struggle: after all, there is always light to be found amongst the darkness.
+
+
+  Cohen’s baritone voice is one of the most captivating I’ve ever experienced. Opening track “Avalanche” is a stunning recitation of a poem he had written prior to the record; sung with such sinister inflections that it hypnotises you into a deep despair. ’The crumbs of love that you offer me/they’re the crumbs I’ve left behind’, he painfully declares. Rarely do you hear a vocal performance match the anguish of such words. He himself has since pointed out that ’it’s a disturbing voice... there is anxiety there’. Quite the understatement.
+
+
+  The arrangements on _Love and Hate_ are so carefully measured to make sure nothing distracts from the poetry. I love loud and bombastic music, but sometimes the most powerful moments are those that are deliberately restrained. The sensational “Famous Blue Raincoat” is one such example, with strings so quiet that you can barely make them out, moving faintly in the background. Don’t even get me started on backing vocals spread throughout the album. Particularly the children’s chorus.
+
+
+  One criticism I’ve read of _Love and Hate_ is that it lacks the variation of previous records. Whilst it can occasionally feel rather one-note, it’s an aura of reflective melancholy that is simply unmatched in contemporary music. Besides that, songs like “Diamonds in the Mine” and “Sing Another Song, Boys” do lighten the mood, particularly with Cohen’s more expressively untamed delivery.
+
+
+  If it wasn’t already obvious, I have become completely enamoured with _Love and Hate_. It’s one of the most powerful and cleaning records I’ve ever heard, in the same realm as early Nick Cave, and the most 2018 album from Daughters. There must be plenty of other people who were once in my position, and have yet to immerse themselves in Leonard Cohen. I urge them to take the plunge. If you’re anything like me – miserable, yet whimsical – then _Songs of Love and Hate_ is an excellent entry point.
 score:
-  score: 6
+  score: 9
   max: 10
-  fraction: 0.6
+  fraction: 0.9
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Famous Blue Raincoat
+  - Avalanche
+  - Diamonds in the Mine
 
 ---
 author: Fred
