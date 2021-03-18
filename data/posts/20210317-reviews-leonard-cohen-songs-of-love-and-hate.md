@@ -51,7 +51,7 @@ review: >-
 
   One criticism I’ve read of _Love and Hate_ is that it lacks the variety of previous records. Whilst it can occasionally feel rather one-note, it’s an aura of reflective melancholy that is simply unmatched in contemporary music. Besides that, songs like “Diamonds in the Mine” and “Sing Another Song, Boys” do lighten the mood, particularly with Cohen’s more untamed delivery.
 
-  If it wasn’t already obvious, I have become completely enamoured with _Love and Hate_. It’s one of the most powerful and cleaning records I’ve ever heard, in the same realm as early [Nick Cave](/reviews/nick-cave-and-the-bad-seeds-let-love-in/), and the 2018 album from Daughters. To anyone yet to immerse themselves in Leonard Cohen, I urge you to take the plunge. If you’re anything like me – miserable, yet whimsical – then _Songs of Love and Hate_ is an excellent entry point.
+  If it wasn’t already obvious, I have become completely enamoured with _Love and Hate_. It’s one of the most powerful and cleansing records I’ve ever heard, in the same realm as early [Nick Cave](/reviews/nick-cave-and-the-bad-seeds-let-love-in/), and the 2018 album from Daughters. To anyone yet to immerse themselves in Leonard Cohen, I urge you to take the plunge. If you’re anything like me – miserable, yet whimsical – then _Songs of Love and Hate_ is an excellent entry point.
 
 score:
   score: 9
