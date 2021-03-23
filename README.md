@@ -139,36 +139,6 @@ to be used in content
 
 ```
 
-#### Author files
-
-Author files are currently simple, they contain a required `name` property and an optional set of `links`. The name property is the authors full name. There is not currently an option to display just a first or last name.
-
-##### Author links
-
-An author can have any number of links attached to them but each set of links must set a `default`. Other links may be displayed in more in-depth contexts such as author pages. Currently, the following special link types are handled by the andrewbridge/audioxide-nuxt frontend:
-
-- `twitter`
-- `facebook`
-- `instagram`
-- `email`
-
-All other links will be treated as plain URLs, although specifying `website` will do. Because a key-value structure is currently used, multiple special links are not supported. Multiple plain URLs may be specified with different keys.
-
-##### Example
-
-```yaml
----
-name: John Doe      # This will be used as a display name for this author
-forename: John      # This will be used to head individual summaries on reviews
-links:          # A key-value store of links attached to this author
-  twitter: sometwitterhandle        # Note that the @ character should NOT be included
-  facebook: somefacebookhandle
-  instagram: someinstagramhandle
-  email: user@example.com           # Note that mailto: should NOT be included
-  website: https://www.example.com  # Note the full URL, including "https://" is included
-  default: twitter                  # Relates to a key specified above; used under author names in posts
-```
-
 #### Images
 
 Images have been imported directly from the Wordpress upload directory, and as such have a `YYYY/MM/file.jpg` format. This format is **not** required, but may be worth continuing with or reorganising entirely. However, as post files manually reference image paths, reorganisation would require re-referencing, which would need some code automation to do sanely.
