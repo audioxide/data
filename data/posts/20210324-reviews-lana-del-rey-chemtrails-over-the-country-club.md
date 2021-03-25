@@ -32,15 +32,25 @@ artistLink: https://lanadelreystore.com/
 
 ---
 author: andré
-review: Text
+review: >-
+  Lana Del Rey’s 2019 album _Norman Fucking Rockwell!_ was always going to be a tough act to follow. Feeling frustrated and disinterested with previous material, I appreciated the bolder songwriting and arrangements that felt more considered. Del Rey relied less on the tropes that made her one of the biggest pop stars of the 2010s, and - with the help of Jack Antonoff – finally produced music that matched the scope of her huge vision. _Chemtrails Over the Country Club_ is softer, smaller and slower, with no “Venice Bitch” to be found. Whilst it results in a few languid moments, the album is generally successful in its under-stated approach. Del Rey’s brand of dream pop has never felt so soothing.
+
+
+  _Chemtrails_ opens with the piano ballad “White Dress”, a reflective nostalgia trip that features an incredibly distinct vocal performance. The hushed falsetto’s feel strained, but they do create a unique sense of intimacy. It’s pure melodrama, true to form. The title track, meanwhile, is one of the strongest moments on the record, retaining the 70s folk pop style that made _NFR!_ such an engrossing listen. Del Rey sings of her disillusionment with suburban life, in trademark literal fashion: ’I’m not bored or unhappy, I’m still so strange and wild’.
+
+
+  Del Rey’s poetry has been contentious since 2012’s _Born to Die_, and, unfortunately, there are more mishaps here. Though there is beauty in the simplicity of a line like ’I love you lots like like polka dots’, it’s soon eradicated by the follow up of ’you’re killing me more than coffee pots and Insta thots’. The best lyrical moments often get lost amongst an array of flimsy cliches. I appreciate the sense of innocence and naivety attached to musings that are so unmoved by the use of metaphors and subtle symbolism. However, as “Yosemite” shows, there is a limit: ’We did it for fun, we did it for free/I did it for you, you did it for me’.
+
+
+  _Chemtrails_ can be frustrating, yet it possesses something that constantly calls for me to return. It’s easy to get lost in Del Rey’s wistful tales, particularly with the gloriously cinematic backdrops. Occasionally it feels formulaic, but a song like “Dark But Just A Game” will enter and offer a different sound, all whilst retaining the key seductiveness. Overall, the record feels like a gratifying mid-career reflection, with hints of what could lie ahead. Not an overwhelming triumph like _NFR!_, then, but rarely does lightning strike twice.
 score:
-  score: 9
+  score: 7
   max: 10
-  fraction: 0.9
+  fraction: 0.7
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Chemtrails Over the Country Club
+  - Dark But Just a Game
+  - Tulsa Jesus Freak
 
 ---
 author: Fred
