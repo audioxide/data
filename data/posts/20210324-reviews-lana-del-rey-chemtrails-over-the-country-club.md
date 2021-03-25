@@ -1,6 +1,6 @@
 ---
 created: 2021-03-24T12:00:00.000Z
-modified: 2021-03-24T22:00:00.000Z
+modified: 2021-03-25T21:00:00.000Z
 slug: lana-del-rey-chemtrails-over-the-country-club
 type: reviews
 tags:
@@ -29,7 +29,7 @@ colours:
   - "#ebe7e6"
   - "#a5a5a7"
 pullquote: Del Rey’s brand of dream pop has never felt more soothing
-summary: Vintage Del Rey (in both senses of the word), though the curious thing about the record is that it flies highest when she sounds least like herself. The songs flicker between sepia and technicolor, giving tantalising sense of where she might go next.
+summary: Vintage Del Rey (in both senses of the word), though the curious thing about the record is that it flies highest when she sounds least like herself. The songs flicker between sepia and technicolor, giving a tantalising sense of where she might go next.
 week: 263
 blurb: Vintage Del Rey (in both senses of the word), though the curious thing about the record is that it flies highest when she sounds least like herself.
 artistMBID: b7539c32-53e7-4908-bda3-81449c367da6
@@ -66,7 +66,7 @@ author: Fred
 review: >-
   I once wrote that Josh Homme of [Queens of the Stone Age](/reviews/queens-of-the-stone-age-villains/) could slur his way through a phone book and still be the coolest man in the room. Lana Del Rey has a similar gift, though with a different specialty. She could read a grocery list and still conjure smoky visions of love and cigarettes.
 
-  Much of _Chemtrails Over the Country Club_ is vintage Del Rey (in both senses of the word), though the curious thing about the record is that it flies highest when she sounds least like herself. The songs flicker between sepia and technicolor, giving tantalising sense of where she might go next.
+  Much of _Chemtrails Over the Country Club_ is vintage Del Rey (in both senses of the word), though the curious thing about the record is that it flies highest when she sounds least like herself. The songs flicker between sepia and technicolor, giving a tantalising sense of where she might go next.
 
   The ‘sepia’ tunes are stripped-down and richly harmonised, feeling almost like ghosts of Del Rey’s tried and tested formula. The title track and “Let Me Love You Like a Woman” are examples of it working. “Wild at Heart” is an example of it not. There are as many misses as hits, but even the latter hold their own as husky melodic loops.
 
