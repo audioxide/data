@@ -69,12 +69,25 @@ score:
 
 ---
 author: Andrew
-review: Text
+review: >-
+  I think I need new ears. My current pair seem to miss most of what Lana Del Rey’s latest release has to offer. _Chemtrails Over The Country Club_ attempts to take her music in a stripped back direction. Instead, a majority of the resulting tracklist comes off as muted, smudging the more colourful character of tracks on _Norman Fucking Rockwell!_ into a wispy cloud.
+
+
+  “White Dress” opens with a half-whispered, delicate piano ballad which swells and simmers to its conclusion with splashy cymbals and doleful guitar sliding around to the left. It’s effective, but less so when it describes large swathes of the tracks on the album. In trying to remove some of the glitzy pop of previous records, it feels as though some of the colour has washed away with it too. There’s no “Venice Bitch” here, there’s not even the cinematic drama that _Born To Die_ offered, and fans seemed to be clamouring for prior to _NFR!_.
+
+
+  The album does have its moments. “Dark But Just A Game” has to have some of the most interesting instrumentation and production choices on the album. The contrasting dry and reverb-y vocals between verse and chorus, the minimal beat, the trembling keys in the background. It’s a track that feels like a stripped-back pop song, and it’s hard not to make the Portishead reference alongside everyone else. “Dance Till We Die” is only notable for its second half, which suddenly gets all saxy and funky, as Lana’s vocal on the bridge howls out. I’d jump at an album closer to that vibe than what _COTCC_ offers. The closing cover of “For Free” exemplifies the rest of the album, layering on a wisp of extra instrumentation without doing much with the track. Unfortunately, I think Weyes Blood shines brighter than Lana here, and I prefer Joni’s original overall.
+
+
+  Lyrically, Lana Del Rey can paint a picture, but polka dots and insta thots, and rhyming ’meant’ with ’mean’ doesn’t do much for me. Some other notable lines are those referencing bands of the 00s, which didn’t work out well for [Glass Animals](/reviews/glass-animals-dreamland) last year either.
+
+
+  This album hasn’t moved me much. There’s little to grip onto as the big, produced sound has been dampened, leaving a soft, similar-sounding tracklist in its place. I’d love to hear more of that “Dark But Just A Game” closeness, or “Dance Till We Die” funk, or even a return of the shine or drama of _NFR!_ and _Born To Die_. But this one just isn’t for me.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Dark But Just A Game
+  - Dance Till We Die
+  - White Dress
 score:
-  score: 9
+  score: 6
   max: 10
-  fraction: 0.9
+  fraction: 0.6
