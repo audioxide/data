@@ -38,7 +38,6 @@ artistLink: ""
 author: Michael
 
 review: >-
-
   If there is one general explanation for why great talents are lost to history, we might say that it is an unfortunate configuration of time and space. The artist in question could, for instance, find themselves working in the right place, but at the wrong time (consider [Connie Converse](https://www.youtube.com/watch?v=gowqgGxDrE0), a woman who in 1950s New York predicted the folk singer-songwriter trends that by the mid-60s would dominate the city’s music scene). Equally, the artist could be working in the right historical moment, but were simply in the wrong place to fit within any larger movement (one imagines what might have happened to the proto-punk band [Death](https://www.youtube.com/watch?v=rl3FstCc_OY) if they had left Detroit for New York or London in the mid-1970s). Or, worst of all, they could have worked in the wrong place and the wrong time, which we might say of saxophonist Bleeding Gums Murphy.
 
 
@@ -87,9 +86,7 @@ author: Andrew
 review: >-
   As the first and only release from Bleeding Gums Murphy, _Sax on the Beach_ is the lasting legacy for a forgotten master of jazz. Bitterly blue, it’s said that this was the album that stopped Louis Armstrong singing “What a Wonderful World” for an entire year! It’s not hard to see why when you dig into this tracklist.
 
-
   With fan favourites that Gums played live like “I Never Had an Italian Suit Blues” and “Altissimo Rupture”, to deeper cuts like “Blue Moon Jazz” and “Love on the Rocks with a Twist”, this album exemplifies the beautiful misery he was able to impart on his audience. For the lucky few who saw him live, seeing these moments in real life was no doubt achingly beautiful. On record, Bleeding Gums hard life is laid bare on _Sax on the Beach_, from brotherly estrangement to Fabergéal financial ruin to dental calamity, the soulful howling and gravely tone is terrific.
-
 
   It’s a damn shame the greats go before their time. Bleeding Gums Murphy deserved a long career of making other people feel worse, even if just for a moment. The skills he possessed are on full display in this album, making for a scintillating listen. I’m not at all surprised to hear that an incorporeal Billie Holiday is said to have commented that she “wouldn't have kicked Gums out of bed in a hurry”, and if you want to get a taste for why I’d implore you to seek out this record.
 
