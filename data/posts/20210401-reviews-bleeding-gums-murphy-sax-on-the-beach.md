@@ -8,6 +8,7 @@ tags:
   - the simpsons
   - miles davis
   - jazz
+  - blues
 featuredimage: album-artwork/sax-on-the-beach-bleeding-gums-murphy.jpg
 artist: Bleeding Gums Murphy
 album: Sax on the Beach
@@ -21,7 +22,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#0f63bb"
+  - "#ca7e06"
   - "#fafafa"
   - "#fafafa"
 pullquote: TBD
@@ -54,17 +55,23 @@ tracks:
 author: Fred
 
 review: >-
-  Text
+  What is the language of the soul? Some might say French, others Sanskrit, though both those suggestions would be wrong because it’s actually Bleeding Gums Murphy playing the saxophone. The man once hailed by [Miles Davis](/reviews/miles-davis-kind-of-blue/) as ‘the coolest man I’ve ever met’ was a generational talent, and he only needed one LP to prove it.
+
+  Merging jazz lounge suavity with airport lounge sadness, _Sax on the Beach_ is the twilight hours sobbing companion you never knew you needed. Decades on from its release the record still simmers with raw, often obscene saxual energy. From the title track to “Love on the Rocks with a Twist” (a personal favourite) the music is miserable, yes, but also sophisticated and deeply moving.
+
+  The short-lived Springfield Bum Notes backing band sets the cold, smelly back alley scene while still giving Murphy the room he needs to bring you down, and boy does he. Look no further than the 28-minute sax solo in “St. Donickus”, which is as deflating a spell of blues as you’re ever likely to hear anywhere. Masterful.
+
+  Although it is regrettable that Murphy slipped into obscurity soon after the album’s release and died young, to me that sprinkles in the final seasoning of sadness needed for his work to age as well as it has. You can’t fake the blues, baby, and few records are better at making you feel worse than _Sax on the Beach_.
   
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - St. Donickus
+  - Love on the Rocks with a Twist
+  - Blue in Yellow
 
 score:
-  score: 7
+  score: 9
   max: 10
-  fraction: 0.7
+  fraction: 0.9
 
 ---
 
