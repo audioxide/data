@@ -96,6 +96,6 @@ tracks:
   - Waitin' for Datin' Billie
 
 score:
-  score:9
+  score: 9
   max: 10
   fraction: 0.9
