@@ -16,6 +16,8 @@ tags:
   - blur
   - art rock
 featuredimage: album-artwork/ok-computer-radiohead.jpg
+artworkCredit: was designed by British artist Dan Rickwood and band member Thom Yorke. Neither wanted it to be overly polished. ‘We had a rule that if we made a mistake we had to scribble over it,’ Donwood said. In 2017, a Redditor discovered that the highway on the cover was the Yankee Expressway in Connecticut, USA. The band likely took a photo of it in 1996 just before flying home to start recording the album.
+artworkCreditSource: https://www.nme.com/blogs/nme-blogs/stanley-donwood-on-the-stories-behind-his-radiohead-album-covers-766325/
 artist: Radiohead
 album: OK Computer
 essentialtracks: ""
