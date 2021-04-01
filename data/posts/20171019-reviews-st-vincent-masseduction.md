@@ -15,6 +15,8 @@ tags:
   - art pop
   - new wave
 featuredimage: album-artwork/masseducation-st-vincent.jpg
+artworkCredit: features the behind not of Annie Clark herself, but of friend and model Carlotta Kohl. Although Clark initially said she’d never reveal who was on the cover, she eventually thanked Kohl publically ‘for use of her wonderful ass.’
+artworkCreditSource: https://www.instagram.com/p/BauG7HojvxS/
 artist: St. Vincent
 album: Masseduction
 essentialtracks: ""
