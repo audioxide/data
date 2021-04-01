@@ -17,7 +17,7 @@ blurb: In 2012, David Byrne wrote that music risked becoming a soma-like drug. T
 ---
 
 <figure class="wide">
-  <img src="article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg" alt="Filler featured image" />
+  <img src="article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg" alt="Artwork depicting a man listening to music with medical pills as ear buds" />
   <figcaption>Image by the author</figcaption>
 </figure>
 
