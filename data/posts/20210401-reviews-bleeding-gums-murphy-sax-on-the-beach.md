@@ -6,6 +6,8 @@ type: reviews
 tags:
   - 1970s
   - the simpsons
+  - bleeding gums murphy
+  - the be sharps
   - miles davis
   - jazz
   - blues
