@@ -66,7 +66,7 @@ tracks:
 author: Fred
 
 review: >-
-  What is the language of the soul? Some might say French, others Sanskrit, though both those suggestions would be wrong because it’s actually Bleeding Gums Murphy playing the saxophone. The man once hailed by [Miles Davis](/reviews/miles-davis-kind-of-blue/) as ‘the coolest man I’ve ever met’ was a generational talent, and he only needed one LP to prove it.
+  What is the language of the soul? Some might say French, others Sanskrit, though both those suggestions would be wrong because it’s actually Bleeding Gums Murphy playing the saxophone. The man once hailed by [Miles Davis](/reviews/miles-davis-kind-of-blue/) as ‘the coolest cat I’ve ever met’ was a generational talent, and he only needed one LP to prove it.
 
   Merging jazz lounge suavity with airport lounge sadness, _Sax on the Beach_ is the twilight hours sobbing companion you never knew you needed. Decades on from its release the record still simmers with raw, often obscene saxual energy. From the title track to “Love on the Rocks with a Twist” (a personal favourite) the music is miserable, yes, but also sophisticated and deeply moving.
 
