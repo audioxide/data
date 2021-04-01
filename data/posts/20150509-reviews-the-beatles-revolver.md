@@ -10,7 +10,7 @@ tags:
   - rock
   - psychedelia
 featuredimage: album-artwork/revolver-the-beatles.jpg
-artworkCredit: was designed by German artist Klaus Voormann, who combined line drawing inspired by English illustrator Aubrey Beardsley with a collage of photos mostly taken by Robert Freeman. The Beatles’ manager, Brian Epstein, wept when he saw the finished cover because it suited the music so well.
+artworkCredit: was designed by German artist Klaus Voormann. The line drawing style was inspired by English illustrator Aubrey Beardsley, and combined with a collage of photos mostly taken by Robert Freeman. The Beatles’ manager, Brian Epstein, wept when he saw the finished cover because it suited the music so well.
 artworkCreditSource: https://books.google.com/books?id=farlJScWrTMC
 artist: The Beatles
 album: Revolver

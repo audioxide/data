@@ -9,7 +9,7 @@ tags:
   - alternative rock
   - rock
 featuredimage: album-artwork/rain-dogs-tom-waits.jpg
-artworkCredit: features a shot taken by Swedish photographer Anders Petersen in the late 1960s. Then a student, Petersen frequented a dive bar called Cafe Lehmitz near Hamburg’s red-light district for three years starting in 1967 taking photographs of its regulars and travelling back to Stockholm to process the film. The man and woman pictured on the artwork are Rose and Lilly. Petersen said many men were in love with Lilly, and she knew it. 
+artworkCredit: features a shot taken by Swedish photographer Anders Petersen in the late 1960s. Then a student, Petersen frequented a dive bar called Cafe Lehmitz near Hamburg’s red-light district, taking photographs of its regulars and travelling back to Stockholm to process the film. The man and woman pictured on the artwork are Rose and Lilly. Petersen said many men were in love with Lilly, and she knew it.
 artworkCreditSource: https://www.theguardian.com/artanddesign/2014/jan/15/anders-petersens-best-photograph-cafe-lehmitz
 artist: Tom Waits
 album: Rain Dogs
