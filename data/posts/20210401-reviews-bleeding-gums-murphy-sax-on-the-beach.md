@@ -18,9 +18,9 @@ favouritetracks:
   - Steve Allen’s Naked Happiness (ft. Steve Allen)
   - Love on the Rocks with a Twist
 totalscore:
-  given: 24
+  given: 26
   possible: 30
-  fraction: 0.8
+  fraction: 0.8666666
 colours:
   - "#ca7e06"
   - "#fafafa"
