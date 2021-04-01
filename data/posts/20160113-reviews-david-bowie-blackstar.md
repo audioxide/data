@@ -11,6 +11,8 @@ tags:
   - jazz
   - experimental
 featuredimage: album-artwork/blackstar-david-bowie.jpg
+artworkCredit: was designed by Jonathan Barnbrook, who said using a symbol rather than a word ‘has a sort of finality, a darkness, a simplicity, which is a representation of the music.’ The segments of stars at the bottom (just about) spell ‘Bowie’.
+artworkCreditSource: https://www.dezeen.com/2016/01/20/david-bowie-blackstar-album-cover-designer-jonathan-barnbrook-facing-his-own-mortality/
 artist: David Bowie
 album: Blackstar
 essentialtracks:
