@@ -10,13 +10,15 @@ tags:
   - rock
   - psychedelia
 featuredimage: album-artwork/revolver-the-beatles.jpg
+artworkCredit: was designed by German artist Klaus Voormann, who combined line drawing inspired by English illustrator Aubrey Beardsley with a collage of photos mostly taken by Robert Freeman. The Beatles’ manager, Brian Epstein, wept when he saw the finished cover because it suited the music so well.
+artworkCreditSource: https://books.google.com/books?id=farlJScWrTMC
 artist: The Beatles
 album: Revolver
 essentialtracks: ""
 favouritetracks:
   - Eleanor Rigby
   - Tomorrow Never Knows
-  - I'm Only Sleeping
+  - I’m Only Sleeping
 totalscore:
   given: 26
   possible: 30
