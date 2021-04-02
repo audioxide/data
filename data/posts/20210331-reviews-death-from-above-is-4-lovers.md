@@ -16,9 +16,9 @@ essentialtracks:
 favouritetracks:
   - TBD
 totalscore:
-  given: 21
+  given: 17
   possible: 30
-  fraction: 0.7
+  fraction: 0.5666666667
 colours:
   - "#C2C1B1"
   - "#ffffff"
