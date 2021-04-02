@@ -30,7 +30,7 @@ colours:
   - "#fafafa"
 pullquote: Few records are better at making you feel worse
 summary: Bleeding Gums’ hard life is laid bare. From brotherly estrangement to Fabergéal financial ruin to dental calamity, the soulful howling and gravelly tone is magnificient.
-week: 265
+week: 264
 blurb: From brotherly estrangement to Fabergéal financial ruin to dental calamity, Bleeding Gums’ soulful howling and gravelly tone is magnificient.
 artistMBID: ""
 albumMBID: ""
