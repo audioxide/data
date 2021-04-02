@@ -45,15 +45,22 @@ tracks:
 
 ---
 author: gabriel
-review: Text
+review: >-
+  Back in 2005, Death from Above 1979 made waves with _You’re a Woman, I’m A Machine_. Back in the hazy days of the early naughties, two piece rock outfits were not as common as they are now with the likes of Royal Blood and Drenge to name a few. We would have to wait almost 10 years to anything new from Death From Above 1979, but it was worth it. Their consequent albums, _The Physical World_ and _Outrage! Is Now_ were superb. 
+
+  Unfortunately, the same can’t be said for their most recent offering _Is 4 Lovers_. The first taste of this record we had was the single “One + One”, which initially felt promising. It has the signature crunching bass riffs, but they’d evolved the drums adding in a snappy almost electronic kit in parts. It was an exciting start to what could have been a great album. However, nothing else in _Is 4 Lovers_ really surpasses this track. 
+
+  There are some notable additions like “Modern Guy”, which has some very interesting production attached to it. Riffs bounce around the sonic space nicely, and you can really hear this when listening through headphones. “Free Animal” is another track that stands out, it has a big sound, and the similarly snapping drums as in “One + One”. However, halfway the record things drop of off. The slower jammed songs for me, don’t work. This isn’t to say that Death From Above 1979 can’t do slower paced songs. “White is Red” in _The Physical World_ is an incredible track, and is an example of the range they have. 
+
+  It’s worth noting that this is the first record produced by band themselves. Whether this experimentation is a result of finally moving the sound in direction they want, or a lack of objectivity on their part, it doesn’t really matter, the end result is the same. That result is a record with some good tracks but ultimately falls flat as a whole. I think I’ll stick to the first three records for my regular Death From Above 1979 listening. 
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - One + One
+  - Modern Guy
+  - Free Animal
 score:
-  score: 9
+  score: 6
   max: 10
-  fraction: 0.9
+  fraction: 0.6
 
 ---
 author: Andrew
