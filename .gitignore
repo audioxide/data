@@ -11,3 +11,4 @@ functions/search/taxonomies.json
 .metals/metals.h2.db
 .metals/metals.log
 null/scalameta/metals/cache/global.log
+.metals/metals.lock.db
