@@ -33,15 +33,22 @@ artistLink: https://www.deathfromabove1979.com/
 
 ---
 author: andré
-review: Text
+review: >-
+  In a recent interview with Anthony Fantano, Death From Above 1979 made it very clear that their latest record _Is 4 Lovers_ is the first time the band have been left to their own devices, with no outside influence from labels or producers. At the time, this left me excited, though also slightly nervous. After spending significant time with the record in its entirety, I can only describe _Is 4 Lovers_ as a failed experiment. I can't remember the last time I was so disappointed with a recent rock record. It's not just underwhelming, but outright irritating.
+
+  DFA have always incorporated elements of dance in their music. The exhilarating blend of rock, punk and dance made their debut album _You're A Woman, I'm A Machine_ such a cult classic. Sure, it was rough around the edges, but this only added to the DIY charm. _Is 4 Lovers_ is produced like a dance record, with endless amounts of saturation and compression applied to, well, everything. This results in no dynamics and no substantial subtleties. If it were any longer than 30 minutes, I'm almost certain it would give me a headache. This, coming from someone with a passion for noise and industrial music.
+
+  Lead single “One + One” showed promise, and has since grown on me further. It's the greatest example of this new formula working, attached with the classic DFA staples. The band are still at their best when driving through groovy bass riffs and pounding percussion. As a complete contrast, “Mean Streets” is a mess: a Lightning Bolt impression gone horribly wrong. The less said about “N.Y.C Power Elite Part 2” the better. Big, bombastic sounds leave no impression when the whole album is already turned up to 11. 
+
+  Since the band reunited in 2011, the reception to their music has been rather mixed. Personally, I remain very fond of both _The Physical World_ and _Outrage! Is Now_, particularly the latter with its heavy metal influences. However, for the first time, I'm wondering what's next for the duo. In some ways _Is 4 Lovers_ sounds like a transitional record, though it could still end up being a one-off. During the Fantano interview, Grainger seemed actually excited about the risks attached: 'I want this record to really click - all because of us - or really fail. If no-one likes it, we take all the blame'. I can only hope _Is 4 Lovers_ ends up being a mistake to learn from.
 score:
-  score: 9
+  score: 5
   max: 10
-  fraction: 0.9
+  fraction: 0.5
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - One + One
+  - Free Animal
+  - Love Letter
 
 ---
 author: gabriel
