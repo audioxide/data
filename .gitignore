@@ -12,3 +12,4 @@ functions/search/taxonomies.json
 .metals/metals.log
 null/scalameta/metals/cache/global.log
 .metals/metals.lock.db
+.vscode/settings.json
