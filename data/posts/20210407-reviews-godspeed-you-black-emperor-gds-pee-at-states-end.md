@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#bab591"
   - "#010101"
-  - "#010101"
+  - "#E6E4D7"
+  - "#E6E4D7"
 pullquote: TBD
 summary: TBD
 week: 266
