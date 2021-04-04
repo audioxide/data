@@ -8,7 +8,7 @@ tags:
   - leonard cohen
   - folk
   - acoustic
-  - nick cave
+  - nick cave and the bad seeds
   - daughters
   - bob dylan
   - neil young
