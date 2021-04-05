@@ -11,6 +11,8 @@ tags:
   - avant garde
   - experimental
 featuredimage: album-artwork/gds-pee-at-states-end-godspeed-you-black-emperor.jpg
+artworkCredit: was designed by American illustrator William Schmiechen.
+artworkCreditSource: https://www.instagram.com/p/CNLd3H5DRoI/
 artist: Godspeed You! Black Emperor
 album: G_d's Pee AT STATE'S END!
 essentialtracks:
