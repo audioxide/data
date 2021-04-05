@@ -13,6 +13,8 @@ tags:
   - drenge
   - the strokes
 featuredimage: album-artwork/is-4-lovers-death-from-above.jpg
+artworkCredit: features of photograph of band member Sebastian Grainger’s great uncle and aunt. The former passed away in 2011, and the latter while the album was being recorded. When Grainger went to Chicago to get their affairs in order he came across their old love letters and photos, one of which he thought was ideal for the cover. ‘To me, it’s a perfect metaphor for real love, which is complicated and askew.’
+artworkCreditSource: https://www.nme.com/en_asia/features/death-from-above-1979-is-4-lovers-the-beatles-2906591
 artist: Death from Above 1979
 album: Is 4 Lovers
 essentialtracks:
