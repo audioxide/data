@@ -57,15 +57,22 @@ tracks:
 
 ---
 author: fred
-review: Text
+review: >-
+  Godspeed You! Black Emperor are back with more brainy rock and weird names. Wailing violins, droning chords, groaning synths, visions of ashes and flame, wink wink, nudge nudge, say no more say no more. Except, I really _can’t_ say much more. Andre and Marcus have it pretty well covered. I’ll try though. 
+
+
+  _G_d’s Pee AT STATE’S END!_ has been a welcome dose of Godspeed post-rock, though it at times feels too familiar for its own good. The record is neither as engrossing as _F♯ A♯ ∞_ nor as explosive as _Luciferian Towers_, coming across instead like the group’s musical median LP form. Which is still great, to be fair. “Job’s Lament” listens like a primordial machine climbing out of the earth, while stunning “Fire at Static Alley” is transcendent and unnerving in equal fashion. The latter is a cut above the rest of the album, truth be told.
+
+
+  For the most part _G_d’s Pee AT STATE’S END! _feels strangely by the numbers. It’s everything you’d expect from a Godspeed record, which is both a privilege and slightly disappointing. Maybe time (and the end of days) will ripen its offerings, but I expect this to be one for the ‘solid entry into their discography’ pile.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Fire at Static Alley
+  - OUR SIDE HAS TO WIN (for D.H.)
+  - Job’s Lament
 score:
-  score: 6
+  score: 7
   max: 10
-  fraction: 0.6
+  fraction: 0.7
 
 ---
 author: Marcus
