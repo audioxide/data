@@ -31,8 +31,8 @@ pullquote: TBD
 summary: TBD
 week: 267
 blurb: TBD
-artistMBID: TBD
-albumMBID: TBD
+artistMBID: fc1aee7d-ed15-496a-a786-31d4ba578060
+albumMBID: 7c9ee4ed-fed1-4bf1-a434-cecb6d15f1a2
 artistLink: https://www.drongotheband.com/
 
 ---
