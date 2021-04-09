@@ -10,6 +10,8 @@ tags:
   - reggae
   - elvis costello
 featuredimage: album-artwork/the-specials-the-specials.jpg
+artworkCredit: features a photo taken by Welsh photographer Chalkie Davies at the Canal Basin in Coventry, the band’s home town. The members were cut out with a pair of scissors at the request of keyboard player Jerry Dammers, who wanted it ‘to look cheesy.’ The cutout was then incorporated into the iconic black and white ‘anti-design’ of 2 Tone Records.
+artworkCreditSource: http://www.chalkiedavies.com/blog/a296tdc2dryyxd58jyfa7sfs679rw7
 artist: The Specials
 album: The Specials
 essentialtracks: ""
@@ -38,7 +40,7 @@ artistLink: https://shop.thespecials.com/
 author: Marcus
 
 review: >-
-  Having missed the cultural boat for a genre that feels rooted in its own heyday, and is likely better appreciated by those who experienced it contemporaneously, ska is a genre I haven’t paid all that much attention.* The Specials* defines my standing on ska in many ways, both as a genre whose experimentation is in its own existence and therefore carries more than a few sharp similarities between tracks, and as a really good time that wears thin every so often.
+  Having missed the cultural boat for a genre that feels rooted in its own heyday, and is likely better appreciated by those who experienced it contemporaneously, ska is a genre I haven’t paid all that much attention. *The Specials* defines my standing on ska in many ways, both as a genre whose experimentation is in its own existence and therefore carries more than a few sharp similarities between tracks, and as a really good time that wears thin every so often.
 
   The most recognisable tracks tend to be the best, at least in terms of catchiness, but the album as a whole is evocative of a similar cheeky, laddish atmosphere that makes for a consistent sense of geniality. Across tracks, the keyboard is comfortably balanced against the brass, and the vocal melodies tend to be restrained in their frequency and length. “Too Much Too Young” is a notable exception, with the lyrical refrain unfortunately outstaying its welcome and making its already long-winded six-minute runtime feel a lot longer. I appreciate that there’s a social context to its lyrics that doesn’t apply in the same way today, but it labours the point. 
   
