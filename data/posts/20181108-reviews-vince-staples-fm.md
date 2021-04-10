@@ -9,6 +9,8 @@ tags:
   - hip hop
   - kendrick lamar
 featuredimage: album-artwork/fm-vince-staples.jpg
+artworkCredit: was designed by Japanese artist Verdy.
+artworkCreditSource: https://www.dazeddigital.com/music/article/42066/1/vince-staples-surprises-releases-new-album-fm
 artist: Vince Staples
 album: FM!
 essentialtracks:
