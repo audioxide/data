@@ -18,6 +18,8 @@ tags:
   - tycho
   - brian eno
 featuredimage: album-artwork/the-man-machine-kraftwerk.jpg
+artworkCredit: was designed by Karl Klefisch. Versions of the cover featuring the band used photography by Günther Fröhling.
+artworkCreditSource: https://www.moma.org/collection/works/185417
 artist: Kraftwerk
 album: The Man-Machine
 essentialtracks:
