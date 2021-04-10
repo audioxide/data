@@ -12,6 +12,9 @@ tags:
   - joy division
   - jehnny beth
 featuredimage: album-artwork/ultra-mono-idles.jpg
+artworkCredit: was painted by British artist Russell Oliver. Oliver recalled that band frontman Joe Talbot ‘knew exactly what he wanted – a shirtless guy, arms by his sides, defenceless, being hit in the face by a bright candy-pink ball – but could I “do it in the style of Italian master Caravaggio?”’ Indeed he could.
+Read more: Russell Oliver on Creating the Cover Artwork for IDLES' 'Ultra Mono' - Our Culture https://ourculturemag.com/2020/09/25/russell-oliver-on-creating-the-cover-artwork-for-idles-ultra-mono
+artworkCreditSource: https://ourculturemag.com/2020/09/25/russell-oliver-on-creating-the-cover-artwork-for-idles-ultra-mono/
 artist: Idles
 album: Ultra Mono
 essentialtracks: "" 
