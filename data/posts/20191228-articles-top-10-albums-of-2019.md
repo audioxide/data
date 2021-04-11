@@ -25,7 +25,7 @@ author:
   - andre-dack
   - frederick-obrien
   - marcus-lawrence
-  - micheal-clark
+  - michael-clark
 blurb: It's the end of the year, which means we're legally obliged to round up our favourite albums. Here are our picks in the year of our Lorde 2019.
 
 ---
