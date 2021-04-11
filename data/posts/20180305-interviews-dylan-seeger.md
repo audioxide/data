@@ -51,9 +51,7 @@ Yes, *Readers &amp; Reporters* is pretty on the nose, isn’t it? I’ve been qu
 
 If you read the lyrics, it’s often quite clear. I mean, the record literally starts with the line ‘I drove a car off the bridge.’ There’s also this line from “Blue Moon (Once in a)”: ‘She’s wrapped in cold steel again / And clawing at the roofings / I tried to save her again / But I didn’t.’ The lyrics do delve into more abstract terms at times, particularly on “Wormhole Parade” and “Butter”, but this is entirely intentional. I was trying to illustrate the sort of schizophrenic nature of the mind trying to convince itself of something. The lyrics are supposed to lack a sense of rationality.
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/eFUzE-Ath3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="eFUzE-Ath3A" desc="Claye by Dylan Seeger full album" />
 
 **How did you navigate writing lyrics that fit that delirious, irrational tone? When you read about the process behind the lyrics in something like [*Remain in Light*](reviews/talking-heads-remain-in-light/) it seems like it can be a bit of a rabbit hole.**
 
