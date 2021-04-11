@@ -93,7 +93,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   _Tago Mago_ is a strange beast. Like a house party, it invites you in with a chilled groove and warm atmosphere. Midway through, someone pulls out something a little stronger, all hell breaks loose, time disappears, and the next moment you’re dazed, confused and nursing a warm drink before being promptly turfed out.

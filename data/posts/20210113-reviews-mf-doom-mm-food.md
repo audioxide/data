@@ -81,7 +81,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *MM..FOOD* is one of those albums I can enjoy in back to back (to back) listens. By the time I find myself in the cartoon mania of the closing moments of “Kookies”, I’m left wanting more, and from there it’s very easy to end up back in the middle, listening to ramblings about “Gumbo” all over again.

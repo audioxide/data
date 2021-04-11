@@ -71,7 +71,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve had a week of surprises with Oh Sees’ latest release. To the uninitiated, its album cover might have me believe I was in for an hour of rancid death metal, while the band’s name would suggest something at the opposite end of the rock spectrum. What *Smote Reverser* delivers instead is a variety of raucous rock with differing degrees of the psychedelia you might expect from the band.

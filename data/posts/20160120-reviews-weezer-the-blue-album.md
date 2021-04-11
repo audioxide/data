@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Weezer’s debut was released alongside many similar bands at the time, but it seems they’ve found success in outlasting the majority, as well as producing an album that has aged well. *The Blue Album* is, without doubt, a signature ’90s album, but where many albums of the time now sound stale, cheesy, or simply cringe-inducing, Weezer’s eponymous debut manages to avoid all of those pitfalls. 

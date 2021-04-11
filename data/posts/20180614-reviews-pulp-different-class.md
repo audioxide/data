@@ -82,7 +82,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Different Class* is the Britpop album that sits above the rest for me. Quintessentially British without shoving it down your neck, it delivers a collection of long-lasting, catchy instrumentals which complement distinctive, brilliant vocals. Where many of its contemporaries suffered issues with [muddy production](/reviews/oasis-definitely-maybe/) or [stagnated in the four-piece rock-band set up](/reviews/blur-modern-life-is-rubbish/), *Different Class* brings a menagerie of instrumentation, and a clean, crisp sound to boot. 

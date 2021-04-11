@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   Mogwai has created a brilliant soundtrack here, but treating it as a release in its own right without the context of what it accompanies made for an interesting discussion. The band have really created some beautiful moments in this release. With “Ether” building suspense up to a brass fanfare grandly introducing the crashing guitars that explode across the track, and “Pripyat” constructing a towering wall of sound only to pull it down and let the dust settle for the remainder of the track. 
   

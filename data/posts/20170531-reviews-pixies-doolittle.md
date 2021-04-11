@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Doolittle* probably has at least one track you know well, but not as a Pixies track. Nearly every song in its tracklist can worm its way into your head, each for a slightly different reason. It’s by no means a hodgepodge set of songs, but for better or worse, the band certainly didn’t stick with one idea for long. They needed to keep the pace too, as fitting 15 tracks onto a sub-40-minute album is an achievement in itself. 

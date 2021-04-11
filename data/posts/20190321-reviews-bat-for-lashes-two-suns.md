@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Natasha Khan has a knack for creating ethereal, cavernous music laced with hints of her influences from the ’80s and her contemporaries. *Two Suns* had high expectations to live up to off the back of the debut, and it almost pulls it off.

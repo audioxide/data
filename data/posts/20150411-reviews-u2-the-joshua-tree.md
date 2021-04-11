@@ -68,7 +68,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was my first real listen to a U2 album and I came in with pretty mixed impressions; *The Joshua Tree* improved those. While some of the more anthemic tracks passed me by, the instrumentation and song writing that goes with it is really interesting and shows a nice range without being inconsistent. Eno makes his mark alongside the others that produced the album too. 

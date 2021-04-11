@@ -66,7 +66,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I think we’ve actually spoken about this one less because we’ve all just been in agreement. It’s a great album, it held my attention almost the whole way through with the continually changing and layering sounds. It was great, I’ll definitely be revisiting it.

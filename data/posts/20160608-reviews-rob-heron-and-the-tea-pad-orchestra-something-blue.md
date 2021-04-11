@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Rob Heron and his Tea Pad Orchestra return with their third release, and there’s a notable polish this time round. Rob Heron’s lyrics have always had a knack for standing out and bringing a smirk to a listener’s face, and *Something Blue* is no exception, with the title track and “Flat Tonic Water” making for lyrical highlights. To complement this, there’s been a clear effort to vary the vocal sound, with rock and roll influences mixing well with Heron’s voice. Instrumentally, the sound has clearly been bolstered, taking a heavier influence from swing, blues, and country of America, where previous material has seen a sound that explores more European influences. 

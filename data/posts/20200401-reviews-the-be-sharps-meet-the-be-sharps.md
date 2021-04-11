@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   From the humble beginnings in a squalid bar during 1985, The Be Sharps saw a meteoric rise to fame. Their debut, *Meet The Be Sharps* is the finest of their output.

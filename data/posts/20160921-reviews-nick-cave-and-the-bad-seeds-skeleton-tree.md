@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Nick Cave has created an atmospheric, sombre listen with his latest release, *Skeleton Tree*. The tragic events that Cave experienced during recording have clearly had some impact here, but there is more to find than just an album of personal grief. *Skeleton Tree* is a heavy listen for sure, and an album that I found I could only appreciate with my full concentration given to it. 

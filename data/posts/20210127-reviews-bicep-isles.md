@@ -79,7 +79,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Bicep followed their 2017, critically acclaimed debut with an extensive world tour. Then a break in 2019. Unbeknownst to the electronic duo, it would be longer than expected, with the worldwide pandemic hitting them in 2020 along with the rest of us.

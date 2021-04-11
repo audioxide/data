@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Julien Baker’s material as a solo artist is often characterised as fragile, raw, and deeply personal. Drawing from turbulent personal experience, her lyrics often deal with mental health, substance abuse, and a complicated relationship with religion. The lead single to her third release, “Faith Healer”, was a clear statement of intent to continue exploring and confronting these themes while upping the instrumental stakes.

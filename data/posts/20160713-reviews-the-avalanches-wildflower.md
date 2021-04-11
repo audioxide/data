@@ -78,7 +78,7 @@ score:
   max: 10
   fraction: 0.7
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been a long time coming, but The Avalanches have given us a new record with a lot to like about it. A sun-kissed tracklist makes it a timely release and gives enough of an Avalanches signature to satisfy fans of their cult classic debut, *Since I Left You*. Besides that, *Wildflower* sees an emphasis on making something simply fun to listen to, with Nickelodean-infused tracks like “The Noisy Eater” making for some of the best play time on the album. 

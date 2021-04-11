@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I no doubt set myself up for disappointment this week. My time with the back catalogue from the animated outfit has been thoroughly enjoyable thus far, but *Humanz* falls a little flat in comparison. It’s a varied album for sure, featuring a star-studded list of great collaborations, and while that’s not anything new for a Gorillaz release, *Humanz* has far less of that Gorillaz quirk that I’ve come to know and love. 

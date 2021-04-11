@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I want to love Blanck Mass’ latest release. *Animated Violence Mild* is full of character and you have to at least marvel at the large, chaotic walls of sound that fill the tracklist. But once you’ve finished marvelling, you might be left wondering if there should be more to it.

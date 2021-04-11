@@ -84,7 +84,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m surprised it’s taken me this long to discover my love for Björk’s work. Deterred by her mid-noughties output, it’s taken me two decades to delve into anything earlier. *Homogenic* is gigantic in many ways, each track constructing a world of musical layers, mixing the unapologetically artificial with swathes of cinematic, orchestral instrumentation, and almost completely hiding its age in the process. With each musical world in place, Björk’s unique vocals soar above them. 

@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   To describe *Out Of Time* as ‘patchy’ would maybe appear a little unfair. There are some memorable and now very recognisable tracks, and it’s by no means a dud release from R.E.M., with “Losing my Religion” being the most likely track for many to recognise. The first half of the album is pretty strong in general, with “Shiny Happy People”, “Near Wild Heaven”, and opener “Radio Song” all being easy picks for the favourites list.

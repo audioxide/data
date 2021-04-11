@@ -73,7 +73,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Maybe it’s because I’ve come to Public Image Ltd’s *9* without any prior listening of their previous material, and with only a brief foray into any of John Lydon’s music, but I find the album hard to approach. With a signature, wild vocal style, Lydon clearly never attempts to pander to his listeners, and in doing so he is a clear influence for frontmen that followed him throughout the ’80s ’90s, but in *9* it can feel a little hit and miss, feeling like a detractor rather than an addition to some tracks. 

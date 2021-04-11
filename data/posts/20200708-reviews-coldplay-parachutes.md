@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I returned to Coldplay’s debut with low expectations. Often touted as a lightweight tribute of some other post-Britpop band, they get a lot of heat for only being surface deep. *Parachutes*, however, has a lot going for it.

@@ -9,7 +9,7 @@ tags:
 featuredimage: album-artwork/since-i-left-you-the-avalanches.jpg
 featuredimageAlt: Album artwork of 'Since I Left You' by The Avalanches
 title: A retrospective look at The Avalanches
-author: andrew
+author: andrew-bridge
 blurb: Since I Left You takes the listener on a whistle-stop tour of dance and electronica. All these years later it's still a serious trip.
 
 ---

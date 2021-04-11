@@ -80,7 +80,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   In the works for almost a decade, Ed O’Brien’s solo material has been highly anticipated. Between the Radiohead connection, his reputation as an exceptional guitarist, and well-received lead single “Shangri-La”, there was good reason to keep an eye on this release.

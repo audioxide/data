@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Part dramatic dream, part sun-soaked soliloquy, part love letter to mid-century pop rock, *Painting the Roses* is a wistful, woozy ride.

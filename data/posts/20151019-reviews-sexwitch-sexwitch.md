@@ -69,7 +69,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A collaboration featuring Natasha Khan was a welcome surprise this year. This eponymous debut consists of six cover version of ’70s folk music from around the world – certainly an interesting idea on paper as far as I’m concerned. 

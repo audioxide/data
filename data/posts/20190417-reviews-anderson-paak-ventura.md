@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Anderson .Paak has created an album full of rich, textured tracks fit for summer on *Ventura*. With some great collaborations and Paak on form with his vocals, there’s a great deal to enjoy here.

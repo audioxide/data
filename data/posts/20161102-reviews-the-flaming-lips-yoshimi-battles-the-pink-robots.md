@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve got a lot of love for The Flaming Lips’ tenth studio album. Setting its sound firmly between that of a live band and electronic outfit, *Yoshimi Battles The Pink Robots* has a distinctive, sometimes cinematic, always sunny style that stays with me long after each listen. Couple it together with a (very) loose narrative about the titular Yoshimi and her battle and it should sound intriguing to most just on paper. 

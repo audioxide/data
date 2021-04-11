@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Wolf Alice’s debut release certainly doesn’t try and be anything other than a debut album. With each track straddling genres, and experimentation laced throughout the tracklist, it makes for an interesting listen that leaves me wanting more. 

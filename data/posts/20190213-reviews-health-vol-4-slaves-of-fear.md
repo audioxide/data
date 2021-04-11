@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   HEALTH’s latest record had me intrigued from the outset. Its opening moments are menacing and mucky, and the thwack of beefy kick drums and gritty bass lines particularly hit the spot. It’s a great shame, in that case, to find that the effect doesn’t have the staying power I had hoped for.

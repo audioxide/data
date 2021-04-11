@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been five years since [*Damogen Furies*](/reviews/squarepusher-damogen-furies/) slapped us across the face with its frenetic fizz of drum-heavy electronica. At the time I sheepishly proposed that the album might not ‘give the listener much of a break.’ With that thought in the back of my mind, I dived into *Be Up A Hello* a smidge cautious.

@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s a lot to take in on *The Glowing Man*. In its two-hour play time, we see some short, delicate, folk-soaked music which come with hints of [Portishead](/reviews/dummy/) and [PJ Harvey’s later output](/reviews/pj-harvey-the-hope-six-demolition-project/) at one end of the spectrum, while at the other, psychedelic, entrancing, swelling soundscapes span across half-hour stretches. 

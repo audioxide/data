@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve been harbouring a secret: Mogwai is not my bag. Though I had praise for _[Atomic](/reviews/mogwai-atomic)_ and their previous LP, _[Every Country’s Sun](/reviews/mogwai-every-countrys-sun)_, suggesting that ‘I can certainly see myself returning for more’ was maybe a bit ambitious. While much of Mogwai’s appeal is in their ability to slowly build large soundscapes, it can wear a little thin for me when that’s all an album has to offer.

@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Joanna Newsom has painted a vivid picture with *Divers*. From the opening track, the album invites listeners into a world of timbres and genres, evoking nostalgia and curiosity that holds interest throughout the album and melds with her distinctive voice incredibly naturally. 

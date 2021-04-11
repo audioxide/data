@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Noisy, abrasive guitar music tends to rub me up the wrong way, often feeling like it’s all mouth and no trousers. IDLES have escaped my preconception with their latest album, however, combining powerful instrumentals with satisfyingly constructed lyrics full of genuine sentiment. 

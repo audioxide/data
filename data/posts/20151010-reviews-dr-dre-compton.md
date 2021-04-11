@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   This is Dr. Dre’s first album in 16 years and, unsurprisingly, there were a lot of listeners who expecting a lot from *Compton*. The album is filled to the brim with collaborators, and it’s clear that each was given a fair amount of control over the tracks they featured on — Kendrick Lamar applying his signature style that we heard from [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), to Genocide and Snoop Dogg delivering a fierce vocal on “One Shot One Kill”. 
   

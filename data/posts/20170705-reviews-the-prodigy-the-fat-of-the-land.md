@@ -77,7 +77,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   If nothing else, *The Fat of the Land* has certainly left a legacy. With at least two of its tracks still on regular rotation, it only improved on The Prodigy’s solid track record of releases through the ‘90s. Their third studio album manages, for the most part, to avoid the pitfall that many dance albums fall into by remaining listenable at home, and memorable long after its dying moments. 

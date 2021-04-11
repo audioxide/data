@@ -77,7 +77,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Savages’ latest release certainly feels different to their debut effort. With many commenting on their probable lack of longevity, it didn’t seem likely they’d make it to a second album. However, Savages return with *Adore Life*, with slightly more room to breathe and a clear, albeit unlikely, focus of love. There’s still a lot of remnants of *Silence Yourself* here, with the opening track, “The Answer”, providing a noisy, frantic, lurching stage for Jehnny Beth’s strong vocal, ‘Love is the answer,’ to ring out upon. 

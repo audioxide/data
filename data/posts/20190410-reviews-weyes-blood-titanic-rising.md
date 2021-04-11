@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Titanic Rising* is warm and bold. Often sounding closer to a cinematic score from the tail end of the 20th century, it throws hints of nostalgic, mid-century Americanisms into its instrumentals then drapes an assortment of strings and synths across the tracklist.

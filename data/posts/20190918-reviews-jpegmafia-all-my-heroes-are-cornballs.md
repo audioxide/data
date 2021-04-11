@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   JPEGMAFIA’s latest release is busy, to say the least. Hopping from moment to moment, sketch to skit, idea to mood, it’s hard to know where to start, as individual ‘tracks’ are often made up of two or three opposing sounds.

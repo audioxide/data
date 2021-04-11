@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There is no two ways about it, *Everything Now* is not a patch on Arcade Fire’s previous output. Going from strength to strength from their 2004 debut right through to their similarly disco-heavy 2013 release, *Reflektor*, I’ve long held high expectations for a new release from the band. *Everything Now* feels like a misstep though. 

@@ -71,7 +71,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Illmatic* received high praise after its release, shooting Nas to the forefront of the hip-hop scene and causing ripples with fans at the time. It’s easy to see why, listening to this debut release over 20 years later. Without any illusions of grandeur, every track on *Illmatic* manages to make a point and sound great doing it. Instrumentals can be noticeably repetitive, but not with a detrimental effect to the track overall, with “N.Y. State of Mind” sticking to a simple piano loop and drum pattern but managing to do so in a way that simply leaves the stage clear for the lyrics to remain the focus. Even for those that often don’t or won’t focus on lyrics, Nas delivering ‘I never sleep, ‘cause sleep is the cousin of death’ is hard not to notice. 

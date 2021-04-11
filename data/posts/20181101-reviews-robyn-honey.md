@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   In the hands of another pop artist, *Honey* could have come and gone without much fanfare. Without the bombast of other entries in Robyn’s discography, this latest release is no doubt an easy listen. Swamped in hugging, warm pads throughout, its tracklist transitions between downtempo, sub-filled tracks like “Human Being” to the funky, twinkling splashes of “Because It’s in the Music”.

@@ -74,7 +74,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I was a huge fan of MGMT’s debut, *Oracular Spectacular*, but I missed their releases since. That may well skew my perception of the band next to an avid MGMT fan. With that in mind however, I’ve hardly noticed *Little Dark Age* playing. It’s not something I expected to be saying about a band that has released a collection of enduring singles since their debut, each distinctive and full of character. 

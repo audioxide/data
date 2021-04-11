@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was my first proper exposure to a Deftones release, and it's been a positive one. With a variety of sounds present throughout the album, *Gore* revels in offering the listener vast, echoing music, with Chino Moreno's vocals calling out across them, only to throw you into blistering passages of noise that would likely be brilliant to experience in a live setting. It provides a slightly agitated, conflicted quality to the album without making it a disjointed listen. 

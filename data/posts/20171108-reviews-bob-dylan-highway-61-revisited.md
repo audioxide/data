@@ -78,7 +78,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Highway 61 Revisited* manages to do a lot with seemingly little. At first glance, Bob Dylan uses simple chord structures, down to earth vocals and story-driven lyrics which puts him alongside an overwhelming sea of other artists. But what sets this album apart from a majority of other albums is the sheer character and hidden intricacy of the whole tracklist. 

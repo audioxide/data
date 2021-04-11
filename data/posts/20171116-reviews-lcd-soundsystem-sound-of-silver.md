@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   When *Sound of Silver* first released, I listened without much of a context nor much of a musical background. I was won over by distinctive instrumentals, catchy hooks and likeable vocals. I don’t remember a lot beside having a lot of fun with the album. Returning now, nostalgia intact, and knowing a little more about the album and its obvious influencers, I can’t help but still be totally charmed by it. With big dollops of [Talking Heads](/reviews/talking-heads-remain-in-light/) and a fair helping of [Bowie](/reviews/david-bowie-low/) too, it mixes its influencers with its own flavour of rolling dance tracks and fidgety indie rock that I can make a lot of time for. 

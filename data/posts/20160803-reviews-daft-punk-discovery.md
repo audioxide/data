@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was largely heralded as an excellent return release from Daft Punk, and it’s easy to see why given the impression the opening minutes leave. From the sample-centric, vocoder adorned “One More Time” to “Aerodynamic”, the guitar solo epic that covers a huge amount of ground in three and a half minutes, *Discovery* sets a big, catchy precedent for the rest of the album. 

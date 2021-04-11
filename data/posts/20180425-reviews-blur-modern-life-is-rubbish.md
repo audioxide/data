@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Modern Life Is Rubbish* has been rather battered by time. It’s not that it sounds bad at all, and in fact tracks like “Oily Water” and “Advert” make for an enjoyable ride. But next to its successors, Blur’s second album feels like the album before the band hit their stride. There are a wealth of comparisons I could make between this and the follow up, *Parklife*, and unfortunately the latter nearly always wins out over the former. Be that the overt Britishness that ripples throughout Blur’s discography, or the singles that stick with you long after you’re finished with the album, it’s hard not to draw similarities. 

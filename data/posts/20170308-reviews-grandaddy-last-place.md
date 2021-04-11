@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Sometimes it’s nice to listen to an album that one doesn’t need to rip apart. *Last Place* is everything I expected from a Grandaddy album and just a little more. Opening with a strong ten minutes of mid-tempo fuzz and catchy lead riffs alongside Jason Lytle’s smooth, complementary vocals, the album draws in its listener. Then, signalling a change of pace, “Oh She Deleter”, a bubbling, sci-fi interlude, elegantly tees up “The Boat is in the Barn”, an entrancing slow jam reminiscent of [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/)’s “Comfortably numb”. 

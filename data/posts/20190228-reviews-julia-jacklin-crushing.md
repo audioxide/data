@@ -73,7 +73,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Crushing* stood out from the rest of this week’s singer-songwriter releases from the first few seconds. The well-rounded, warm production grabbed my attention, proving that the rhythm section doesn’t always have to sound like tin cans and rubber bands in this genre.

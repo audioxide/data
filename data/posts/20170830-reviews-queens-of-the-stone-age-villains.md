@@ -81,7 +81,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Queens of the Stone Age have enjoyed a lighter, synth-laced sound in their more recent material, and it was a roaring success in their previous album, [*…Like Clockwork*](/reviews/queens-of-the-stone-age-like-clockwork/). This trend was bound to continue with Mark Ronson’s involvement in this latest outing for the band, but in places Ronson’s sheen teeters on the overbearing cliff edge. 

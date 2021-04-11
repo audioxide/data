@@ -70,7 +70,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Full disclosure: noise rock is not an area of music I frequent often. Lightning Bolt’s latest album gives me no desire to explore it further. I have it on good authority that this duo is formed of stellar talent, and by all accounts their live performances burst with energy. But *Sonic Citadel* sticks around for too long on the same idea for the effect to carry over here.

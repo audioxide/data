@@ -82,7 +82,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This album is certainly no walk in the park. The final release from The Dillinger Escape Plan sends the listener into a clattering, raucous, driving rollercoaster ride from the off, throwing the tempo around like a rag doll. Sudden changes appear from out of nowhere throughout the album, with diversions like “Fugue” appearing just as the listener settles into the tone set by the first 15 minutes of listening, before being unseated again by “Low Feels Blvd” which follows. This does well to agitate and unsettle the listener, which surely can’t be a mistake on the band’s part, but also never leaves ideas to hang about for too long (not that they feel underdeveloped). 

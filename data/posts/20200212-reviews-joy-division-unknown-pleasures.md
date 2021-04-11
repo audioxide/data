@@ -82,7 +82,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Unknown Pleasures* is a stand out classic for many. Having influenced music through the decades that followed, it’s clear that this debut album resonated with people. Regretfully, however, I’m not one of them and I’ve come away baffled by the almost unanimous praise.

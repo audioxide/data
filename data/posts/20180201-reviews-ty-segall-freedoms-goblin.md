@@ -84,7 +84,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   While I’m normally the first one to bemoan an album’s length, Ty Segall has managed to make the very exclusive list of exceptions. Make no mistake, there are tracks here that I wouldn’t miss terribly had they been resigned to b-sides, and the six-minute jam in “She” does push towards outstaying its welcome, even if it does sound like the band are having a great time throughout. Most of the album, however, makes for a smashing listen. 

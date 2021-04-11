@@ -83,7 +83,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The news of an expedited Laura Marling album certainly made for a positive in the deluge of curveballs flowing out the first half of 2020. Off the back of 2017’s [*Semper Femina*](/reviews/laura-marling-semper-femina/), *Song for Our Daughter* had a tough act to follow.

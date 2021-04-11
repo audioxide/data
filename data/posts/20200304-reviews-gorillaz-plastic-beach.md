@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Plastic Beach* was always going to struggle to compete against the runaway success of its predecessors. [*Demon Days*](/reviews/gorillaz-demon-days/) made a hit out of every single that came from it. But ten years on, it feels as though this maybe should’ve had more of a look in.

@@ -79,7 +79,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   A decade ago, of Montreal released *Hissing Fauna, Are You The Destroyer?* to wide critical acclaim. Despite my listening habits at the time, including the likes of Animal Collective, Late of the Pier, and The Unicorns, all of which draw from the same pool of colourful, psychedelic indie pop as this album does, this is another first experience for me. It’s been a positive one at that, with each listen generating ear to ear grins at times and new points of note to discover. of Montreal disguise sombre negativity with flamboyant, theatrical instrumentation that could be mistaken for music from a couple of decades prior, with funk-filled bass lines and coarse, antiquated synth tones. 
   

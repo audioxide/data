@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Creating music that breezes along, bright and airy, while delivering imagery of dark, sombre themes takes skill. Lean into the bright instrumental, and the lyrical content is overshadowed. Focus too much on the message and that atmospheric backing is an afterthought. Despite this, *Let England Shake* is drenched in a dichotomy of sweet folk music and grim scenes of war.

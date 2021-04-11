@@ -69,7 +69,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I really enjoyed the album, the instrumentation is incredibly varied and very interesting, spanning various genres. The album remains fresh from start to end. There are little flourishes and additions which really do make some of the tracks that bit better. The production is great and adds atmosphere and realism all over the album, as well as putting the vocals front and centre. But putting that all aside, one can entirely hate this album, but they should still appreciate it. The time of release makes it incredibly relevant and important, with all of the various issues that it touches on, though as the final minutes of the album secretly inform us - it’s been relevant for a long time.

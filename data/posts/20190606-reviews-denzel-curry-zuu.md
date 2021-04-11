@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I was a little sceptical of *ZUU* in its opening moments. As the title track opens the album, I was hard pressed to find anything that set it apart from a lot of mainstream hip-hop around today. The deeper into the tracklist though, the more this album grows on me.

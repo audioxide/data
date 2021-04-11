@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Relaxer* is such a stark contrast to alt-J’s previous output, it begs the question: what happened here? It’s clear the band wanted to veer towards something poignant for their ‘difficult third album’, as only “In Cold Blood” has all the hallmarks of their previous work. A cover of “House of the Rising Sun”, branded ‘easy-going’ by some, comes across as drab and dull; I’m waiting for it to get going for the full five minutes. “Adeline” follows a similar theme later in the tracklist. “Hit Me Like That Snare” is probably the worst offender on the album: initially promising a lift in pace, the band described it as ‘spicy’, but it feels like the band trying to be edgy without any success. 

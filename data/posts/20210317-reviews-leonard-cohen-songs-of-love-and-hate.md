@@ -85,7 +85,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   From the simmering, cinematic opening moments of “Avalanche”, I was smitten with _Songs Of Love And Hate_. Cohen’s vocal stretches out over an urgent guitar as swells of strings sweep across to form a backdrop. It’s a suspenseful, moody start that entices with each listen.

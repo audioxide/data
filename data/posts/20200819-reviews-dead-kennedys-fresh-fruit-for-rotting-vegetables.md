@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I didn’t enjoy [*Rocket to Russia*](/reviews/ramones-rocket-to-russia/), and Ramones fans were peeved to say the least. With that in mind, I was worried that Dead Kennedy fans might be lynching me, rather than their landlords.

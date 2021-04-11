@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The latest release from Katie Crutchfield’s music project brings a softer, warmer, country sound to the mix. Coming from previous material, listeners might expect a crunch to the guitars, lo-fi production and a healthy smattering of raucous noisiness. However, with its edges chamfered, it’s Crutchfield’s vocals that take centre stage.

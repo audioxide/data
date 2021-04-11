@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I can’t admit to being the biggest fan of Oasis in the past, between the band’s internal dramas and the middling reception their output of the ’00s received, they’ve never been on my list of musical interests. *Definitely Maybe* works to repair that impression somewhat. Their debut is certainly not the shiniest release from the band, with much of the album suffering from muddy guitars and ‘raw’ mixing and production style. 

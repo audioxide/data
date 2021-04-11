@@ -81,7 +81,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   To produce an exceptional double album for your eighteenth studio release is no easy task, and for many artists, it’s likely an impossible aim to achieve. *Songs In The Key Of Life* manages it though, with a tireless sunny optimism that never dissipates despite its extended play time. 

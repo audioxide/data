@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s no point in burying the lead: If you liked Royal Blood’s eponymous debut, you won’t find any surprises to turn you off of their follow-up, *How Did We Get So Dark?* At 34 minutes, the rock duo has kept things short, sweet, and radio friendly. “Lights Out” demonstrates their continued ability to make a very big sound for a couple of people, with a raucous chorus that provides a satisfying hook. 

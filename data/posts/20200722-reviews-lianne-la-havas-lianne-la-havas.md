@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Lianne La Havas’ self-titled return, five years after Blood, was a welcome announcement. Having enjoyed her previous material and her enthralling live performances, she joins the list of [excellent artists making this year a touch more positive](/reviews/laura-marling-song-for-our-daughter/).

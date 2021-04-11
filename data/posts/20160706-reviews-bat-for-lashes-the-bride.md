@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The opening of *The Bride* sounded promising. With a clear concept and some airy, delicate instrumentals, the new Bat For Lashes release could’ve seen the same success as previous albums. Unfortunately, it’s the development which isn’t quite there for me. A few interesting instrumentals are peppered throughout the album, but these largely don’t evolve from the opening moments of each track. 

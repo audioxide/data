@@ -83,7 +83,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A modern listener might be forgiven for overlooking *Straight Outta Compton*. While the album was divisive and shocking at the time, it left a legacy that has permeated music and modern culture since its release three decades ago. Between the title track, “Fuck Tha Police”, and “Gangsta Gangsta”, the opening portion of the album alone could be enough for many to deem this album a major success, blending catchy hooks with political commentary to produce a bombastic sound. These tracks encapsulate a good portion of what the album is mostly remembered for: exciting instrumentals, characterful skits woven into tracks, and solid production to tie everything together. 

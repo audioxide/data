@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s a rare occurrence to hear such a confident debut from a band. While it’s by no means free from rough edges, Led Zepplin’s eponymous debut delivers some of the band’s most critically acclaimed tracks. Despite the release being panned at the time, the album’s opening minutes feature some stonking guitar work across both “Good Times Bad Times” and “Babe I’m Gonna Leave You”, and Robert Plant’s vocals certainly hold their own here too. 

@@ -72,7 +72,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A Tribe Called Quest haven’t released a studio album since 1998, so the anticipation for *We Got It from Here*, their latest and final album, was understandably high. Right from the opening track “The Space Program”, the vocal delivery goes down very smoothly, sitting on top of similarly smooth instrumental that glides along effortlessly. It all feels fresh while maintaining a style that feels synonymous with the ’90s, with seamless transitions between each vocalist and verse and instrumentals that, for the most part, explore and evolve in each track. It’s all very glossy, and it feels like the gloss has been introduced in the production. 

@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It certainly doesn’t feel like a decade since the release of Thom Yorke’s debut solo album, but returning to it has been enjoyable. From the eponymous opener, the sound of *The Eraser* is immediately distinctive from anything that came before or after it from Radiohead, focusing on rigidly robotic yet intricate beats throughout and a bias towards electronic instrumentation. 

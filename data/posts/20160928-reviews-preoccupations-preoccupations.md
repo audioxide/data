@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Preoccupations have released an eponymous album that certainly grows on the listener. While the album opener and lead single, “Anxiety”, makes for a noisy, satisfying start to proceedings, things really don’t get going until the listener is being hypnotised by droning, transfixing ambience at the end of “Memory”. From here on, the album deviates off in a more explorative direction, with each track bringing unique characteristics to the album, be it the crunchy synths in “Forbidden” or the driving bass line that whips up a fast-paced energy by the end of “Stimulation”, the tail end of *Preoccupations* is where it shines. 

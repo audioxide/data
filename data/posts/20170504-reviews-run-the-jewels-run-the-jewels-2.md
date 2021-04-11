@@ -78,7 +78,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having already thoroughly enjoyed *Run the Jewels 3*, their previous release faced stiff competition. Thankfully, I’ve had a tremendous time with *Run the Jewels 2*, and it has become one of the few albums that I’ve had the urge to instantly replay as it comes to an end. 

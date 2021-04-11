@@ -73,7 +73,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Apparat has settled on a particular path with *LP5*. Each track is a meandering, gradual, comforting mix of whirring synths, quietly agitated beats, and strings of all varieties. It makes for a thoroughly pleasant experience, but without a great deal of variety or highlight in sight it’s easy for the pleasant to become the forgettable.

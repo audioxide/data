@@ -86,7 +86,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A new Radiohead release always causes a stir, and this time round, I think it’s warranted. *A Moon Shaped Pool* brings a more reflective and mournful outlook. Taking tracks originally conceived throughout the band’s lifespan, the album has faint flavours of past releases, with “Decks Dark” feeling familiar for any fans of [*OK Computer*](/reviews/radiohead-ok-computer/) and *Kid A*. This new release could easily have felt like a slight patchwork release of B-sides rather than a fresh LP from the group, but I feel that enough has been done for each track to feel somewhat new, with large swaths of the album adorned with beautiful, soundtrack worthy instrumentation, which is no doubt largely the work of Jonny Greenwood, who is now well versed in creating cinematic soundscapes. 

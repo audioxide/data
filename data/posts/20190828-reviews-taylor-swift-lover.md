@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Taylor Swift returns with an energetic, synth-pop album which leans away from the bolshie production of 2017’s *Reputation*. At an hour long, however, *Lover* runs out of steam a little prematurely despite a lot of enjoyable moments.

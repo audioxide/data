@@ -88,7 +88,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   _Glowing in the Dark_ feels like a product of indecision. Four albums in with close to a decade since their debut, Django Django have had time to explore their sound, but this latest album pulls in enough directions to stretch at the seams.

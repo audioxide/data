@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Deep Purple’s debut highlights a band that are content with building on the successes of the era it was produced. With original tracks from the band like “Mandrake Root” that reek of the ’60s, and reinterpretations of tracks like “Help” and “Hey Joe” strongly tinged with the band’s own character, *Shades of Deep Purple* is an enjoyable montage of its decade. 

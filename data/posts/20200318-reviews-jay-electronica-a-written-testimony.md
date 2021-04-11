@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A debut from Jay Electronica has been long anticipated, with previous release dates coming and going for ten years, many fans are no doubt full of expectation. It’s unsurprising, therefore, that *A Written Testimony* has been somewhat controversial.

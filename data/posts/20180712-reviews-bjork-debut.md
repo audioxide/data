@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Björk’s appropriately titled debut album fits itself alongside the likes of [*Led Zeppelin*](/reviews/led-zeppelin-led-zeppelin/), [*Funeral*](/reviews/arcade-fire-funeral/) and [*My Aim is True*](/reviews/elvis-costello-my-aim-is-true/) as an energetic, confident release to the world. “Human Behaviour” still stands as one of my favourite Björk tracks, and makes for a perfect opener that focuses on percussion and rhythm to produce a curious and satisfying electro-orchestral mix for its instrumental. It’s a common focus throughout the album, but other sources of experimentation often push it to the sidelines. *Debut* plays with genre a lot, which can certainly give things a slightly rough and ready feeling, as the first six tracks sway between delicate, string-soaked beauty and pumping house, with Björk whispering in your ear about her ghetto blaster. 

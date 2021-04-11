@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   As a newcomer to Jaga Jazzist, I was expecting something closer to conventional contemporary jazz. While what I heard was unexpected, it was certainly still enjoyable. Instrumentation and melodies that wouldn’t be so out of place next to [Radiohead](/articles/ranking-radioheads-discography/) transition and entwine with gritty synths that’d you’d expect from a Clark release, and the progression and transition of the music ensures you remain entertained at least for the first two thirds. 

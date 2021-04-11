@@ -67,7 +67,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   *Damogen Furies* is not what I expected to hear given the few Squarepusher tracks I’ve heard. It’s very manic and doesn’t give the listener much of a break. For me, the album started off strongly, and there are definitely some stand out tracks here, but other tracks felt more like a jam that you’d relish during a live performance, not in the middle of an album. I appreciate the complexity of *Damogen Furies*, and some of the beats and melodies are great, but Squarepusher didn’t quite hit the spot for me as much as I’d hoped.
 

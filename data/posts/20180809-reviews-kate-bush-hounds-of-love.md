@@ -88,7 +88,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s hard to discern, as a modern listener, whether pop music was hitting its stride, running wild with musical experimentation, or simply striving to be more interesting, but *Hounds of Love* delivers a striking sound which is full to the brim with character. 

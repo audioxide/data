@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been a pleasure to really dig into The Specials’ self-titled debut this week. While it’s very easy to come away remembering the most famous moments on the record, giving the rest of the album some focus has uncovered some hidden gems for me.

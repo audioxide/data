@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m left cold with *This Nation’s Saving Grace*. It’s a frustrating thing to feel when it’s clear so many herald this as a five-star album. There’s no doubt that I can hear points of influence for a wide range of contemporary punk and rock artists across the tracklist and there’s nothing incohesive or poorly executed here either. It’s therefore frustrating that to find the slurred, almost drunken, vocal style a distraction rather than a decoration on each track, and the general short repetition in many of the vocals and melodies to turn my attention away from the music. 

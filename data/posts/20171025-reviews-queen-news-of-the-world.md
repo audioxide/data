@@ -77,7 +77,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   For all its shortcomings, I have a real urge to defend Queen’s sixth studio album. However, there’s no getting away from its flaws: the pacing of the tracklist is pretty erratic from the outset. The two lead singles are slung up front to open the album, which is a decision that I can only hope was ill-advised, rather than cynical. “Sheer Heart Attack” is an energetic stomp that reacts to the punk rock movement at the time, and I find it enjoyable. Unfortunately, despite it being on my list of favourites, it’s hampered by production decisions, with drums low enough to resemble white noise, and an ending that sours me to a track I otherwise enjoy. “Fight From The Inside” destroys Roger Taylor’s vocals with a bathroom reverb, whilst “Get Down, Make Love” makes all sorts of weird decisions culminating in a stilted curio of a track. “Sleeping On The Sidewalk” cannot go unmentioned either, as it probably would’ve served the album better had it remained a demo on the cutting room floor. 

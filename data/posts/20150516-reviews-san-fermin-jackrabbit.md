@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having listened to their first album, I was hoping for big things from this new release. As a band, the variety is there, with the instrumentation spanning a huge range and taking very clear influences from folk, electronic and classical genres. The horn section is, to my delight, given a big place in the album as it was in their debut and I feel the synths and other electronic instruments were given more of an airing here too. 

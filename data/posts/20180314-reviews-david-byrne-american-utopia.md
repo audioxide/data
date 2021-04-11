@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *American Utopia* has me conflicted. On one hand, it’s brilliant to see that David Byrne isn’t just riding on the coattails of his previous projects, nor is he churning out half-baked material at high frequency, but in doing so this album takes risks which don’t consistently pay off. This is his first release in years and first solo album in over a decade, and it shows in the variety of ideas across the tracklist. 

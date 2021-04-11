@@ -66,7 +66,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Some interesting melodies and instruments choices, I especially appreciate the horns all over it, and the harmonies are really nice in some tracks.

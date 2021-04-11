@@ -80,7 +80,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The latest album from Krafty Kuts and Chali 2na had my head nodding out the gates. With great instrumentals and smooth deliveries from Chali 2na, it shapes up to be a good jaunt, but after a few listens I have to admit I’ve cooled on it a little.

@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I have to admit it, my interest in any output from Tyler, The Creator’s music has transitioned from sheer, morbid curiosity for his early work to genuine excitement for his material of recent years. Where shock tactics took centre stage before, genuinely well produced, well-written tracks have replaced them in the latter end. But *IGOR* has still been something of a grower for me.

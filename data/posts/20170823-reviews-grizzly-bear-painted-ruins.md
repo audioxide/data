@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Grizzly Bear’s latest release feels constrained and muted. Listening carefully, you can hear where big swells of sound and quiet moments of suspense once were. Midway through “Cut-Out”, you can tell that a soft drum beat with a twinkling guitar paces back and forth before a thunderous, stabbing guitar breaks the silence, but on record, everything remains at the same level, the energy has gone, the impact softened. This example is not a lone occurrence across the tracklist and it really does turn seemingly interesting music into a far less interesting product. 

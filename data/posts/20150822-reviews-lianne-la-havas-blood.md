@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With the success of Lianne La Havas’ debut album, *Blood* had a lot to live up to. With a discernible change in instrumentation and post-production, it is clear that the album had intentions of being bigger and bolder, with a full band accompanying La Havas throughout the album where previously vocals and guitar were much more common. While the vocals remain strong and dynamic in *Blood*, the added instrumentation often feels a little surplus to requirements, lacking in dynamic range in places. 

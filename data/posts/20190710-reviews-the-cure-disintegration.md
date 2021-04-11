@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having spent most of my week humming the hooks of at least three stand-out tracks on *Disintegration*, it’d be hard for me to deny how much I’ve enjoyed my time with it, at least in part. While the album might’ve been intended to be full of murkiness and depression, you might not need to prepare yourself for 70 minutes of sombre sadness.

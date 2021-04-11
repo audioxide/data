@@ -85,7 +85,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s unsurprising that *Superunknown* received such critical acclaim on its release. At a time where [*In Utero*](/reviews/nirvana-in-utero/) was still rocking the world, [Britpop](/reviews/oasis-definitely-maybe/) was taking hold, and Nine Inch Nails were spreading industrial darkness, Soundgarden’s fourth release was well positioned for success. 

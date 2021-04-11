@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Low’s heavily crushed, noisy, glitchy approach to their latest album could have quickly put me off, and may well not be everyone’s cup of tea. However, *Double Negative* has intrigued me during my time with it. Unlike earlier releases that leaned more heavily on indie rock and folk, this instead goes for an atmospheric, ambient, electronic sound that feels refreshing and intense all at once.

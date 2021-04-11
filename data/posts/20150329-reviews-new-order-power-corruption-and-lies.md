@@ -66,7 +66,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having been so popular at the time, and having come out around the same time as the very successful “Blue Monday,” I want to hear what others hear when they describe *Power, Corruption & Lies* as '[headrushing, joyful and flawless](https://www.theguardian.com/music/musicblog/2014/aug/06/new-order-10-of-the-best)', but I can’t. At least listening now, without any sentimental emotions attached, even I, with my high tolerance for repitition get tired of a lot of the tracks. The instrumentation is relatively standard, I don’t get on with the vocals on many of the tracks as I don’t feel there’s any heart behind them, and I mainly feel that they fail as pop tracks because they are all too long. Unfortunately, this album was a disappointment.

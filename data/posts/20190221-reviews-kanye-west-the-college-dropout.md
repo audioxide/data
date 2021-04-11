@@ -73,7 +73,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Before Kanye West became the Twitter outbursting, Kardashian schmoozing curio he is today, he released his debut, *The College Dropout*, and all at the same time as well! It’s a different beast altogether: well polished, with healthy portions of cheek and snark and instrumentals full of character.

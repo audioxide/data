@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *“Awaken, My Love!”* has grown on me for sure, but I’m certainly not fawning over it. What I’ve become most attached to are the instrumentals: oozing funk and soul, they certainly fall in line with one of my preferred trends of this year, drawing from influences of decades past while also adding in modern day synths and effects to freshen the sound. Single “Redbone” and opener “Me and Your Mama” in particular have warm, indulgent instrumental arrangements that have kept me coming back in isolation. The first half of the tracklist generally does well in this respect, while the second half feels slightly sparser, concentrating more on the vocals. 

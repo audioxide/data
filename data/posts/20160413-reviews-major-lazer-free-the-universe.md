@@ -70,7 +70,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It seems that I’m in the minority here when it comes to this album and this brand of dance music. I enjoy the heavy beats, the overzealous sub bass and synths, even if some haven’t aged well in the three years since the album’s release. I enjoy this and similar albums like I enjoy fast food, it’s 'Junk Music' — listen to it all the time and I’d have a bland musical experience which missed critical things that are needed to fully enjoy music. I understand why people stay away from it in the same way as they stay away from junk food, but I give into, and enjoy, more audacious music like this. 

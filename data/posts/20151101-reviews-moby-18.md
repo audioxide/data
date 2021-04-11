@@ -72,7 +72,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   *18* clearly left many listeners unsure of what to think. With reviews for the album ranging from insults to unwaivering praise, it certainly divided opinion. Strung together with down tempo drum beats, silky basslines, warming pads, and soulful vocals, it’s certainly a very consumable album, with little to jolt a listener’s senses. 
   

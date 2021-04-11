@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Foals sat apart from their contemporaries with their debut. While it’s easy to tell that the likes of Bloc Party and The Maccabees were cut from a similar cloth, Foals leaned into their restless, agitated, math-rock roots and carved out a niche in the mainstream indie rock of the time. 

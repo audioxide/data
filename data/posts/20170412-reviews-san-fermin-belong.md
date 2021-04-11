@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I can’t help but be disappointed. From their distinctive, suspenseful debut, to their [sophomore album](/reviews/san-fermin-jackrabbit/) that didn’t quite hit the same mark, and now to *Belong*, I’m continuously finding less to love in San Fermin. Besides a few standout tracks, a lot of the work here feels homogenised. I can draw easy comparisons between these tracks and other mainstream pop tracks (“Better Company” is a Calvin Harris track sanitised for Radio 2) and that wasn’t something I would think about doing in previous releases. Drained of its drama, its strings softened and horns stifled, *Belong* really has lost a great deal of the charm that San Fermin had initially brought to the table. 

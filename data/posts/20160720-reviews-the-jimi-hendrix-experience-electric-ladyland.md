@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It really is an experience to listen through *Electric Ladyland*‘s constantly changing scenery, jumping between the racous, driving thump of “Crosstown Traffic”, to the swelling virtuoso epic of “Voodoo Chile”, to the [Beatles](/reviews/the-beatles-abbey-road/)-smattered “Little Miss Strange”. All the while, Hendrix has his guitar up front and centre in the mix, pushing his smoother vocals behind it and cutting through the rest of the instrumentation. While some albums fail to recreate the live atmosphere when they need to, *Electric Ladyland* manages it seemingly without effort, as solos flood out into long jams across the entire album. 

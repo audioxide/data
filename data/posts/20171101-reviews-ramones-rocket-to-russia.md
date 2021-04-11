@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Ramones have amassed a sizeable reputation as one of the greats, and with their logo now so widely recognised too it’s unsurprising that they’ve held on to such a legacy. It’s disappointing then to find myself falling out of love with *Rocket to Russia* as quickly as I fell for it. Tracks are concise from the outset, snappy enough to get your head bopping. The pacing is good, with the tracks that have proven their staying power over the decades sprinkled throughout, rather than in a single clump. Nothing sticks around for too long, as each song stays shy of the three-minute mark, with the whole album wrapping up in around half an hour. 

@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It may be a decade old, but *Favourite Worst Nightmare* could easily be a new release. With a far sharper sound and clear contrast in production compared to their debut, the Arctic Monkeys follow up album makes it clear that the band weren't prepared to stick with 'more of the same'. By bringing the bass and vocals right to the front of the mix, each track is immediately full of drama with an enormous dynamic range. 

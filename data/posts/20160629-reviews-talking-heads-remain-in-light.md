@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   If nothing else can be said for *Remain In Light*, it’s a lot of fun to listen to. Fortunately, despite this being my first exposure to a Talking Heads LP, I’ve found a lot more to like. With strong influences of Cuban and African music and high energy from the opener, the album is sun-soaked and has a focus on rhythms and drum patterns that make up a huge part of this energy. 

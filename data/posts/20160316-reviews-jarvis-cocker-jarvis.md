@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Debut solo albums make for interesting listens, as an artist’s approach can vary widely. Cocker hasn’t thrown any curveballs here, filling *Jarvis* with catchy pop rock for the most part, though that isn’t totally positive. While tracks like “Don’t Let Him Waste Your Time” and “Heavy Weather” are easily consumed, they don’t necessarily linger, nor do they provide any real character. 

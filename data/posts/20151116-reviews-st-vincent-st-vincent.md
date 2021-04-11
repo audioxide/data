@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   To my surprise, as a new comer to St. Vincent, this eponymous album is filled with interesting, suitably distorted electronic timbres. Buzzes, whirs, and beeps cover the album, accompanying simple but satisfying beats and catchy guitar riffs. Over all this, Anne Clark’s distinctive vocal melodies pull the whole album together. 

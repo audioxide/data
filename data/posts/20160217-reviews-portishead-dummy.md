@@ -78,7 +78,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Portishead’s debut, *Dummy*, may be over two decades old, but their distinctively ’90s, trip-hop sound hasn’t aged a bit. From the opener, “Mysterons”, the album is immediately shrouded in eerie, ominous atmosphere. Melding orchestral and jazz samples with surging beats and melody lines that remain intense despite their minimal construction, *Dummy* is intriguing for the listener throughout its tracklist. 

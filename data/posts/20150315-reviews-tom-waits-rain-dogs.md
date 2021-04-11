@@ -66,7 +66,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s a really interesting album, and it achieved it’s loose aim of providing a flavour of a city. In having so many different genres and styles of music, it did sometimes feel a bit incoherent, and that didn’t work for me 100% of the time.

@@ -75,7 +75,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   David Bowie took a pretty radical change in style when he released *Hunky Dory*. Coming from *The Man Who Sold the World*, released the previous year, which leaned into hard rock and metal and made for a raucous affair, *Hunky Dory* found the polar opposite style and ran with it.

@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The Stone Roses’ debut certainly makes me nostalgic for a time I never frequented. Between the prominence in the Madchester movement and the clear influences from music of the two decades that preceded the band, *The Stone Roses* produces a chilled, clean sound with vocal lines that have aged well.

@@ -67,7 +67,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s no getting past the fact that this was mostly recorded in five days, and it was originally just a jam session. There are some catchy tracks here and new sounds are introduced. The arpeggiated synth scattered through “Ice Cream Man” is a point of note, a subtle but interesting addition to the track, keeping things sounding a little different. However, I think this album is hindered by a hurried production and release, and this shows in the length and order of the album. An underwhelming but pleasant listen.

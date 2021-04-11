@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Boards of Canada make brilliant background music, and I say that as a statement of praise rather than disparagement. Ordinarily I’d use the term ‘background music’ to refer to something that vaguely sounds pleasant, remaining inoffensive and enjoyable to listen to for most of its length, but Boards of Canada do something different. They manage to produce music that develops slowly and is happy to sit in the background, while still remaining engaging, innovative and interesting throughout. *Music Has the Right to Children* is an excellent example of this too, and it easily does enough to hold a listeners attention throughout. 

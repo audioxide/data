@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There was little fanfare for the release of Solange Knowles latest release, *A Seat at the Table*, but it’s a great listen. Featuring appearances from Lil Wayne, Sampha, and Kelly Rowland, it looks like a patchy album on paper, but each collaboration has had clear direction from Solange, making for a great mix of the featuring artist’s style and her own. This results in a silky smooth, cohesive album that doesn’t outstay its welcome despite its 50-minute play time. 

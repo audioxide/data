@@ -85,7 +85,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I guess my recurring question when discussing this album is, ‘Why?’. Why are the track titles named in the style of a quirky EDM outfit? Why has someone thrown all the effects in their rack at most of tracks? (I thought I had a dodgy connection for the first couple.) Why have Justin Vernon’s already strong, soulful vocals been drenched in enough autotune to make even Kanye blush? Why don’t I ‘get’ this release like the rest of the Internet does? 

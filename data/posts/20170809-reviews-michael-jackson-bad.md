@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Bad* compiles together some of Michael Jackson’s best known and loved singles. From the opening title track with its slinky bassline, to the quintessential ’80s ballad “Man in the Mirror”, there are some incredible tracks to be found across this tracklist. With that said, you’re not going to mistake this for anything other than an ’80s release. With some pretty clunky MIDI instruments dousing close to every track, and a healthy portion of ’80s cheese thrown in too, you’ll likely contract chronic nostalgia for the decade even if you had no part in it. 

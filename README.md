@@ -105,7 +105,7 @@ otherwise this content will count as a new content section.
 
 ---
 
-author: andrew
+author: andrew-bridge
 
 review: >-
  This is another content section, but it uses YAML syntax to provide further metadata about this

@@ -70,7 +70,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *FM!* has been a grower for me, which is surprising given its accessibility. Whistling by at just 22 minutes, you’ll need a few listens to find more than a patchwork of contemporary hip hop. Littered with a healthy portion of features and collaborators (albeit partly made up of 30-second teasers), the tracklist doesn’t stick to one sound long enough to become tiresome.

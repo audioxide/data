@@ -77,7 +77,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Four years after fan-favourite [*How To Be A Human Being*](/articles/a-late-love-in-for-how-to-be-a-human-being/), Glass Animals return with *Dreamland*. A change in sound, writing, and focus make for a divisive release and I’ve been hoping this isn’t that ‘Difficult Third Album’ for the band.

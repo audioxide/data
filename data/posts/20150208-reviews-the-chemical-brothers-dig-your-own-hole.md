@@ -66,7 +66,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >- 
   I think it had some interesting influences, some nice basslines, and I will be returning to a fair few tracks. It’s not my favourite album of theirs from the ’90s, or in general, though.

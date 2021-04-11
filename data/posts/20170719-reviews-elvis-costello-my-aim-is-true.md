@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m still quite amazed at how well Elvis Costello’s debut album has dodged the ravages of time. Turning 40 this year, *My Aim Is True* still sounds clean and confident, and does well at packing 12 well-defined tracks into a sub-40-minute tracklist. 

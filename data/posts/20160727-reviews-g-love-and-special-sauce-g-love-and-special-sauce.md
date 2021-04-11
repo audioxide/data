@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This my first experience of *G. Love and Special Sauce*, but it’s undoubtedly a fun, summery listen. With each track underpinned by energetic hip-hop beats from drummer Jeffrey Clemens and distinctive vocal and harmonica work from Garrett Dutton, their debut gets off to a roaring start. The production lends itself perfectly to the ‘sunglasses music’ sound, with shimmering guitar stabs, slender double bass slides, and silky smooth vocal delivery aplenty across the album. 

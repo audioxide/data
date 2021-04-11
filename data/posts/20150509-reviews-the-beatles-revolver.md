@@ -66,7 +66,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Revolver* is an album that marks a change in The Beatles’ sound as they entered their ‘psychedelic’ period, but that doesn’t mean that there aren’t some great pop songs on the album. In contrast, “Tomorrow Never Knows” is a clear sign of this change in sound but sounds similarly fantastic. 

@@ -84,7 +84,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Kanye West’s latest release, *The Life of Pablo*, leaves subtly at the door, so it seems fitting to review the album in the same way. *TLoP* is an uneven frankenstein of a tracklist. Genuinely catchy, thought-out tracks sit beside tracks that — I can only hope — are fully invested in Kanye’s own irony and lunacy, which in turn sit beside tracks that feel like draft copies (and based on the rumours, they may well be). 

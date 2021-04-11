@@ -69,7 +69,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I think the fact that I feel almost drained after listening to this album proves that *Dark Side of the Moon* certainly makes me feel something more than an average album, takes me on a journey. There are some stand out tracks, but together, with the range of instruments and the interesting time signatures and melodies sprinkled through it, it really can put you in a dream like trance, which isn’t an easy thing to achieve!

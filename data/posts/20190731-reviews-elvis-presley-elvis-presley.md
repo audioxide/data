@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At twelve tracks deep and shy of half an hour, Elvis’ debut is a whistle-stop tour of material. Sixty-three years on, pacing and track order feels off and, without a single writing credit for Presley it would be easy to call this a cover album in disguise.

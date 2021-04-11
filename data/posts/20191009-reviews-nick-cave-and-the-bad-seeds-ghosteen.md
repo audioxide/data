@@ -80,7 +80,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   You can trust Nick Cave and his Bad Seeds to create brooding, atmospheric, suspenseful music. If you’re big on that style and its vocal pairing of shimmering, billowing epics, *Ghosteen* has a lot to like.

@@ -71,7 +71,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   SOPHIE’s debut album is a testament to her skilled production and experimentation with electronic, dance, and pop music. Fans of the twisted, distorted, sub-drenched instrumentals from her 2015 compilation *PRODUCT* and from the lead singles to this release won’t be disappointed, with the likes of “Not Okay” and “Pretending” adding to the showcase alongside the nine-minute-epic that closes the album. 

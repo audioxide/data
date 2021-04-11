@@ -72,7 +72,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Weather* suffers a similar fate to other albums that have arrived in 2019. Wispy and delicate, it tends to float by without much consequence, which is a shame given the overall atmosphere Tycho has produced here.

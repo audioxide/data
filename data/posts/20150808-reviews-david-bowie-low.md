@@ -75,7 +75,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   If any album were going to remind the digital music listener that one used to be required to switch sides in the middle of the album, *Low* would probably be a pretty good contender. The first side is an expected, well formed (if slightly hurried) '70s pop album and the second is made up of four widely contrasting soundscapes. 

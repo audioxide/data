@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve always had a soft spot for First Aid Kit. Having proven themselves to be an impressive force on stage over the last decade, I have a lot of time for new material from the Swedish folk duo. Certainly, the first third of *Ruins* delivers, with a striking opener that brings with it beautiful harmonies and a busy instrumental, followed by a further couple of tracks which are very much in the duo’s wheelhouse, but still feel distinctive and have somewhat of a punch to them. 

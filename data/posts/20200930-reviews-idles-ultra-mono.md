@@ -81,7 +81,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   IDLES have been teasing their latest album over the summer, drip-feeding fans with the likes of “Mr. Motivator” and “Grounds” starting in May. Now *Ultra Mono* has dropped, and it’s proven to be stiff competition for 2018’s critically acclaimed *Joy as an Act of Resistance*.

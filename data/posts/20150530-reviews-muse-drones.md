@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Muse’s latest release poses a dilemma when trying to concisely review it. The first third sounds like the standard of Muse album that we’ve heard from the last releases, and that I’ve largely not taken much notice of; the second third makes me forget all my cynicism as I enjoy some of the best output from the band in a long time, and then I’m brought back down to earth in despair and confusion as the final third takes over; incoherency, faux neoclassicism and all. 

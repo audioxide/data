@@ -71,7 +71,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   James Blake’s latest, surprise album has been a tricky one to review for me. My first listen was extremely satisfying, and I stand by those initial thoughts, but there are a few niggling issues that, on reflection, I simply can’t shake off. *The Colour in Anything* is a lengthy album. At double the length of both his previous LPs, it was always in danger of not being decisive enough about what should make the final cut. 

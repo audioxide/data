@@ -77,7 +77,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s a lot to think about for a review of *Garden of Delete*. The whole album is a manic blast of sound, at least on its first listen. Twisting and turning and purposely blindsiding its listener, *Garden of Delete* doesn’t stop evolving, and without following any kind of structure it can very easily feel like a stream of consciousness immortalised in music. This alone provides a lot of reason to return over and over — a single listen simply won’t be enough to take it all in. 

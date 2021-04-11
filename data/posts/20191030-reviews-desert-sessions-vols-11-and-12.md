@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Desert Sessions have always been, by nature, a bit of a mishmash of styles and ideas — contributions and collaborations from a long list of excellent artists that Josh Homme has corralled into the mix. Maybe it was this knowledge entering these latest volumes that had me ready for a pick’n’mix of rock music which, ultimately, has made for one of my most enjoyable releases of the year.

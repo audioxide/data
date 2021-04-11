@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It took me some time to get on board with Solange’s previous album, and I was fully expecting to warm to this latest release in the same way. Unfortunately, I’ve remained indifferent to the majority of *When I Get Home*. Amid suggestions that there are hidden away secrets and deeper meaning within this album, and that it’s the listener’s responsibility to dive deeper, I find myself struggling not to float away, let alone dive in.

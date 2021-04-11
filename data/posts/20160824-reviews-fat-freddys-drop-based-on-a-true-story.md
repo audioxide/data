@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Fat Freddy’s Drop have completely passed me by up until now, but listening to their debut release, *Based on a True Story*, has been a great entry point. Introducing themselves with tracks soaked in dub and reggae influences, the album sets a clear vibe for the listener. It produces a vast, sparse soundscape in the opening minutes of “Ernie” with a mix of jazz and reggae instrumentation and hollow, reverberating vocals, only to draw the listener into a busier, richer sound that continues on through the album. 

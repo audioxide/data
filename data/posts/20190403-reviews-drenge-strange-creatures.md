@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Strange Creatures* certainly has a bite to it that we haven’t seen in other releases this year. From the opening crunchy stabs, it’s an attention grabber. But it’s still an album that tends towards hidden highlights over continuous belters.

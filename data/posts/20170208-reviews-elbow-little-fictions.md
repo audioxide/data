@@ -69,7 +69,7 @@ score:
   max: 10
   fraction: 0.5
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was my first experience of an Elbow album and I desperately wanted to love it. Between Guy Garvey’s distinctive vocals and the anthemic, diverse instrumentation across their previous output, and the latest single, “Magnificent (She Says)”, *Little Fictions* had the makings of a big, lush album to start the year. Unfortunately, I can’t fawn over it to that extent. *Little Fictions* isn’t bad by any stretch, but it suffers from a mixture of tracks that don’t pack the punch to leave a lasting impression. 

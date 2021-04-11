@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Darkness on the Edge of Town* is a victim of its own success in some respects. At face value, 40 years on, it’s easy to complain of cheesiness, to draw comparisons and point out where the album has failed to a modern listener’s ear. But look again and it becomes clear that this album made a such a change in terms of production that everyone took notes and ran off to do the same. 

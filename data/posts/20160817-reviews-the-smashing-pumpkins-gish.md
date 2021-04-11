@@ -83,7 +83,7 @@ score:
   max: 10
   fraction: 0.7
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The Smashing Pumpkins managed to find a good combination of sounds for their debut release. Calling back to the ’80s rock that had come before it and forging a style that sat on the precipice of grunge as its popularity skyrocketed, *Gish* is crafted from a mixture of noisey, chugging rock, impressive guitar work, and entrancing, drone-like intervals. 

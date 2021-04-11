@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Foals have developed their sound in the decade since their debut, and they’ve done so by building on the foundations that were laid down by [*Antidotes*](/reviews/foals-antidotes/). *Everything Not Saved Will Be Lost – Part 1* has been widely received as a return to form for the band, and there’s certainly a lot to like.

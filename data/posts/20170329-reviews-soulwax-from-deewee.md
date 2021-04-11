@@ -70,7 +70,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There were many moments on *FROM DEEWEE* that piqued my interest. Unfortunately, each moment was combined with a hope that a turning point in the album was about to reveal itself, which was often followed by disappointment when it didn’t arrive.

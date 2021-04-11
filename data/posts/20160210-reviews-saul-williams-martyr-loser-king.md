@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   Saul Williams’ latest album has had a relatively quiet release, but it may make for one of 2016’s hidden gems. *MartyrLoserKing* has a distinctive, explorative, industrial sound that melds analogue and digital effortlessly, rapidly evolving in instrumentation and atmosphere, with Williams’ vocals sitting firmly in the middle of it all. 
   

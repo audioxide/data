@@ -72,7 +72,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *On The Beach* provides for a relaxing, positive listen at a cursory glance. Natural production and a variety of folk and rock instrumentation make for an album that rises and falls at a great pace. The tracklist is well structured, the lyrics catch your attention; a good album on paper. 

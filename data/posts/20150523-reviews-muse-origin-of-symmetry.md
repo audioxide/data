@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Putting aside sentimentality, *Origin of Symmetry* is still an impressive album. Its drama, driving guitar riffs, and falsetto vocals all set the album apart from its contemporaries. Piano and synths line the whole album, but animal bones and organs make major appearances too, providing an eeriness to the final third. 

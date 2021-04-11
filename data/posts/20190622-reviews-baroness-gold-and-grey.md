@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The latest album from Baroness is bold and ambitious. Starting out the gates with strong, surging riffs and vocals that echo out across the top of each track endlessly, it’s impossible not to feel a sense of grand drama.

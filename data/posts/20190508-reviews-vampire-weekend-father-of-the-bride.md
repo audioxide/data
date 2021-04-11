@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With six years and a lineup change between Vampire Weekend’s previous album and their present new release, it’s unsurprising that *Father of the Bride* makes for a change of pace coming from their prior material.

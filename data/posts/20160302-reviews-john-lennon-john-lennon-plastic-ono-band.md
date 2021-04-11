@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I can only imagine the hubub John Lennon’s first solo record caused on its initial release, with high critical praise all around. The most obvious characteristic of the album is the familiar reverb, similar to [The Beatles](/reviews/the-beatles-revolver) but dialed up a notch, with vocal delivery and general quirkiness following suit. 

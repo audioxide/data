@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Bad Witch* feels like ‘tour de NIN’ in some respects. Opening with a crunch, “Shit Mirror” and “Ahead of Ourselves” are both full of noisy guitar work and vocals with a kick behind. It’s enough to enjoy while remaining a massive tease from the band as the remainder of the album changes tact entirely, taking its lead from more recent Nine Inch Nails releases. 

@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m not sure why I’ve been so surprised during my time with *Let It Bleed*. Aside from our track record of enjoying contemporary work from the turn of the decade, The Stones are up there with the best of them in terms of influence and longevity in modern music. Nevertheless, *Let It Bleed* has made for an incredibly enjoyable week of listening. Sounding of its time rather than showing its age, the mixing pot of influences here makes for a wonderful, characterful tracklist that has aged beautifully.

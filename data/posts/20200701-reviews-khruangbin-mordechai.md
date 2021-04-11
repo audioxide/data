@@ -84,7 +84,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Khurangbin released Mordechai in what should have been the midsts of festival season, and its entire tracklist is soaked in the ‘festival vibe.’ The hazy, summery, soul/psych sound evokes the nostalgia of watching live music in the open air and the ethereal reverb lathered on the vocals only serves to solidify those memories.

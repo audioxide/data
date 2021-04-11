@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With each listen of _Is 4 Lovers_, I’m puzzled as to why we’ve been so hard on it. “Modern Guy” is a stonking opener, a powerful riff matched with a scrappy, distorted, electronic aesthetic. The fierce cowbell is the icing on the cake. “One + One” is similarly satisfying, with its agitated hi-hat, a driving beat, and a half-time bridge reminiscent of [The Strokes](/reviews/the-strokes-first-impressions-of-earth/). “Free Animal” follows it, the bassline is sharp-edged, the wall of sound that hits the listener is satisfying, the noise is still pretty alluring.

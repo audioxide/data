@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve had a good time with *Tell Me How You Really Feel*. Where Courtney Barnett’s debut thoroughly enjoyed a raw energy, rough edges and all, this follow up feels more mature, with a touch more polish, all without losing any of the character I had previously enjoyed. 

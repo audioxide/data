@@ -75,7 +75,7 @@ score:
   max: 10
   fraction: 0.9
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At a quarter-century old, you could forgive an album for sounding a little tired to the modern listener, but *Midnight Marauders* needs no such apology. From the quirk of the latin-jazz interludes to the hooky instrumentals to the lyrical interplay between the four members of A Tribe Called Quest, *Midnight Marauders* remains fresh and engaging.

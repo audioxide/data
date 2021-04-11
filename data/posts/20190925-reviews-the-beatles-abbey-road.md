@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Of The Beatles’ discography, *Abbey Road* is one of the releases I’ve neglected. Released towards the end of their time as a band, with some of the material here being recorded even after *Let It Be*, it often gets overshadowed by what had come before. It’s not climbed the ranks to be my favourite this week, but it certainly shouldn’t be overlooked.

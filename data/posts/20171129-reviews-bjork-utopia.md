@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m so conflicted at the end of a week with *Utopia*. So many beautiful moments that have made for some of the best listening of the year can be found on Björk’s latest album. But for every minute I’ve enjoyed, I feel as though *Utopia* has taken another without much impact. Albums of this length begin to make me question whether the artist was simply indecisive about what should have made the cut, [even for artists I’d normally defend to the hilt](/reviews/james-blake-the-colour-in-anything/). 

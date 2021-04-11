@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Run the Jewels return with their fourth outing at a time where their continued push for societal change and the injustices it fosters could not be more relevant. *RTJ4* delivers a sharp poignancy in everything it has to offer.

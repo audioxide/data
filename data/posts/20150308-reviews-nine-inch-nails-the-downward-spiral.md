@@ -73,7 +73,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s so much emotion in this album, the themes are pretty dark to begin with and powerful instrumentation and the intricate composition really produces, at least from me, a huge amount of empathy. While I always rush over lyrics, some of the lyrics in the album are intense, veiled, and simply striking. It’s been a slow burner though, it’s certainly not a ‘happy’ album, but one that I’ve really grown to love.

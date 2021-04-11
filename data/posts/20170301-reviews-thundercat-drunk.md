@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m left frustrated by *Drunk*. It’s a grower of an album for sure, as my first listen certainly didn’t grab me, but additional plays have given me a chance to find a lot to like. Some of the flourishes and ideas in the mix on this album are superb. The *Sonic The Hedgehog* sample in “Show You The Way”, for instance, makes me smile on every listen. A lot of the musical ideas are engaging, fresh and sound just right. If you’ve listened to Thundercat before, the same aesthetic has returned, and the mix of jazz, soul, and R&B still piques my curiosity. 

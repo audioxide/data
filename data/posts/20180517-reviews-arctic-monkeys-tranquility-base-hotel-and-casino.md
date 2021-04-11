@@ -81,7 +81,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The Arctic Monkeys have made a considerable departure from their previous material in *Tranquility Base Hotel & Casino*, and my first few listens were honestly spent finding a lot to dislike. I couldn’t get over the one-speed, seemingly style over substance nature of the whole thing. Then I found myself reminded of some of my favourite vocalists as I listened to some of Alex Turner’s soft croons. I found moments of [later era Bowie](/reviews/david-bowie-blackstar/) in the title track and even some [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/)-esque points dotted around in the likes of “American Sports”. 

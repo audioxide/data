@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   As a newcomer to *Hello Nasty*, my time with it has been a welcome surprise. The variety on show right out the gate makes for a captivating, mile-a-minute opening to the album. While Beastie Boys are likely best known for their hip-hop prowess, it’s the instrumentals that bring me back time and again. Unsurprisingly, it’s the best-known tracks that fall into my favourites. “Body Movin'” has such an infectious instrumental, a simple hook, and sampling that really hits the spot. “Intergalactic” follows it with a slightly punchier, though no less entertaining, four minutes.

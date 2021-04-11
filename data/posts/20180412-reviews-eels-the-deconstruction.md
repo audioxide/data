@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I don’t think I have a bad word to say for any of the content on *The Deconstruction*. In fact, there’s a lot to like here, with the title track opening proceedings in great fashion, sitting well alongside the likes of “Bone Dry” and “You Are The Shining Light”, which bring a driving energy that you’ll likely know well if you’ve listened to previous Eels material. Similarly, you’ll find the sweet, delicate moments that long-time fans have been accustomed to in “Sweet Scorched Earth” and “The Epiphany”. It’s all very familiar, cosy, and comfortable, and while that’s not detrimental in itself, it can, at times, feel a little too close to ‘more of the same’.

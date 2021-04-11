@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Spending the week with *Richard D. James Album* has been a pleasure. While you could be forgiven for immediately conjuring thoughts of a spiky barrage of beats when talking about Aphex Twin, this particular release has a brilliant balance. “Peek 82454201” does well to push that opinion to its limits, as it does have several moments where drum patterns twang and stutter around into white noise territory, but the pads, cold and hollow as they are, complement the beats incredibly well. 

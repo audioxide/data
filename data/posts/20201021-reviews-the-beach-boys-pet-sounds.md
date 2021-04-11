@@ -81,7 +81,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   While I often have a touch of lyrical deafness, *Pet Sounds* gives me a real flare-up and, at the risk of sounding like a crotchety senior citizen, I think that might be because there are a lot of sweet-nothings and good feeling and not a lot more.

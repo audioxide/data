@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Unsurprisingly at this stage in his career, Thom Yorke is not looking to cater to new fans. *ANIMA* is everything you’d expect from a Thom Yorke album. Agitated beats tick along with evolving, cavernous pads waxing and waning track to track. Meanwhile, Yorke’s vocals take centre stage, often mournful, always comfortable in their setting.

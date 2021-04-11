@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been great to see a return from Justice on their latest release, *Woman*. As a big fan of the cinematic, grungey crunch of their debut album *Cross*, and the lighter, more playful disco jaunt *Audio, Video, Disco.*, that followed it, my expectations were high. I can’t say I’m immensely disappointed either. 

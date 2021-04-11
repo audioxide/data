@@ -79,7 +79,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There are all the hallmarks of a Spiritualized album in *And Nothing Hurt*. Jason Pierce’s comforting vocals are accompanied by a plethora of other-worldly leads and pads, alongside horns and strings, which contribute to warm lush instrumentals. You’ll find tracks that break down into satisfying jams and dreamy moments of piano which fall between each beat. But as much as I’ve tried to love *And Nothing Hurt*, I can’t help but feel like I’ve been here before.

@@ -75,7 +75,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m always suspicious of albums that extend to this length. Often a sign of indecision, it usually makes for a mediocre album that could’ve been tightened to be a far superior album. For *Fear Inoculum*, however, I’m less sure this is the case.

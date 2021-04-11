@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Ambient 1: Music for Airports* was written as a sound installation to calm the anxious atmosphere of an airport terminal, and that makes critiquing it an interesting task. Closer to an art piece than a music release, it invokes thought rather than evoking an emotion of its own, and while that might normally be a negative, that is its purpose. Each piece finds its own way to glide along, painting a backdrop for the listener to fill. 

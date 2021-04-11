@@ -67,7 +67,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Really my first proper introduction to Pixies and I really enjoyed it. If nothing else there are some amazingly catchy guitar riffs.

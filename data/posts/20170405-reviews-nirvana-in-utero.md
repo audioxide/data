@@ -75,7 +75,7 @@ score:
   max: 10
   fraction: 0.8
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s not the golden child of Nirvana’s discography, but *In Utero* holds its own. By trying to do something different, rather than more of the same after the surprise success of *Nevermind*, Nirvana created a raucous, abrasive 40 minutes that takes the listener from sublime noise to audible insanity. 

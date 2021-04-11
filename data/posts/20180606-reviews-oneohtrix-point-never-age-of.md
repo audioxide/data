@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It seems all three of us have come at *Age Of* from different starting points and all arrived at roughly the same conclusion. For me, Oneohtrix Point Never’s [previous release](/reviews/oneohtrix-point-never-garden-of-delete/) was rather too rich for my blood, often building a mania of pretty ominous layers of sound then dropping everything and doing something totally different. It honestly made for a frustrating listen where I just wanted a little more exploration of each idea. 

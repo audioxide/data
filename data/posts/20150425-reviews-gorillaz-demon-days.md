@@ -70,7 +70,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having never listened to this album as a full album, I realised just how many tracks I bought individually and loved. It’s a real testament to how varied and strong the album is. The instrumentation and the subtle but interesting beats throughout give each track depth without detracting from the accessibility of the album as a whole. 

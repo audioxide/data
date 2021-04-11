@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s a weight to *Things Fall Apart* that is well disguised by the smooth flow, slick production and attention-drawing hooks. While it’d be easy to let this album pass by, a closer listen will show its real depths.

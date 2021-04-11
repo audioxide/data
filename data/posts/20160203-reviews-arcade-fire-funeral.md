@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Twelve years on, Arcade Fire’s debut album still sounds fresh and exciting to me. The instrumentation across the album expands outwards from a standard rock band set up at its core, adding synths, organs, percussion of many varieties, a whole string section, recorders and more into the mix. It makes for a rich, distinctive, and positive sound for the whole album, which could easily mask its less positive lyrical content, providing powerful imagery to convey despair and mourning, realising the inevitability of time passing and maturing through making mistakes — to note a few interesting lyrical moments. 

@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Laura Marling’s return is certainly welcome. As an avid listener of her early releases and a slightly more removed fan of her later work, having her latest release, *Semper Femina*, on repeat hasn’t been a chore. ‘On repeat’ is far from an exaggeration too, as I reach the end of the album and can’t help but pick out favourites only to find myself relistening to the entire tracklist again. At 43 minutes long, there’s room for each of the nine tracks to either develop and breathe, or drone and drag. Luckily, nothing here has even a hint of the latter, creating a distinct, memorable atmosphere with intricate instrumentation ranging from moody bass slides to shimmering American soul. 

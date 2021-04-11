@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Sample heavy albums usually appeal to me through their sheer creativity in flipping a passage of music on its head. The likes of The Avalanches and The Beastie Boys have piqued my interest during our reviews for similar reasons. Where *Psyence Fiction*, with DJ Shadow in tow, makes a stark difference is in the moods that result. Far from the cartoonesque quirk of [*Wildflower*](<reviews/the-avalanches-wildflower/>), or the bombast of [*Hello Nasty*](<reviews/beastie-boys-hello-nasty/>), *Psyence Fiction* gives us “Bloodstain”. Its eerie, sullen guitar line creates a far more distinctive atmosphere that builds through its six-minute play time to wailing guitars that echo out across the stereo field. 

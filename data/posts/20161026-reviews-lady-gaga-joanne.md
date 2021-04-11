@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Pop music often gets chastised, often by me, for how similar and bland it is. With Lady Gaga’s latest release, *Joanne*, I’m able to make those complaints while still yearning for more focus. Gaga has [commented on a long term love for country musicians](http://www.rollingstone.com/country/news/lady-gaga-talks-garth-brooks-fandom-country-influences-w445181) and *Joanne* certainly has strong country influences in patches, but each attempt through the tracklist feels fleeting and is often tinged by a need to wedge in the ‘dance track’ preset. This point is demonstrated particularly well in the first 10 minutes of the album, beginning with a more familiar sound and ending with an acoustic, echoing, country ode to Gaga’s late aunt Joanne in the eponymous track. 

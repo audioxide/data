@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I think I need new ears. My current pair seem to miss most of what Lana Del Rey’s latest release has to offer. _Chemtrails Over The Country Club_ tries to be stripped back, but most of the tracklist comes off as muted, smudging the more colourful character of tracks on _Norman Fucking Rockwell!_ into a wispy cloud.

@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Purple Rain* is arguably the best known album Prince released and it certainly adds to a brilliant legacy. From start to finish, the album doesn’t let the listener’s attention waiver, with something different and memorable in each track. With a mix of less than subtle synths, and Prince’s vocals crying out over each track, this album is unmistakably 80s, but it’s aged well and doesn’t distract the listener from the music. 

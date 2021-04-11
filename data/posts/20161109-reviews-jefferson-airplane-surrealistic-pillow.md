@@ -82,7 +82,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s hard not to be at all aware of Jefferson Airplane, but after listening to their second release, *Surrealistic Pillow*, I think I’ve found a new discography that I need to delve into. With a tracklist that explores a lot of different styles synonymous with the ’60s, and over half the tracks individually leaving their own legacy in pop culture even today, you’d be forgiven for mistaking this release as a best of or compilation album. Instead, *Surrealistic Pillow* is an album from a band at the top of their game. 

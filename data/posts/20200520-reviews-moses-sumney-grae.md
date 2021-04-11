@@ -84,7 +84,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Coming off the back of his critically acclaimed debut, Moses Sumney could've given us more of the same and moved along. Instead, *græ* is far grander in scale and scope than Aromanticism and the pay off is worthwhile.

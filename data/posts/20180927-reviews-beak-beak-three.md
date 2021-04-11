@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Returning after six years and with a change in line up, Beak>’s third studio album has all the hallmarks of their previous work, but *\>>>* feels more exploratory. The band’s mix of sharp guitar tones and wailing synths makes for an ominous, other-worldly quality which can be heard right from the opening moments of the album. The opener, “The Brazilian”, develops whirring pads into a lumbering groove which feels a touch looser than their previous material has been.

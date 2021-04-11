@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This could’ve easily been a lightweight, offensive, puff of smoke that dissipated without effect into 2017. Tyler, The Creator’s output has varied in quality since the release of his mixtape, *Bastard*, at the turn of the decade. While the shock factor and raw production of early releases gave me reason to return to them, there was little progression between albums. *Flower Boy*, however, is a brilliant, pleasant surprise for the year. Toning down the goof a touch and improving significantly on the production values, it’s made for an album that I can’t help but return to. 

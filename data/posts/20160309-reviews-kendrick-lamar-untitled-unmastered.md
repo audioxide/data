@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Here’s my disclaimer before we go any further: if this release had been abysmal, I would’ve been very kind to it. B-side releases are typically hit and miss after all; it’s usually obvious why the tracks had been discarded in the first place. The good news? I don’t need be sympathetic, I don’t need to skirt around ugly truths, I don’t need to polish a turd. The sweepings from [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/)‘s cutting room floor include some treasures, all threaded together in a surprisingly consistent package. 

@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ll be honest: I came to Haim’s latest release with needless and unwarranted snobbery. Having been introduced to the band through Radio 1 daytime, my assumption was that I was in for a dull listen. But with strong flavours of Fleetwood Mac and definite tinges of Prince thrown into the mix, *Something to Tell You* is an album of inoffensive and enjoyable pop music.

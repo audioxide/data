@@ -84,7 +84,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve struggled to come to a conclusion on *Dirty Computer*. While pop music can often remain lightweight and largely effectless, Janelle Monáe has managed to thread the needle of pop with some depth. The lead singles, “I Like That” and “Make Me Feel”, still remain some of my favourite moments on this album, but there’s a good amount of variety to be found elsewhere too. And while “Make Me Feel” leaves me pining for [Prince](/reviews/prince-purple-rain/)’s “Kiss” more often than not, it is still a great pop track in its own right. There’s a lot of heavy Prince-isms to be found throughout the tracklist too and in most cases it benefits from the comparison, adding enough originality to not be derivative.

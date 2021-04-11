@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *First Impressions of Earth* got a lukewarm response on its release, and one could be forgiven for this having been spoilt by the band’s critically acclaimed debut and follow up albums, the latter of which was mainly criticised for being too similar to the former. The Strokes had a lot to live up to with their third album, being both different while still worthy of taglines as hyperbolic as ‘the stuff of which legends are made.’ 

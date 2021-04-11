@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Mountain Moves* does anything but rest on its laurels. Clocking in at just under 40 minutes, this 15-track album flies along and doesn’t stop throwing new ideas into the mix. Tinges of hip-hop, orchestral opera, and jazz sax are just some of the unexpected, all executed with success, aplomb and cohesion. “Your Dystopic Creation Doesn’t Fear You” is a particular favourite, encompassing many of the best things about the album. With a spoken verse, contrasted totally by a relatively meagre chorus and an infectious hook, the song covers a considerable amount of ground, and does so effortlessly. 

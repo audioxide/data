@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Bat For Lashes returns after three years, and in *Lost Girls* it sounds like Natasha Kahn had real fun during its recording.

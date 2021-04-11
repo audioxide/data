@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I have a lot of time for *Moon Safari*. While nostalgia no doubt plays a part, Air’s debut still sounds smooth as butter. It glides along throughout its 43-minute playtime, full of bass lines that hit the spot and hooks that’ll stay with you long after you’ve finished listening. 

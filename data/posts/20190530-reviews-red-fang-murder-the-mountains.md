@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Red Fang’s 2011 release, *Murder the Mountains*, makes for a patchy listen for me. While this isn’t a flavour of metal I click with, there are some awesome moments from the crunchy, sludgy guitars and some stonking tracks overall.

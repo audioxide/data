@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Jon Hopkins hasn’t thrown any surprises into the mix with *Singularity*, instead opting for a meticulously produced journey through the night. For some, that might come as a disappointment, as ‘more of the same’ is often far less exciting than a curveball. But for me, this new release hits the mark. 

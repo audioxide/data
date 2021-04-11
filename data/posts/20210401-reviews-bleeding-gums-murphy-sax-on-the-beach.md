@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   As the first and only release from Bleeding Gums Murphy, _Sax on the Beach_ is the lasting legacy for a forgotten master of jazz. Bitterly blue, it’s said that this was the music that stopped Louis Armstrong singing “What a Wonderful World” for an entire year! It’s not hard to see why when you dig into this tracklist.

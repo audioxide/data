@@ -92,7 +92,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The lead singles for _For the first time_ had me fooled. Heading into this debut, I was expecting something akin to [San Fermin](/reviews/san-fermin-jackrabbit/) with a touch more bite. Moody guitar with horns to add some spice. I was in for a surprise.

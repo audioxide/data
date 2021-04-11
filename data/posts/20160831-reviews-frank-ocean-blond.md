@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Frank Ocean’s latest release has seen a lot of anticipation and hype over the last few weeks, with fuel added to the fire as its release date was continuously pushed back. Despite this, it seems as though Ocean has been working on a relatively low-key affair for the past few years. *Blonde* has reminded me of the work of [Bon Iver](/reviews/bon-iver-22-a-million/) and [James Blake](/reviews/james-blake-the-colour-in-anything/) more than a couple of times during my time with it. 

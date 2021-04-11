@@ -79,7 +79,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   _When You See Yourself_ sits in a no man’s land of ineffectual indie rock. While there’s nothing egregious here, there’s nothing exceptional either. In fact, far from egregious, there’s some well-performed, well-produced music in this tracklist, but it’s all for nought if it doesn’t grab its listener.

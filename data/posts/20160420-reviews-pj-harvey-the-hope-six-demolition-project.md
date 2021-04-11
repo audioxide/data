@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Hope Six Demolition Project* has rough, bluesy, improvised aesthetic which, on paper, ought to be an interesting return for PJ Harvey. In practice however, it doesn’t play out as hoped. Some great hooks and intriguing instrumentation make for some gems, with “A Line in the Sand” piquing curiosity with it’s twinkling guitar and strong sax lines which are only further demonstrated as “The Ministry Of Social Affairs” erupts during the latter half. 

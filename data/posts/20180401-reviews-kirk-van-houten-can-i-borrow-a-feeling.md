@@ -73,7 +73,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Can I Borrow A Feeling?* is probably our most divisive album review yet. Charlatans mock Kirk Van Houten for his brave insight on life, but it’s clear that this debut sits among the highest echelons of contemporary music. 

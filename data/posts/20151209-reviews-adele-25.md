@@ -70,7 +70,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It would be remiss of us not to at least take note of the UK’s newest fastest selling album, despite it looking a little out of place beside our previous reviews. It’s taken as a given at this point that Adele’s voice is impressive, but *25* doesn’t do anything to add or detract from this, providing little challenge nor any vocal line so bland to take note of. 

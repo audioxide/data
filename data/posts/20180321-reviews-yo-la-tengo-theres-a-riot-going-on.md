@@ -72,7 +72,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I don’t take any pleasure in lambasting Yo La Tengo’s latest release. Listening through *There’s a Riot Going On*, you’re met with warm, often calming instrumentals which are easy on the ear but don’t feature a lot of progression. It does well at setting an atmosphere and works best as background music, but the fact that the record does little more than that exposes its flaws. 

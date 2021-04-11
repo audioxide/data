@@ -70,7 +70,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having been championed by the likes of Mary Anne Hobbs and Giles Peterson, and winning fans with his eponymous debut release, James Blake’s follow up album, *Overgrown*, had a lot of anticipation surrounding it. The two years between albums shows in the production of the whole album. Instrumentation and electronic effects all meld together to make a polished, technically excellent album. With a stormy, moody, ethereal opening, Blake brings a lot of what previous listeners loved and adds to it, with drone-like organs, pads and sub bass creating atmosphere, which opens up to slow, rolling beats. 

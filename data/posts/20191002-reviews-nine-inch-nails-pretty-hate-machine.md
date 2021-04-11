@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Pretty Hate Machine* was my starting point for Nine Inch Nails, and it makes for quite an entrance. Between the thoroughly ’80s instrumentation, tracks that ooze angst, and a Reznor rap within its first ten minutes, it’s memorable if nothing else.

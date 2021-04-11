@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Despite its notoriety and acclaim, I’ve only been listening to *Channel Orange* for a similar amount of time as [*Blonde*](<reviews/frank-ocean-blond/>), and it’s been an interesting comparison. *Channel Orange* is rife with catchy hooks and a huge variety of sounds and atmospheres, memorable lines and nostalgia-inducing interludes. Unlike *Blonde*, beats and percussive rhythm are commonplace but by no means similar or boring, taking influence from electronic and dance, soul and jazz, and hip hop itself. 

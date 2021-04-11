@@ -73,7 +73,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve always had a soft spot for M.I.A’s mix of variety, opinion, and experimentation, and it’s continued with more recent releases despite the slightly dulled edge they’ve suffered. Unfortunately, *AIM*, M.I.A’s self-proclaimed ‘final album,’ feels all the more unfurled. With lead single and opener, “Borders”, leaving me cold next to previous big singles like “Bad Girls” and “Paper Planes” despite the collection of catchy elements throughout, and “Go Off” which follows, largely feeling like a single idea from collaborator Sonny Moore (a.k.a Skrillex) stretched over three minutes, *AIM* doesn’t provide an impressive opening. There are good ideas to be had though, “Bird Song” is more interesting, with a quirky sample making for a catchy hook and chopped up vocals from M.I.A reminiscent of her earlier output. Unfortunately, the album fluctuates and fragments in style and quality, with many tracks feeling part-formed, kept in maybe to provide a specific moment or reference in the album, but never expanded upon.

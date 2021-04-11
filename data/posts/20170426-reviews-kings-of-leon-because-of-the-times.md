@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Because of the Times* is an album filled with nostalgia, even for the first time listener. From the first twelve minutes, you’ll hear sounds that defined key areas of music in the 2000s: “Knocked Up”, a folky, busy track not dissimilar to an [Arcade Fire](/reviews/arcadae-fire-funeral/) single, runs for seven minutes without becoming tired; “Charmer” feels like the rougher side of rock that sat on the periphery at the time; “On Call” features airy synths and a lethargic rhythm section that could apply to any number of pop rock singles released in the decade. It’s these diversions and changes across the album that keep *Because of the Times* fresh, making for an incredibly listenable album. 

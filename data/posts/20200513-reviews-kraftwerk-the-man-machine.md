@@ -83,7 +83,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Man-Machine* has remained iconic in the forty years since its release. It and the band's influence on electronica can't be understated, but does it still hold up as a standalone album today?

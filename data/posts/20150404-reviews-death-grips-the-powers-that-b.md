@@ -68,7 +68,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >- 
   The two discs don’t bear much relation to each other, that’s my main gripe here. However, as with a lot of Death Grips’ output, a lot of it seems like it shouldn’t work. It’s just such a huge, crazy wall of sound, and that certainly makes for an exhausting listen, and yet it works well despite it all. There’s a lot more instrumentational exploration here too, which I certainly welcome, though I think I very slightly prefer the latter disc. Such a huge album means I will definitely be returning to this, and some of the catchier tracks will be getting more listens in the coming weeks! As an added, completely irrelevant bonus: some of those track names are brilliant!

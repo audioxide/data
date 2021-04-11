@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Queens of the Stone Age have always set the bar high with their albums, so *…Like Clockwork* had a lot to live up to. One could be forgiven for showing some brief concern at the album’s opener, “Keep Your Eyes Peeled”, which isn’t bad in any sense of the word, but takes its time to pack any punch, opting instead for a moody growl from the bass. Any concern is short lived however, with “I Sat by the Ocean” driving energy into the rest of the album. With a good variety of atmosphere from the likes of “The Vampyre of Time and Memory” and grit from tracks such as “My God is the Sun”, the album continues to surprise and grabs a firm hold on the listeners interest throughout. 

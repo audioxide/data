@@ -85,7 +85,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *OK Computer* has received high critical acclaim since its release, but it isn’t without its critics. Many complain of its pretension, its noisiness, and its lack of memorability, but I find it incredibly hard to relate to these issues, especially the last of the three. 

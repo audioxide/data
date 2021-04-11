@@ -10,7 +10,7 @@ tags:
 featuredimage: article-images/cosmo-sheldrake-portrait.jpg
 featuredimageAlt: Musician Cosmo Sheldrake standing in a forest wearing a boat hat
 title: Cosmo Sheldrake transports listeners to warmer, wilder climes with the birdsong of ‘Wake Up Calls’
-author: andrew
+author: andrew-bridge
 summary: Using recordings from birds (mostly) on the red and amber endangered lists in Britain, Sheldrake layers and manipulates birdsong to produce music as calming as it is beautiful
 blurb: Using recordings from birds (mostly) on endangered lists in Britain, Sheldrake layers and manipulates birdsong to produce music as calming as it is beautiful.
 

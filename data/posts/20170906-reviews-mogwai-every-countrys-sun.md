@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With a number of very solid soundtracks under their belts, Mogwai has forged quite a wide ranging sound for themselves, and the lead singles, and album openers, from *Every Country’s Sun* do a good job of showing that range off. “Coolverine”, an atmospheric, pensive simmer, sits next to “Party in the Dark”, a moody, well-paced alt-rock track with a satisfying, distant vocal line. The variety is prevalent through the entire 57-minute tracklist, with “aka 47” holding the listener in suspense as it builds and swells and twinkles, fizzing to a climax before dissipating, it makes for a visceral listen at times albeit a bit of a slow burn. 

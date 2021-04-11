@@ -69,7 +69,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Exodus* is seen by many as a classic album of the 20th century, from an artist who played a major role in bringing reggae to a worldwide audience. Given that, the album has high praise and expectation to live up to. 

@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Released at the turn of the century, System of a Down’s second album dropped in a period full of metal and guitar music, but the variety of influences in the mix and the moments where the band are playful with their music make an album that still holds up today.

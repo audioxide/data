@@ -75,7 +75,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Tim Hecker stands alongside [Apparat this year](/reviews/apparat-lp5/), as they both release albums full to the brim with rich, organic, swirling and, at times, seemingly directionless music. *Anoyo* is somewhat of a different beast to *LP5* though, and where the latter settled for delicate ambient moments without much weight, Hecker pursues a more ambitious work that tends to be less kind towards his listener.

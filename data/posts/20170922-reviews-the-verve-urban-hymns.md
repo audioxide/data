@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Urban Hymns* doesn’t quite feel like an album of the heady ’90s. It adds a touch of maturity and a dollop of reflection into the rasp of the decade’s earlier rock. Few Britpop albums before it would have been able to open with a track like “Bitter Sweet Symphony” without hobbling the remainder of the tracklist, and while an amazing track, *Urban Hymns*’ opener doesn’t overshadow the likes of “The Drugs Don’t Work”, a multi-faceted, personal, sentimental ballad, or “Catching The Butterfly” which follows it with a dreamy, soft-edged haze. 

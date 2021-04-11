@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It was almost an inevitability that Kendrick Lamar’s latest release was going to disappoint fans in one way or another. Even if it was objectively better than *To Pimp a Butterfly*, following up such an album without issue was always an insurmountable task. Make no mistake though, *DAMN.* is good. I’ve returned to this album obsessively since its release and thoroughly enjoyed my time with it. 

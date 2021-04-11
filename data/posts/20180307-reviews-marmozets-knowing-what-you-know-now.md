@@ -81,7 +81,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I have to admit, I’m choosy when it comes to this area of rock. Many of Marmozets’ contemporaries often come across to me as angsty, whiney, and compressed to the point of losing any grit that could’ve been. With that said though, *Knowing What You Know Now* has made for an enjoyable week of listening and I certainly haven’t struggled with returning for repeat listens. 

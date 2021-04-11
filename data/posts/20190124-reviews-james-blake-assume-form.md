@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At the release of James Blake’s last LP, [*The Colour In Anything*](/reviews/james-blake-the-colour-in-anything/), I was conflicted. While I found a lot to enjoy, the album as a whole sprawled out, unfocused and more unsure of itself as it progressed. *Assume Form* seems to be somewhat of an antidote. At 48 minutes the tracklist feels more concise, and the sound across the album is far more cohesive.

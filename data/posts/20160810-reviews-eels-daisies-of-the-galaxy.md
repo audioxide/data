@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Eels have a knack for creating a music that juxtaposes itself effortlessly. From the regal, carefree opening minutes of “Grace Kelly Blues” to the last, happy-go-lucky seconds of “Mr. E’s Beautiful Blues”, *Daisies Of The Galaxy* brings a lot of desolate emotions behind quirky, upbeat pop tracks through most of its playtime. The exception would be “It’s A Motherfucker”, which sounds closer to a tragic musical piece, and shows its heart far more openly. 

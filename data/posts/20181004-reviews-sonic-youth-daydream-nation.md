@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Daydream Nation* falls into a blind spot of mine. Adored by fans, met with critical acclaim, and influencing its successors, I feel like I must be missing something here. There’s certainly nothing to hate on this tracklist by any means. “Teen Age Riot” is a solid opening to proceedings, bringing with it a memorable chord progression from thickly toned guitars, and “The Sprawl” starts as a brooding canter that simmers into whirling noise in its second half. Later on, “Eric’s Trip” is another driving force that has glimmers of rock from the decade before, and “Candle” takes a total diversion with cleaner, twinkling guitars in tow.

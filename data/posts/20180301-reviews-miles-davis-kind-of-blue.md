@@ -79,7 +79,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It almost feels trite to wax lyrical about the cool atmosphere imparted by *Kind of Blue*. I’m no doubt at the back of an endless queue of people that want to fawn over the relaxed, smooth style across the tracklist as well. But none of that makes it any less true. *Kind of Blue* fills a space with its atmosphere and while it works incredibly well as background music, listen to it intently and one can find a lot of beauty in the detail. 

@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Real Thing* has me perplexed. Equal parts bombastic and cringeworthy and catchy, I’m unsure where to begin. But the inclusion of rock-rap, death metal screams and washes of bluesy organ all on one tracklist might just give you a hint of the cacophony of sound that comes out of this record.

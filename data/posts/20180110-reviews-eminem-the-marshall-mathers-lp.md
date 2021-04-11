@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Marshall Mathers LP* is a weird one. Normally I can shower an album with praise, waxing lyrical about my love for one track or another, enjoying a particular atmosphere of a track and adoring the instrumentation of another. But I don’t love or enjoy a lot of this album and I don’t think that was ever its intention. Instead, I find myself returning to this album to still be enthralled by “Stan”, thoroughly horrified by “Kim” and equally grossed out as I am amused by the “Ken Kaniff” skit. Somehow *MMLP* hasn’t aged a bit, nor does it wear thin at any point in its 70+ minute play time.

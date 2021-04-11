@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At face value, *Hive Mind* is a sound of summer, bringing an idyllic hour of R&B to the table. Although it thrives in creating some great moments of music, it falls down when it comes to memorability and development. Unfortunately, my time with this release has been a downhill journey. From initially enjoying the overall package and trying to glean insight into individual tracks, I grew weary of its hour-long play time and found only a handful of tracks that did something substantial with their initial ideas. 
