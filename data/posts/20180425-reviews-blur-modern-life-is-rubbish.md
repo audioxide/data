@@ -43,7 +43,7 @@ artistLink: https://shop.blur.co.uk/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   My relationship with Blur is complicated, to say the least. While I certainly enjoy a good portion of their Britpop material, they’re far from my favourite band of the era. Oasis had [bigger hits](/reviews/oasis-definitely-maybe/), Pulp had better albums, and Radiohead were taking British rock to [more interesting places](/reviews/radiohead-ok-computer/). Blur have a sound of their own, one that is certainly separate to the bands just mentioned, but I often find that I have to be in a certain mood to indulge the overwhelming Britishness. The fact that my favourite record of theirs, *13*, is the least-Blur-sounding release of the whole lot, speaks volumes. 

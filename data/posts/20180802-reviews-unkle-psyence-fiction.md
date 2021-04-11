@@ -40,7 +40,7 @@ artistLink: https://store.unkle.info/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   ‘Come with us into the realm of imagination’, a cryptic voice broadcasts on “UNKLE (Main Theme Title)”. Indeed, UNKLE’s debut album *Psyence Fiction* is all about concepts, ideas, and creativity. Inspiration derives from DJ Shadow’s favourite records — ranging from old-school hip hop to soul stirring rock — as well as his favourite films and TV series. The fact that DJ Shadow and James Lavelle are able to (mostly) sustain a cohesive direction is an achievement in itself. 

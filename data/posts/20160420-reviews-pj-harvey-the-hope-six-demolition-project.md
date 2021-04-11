@@ -35,7 +35,7 @@ artistLink: https://pjharvey.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In a catalogue filled to the brim with vitality and emotion, 2011’s [*Let England Shake*](/reviews/pj-harvey-let-england-shake/) proved to be one of PJ Harvey’s most powerful works, in spite of her age and mounting maturity. It was crafted expertly and stands as one of the best releases of the decade so far. 

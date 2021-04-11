@@ -41,7 +41,7 @@ artistLink: https://shop.dovesofficial.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s been a while since we’ve heard from Doves. Eleven years to be exact. The biggest compliment I can give The Universal Want is that it feels like the band never went away. Though it feels heart-warmingly familiar, the songwriting and arrangements feel fresh. It has a similar sense of comfort to that of [Coldplay](/reviews/coldplay-parachutes/)’s music, except this is actually good. There have been some brilliant comeback albums recently. There have also been some rather wretched ones. This leans more into the former. Whilst it doesn’t quite reach the height of Doves’ first two records, The Universal Want is a satisfying return that will no doubt please long-time fans. The band certainly haven’t lost their way.

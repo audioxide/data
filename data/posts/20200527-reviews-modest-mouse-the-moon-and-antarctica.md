@@ -44,7 +44,7 @@ artistLink: https://shop.glacialpace.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The definitive indie rock album (for art-school students prematurely experiencing their existential dread) turns 20. No, [not that one](/reviews/grandaddy-the-sophtware-slump/). It’s remarkable how *The Moon & Antarctica* has maintained its sense of isolation for all these years. Imitators come and go, but Modest Mouse’s third studio album still nails that bleak sensation better than most. Yet for an album so comfortable in its cold and desolate atmosphere, The Moon & Antartica is surprisingly eclectic. One moment Modest Mouse channel the [Pixies](/reviews/pixies-doolittle/), and before you know it they’re paying their greatest respects to [Talking Heads](/reviews/talking-heads-remain-in-light/). Such a comprehensive span of styles is generally welcome, and for the most part, *The Moon & Antarctica* retains its drifting sensation throughout.

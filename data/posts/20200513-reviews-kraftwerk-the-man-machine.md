@@ -43,7 +43,7 @@ artistLink: https://www.merchbar.com/dance-electronic-edm/kraftwerk/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   For us electronica enthusiasts, we owe almost everything to Kraftwerk. From Gary Numan to [Aphex Twin](/reviews/aphex-twin-richard-d-james-album/), my love of music made from electronics is largely due to these genius Germans. Going back to one of their most celebrated works, *The Man-Machine*, has been a wholesome experience. Arrangements here, at least in comparison to other Kraftwerk records, are made for easy listening. The rhythms are more danceable, and the song structures are surprisingly accessible. The impact this record had on synth-pop artists is palpable; not just the likes of Depeche Mode, but more modern artists such as Hot Chip. *The Man-Machine* is one of those timeless records. You'd not bat an eye lid if it was the soundtrack to Stranger Things. It's quite simply staggering that this was released in 1978.

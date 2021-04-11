@@ -38,7 +38,7 @@ artistLink: https://kellyleeowens.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   There is an abundance of good producers in the realm of electronic music. There are some good songwriters too. To find an artist capable of excelling in both aspects can prove challenging. Even [Thom Yorke](/reviews/thom-yorke-the-eraser/), often considered one of the best songwriters of modern music, has released electronic records to varying degrees of success. [James Blake](/reviews/james-blake-assume-form/) has found a formula that works for him, though even then some listeners remain skeptical.

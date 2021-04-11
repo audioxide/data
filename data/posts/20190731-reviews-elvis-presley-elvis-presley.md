@@ -37,7 +37,7 @@ artistLink: https://store.graceland.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   I’ve always been intrigued by the rise of Elvis Presley. The landscape of popular music was vastly different back in the 1950s, though the practice of manufacturing an artist is much the same today. Visual media has always been key, but twas even more-so during a time where television was fast becoming a phenomenon. Elvis had the swagger, and it was about getting that exuberant personality out in the eyes of the general public. There was no guarantee that Elvis Presley was to be a success, particularly with very little in the way of precedent. The timing was perfect, and as we all know, he went on to become The King.

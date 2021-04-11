@@ -36,7 +36,7 @@ artistLink: https://store.muse.mu/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In an all too predictable state of affairs, *Drones* is a bit of a mess. Whilst it’s more focused than the bands’ previous effort *The 2nd Law*, it’s just as inconsistent and makes for a frustrating listen. 

@@ -35,7 +35,7 @@ artistLink: https://shop.eminem.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Billboard* editor in chief Timothy White famously accused Eminem of ‘making money by exploiting the World’s misery’. Whatever way you look at it, White was right. On *The Slim Shady LP*, his major label debut, Eminem rapped about [ripping Hilary Clinton’s tonsils out](https://www.youtube.com/watch?v=ubEublECnMU), [potentially raping an unconscious woman](https://www.youtube.com/watch?v=Xbw_BxDwdjk), and [disposing of his wife’s corpse](https://www.youtube.com/watch?v=wFM5UKYorFg). He was inevitably labeled as a misogynist and an advocate of domestic violence and, on the surface, there are obvious grounds for such claims. But to Eminem’s credit, one of his finest traits is blurring the line between what is real and what is fiction; what is horror and what is humour. He thrived on controversy. Certain listeners were appalled by his excessive use of the word ‘faggot’, and Eminem’s responded by using the term even more. Slim Shady was an outlet for Marshall Mathers to not only cause mischief but also to expose truths in, let’s say, unconventional ways.

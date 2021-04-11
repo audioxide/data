@@ -37,7 +37,7 @@ artistLink: https://golfwang.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   This is a fascinating moment in Tyler, The Creator’s musical career. Five tracks into *IGOR*, his fifth full-length record, it becomes increasingly clear that this is not exactly a hip-hop album. Tyler’s rasping vocals are replaced by tenderly sung hooks and alluring soul samples. This is something 2017’s [*Flower Boy*](/reviews/tyler-the-creator-flower-boy/) touched upon, and advancing this formula seems like a natural development. Tyler deliberately plays against his strengths and manages to push himself to make a good non-rap album. That in itself is pretty fucking fascinating.

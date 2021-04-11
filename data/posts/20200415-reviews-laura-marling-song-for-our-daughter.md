@@ -37,7 +37,7 @@ artistLink: https://store.lauramarling.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Though not to everyone’s tastes, 2017’s [*Semper Femina*](/reviews/laura-marling-semper-femina/) has grown to become one of my favourite folk records of recent years. It’s a nuanced statement of identity, backed up with superb songwriting and affecting arrangements. However, its ambiguous tone and sometimes skeletal structures created a frigid sensation that proved isolating for certain listeners. Laura Marling’s latest studio album *Song for Our Daughter* is a far warmer affair, and this in itself will be a huge bonus for a portion of her fans.

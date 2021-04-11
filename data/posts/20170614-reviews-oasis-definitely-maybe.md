@@ -37,7 +37,7 @@ albumMBID: 451dca98-c118-32e1-9244-c47ca9c3c0f9
 artistLink: https://shop.oasisinet.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Like many of the best debut albums, *Definitely Maybe* set the foundation of something special. Oasis firmly inhabited themselves in rock & roll — not exempt from both the liberations and limitations of the genre — as they embraced their working class credentials. In looking to capture the imagination of ordinary folk just like themselves, the band showed glimpses of potential prominence. This, of course, was the most exciting aspect of it all. Oasis proved that stardom is in touching distance of all of us, just so long as you have the tunes.

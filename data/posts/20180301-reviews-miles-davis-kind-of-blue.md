@@ -37,7 +37,7 @@ artistLink: https://www.milesdavisstore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I enjoy jazz, but never could I possibly claim to be in any position to critique it like I would do other genres, such as rock, electronica, or hip-hop. My knowledge is narrow and my experience is limited. 1970’s *Bitches Brew* — the ‘other’ classic in Miles Davis’ vast collection — is essentially the only jazz record I am familiar with, and that album is practically a head start for modern listeners who cherish the likes of [Flying Lotus](/reviews/flying-lotus-cosmogramma/) and Matthew Herbert, and even psychedelic rock bands. *Kind of Blue* offers a different strand of jazz: less chaotic, but just as luxurious. Within its opening moments, it’s easy to see why this remains the essential choice.

@@ -35,7 +35,7 @@ artistLink: https://fashion.youwillloveeachother.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Although the latest record from L.A noise rock outfit HEALTH is an impressive listen, it’s not particularly a satisfying one. *Vol 4 :: Slaves of Fear* should theoretically be a treat for someone of my tastes: the industrial beats blast, the nu-metal guitars chug, and the soundscapes evoke a sense of fear and dread. 

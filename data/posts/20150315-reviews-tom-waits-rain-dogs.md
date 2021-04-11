@@ -34,7 +34,7 @@ artistLink: https://kingsroadmerch.com/tom-waits/region/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Tom Waits undeniably has one of the coolest voices in music - his unique delivery will always catch a listener’s attention. I feel that in the case of *Rain Dogs*, the distinctive nature of Waits’ vocals can often carry a song. Is this a testament to such a strong voice, or an indication that some of the songwriting itself is, at times, a little lackluster? It’s an enjoyable album, but one that can feel like a jumbled selection of tracks rather than a complete, cohesive work.

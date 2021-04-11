@@ -38,7 +38,7 @@ artistLink: https://vampireweekend.frocksteady.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Kooky indie pop rarely appeals to my senses. That said, Vampire Weekend’s music has always seemed to be transcend the regularities of the genre. Astute, stylish, and of course catchy. After the departure of founding member Rostam Batmanglij, the band return a man down for their fourth record. And with some reasonable success.

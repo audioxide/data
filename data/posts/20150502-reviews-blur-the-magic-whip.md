@@ -35,7 +35,7 @@ albumMBID: f8a42780-5eb1-43be-9a3f-4d3b80184300
 artistLink: https://shop.blur.co.uk/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Whilst I wasn’t expecting a massively triumphant return from the giants of Britpop, I was at least hoping for a satisfying listen. Instead, *The Magic Whip* is a rather unbalanced comeback — a tired album that relies too heavily on its somber tone, resulting in some forgettable and lifeless songs that drift by in apathetic fashion. There are undoubtedly some lovely moments here; it’s just a shame the frustrating pacing of the album smothers them.

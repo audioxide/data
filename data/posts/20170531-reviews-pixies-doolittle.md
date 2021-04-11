@@ -38,7 +38,7 @@ artistLink: https://pixies.kontraband.store/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Say what you will about their current iteration, the Pixies have earned their status in musical history. Their vibrant brand of catchy guitar music laid the groundwork for ’90s rock, directly influencing cherished artists like [Nirvana](/reviews/nirvana-in-utero/), [The Smashing Pumpkins](/reviews/the-smashing-pumpkins-gish/) and [PJ Harvey](/reviews/pj-harvey-the-hope-six-demolition-project/). They had a unique capacity for making irresistible rock music that revelled in musical simplicity — yet despite an overwhelming influence, their sound has proven impossible to replicate. Whilst *Surfer Rosa* remains a fine showcase of the abrasive nature to their sound, it’s their second studio album that continues to define them. 

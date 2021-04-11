@@ -37,7 +37,7 @@ artistLink: https://shop.jehnnybeth.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Having fronted one of the finest and most forceful punk bands of the 2010s, Jehnny Beth’s debut solo has been highly anticipated. I was initially surprised at just how cinematic *To Love Is to Live* is. This is an immersive exploration of human emotion and activity: love, lust, and desire, with all of the vulnerabilities that come attached. It’s a journey that stays true to its themes, and is consistent in tone, but does occasionally feel overbearing. The album is purposefully provocative, and whilst this brings some exhilarating and hard-hitting moments, it can also result in disorientating frenzies. It feels messy, basically, though this isn’t always a bad thing.

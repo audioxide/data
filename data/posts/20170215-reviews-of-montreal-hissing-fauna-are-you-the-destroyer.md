@@ -37,7 +37,7 @@ artistLink: https://www.ofmontreal.net/shop
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   For a record that so ruthlessly explores the devastating emotional fallout of a relationship, *Hissing Fauna, Are You the Destroyer?* can be an extremely entertaining experience. It’s certainly one of the most amusing breakup albums I’ve listened to, flaunting its theatrical tone with an imposing degree of flamboyancy and flair. 

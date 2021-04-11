@@ -35,7 +35,7 @@ artistLink: https://store.toolband.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s been a long time coming. Over ten years in the making, TOOL have finally returned with a brand new studio album. The immediate curiosity is whether the wait has been worth it, and that largely depends on how much you get from the band’s brand of progressive metal. There’s no doubting the quality of the musicianship, likewise the mixing, production and engineering. *Fear Inoculum* is impressive. It’s also quite boring.

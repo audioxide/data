@@ -33,7 +33,7 @@ artistLink: https://baronessmerch.shop.musictoday.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The new record from American alternative-metal band Baroness strives to be an epic of sorts, with its sprawling tracklist and adventurous sonic deviations. Despite some frustrations, it largely succeeds. *Gold & Grey* sees the band play to their strengths whilst simultaneously spreading themselves to deliver key moments that one wouldn’t ordinarily expect from a heavy metal record. Opinions on the music itself may differ, but there’s no doubt that Baroness actively pursued a destination that excels the norm. They go above and beyond general assumptions of metal. Mostly.

@@ -39,7 +39,7 @@ artistLink: https://www.hellomerch.com/collections/khruangbin/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Long-time readers of *Audioxide* will likely be aware of our general thoughts on albums that prioritise aesthetic above all else. Style over substance, as the saying goes. There will always be a place for music that focuses on flaunting snazzy sounds, and rightly so, because snazzy sounds are nice to listen to. Such is life. However, this can often result in a lack of longevity. I imagine the recently released records from [Thundercat](/reviews/thundercat-it-is-what-it-is/) and [Tame Impala](/reviews/tame-impala-the-slow-rush/), but to name a few, have probably been forgotten by most listeners already. I think I forgot about [Tycho’s 2019 album](/reviews/tycho-weather/) before I even finished listening to it.

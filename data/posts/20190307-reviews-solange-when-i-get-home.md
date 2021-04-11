@@ -33,7 +33,7 @@ artistLink: https://solange.blackplanet.com/shop/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Though we were all fairly lukewarm on its release, [*A Seat at the Table*](/reviews/solange-a-seat-at-the-table/) eventually became one of my favourite records of 2016. It flowed like a written diary, and its sound was sumptuous. More importantly, its power grew over time. My initial reaction to Solange’s latest release, *When I Get Home,* was similarly tepid, this time bordering on genuine apathy. Unfortunately, further listens have only decreased my overall interest.

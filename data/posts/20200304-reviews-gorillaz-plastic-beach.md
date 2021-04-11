@@ -38,7 +38,7 @@ artistLink: https://store.gorillaz.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   With *Plastic Beach* celebrating its 10-year anniversary this month – a rather frightening fact in itself – I’ve been thinking about the journey that the Gorillaz project has gone through since its inception. [*Demon Days*](/reviews/gorillaz-demon-days/), released in 2005, is widely considered to be the essential work, capturing that satisfying sensation of sombre pop with an array of fantastic sonic fusions. Although I find the album’s closing moments to be slightly underwhelming – at least in comparison to the rest – it does retain a delicious darkness throughout its playtime. 

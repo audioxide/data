@@ -34,7 +34,7 @@ albumMBID: 72d15666-99a7-321e-b1f3-a3f8c09dff9f
 artistLink: https://www.thebeatles.com/store/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   *Revolver* marks the beginning of my favourite period for The Beatles, and despite the curious inclusion of “Yellow Submarine” I find it to be the most cohesive album the band ever released. It’s full to the brim with ideas that are executed with such precision, skillfully mixed with care and delicacy, resulting in a complete work that seems somehow effortless in its construction. *Revolver* is one of the most enjoyable pop albums of all time, an iconic work that will forever be used as an example for songwriting expertise.

@@ -36,7 +36,7 @@ artistLink: http://miauniverse.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   M.I.A.’s fifth and final album is an unfortunate affair. Comprised of lazy lyrics, half-arsed sampling, and grating production, *AIM* completely misses the mark. It contains some potentially interesting ideas that are too often driven into the dirt by feeble songwriting, ultimately becoming stale and incredibly tiresome after a short amount of time. Practically every song sounds like a loose sketch that runs out of ideas halfway through. 

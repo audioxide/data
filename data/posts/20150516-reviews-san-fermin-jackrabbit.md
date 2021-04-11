@@ -34,7 +34,7 @@ artistLink: https://sanferminband.square.site/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Being unfamiliar with San Fermin allowed me to go into *Jackrabbit* without expectations, and I came away pleasantly surprised. Masterminded by composer Ludwig-Leone, the album draws influences from a variety of genres, shifting stylistically and dynamically throughout, helped even further by two soulful vocalists. 

@@ -38,7 +38,7 @@ artistLink: https://shop.glassanimals.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   UK psych-pop outfit Glass Animals are well adept at writing breezy, easy-listening tunes. There’s a stylishness that can prove impossible to resist. The minute you start to actually dig a little deeper, however, things begin to unravel at quite a pace. Glass Animals are comprised of hugely talented individuals who are either unable to look forward, or simply have no desire to do so. The washes of glittering synths and slickly produced woozy beats only go so far.

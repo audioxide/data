@@ -33,7 +33,7 @@ albumMBID: 099da227-07ea-42fd-b46e-9e1938fe18d3
 artistLink: https://www.dragcity.com/artists/joanna-newsom 
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Beautifully crafted in its arrangement and narrative, Joanna Newsom creates a World on *Divers* that is both wonderful and despairing. This surreal juxtaposition lends a dreamlike quality to a record that ultimately feels as much like an enchanting fairytale than anything else, yet remains deep enough explore the profound musings that delicately tickle the hearts of its listeners. 

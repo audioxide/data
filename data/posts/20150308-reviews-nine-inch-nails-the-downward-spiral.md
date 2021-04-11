@@ -37,7 +37,7 @@ artistLink: https://store.nin.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Downward Spiral* serves as a reminder that music can often be the purest form of human expression. As a work of art, Reznor takes us into the deepest and darkest places of the human psyche, questioning the importance of control and the relevance of religion; all the while depicting the bleak dehumanization of society and its effect on ones individuality. 

@@ -31,7 +31,7 @@ blurb: The record certainly has that classic Tribe vibe, but it lacks the key fi
 artistMBID: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
 albumMBID: b445860f-edd9-4160-841c-fccf5533ecbd
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The awaited return of A Tribe Called Quest is a mild success. *We Got it From Here* was recorded with all founding members, including the [recently deceased Phife Dawg](http://www.rollingstone.com/music/news/a-tribe-called-quests-phife-dawg-dead-at-45-20160323), with contributions from friends old (Busta Rhymes, Consequence) and new ([Kendrick Lamar](/reviews/kendrick-lamar-damn/), Andre 3000). [Jack White](/reviews/jack-white-boarding-house-reach/) is a notable presence, and even Elton John makes an appearance. It has the ingredients to be a triumphant reunion, and yet it never quite reaches its full potential. 

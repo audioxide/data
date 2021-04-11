@@ -38,7 +38,7 @@ artistLink: https://store.warnermusic.com/atlantic-records/artists/janelle-monae
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Dirty Computer* is a joy to listen to. Janelle Monáe’s latest album brims with positivity, open-mindedness, and love. Part protest for sure, but part celebration too. At its best, this is the level of pop music that similar artists should aspire to reach: harmonically lush, deliberately structured, and wonderfully diverse. Better still, it carries a crucial message that promotes freedom and liberation.

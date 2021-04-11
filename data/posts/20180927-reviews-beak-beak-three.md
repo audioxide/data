@@ -37,7 +37,7 @@ artistLink: https://beak.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *\>>>* is the third studio album by British electronic band Beak — arguably Geoff Barrow’s most prominent project since [Portishead](/reviews/portishead-dummy/). On their previous two albums, instrumentals were driven along with a perverse sense of precision, propelled by a subtle sense of psychedelia, and drastically approaching the territory of krautrock. However, there’s something notably different about *\>>>*. The inclusion of Will Young (known otherwise as Moon Gangs) will have played a part, for sure, and it’s a most welcome change to the setup. The grooves here feel less secured, and the songs don’t feel as continual. Ideas are persistent, but don’t outstay their welcome. Krautrock is merely one of many influences, rather than a driving direction.

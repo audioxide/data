@@ -38,7 +38,7 @@ albumMBID: d4952445-d143-35a1-8420-d73cc78c668f
 artistLink: https://www.batforlashes.com/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   It’s been 10 years since Bat For Lashes’ sophomore album, and it remains the most compelling work in her catalogue. Whereas 2016’s [*The Bride*](/reviews/bat-for-lashes-the-bride/) suffered from being a lofty concept album, *Two Suns* functions perfectly fine inside and outside of its prepared image. “Pearl’s Dream” and “Siren Song” work well within Khan’s primary blueprint, whereas “Glass”, “Moon and Moon” and “Daniel” are brilliant pop songs, irrespective of any particular concept. 

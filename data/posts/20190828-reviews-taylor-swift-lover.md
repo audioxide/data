@@ -41,7 +41,7 @@ albumMBID: 30e9785b-7b50-4d29-b3d1-96fb55e3397f
 artistLink: https://store.taylorswift.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   This is a golden age of female pop stars. In the past few years we’ve had fabulous records from [Lorde](/listening-parties/lorde-melodrama/), Billie Eilish, [Janelle Monae](/reviews/janelle-monae-dirty-computer/), [Robyn](/reviews/robyn-honey/), Ariana Grande, and many more of this generation’s finest talents. The most frustrating thing about Taylor Swift’s latest album is just how close it flirts to the greatness of those records.

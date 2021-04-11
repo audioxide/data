@@ -34,7 +34,7 @@ artistLink: https://shop.jamesblakemusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Two years prior to the release of *Overgrown*, James Blake dropped his self-titled debut; a refreshing collection of skittish beats, delicate vocals and pretty melodies. But with certain spots sounding like unfinished sketches, the record was ultimately unsure of what it truly wanted to be. *Overgrown* is a far less disjointed affair, retaining the melancholic mood that was set in 2011 and applying it with more focus. 

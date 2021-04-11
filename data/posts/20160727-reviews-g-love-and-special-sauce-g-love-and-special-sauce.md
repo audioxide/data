@@ -35,7 +35,7 @@ artistLink: https://philadelphonic.com/shop/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The debut album from Philadelphian outfit G. Love & Special Sauce is smooth, spirited, and very cool in character. At least, it is for about 15 minutes. It thrives on its youthful essence and does so assuredly, but this novelty wears off quickly. *G. Love and Special Sauce* begins in extremely mellow fashion with a loose version of “The Things That I Used to Do”, and never reaches any real level of vigour beyond this. 

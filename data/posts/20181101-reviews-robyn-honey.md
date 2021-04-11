@@ -36,7 +36,7 @@ artistLink: https://store.robyn.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Swedish superstar Robyn is undoubtedly one of the greatest pop musicians of the 21st century, so the announcement of a new album — the first in almost a decade — was met with great anticipation. With the release of lead single “Missing U”, it seemed as though Robyn was set to deliver another shimmering dance-pop record comprised of whirling synthesisers and anthemic hooks. 

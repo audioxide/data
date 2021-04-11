@@ -33,7 +33,7 @@ artistLink: https://shop.bobmarley.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Having survived failed attempts of assassination, *Exodus* featured a rejuvenated Bob Marley who was seemingly just happy to still be alive. As a result, the mellow and reflective side of Marley set the tone, for better or worse. Whilst the laid-back energy of *Exodus* remained consistent, the content itself was divided into two halves. There’s certainly a parallel here — the nature of these split halves appropriately demonstrates the two sides of Bob Marley that he’s widely celebrated for; one of protest and demonstration, and the other of love, harmony and passion. 

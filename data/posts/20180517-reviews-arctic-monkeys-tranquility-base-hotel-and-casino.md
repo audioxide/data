@@ -37,7 +37,7 @@ albumMBID: 97ee3a0f-183b-4830-aa5c-45507a084d37
 artistLink: https://arcticmonkeys-store.com
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   **General thoughts on _Tranquility Base Hotel & Casino_ (May 11th – day of release):** 

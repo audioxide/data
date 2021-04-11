@@ -34,7 +34,7 @@ artistLink: https://shop.urbanlegends.com/collections/the-roots
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Things Fall Apart* is a seriously solid offering of smooth hip-hop. Stop the presses. The third studio album by The Roots is comfortably their finest achievement, and it’s aged like a fine wine since its released 20 years ago. Given the melancholic tone, it’s amazing just how easy and enjoyable it is to listen to. *Things Fall Apart* is a fluid, continuous listen; understated to the point of being an excellent backdrop, which is both a blessing and a curse. It’s appropriately structured and remains focused throughout its 70-minute duration, and this is particularly alluring for a modern listener given the amount of over-bloated rap albums we’re dealt with every single year.

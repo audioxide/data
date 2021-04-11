@@ -33,7 +33,7 @@ artistLink: https://majorlazer.merchtable.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   EDM is undoubtedly one of the more divisive genres in modern music. Even after the explosive success of giants like Skrillex and Deadmau5, questions continue to be asked of its longevity, its legitimacy as a music type, and the potential damage it deals to certain sectors of the electronic music community. As the movement proceeds through this troubling period, it’s important to keep in mind the primary reason such music exists in the first place: to inspire the expression of dance. 

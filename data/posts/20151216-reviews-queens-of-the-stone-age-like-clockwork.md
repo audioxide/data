@@ -35,7 +35,7 @@ artistLink: https://store.qotsa.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *…Like Clockwork* is a welcome reinvention. The two Queens of the Stone Age records prior to this contained some great moments but were far from accomplished. As a longtime admirer of the band, I had growing concerns that *Songs for the Deaf* was to be their pinnacle work, forever unmatched in a growing discography. Whilst *…Like Clockwork* doesn’t have the special quality that makes *Songs for the Deaf* the hard rock classic it is today, it is a great album that brims with flair and creativity, and ultimately raises the Queens to new heights of relevancy. 

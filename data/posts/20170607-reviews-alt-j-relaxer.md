@@ -37,7 +37,7 @@ artistLink: https://store.altjband.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   2012’s *An Awesome Wave* caught the attention of both listeners and critics in the UK; not just with its catchy hooks and compact songwriting, but also its quaint textures and quirky mannerisms. There has always been an element of gimmickry with alt-J, and I’ve often wondered what would happen if you were to remove the quirks — the clicks, snaps and buzzes — and observe the band at their most bare and skeletal. As it turns out, not much happens at all. 

@@ -38,7 +38,7 @@ artistLink: https://brucespringsteenstore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Bruce Springsteen is nothing if not a romantic. He thrives on finding the pleasures and grieving the pains of daily American life through the process of rock and roll. It’s an affecting formula, but I find the degrees of success vary with each record. The difference between *Darkness on the Edge of Town* and its predecessor, for example, is striking. *Born to Run* is ridden with drama and composed with enchanting sensibilities, whereas this is a little more real, and in many ways a lot more cruel. 

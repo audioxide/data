@@ -33,7 +33,7 @@ albumMBID: e15e37de-2462-48fa-9f81-e512eb24fb12
 artistLink: https://lightningbolt.bandcamp.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   As noisy duos go, I’ve always found Lightning Bolt to be quite frustrating. They’re an outstanding live outfit which, in my opinion, always struggled to transmit their energy onto recordings. Unfortunately, *Sonic Citadel* suffers from the same issue, though it does introduce a new side to the duo that makes for a refreshing change of pace. 

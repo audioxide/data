@@ -36,7 +36,7 @@ artistLink: https://aphextwin.warp.net/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Aphex Twin is the unequivocal master of modern electronic music. This much we know already. But studio albums have rarely been his *thing*. *Selected Ambient Works 85-92* was a magnificent debut — arguably game-changing — but that was a quarter of a century ago. The few records released since then have been drastically influential, but each suffering from similar issues of length, filler, and genuine instances of bewilderment. 

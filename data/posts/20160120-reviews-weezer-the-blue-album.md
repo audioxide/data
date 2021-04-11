@@ -36,7 +36,7 @@ artistLink: https://weezerwebstore.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   A key part of what makes Weezer’s early albums so enjoyable is the sincerity of the music. They avoided the bullshit fallacies that other alt-rock pretenders were so keen to churn out, and did so without even thinking about it. Rivers Cuomo was merely an awkward bedroom poet with an ongoing infatuation for metal guitar solos, and these personal traits somehow became key ingredients when creating quirky power pop. 

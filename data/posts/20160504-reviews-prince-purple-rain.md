@@ -36,7 +36,7 @@ artistLink: https://store.prince.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Purple Rain* was the monumental record that cemented Prince’s position of power and distinguished him from his peers. Remarkably, it retains all of its audacity and persuasive force three decades on. It’s an endearing record of mystery and wonder, deftly inheriting elements from a wide selection of genres that amalgamate to create a category of its own. 

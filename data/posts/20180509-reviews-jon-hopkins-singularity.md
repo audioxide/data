@@ -36,7 +36,7 @@ artistLink: https://jonhopkins.shop.redstarmerch.com/store
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Jon Hopkins’ long-awaited follow up to 2013’s *Immunity*, one of the standout electronic albums of the decade, is an absorbing experience unlikely to disappoint fans. *Singularity* is a nocturnal journey, and a genuine masterclass in sonic texture. Hopkins leads listeners through an expanding universe, a voyage equipped with the all the thrills of a rollercoaster, before safely guiding them back down to Earth. Though it’s hardly a huge departure from the customary Hopkins design, this is possibly his most cohesive record yet. The quality of *Singularity*’s design and construction cannot be questioned. Provided you’re listening in the right environment, the record can be utterly absorbing. 

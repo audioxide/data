@@ -34,7 +34,7 @@ albumMBID: 09a69267-c46e-4d68-8381-27517bf3288a
 artistLink: https://juliajacklin.bandcamp.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Let’s face it, the 2019 music industry isn’t exactly devoid of indie singer-songwriters. Given the over-saturation, it requires something special for artists in the genre to stand out. On her sophomore album, Julia Jacklin makes a compelling case to separate herself from the rest of the pack, as she unloads cluttered feelings over graceful guitars and elegant arrangements. *Crushing* almost hits all the right notes, and it’s recorded, mixed, and produced impeccably. The album sounds incredibly warm and rich, which keeps the momentum going even when the songwriting stutters, as it does slightly during the middle segment.

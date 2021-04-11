@@ -35,7 +35,7 @@ artistLink: https://store.remhq.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   In spite of two exceptional singles, *Out of Time* isn’t quite the musical monument it aspires to be. Sure, this was the album that rocketed R.E.M to worldwide prestige, selling over 18 million records to date, but it sorely suffers from moments of filler and predictable tendencies. To its credit, *Out of Time* never meanders into unpleasant listening: it’s thoroughly entertaining at best, and a little stale at worst.

@@ -35,7 +35,7 @@ albumMBID: e1085098-3b62-430f-b6c3-7a23eb6fecf3
 artistLink: https://store.wolfalice.co.uk/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Though far from the finished article, Wolf Alice show plenty of promise on their debut release. *My Love Is Cool* contains the sound and purpose of a band who know exactly what they’re doing. The pace of the album shifts effortlessly throughout while retaining its alluring personality — expressed predominantly through Ellie Rowsell's energetic vocals. 

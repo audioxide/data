@@ -35,7 +35,7 @@ albumMBID: 299408a0-9846-4234-9d1e-559a5d54f8df
 artistLink: https://www.batforlashes.com/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   With an adept ability for creating whimsical worlds in her sonic compositions, a concept album has always been in reach for Natasha Khan. Since the release of her debut record a decade ago, every Bat For Lashes album has been graciously theatrical in its own niche way, each becoming more focused and driven in its vision. While [*Two Suns*](/reviews/bat-for-lashes-two-suns/) and *The Haunted Man* were deeply sophisticated works, the momentum has sadly stopped here. 

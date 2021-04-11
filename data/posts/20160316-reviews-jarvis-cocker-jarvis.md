@@ -36,7 +36,7 @@ artistLink: https://jarvis-uk.myshopify.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Solo albums can be tricky ventures, particularly those born from the minds of eccentric frontmen with a bone to pick. Whilst some leave the past behind and relish a newly-offered creative license, Jarvis Cocker instead seems a little lost without his standard supporting cast, awkwardly fidgeting his way through numerous ideas without coming to a satisfying development. He knows exactly what he’s doing, yet the potential is disappointingly unfulfilled. 

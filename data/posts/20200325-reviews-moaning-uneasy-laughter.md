@@ -37,7 +37,7 @@ albumMBID: 5be88c22-464f-4b6a-9f14-945c589a9840
 artistLink: https://moaning.bandcamp.com
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Though by no means perfect, Moaning’s 2018 debut was a striking opening statement. Cathartic, powerful, yet with plenty of room to grow. Whilst it’s hardly unusual for post-punk bands to transition into new wave, it seems as though Moaning have done so prematurely. It’s almost as if they’ve missed a step along the way. Jagged and jittery guitar riffs make way for soaring synths, with Sean Solomon striving for more melodic vocal passages. Shoegaze elements remain, but there’s no denying the intention: this is a synth-pop record exuding the most glaring ’80s nostalgia imaginable.

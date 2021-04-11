@@ -36,7 +36,7 @@ artistLink: https://www.musicglue.com/sophie-shop/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I’ve been waiting for SOPHIE’s debut album for quite some time now, having immensely enjoyed a selection of her singles over the years, namely [“Bipp”](https://www.youtube.com/watch?v=MVc3Z-bG6Eo), [“Lemonade”](https://www.youtube.com/watch?v=LdLvp630plc), and [“Ponyboy”](https://www.youtube.com/watch?v=uERIXLWeik0). Anticipation grew into genuine excitement after the release of [“Faceshopping”](https://www.youtube.com/watch?v=es9-P1SOeHU), an enthralling post-industrial banger, equipped with a scalp-burning beat that I still can’t get enough of. For me, it remains SOPHIE’s greatest track. 

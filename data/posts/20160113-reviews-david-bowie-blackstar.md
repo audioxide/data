@@ -36,7 +36,7 @@ artistLink: https://store.davidbowie.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Blackstar* wasn’t fully realised until a few days after its release. The initial sensation was one of revitalization in David Bowie’s creativity, with the metaphors of Lazarus seemingly showcasing his tortured immortality. We now understand that *Blackstar* is the open book of a dying man; a work created and scheduled for listeners to experience at the end of Bowie’s life, allowing him to depart on his own terms. 

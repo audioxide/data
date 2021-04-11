@@ -35,7 +35,7 @@ artistLink: https://store.mogwai.scot/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Whilst it doesn’t necessarily reach the heights of earlier work, *Every Country’s Sun* has everything you’d want in a Mogwai album. The sound is vast, vivid, and mostly compelling, as the band strike a fine balance between progression and familiarity. When Mogwai go massive, they erupt like a violent volcano that threatens imminent destruction — a trait that was at the forefront of 2015’s [*Atomic*](/reviews/mogwai-atomic), and a loose attribute that actually stretches back to the band’s earliest works. 

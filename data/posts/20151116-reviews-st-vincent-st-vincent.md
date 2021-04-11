@@ -36,7 +36,7 @@ artistLink: https://store.ilovestvincent.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Avoiding the pitfalls that can often appear on art-rock records, St. Vincent’s self-titled album is a confident release that sparkles with peculiarity but steers away from pretension. 

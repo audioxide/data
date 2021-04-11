@@ -35,7 +35,7 @@ artistLink: https://store.qotsa.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   It’s universally known that Queens of the Stone Age are, almost certainly, the coolest band in the World. Born from the dust of legendary stoner-rock band Kyuss, the Queens obviously know how to rock hard, but they also know how to dance. A sense of playfulness runs through their entire catalogue, and they sure know how to have a good fucking time. Their impact on modern rock music is rather understated given their fine reputation, particularly now as Joshua Homme has made a name for himself as a producer, and not just a badass frontman. 

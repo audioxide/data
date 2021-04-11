@@ -35,7 +35,7 @@ artistLink: https://daftpunk.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   On their appropriately named second studio album, Daft Punk discover the joy in mainstream electronic music, blending the foundations of house with smooth disco quirks. *Discovery* starts as well as any other record of its kind, rolling out infectious hits one after another, and leaves an initial impression of jubilance that you’d struggle to match in dance music. 

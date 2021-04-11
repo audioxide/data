@@ -38,7 +38,7 @@ artistLink: https://jeffersonairplane.shop.musictoday.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Surrealistic Pillow* was a pioneering piece of psychedelic folk-rock, filled to the brim with creativity. It remains a staple of the genre today, feeling as fresh and vibrant now as it did in 1967, and stands as tall as the finest works of the same era by [The Rolling Stones](/reviews/the-rolling-stones-let-it-bleed/) and [The Beatles](/reviews/the-beatles-revolver/). The music is so accomplished, and so varied, that it sounds like a wonderful montage of the ’60s. 

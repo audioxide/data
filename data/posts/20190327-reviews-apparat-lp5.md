@@ -36,7 +36,7 @@ artistLink: https://www.merchbar.com/dance-electronic-edm/apparat
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Apparat’s latest album is one those of releases that settles for being ‘nice’. With that comes some positives. After all, ‘nice’ is always preferable to ‘not nice’. Unfortunately, *LP5* seems comfortable not pushing any boundaries. Tracks unravel steadily, with heavy attention shown towards atmosphere and production (both of which are the album’s strong points). Rarely are there any momentous changes to melodic composition, such is the ambient nature of the work. *LP5* is an impressive record on the surface, but I’m often just as tired as I am satisfied.

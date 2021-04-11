@@ -37,7 +37,7 @@ artistLink: https://deerhoof.net/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Deerhoof are amongst the finest acts in indie rock; building a reputation in the 2000s and sustaining their status right through to 2017 — but 20 years since their debut album, and the San Fransisco-born band are still vastly under-appreciated in the grand scheme of things. After all these years, it’s practically a given that charming noise pop doesn’t come much sweeter than Deerhoof, and the level of consistency they have achieved is almost unprecedented — you’d have to look at a band as gigantic as [Radiohead](/reviews/radiohead-a-moon-shaped-pool/) to even start comparisons. 

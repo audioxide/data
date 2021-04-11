@@ -36,7 +36,7 @@ artistLink: https://golfwang.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The early days of Odd Future instigated extraordinary levels of excitement amongst teenagers and young adults alike. The hype was on another level — I myself was one of many to be lured in. More often than not, however, the buzz outweighed the actual content. Odd Future were a captivating hip-hop outfit with an endearing spirit, but much of the music itself was ultimately underwhelming. 

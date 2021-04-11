@@ -37,7 +37,7 @@ artistLink: https://www.merchbar.com/r-b-hiphop-rap/stevie-wonder
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   As far as legacies in pop music go, none are as powerful, or as enduring, as Stevie Wonder’s. *Songs in the Key of Life*, his eighteenth studio album, is the most ambitious collection of songs in his career, and is often cited as the essential Wonder work by his fans, the media, and his contemporaries. 

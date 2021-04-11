@@ -33,7 +33,7 @@ artistLink: https://shop.kanyewest.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The College Dropout* was the first hip-hop album I ever owned. As soon as I heard “Through the Wire”, 12-year old me made sure to save some pocket money for the release of Kanye West’s debut album, which of course my mother had to purchase (thanks again, mum!). Naturally, this record played a huge part in my musical development, and it makes for a pretty severe nostalgia trip in 2019. It’s a great album, that much is obvious, but it’s genuinely startling to go back to, [as Ye himself would put it](/reviews/kanye-west-the-life-of-pablo/), ‘the old Kanye’.

@@ -39,7 +39,7 @@ albumMBID: 5fdd6ba8-83c1-3a87-b378-d5f61dec5ddd
 artistLink: https://www.enoshop.co.uk/shop.html
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   To get the most out of *Ambient 1: Music for Airports*, it’s important to understand the concept behind it. Brian Eno’s intention was to ‘induce calm and a space to think’, with an end goal of making music that was ‘as ignorable as it is interesting’. *Music for Airports* largely succeeded on both accounts, and whilst it wasn’t the first album of its kind, it was effectively responsible for the establishment of ambient music. With all of Eno’s work, there remains a hint of indulgence, but that doesn’t detract from the effectiveness of the music itself. Almost forty years after its release, *Music for Airports* still stands as one of Eno’s greatest ever records, and its unlimited sound continues to be a huge influence in [popular music](https://www.youtube.com/watch?v=D0JvrQ1MrU8&t=17s), [film scores](https://www.youtube.com/watch?v=gHxi-HSgNPc), and [game soundtracks](https://www.youtube.com/watch?v=laZusNy8QiY).

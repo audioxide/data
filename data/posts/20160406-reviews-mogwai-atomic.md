@@ -34,7 +34,7 @@ artistLink: https://store.mogwai.scot/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Due to the epic instrumental makeup of Mogwai’s music, their potential for soundtrack work has always be evident. After producing well-received compositions for both film and television, the band now attempt to bridge the gap between soundtrack work and studio albums. *Atomic* is a rework of their soundtrack for a [BBC documentary](http://www.bbc.co.uk/programmes/b065y1dx) that explores the realities of the nuclear age, and succeeds greatly in achieving the appropriate tone. 

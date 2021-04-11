@@ -36,7 +36,7 @@ artistLink: https://kontraband.shop/collections/point-never
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I’ve become rather attached to Daniel Lopatin’s latest work. It’s hardly a surprise really, given my fondness for 2015’s [*Garden of Delete*](/reviews/oneohtrix-point-never-garden-of-delete/), an album that brutally demonstrated that Oneohtrix Point Never is one of the most vital artists working in the electronic music field. 

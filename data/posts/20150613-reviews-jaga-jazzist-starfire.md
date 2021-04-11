@@ -35,7 +35,7 @@ artistLink: https://jagajazzist.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >- 
   An experience packed with energy and drama, Jaga Jazzist’s *Starfire* is a nocturnal journey taking you across a well-lit city, with bright lights flickering in step with each musical outburst. It’s a record determined as it is frenzied, starting strongly and continuing to drive along in relentless fashion, but ultimately lacking any real purpose as a whole. 

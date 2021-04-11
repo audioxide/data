@@ -35,7 +35,7 @@ artistLink: https://store.qotsa.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   I love Queens of the Stone Age, and for all its quirks, I have always enjoyed their debut album. Released shortly after the disbandment of stoner-rock kingpins Kyuss, this was a transitional record in every sense, hence the numerous imperfections. Kyuss riffs remain in all their glory, but the QOTSA flair wasn’t to arrive for another couple of years, on *Rated R*. 

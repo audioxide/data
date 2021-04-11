@@ -37,7 +37,7 @@ albumMBID: f6a51281-56c4-3538-b915-65a9d4eb29b5
 artistLink: https://store.davidbowie.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   In alliance with Tony Visconti and [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/), Bowie achieved a striking balance on *Low*, an equilibrium uncovered between the experimentation of avant-garde electronic music and the melodic sensibilities of pop and glam-rock that Bowie was already familiar with. 

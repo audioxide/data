@@ -36,7 +36,7 @@ blurb: The richest and most melodious harmonisations of four men since John, Mar
 artistMBID: 
 albumMBID:
 ---
-author: André
+author: andre-dack
 
 review: >-
   Ah, the story of Be Sharps. In a word; bittersweet. So much promise, only to end in tragedy. In many ways it’s a narrative that reflects the entire musical output of Springfield itself. The dreary songwriting of [Kirk Van Houten](/reviews/kirk-van-houten-can-i-borrow-a-feeling/) became famous for all the wrong reasons, and the less said about Disco Stu’s mixtape the better. The Be Sharps, meanwhile, had the whole World at their feet. “Baby on Board” propelled the quartet to fame in rapid fashion with its sublime vocal harmonies and profound statements on parenthood. It remains one of the greatest Barbershop songs in existence, and arguably one of the most gripping album openers in contemporary music. The Be Sharps were tasked with keeping the same quality throughout on an entire LP, and despite a few hitches along the way, I’d say they rose to the challenge rather well.

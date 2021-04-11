@@ -34,7 +34,7 @@ artistLink: https://store.gorillaz.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Humanz* doesn’t feel all that human. In fact, it barely feels like an album at all; more like an extended mixtape, with a long list of guests who share the same doomsday despair, however vague the vision may be. Unfortunately, these visitors don’t seem to be involved as much as they seem to be intruding, and the abundance of outside talent is a big reason as to why *Humanz* rarely sounds like a Gorillaz album. It’s too inconsistent to be cohesive, and it’s too much of a frenzy to be all that enjoyable. Ultimately, listeners are left with a feeling of disconnect that makes the record a hard sell.

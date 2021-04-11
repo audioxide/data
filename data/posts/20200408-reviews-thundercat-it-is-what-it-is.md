@@ -37,7 +37,7 @@ artistLink: https://thundercat.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   We all root for Thundercat. A magnificent multi-instrumentalist with charm and charisma in spades. He’s contributed to some of the most extraordinary records released in the past decade, and even picked up a grammy for his work on Kendrick Lamar’s [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/). There’s no denying his talents, nor the distinctive mark he commits to a variety of musical projects. However, there’s certainly a conversation to be had about his quality as an individual recording artist.

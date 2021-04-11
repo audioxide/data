@@ -35,7 +35,7 @@ artistLink: https://www.liannelahavas.com/merch/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Lianne La Havas possesses a wonderful voice; soulful, delicate and adaptive when necessary, her performances across *Blood* will no doubt infatuate many listeners. 

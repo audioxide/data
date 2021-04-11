@@ -34,7 +34,7 @@ albumMBID: 3037f334-1e40-4d13-98ed-08169120652b
 artistLink: https://store.lauramarling.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Laura Marling’s sixth studio album is one of the finest folk records in recent years. *Semper Femina* is a Latin phrase that translates to ‘always a woman’, and is also referenced in Virgil’s epic poem *Aeneid*: here, it translates to ‘woman is ever a fickle and changeable thing’, a passage that has motivated Marling to embrace her own understanding of femininity. On the gorgeous “Nouel”, Marling responds directly to Virgil’s poem with a smile: ‘fickle and changeable are you, and long may that continue’. It’s one of the many moments of tender observation that *Semper Femina* expresses so tastefully. 

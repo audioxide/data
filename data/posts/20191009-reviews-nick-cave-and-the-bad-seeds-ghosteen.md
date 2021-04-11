@@ -35,7 +35,7 @@ artistLink: https://store.nickcave.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   How do you even follow an album like [*Skeleton Tree*](/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/)? The 2016 release from Nick Cave & The Bad Seeds was beautiful, powerful, and utterly devastating. It stands as one of the most despondent records of recent years. 

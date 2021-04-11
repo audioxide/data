@@ -36,7 +36,7 @@ artistLink: https://sanferminband.square.site/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   For [our review of San Fermin’s second studio album *Jackrabbit*](/reviews/san-fermin-jackrabbit/), I wrote that ‘the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.’ This unfortunately seems to be a staple of Ellis Ludwig-Leone’s writing, because *Belong* contains the exact same problems that held *Jackrabbit* back from being one of the best albums of 2015. In fact, it’s even more bloated, and it contains even less highlights. 

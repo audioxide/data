@@ -33,7 +33,7 @@ albumMBID: 743b0b2e-a23a-3182-950e-232f8cb0dfb7
 artistLink: https://store.davidbowie.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   *Hunky Dory* is rightly celebrated as one of David Bowie’s finest achievements, but I don’t see it as his greatest work. The 1971 classic is loved for its accessibility (both musically and lyrically), its vast array of musical styles, and of course its famed theme of shifting sexual identity. The songwriting is unbelievably good, to the point where it sounds effortless. 

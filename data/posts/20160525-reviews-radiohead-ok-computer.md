@@ -41,7 +41,7 @@ artistLink: https://store.wasteheadquarters.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The term ‘timeless’ is often carelessly applied. Music can be eternal in a literal sense, but very rarely does a work have the endurance to live past its own age and move into new realms of significance as it ages. *OK Computer* is one of these works. This was a life born after *The Bends* and away from traditional rock and roll, derived instead from a place of anxiety and paranoia that distanced itself from the declining movement of [Britpop](/reviews/oasis-definitely-maybe/). A transitional work in the best sense of the word, it was a clinical move into the cold and empirical, before the decisive nosedive into electronica that triggered *Kid A*. 

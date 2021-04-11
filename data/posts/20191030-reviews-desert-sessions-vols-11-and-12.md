@@ -37,7 +37,7 @@ albumMBID: f95c7bc2-b502-4bd0-b24f-207c8c61fe19
 artistLink: https://store.qotsa.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Despite the wandering range in quality, the Desert Sessions project has always been a lot of fun. It’s sincere music created in the moment by a bunch of talented artists. Returning from an absence of 16 (!!!) years, I’m pleased to report nothing has really changed on that front. In fact, *Volumes 11 & 12* may just be the most entertaining release yet. The likes of Mike Kerr ([Royal Blood](/reviews/royal-blood-how-did-we-get-so-dark/)), Jake Shears (Scissor Sisters) and even Matt Berry (Matt Berry) are involved this time round, and it sounds like they all had a pretty wild time writing and recording the material. 

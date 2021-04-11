@@ -37,7 +37,7 @@ artistLink: https://bleep.com/artist/78-boards-of-canada
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Music has the Right to Children* is ultimate background listening. I mean that in the most tremendous way possible. It functions exquisitely when you are listening intently, and when you are not. Boards of Canada’s debut record is so fluently splendid that it can be difficult to explain exactly why. It’s a milestone of electronic music for good reason. Never before had music of this aesthetic felt so organic, so human. 

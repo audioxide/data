@@ -35,7 +35,7 @@ artistLink: https://bobdylanstore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   So much has already been said about the works of Bob Dylan that it’s difficult not to lose myself in the complex lores accompanying each record. This is one of the greatest personal joys that comes with consuming beautiful music — obsessing over liner notes, desperately scrambling for information and conclusions — but it can be a curse to those who are looking for an entry-point. As I approach the record at face value, and step away from the folklore, it becomes abundantly clear how important *Highway 61 Revisited* is.

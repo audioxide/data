@@ -38,7 +38,7 @@ artistLink: https://www.authentichendrix.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Jimi Hendrix changed everything. Each of us have contemporary guitarists that we [adore](/reviews/queens-of-the-stone-age-like-clockwork/), [appreciate](/reviews/radiohead-ok-computer/), and [admire](/reviews/muse-origin-of-symmetry/), and they owe much of their expertise to Hendrix. On *Electric Ladyland*, the ultimate guitar hero lays out all of his artistic ambition, resulting in a long and colourful trip that successfully showcases the depths of his mastery. 

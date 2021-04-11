@@ -35,7 +35,7 @@ albumMBID: fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6
 artistLink: https://store.nin.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Before the arena tours and Academy Award wins, Trent Reznor was a mere janitor at an Ohio-based studio, eager to channel his adolescent angst through the one thing that was always there for him: music. This is where the Nine Inch Nails enterprise began. *Pretty Hate Machine* is most certainly a product of its time, utilising many of the synth-pop conventions laid down by artists like Depeche Mode and Soft Cell, and blending them with elements of industrial, rock, and hip-hop music. Thirty years later, the outcome is still unique, and it remains one of the most distinctive fusions in alternative music. 

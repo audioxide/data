@@ -34,7 +34,7 @@ artistLink: https://eelstheband.com/stores.php
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Another Eels album, another prescription of melancholic indie rock. You know the drill by now. On their 12th studio album, *The Destruction*, Mark Oliver Everett and his dependable friends rarely venture out of the vintage Eels blueprint, which has developed into something of a comfort zone for listeners over the years. 

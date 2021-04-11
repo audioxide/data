@@ -38,7 +38,7 @@ artistLink: https://hifi247.com/talking-heads.html
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Remain in Light* is a sheer delight to listen to. It thrives on its character, never ceasing to be thoroughly entertaining. The opening portion of the record springs along with a playful energy, and the second half is a haze that floats by at its own steady pace, drawing comparisons to albums of a similar era such as David Bowie’s [*Low*](/reviews/david-bowie-low/). 

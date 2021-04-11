@@ -34,7 +34,7 @@ albumMBID: 323d699e-83b0-4baf-8c2a-49be22ed42fe
 artistLink: https://www.musicglue.com/sexwitch/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   With its contagious aura of revelry and high sense of spirituality, Natasha Khan’s latest project initially proves quite alluring. Despite being a cover album, *Sexwitch* is surprisingly creative and certainly succeeds in crafting a sense of improvisation. This does, however, often lead to a lack of real substance; the more focused tracks such as “Helelyos” and “Ghoroobaa Ghashangan” suffer from being surrounded by less concentrated, more repetitive songs that at times border on tedious. 

@@ -36,7 +36,7 @@ artistLink: https://shop.internet-band.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Lush R&B is often the perfect supplement for a sweltering hot summer, and given the fine weather here in the UK I’ve been willing myself to enjoy *Hive Mind* as though it was some sort of enriching movement propelling British Summertime to a new beyond. 

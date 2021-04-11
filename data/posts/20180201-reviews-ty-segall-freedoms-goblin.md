@@ -38,7 +38,7 @@ artistLink: https://ty-segall.com/collections/all
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Freedom’s Goblin*, Ty Segall’s tenth studio release in as many years, is a confident, unrestrained double-album. It contains some of Segall’s finest tracks, a couple of wonderful covers, and a few instances of filler. It’s his longest record to date, but can also be one of his most rewarding. During its best moments, *Freedom’s Goblin* plays like a celebration of Segall’s creativity, whereas other songs are immediately forgettable, despite being fairly decent. So where exactly does that leave us?

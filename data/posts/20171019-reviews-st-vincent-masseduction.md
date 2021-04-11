@@ -40,7 +40,7 @@ artistLink: https://store.ilovestvincent.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   St Vincent’s fifth studio album *Masseduction* is, as you’d expect, a pretty fun listen. Try as it might, it’s not much more than that. The record sounds good, and can be thoroughly enjoyable in the moment, but every now and then I force myself to focus on what Annie Clark is actually singing about.

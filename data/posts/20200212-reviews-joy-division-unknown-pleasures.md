@@ -36,7 +36,7 @@ artistLink: https://store.neworder.com/joy-division.html/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   An undisputed landmark in the World of alternative music, *Unknown Pleasures* has spread its influence far and wide since its 1979 release. It is a definitive declaration of Gothic artistry that spawned a host of followers and imitators, and a perfect case of cathartic despair that continues to inspire artists of all genres: from skilful rockers such as [Radiohead](/reviews/radiohead-ok-computer/) and [Nine Inch Nails](/reviews/nine-inch-nails-pretty-hate-machine/), to hip-hop darlings like Danny Brown and [Vince Staples](/reviews/vince-staples-fm/). 

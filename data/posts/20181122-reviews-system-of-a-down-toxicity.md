@@ -34,7 +34,7 @@ artistLink: https://store.systemofadown.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Toxicity* is a highlight of the nu-metal wave of the early 2000s. It’s a restless, prickly record, bouncing between different ideas at such a rate that the experience is as much an uncontrollable adrenaline rush as it is anything else. Most of System of a Down’s music hasn’t aged particularly well, but *Toxicity* has aged gracefully compared to the group’s other studio albums. Whilst there’s no escaping the ’00s nu-metal sound, the subject matter is as disturbingly familiar now as it was then. *Toxicity* provides a high-octane, hysterical thrill. It has its gimmicks, though the tricks are far subtler here than anywhere else — particularly in comparison to their two 2005 albums, *Hypnotize* and *Mesmerize*.

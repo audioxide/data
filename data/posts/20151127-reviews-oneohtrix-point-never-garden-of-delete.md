@@ -37,7 +37,7 @@ artistLink: https://kontraband.shop/collections/point-never
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Approach *Garden of Delete* with caution. Both terrifying and amusing in equal measure, Oneohtrix Point Never’s latest release is as much of an abstract collage of sound as it is an album, and has clear intentions of bending your expectations of electronic music. 

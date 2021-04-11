@@ -36,7 +36,7 @@ artistLink: https://www.marilynmanson.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   When I declare myself a Marilyn Manson fan, I feel obliged to elaborate instantaneously: I’m a fan of the fierce imagery and fulfilling escapism of the [Antichrist Superstar](https://www.youtube.com/watch?v=aXcoXBdM_uw), *not* the [Born Villain](https://www.youtube.com/watch?v=JY_QVaTZOq0) who, frankly, sounded like he was trying to convince himself as much as anyone else. The whole process is a nuisance, let me tell you, though it’s starting to feel less humiliating nowadays. Manson has just released his tenth studio album, and whilst it doesn’t really come close to his best work, it’s still far better than most of Manson’s miserable material of the 2000s.

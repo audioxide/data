@@ -37,7 +37,7 @@ albumMBID: 03e8da57-fd08-4864-89e7-4919ddfe4735
 artistLink: https://julienbaker.com/collections/music
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   Julien Baker makes brutally candid music, exploring the torment that comes with addiction, depression and desolation. Like most of the artists I cherish, basically. So it’s unfortunate that I don’t connect with _Little Oblivions_ as much as I’d hoped. Baker’s songwriting is as genuine and introspective as anything you’ll hear within the bracket of indie folk music. Her music derives from pain, and she sings with a confessional tone, reinforcing her complicated relationship with religion. It’s genuinely agonising to hear of her struggles. _Little Oblivions_ is a success in terms of this portrayal, but less so in terms of musical satisfaction. I admire it far more than I enjoy it.

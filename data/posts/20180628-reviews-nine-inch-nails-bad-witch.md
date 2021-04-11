@@ -35,7 +35,7 @@ albumMBID: a63e5fa6-d6ad-47bd-986d-4a27b0c9de70
 artistLink: https://store.nin.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Not too long ago, it seemed like the Nine Inch Nails journey was coming to some sort of conclusion, as Trent Reznor and company embarked on an epic live expedition appropriately named the ‘Wave Goodbye Tour’. This wasn’t so much a termination as a reawakening, however. Since 2009 there’s been a handful of acclaimed film scores, an astonishing Academy Award triumph, and of course more contemporary music. Coming after 2013’s divisive *Hesitation Marks*, the current era of NIN has been one of the most rewarding, with a trilogy of releases that go back to the industrial roots, whilst still retaining the delicate construction process that has been generated since the arrival of Atticus Ross. Three records in 18 months come as a pleasant surprise for fans who, over the years, have been made to agonisingly wait for new music in the past.

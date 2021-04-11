@@ -38,7 +38,7 @@ albumMBID: 964ccc52-2873-3bce-a806-73d71532c539
 artistLink: https://www.leonardcohenshop.com/
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   Ashamedly, this time spent with _Songs of Love and Hate_ is my first proper Leonard Cohen experience. It’s as emotionally intense as I imagined, yet surprisingly gentle too. The songs are comprised of acoustic guitars guiding passionate tales of love, hate, and everything in between, with poignant imagery that references the likes of Joan of Arc and Cain and Abel.

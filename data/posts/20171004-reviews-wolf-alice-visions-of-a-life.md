@@ -42,7 +42,7 @@ artistLink: https://store.wolfalice.co.uk/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   My first listen of *Visions of a Life* was far more emotional than I had ever expected. Each of us saw great promise in Wolf Alice following [our review of their debut record](/reviews/wolf-alice-my-love-is-cool) back in 2015. I wouldn’t have said they were destined for greatness, but the potential was undoubtedly there… and here we are. How did they get here so quickly? I have no right to feel like a proud father, yet that’s exactly how I feel. In the space of two years, Wolf Alice have elevated themselves to the best band in the UK. Not five years. Two.

@@ -34,7 +34,7 @@ artistLink: https://shop.beastieboys.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Hello Nasty* is my first comprehensive experience with Beastie Boys, and I’m taken aback by the variation on show. Sprightly rap rock is the focus, as expected, but the record delves into a plethora of other genres. Such a sonic assortment makes *Nasty* a very loose record — mostly for the better, but occasionally for the worse. One could never accuse it of being repetitive, which is impressive given the 65-minute playtime, and the free-spirited nature is presumably why it remains a firm fan favourite.

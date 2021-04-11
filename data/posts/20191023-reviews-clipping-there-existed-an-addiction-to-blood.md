@@ -37,7 +37,7 @@ albumMBID: 16af6d23-9d40-49a6-952b-5631d4ec7981
 artistLink: http://www.clppng.com/merch
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   A horrorcore album based on a ’70s vampire film, featuring spooky field recordings, homages to John Carpenter, and suspenseful instrumentals. This, released on the month of Halloween. *There Existed an Addiction to Blood* doesn’t exactly deal in subtleties then. Nonetheless, clipping. have achieved something quite brilliant with their latest record. Though it borrows multiple tropes of all things Halloween, the experimental hip-hop group don’t rely on gimmicks to shock its listeners. Everything is constructed with precision and skill. As a huge fan of early [Eminem](/reviews/eminem-the-marshall-mathers-lp/), it’s no surprise that I’m totally infatuated with what’s on display.

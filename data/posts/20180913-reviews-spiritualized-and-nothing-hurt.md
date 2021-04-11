@@ -36,7 +36,7 @@ artistLink: https://spiritualized.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *And Nothing Hurt* is, unquestionably, a Spiritualized album. That alone will determine how much enjoyment you get from it. Jason Pierce has this sound down to a tee, and it’s more than pleasant enough to drift in and out of. There’s no doubting the quality of his songwriting, the construct of the arrangements, and the heartfelt poetry. 

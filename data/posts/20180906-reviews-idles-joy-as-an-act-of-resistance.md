@@ -36,7 +36,7 @@ artistLink: https://www.idlesband.com/shop/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   IDLES have arrived at a crucial time. With the United Kingdom in a state of turbulence, the Bristol punk band deliver a necessary antidote. *Joy as an Act of Resistance* is gut-wrenchingly good. The music depicts anger and revolt, but the message is often tender: love yourself, and love others. Compassion and unity will reign victorious over bigotry and hate. IDLES’ liberal declarations are hardly subtle, but they are incredibly hard-hitting and frequently effective. Serious concerns declared with sarcasm, satire and a smirk. This is as close we’ve come to a cultural punk force since its mainstream peak back in the ’70s.

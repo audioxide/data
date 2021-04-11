@@ -40,7 +40,7 @@ artistLink: https://store.wasteheadquarters.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   After numerous side projects and years of anticipation, Radiohead return with their coldest statement yet. Mournful, reflective and frankly heart-breaking, *A Moon Shaped Pool* is an organic expedition of emotion, and a rewarding contrast to the robotic, often barren essence that comprised *The King of Limbs*. 

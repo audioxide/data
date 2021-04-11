@@ -40,7 +40,7 @@ artistLink: https://www.merchbar.com/rock-alternative/pulp
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   One of the most distinctive aspects of Britpop, both in its music and its culture, was the curious combination of superficial amusement with quivering angst and apprehension. No album epitomises this trademark characteristic more than *Different Class*. On this, their fifth album, Pulp had expanded on past formulas and mastered their theatrical brand of satirical pop. They had released good records prior, particularly *His ‘N Hers*, but this was where everything fell into place. 

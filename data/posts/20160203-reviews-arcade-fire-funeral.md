@@ -36,7 +36,7 @@ artistLink: https://www.arcadefirestore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Funeral* is the beating heart of adolescence, a journey of affection that voices the struggle of coming to terms with growing up. Childhood, and its eventual extension, is bound together by moments that often define a person, for better or worse, which *Funeral* exemplifies to great effect. It is beautifully intense, oftentimes emotionally draining, yet manages to be uniquely joyous amid its drama. 

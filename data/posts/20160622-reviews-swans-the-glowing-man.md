@@ -35,7 +35,7 @@ artistLink: https://swans.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In an intermittent career that spans well over two decades, here lies the end of Swans’ latest carnation, *The Glowing Man*: a two-hour expedition of pure chaos, pummelling you in the face relentlessly. The barrage of noise is constant, confrontational, and often quite stressful. Despite some moments of regressed intensity, this is assuredly one of the most demanding experiences of 2016. That said, it’s certainly worth staying with, even if it means consuming it on your own listening terms. 

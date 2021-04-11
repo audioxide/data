@@ -33,7 +33,7 @@ artistLink: https://shop.fatfreddysdrop.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Fluently blending the foundations of dub with jazz, soul, and electronica, *Based on a True Story* is a smooth and summery listen. True to its reggae roots, the album’s mood is consistently mellow, providing an ideal vibe for those warm summer evenings. It flows at a steady tempo and seldom threatens to move away from it — even during the long digressions often responsible for lengthy song durations. When Fat Freddy’s Drop stumble upon a particularly good jam, they remain in that space for a good while. And who can blame them, because when it does soar, *Based on a True Story* is a highly enjoyable experience. 

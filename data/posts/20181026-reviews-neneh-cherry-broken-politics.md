@@ -38,7 +38,7 @@ artistLink: https://nenehcherry.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Neneh Cherry’s latest album sees her continue the stylistic change towards trip-hop that was first heard on 2014’s *Blank Project*, with Four Tet once again at the helm of production duties. *Broken Politics* is notably more reflective than her previous work — or indeed any of her studio albums — and its meditative sound can certainly be endearing, to the point of relaxation. According to its press release, the record [‘searches for answers, patiently and with great care’](https://nenehcherry.bandcamp.com/), and it’s undoubtedly a success in that regard. Cherry’s lyrical work is as good as ever, and her voice is as charming as ever.

@@ -37,7 +37,7 @@ artistLink: https://deeppurple.com/collections
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Aside from being cited as one of the pioneers of hard rock, I knew little of Deep Purple outside of the renowned hits. Their debut album, *Shades of Deep Purple*, celebrates its 50th anniversary this month, and I was naturally expecting raucous rock in a similar vein to “Smoke on the Water” and “Highway Star”. 

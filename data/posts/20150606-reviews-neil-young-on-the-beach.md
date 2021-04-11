@@ -34,7 +34,7 @@ albumMBID: f4174531-b783-3786-b75f-4fe61a8f6333
 artistLink: https://neilyoung.warnerrecords.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   *On The Beach* is perfect for those late nights alone, where the further you venture into the album, the more poignant the evening feels. Both mellow and despondent, the record features the purest of songwriting from a genuine artist, flowing gracefully from start to finish. 

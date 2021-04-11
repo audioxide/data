@@ -35,7 +35,7 @@ albumMBID: 49339024-c6b4-4345-b521-6349463513cb
 artistLink: https://store.nickcave.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   2016 has been a harrowing year for music. Legendary artists have left us — [some in dramatic fashion](/reviews/david-bowie-blackstar/) — whilst others have [delivered their bleakest offerings yet](/reviews/radiohead-a-moon-shaped-pool/). *Skeleton Tree*, the latest record from Nick Cave & The Bad Seeds, falls right in line. Deep, dark, and despondent, it is a suitable representation of a largely distressing year in the music sphere. 

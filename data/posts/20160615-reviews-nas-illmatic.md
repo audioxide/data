@@ -33,7 +33,7 @@ artistLink: https://shop.nasirjones.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Illmatic* is a milestone in hip-hop, an undisputed classic that is held on a pedestal to this day. Though there are many albums with greater highs, you’d be hard pressed to find one with fewer flaws. It captures a cultural scene so poignantly to achieve a timeless status that only [a few albums](/reviews/radiohead-ok-computer/) hold alongside it. 

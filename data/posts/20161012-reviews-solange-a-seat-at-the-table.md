@@ -35,7 +35,7 @@ artistLink: https://solange.blackplanet.com/shop/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The third album from Solange is proud, personal, and exceedingly pleasing. *A Seat at the Table* valiantly confronts discrimination and oppression in a similar manner to [*To Pimp A Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), but is also understated and extremely modest compared to this year’s [brilliant record from Solange’s older sister Beyoncé](/articles/best-of-the-rest-april-2016/). It’s an extremely smooth ride with no turbulence or unnecessary distractions, full to the brim with colourful instrumentals and warm, comforting vocals that glide through at a measured pace. 

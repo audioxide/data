@@ -37,7 +37,7 @@ artistLink: https://tim-hecker-uk.myshopify.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   A constant criticism of Tim Hecker’s music – and the work of his peers – is the way in which the pieces often prioritise the process and predominant concept over the end result. Too often we, as modern listeners, look for conclusions, answers and emotional rewards. We’re conditioned in such a way that it becomes routinely easy to dismiss any work that requires us to think about how, and why, the music itself was made. Many writers and artists have written far more profound and interesting pieces on this subject, but suffice to say, I find Hecker’s latest work very satisfying indeed.

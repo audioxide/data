@@ -37,7 +37,7 @@ artistLink: https://store.wasteheadquarters.com/collections/thom-yorke-atoms-for
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *ANIMA* manifests a brand of bleakness that Thom Yorke has begun to master since his first solo effort in 2006, [*The Eraser*](/reviews/thom-yorke-the-eraser/). 2014’s follow-up *Tomorrow’s Modern Boxes* took the dystopian flavour one step further, but its instrumentals too often meandered into the grey. In contrast, the immediate reaction to *ANIMA* is just how wonderful the record sounds. Indeed, it’s mixed and produced beautifully, demonstrating Yorke’s anxiety with the current political landscape to excellent effect.

@@ -37,7 +37,7 @@ artistLink: https://squarepusher.net/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Be Up A Hello* feels like an earnest love letter; gratifying fan service that pays tribute to one of Tom Jenkinson’s dear friends who had recently passed, an incident that ultimately served as inspiration. Opening track “Oberlove” is as emotionally forceful as drum ‘n’ bass could ever hope to be, and the album artwork itself is just one big stylised heart. 

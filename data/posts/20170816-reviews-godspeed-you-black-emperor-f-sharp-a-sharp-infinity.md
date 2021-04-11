@@ -35,7 +35,7 @@ artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Godspeed You! Black Emperor’s debut record approaches its 20th anniversary this month, and it remains one of the most striking debut albums in modern music. Whilst the concept of a standard studio album narrows with each year, *F♯ A♯ ∞* continues to serve as a refreshing change of pace. It’s not hugely accessible, but it is thoroughly effective for those with the patience. The current musical climate could do with more records in the same realm. 

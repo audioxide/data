@@ -42,7 +42,7 @@ artistLink: http://www.katebush.com/shop
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Very few albums evoke the sense of mystery and wonder like Kate Bush’s *Hounds of Love*. The music is beautifully dramatic, like a howling wind moving ferociously through a magical landscape. Despite its quirks, the record retains a level of accessibility that keeps it well within the territory of pop. There’s a lofty concept behind the albums structure — the weight and meaning of its two sides — but Bush rarely lets the music slip away from pop arrangements. There’s a direct purpose behind every move, even if the execution isn’t always flawless. 

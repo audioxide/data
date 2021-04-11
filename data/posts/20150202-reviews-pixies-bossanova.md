@@ -35,7 +35,7 @@ artistLink: https://pixies.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Without the raw energy of *Surfer Rosa* and cohesiveness of [*Doolittle*](/reviews/pixies-doolittle/), *Bossanova* is simply a solid album from a remarkable band. By no means their best work, but an enjoyable listen nonetheless (even if a few tracks do drift by).

@@ -37,7 +37,7 @@ artistLink: https://sigurros.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The release of Sigur Rós’ sophomore album caused quite a stir in the alternative and experimental music scene, some 20 years ago. Once it landed on UK and US territory in the very early 2000’s, critics were keen to praise in emphatic and dramatic fashion. By this point of course, fans were already sharing *Ágætis byrjun* on message boards — such was the time — but it was clear that something special was brewing. Sigur Rós were, at a point, one of the most crucial bands at the beginning of the 21st century.

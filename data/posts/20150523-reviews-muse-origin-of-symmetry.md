@@ -35,7 +35,7 @@ artistLink: https://store.muse.mu/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Despite the raw talent they possess, Muse have yet to release a fully accomplished album. It seems as though Matthew Bellamy has the tendency to attempt too many things simultaneously, resulting in a severe lack of focus. This is showcased impeccably on 2012’s *The 2nd Law*, where the band go from hard rock to dubstep with a flick of a switch. 

@@ -34,7 +34,7 @@ artistLink: https://rtj4.link/store/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Run the Jewels are a breath of fresh air in the current hip-hop climate. Here we have two veteran MCs at the top of their game, thriving in each other’s company, delivering powerful and witty statements, all the while having the most fun in their entire career. Their sound is explosive, authoritative, and, due to the villainous tone of the instrumentals, often very humorous. Their influences are apparent, sometimes brash, but ultimately, there is nothing else quite like Run the Jewels.

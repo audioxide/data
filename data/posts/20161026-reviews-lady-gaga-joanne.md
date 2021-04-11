@@ -37,7 +37,7 @@ artistLink: https://shop.ladygaga.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   As a result of her breakout album in 2008, Lady Gaga rapidly rose to become the biggest pop sensation on the planet. *The Fame* and its consequent reissue contained [numerous](https://www.youtube.com/watch?v=2Abk1jAONjw) [singles](https://www.youtube.com/watch?v=d2smz_1L2_0) that were catchy, vibrant, and exciting to the point of being outright dangerous. As well as being international hits, they were candid social statements that were accessible enough for the mainstream, and smart enough to avoid critical refusal. 

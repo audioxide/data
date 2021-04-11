@@ -42,7 +42,7 @@ artistLink: https://grandaddy-us.myshopify.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Sombre, sleepy, yet constantly absorbing, *The Sophtware Slump* remains the definitive Grandaddy record. On their sophomore release, Jason Lytle and company captured the essence of progressive rock legends ELO and presented them with similar tension and anguish to [*OK Computer*](/reviews/radiohead-ok-computer/) and [*Ladies and Gentleman We Are Floating in Space*](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/). 

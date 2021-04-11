@@ -37,7 +37,7 @@ artistLink: https://davidbyrne.com/shop
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   David Byrne isn’t one to play it safe. The rewards for such a bold approach are potentially plentiful, but occasionally disastrous. *American Utopia* hits both end of the scale. The opening moments are rough, and that’s putting it kindly. “I Dance Like This” is a calamity of painful proportions, as a light and dainty piano passage is gratingly interrupted by a clumsy electro breakdown. It’s clear what Byrne was going for, and such ambition isn’t to be scoffed at, but the execution is poor. Album openers are vitally important, and *American Utopia* gets it all wrong.

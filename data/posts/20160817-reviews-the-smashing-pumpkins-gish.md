@@ -40,7 +40,7 @@ artistLink: https://store.smashingpumpkins.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Gish* serves as a fine example of what a debut album should be. It contains dynamic songwriting, offering moments of finesse alongside the fuzzed-up mania, and is performed with a balance of raw intensity and technical prowess. 

@@ -34,7 +34,7 @@ artistLink: https://shop.jamesblakemusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Though James Blake tells us that he’s removed himself from a [‘perpetual cycle of anxiety and depression’](http://pitchfork.com/features/interview/9889-james-blake-and-the-pursuit-of-happiness/), you’d be forgiven for thinking otherwise. Sonically speaking, Blake is where he has been since his debut album. He illustrates a deeply sombre image, singing with a consistently mournful tone to fill the gaps left by a backdrop of music that feels sparse, yet inconceivably textured. Blake’s ability to exploit a particular space within a soundscape means his music can so often suit a variety of settings and moods. There’s certainly no denying his talent, yet he finds himself a victim of the scope of his natural capabilities. 

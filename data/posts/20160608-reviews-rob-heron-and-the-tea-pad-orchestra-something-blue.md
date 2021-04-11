@@ -36,7 +36,7 @@ artistLink: https://teapadorchestra.bigcartel.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Brimming with catchy vocal hooks and compelling harmonious moments, *Something Blue* is a pleasant record, one that revels in its spirit. But for all its charm, a prominent deficiency lies in its production. The album reveals the difficulties of attempting to capture the energy of a live performance on a studio recording. The subdued nature of the band's performance is the opposite of what you would expect to hear from a group who share a great understanding of each other’s talents, and it’s this hesitancy that prevents *Something Blue* from being as accomplished as it should be. 

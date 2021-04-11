@@ -37,7 +37,7 @@ artistLink: https://sonicyouth.kungfustore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Sonic Youth’s fifth studio album, *Daydream Nation,* celebrates its 30th anniversary this month; a sprawling work that has served as a major influence for many of today’s finest acts working in alternative and indie rock. Noisy avant-rock with cathartic vocals and bold, punkish statements is usually an instant win for me, but connecting with the record in any meaningful way has proven difficult for me. 

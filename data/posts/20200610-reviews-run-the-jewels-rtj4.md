@@ -38,7 +38,7 @@ artistLink: https://rtj4.link/store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   El-P and Killer Mike are back, and boy did we need them. Almost four years on from their last release, Run the Jewels return with their most politically and socially charged project yet. The hardcore hip-hop duo have been riled up since their 2013 debut. Now, they've finally reached boiling point. *RTJ4* is utterly explosive, comprised of powerful anthems demanding immediate change. Never does it feel preachy, however. Much like the rest of RTJ's catalogue, this is as fun as it is combative, and its this balance that makes the duo stand out from the crowd. Whether you consider *RTJ4* to be their best yet will depend on preference (this is more focused yet less diverse than [*RTJ2*](/reviews/run-the-jewels-run-the-jewels-2/)) but this is the release that likely cements RTJ's status as one of the most crucial acts in hip-hop today. There's a revolution coming, with El-P and Mike leading the charge.

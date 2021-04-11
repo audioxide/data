@@ -38,7 +38,7 @@ artistLink: https://blacksabbathapparelshop.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Metal is a funny thing. It was funny 50 years ago, and it’s funny now. Often absurd, sometimes comical, and, every now and then, rather spectacular. My favourite records within the genre are those that come within sub-categories that emerged in the ’90s and beyond: the likes of [*The Downward Spiral*](/reviews/nine-inch-nails-the-downward-spiral/)* (industrial metal), [*Toxicity*](/reviews/system-of-a-down-toxicity/) (nu-metal), and [*Dissociation*](/reviews/the-dillinger-escape-plan-dissociation/) (mathcore) to name but a few. As far as straight up heavy metal goes, I think Black Sabbath’s *Paranoid* is one of the very best. It’s very sincere and reliably silly. And when it rocks, it fucking rocks.

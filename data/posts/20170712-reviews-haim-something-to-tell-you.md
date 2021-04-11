@@ -38,7 +38,7 @@ artistLink: https://shop.haimtheband.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Californian sisters Haim are in no hurry to rewrite the rules of popular music. They balance elements of pop, rock, country, and R&B to shape a satisfying, radio-friendly sound; performed with a sparkling confidence and produced with crystal-clear clarity. It’s an altogether impressive, yet vaguely insipid setup that doesn’t rouse to inspire, but does play so satisfyingly to the ear, beaming with a feel-good factor that has already proved ideal for sunny festivals.

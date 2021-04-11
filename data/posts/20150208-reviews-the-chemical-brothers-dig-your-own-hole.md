@@ -34,7 +34,7 @@ artistLink: https://merch.thechemicalbrothers.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Despite my love and appreciation for electronic music, *Dig Your Own Hole* is not an album I personally connect with too much. My favourite tracks are those that are less driven by a beat and focus instead on interesting melodies and textural layers.

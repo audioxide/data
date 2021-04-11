@@ -40,7 +40,7 @@ artistLink: https://www.hellomerch.com/collections/dead-kennedys
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Hardcore punk doesn’t come much better than *Fresh Fruit for Rotting Vegetables*. Dead Kennedys’ iconic debut still boasts some of the most brilliant and uncompromisingly cynical songs the genre has ever seen. It’s not wholly consistent, but its manic, rapid-fire approach retains momentum throughout. It’s an absolute fucking riot: the sound of true rebellion. It makes the [Ramones](/reviews/ramones-rocket-to-russia/) sound like nursery school punk.

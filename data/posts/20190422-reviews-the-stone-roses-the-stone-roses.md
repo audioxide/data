@@ -37,7 +37,7 @@ artistLink: https://stonerosesstore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The story of The Stone Roses is a curious one: one of the ultimate one-album wonder bands of contemporary music. Their 1989 debut record was as solid a foundation as they come, and whilst their follow-up album wasn’t quite as dreadful as certain fans like to suggest, it certainly came as a disappointment. The Stone Roses laid the groundwork for a special formula, only to never expanded upon it. To many fans, *The Stone Roses* is just as significant as a nostalgia trip as it is a piece of music, a hark back to a sound that promised so much.

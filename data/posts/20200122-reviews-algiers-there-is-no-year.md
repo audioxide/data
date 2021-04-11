@@ -40,7 +40,7 @@ artistLink: https://algierstheband.terriblemerch.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The release of clipping’s 2019 record [*There an Existed an Addiction to Blood*](/reviews/clipping-there-existed-an-addiction-to-blood/) was a huge indulgence for my listening habits. I am drawn to deeply engaging ambience, particularly that of the gloomy kind. A glorified mood junkie, if you will. As such, I was immediately taken to Algiers’ latest release. 

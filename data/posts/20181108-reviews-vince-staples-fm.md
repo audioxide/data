@@ -34,7 +34,7 @@ artistLink: https://shop.thevincestaplesshow.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Vince Staples’ latest release is possibly his most consistent project yet. Regardless of whether it’s an album, an EP, or a mere makeshift of sorts, *FM!* is a strong and immersive concept that sees Vince go through 11 tracks in a rapid-fire manner. It sounds like 20 minutes of ad-free urban radio (or just a really good Spotify playlist). *FM!* is fun, but also chaotic, presumably representative of California life itself. Vince’s deadpan delivery is essential for the dark humour and bleak social commentary of songs like “FUN!” and “Tweakin’”. Whilst his flow can seem expressionless at times, Vince’s lyrics remain as striking as ever. The album’s character lies in its concept and its popping, bouncing instrumentals, as well as the fabulous production by Kenny Beats and Hagler.

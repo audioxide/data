@@ -35,7 +35,7 @@ artistLink: https://store.universalmusic.com/thecure/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Disintegration* remains a melancholic wonder after all these years. The Cure have a reputation for being bleak and depressive, but this couldn’t be further from the truth. Robert Smith creates music that is designed to make listeners feel a range of emotions that revolve around love, lust and loss — feelings and sentiments that can be experienced from adolescence, through teenage-hood, to the latter years of life. It’s extremely affecting music. *Disintegration* sustains an atmosphere that is gloomy, yet thoroughly gorgeous. It somehow manages to feel both claustrophobic and seductive.

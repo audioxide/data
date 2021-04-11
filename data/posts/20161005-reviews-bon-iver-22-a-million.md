@@ -38,7 +38,7 @@ artistLink: https://store.boniver.org/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *22, A Million* feels like a nondescript blur. It doesn’t deal in structure, but in loose clusters of peculiar sounds and imperceptible words. Melodies come in sketches, and hooks are a curious rarity. Arrangements are frequently muddled, often to the point of obscurity. It’s a type of elusiveness that isn’t so much rewarding as it is mundane. *22, A Million* is an unnecessarily complicated record: overly processed vocals, chopped-up lyrics, and saturated samples are the prime focus, overruling any instance of decent songwriting that you’d usually come to expect from Bon Iver. 

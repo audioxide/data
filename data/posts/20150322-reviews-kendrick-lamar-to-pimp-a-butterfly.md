@@ -37,7 +37,7 @@ artistLink: https://shop.kendricklamar.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Ambitious in its attempt to inspire a generation to change a damaging culture, *To Pimp A Butterfly* is an album mainstream hip-hop has been longing for. The hard-hitting, inspiring lyrical content is supported by wonderful fusions of hip-hop, jazz, and funk music, ensuring that not only is the album important, but also incredibly enjoyable. If *Good Kid, M.A.A.D City* introduced Kendrick Lamar to the masses, *To Pimp A Butterfly* cements his place in the hip-hop hall of fame. This is an instant classic, and I’m fascinated as to [where Kendrick Lamar can go from here](/reviews/kendrick-lamar-damn/).

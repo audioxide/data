@@ -35,7 +35,7 @@ artistLink: https://artists.sound-merch.com.au/theavalanches/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The Avalanches have finally returned with a new record, and it’s fairly good. Thank heavens. *Wildflower* is brimming with positive energy, and is a worthy, if lopsided follow-up to the acclaimed *Since I Left You*. The music is carefree, graceful, and extremely accessible, with an open-ended structure that makes the listening experience feel like a vast and joyous journey.

@@ -36,7 +36,7 @@ artistLink: http://saulwilliams.com/store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Born out of ongoing activism that stems back to mid the ‘90s, Saul Williams returns to his expressive roots on his latest studio release. Whilst *The Inevitable Rise and Liberation of NiggyTardust!* excelled in its embrace of industrial hip-hop, *MartyrLoserKing* is more in line with his fearless debut *Amethyst Rock Star*. 

@@ -38,7 +38,7 @@ artistLink: https://shop.bjork.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Homogenic* is, quite simply, a stunning work. The music of Björk, who is righty credited as one of the most creative and unique artists of the past few decades, can often defy categorisation, but there is little doubt that her third studio album benefits from a coherence that has often been missing from the majority of her other records.

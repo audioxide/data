@@ -36,7 +36,7 @@ artistLink: https://pjharvey.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Whether it’s over years or a matter of mere days, certain pieces of music become more powerful as the World continues to turn. Occasionally, an album will somehow feel timeless upon impact. Released in 2011, at a time where the Afghan War was at its most critical, *Let England Shake* was a striking open letter to the leaders of the Western World — the UK in particular. 

@@ -35,7 +35,7 @@ albumMBID: 0f7a9bb0-c99a-48ea-93fb-ecdcc0ed636e
 artistLink: https://www.drdre.com/store
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Referring to it as his ‘grand finale,’ *Compton* feels like a cinematic celebration of Dr. Dre’s career in the game, and makes for a rewarding, if unspectacular experience. Whilst *Detox* failed to pass the finishing production tests after years of labor, this is a focused and cohesive work that clearly benefitted from the inspiration found during production of *Straight Outta Compton*. 

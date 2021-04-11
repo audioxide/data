@@ -34,7 +34,7 @@ artistLink: https://store.soulwax.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *FROM DEEWEE* was, [allegedly](http://www.factmag.com/2017/02/09/soulwax-from-deewee-album-announced/), recorded in one take. That naturally seems quite impressive, and certainly strikes an initial interest, but upon realising that everything sounds so utterly flat and lifeless, one recognises that Soulwax have done themselves no favours by constructing the record as a continuous, mundane stretch of music.

@@ -36,7 +36,7 @@ artistLink: https://store.digitalstores.co.uk/kingsofleon/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Despite their arena-rock ambitions, Kings of Leon operate within a cautious formula. There are numerous parallels to U2 and Bruce Springsteen, but such moments are minuscule in both scale and success. Kings of Leon will continue to sell out stadium tours, but they won’t go down in history. They dream of a vast and momentous sound, proceeding to work well within their personal boundaries; without any hint of historical significance. 

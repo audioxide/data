@@ -34,7 +34,7 @@ artistLink: https://shop.nirvana.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The influence of Nirvana is impossible to overstate. The band’s breakout record *Nevermind* was front-loaded with hits that have remarkably remained as momentous rock anthems today, and the legacy of that record will likely be everlasting. But while *Nevermind* laid the groundwork for our favourite rock bands of the 21<sup>st</sup> century, *In Utero* is the work that truly affirms Nirvana’s status. 

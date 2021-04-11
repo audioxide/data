@@ -35,7 +35,7 @@ artistLink: https://shop.postpopdepression.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Old age must be a surreal reality for rock stars, particularly those as conspicuous as Iggy Pop. As his relevance decreases, lingering sensations of the glory days develop into recollections that are as painful as they are joyous. Exploring such bittersweet reflections has required some assistance in the form of Joshua Homme, who leaves his footprints all over *Post Pop Depression*. It’s more akin to projects like Them Crooked Vultures than it is to a [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) release — though disappointingly, this is as rewarding as neither. 

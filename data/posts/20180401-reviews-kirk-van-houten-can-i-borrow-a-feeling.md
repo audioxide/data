@@ -32,7 +32,7 @@ blurb: Van Houten’s first and only studio album is flawed, for sure, but also
 artistMBID: 
 albumMBID:
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Kirk Van Houten’s first and only studio album is flawed, for sure, but it’s also profoundly personal. The songwriting is ordinary, the production is rather unpleasant, yet there’s a certain charm to the whole affair. After 20+ years of mockery, I feel the album’s reputation is a little unwarranted. 

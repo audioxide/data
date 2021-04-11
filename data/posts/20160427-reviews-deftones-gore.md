@@ -36,7 +36,7 @@ artistLink: https://deftones.merchdirect.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Irrespective of their stellar output, Deftones have always struggled to distinguish themselves from the contaminated haze of nu-metal that so often turns listeners away. Without sacrificing any of the gratifying brutality fans have come to expect from the band, *Gore* strikes a delightful balance, and is perhaps their most accessible record to date. It’s not a resounding success, but it’s an assured high point in a discography that gets more impressive with almost each release. 

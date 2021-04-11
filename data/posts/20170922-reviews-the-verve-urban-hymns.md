@@ -37,7 +37,7 @@ artistLink: https://www.merchbar.com/rock-alternative/verve
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Before the remarkable rise to fame and fortune, Richard Ashcroft earned the nickname ‘Mad Richard’ from the UK press, following numerous fascinating, often bizarre quotes. One such quote, taken way back in 1993, was particularly striking: ‘I can name you 50 bands who are doing OK now and in two years they will be forgotten’, said Ashcroft. ‘History will forget them. But history has a place for us. It may take three albums but we will be there’. As it turns out, ‘Mad Richard’ wasn’t so mad after all. 

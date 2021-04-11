@@ -35,7 +35,7 @@ artistLink: https://www.liannelahavas.com/merch/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   There’s no denying Lianne La Havas’ talent. When we reviewed her last studio album, [*Blood*](/reviews/lianne-la-havas-blood/), in 2015, there was agreement across the board that the songwriting and arrangements weren’t always up to the same standard as her stunning vocal performances. If the instrumentals were as dynamic as La Havas’ exquisite voice, I imagine it would have had more of a lasting impact.

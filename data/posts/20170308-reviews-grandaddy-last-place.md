@@ -39,7 +39,7 @@ artistLink: https://www.grandaddymusic.com/store
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Another year, another [comeback](/reviews/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service/) [album](/reviews/blur-the-magic-whip/). A little over a decade after disbanding, Grandaddy return with what is, thankfully, a Grandaddy album. 

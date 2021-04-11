@@ -34,7 +34,7 @@ artistLink: https://www.merchbar.com/rock-alternative/ramones
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   For years I had been looking forward to the day I actually sat down and listen to the Ramones. Their reputation is distinguished to music-lovers of all ages, and their status has been firmly cemented into music history: renowned for not only pioneering the punk movement, but also infusing an everlasting influence on a wide variety of genres, including all sorts of sub-sections in rock and metal. 

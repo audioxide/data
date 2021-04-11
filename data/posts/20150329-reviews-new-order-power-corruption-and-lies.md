@@ -34,7 +34,7 @@ artistLink: https://store.neworder.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   New Order's significance is admirable, no question, but in the present day the core of their music feels regrettably lifeless. With this release, the catchy riffs and toe-tapping beats are there, but that’s precisely the problem - stubborn in nature, with very little desire to change, they are just there. While there are some highlights (the resigned closer “Leave Me Alone” is New Order at their most interesting), *Power, Corruption & Lies* ultimately leaves me feeling cold.

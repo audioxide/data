@@ -33,7 +33,7 @@ artistLink: https://shop.ultimatedenzelcurry.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Since shifting slightly away from the dizzying World of Soundcloud rap, Denzel Curry has proved himself to be a notable force in modern hip-hop. His latest full-length album reinforces the fact that Curry is an artist who will live far beyond a mere distribution platform. *ZUU* is far from perfect, but it is one of the most enjoyable rap records of the year so far.

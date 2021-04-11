@@ -34,7 +34,7 @@ artistLink: https://spiritualized.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Jason Pierce sculptured a magnificent journey for listeners to experience. Tortured themes, fragile vocals, irresistibly groovy basslines, beautifully spacious production, and such a curious closer. *Ladies and Gentlemen We Are Floating in Space* has numerous key components. A special album, and one I love dearly.

@@ -35,7 +35,7 @@ artistLink: https://shop.firstaidkitband.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   First Aid Kit have enjoyed a great deal of success since the release of *The Lion’s Roar* — their finest work — as they continue to act as a suitable entry point for newcomers of folk and Americana. The Söderberg sisters sing with clarity and grace, engaging in wonderful harmonies that float across well-crafted instrumentals. *Ruins* retains the same formula, but it’s difficult to get truly enthused given the sheer safety of its build. 

@@ -36,7 +36,7 @@ artistLink: https://shop.childishgambino.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Notoriously known for his comedic charisma and kooky personality, Donald Glover is one super-popular individual. His tally of talents is indisputable, and he will likely enjoy a long, prosperous career in the entertainment industry. However, whilst his work as an actor is generally celebrated, Glover’s musical career hasn’t seen the same rate of success. Childish Gambino is popular, no question, but his records have hardly hit universal acclaim. 

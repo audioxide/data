@@ -41,7 +41,7 @@ albumMBID: 0da340a0-6ad7-4fc2-a272-6f94393a7831
 artistLink: https://blonded.co/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   After months of build-up, speculation and [shrewd marketing](http://pitchfork.com/news/67329-snapchat-rolls-out-frank-ocean-filters/), Frank Ocean’s long-awaited second studio album is here. Does it live up to the extravagant hype? Probably not. Does it matter? Again, probably not. 

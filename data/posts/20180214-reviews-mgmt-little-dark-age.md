@@ -37,7 +37,7 @@ artistLink: https://kf-merch.com/collections/mgmt
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Little Dark Age* was supposed to be an encouraging new dawn for MGMT, who have been on a gradual decline since their debut album in 2007. Although I was never totally smitten with *Oracular Spectacular*, it’s no question that the record contained a plethora of catchy songs, some of which carried significant weight to an adolescent demographic. Indeed, “Kids” and “Time to Pretend” were the soundtrack to many teenage trickeries. 

@@ -36,7 +36,7 @@ artistLink: https://store.gorillaz.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Having not listened to *Demon Days* for a good number of years now, I’ve relished coming back to this one. Albarn collaborates with a wide variety of artists, and in doing so deserves enormous credit for sculpturing such a cohesive, accessible record — ten years on and it’s still very impressive how, with all the stylistic twists and turns, the album remains consistent enough to create such a unified package. Attached with plenty of nostalgia, *Demon Days* is an extremely enjoyable listen and undoubtedly the most complete [Gorillaz](/reviews/gorillaz-plastic-beach/) release to date.

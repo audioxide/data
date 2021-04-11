@@ -36,7 +36,7 @@ artistLink: https://kf-merch.com/collections/waxahatchee
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   As someone who generally struggles with the tropes of country music, *Saint Cloud* has been a gentle epiphany for me. I’m not sure it’s the modern classic that many claim it to be, but then I’m in no position to make that call. Still, I do think the latest record from Waxahatchee is a triumph in many ways. 

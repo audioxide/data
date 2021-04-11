@@ -39,7 +39,7 @@ artistLink: https://shopuk.soundgardenworld.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   My generation has a habit of pining for the ’90s. Like anything that impacts popular culture, music works in cycles, and the current landscape isn’t exactly glowing with great rock bands. The notion that rock is somehow ‘dead’ is a complete fallacy of course, but it stopped being a dominant force in music long ago. 

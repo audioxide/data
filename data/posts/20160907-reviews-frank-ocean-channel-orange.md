@@ -36,7 +36,7 @@ artistLink: https://blonded.co/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Upon the release of his first official album, [Frank Ocean revealed that his first love had been a man](http://frankocean.tumblr.com/post/26473798723), which naturally got people talking about his sexuality. More importantly, it provided critical context to an album made up of tragic laments of unrequited love. *Channel Orange* represents personal freedom, and it’s a liberation that Ocean experiences as an artist as well as a man. 

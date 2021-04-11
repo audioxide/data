@@ -37,7 +37,7 @@ albumMBID: e3db4db7-603a-420b-8e7d-112bd4a8f6c9
 artistLink: https://awrittentestimony.com/ 
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Releasing a record that has, technically speaking, been in the making for well over 10 years, comes with a huge degree of pressure. There was always a chance that whatever it was that Jay Electronica dropped next – whether it was this or Act II of the initially planned trilogy – there would be at least some disappointment among fans who had been waiting so (im)patiently for what, admittedly, feels like forever. 

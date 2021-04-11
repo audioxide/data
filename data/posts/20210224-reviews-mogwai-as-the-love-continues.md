@@ -39,7 +39,7 @@ albumMBID: ef8e8e4d-05a2-4732-b68a-c5b6af86d786
 artistLink: https://store.mogwai.scot/
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   For the past 25 years, Mogwai have consistently delivered captivating records of instrumental rock, setting the standard for much of the scene to strive for. Their songs follow a formula of patiently building to an explosive crescendo of noise. Often with a sense of sadness, though occasionally a feeling of overcoming. Ten albums in and the band continue to make good on this blueprint that has earned so many dedicated fans. However, _As the Love Continues_ does sound different from previous records. It’s more playful, and less restrained. It feels like Mogwai have loosened up a little. The result is a rich assortment of songs that showcase the multiple facets of the bands perceptions and inspirations.

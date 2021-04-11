@@ -35,7 +35,7 @@ artistLink: https://courtneybarnett.bandcamp.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Three years after the release of her invigorating debut album, *Sometimes I Sit and Think, and Sometimes I Just Sit*, Courtney Barnett returns with another dose of whimsical indie rock. As you’d expect, it’s pretty good, though it doesn’t venture much further than that. 

@@ -36,7 +36,7 @@ artistLink: https://matadorrecords.com/savages
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Largely through the intense live shows that surrounded the release of their ferociously measured debut *Silence Yourself*, Savages have rightly earned their reputation as one of the most energetic and dynamic bands in the post-punk scene. *Adore Life* tries valiantly to match their status, but regrettably falls flat in comparison. 

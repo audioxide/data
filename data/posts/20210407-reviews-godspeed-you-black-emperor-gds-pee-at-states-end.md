@@ -38,7 +38,7 @@ artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
 
 ---
 
-author: andré
+author: andre-dack
 
 review: >-
   Canadian post-rock champions Godspeed You! Black Emperor return with yet more music that sounds larger than life itself. If the grandiose nature of their previous material hasn’t clicked with some listeners, _G\_d’s Pee AT STATE’S END_ is unlikely to change that. The band perform captivating protest music with commanding authority, powering through huge arrangements that convey a wide array of emotions. Theirs is a blueprint that has now existed for over 25 years. What separates _State’s End_ from other records in the catalogue, however, is the sense of hope and triumph. Godspeed You sound genuinely buoyant.

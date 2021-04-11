@@ -34,7 +34,7 @@ artistLink: https://store.universalmusic.com/elbow/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Elbow’s latest record, *Little Fictions*, is steady, content, and at times uplifting. It carries a sense of warmth and comfort that makes it completely fitting for a peaceful Sunday morning. The instrumentals take strides at an extremely measured pace, and Guy Garvey’s vocals float placidly in a collection of already serene set of mixes. It’s another Elbow album, basically. 

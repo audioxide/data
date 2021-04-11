@@ -35,7 +35,7 @@ albumMBID: 6891a28c-5865-36e2-9e5f-c9fac1d3595f
 artistLink: https://shop.bjork.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   During her long and diverse career, Björk has developed into the one of the most eclectic artists of contemporary music, keeping listeners on their toes with every release. It was on 1993’s *Debut*, however, where Björk’s wistful form of art pop first came to life, and the results were enchanting. It remains a graciously pure, exceedingly joyful experience. 

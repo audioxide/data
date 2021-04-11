@@ -40,7 +40,7 @@ albumMBID: b10e623f-ef38-478f-902d-e4ee2eaf10dc
 artistLink: https://blanck-mass.tmstor.es/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   2017’s *World Eater* was a violent, volatile, and quite exhilarating record that saw Blanck Mass move further away from drone roots of Fuck Buttons, edging closer towards a complete electro-industrial project. His latest project follows a similar stylistic projectory, though not quite with the same degree of success. *Animated Violence Mild* goes for the upmost gargantuan of sounds, which is in itself is thoroughly entertaining. “Love is a Parasite” harks back to 90s-era [Marilyn Manson](/reviews/marilyn-manson-heaven-upside-down/), whilst the delightfully frenzied “Death Drop” blends black metal with earth-pounding electronics. There’s a lot to admire, though it can quickly become exhausting.

@@ -36,7 +36,7 @@ albumMBID: f113fa38-7908-3ec9-8145-d2455e78a8b2
 artistLink: https://arcticmonkeys-store.com
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   The release of Arctic Monkeys’ debut album was a monumental occasion. *Whatever People Say I Am, That’s What I’m Not* broke numerous British records, and it remains the fastest selling album by a band in the UK to date. At the time, comparisons were made with cultural giants on the scale of [Oasis](/reviews/oasis-definitely-maybe/) and [The Beatles](/reviews/the-beatles-revolver/), whilst frontman Alex Turner was described as a [‘master of observation’](http://www.nme.com/reviews/album/reviews-arctic-monkeys-7837). For a band who were still in their teens, the accolades were maybe a little overblown. Of course it was a good album, but it had obvious limitations. 

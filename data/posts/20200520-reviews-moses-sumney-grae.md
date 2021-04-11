@@ -46,7 +46,7 @@ artistLink: https://www.hellomerch.com/collections/moses-sumney/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Moses Sumney yearns for greatness. You sense that he's constantly striving for excellence, and with his stunning vocal range and stylistic diversity, greatness is more attainable for Sumney than for most. On *græ*, his second studio album, he is always aching; emotionally vulnerable and creatively restless. The record plays out like a prolonged stream of consciousness, yet every aspect seems carefully constructed. The attention to detail is remarkable. For all its brave moments, there's a layer of confidence to *græ* that works wonderfully with Sumney's candid lyrical content. Some songs feel more substantial than others, with a handful of cuts feeling slightly underwritten. Even so, you cannot fault the ambition or scope of the music. This is essentially a sprawling mood-piece that lays bare the wide range of human emotions. It's beautiful, complex, and flawed. Just like all of us.

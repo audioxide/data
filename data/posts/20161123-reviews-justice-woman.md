@@ -35,7 +35,7 @@ artistLink: https://shop.justice.church/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Justice’s debut album, released almost 10 years ago now, exploded on to the scene with bold intentions. It was loud, it was daring, and it was exciting, like a nu-age opera. Although its impact was compelling at the time ([at least for the most part](http://www.musicradar.com/news/tech/justice-respond-to-unplugged-controversy-by-posting-more-pictures-183657)), that ‘Justice sound’ has had little momentum since. This wasn’t helped by a tame second studio album, which only polarised listeners, and, more significantly, the detracting force of EDM and house music that has continued to occupy the mainstream dance space. 

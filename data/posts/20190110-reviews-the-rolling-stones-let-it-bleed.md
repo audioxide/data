@@ -39,7 +39,7 @@ artistLink: https://therollingstonesshop.co.uk/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Let It Bleed* inhabits multiple sounds of the ‘60s. I hear the rich psychedelic rock of [*Revolver*](/reviews/the-beatles-revolver/), and the country balladry of [*Highway 61 Revisited*](/reviews/bob-dylan-highway-61-revisited/). It even shares a similar sense of brutality in its lyrical imagery to that of The Velvet Underground & Nico. Opening track “Gimme Shelter”, a clear highlight on the record, wouldn’t feel too out of place on [a Jefferson Airplane record](/reviews/jefferson-airplane-surrealistic-pillow/>), whilst Keith Richards’ guitar licks evoke the aura of [Hendrix](/reviews/the-jimi-hendrix-experience-electric-ladyland/). As a pesky no-good millennial, I wasn’t even close to experiencing life in the ‘60s, but I feel like listening to *Let It Bleed* brings me that little bit closer.

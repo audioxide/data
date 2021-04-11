@@ -41,7 +41,7 @@ artistLink: https://store.relapse.com/b/the-dillinger-escape-plan
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Due to the sheer lack of any standout hard-rock record, *Dissociation* is a crucial shot in the arm for 2016. The Dillinger Escape Plan construct an album that is gloriously punishing, beating listeners into a meditative, almost coma-like state. The severity that derives from the combination of Greg Puciato’s visceral vocals and the band’s jittery playing will strike terror into the hearts of many — but rest assured, there’s great excitement to be had from the brutality. 

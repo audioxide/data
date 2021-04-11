@@ -35,7 +35,7 @@ artistLink: https://shop.kendricklamar.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Following a record as monumental as [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/) is no easy task, even for one of the World’s greatest living artists. At this point, there can be no question about his status – Kendrick Lamar’s talent feels like a once in a generation occassion. His winning streak in hip-hop is so hot that [even his B-sides are making a mockery of his competition](/reviews/untitled-unmastered/), and he has appropriately become one of the most significant figures in popular culture. Kendrick takes his standing seriously, and recognises his responsibilities as an idol. *DAMN.* is the result of a deliberate introspection, as he turns the spotlight on to himself to deliver his most despondent record yet.

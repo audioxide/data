@@ -37,7 +37,7 @@ artistLink: https://matadorrecords.com/kurt_vile
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Kurt Vile’s latest studio album is a peculiar beast. It plays out like an all-encompassing diary expressed through fascinating musical explorations and witty wordplay. With a running time of 80 minutes, *Bottle It In* asks a lot of its listener, at least on paper. 

@@ -33,7 +33,7 @@ artistLink: https://shop.adele.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Now that *25* has been unleashed, Adele is in the midst of breaking every sale record imaginable. The figures are remarkable, and even I, with my cynicism intact, can understand why Adele has become such a giant in the contrived field of pop music. Precise, flamboyant, and incredibly accessible, her voice is as good as anyone’s in the genre. It’s the sheer dynamism of Adele’s vocals that truly sets her apart from her peers though, a trait that consequently makes her one of the greatest pop vocalists of the 21st century. 

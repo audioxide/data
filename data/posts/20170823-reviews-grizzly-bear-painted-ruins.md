@@ -35,7 +35,7 @@ artistLink: https://store.grizzly-bear.net
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The latest record from Brooklyn-based rock band Grizzly Bear is a floating slow-burner; threatening to become compelling, but almost always falling short. The base sound of *Painted Ruins* is lush and colourful, with hovering soundscapes and dainty melodies rising and falling in unison. The material is there, and the music is absolutely crying out to be heard, so it’s a great shame that the majority of it feels flat. 

@@ -34,7 +34,7 @@ artistLink: https://shop.thestrokes.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   ‘We could drag it out, but that’s for other bands to do,’ Julian Casablancas slurs on “Ask Me Anything,” a sentiment that has been communally endorsed since 2001’s *Is This It?*, an album so refined, so effortlessly sophisticated in its flow and structure, that it became a crucial root in the rebirth of garage/indie rock. 

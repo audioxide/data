@@ -35,7 +35,7 @@ artistLink: https://eelstheband.com/stores.php
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Mark Everett, known simply as E, occupies a peculiar space in indie rock. The foundations of his music are not separate from that of other artists, with songs fuelled by guitar-driven chord progressions and conventional structures. It’s the other, slightly frivolous details that have caused Eels to settle for a niche place in the industry. E sings about love and loneliness — all that jazz — but also delves into a darker space that explores death and depression. He blends these themes in such a way that it makes you feel sad for being happy, and happy for being sad. 

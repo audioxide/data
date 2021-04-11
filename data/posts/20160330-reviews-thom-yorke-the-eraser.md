@@ -34,7 +34,7 @@ artistLink: https://store.wasteheadquarters.com/collections/thom-yorke-atoms-for
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s difficult to explain the enjoyment to be acquired from *The Eraser*. Skittish beats set up an infrastructure that awkwardly engages with icy synths, stirring vocals, and robotic patterns, making for a fairly erratic experience. Although the cold nature of the album will push listeners away, its fidgety personality suits it. 

@@ -43,7 +43,7 @@ artistLink: https://allthemwitches.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Following the departure of keyboardist Jonathan Draper, All Them Witches have slimmed down into a trio for their sixth studio album. Thankfully, the band have lost none of their power. *Nothing as the Ideal* is another satisfying collection of alternative rock jams that rummages around in the deep and dark depths of blues, stoner rock, and neo-psychedelia. The mixture may become too eclectic for its own good sometimes, but the record remains a hard-hitting odyssey that rarely fails to entertain.

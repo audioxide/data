@@ -39,7 +39,7 @@ artistLink: https://shop.urbanlegends.com/collections/n-w-a
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Straight Outta Compton*, the acclaimed and influential debut by N.W.A, is a seriously good hip-hop album. Celebrating its 30th anniversary, the record still sounds tremendously exciting, and strikingly defiant. Gangsta rap doesn’t come much purer than this, and it remains an essential listen for hip-hop heads old or new. That said, I’m not so sure it’s one of the *greatest*. 

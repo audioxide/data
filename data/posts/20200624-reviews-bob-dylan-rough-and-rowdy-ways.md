@@ -38,7 +38,7 @@ artistLink: https://bobdylanstore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Legendary singer-songwriter and cultural icon Bob Dylan has now released [almost 40 studio LPs](/articles/bob-dylan-studio-albums-ranked/). It appears even the most devoted of fans are struggling to keep up. The last record I caught up with was 2012’s Tempest, and I thought it was fairly good. I have similar judgement for *Rough and Rowdy Ways*. This seems to go against the general perception: that this is his modern masterpiece.

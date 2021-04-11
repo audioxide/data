@@ -36,7 +36,7 @@ artistLink: https://deathgripsshop.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   I certainly enjoy *The Powers That B*, but I unfortunately see no need for it to be a double album; the two discs contrast stylistically and in fluidity. More importantly though, one side does not enhance the other, and with its overall length of 80 minutes you have to question if this is detrimental to the record as a whole. It doesn’t stop you from appreciating both sides separately, but it does affect the overall cohesiveness. Another shot of adrenaline from Death Grips then, as you would expect, but it’s likely that I’ll proceed to consider *The Powers That B* as a release that contains two good albums with very little relation between them.

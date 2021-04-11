@@ -38,7 +38,7 @@ artistLink: https://shop.jamesblakemusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   James Blake has fallen in love, and don’t we know it. Declarations of adoration abound on his latest record, which makes a refreshing change from the sorrows that encompassed previous releases. At first, it seems like very little has changed. The title track kicks things off with warm piano touches, contrasting nicely against jittery beats, but without going anywhere particularly interesting. 

@@ -36,7 +36,7 @@ artistLink: https://itunes.apple.com/artist/id5641488
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Air were one of the very first to make chillout music cool and, dare I say, fashionable to listen to. Their debut album remains a thoroughly lovely listen. Released 20 years ago this month, Air combined chillout aesthetic with downtempo percussion, whilst adding that crucial pop element that made the record such a success. It’s pleasant, comforting, and frequently absorbing. It’s hard to imagine anyone not having a good time with it. When *Moon Safari* is at its best, it goes well beyond background listening.

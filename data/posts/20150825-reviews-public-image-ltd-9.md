@@ -33,7 +33,7 @@ artistLink: https://store.universalmusic.com/PiL/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Simultaneously slick and silly in its alternative rock/dance fusion, *9* is a peculiar record. The instrumentation is unapologetically ’80s, but certainly entertaining enough to look past some of the generic tropes that were so common during that decade. 

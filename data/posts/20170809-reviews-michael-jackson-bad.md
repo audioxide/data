@@ -35,7 +35,7 @@ artistLink: https://michaeljackson.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Following an album on the sheer scale of *Thriller* is no easy task, even for the King of Pop. It took Michael Jackson five years to follow up the greatest selling album of all time, and despite showing drastic signs of age, I’d say he gave it a damn good go with *Bad*. Jackson and legendary producer Quincy Jones took a step away from disco and instead leaned towards hard dance, flirting with rock and metal, whilst allowing space for dainty ballads — standard pop procedure, but with a slight edge. 

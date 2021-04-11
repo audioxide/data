@@ -38,7 +38,7 @@ albumMBID: 2a64e463-6d16-4ae4-af8d-f3c064b09256
 artistLink: https://preoccupations.bandcamp.com/merch
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Fresh from releasing one of the finest rock records of 2015, Viet Cong return with a required name change and a slight shift in sound. Though its predecessor contained elements of industrial and noise rock, *Preoccupations* is very much a post-punk album, and one that wears its influences on its sleeves. The band embrace the catchier end of the post-punk spectrum to an almost imitative degree: fans of [The Cure](/reviews/the-cure-disintegration/) and Echo and The Bunnymen will assuredly approve of a tracklist so purposely comprised of bass-driven, guitar glistening songs. 

@@ -34,7 +34,7 @@ artistLink: https://store.moby.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s easy to hold a cynical position towards *18* — even at the best of times downtempo music can become a predictable affair, so after consuming over an hour’s worth of Moby’s tried and tested chillout formula you’d have no qualms branding it a monotonous, lazy record. 

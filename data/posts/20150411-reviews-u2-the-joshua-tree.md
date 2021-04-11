@@ -34,7 +34,7 @@ artistLink: https://shop.u2.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   With assistance from [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/) and Daniel Lanois, U2 achieved a vast and powerful sound that crucially stopped itself from treading into the territory of the overly bombastic; here we experience the band without the excruciating self-indulgence that turns listeners away from their more recent works. 

@@ -34,7 +34,7 @@ artistLink: https://shop.kendricklamar.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Kendrick Lamar’s sparse activity in the past 12 months has been an intriguing conversion in hip-hop. Most rappers would find it difficult to leave the limelight after releasing such an acclaimed record as [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly), but aside from some excellent TV performances Kendrick has laid relatively low. 

@@ -35,7 +35,7 @@ artistLink: https://store.johnlennon.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Almost fifty years after its release, *John Lennon/Plastic Ono Band* still stands as a significant moment in music history. Raw, deeply personal, and tremendously honest, this was rock & roll as Lennon had always envisaged it. Sometimes it’s gorgeous, and other times its twitchy and uncomfortable, making for a somewhat demanding experience. 

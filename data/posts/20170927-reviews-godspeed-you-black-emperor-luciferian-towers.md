@@ -34,7 +34,7 @@ artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   It wouldn’t be a new record from post-rock’s most overtly political band without a damning press release that blasts social injustice and demands revolution. ‘An end to foreign invasions. An end to borders. The total dismantling of the prison-industrial complex. Healthcare, housing, food and water acknowledged as an inalienable human right. The expert fuckers who broke this world never get to speak again.’ Given the sheer strength of such powering words, you’d be forgiven for thinking that this sets up Godspeed You! Black Emperor for their most furious album yet. Whilst the sound is vast and menacing in stature,*Luciferian Towers* lacks the abrasive power that [made their debut such an authoritative record](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/).

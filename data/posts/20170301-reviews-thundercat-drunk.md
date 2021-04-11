@@ -36,7 +36,7 @@ artistLink: https://thundercat.bandcamp.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I’m at a weird place with *Drunk*. Thundercat’s third studio album is creative, charismatic, honest, and sometimes extremely funny, but the rapid-fire approach to track sequencing can leave me frustrated as much as it does delighted. With an average track length of about two minutes, Thundercat leaves little room for these sweet R&B jams to develop into what they deserve to be. *Drunk* swiftly goes from one idea to the next, and it’s difficult to get a grasp on many of the songs that fail to get to the three-minute mark. It’s often a jarring and muddled experience, which I suppose may be the point given the album title, but it’s not exactly the most engaging artistic direction. 

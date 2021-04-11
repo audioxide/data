@@ -35,7 +35,7 @@ artistLink: https://yolatengo.com/forsale/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   By the time I had finished my first listen of *There’s a Riot Going On*, I had already forgotten about it. As I would any other album, I gave it the benefit the doubt, assumed it was a grower, and hours later delved back into its soft, smooth aesthetic. This process has been repeated a number of times, and I still don’t have much to say about it. 

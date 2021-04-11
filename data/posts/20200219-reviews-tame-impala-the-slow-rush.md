@@ -38,7 +38,7 @@ artistLink: https://shoptameimpala.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Slow Rush* is another genre-bending release from Tame Impala that, despite satisfying the senses with luscious and colourful sounds, rarely captivates to the fullest. Dreamy psychedelia takes centre stage, with very little shift in pace or tone. I’m hugely enamoured with the first handful of tracks, but gradually become numb to the music’s whimsical nature. It’s so, so goddamn smooth, almost to a fault. 

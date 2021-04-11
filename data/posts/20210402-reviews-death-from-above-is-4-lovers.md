@@ -40,7 +40,7 @@ artistLink: https://www.deathfromabove1979.com/
 
 ---
 
-author: andré
+author: andre-dack
 
 review: >-
   In [a recent interview with Anthony Fantano](https://www.youtube.com/watch?v=obJot9a3EHI), Death From Above 1979 made it very clear that their latest record _Is 4 Lovers_ is the first time the band have been left to their own devices, with no outside influence from labels or producers. At the time, this left me excited, though also slightly nervous. After spending significant time with _Is 4 Lovers_, I can only describe the record as a failed experiment. I can’t remember the last time I was so disappointed with a recent rock record. It’s not just underwhelming, but outright irritating.

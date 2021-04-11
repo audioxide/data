@@ -35,7 +35,7 @@ artistLink: https://thirdmanstore.com/bands/jack-white
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I wish I could enjoy *Boarding House Reach*. I truly do. Whilst Jack White’s previous studio albums were safe, predictable, and slightly bland, his latest is the complete opposite. It’s a sugar-rush of ideas: less contrived, and far more chaotic. To my memory, it’s the most unconventional record Jack White has ever been involved with. Unfortunately, it only ends up irritating the shit out of me, piercing my senses with each listen.

@@ -36,7 +36,7 @@ artistLink: https://store.elviscostello.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *My Aim Is True*, the rollicking debut that launched Elvis Costello’s career, is humorous, rebellious, and infinitely enjoyable. This month marks its 40-year anniversary, which is astonishing given how good it still sounds. The songwriting reeks of the ‘70s — wonderfully so — but remains as charming and engaging as ever. There is a remarkable degree of confidence that you wouldn’t usually expect from a debut, which is not only testament to Costello’s immense musical capabilities, but also his cheerfully bitter personality. This is a punk record, after all. 

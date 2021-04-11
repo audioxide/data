@@ -36,7 +36,7 @@ artistLink: https://shop.squarepusher.net/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In similar fashion to [Aphex Twin](/reviews/aphex-twin-richard-d-james-album/)’s effort last year with *Syro*, Squarepusher produces another solid album without pushing any particular boundaries or venturing into unfamiliar territory. The beats are as intricate as ever, whilst the melodies, as sporadic as they are, retain the classic Squarepusher charm. Whilst it’s not for the faint-hearted, *Damogen Furies* is a well-focused release from one of electronic music’s most respected artists, and it’s well worth exploring.

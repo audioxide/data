@@ -35,7 +35,7 @@ albumMBID: 0ebe471f-87a1-4c60-af9d-135a4b080894
 artistLink: https://ukmerch.ambientinks.com/collections/tychoiso50
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   There is such a thing as sounding too immaculate. Beyonce’s recent collaboration with Hans Zimmer for *The Lion King* remake is merely another example of overproduction in contemporary music, but sterility hurts even more when it manages to infiltrate artists outside of the inflated pop scene. When Vampire Weekend released [*Father of the Bride*](/reviews/vampire-weekend-father-of-the-bride/) back in May, I wrote that ‘these songs wouldn’t feel out of place in an advert for Google, such is the clinical nature of their formation’, and I could apply this exact sentiment to *Weather* too. It is recorded, mixed and produced exquisitely, yet I can’t recall a single release in 2019 that has proven to be so inconsequential. I don’t dislike the music at all, but it’s so severely sterile.

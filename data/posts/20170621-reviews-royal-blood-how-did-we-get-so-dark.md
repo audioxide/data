@@ -37,7 +37,7 @@ artistLink: https://store.royalbloodband.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Royal Blood occupy a curious space. Their sound isn’t exactly substantial, nor is it the slightest bit original. It’s pop music, essentially, manufactured not just for Radio 1 listeners, but those who come from an alternative rock background too. The music is formulaic to the point of being predictable, with safe song structures being sustained by mammoth riffs and pounding arena-rock beats. It’s a deeply limited formula, but the sound is compelling enough for it to work. Their debut record took the UK by storm, and despite similar basic boundaries, their follow-up album *How Did We Get So Dark?* is an enjoyable ride throughout.

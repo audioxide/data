@@ -38,7 +38,7 @@ artistLink: https://store.eobmusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The name Ed O’Brien may not be known worldwide like [Thom Yorke](/reviews/thom-yorke-anima/), or even Jonny Greenwood, but ask any [Radiohead](/articles/ranking-radioheads-discography/) fan and they’ll likely gush over his intricate guitar work, crucial percussion parts, and of course those cherished vocal harmonies. His debut solo album has been in the works for a while now, and under the alias of EOB his music has finally entered our senses. Like any project related to Radiohead, *Earth* is earnest and technically impressive. Much of it is passive, somewhat lowkey, yet you can sense an urgency throughout. O’Brien stated that a part of him would ‘die’ if he didn’t release a solo record. You can feel that desperation here. Sometimes for better, sometimes for worse.

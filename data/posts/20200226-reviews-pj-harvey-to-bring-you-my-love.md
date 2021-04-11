@@ -46,7 +46,7 @@ artistLink: https://pjharvey.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   There was no shortage of moody alternative music in the ’90s. Grunge propelled itself to the mainstream in the USA, with [Nirvana](/reviews/nirvana-in-utero/), [Smashing Pumpkins](/reviews/the-smashing-pumpkins-gish/), and [Soundgarden](/reviews/soundgarden-superunknown/) all flying the angsty flag of melancholy, whilst [Nine Inch Nails](/reviews/nine-inch-nails-pretty-hate-machine/) and [Marilyn Manson](/reviews/marilyn-manson-heaven-upside-down/) were working on providing an essential dose of nihilistic despair for the most miserable of music listeners.

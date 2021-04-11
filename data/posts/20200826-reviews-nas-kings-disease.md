@@ -37,7 +37,7 @@ artistLink: https://shop.nasirjones.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Like every hip-hop head on the planet, I hold [*Illmatic*](/reviews/nas-illmatic/) very close to my heart. I'm also rather fond of its follow up album *It Was Written*. Suffice to say, Nas' output since then has been sketchy at best. Some records flirt with greatness, others are indisputable duds, and then there are those in between: decent, but forgettable. It's a shame that a true legend of the game hasn't released a definitive classic for 25 years.

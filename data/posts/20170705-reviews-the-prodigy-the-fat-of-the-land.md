@@ -37,7 +37,7 @@ artistLink: https://theprodigy.tmstor.es
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   When it comes to the ‘90s, opinions often sway to both extremes, but there’s no denying that it was host to a wide variety of excellent electronic music. Whilst [Aphex Twin](/reviews/aphex-twin-richard-d-james-album) and [Air](/reviews/air-moon-safari) were offering a calmness that was otherwise absent from dance music, [The Chemical Brothers](/reviews/the-chemical-brothers-dig-your-own-hole) and Fatboy Slim tapped into huge arena-rock sensibilities, propelling big beat to the very forefront of popular culture. The Prodigy, meanwhile, took one step further by applying a punk aesthetic to the electronic field, which ironically made them the most accessible and popular act of them all — at least for a period. 

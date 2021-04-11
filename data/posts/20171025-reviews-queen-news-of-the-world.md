@@ -37,7 +37,7 @@ artistLink: https://www.queenonlinestore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Though I’m familiar with most of the band’s gigantic hits, *News of the World* is the first Queen album I’ve actually listened to. It’s been a bizarre and somewhat unexpected experience. To put it simply, I don’t care for the record at all. The least I anticipated was an array of huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be the case. 

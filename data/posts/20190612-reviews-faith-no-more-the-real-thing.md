@@ -34,7 +34,7 @@ artistLink: https://faithnomore.shopfirebrand.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Real Thing* turns 30 this month, and yet I still don’t know what to make of it. In terms of style, substance, and general quality, it’s absolutely all over the place. I would guardedly describe it as a journey of funky new wave rap-metal, and if that depiction sounds ridiculous… well that’s because it is.

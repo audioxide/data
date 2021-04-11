@@ -34,7 +34,7 @@ artistLink: https://store.thekinks.info/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   An enjoyable album, one that is incredibly easy to consume. The vocal harmonies are a joy to listen to. Whilst nothing particularly stands out, I’ll definitely revisit *Arthur* for the pure pleasure.

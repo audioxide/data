@@ -36,7 +36,7 @@ artistLink: https://shop.portishead.co.uk/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   As tempting as it is to brand Portishead’s debut as the definitive trip-hop record, *Dummy* is really a genre in itself. It took the dance foundations of Massive Attack and applied a greater sense of songwriting to the equation, resulting in one of the major landmarks of the ’90s. 

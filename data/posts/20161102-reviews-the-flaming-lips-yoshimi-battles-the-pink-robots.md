@@ -36,7 +36,7 @@ artistLink: https://store.flaminglips.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The tenth studio album from The Flaming Lips is an ambiguous musical fantasy, telling the tale of a fictional character named Yoshimi who defeats evil robots using the power of love, wonder, and… existentialism. Wayne Coyne assembles this musical in typical Lips fashion, using a colourful blend of sprightly synths, stirring basslines, and whimsical lyrics. It’s nonsense. Beautiful, vague nonsense. 

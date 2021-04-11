@@ -38,7 +38,7 @@ artistLink: https://shop.thevincestaplesshow.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I like Vince Staples, but I’ve never been sure where to place him. The American rapper is one of the most talented and exciting artists in hip-hop today, making a name for himself on *Hell Can Wait*, before going all in on his debut album *Summertime ’06*. Last year’s *Prima Donna* showcased a versatility that was impressive, but nonetheless left me wondering where the momentum was heading. The good news is that *Big Fish Theory* is his most progressive project to date, affirming his status as one of the most forward-thinking voices in rap’s current climate. Unfortunately, the album is a structural clutter, and it doesn’t reach the heights that the creativity deserves.

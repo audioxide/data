@@ -35,7 +35,7 @@ artistLink: https://www.arcadefirestore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   As an avid admirer of Arcade Fire’s first three records, *Everything Now* has been a truly miserable experience for me. Not because it’s necessarily an awful album — though it does flirt dangerously close — but because the band give me absolutely nothing to care about. 

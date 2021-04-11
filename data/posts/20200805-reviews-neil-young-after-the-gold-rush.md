@@ -42,7 +42,7 @@ artistLink: https://neilyoung.warnerrecords.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *After the Gold Rush* is Neil Young at the absolute top of his game. It’s a masterpiece, plain and simple. His third studio album is as accomplished as any he’s ever released: an astonishing feat given he was only 24 years of age at the time. *After the Gold Rush* is a tight package that displays extreme versatility, covering an extraordinary range of musical ground and lyrical depth. Provocative rock jams with soulful guitar solos stand alongside romantic country ballads and heart-warming numbers led by playful piano.

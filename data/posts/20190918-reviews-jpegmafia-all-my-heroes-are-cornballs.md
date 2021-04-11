@@ -35,7 +35,7 @@ albumMBID: c35a4a3f-d584-42fc-ac0f-b9592aedd3b2
 artistLink: https://www.jpegmafia.net/store
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   JPEGMAFIA is an artist I admire more than personally cherish. He creates incredibly inventive music and has a production style that is both unique and highly innovative. Unless you don’t have an ear for experimental music, there’s really not much to dislike. However, I personally find it difficult to connect to such an erratic stream of consciousness, regardless of the flair on show, and *All My Heroes Are Cornballs* is no different. Objectively speaking, it’s not far from being a contemporary classic. Perhaps I just find myself grasping for something with a little more weight.
