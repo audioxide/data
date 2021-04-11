@@ -52,7 +52,7 @@ score:
   fraction: 0.4
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Soulwax have been a band on my ‘must see’ list for quite some time. If I turned up for the duo to only play tracks from *FROM DEEWEE*, I’m afraid to say I think I would be largely disappointed. It’s hard not to compare *FROM DEEWEE* to *Nite Versions* as the disparity quality is so large, but I’ve been hard pushed to pull the same level of enjoyment from this as I have their illustrious record from 2005.

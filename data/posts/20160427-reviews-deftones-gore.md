@@ -96,7 +96,7 @@ score:
   fraction: 0.6
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   I came to Deftones late. Faded memories of “Back to School (Mini Maggit)” playing on late 90’s Scuzz still fill my brain. However, it wasn’t until very recently I spent the time to listen to this music that people have called ‘genre-less’. Although this is a gross overstatement, I can appreciate the sentiment. I started with *Around the Fur* (1997) and *Adrenaline* (1995) and later on graduated to the award winning *White Pony* (2000) and *Diamond Eyes* (2011). You may say the music has an overall tone, however it is difficult to call Deftones Nu Metal, Hard Rock, Post-Punk or any other denomination of the aforementioned. This is because they are all of these things, and none of them at the same time.

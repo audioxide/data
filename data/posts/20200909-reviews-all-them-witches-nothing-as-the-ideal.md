@@ -89,7 +89,7 @@ score:
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   All Them Witches' latest offering, *Nothing as the Ideal*, is as satisfying as it is surprising at times, and is a delightful addition to their already accomplished back catalogue.

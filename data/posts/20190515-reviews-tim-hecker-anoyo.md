@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Tim Heckers newest 2019 release is not your Sunday morning listening. And it’s certainly not your Saturday night listening either. *Anoyo* is darkly uncomfortable and at times nervously pretty.

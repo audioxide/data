@@ -35,7 +35,7 @@ albumMBID: 9162580e-5df4-32de-80cc-f45a8d8a9b1d
 artistLink: https://www.thebeatles.com/store/
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   What is there left to say about The Beatles? Arguably the biggest band in the world, the group produced an extensive discography in a relatively short space of time. For many *Abbey Road* is the last ‘true’ Beatles record, and it is easy to see why.

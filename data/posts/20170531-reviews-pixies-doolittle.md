@@ -130,7 +130,7 @@ review: >-
   The evocations that do stick, though — such as the reference to Dalí/Buñuel’s surrealism — are compelling, as seen through bloody eyes; indeed, *Doolittle* is framed by these two songs referring to optic mutilation, and with my perception suitably bloodied I now look again to a world of rock gladly Debased forever by the Pixies.
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Pixies’ *Doolittle* remains to this day one of the quintessential ‘must listens’ in music history. Similar to the common ‘[Beatles](/reviews/the-beatles-abbey-road/) phase’, everyone seems to have that 'Pixies phase' too, and *Doolittle* is often the album that opens the initial obsession. The record is a perfect mix of sharp bass tones, whirling and sometimes screeching guitar, and an unforgettable vocal style. Songs like "Debaser" have become such cult staples that it is almost impossible not to know the words. 

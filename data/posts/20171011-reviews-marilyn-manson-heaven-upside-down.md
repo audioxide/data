@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Manson’s music has always lived within the visual. From the man himself, to the stage sets, to the guitar pedal boards, they permeate each other. And often with excellent consequences. Like [Bowie](/reviews/david-bowie-hunky-dory) innovated before him, he has an incredible ability to slip into personas and create records that are unified in their harmonic dissonance. Albums like *Mechanical Animals*, *Golden Age of Grotesque*, and even his most recent record *The Pale Emperor* do this in spades. This is where *Heaven Upside Down* falls down.

@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Kendrick Lamar’s newest release *DAMN.* has been met with huge anticipation. Not least of all because he had everyone [waiting patiently for a release date that would end up being a week later](https://www.youtube.com/watch?v=lbYIUnV8u7E). Regardless, *DAMN.* in many areas does not disappoint. It may not hit you as immediately as the ‘smell of those yams as you’re walking down the street’, but it’s full of intelligible hooks, darkly captivating lyrics, and a generous handful of creative and interesting collabs. 

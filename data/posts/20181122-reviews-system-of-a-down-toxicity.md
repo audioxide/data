@@ -54,7 +54,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   System of a Down hold an unusual place in many people’s personal musical history. Listening to *Toxicity* in the latter part of 2018 it is clear to see that it is very of the time. Having said this, back in its 2001 release it felt like a fresh, Armenian infused injection into an otherwise homogenised heavy metal scene. From their first self-titled release in 1998 it was clear SOAD had a distinct sound. One still recognisable and rarely imitated today. *Toxicity* is no exception.

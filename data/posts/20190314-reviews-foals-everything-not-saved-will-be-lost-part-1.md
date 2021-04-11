@@ -37,7 +37,7 @@ artistLink: https://shop.foals.co.uk/
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   It seems almost an age ago that Foals dropped their debut album [*Antidotes*](/reviews/foals-antidotes/), a record we covered not too long ago. In that review I said ‘Foals manage to keep things interesting not only throughout the record but within the songs themselves.’

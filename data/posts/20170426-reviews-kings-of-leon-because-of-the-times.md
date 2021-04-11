@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   There was a time, a time in the not too distant past, where Kings of Leon were known for more than supplying the [“Sex on Fire”](https://www.youtube.com/watch?v=RF0HhrwIwp0) anthem to every hen and stag do you’ve had the pleasure of being accosted by in your local Weatherspoon’s. That time was 2007, and Kings of Leon had just released their third studio album *Because of the Times*. Musically, the record is an unapologetic love affair with Americana, Dixie rock and ‘of-the-time’ indie. In many ways this works hugely to their favour. There is a sense of atmospheric grit that emanates from almost every track on this album. It’s sweet, salty and muddy all at the same time.

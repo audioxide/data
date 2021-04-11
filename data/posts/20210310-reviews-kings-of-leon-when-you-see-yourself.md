@@ -37,7 +37,7 @@ albumMBID: 4486d356-5ad2-43ec-b9f0-c571eafde4f3
 artistLink: https://kingsofleonshop.com/
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Not long ago, I had the pleasure of reviewing Kings of Leon’s, [_Because of the Times_](/reviews/kings-of-leon-because-of-the-times/). At the time I gave it a 7/10, however, if you sit alongside their new record, _When You See Yourself_, it’s easily an 8 or 9/10.

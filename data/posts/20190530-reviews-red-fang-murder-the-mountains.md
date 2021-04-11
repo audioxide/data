@@ -36,7 +36,7 @@ artistLink: http://redfang.net/store.html
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Red Fang may seem on the outset to be your standard all American heavy metal outfit, but I think there’s much more to them then punching guitars and growling vocals.

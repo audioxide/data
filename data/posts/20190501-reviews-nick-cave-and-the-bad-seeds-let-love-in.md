@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   I am by no means a seasoned Nick Cave listener, not least of all due to his (and his Bad Seeds) extensive back catalogue stretching almost 40 years. However, *Let Love In* is as good a place to start as any. It may be the most well-rounded listening experience for any new listeners as it exemplifies Nick Cave’s vocals and lyrics whilst also varying its influences and sounds from song to song.

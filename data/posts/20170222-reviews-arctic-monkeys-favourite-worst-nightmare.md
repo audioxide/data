@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   With the Arctic Monkeys album *Favourite Worst Nightmare* reaching 10 years since its release year, there seems no better time to break out that old box of nostalgia lurking under your bed. There are few albums that bring back such vivid memories both good and bad. *Favourite Worst Nightmare* speaks to a time where shouting ‘bus wanker’ was still funny. A time where every local dancehall and club was filled with shamelessly terrible Strokes/Arctic Monkeys clones. The Arctic Monkeys in the mid 2000s were the answer to so many — they showed that you too could start a chart topping indie rock band from your dad's shed. 

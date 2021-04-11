@@ -37,7 +37,7 @@ artistLink: https://www.idlesband.com/shop/
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   [*Joy as an Act of Resistance*](/reviews/idles-joy-as-an-act-of-resistance/) was undoubtedly a highlight of 2018 for me. As IDLES always manage to do, it spoke volumes to the state of current affairs. Two years on and the world seems debatably worse. IDLES’ new record *Ultra Mono* acts not just as a further comment, but as a perfect release of anger, anxiety as well as love and kindness. It gets me fired up.

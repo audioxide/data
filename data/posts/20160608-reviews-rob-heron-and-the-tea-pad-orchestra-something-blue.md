@@ -92,7 +92,7 @@ score:
   fraction: 0.6
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   My first encounter with Rob Heron and the Tea Pad Orchestra was at Koko in Camden Town some four years ago now. They were supporting a favourite artist of mine, Pokey Lafarge & The South City Three, and right then I was blown away. _Something Blue_ intertwines aspects of country, gypsy jazz, Americana, and gospel. For listeners less experienced with these genres, the music of Rob Heron and the Tea Pad Orchestra might be considered ‘retro’, a word that [Pokey Lafarge openly dislikes](https://www.youtube.com/watch?v=No22bRC1-gA). Pokey quite aptly describes his own music as 'American music that never died', and I believe the same can be said for Rob Heron and the Tea Pad Orchestra. What immediately excited me about them is that they’re not from Louisiana or from New Orleans or Chicago. They’re from Newcastle, UK. As a person who has listened to and played jazz, swing, and blues as soon as my 13 year old fingers could grapple that bar chord, the fact that Rob Heron et al. were young and British was confirmation that there was an audience for a new breed of Traditional music, that talked about current topics.

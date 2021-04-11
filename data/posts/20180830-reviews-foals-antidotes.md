@@ -34,7 +34,7 @@ artistLink: https://shop.foals.co.uk/
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Foals first came to my attention (and many others) in 2007 with a track called “Hummer”. They emerged into a scene that was oversaturated with bad haircuts and bedroom guitar playing, but still managed to bring something fresh. From the get go they were on track to be the sound of early 2000’s youth. Not least of all because many of their tracks soundtracked the then popular TV show *Skins*. Thankfully, *Skins* has all but left us. However, Foals have not, and their now fairly prolific discography may not have been possible without a solid start from their debut *Antidotes*.

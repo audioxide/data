@@ -36,7 +36,7 @@ artistLink: https://drenge.tmstor.es/
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Drenge burst into our eardrums in 2013 with their self-titled debut album. It was a welcome opening, at least to me anyway. Drenge were among the raucous two-piece outfits that seemed to be periodically emerging. We got [Royal Blood](/reviews/royal-blood-how-did-we-get-so-dark/), but whilst their musings were slick, tight and produced, Drenge were rough, ready and ultimately more punk.

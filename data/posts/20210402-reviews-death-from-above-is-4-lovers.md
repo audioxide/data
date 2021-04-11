@@ -63,7 +63,7 @@ tracks:
 
 ---
 
-author: gabriel
+author: gabriel-sutton
 
 review: >-
   Back in 2005, Death from Above 1979 made waves with _You’re a Woman, I’m A Machine_. Back in the hazy days of the early naughties two piece rock outfits were not as common as they are now with the likes of [Royal Blood](/reviews/royal-blood-how-did-we-get-so-dark/) and [Drenge](/reviews/drenge-strange-creatures/), to name a couple. We would have to wait almost 10 years for anything new from Death from Above 1979, but it was worth it. Their consequent albums, _The Physical World_ and _Outrage! Is Now_ were superb.
