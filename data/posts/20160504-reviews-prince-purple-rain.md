@@ -56,7 +56,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This fully shoulders its mantle of iconic ’80s album. This is one of those works that define an era rather than toes its line, sounding very much of its time but rarely in a way that dates it. Dynamic songwriting; a rich breadth of sounds and vocal deliveries; thick, grinding guitar; all these qualities and more are on hand, and with subtle, intelligent flow. 

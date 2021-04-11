@@ -61,7 +61,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think *The Stone Roses* is one of those albums where you’re not so much affected by specific moments as you are by the quality of the overall experience. It’s an ironic conclusion given how down I’ve been on releases this year for lacking standout traits, but there you go. This album is a cut above and can get away with it. In fact, it positively thrives.

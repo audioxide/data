@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   You know how albums sometimes have a song or two that could stand to be cut? *Little Dark Age*  is entirely made up of those songs. They’re not *bad*, the production is *ok*, but is that enough? Synth tunes plod along with all the charisma of a mumbler with a weak chin, and it’s not as if the mix is lush enough to distract from the total absence of drive or direction. If *Little Dark Age* went nowhere but sounded great, ok, but it goes nowhere and sounds fine. It’s utterly middling. 

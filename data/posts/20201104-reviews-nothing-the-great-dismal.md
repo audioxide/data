@@ -63,7 +63,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   By and large *The Great Dismal* listens like something out of the gentle giant school of rock, serving up heavy riffs and thumping rhythms with all the awkward, stuttering grace of a class nerd with horn-rimmed glasses. I’m a fan of the sound, but the album does lay it on a bit thick at times.

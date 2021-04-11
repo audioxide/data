@@ -56,7 +56,7 @@ score:
   max: 10
   fraction: 0.7
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Animated Violence Mild* listens like a video game running on nightmare fuel. Is that what a lot of people want? I guess so. Is it something I understand? No.

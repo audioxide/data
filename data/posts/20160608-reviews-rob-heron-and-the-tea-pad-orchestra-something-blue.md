@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Something Blue* joins a frustrating school of albums we’ve listened to in which recording decisions deeply hinder the final product and do a disservice to the talents of the artist. Like Lianne La Havas’ [*Blood*](/reviews/lianne-la-havas-blood/) and Savages’ [*Adore Life*](/reviews/adore-life/), Rob Heron & The Tea Pad Orchestra shoot themselves in the foot here by failing to translate their performative energies into a vibrant recorded form. The songwriting is dynamic and fun, the group is delightfully tight on a technical level, Heron’s lyrics are sprite and clever, and I can barely enjoy any of it because it’s like I’m hearing it through a wall. The group has been so cleanly recorded in *Something Blue* that their collective sound has been reduced to a Disney-style brand of sanitised grit. 

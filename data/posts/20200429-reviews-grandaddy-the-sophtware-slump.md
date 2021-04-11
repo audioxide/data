@@ -64,7 +64,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Where to begin with *The Sophtware Slump*. Equal parts [Weezer](/reviews/weezer-the-blue-album/), [Radiohead](/reviews/radiohead-a-moon-shaped-pool/), [Neil Young](/reviews/neil-young-on-the-beach/), and blinking neon fairground ride, I’m never quite sure whether to find the album amusing or deeply moving. In any case, it’s very, very good. Whiny American nerd rock isn’t exactly my go-to genre, but this is a cut above most of what you hear out of the indie scene.

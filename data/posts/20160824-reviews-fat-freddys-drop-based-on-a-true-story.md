@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Based on a True Story* was like listening to galaxy formation very slightly sped up. Numerous instruments and sounds go into the makeup of the album, but it takes an age for them to converge and take shape. When they do, the results are seductive, although not without their limitations. Early tracks are formless, passive, and overlong. This happens then that happens then it’s the next song. It’s not terribly gripping. 

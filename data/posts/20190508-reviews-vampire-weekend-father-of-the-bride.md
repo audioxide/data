@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This isn’t the kind of music I would listen to in my own time, so *Father of the Bride* does well to be a pleasant listen. It delivers its preppy brand of indie rock with such aplomb that I actually find myself enjoying the album most when it’s annoying me. The songs, which are largely a jumble of richly produced pop arrangements and Ezra Koenig cooing, are hokey, but they’re also unexpectedly endearing.

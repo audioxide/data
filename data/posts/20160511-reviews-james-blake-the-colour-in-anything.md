@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Slurring his words over echoey piano, a series of unrelated synth effects, and an occasionally off-beat drum machine, James Blake is back. If you’re a fan of his sound, *The Colour in Anything* is likely to be a welcome addition to his discography, with plenty of new ‘tunes’ to latch onto. If, like me, you’re not convinced, you might find it grating that his only major creative leap here seems to be doing what he does for longer. The album clocks in at over seventy minutes long, and yet there’s very little I can say about it that wasn’t covered during our discussion of [*Overgrown*](/reviews/james-blake-overgrown/). 

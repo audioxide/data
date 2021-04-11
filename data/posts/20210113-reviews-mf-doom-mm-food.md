@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Playful and stylish, with flows so smooth they border on indecent, *MM..FOOD* is hip hop on another plane. It’s a joy to listen to. MF DOOM’s wordplay and delivery have that weightlessness of peak performance, like [Muhammad Ali dancing circles around Cleveland Williams](https://www.youtube.com/watch?v=oJUzl0aFHZw), or [David Gilmour playing guitar in Pompeii](https://www.youtube.com/watch?v=y-E7_VHLvkE). I can barely string together a ‘thanks, have a nice day’ at the supermarket and here’s DOOM with words tumbling out of him for minutes at a time with every single one fitting together like god made them specially for that purpose. It’s marvellous, and quite wonderful.

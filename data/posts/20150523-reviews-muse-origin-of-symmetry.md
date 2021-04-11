@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Origin of Symmetry* was my introduction to Muse, and although returning to it hasn’t provided the same punch, its power remains pretty remarkable. The album is a hotbed of frenzied riffs and quivering falsettos, and its rawness suits Muse down to the ground. 

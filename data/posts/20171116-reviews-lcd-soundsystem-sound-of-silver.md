@@ -64,7 +64,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I struggled with this one. Listening through it’s obvious how much love and craftsmanship went into making *Sound of Silver*, and the influences — from [Talking Heads](/reviews/talking-heads-remain-in-light/) to [Bowie](/reviews/david-bowie-low/) — bounce around quite happily, but I can never really get on board with what’s happening. For every dance stormer like “Get Innocuous!” there’s a track I find repetitive and frigid. When the record lets its hair down and gets to the point it’s a true (goofy) groovefest. The opener’s a blinder, and “North American Scum” is super sharp. The closer’s lovely too. Good spells abound, and yet, ultimately, a solid chunk of the album sounds like a glossy, sterile homage to music I’d rather be listening to, and that’s as far as it gets.

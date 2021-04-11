@@ -56,7 +56,7 @@ score:
   max: 10
   
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Bob Dylan has a gift for making you feel like you’re sharing in a dark, beautiful secret in the same breath that he’s telling you to go take a hike. He has no shortage of seminal works, but *Highway 61 Revisited* is probably the finest meeting of his anger and his clarity. The record is almost everything it’s cracked up to be, and that amounts to something pretty special — especially where side one is concerned. 

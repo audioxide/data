@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think it’d be quite easy for an album like The Universal Want to sound rubbish. High paced pop rock with busy arrangements and ornate mixing is a potentially boorish combo, but Doves do an admirable job of spinning its plates. The album earns your attention and keeps hold of it without ever quite being exceptional.

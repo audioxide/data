@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Spiritualized was one of the first artists we ever reviewed here, and in the years since nothing has quite compared to their sound. The spacious-yet-intricate intimacy of [*Ladies and Gentlemen We Are Floating in Space*](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/) still holds up as a ‘90s high water mark. Today, over 20 years later, Jason Pierce is still sending transmissions from the stars. Are they as urgent as those he’s sent before? As essential? No. Will they please fans? I expect so. The line between rut and groove can blur on projects like this. More of the same can be both a blessing and a curse.

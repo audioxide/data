@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Blood* is undeniably a smooth listen, but beneath its silky surface I don’t think there’s a great deal to care for. For all the merits of Lianne La Havas’s thoroughly lovely and dynamic voice, the album ultimately comes across as lopsided and a little flat. 

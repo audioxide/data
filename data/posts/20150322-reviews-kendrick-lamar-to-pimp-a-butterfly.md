@@ -53,7 +53,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s candid, abrasive, and full of heart; an album as provocative as it is inspiring. The soundscape is varied and gorgeous, but the beating heart of the album is the voice of Kendrick Lamar, which is becoming increasingly important. *To Pimp a Butterfly* is a work that will quite rightly be revered for a long time. Amidst the frustration and despair there’s a lot of love in this album, and that love shines through.

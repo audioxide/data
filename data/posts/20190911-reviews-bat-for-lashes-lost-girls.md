@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Up to now my relationship with for Bat for Lashes has drifted between [noncommittal fondness](/reviews/sexwitch-sexwitch/) and [mild disappointment](/reviews/bat-for-lashes-the-bride/). This time I have to concede I have stepped up to a little crush. Just a little one. *Lost Girls* does not entirely avoid Khan’s traditional shortcomings (airiness and filler, mainly) but it is probably her most cohesive project to date, and has some serious groove credentials.

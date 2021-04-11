@@ -8,7 +8,7 @@ featuredimage: funnyfarm-images/7-the-dealer-man-can.jpg
 featuredimageAlt: Ink drawing of Thenmayne III
 title: "VII: The Dealer Man Can"
 summary: In which Bas replenishes his supply of nectar
-author: fred
+author: frederick-obrien
 blurb: In which Bas replenishes his supply of nectar.
 ---
 

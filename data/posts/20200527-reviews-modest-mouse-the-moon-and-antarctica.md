@@ -67,7 +67,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Pensive, tinny, and to this day still something of an enigma, *The Moon & Antarctica* has to be one of indie music’s finest ambassadors. Its awkwardness is familiar, and its downbeatness somehow life-affirming. During our chat about the album we found the album conjured uncannily specific visions in each of us – country backroads splashed with moonlight, cities in slumber just before dawn, that kind of thing. The vividness and variety of what we saw reflects the album itself, which seldom feels cluttered despite the breadth of sounds it explores.

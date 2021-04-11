@@ -53,7 +53,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Dark Side of the Moon* is one of those high-water marks of artistic expression. It’s just sublime. I don’t have a bad thing to say about it. I think the two halves need each other, their relationship not unlike the one shared by the beam of light and the prism that adorn the iconic cover. If I wasn’t such an impassive git this album probably would have changed my life. I’ve chosen favourites, but you really should just listen to it all in one go.

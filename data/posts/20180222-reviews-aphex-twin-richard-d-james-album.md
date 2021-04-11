@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Of all things, this reminded me most of our experience with Brian Eno’s [*Music for Airports*](/reviews/brian-eno-ambient-1-music-for-airports/). Listening to this was far more relaxing than it had any business being; there’s a tranquility to even the most restless arrangements. *Richard D. James Album* is kooky to be sure, but it’s also assured. It’s confident in a way that totally grounds everything you hear, from drum machines to slide whistles. 

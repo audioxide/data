@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I feel like a broken record at this point. Whenever we listen to albums like this we each say more or the less the same things as we did the time before, because the music is more or the less the same as it was the time before. *Be Up A Hello* is a playful, frenetic addition to Squarepusher’s discography. The beats glitch around all over the place and synth effects keep it from being overly abrasive. If you like Squarepusher, you’ll like the album, because it’s exactly what you’d expect. If you go in cold you’ll remain so for the same reason.

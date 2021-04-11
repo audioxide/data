@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Having never listened to Tyler, the Creator before, I thoroughly enjoyed *Flower Boy*. The album’s craft is a pleasure to experience, and the sound is confident and rich. It doesn’t so much command attention as lure it in. Listens through have the sensory, slow-motion quality of a dream, which is quite a feat in any genre, let alone R&B. 

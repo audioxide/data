@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s excellent; a cartoonish odyssey bristling with creative energy. The whimsy of the band’s debut album is toned down, and what emerges in its stead is a biting sombreness very much of the 21st century. It’s eclectic in the very best sense of the word. 

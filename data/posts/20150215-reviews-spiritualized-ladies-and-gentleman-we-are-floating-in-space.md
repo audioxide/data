@@ -50,7 +50,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >- 
   It really is quite beautiful, a proper labour of love. The breadth and layering of sound is stunning. You find new things to admire each time you listen. That said, the middle portion lost me a little, though I’d imagine that’s partially because the opening and closings are so good. “Cop Shoot Cop” is an odd choice of closing track, but it’s as cool as they come.

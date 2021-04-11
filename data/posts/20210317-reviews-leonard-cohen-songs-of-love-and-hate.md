@@ -65,7 +65,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   One person and a guitar; a combination of timeless simplicity and beauty. That is, when it’s done right, and boy does _Songs of Love and Hate_ do it right. Never quite as simple as it appears, the album certainly is timeless, and plenty of other things too. Tender, magisterial, and wisened are qualities that come to mind, though none quite do justice to the innerworldliness of what goes on.

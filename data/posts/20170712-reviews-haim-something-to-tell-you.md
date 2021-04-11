@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Something to Tell You* is glossy, air-headed radio pop fresh from the Pacific coast, and pretty good at it. Love is aplenty and tan will prevail. The record has the spaced, friendly character of a Long Beach stereotype, and if you reign in your (read: my) judgement it’s just as agreeable. Visions of Disney montages are pretty insistent, as well as that weird non-energy I thought was limited to ‘inspiring’ quotes telling people not to improve themselves, but it’s charming.

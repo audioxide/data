@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Talented people coming together to share in the joy of creation and music sounds like a good deal, especially in the summer. Unfortunately, most of what The Internet serve up here is relaxed to the point of inconsequence. It’s dozy. The low-key delivery and subtle groove puts most of the album out of focus. It’s not just the songwriting either. The production is dazed and murky, and the hour-long runtime doesn’t help matters. The lasting impression is of something nice. Boring and nice.

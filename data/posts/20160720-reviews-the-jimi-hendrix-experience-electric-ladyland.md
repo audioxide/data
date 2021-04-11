@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s obvious why this is considered a classic. It’s also obvious why André, Andrew, and I hadn’t listened to it before. It’s instinctive, messy, and rambling, with shimmers of the divine. *Electric Ladyland* speaks in a kind of rock and roll tongues, sitting Jimi Hendrix front and centre and rolling with it. 

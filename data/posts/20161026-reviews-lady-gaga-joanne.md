@@ -57,7 +57,7 @@ score:
   fraction: 0.4
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   To my mind, Lady Gaga has always been a better student of image — and the possibilities of image — than of music. She’s had her magic meetings of both, of course. There was a grotesque electricity to her breakout hits which was entirely her own. It’s often been imitated since, but seldom matched, including here. Precious little of what makes/made Gaga special is on show in *Joanne*. Outrageous, acutely self-aware, infuriatingly catchy pop anthems are nowhere to be seen; just pedestrian ones. 

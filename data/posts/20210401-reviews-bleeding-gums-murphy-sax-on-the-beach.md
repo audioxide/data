@@ -63,7 +63,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   What is the language of the soul? Some might say French, others Sanskrit, though both those suggestions would be wrong because it’s actually Bleeding Gums Murphy playing the saxophone. The man once hailed by [Miles Davis](/reviews/miles-davis-kind-of-blue/) as ‘the coolest cat I’ve ever met’ was a generational talent, and he only needed one LP to prove it.

@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Let Love In* is a bit of a voodoo album. Lots of strange, unexpected things go in, and from the resultant puff of red smoke a magical and slightly spooky figure steps out. The ever broody Nick Cave takes centre stage of course, almost to the point of hogging the spotlight, but there’s a lot going on around him. That’s what makes the album truly shine.

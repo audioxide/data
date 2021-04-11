@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s almost impossible to separate an album like *Elvis Presley* from the cultural tsunami that followed it, but I’ll try. I don’t think this is a classic album. When it rocks and rolls it still manages to sound a bit naughty, despite being over 60 years old, but there are so many songs crammed into the 28-minute runtime that it’s inevitable for some not to land. Presley barely has time to coo each track’s name before you’re on to the next one.

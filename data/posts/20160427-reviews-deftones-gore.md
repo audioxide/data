@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Gore*, the latest release from alternative metal band Deftones, is a whole lot of screamy, fuzzy merge. Stop the presses! Sadly, I’ve found it difficult to move beyond that initial impression, flippant as it may be. The album is relentless and abrasive in ways that incinerates subtlety and reflection. In its defence, though, it does so deliberately. 

@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I like E. No, not that E. Mr. E. The sad cuddle E. *Daisies of the Galaxy* is a real sweet spot of unobtrusive, almost apologetic Eels melancholy. I love that place. Despair and mania skip hand in hand through cutesy acoustic numbers and gruff rollers and slow burners about the hidden little things that swell bigger than everything. It’s a good ride. 

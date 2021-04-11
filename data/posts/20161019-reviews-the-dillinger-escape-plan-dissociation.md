@@ -63,7 +63,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The Dillinger Escape Plan’s final album exemplifies my strained relationship with x-core music. *Dissociation* is intelligent, deliberate, and utterly punishing. Furious metal rackets trade blows with soft, elegant jazz fusion and string arrangements, and the whole exchange is gorgeous and horrible at the same time. 

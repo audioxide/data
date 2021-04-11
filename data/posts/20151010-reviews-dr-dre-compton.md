@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Compton* is a polished, lumbering beast of an album. Not so much concerned with peaks and troughs as with a steady, charismatic drone of all things Compton, Dr. Dre’s latest concoction rides a peculiar line between celebration and reflection. 

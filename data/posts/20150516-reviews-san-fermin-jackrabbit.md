@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was my first time listening to San Fermin, and it was a very pleasant introduction. I always appreciate it when an artist makes a concerted effort to craft an album, rather than a collection of unrelated songs, and such an approach shines through in *Jackrabbit*. It’s smart, sophisticated pop with a sincere heart, and that makes for an extremely listenable experience from start to finish. 

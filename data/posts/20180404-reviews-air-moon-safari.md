@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is passive and luxurious muzak. I (mostly) don’t mean that in a disparaging way. *Moon Safari* has no shortage of admirable qualities. The arrangements are sophisticated, the mix is bubbly and colourful, and the vocals drift through the track list like a good daydream. It’s all terribly pleasant, especially early on. “Sexy Boy” manages to be lush and lurid at the same time, while “Kelly Watch the Stars” wastes no time flinging you across the cosmos. The soft cooings of Beth Hirsch’s vocals are everything the record deserves. The opening stretch is an electronic delight.

@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a grim experience and I loved it. *F# A# ∞* is like listening to an arthouse film: strange, beautiful, and a tad lax. Godspeed You! Black Emperor’s debut gets deep into the minutia of what is typically labelled post-rock, but the results defy labels. Almost entirely instrumental, the music twangs and moans through a sumptuous range of soundscapes, sounding as fresh as it does apocalyptic. 

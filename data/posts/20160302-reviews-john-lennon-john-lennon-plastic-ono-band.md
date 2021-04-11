@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Stripped-down and emotionally raw, *John Lennon/Plastic Ono Band* is a record I’m glad to have listened to, albeit for slightly atypical reasons. If you’re curious what the fallout from ‘let’s sit down and talk about our feelings’ sounds like in album form, this is as good an example as you’re ever likely to find. It listens like a therapy session — sometimes basely sincere and beautiful, others fidgety, inelegant, and crass. 

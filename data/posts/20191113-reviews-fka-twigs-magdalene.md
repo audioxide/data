@@ -65,7 +65,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   When we reviewed [*Ghosteen*](/reviews/nick-cave-and-the-bad-seeds-ghosteen/) by Nick Cave & The Bad Seeds, my main issue with the album was its tendency to drift. Although the production and arrangements formed a grand backdrop for Cave’s musings, there was no real impetus to drive things along. It felt more like a spoken word art project than a fully formed album. My experience with *MAGDALENE* has been much the same.

@@ -52,7 +52,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s a headful, but I like it. ‘Fucking crazy’ seemed to be my go-to description in our discussion, and I think I’ll stick with that. It’s fucking crazy. Sometimes it’s wonderful, but mostly fucking crazy. There should always be a place for that. The two sides seemingly have nothing to do with each other, but I suppose that might stem from the fact that the whole affair is fucking crazy. Well worth a listen, though that approval comes with the caveat that the two halves be treated as different albums.

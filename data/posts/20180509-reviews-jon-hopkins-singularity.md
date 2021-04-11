@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It bothers me not liking music like *Singularity* more than I do. There are elements of the album which make it clear why so many connect with it. There is also enough lacking for me to understand why I don’t. The production on the album is absolutely immaculate, expansive yet subtle. All very sophisticated. The problem is that it isn’t in service of something more pointed — at least not in a way I can tune into. Much of *Singularity* feels like watching Jon Hopkins nurse a whiskey in a leather wingback armchair. My participation hardly seems necessary. 

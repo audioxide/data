@@ -53,7 +53,7 @@ score:
   max: 10
   fraction: 0.8
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although *Overgrown* prompted a healthy discussion between us about the makeup of ambient — and to a slightly lesser extent electronic — music, I personally have little to say about the album itself. It’s meticulously made and utterly unaffecting. 

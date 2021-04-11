@@ -60,7 +60,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s hard to take seriously [claims that the album is dead](https://www.forbes.com/sites/bobbyowsinski/2018/03/10/album-dead/) when projects like *Let England Shake* exist. PJ Harvey put in all the stops to make something as solemn as it is defiant. Although I will probably always be more partial to the guttural grinds of her ‘90s output, *Let England Shake* really does feel like a statement. Every element — the production, the arrangements, the lyrics, the vocals — pulls in the same direction, and the results are haunting.

@@ -50,7 +50,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s a funny old album, *Arthur*. A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album's scattered feel keeps it from being more than the sum of its parts. That’s a minor qualm, though. The lyrics and melodies are graceful and lovely, and the instrumentation supports them with aplomb. It’s all very Kinks-y, in that the main takeaway is ultimately, ‘Well, that sure was a pleasant listen!’ Sometimes that’s all you need.

@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   That *In Utero* was somehow able to step out from *Nevermind*’s shadow says everything you need to know about its quality. Nirvana’s final album has an unassuming, painful grace that its predecessor does not. Cobain, Grohl, and Novoselic had an elemental chemistry, and their controlled, aggressive introspection here lends itself to a heavy meditative state. There aren’t as many standout tracks as there are on in *Nevermind*, but *In Utero* is a more complete, assured work. 

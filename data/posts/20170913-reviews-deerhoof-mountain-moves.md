@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was wacky, but seldom contrived. I’m not sure I’ve ever heard something so delighted to be doing whatever it damn well pleased. There’s a twinkle to *Mountain Moves* that’s genuinely endearing, if sometimes trying. The production and general sound is great, every instrument and vocal brimming with colour. “Come Down Here & Say That” showcases this particularly well, rattling cheerfully through about eight different genres, as does “Your Dystopic Creation Doesn’t Fear You”. 

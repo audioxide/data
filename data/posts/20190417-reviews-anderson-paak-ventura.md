@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This has been a strange year. Each album seems to have something really right with it, but there’s always something crucial missing. Sadly, *Ventura* continues the trend, though many of its ingredients are top drawer. The arrangements are funky, the production is lush and sophisticated, and Anderson .Paak is a suitably smooth master of ceremonies. When the album is in full swing, be it through the jangling groove of “Yada Yada” or the thick, velvety soul of “Chosen One”, it’s very, very pleasant to listen to.

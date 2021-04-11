@@ -56,7 +56,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Gaze long enough into an abyss, the abyss will gaze back into you. *Dreamland* is an album that tackles head on the bubbly, colourful, vapid, disposable, Instagram filtered, infotainment-filled emptiness of modern life. To Glass Animals’ credit, that character comes across pretty strongly. Sadly though, that character comes across pretty strongly.

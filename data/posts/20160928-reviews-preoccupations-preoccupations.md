@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Preoccupations* is formless, but not in a bad way. The self-titled presentation is appropriate; the album is effectively forty minutes of the band’s sound, something defined more by character than by memorable statements. Luckily, it’s a good sound, a heavy post-punk drone reminiscent of the likes of Joy Division and early [Public Image Ltd](/reviews/public-image-ltd-9/). The difference is that this is more at ease with its pleasantness, which I suppose is to be expected given that Preoccupations are Canadian. 

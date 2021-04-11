@@ -63,7 +63,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   We all have those films we watch, books we read, and albums we listen to when we don’t want to think. In their inoffensive, professional competence we find solace and maybe even the occasional emotion. Mordechai is in that bracket.

@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The sensation I get when listening to *How Did We Get So Dark?* is similar to that of watching a Marvel film: entertained, but not terribly invested. The sound is solid, the choruses are catchy, the riffs hook, and so on. It’s all there. Elements of strong rock — in the vein of [Muse](/reviews/muse-origin-of-symmetry/) and [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) — litter the album, but they rarely have their own weight. 

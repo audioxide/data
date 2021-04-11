@@ -66,7 +66,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Hounds of Love* travels to the outer reaches of pop, and it often feels like it does so simply out of curiosity. Bush’s first four albums were a whirlwind, released in quick succession and with near-furious creative energy. In *Hounds* there’s a clear sense of someone stepping back, breathing in, and trying something extraordinary. 

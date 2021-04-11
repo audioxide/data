@@ -59,7 +59,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Listening to *RTJ4* is like clinging to the side of a runaway freight train - what else can a man do but shrug his shoulders and enjoy the ride? Fast and very, very furious is the name of the game, and while it would be easy for an approach like this to burn out, here it simply feels relentless. Bish bash bosh, cut the bullshit and thank you very much ladies and gentleman.

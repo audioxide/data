@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Big Fish Theory*, the much anticipated follow-up to *The Spilt Milk Equilibrium*, is a complete mystery to me. Bursting at the seams with collaborators, writers, and producers, a distinct identity is sorely lacking. Nothing on the record holds a candle to work like the 2015 single “Norf Norf”, the off-kilter, conversational tone of which caught the imaginations of millions. *Big Fish Theory*, despite being much noisier, has far less impact. It reminds me of Kanye West’s [*The Life of Pablo*](/reviews/kanye-west-the-life-of-pablo/), but without the redemptive zeal and colour of madness. The production is similarly bright here, but it doesn’t seem to be in service on anything.

@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 review: >-
   *25* is inoffensive and unspectacular pop fodder. People will listen to it on the radio and find it agreeable and vaguely evocative and no-one will be telling their grandchildren how exciting it was to be around when it was released. It’s a shame, because when it’s utilised effectively Adele has a voice like a freight train, and she’s shown herself to be an extremely capable songwriter in fits and bursts across *19* and *21*. 
   

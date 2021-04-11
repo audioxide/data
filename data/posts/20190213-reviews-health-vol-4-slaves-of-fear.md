@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is an album that really sells itself short. *Vol. 4 :: Slaves of Fear *goes a mile a minute sounding cavernous and empty in equal measure. It reminds me a little of [Nine Inch Nails](/reviews/nine-inch-nails-bad-witch/), but only as a kind of pretender. NIN’s industrial edge leaves festering wounds, whereas HEALTH leaves only a glazed expression. 

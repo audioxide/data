@@ -56,7 +56,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Relaxer* falls together for spells, but for the most part the music sounds drunk. The general impression it leaves is inelegant and sloppy. I don’t understand what *Relaxer* is for or what it’s trying to do or say. 

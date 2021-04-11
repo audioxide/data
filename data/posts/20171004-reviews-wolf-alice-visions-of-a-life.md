@@ -66,7 +66,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   We all liked Wolf Alice’s debut, [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool). We liked it very much. It was imperfect and vivid and we were all excited to hear the band grow — and my haven’t they. I think *Visions of a Life* is a masterpiece. I’m utterly infatuated with everything about it. The songs, the sound, the feel, the pacing. Everything. 

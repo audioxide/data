@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Being introduced to EDM this way was like being introduced to a moving car. There’s a lot of noise in *Free the Universe*. A lot. And it won’t stop. It won’t stop. It won’t stop. If music really is the gaps between the notes then *Free the Universe* is sublimely vapid. I’m not sure I’ve ever listened to something so terrified of silence. There are points in the album that threaten to be listenable — softer, calmer efforts like “Reach for the Stars” or “Jessica” — but the poor dears are bludgeoned to death by the staggering din of the rest of the tracks. I’m a grumpy, reticent sort, so the all-in hedonist orgy extravaganza Major Lazer is going for is probably wasted on me. That’s its saving grace; if you’re not me you might not hate it. But me, I hear precious little humanity in *Free the Universe*. The album is a grotesque semblance of life, and all that lies behind its ghastly veneer is the reminder that death is coming and not soon enough. My warmest thanks to Kaya for the request.

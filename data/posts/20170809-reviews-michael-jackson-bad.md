@@ -55,7 +55,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Bad* is good, but it isn’t Michael Jackson’s best work. It’s like having ’80s pop pumped straight into your veins. Given that the strain is MJ — the good stuff — I’m game. It’s just terribly easy to listen to. Practically every song is catchy enough to be a single (and probably was). 

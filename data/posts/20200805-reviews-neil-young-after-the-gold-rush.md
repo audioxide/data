@@ -67,7 +67,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Reviewing albums of this calibre is a bit of a double-edged sword. They’re a delight to listen to, and writing about them almost feels redundant. What is there to say about *After the Gold Rush* that hasn’t been already? It’s vintage Neil Young, as fine a blend of rock, blues, and country you’re ever likely to hear. Beautifully produced too, which always helps.

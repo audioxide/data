@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s something uniquely engaging about *MartyrLoserKing*. When listening to it I don’t hear an album so much as I do a vivid and vibrant spoken word performance. Small wonder given Saul Williams’ background, but worthy of mention up-front given much of the work’s impact stems from the deference it pays to its vocals. 

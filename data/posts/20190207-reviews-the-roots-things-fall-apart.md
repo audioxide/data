@@ -54,7 +54,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In many respects it’s commendable that an album can last over 70 minutes and more or less maintain a high standard during that time. It is also strangely disappointing that that is the best thing I can say about *Things Fall Apart*. I wish I could wax lyrical about the audacity of this track and the bone-shattering truth of that track, but I can’t. The album is pure, unadulterated flow. Well produced, sprinkled with a rich variety of genre samples and beats, it seldom sets a foot wrong. Just one in front of the other until it reaches wherever it’s getting to.

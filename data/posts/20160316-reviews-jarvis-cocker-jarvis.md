@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Jarvis Cocker’s maiden solo album sounds like one. The record, for better or worse, may as well be called *Pop: The Album*: charming, listenable, and a bit shallow. As I think happens quite often with solo albums, *Jarvis* comes across like one person trying to replicate the synergy of a band — without the band. This is hardly a deal breaker, but it does make for a peculiar dynamic. 

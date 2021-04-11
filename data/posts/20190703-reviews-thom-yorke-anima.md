@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is a Thom Yorke solo project. I listen to it and I think, ‘Yep, this is a solo Thom Yorke project.’ There are bitty drum machines, shivering synthesisers, dissonant keyboards, and a whole lot of tender harmonies. You land slap bang in the middle of that world and stay there for 50 minutes.

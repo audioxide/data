@@ -57,7 +57,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sensuous and glum, *Dummy* is all you can reasonably ask of a debut album. It announces itself as something new and distinct, and manages to do so with the wry, measured air of a veteran. Portishead’s murky, submerged sound provides a near-perfect accompaniment for Beth Gibbons’ near-perfect voice. It seems unfair for a human to be able to sound as beautiful as she does, but *Dummy* doesn’t waste the privilege. 

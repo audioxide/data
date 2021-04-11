@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s disappointing how much better the closing track of *Strange Creature*’s is than the rest of the album. “When I Look into Your Eyes” is spacious, catchy, memorable… everything the nine tracks before it are not. There are glimpses of something vibey and energetic, but they are infrequent and blurry. The clean, inoffensive production doesn’t suit the instrumentals, the raw elements of which would probably sound quite grungy if we were allowed to hear them properly. “Autonomy” might have been a banger if it was allowed to be dirty.

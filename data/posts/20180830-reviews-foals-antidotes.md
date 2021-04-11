@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Fidgety, kooky math rock reigns supreme in Foals’ debut, and it does so with such openness and colour that I like it in spite of myself. Indie music in this vein doesn’t usually please me, to put it mildly, but there’s enough going on under the hood for *Antidotes* to command at least bemused attention at any given time. The blend of shoutsinging, scraggly guitars, and tourette-style drumming amounts to a respectable indie highlight reel. Weirdness for weirdness sake comes off as obnoxious, but Foals *just* about steer clear of that.

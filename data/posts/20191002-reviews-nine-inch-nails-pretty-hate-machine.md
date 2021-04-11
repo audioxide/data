@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Baby Trent Reznor is a bit like a baby spider up close — kind of adorable, but still pretty horrifying. *Pretty Hate Machine* feels familiar, but not fully formed. Nine Inch Nails has achieved so much, critically and sonically, in the thirty years since this album was released that it ultimately feels more like a precursor than anything else.

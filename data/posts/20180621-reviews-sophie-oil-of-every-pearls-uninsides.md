@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 review: >-
   <center><iframe src="https://gifer.com/embed/S2A7" width="480" height="192.000" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 

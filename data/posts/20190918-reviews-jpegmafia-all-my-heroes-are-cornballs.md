@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   For me listening to *All My Heroes Are Cornballs* feels a bit like attending a house party. It’s noisy, it’s vibey, there’s lots going on in a slightly reckless, unravelling way, and I wouldn’t mind terribly if I were somewhere else. Not that that’s a problem. If I don’t want to be there it probably means it’s a pretty good party.

@@ -53,7 +53,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s easy listening, and then there’s something like *Weather*. This is ambient Muzak. For all its smoothness and gentleness it barely leaves any impression at all. I’d tuned out so much by the end of the first listen that I didn’t realise the album was over for a good few minutes. It’s a real shame too, because I wouldn’t call anything on the album ‘bad’. It just isn’t all that good either.

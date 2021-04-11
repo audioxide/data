@@ -59,7 +59,7 @@ tracks:
 
 ---
 
-author: fred
+author: frederick-obrien
 
 review: >-
   Godspeed You! Black Emperor are back with more brainy rock and weird names. Wailing violins, droning chords, groaning synths, visions of ashes and flame, wink wink, nudge nudge, say no more say no more. Except, I really _can’t_ say much more. André and Marcus have it pretty well covered and I’d just be taking up space. That said, let me say more.

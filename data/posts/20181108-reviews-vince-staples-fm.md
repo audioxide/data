@@ -52,7 +52,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *FM!* sounds like what you’d expect an album called *FM!* to sound like. The songs are short, the beats are consistent, the mix is vibrant, the skits have a radio station theme, and cynicism bubbles throughout. It’s quickfire West Coast hip hop. I’ve cooled on the album since early listens, but there’s an audacity to the concept that’s hard to ignore. *FM! *really does sound like a cartoonish snippet of overblown California radio, with all the pomp and sunshine and shadow that entails.

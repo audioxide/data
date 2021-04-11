@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Trying to describe my feelings on *Freedom’s Goblin* leaves me reaching for all kinds of clumsy metaphors. Limp handshake from a great guy; B movie masterpiece; an album rehearsing itself; easy to listen to and easy to forget, like those people at parties. Take your pick. The album’s a smorgasbord of talents and genres, but something about its execution leaves me seriously wanting — much as I’d like to feel otherwise. 

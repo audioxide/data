@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sentiment aside, *Blackstar* is not quite the tour de force it sorely deserved to be — though it is close. It is delicate and defiant *mementos mori*, relaying life and death intertwined with almost unwavering impact. 

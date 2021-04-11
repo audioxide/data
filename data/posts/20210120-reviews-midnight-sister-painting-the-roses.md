@@ -64,7 +64,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Painting the Roses* is an otherworldly record. More New Orleans than Los Angeles, it’s all jazz and fog and magic, a jumbled make-believe world with an eclectic range of sounds. The cuddly psychedelia of “Foxes” has shades of [the Beatles](/reviews/the-beatles-revolver/), while the magnificently groovy “Sirens” wouldn’t feel at all out of place on [the finest Talking Heads records](/reviews/talking-heads-remain-in-light/). Throughout Juliana Giraffe’s vocals mesh seamlessly with the arrangements, sounding almost Nico-esque on gentler tracks like “Wednesday”. With horns, harmonies, and funk aplenty it makes for a lovely thing to listen to.

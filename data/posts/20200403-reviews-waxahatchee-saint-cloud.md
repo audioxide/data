@@ -62,7 +62,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   On the album artwork of *Saint Cloud*, Katie Crutchfield sits atop a pickup truck overflowing with roses and gazes up at a clear blue sky. Never has a cover more perfectly captured the character of its music. The album’s like roaming the Great Plains in tasteful knitwear.

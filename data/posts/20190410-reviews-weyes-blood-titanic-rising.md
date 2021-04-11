@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a strange listening experience. *Titanic Rising* is lush, ornate, and not terribly gripping. Its arrangements are as intricate as anything likely to be released this year, yet I couldn’t tell you my standout moments. I’m not even sure I have standout moments. The record is too airy for that. Too ethereal. Instead of resting on catchy hooks or a restless rhythm section, *Titanic Rising* tries to weave something bigger.

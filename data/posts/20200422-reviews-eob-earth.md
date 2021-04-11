@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I remember once that Graham Coxon made a solo album and someone hit the nail in the head by saying it sounded like [Blur](/reviews/blur-modern-life-is-rubbish/)‘s guitarist made a solo album. *Earth*, similarly, is an album by a guitarist from Radiohead. That’s what it is, that’s what it sounds like.

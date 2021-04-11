@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Debut* is a vibrant and fearless splash of everything special about an artist — an ideal debut. Björk’s announcement of herself to the world isn’t without its rough edges, but for me that’s part and parcel of what makes it such a joyous experience. It’s so uninhibited, so powerful. Björk drifts from dance to house to electronic, bringing each of them under her spell. 

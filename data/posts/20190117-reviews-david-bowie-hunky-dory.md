@@ -55,7 +55,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Halfway through *Hunky Dory*, in “Quicksand”, David Bowie says he is ‘just a model with potential of a superman.’ That line captures the essence of the album for me. It is dazzling listen, but not mighty in the way [Bowie’s greatest works](/reviews/david-bowie-low/) proved to be.

@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Lianne La Havas is back and she sounds as lovely as you expect, but her third album is not so much a progression from *Blood* as it is a step sideways. The vocals are almost impossibly full and luscious, the songs meander, and the production, though markedly improved, is still too polished to feel real. The songs go down smooth, but I don’t expect they’ll have much staying power.

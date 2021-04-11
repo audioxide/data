@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This album has long been a favourite of mine. Its suave, lively character is one of the most memorable I’ve had the pleasure of listening to. That said, it has been interesting to return to it with a more critical ear. The tone of *The Specials* is indeed its greatest strength. Raucous, but also sophisticated and stylish, the album is, put simply, great fun.

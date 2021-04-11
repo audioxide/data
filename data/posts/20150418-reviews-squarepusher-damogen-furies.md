@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s too abrasive to be my bag. If I were tuned just a little differently I suspect *Damogen Furies* would really push my buttons, but I’m not, so it doesn’t. The music’s more than fine, meticulously mixed; I’m just not sure I want to listen to it ever again. That said, I sincerely look forward to hearing some of Squarepusher’s softer sounds in the future.

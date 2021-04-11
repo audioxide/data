@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *First Impressions of Earth* is a model misunderstood album; flawed, overdrawn, deserving of a good deal of its harsh reviews, and yet still host to a unique and worthwhile character. The Strokes’ 2006 release, embracing the essence of its name, comes across like an unvetted first draft. It is tremendously raw. 

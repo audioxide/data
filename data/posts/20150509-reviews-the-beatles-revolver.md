@@ -50,7 +50,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s not a great deal that can be said about *Revolver* that hasn’t already been quite thoroughly covered in the last fifty years. The songs are consistently excellent, with a rich, fresh sound and truly beautiful lyrics. I don’t think it’s my favourite Beatles album, but it may well catch them at their most cohesive. Lennon, McCartney, and Harrison (and Starr, I guess) are tuned in to the same frequency, and the results are iconic.

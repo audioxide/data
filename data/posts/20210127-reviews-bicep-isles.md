@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   _Isles_ is a gleaming, whirring android of a soundtrack. Too bad, then, that it’s supposed to be an album. It’s hard to escape the feeling you’ve dropped into Bicep’s world _in medias res_, with unheard hours of polished, passive electronic experiments stretching beyond its ‘start’ and its ‘end’. That’s an approach that can work, of course. As Brian Eno so aptly put it in the linear notes of _[Ambient 1: Music for Airports](/reviews/brian-eno-ambient-1-music-for-airports/)_, the goal for a project like this is often to be ‘as ignorable as it is interesting.’ The fatal flaw in that philosophy, as we’ve seen time and again, is that if you’re not Brian Eno the end product often winds up being plain old ignorable.

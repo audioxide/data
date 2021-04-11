@@ -54,7 +54,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Following the release of this project Apparattold told fans: ‘I made a record. It’s called *LP5* because I didn’t wanna make up a bullshit title and a story to go with it. It is about music and only that.’ Fair play to him, he was right. *LP5* has no story and no obvious purpose. It exists, sounding immaculate and saying nothing. At times one wonders why he bothered at all.

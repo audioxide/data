@@ -61,7 +61,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   As Bob Dylan says in “I Contain Multitudes”, *Rough and Rowdy Ways* are songs of experience. This is not bright-eyed music. Grizzled and dusty, the album is as world-weary as it is worldly. Grandpa Dylan sits in his rocking chair by the fire and regales with old stories between stints of napping. The instrumentation is noir-like, all cigarette smoke and shadows. The guitars are gentle without losing their edge, the rhythm thumps along as reliably as a heartbeat.

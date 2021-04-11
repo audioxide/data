@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I had a strange time with this album. There’s no question it’s a quality product, but that’s something I understand rather than feel. Diggs’ flow is superb, the arrangements are dynamic and unusual, and the production is immaculate, serving up a kind of Twilight Zone horror spectacular. It’s been a rather cerebral year for hip hop, almost to the point of being nerdy. *There Existed an Addiction to Blood* often comes across more like a spoken work art piece than as an album. There’s a lot to like, but not a great deal to love.

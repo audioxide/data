@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Deconstruction* is another album by Eels. That’s what it sounds like. The production has depth and colour, the songs are arranged with care, and E sings/talks gruffly about love and being sad. It’s a good, honest serving of Eels. It’s also nothing new. *The Deconstruction* rarely perks up my ears. “Rusty Pipe” and “You Are the Shining Light” come closest, dipping as they do into a novel world of flutes and strings, but even they aren’t pushing things particularly far. For the most part, this is Radio E frequency.

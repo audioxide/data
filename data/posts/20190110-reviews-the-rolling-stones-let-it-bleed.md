@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The Stones in swing is a sound seldom matched in music. *Let It Bleed* has missteps, but it spends most of its runtime swaggering around chewing a piece of wheat. This is probably the most languid Rolling Stones records I’ve listened to. It deals in folk and country almost as much as it does in rock and roll.

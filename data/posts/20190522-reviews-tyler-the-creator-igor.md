@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   What I most remember about Tyler, the Creator’s last album, [*Flower Boy*](/reviews/tyler-the-creator-flower-boy/), is how much I liked it. That’s as specific as it gets. If you asked now I wouldn’t be able to tell you my favourite tracks, or what I think the standout moments were. It sits in my memory as a good thing. I expect *IGOR* will leave a more distinct impression. Despite not feeling as wholesome as the smooth, muscular hip hop of *Flower Boy*, I actually think this is a more ambitious project.

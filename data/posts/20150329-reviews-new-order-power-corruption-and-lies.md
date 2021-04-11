@@ -50,7 +50,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   It comes bizarrely close to being immensely listenable. There are good tunes, some lovely mixing, all the makings of a great album, but it just winds up being a bit drab. It’s so drawn-out. *Power, Corruption & Lies* takes its sweet time not accomplishing very much. It’s like pop music’s answer to padding an essay so that it hits a word count. You can see why people were so irritated that “Blue Monday” wasn’t on the album; most of what’s there instead is so boring. It’s a shame, because when it’s good it’s very good indeed.

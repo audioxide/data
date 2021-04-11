@@ -61,7 +61,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Some things are so well made that they make you appreciate the senses you use to experience them. A perfectly seasoned meal tickles taste buds you didn’t know existed; the right painting leaves you marvelling at the possibilities of colour and texture almost as much as at the painting itself; and a certain class of album delights by showcasing the breadth of sounds we’re capable of hearing. *Music Has the Right to Children* is one of those albums. If not always affecting, it’s unquestionably always stimulating. The production/vibe combo is too good not to engage with. It’s meticulous, assured, and completely under control. There are no soaring melodies or irresistible hooks here. They’re unnecessary. Instead, every moment is the sum of a thousand tiny polished parts.

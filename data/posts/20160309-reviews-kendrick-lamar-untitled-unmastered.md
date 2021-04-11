@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Can’t argue with more Kendrick. Refreshingly up-front about the jumble of its composition, *untitled unmastered.* is a welcome surprise and a worthy addition to Lamar’s already outrageous resume. Comprised mostly of dabbles and snippets from the formative months of [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), this album embraces its patchwork nature and in doing so manages to sound more complete than many ‘real’ records do. 

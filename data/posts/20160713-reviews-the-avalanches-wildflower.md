@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Wildflower*, The Avalanches’ long-awaited follow-up to *Since I Left You*, has arrived in one piece. One bouncy, sunny, protracted piece. It comes out of the blocks strong. “Because I’m Me”, for all intents and purposes the opener, is a dynamically mixed old-meets-new summertime soul drive with serious charm. The track throws a gauntlet down to the rest of the album, which does a serviceable job of picking it up again. 

@@ -67,7 +67,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   A few months back we reviewed an album much like _Glowing in the Dark_. It was [_Mordechai_](/reviews/khruangbin-mordechai/) by Khruangbin. We dubbed it a ‘festival album,’ which meant it was a pleasant one-off event without much staying power. There’s little I can say here that I didn’t say there.

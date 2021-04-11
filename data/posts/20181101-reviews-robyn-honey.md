@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Oftentimes what makes pop music powerful is its ability to be larger than life, to take on the splendour of an emergent butterfly. It’s novel, then, to hear an artist like Robyn opt for snugness and comfort. *Honey* has plenty of pop hallmarks, yet it shakes off enough of the genre’s conventions to feel new, and even a bit enigmatic. *Honey* is far from a broody album, but by pop standards it isn’t far off.

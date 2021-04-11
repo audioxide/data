@@ -61,7 +61,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Straight Outta Compton* is an easy album to take for granted. Its formula is so ingrained in music consciousness now that it’s odd to think there was a ‘before.’ Skits, samples, obstinance, and anger are the linchpins of many great hip hop albums, but few showcase their chemistry as explosively as N.W.A. did in 1988. The [‘reality rap’](https://www.rollingstone.com/music/music-features/ice-cube-on-n-w-as-reality-rap-and-straight-outta-compton-movie-106622/) of their debut shone a light on a world much of America hadn’t seen, and did so in a way that impacted everything that followed. The success of today’s hip hop superstars, from [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) to [Eminem](/reviews/eminem-the-marshall-mathers-lp/), is built on foundations laid by N.W.A.

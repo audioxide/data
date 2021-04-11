@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Skeleton Tree* is a moving, frequently poetic eulogy and deserves all the reverence it has been met with. However — and I’m not alone in thinking this — it doesn’t always hit the mark as an album. There’s something lacking in it that doesn’t inspire me to come back. I wish my first listen to *Skeleton Tree* had occurred without any knowledge of the story behind it. I’d be interested to know what I’d have made of it then. Its general quality is unquestionable, magisterial in its grief. There’s a black magic to Nick Cave’s lyrics and delivery reminiscent of [The Doors](https://www.youtube.com/watch?v=JSUIQgEVDM4) and [Johnny Cash](https://www.youtube.com/watch?v=vt1Pwfnh5pc). The music, thick and heavy, slicks along like oil. 

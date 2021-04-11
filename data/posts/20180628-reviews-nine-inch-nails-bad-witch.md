@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s a credit to Trent Reznor that he can still make me feel this uncomfortable. *Bad Witch* is a dirty, often wretched listen, but I can’t help but be lured down to its level. The pairing of lo-fi production with avant-garde industrial jazz (for lack of a better expression) works far better than one might expect. In the space between the fuzz and crackle the record weaves in some real moments of artistry. 

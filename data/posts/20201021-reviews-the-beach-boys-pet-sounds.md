@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I didn’t remember *Pet Sounds* feeling like such a transitional album. Although the music has moved on from the chummy surfer rock of the Beach Boys’ formative years, it hasn’t yet arrived at the harmony-filled halls of Brian Wilson’s imagination. It’s caught in the middle. Man-child music. 

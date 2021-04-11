@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It is an absolute pleasure listening to *Low*. Written and produced in the midst of Bowie’s come-down from cocaine addiction, the album is infused with a gentle clarity that you’re not conditioned to expect from much of his work. Although its depth of sound is rightly renowned and celebrated, the precise measure and care with which it is pieced together is what elevates it above much of Bowie’s works before and since. 

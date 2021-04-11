@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The funny thing about ambient music is that — at least in theory — the less affecting it is, the more successful it is, and in this sense *Ambient 1: Music for Airports* is a very fine album. Soft and unexpectant, the rippling soundscape Eno crafts doesn’t demand attention, it’s just there; a willing soundtrack to experience, whatever that experience may be. Eno calls ambience ‘a tint,’ a ‘space to think,’ and it certainly provides that in *Music for Airports*. It loosens thought by giving it room to breathe. 

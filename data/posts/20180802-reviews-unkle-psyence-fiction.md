@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I enjoy *Psyence Fiction* best as a kind of ‘90s aggregator. It juggles so many sounds, sample, and vocalists that treating it as a uniform vision seems silly. If anything the album is stubbornly scattergun in its approach. Some grunge here, a sprinkle of trip hop there… and some orchestral spells of course. There’s a daring to that, win or lose. Throwing [Richard Ashcroft](/reviews/the-verve-urban-hymns/) into the midst of a downtempo flow is audacious, but “Lonely Soul” pulls it off. Doing sombre, cooing Thom Yorke [years before he was doing it himself](/reviews/thom-yorke-the-eraser/>) is something we probably take for granted now, but it really is quite impressive given *Psyence Fiction *came out in 1998.

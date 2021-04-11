@@ -61,7 +61,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I once wrote that Josh Homme of [Queens of the Stone Age](/reviews/queens-of-the-stone-age-villains/) could slur his way through a phone book and still be the coolest man in the room. Lana Del Rey has a similar gift, though with a different specialty. She could read a grocery list and still conjure smoky visions of love and cigarettes.

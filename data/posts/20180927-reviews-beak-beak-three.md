@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There are records where the pleasure comes simply from slipping beneath the surface and letting the music play out. Beak>’s third album, *\>>>*, comfortably fits the bill. It builds a broody world to play in and takes its time poking around. Opener “The Brazilian” sets the tone, its murky synths and hard-edged instrumentals bringing with them visions of a moonrise on a distant world. There are no epic cities here, though, no shining utopias. *\>>>* is a dingy place, the scenery buckled and rusty. It’s a terrific mood. One to explore and soak in.

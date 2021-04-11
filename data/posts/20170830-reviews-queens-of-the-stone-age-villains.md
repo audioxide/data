@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The new Queens of the Stone Age album is a bit dorky for me to get fully on board with. There’s a sentence I never thought I’d write. *Villains* dabbles in two new sounds: synthesisers and scrunchy Mark Ronson production. The first works, the other kind of works eventually. 

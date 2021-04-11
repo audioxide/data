@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If all of *Crushing* was as good as its opener it’d probably be one of my favourite releases of the year. “Body” introduces the record with broodiness and elegance, and is a bit of a false dawn. Its slow, shimmering mix draws you in immediately and the instrumentals shape themselves around Jacklin’s vocals, which are beautiful. It’s a superb track.

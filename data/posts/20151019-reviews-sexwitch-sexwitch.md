@@ -52,7 +52,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I’ve seen words like ‘transcendent’ and ‘psychedelic’ thrown around in relation to *Sexwitch*, and I just don’t see it. Vaguely hip covers of eastern folk songs with an echo effect on the vocals does not enlightenment create — at least I hope not. Admittedly, I’m being a little meaner than the album deserves, but I just don’t find it terribly seductive. It does very occasionally brush the ethereal heights it seems to be going for, but only enough to draw its more monotonous aspects into sharper focus. 

@@ -68,7 +68,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is the second time in as many weeks I’ve been a hair’s breadth from loving a record but ultimately held back. *Nothing as the Ideal* has a lot going for it. The record is a sumptuously produced blend of folk, rock, post-rock, and psychedelia, all with a smokey stoner sheen. When it gets rolling the grooves are irresistible. You can inject “See You Next Fall” straight into my veins thank you kindly.

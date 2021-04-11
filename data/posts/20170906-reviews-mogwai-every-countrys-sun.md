@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Like a fair few people, I listened to *Every Country’s Sun* for the first time on its BBC Radio 6 midnight debut, and it was a pretty enchanting experience. My fondness for the record has dimmed slightly with repeat listens, but not by much. It’s muscular enough to meet the expectations of devotees, but it’s in the gentler moments that *Sun* really... shines. (Sorry.) 

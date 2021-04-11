@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Fat of the Land* is a very good dance album and a decent album. I don’t have the joy of dance in my heart so it isn’t terribly useful to me, but the vibe is strong for as long as you feel inclined to not listen too closely. I always feel a little iffy about music that isn’t supposed to be heard, but the sound here is fresh and lively and has aged pretty well. 

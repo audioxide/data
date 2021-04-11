@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is not the Arctic Monkeys as we’ve heard them before, which is just as well six albums in. Alex Turner has said the record [‘tees up the idea of playing to a quiet room,’](https://pitchfork.com/features/song-by-song/arctic-monkeys-alex-turner-decodes-every-song-on-tranquility-base-hotel-and-casino/) and that’s certainly its scene. Hushed, husky Turner monologues drift over sophisticated arrangements with retro sheens, the whole affair playing out at strolling pace, basking in the seedy buzz of a make-believe underworld. In flow *Tranquility Base* feels like slithering down a John Waters-curated rabbit hole. “Science Fiction” hums and grinds with thick synths and smooth refrains, while “Batphone” moves with the tight, thumping intent of a [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon) *Animals* track. It’s unfamiliar territory, but accommodating — in a smokey, ‘70s kind of way.

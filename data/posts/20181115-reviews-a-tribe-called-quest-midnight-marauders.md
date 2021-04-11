@@ -58,7 +58,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Midnight Marauders* is possibly the most sumptuous hip hop album I’ve ever listened to, which makes it all the stranger that I can’t pinpoint most of what happens. It’s relentlessly, casually cool. The record serves up a steady stream of excellence, a hazy, luxurious world of supple grooves and easy flows. Its ‘program’ opens with hopes that what follows will be ‘precise, bass-heavy and just right.’ It delivers and then some.

@@ -54,7 +54,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Can I Borrow a Feeling?* still divides opinion. I know where I stand. Recorded in the wake of the title track’s surprise independent run in the US Top 100, Kirk Van Houten’s debut (and swansong) is a marvel. I still don’t fully understand how Van Houten got a record deal out of that single — allegations persist that mayor Joseph Quimby used public school funds to buy copies in bulk and get Springfield positive national press coverage, though this remains unproven — but he did, and it was everything you hoped it wouldn’t be. 

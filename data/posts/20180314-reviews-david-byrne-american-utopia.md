@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *American Utopia* is a good example of the value of repeat listens. The first time I played it I was baffled, the second I started to get it, from the third onward I’ve been on board. The album has its flaws, but they are comfortably outweighed by the David Byrne funk machine. “It’s Not Dark Up Here” and “Everybody’s Coming to My House” are [vintage Byrne](/reviews/talking-heads-remain-in-light), with borderline delirious grooves and pristine, lively mixes. It’s a genuinely joyous affair, with horns and synths and jangling percussion aplenty. “Bullet” is another highlight. Stripped back in the context of an otherwise busy album, its soft, thoughtful melody is a welcome dose of sobriety. As jubilant as much of the album is, its shadow is part of the fun.

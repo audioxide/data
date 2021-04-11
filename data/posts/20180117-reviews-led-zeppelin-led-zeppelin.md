@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Led Zeppelin’s debut album isn’t their best, but there’s no shame in that. I like it when discographies have a record where you can hear the pieces coming together. There’s no buzz quite like it. Recorded in a day and half’s worth of studio time, *Led Zeppelin* unsurprisingly feels like bottled lightning, though not *quite* as electric. (Sorry.) 

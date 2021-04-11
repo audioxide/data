@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s strange to feel so little for an album as luscious and intricate as *Utopia*, but here we are. Björk’s latest outing, 70+ minutes of vivid electronic ambience, is in many respects a delight. Björk sounds great, the production is impressive, the imagery conjured distinct and powerful. The record sways and flows through electric cathedrals and psychedelic fantasy rainforests, and, er, googling stuff. The blend of flutes and harmonies and goodness knows what else culminate in a truly otherworldly sound, something utterly magisterial at its best.

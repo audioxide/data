@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Feeding off a host of tangled, damaged, and gritty rock influences from the late ’80s and early ’90s, Weezer’s debut album is a really lovely reminder that rock bands don’t need to be tangled, damaged, and gritty to sound great. Clean-cut and pleasantly neurotic, *The Blue Album* shuffles in and winds up rocking out pretty flawlessly. 

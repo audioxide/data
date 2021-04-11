@@ -58,7 +58,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   André and Andrew are right to admire what they do about *Channel Orange*, but I’d be lying if I said the album and I ever really hit it off. As finely made as Frank Ocean’s work is, my praise for it seldom escapes the afterthought ‘for pop.’ Reflective, for pop. Vulnerable, for pop. Important, for pop. This sounds smarmier than I mean it to. *Channel Orange* is a complete work and a nice listen, but ‘nice,’ as we all know, can be a death knell of a first impression. It has that horrible characterless implication to it. 

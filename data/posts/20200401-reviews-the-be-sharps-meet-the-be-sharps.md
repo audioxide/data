@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was the best thing to come out of Springfield since galoshes. As ambitious as it is effortless, *Meet the Be Sharps* tells the story of a generation with the voices of angels. Although its follow-up, *Bigger Than Jesus*, was an epic amongst epics, and in many respects a more well rounded project, there’s nothing quite like the buzz of a debut album that sticks the landing.

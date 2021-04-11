@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   A type of YouTube channel has really taken off over the last few years in which they restore things. Old gizmos are dug out, treated for rust, and painted to look like new. The items that features in these videos – vices, mining lamps, lighters, things like that – are often dated and clunky, but boy are they well made. After decades in some field somewhere the nuts and bolts of the things still work. *Paranoid* feels a bit like that. It’s built to last music; a cast iron album with a thin coating of rust.

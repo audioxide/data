@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although I’ve enjoyed listening to *Visions of Bodies Being Burned* and have no hesitation recommending it, I don’t actually feel all that strongly about the album one way or the other. It is beautifully made and beautifully produced, with some belting tracks and velvety smooth flows. I guess it just lacks a certain wow factor.

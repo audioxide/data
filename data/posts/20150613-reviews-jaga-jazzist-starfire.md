@@ -52,7 +52,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Fifty minutes of experimental jazz instrumentals is not a prospect I’m terribly inclined to get excited about. It invites visions of Howard Moon mixing loops of suicidal crabs and a dirge of horns accompanying your own dwindling will to live. In an unremarkable twist, however, it turns out that my prejudices were misplaced and that *Starfire* makes for a pretty pleasant listen. 

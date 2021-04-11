@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In many respects *Painted Ruins* deserves more love, but when push comes to shove it’s an album served tepid. Grizzly Bear went for progrock odyssey and came up with a theme park ride. Enjoyable yes, resplendent with expressive riches no. It has a lovely tone, but something holds it back from being more than that. 

@@ -51,7 +51,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Magic Whip* is a pleasant, if unspectacular listen. There are high water marks (“I Broadcast” has a lovely [2 Tone](/reviews/the-specials-the-specials/) vibe and “Mirrorball” is a fine closer) but for the most part the album doesn’t really inspire much comment. A good few tracks are the victims of bizarre pacing. It’s frustrating. I’m surprised it has been quite so well received. The best thing I can say about *The Magic Whip* is that it prompted me to revisit [Blur’s older material](/reviews/blur-modern-life-is-rubbish/).

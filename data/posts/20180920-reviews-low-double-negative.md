@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There was an unfortunate spell a couple of years back where artists were putting out records that deliberately sounded dreadful. They presumably thought they were onto something. They were wrong. Tracks crackled into dead ends and perfectly good arrangements were buried alive by gratuitous effects. Bon Iver’s [*22, A Million*](/reviews/bon-iver-22-a-million/) was possibly the most egregious example, a jittery hodgepodge of glitches that mercifully faded from memory almost as soon as they ended. The fad passed and the world found other ways to disappoint. I thought we were in the clear.

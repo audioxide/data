@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Every so often there comes an album that I have a complete disconnect with. It’s there and I’m here and that’s ok. *Romaplasm* is one of those records. Over the last couple of years it’s become obvious that skittish drum beats and aimless synthesisers [is not a formula I go for](/reviews/thom-yorke-the-eraser/), and sadly (for me) that’s exactly what Baths delivers. 

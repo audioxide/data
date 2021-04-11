@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Having been a casual follower of St. Vincent’s music for years prior to this release, it was a real treat to hear the various pieces of Annie Clark’s talent fall together with such aplomb. Channelling a vibrant mixture of art rock convention and lively initiative, *St. Vincent* is a crackling treat for the senses and the sensibilities. 

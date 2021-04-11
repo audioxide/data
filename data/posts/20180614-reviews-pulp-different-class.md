@@ -62,7 +62,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Different Class* has a gift for sounding like Britpop while also making most Britpop sound rubbish in comparison. The soaring choruses, the la la las, the acute class consciousness — all the hallmarks are there, and they’re all the better for being delivered by [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/). His offbeat lyricism sits so well throughout that it’s easy to forget how impressive it is that it works at all. Jangling pop-rock probably isn’t the natural bedfellow of spoken-word musings on knickers and trust fund babies, but you wouldn’t know it listening to *Different Class*.

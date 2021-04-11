@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   What a pleasure it is listening to Gorillaz in full flow. I don’t think *Plastic Beach* is the group’s best outing (that would be [*Demon Days*](/reviews/gorillaz-demon-days/)) but it’s probably the most fun. Despite the all-star lineup of collaborators the ‘band’ still just about holds together, and everything’s packaged in an immutable groovy sound. It’s vibing, jiving beach party.

@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although Justice’s latest release never quite builds up a head of steam, I’ve no qualms saying it’s a deeply funky listen. The brutal, operatic edges of *Cross* are exchanged for a looser old-school sound, mixing elements of dance, funk, disco, and electronica into a cool, colourful character. It’s a gorgeous, full vibe which sounds bigger than whatever sound system it’s being played on. “Fire” and “Alakazam !” mark the best of what *Woman* has to offer, balancing its liquid sound with a genuinely commanding drive and restlessness — fever, you might even call it. All the choral sections are lovely, “Stop” especially. Lovely. 

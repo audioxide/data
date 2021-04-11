@@ -53,7 +53,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I joined the Kanye party late. I’m used to him being a bit loopy, a bit of genius, and massively inconsistent. I like that about him. Even [*The Life of Pablo*](/reviews/kanye-west-the-life-of-pablo/), which was frankly a bit of a farce when it first came out, was one of my favourite albums of 2016. Kanye has a gift for making music that feels like it’s spilling directly out of his head, and because *The College Dropout* comes from a time when he was still loosely connected to reality, it’s human in ways he’s only managed in fits and bursts since.

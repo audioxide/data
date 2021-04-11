@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 review: >-
   *Adore Life* was a surreal album to listen to. So many of the things you want to hear are there: solid songwriting; swagger and drive; an immensely charismatic frontwoman in Jehnny Beth. It should be really good, but I don’t think it is. The energy never really hits home — like punches in a dream, which even at their most vicious wind up feeling about as devastating as a gentle nudge. The album’s production really holds it back. *Adore Life* listens like a live sound that’s been clumsily bottled and sold as a studio recording. The work’s numerous strengths often get lost in the cold and frantic din of its overall character. 
   

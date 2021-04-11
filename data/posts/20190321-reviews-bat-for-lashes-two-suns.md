@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   When we reviewed [*The Bride*](/reviews/bat-for-lashes-the-bride/) I thought it was a shame to catch Natasha Khan at her worst. Oh no, I thought, this can’t be a fair picture of her. Turns out it wasn’t far off. *Two Suns* is a far better album than *The Bride.* Oftentimes it’s lovely, but on the whole there’s an airiness and absence of purpose that, after listening to three different projects, I’m learning to accept is part and parcel of the Bat for Lashes experience.

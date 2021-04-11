@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   We reviewed [a HAIM album](/reviews/haim-something-to-tell-you) a couple of years ago. It was polished, professional pop perfectly adequate for disposable summer listening. *Uneasy Laughter* has a similarly pleasant-yet-forgettable demeanor. It’s a distinctly west coast breed of gothy synth pop, moody in a painstakingly dyed and straightened fringe kind of way.

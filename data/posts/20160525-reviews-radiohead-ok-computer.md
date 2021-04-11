@@ -65,7 +65,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Radiohead’s famed 1997 sedative for the unhappinesses of modern life is as serenely despondant now as it has ever been. This is due in part, presumably, to the unhappinesses of modern life having not changed all that much in the last twenty years, but *OK Computer* itself endures as pristine music. 

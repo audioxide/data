@@ -64,7 +64,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >- 
   Being the grifter and fraud I am, I did not read about this album before listening to it. So when I told André I thought it sounded like digital jazz I had no idea just how close to the truth that was. As it turns out, Flying Lotus comes from a rich tradition of tender, audacious artistry, but like any artist worth his salt he pushes the boundaries to find something entirely of his own.

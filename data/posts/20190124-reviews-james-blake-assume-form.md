@@ -62,7 +62,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The thinking (wo)man’s Sam Smith is back. His fringe is gone, so you know he means business. *Assume Form* is true to its name. [Previous James Blake albums](/reviews/james-blake-overgrown/) had created expectations of slow, aimless tracks with sparkly ambient shimmers, and the opening efforts of *Assume Form* do little to dispel that particular prejudice. But as the album progresses — and eventually flourishes — I have to admit this is Blake’s most ambitious effort to date. It’s not far off being wonderful.

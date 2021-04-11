@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   When players deliver in curling the stone starts at a steady pace. It’s hardly motoring along, but it’s moving. As it reaches its target the stone slows down. It slows down so slowly that you barely register it’s happening. Then it stops. That’s the journey of *King’s Disease*. It slides steadily along and scores respectably.

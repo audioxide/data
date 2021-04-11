@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I’ve never been sure what to make of Iggy Pop. He’s a supreme symbol of rock and roll, and rightly so, but he doesn’t strike me as a terribly potent artist on his own. I tend to see him more as a muse than as a creator, and *Post Pop Depression* does little to dispel that notion. 

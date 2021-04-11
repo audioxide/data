@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   You get the full Summer of Love package with *Surrealistic Pillow*. Searing, mind-bending psychedelic odysseys sit side by side with spectacularly sappy lovey-dovey numbers, and almost everything is top notch. The music’s folky, rubbery psychedelia is of its time, but in a way that’s completely authoritative. 

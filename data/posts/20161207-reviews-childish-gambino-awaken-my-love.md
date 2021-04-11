@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *“Awaken, My Love!”* alternates between being enjoyable and a massive windup. Childish Gambino, I’m told, has trod new musical ground with this release, and in terms of instrumentation and production I like it. The album boasts a lush, colourful sound, drawing from elements of funk and soul to create an impressively modern vibe. Structure and delivery is where it all falls down. Even at its best the album is like watching *Hamlet* performed by Kermit the Frog. 

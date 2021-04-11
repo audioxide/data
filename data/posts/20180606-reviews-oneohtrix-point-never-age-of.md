@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I find it difficult to talk about music like this, whatever this is. Renaissance art dipped in crazy and given a soundtrack? Something like that. As far as craft goes, I listen and hear only things to admire. The mix is neatly polished and well oiled, with harpsichords and autotune rubbing shoulders as if it were the most natural thing in the world. 

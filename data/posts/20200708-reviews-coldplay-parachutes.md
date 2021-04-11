@@ -63,7 +63,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   While explaining to Howard Stern that “Yellow”, the greatest song of all time, is meaningless — absolutely meaningless — Chris Martin just about sums up Coldplay perfectly: [‘It was a feeling more than a meaning.’](https://www.youtube.com/watch?v=5efsGs3niy0)

@@ -57,7 +57,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It was a horrible experience. I haven’t slept soundly since.

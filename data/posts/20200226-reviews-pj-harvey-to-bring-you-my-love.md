@@ -70,7 +70,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If [*Let England Shake*](/reviews/pj-harvey-let-england-shake/) is PJ Harvey’s ethereal peak (it is) then *To Bring You My Love* showcases the best of her voodoo depths. Light and shade and all that. From start to finish the album is like wading through swampland. The guitar on tracks like “Working for the Man” are enough to make your skin crawl, and if that doesn’t do the trick then Harvey’s whisper-in-your-ear vocals will likely send you over the top. The songwriting is water tight, but it’s the delivery that gives *To Bring You My Love* its black magic.

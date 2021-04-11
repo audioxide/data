@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Discovery*, the second album by French lightning rods Daft Punk, is a rambunctious affair. It boings along quite happily, with a quaint electric shimmer, and often proves infectious. It’s charming in its zest and sincere in its cheeriness. “Harder, Better, Faster, Stronger”, which I can only hope is house music’s answer to [Radiohead](/articles/ranking-radioheads-discography/)’s “Fitter Happier”, remains as cheerfully strange as it’s ever been, warping synth effects in a way that feels natural — obvious even. Why *wouldn’t* it sound like that? On the other end of the spectrum, “Verdis Quo” drifts beautifully somewhere in the Disco Galaxy. I like both a great deal, and more besides. 

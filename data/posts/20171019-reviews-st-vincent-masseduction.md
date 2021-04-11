@@ -62,7 +62,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If (hypothetically) I were inebriated and *Masseduction* was in full flow, I’d call it [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/) pop. With time to sober up and think about it, I’d say that’s not really true. I’m always ready to be enamoured by St. Vincent, but I haven’t fallen for her latest output — try as I might. It’s a topsy-turvy record. Glammy schizoid pop rubs shoulders with tightly wound, rather despairing cud chewing, and the two styles never truly mesh. Each has its merits. In any given listen through I enjoy one aspect or the other, just never at the same time.

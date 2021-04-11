@@ -57,7 +57,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   "*Anything Now* sounds like the kind of thing you make when you’re tired. A good idea at the time, but exposed in the light of day as jangly and poorly executed. The goal was disco with a kick, or least that’s my best guess. It’s hard to believe everyone involved was on the same page. Although the record sometimes drifts into a genuinely colourful, confident sound, most of the time it is oddly clunky. The music just doesn’t seem comfortable in its own skin — and with good reason. 

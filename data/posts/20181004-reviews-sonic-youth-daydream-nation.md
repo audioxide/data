@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Once upon a time, the hunched and hairy fella in the middle of [evolution-of-man diagrams](https://en.wikipedia.org/wiki/March_of_Progress) was the most advanced lifeform around. Today, he looks rather unkempt and probably smells dreadful. That’s been my experience of *Daydream Nation*, an album that looms large over so much music I hold dear. It sounds like an stepping stone for better versions of itself. 

@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   A fair few albums that come out after an extended period of faff wind up sounding like exhumed bodies, any semblance of life long, long since gone. Thankfully, this isn’t one of those times. [Recorded in 40 days and 40 nights](https://www.vulture.com/2020/03/jay-electronica-debut-album-a-written-testimony-jay-z-tidal.html) (and clocking in at a smooth 40 minutes), *A Written Testament* feels like a release of tension rather than the exhausted efforts of a spent artist. It’s really very good.

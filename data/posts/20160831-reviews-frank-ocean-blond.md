@@ -65,7 +65,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I haven’t been sure what to make of *Blonde.* It’s good weird, but it isn’t visionary. The album is some kind of high art hip hop, I guess? Cerebral autotuned soliloquies about Nike and Ferrari play off of cellophane dream soundscapes and Facebook anecdotes. Frank Ocean certainly isn’t beholden to anyone but himself, which I suppose is just as well, because whatever on earth it is he’s doing on *Blonde* is nothing if not intriguing. Often it’s affecting, though not always. His mystery meticulousness becomes its own thing to care about. 

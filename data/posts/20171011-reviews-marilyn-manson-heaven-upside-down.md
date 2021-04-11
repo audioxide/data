@@ -57,7 +57,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I tend to admire Marilyn Manson more for his imagery than his music, so it’s been interesting to have the former fairly absent on *Heaven Upside Down*. Manson has a gift for palatable industrial music, but I don’t think I care for it much here. It’s well mixed and Manson’s delivery is excellent, but it never truly gets its talons in — not that it has talons. 

@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is a real time capsule of an album. Half of it is covers of ‘60s classics, while the other is a frenetic onslaught of psychedelia fit for any Summer of Love montage. The fact that *Shades of Deep Purple* was released a year after those messy months in San Francisco only seems right. The album very much feels like a product of its time, a faithful, occasionally zealous disciple of a zeitgeist. The likes of [Jefferson Airplane](/reviews/jefferson-airplane-surrealistic-pillow/), [Jimi Hendrix](/reviews/the-jimi-hendrix-experience-electric-ladyland/), and, of course, [The Beatles](/reviews/the-beatles-revolver/) loom large over Deep Purple’s own forays down the rabbit hole. There are worse influences out there to be sure, and they translate into quite a trip here.

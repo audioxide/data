@@ -55,7 +55,7 @@ tags:                           # Optional
   - pop
   - bat for lashes
 featuredimage: 2016/06/file.png # Relates to a path from the ./data/images directory
-author: fred                    # Relates to an author file in ./data/authors directory
+author: frederick-obrien                    # Relates to an author file in ./data/authors directory
 blurb: Lorem ipsum dolor        # Used as an SEO description; optional; summary used if unspecified
 summary: Lorem ipsum dolor      # Used as a by line in articles and a long, conclusive review summary; optional for articles
 artistMBID: 00000000-0000-0000  # A MusicBrainz ID for the artist; mainly for reviews; used to pull artist information; optional

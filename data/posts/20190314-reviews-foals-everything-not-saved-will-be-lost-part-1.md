@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think it’s bold pitching this as the first in a two part project, as if one album couldn’t possibly contain all the bombs being dropped. There’s a statement in this album somewhere, but for the most part it listens like a solid pop rock album with mittens on. Foals are a talented group and I admire their openness to change, but I find it hard to connect with most of what goes on in *Everything Not Saved Will Be Lost – Part 1*.

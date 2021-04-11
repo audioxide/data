@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Joshua Tree* is a towering work. With gusto it embarks on a journey over the American horizon, conveying beautifully all the chaste heartache that seems to entail. It’s an epic poem of sorts, and I’m not sure anyone could have performed it as well as Bono does. It has its grandiose moments, but for the most part the album sounds superb. Gets better with each listen, too, which is always a welcome quality.

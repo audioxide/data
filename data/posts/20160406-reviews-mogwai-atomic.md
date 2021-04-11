@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Atomic*, in all its boom and rumble, is likely going to wind up being one of my favourite releases of the year. This tweaked offshoot of a documentary soundtrack — originally produced by Mogwai for [a nuclear age-focused BBC programme of the same name](http://www.bbc.co.uk/programmes/b065y1dx) — is an appropriately brutal exercise in escalation. 

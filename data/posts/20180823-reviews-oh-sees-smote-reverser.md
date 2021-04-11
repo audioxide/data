@@ -53,7 +53,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Smote Reverser* sounds like an album by a band who release an album or two a year. It’s tight, it’s energetic, and there’s no obvious filter to what goes on. As John Dwyer himself puts it, [‘the record doesn’t have like a continuum.’](https://www.billboard.com/articles/columns/rock/8468833/oh-sees-smote-reverser-interview) It does have character, though, and it’s tidily mixed. Pieced together from a series of improvisations, *Smote Reverser *oscillates between garage rock and brainy psychedelia. There’s a lot of movement. If you can tap into Oh Sees’ frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.

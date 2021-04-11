@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Appropriately, *My Love Is Cool* is nothing if not cool. It has a number of great songs, terrific vocals, some of the most original drumming I’ve heard in ages, and it’s all packaged in a fresh and exciting sound. That being said, it isn’t quite there. 

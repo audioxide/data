@@ -53,7 +53,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Conventional wisdom says that Jack White has lost his rag and his music is mad, a view which can muddy the reception of his work. Now as it happens, *Boarding House Reach* is a bit mad and White may well have lost his rag, but this needn’t be a black mark against the record. Those looking for the red, white, and black muscle of The White Stripes should probably just listen to The White Stripes. Jack White’s output here is blue: chillier, more demanding… stranger. It isn’t necessarily as accomplished, but there’s plenty to be gained by approaching *Boarding House Reach* on its own terms.

@@ -59,7 +59,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I wish I liked *Broken Politics* more than I do. Projects made with this much tenderness deserve at least some in return, but there’s been no getting past the fact this album doesn’t stick. Neneh Cherry weaves an eclectic, vibrant world here — parts [Saul Williams](/reviews/saul-williams-martyr-loser-king/), parts [Joanna Newsom](/reviews/joanna-newsom-divers/), parts [Solange](/reviews/solange-a-seat-at-the-table/), all very much her domain. In full flow it’s a delight. “Natural Skin Deep” jangles and gyrates, partylike in its energy. The vocals on “Kong” are measured and elegant, lending the track an elegance beyond that of its neighbours.

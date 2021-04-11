@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   As sumptuous as *A Seat at the Table* can be, it often threatens to pass on by. It’s a smooth, elegant work put together with a subtlety lacking in many other releases this year. Solange Knowles navigates styles ranging from blues to reggae with intelligence and grace, and there are plenty of nice stretches, but that lasting impression is never quite made. There’s a lack of teeth to what goes on. 

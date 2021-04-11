@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s a whole lot to like about *…Like Clockwork*. It’s smart and sexy and revels in knowing it. Although the album draws from a ludicrous pool of talent (ranging wonderfully from the likes of [Trent Reznor](/reviews/nine-inch-nails-bad-witch/) to Elton John), its voice still very much belongs to Josh Homme, who marshals the whole affair with swagger and verve. 

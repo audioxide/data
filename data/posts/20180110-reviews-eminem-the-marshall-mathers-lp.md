@@ -55,7 +55,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think it’s easy to take *The Marshall Mathers LP* for granted. I certainly do. Which must mean everyone else does to. That's how narcissism works. It’s one of those records that became Great almost as soon as it released, tearing in and doing and saying things in ways people hadn’t heard before. 

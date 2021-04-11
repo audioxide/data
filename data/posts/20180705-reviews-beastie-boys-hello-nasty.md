@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is a super viby record. To an extent that’s why I’ve struggled to process why I don’t enjoy it as much as some other Beastie Boys albums. It can be tricky to separate the Beastie synergy from the quality of what’s going on around them. They could probably make my beatboxing sound hip and cool if they felt so inclined. Their swagger is peerless.

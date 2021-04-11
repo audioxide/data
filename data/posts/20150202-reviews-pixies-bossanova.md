@@ -51,7 +51,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I found a lot of *Bossanova* to be quite forgettable. There is a handful of good tracks, but the album as a whole fails to build up a head of steam. It isn’t bad by any means, though, and certainly merits a listen.

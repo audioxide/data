@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   You’ve heard of the Harlem Globetrotters, right? They’re good fun aren’t they? Colourful, entertaining, cheerful… all sorts of good stuff. There’s also nothing at stake in their matches. *Vols. 11 & 12* is like that. It’s an exhibition match. Josh Homme and an ensemble of fine friends have had a lark, recorded it, and released it for all of us to enjoy. That’s the deal, and that’s what you get.

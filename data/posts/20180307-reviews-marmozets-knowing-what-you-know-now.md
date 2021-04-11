@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was my introduction to Marmozets. In fact, it may have been my introduction to an entire genre: post-hardcore. If *Knowing What You Know Now* is a fair picture of both I’ve been pleased to make their acquaintance. The record plays through an impressive spectrum of sounds and sonic energies, but it frustrates as much as it entertains. It’s a true hodgepodge of influences. Listening through I hear [Muse](/reviews/muse-origin-of-symmetry/), I hear [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/), I hear Green Day… I hear all sorts of bands that are only tangentially connected outside of the album.

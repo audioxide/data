@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   For all its fire and biting satire, *Joy as an Act of Resistance* feels like an album that sells itself short. It’s powerful, righteous, funny music that defies labels. Punk? Post-punk? Krautrock? Beans on Toast after a tour of Vietnam? All close, but not quite. The sound here can only be described as ‘IDLES’ — witty, gritty resistance of the highest order. The social conscience of *Joy* is brazen, though certainly not one-dimensional. From Brexit to the manufactured controversy of James Bond casting, IDLES swing hard and fast. The record doesn’t feel like a partisan project, though. *Joy* is catharsis, not a manifesto. Put simply, Joe Talbot is here to get some things off his chest. Saddle up.

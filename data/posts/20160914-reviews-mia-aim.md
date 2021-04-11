@@ -54,7 +54,7 @@ score:
   fraction: 0.4
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   On a score this low I’d expect to be upset or angry in some undignified way or other, but in this case I’m just deeply unaffected. *AIM*, ironically, is a directionless. Boasting a small army of producers (read: electric sledgehammer wielders) like Dilpo and Skrillex, the album’s character is inelegant and obnoxious, with the creative sparks scattered throughout only serving to highlight what is missing — vision. 

@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *It Is What It Is* is what it is. Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style, a good time but not terribly eventful. That will likely be enough for many listeners – and I certainly don’t begrudge the approach – it just seems a bit anticlimactic.

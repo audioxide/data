@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Some albums endure through the honesty of their sound. They commit to it, execute with pizzazz, and hit a few spells of frisson. *G. Love and Special Sauce* is one of those albums. Sloppy hip-hop blues stay loose for an hour here, and although I’d be lying if I said the record doesn’t feel its length at times, the best bits are fabulous. 

@@ -53,7 +53,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is one of those albums that colours how you see a time and place. Born of ‘90s New York hip-hop, *Illmatic*, without being a blowaway experience, is as close to flawless as a record can reasonably get. Ten tracks, 40 minutes, no filler. Thank you very much. Each song has its own killer hook with a crisp flow, sampling is effortless and appropriate, and Nas delivers his account of city life with a gravity far beyond his years. 

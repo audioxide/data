@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Talking Heads cast a long shadow, and *Remain in Light* is a huge reason for that. Little about the album is uniform, yet it endures as one of the most airtight musical projects there is. This is one for the audiophiles. Under the Midas wing of Brian Eno, Talking Heads juggle African genres with Western experimentation and innovative digital play, glazing the whole affair with almost delirious David Byrne lyrics and delivery. 

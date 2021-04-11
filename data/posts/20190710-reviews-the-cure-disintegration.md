@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I have no previous experience with The Cure. I’d heard of them of course, but never taken the time to properly listen. This was a lovely album to come into blind. I had no idea what to expect and it still managed to surprise me. *Disintegration* is a vivid, dreamlike record, and it’s not far off being stunning.

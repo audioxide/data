@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Kind of Blue* is possibly the first album I’ve ever listened to where using headphones *really* felt like an insult to what I was hearing. Playing it through speakers was a revelation. The music fills whatever space it’s granted, a solemn, expansive jazz ensemble at the peak of their powers. 

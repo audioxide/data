@@ -64,7 +64,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *græ* is like a melting renaissance painting in sonic form - meticulous and magnificent and mind-bendingly warped. It’s an endless current of rippling electronica and I don’t fully know what to make of it. It’s beautiful, but at times feels too big for its own good. You have to stand quite a ways back to fully appreciate what’s going on.

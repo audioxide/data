@@ -51,7 +51,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s a great deal to like about *Exodus*, but I don’t think the album’s overall quality matches up to its reputation. It has moments of quite profound Marley charm, but such peaks are matched by (very pleasant) plateaus. This is perhaps best represented by the disparity between the album’s two sides. “Exodus” aside, the first half is pretty formulaic. Now obviously one would do well to argue ‘formulaic’ is a vice in a genre like reggae, but *Exodus* reaches much higher peaks when it engages with a broader range of sounds and vocal deliveries. 

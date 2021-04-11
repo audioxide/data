@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   IDLES are back, Terminator style. Screaming, thumping, taking names, *Ultra Mono* feels like a booster shot from the band; it’s nothing new, but more of a good thing is hard to argue with. Joe Tablot is on fine form, as you’d expect, with tracks like “Model Village” providing a particularly welcome fix. All in all the album listens like another brick thrown through the window of Bullshit Inc.

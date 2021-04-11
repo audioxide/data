@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Ruins* is a place where life is found to be beautiful, there are harmonies and steel pedal guitars, and the landscape isn’t terribly memorable. That’s the long and short of it. Beyond being a space for people to be pleased with themselves for finding life beautiful I don’t understand why this exists. I can’t hear any other reason. 

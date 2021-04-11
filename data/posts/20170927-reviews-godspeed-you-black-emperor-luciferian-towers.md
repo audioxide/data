@@ -52,7 +52,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   ‘Apocalyptic’ is a word often thrown Godspeed You! Black Emperor’s way — and with good reason — but it doesn’t apply here. *Luciferian Towers* is a different animal, its tone righteousness and fury rather than rumination. The group’s famed ruinous tint is present, but it’s in service of a more redemptive project. There’s a discipline to *Luciferian Towers* that’s deeply affecting; a controlled, raging anarchy. 

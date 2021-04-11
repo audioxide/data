@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   As is often the case with my favourite albums, when I try to articulate my admiration I flounder pretty hard. In my mind, *On the Beach* is Neil Young’s finest work, and as our discussion testified to its quality often defies description. 

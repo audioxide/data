@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Darkness on the Edge of Town* is cheese. Rich, tasty cheese. Bruce Springsteen’s brand of heartland rock isn’t for everyone, but one would do well to question its heart. It’s balls to the wall rock and roll too busy enjoying itself to get bogged down in sleaze. There will be leather jackets and denim jeans, and all the instruments will have solos that leave a smouldering pile of ash where your speakers used to be. You can hear why, years later, [some yanks didn’t realise “Born in the USA” was ironic](https://www.thedailybeast.com/are-politicians-too-dumb-to-understand-the-lyrics-to-born-in-the-usa). Springsteen’s music has such an up-front quality to it. There’s no pretence, especially in *Darkness on the Edge of Town*. Here stands an honest-to-god ‘Murican wailing about everything from young love to the plight of the working classes; take it or leave it. How on earth can I turn that down?

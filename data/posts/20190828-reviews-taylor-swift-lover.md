@@ -63,7 +63,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I was ready to be an asshole about *Lover*, but actually the worst thing I can say about it is it sells itself short. Taylor Swift has assembled a lush, heartfelt pop record that would have benefitted from killing some of its darlings. Flagship tracks like “Lover”, “The Man”, and “Cruel Summer” are brilliant — hip, catchy… all that stuff. *Lover* isn’t as expansive as [Kate Bush](/reviews/kate-bush-hounds-of-love/) or as daring as [St. Vincent](/reviews/st-vincent-masseduction/), but it is accessible and intelligent, which I think are the hallmarks of Swift at her best.

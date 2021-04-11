@@ -60,7 +60,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Doolittle*’s qualities are obvious, as they’re quite in-your-face for the duration. It is a very busy 40 minutes, full of contrasting styles and paces, tempered by the hard-to-soft, frantic-to-silky dynamics that made Pixes so sharp at their best. *Doolittle* just kind of happens, every time. Each listen feels like an indiscriminate explosion of sound, where the tracklist could be randomised and it wouldn’t make the slightest difference to the experience. The band are so in sync that they would chew you up and spit you out regardless. 

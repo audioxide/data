@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s difficult to understand why *18*’s release was met with a combination of plaudits and disdain, as I don’t think it deserves either. Lasting a slow 70 minutes, most of the album consists of a flat brand of electronica that in its nothing entirety loses most of the character its stronger tracks flicker with. Its best moments take place in the ambient realm — and are lovely — but such tracks are a small minority. 

@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is good and didn’t give me too much of a headache. Experimental rock spars with tribal ambience in *The Glowing Man*, and does so for a breathless two hours. There’s a primal energy to the record that finds form in a seductively elegant web of sounds. 

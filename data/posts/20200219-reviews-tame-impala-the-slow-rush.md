@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I enjoyed the first 15 minutes of *The Slow Rush* as much as I’ve enjoyed any new release in the last couple of years. The production is luscious and the early tracks are fabulously funky, with “Instant Destiny” being especially good. The track’s synthesizers sound like a supernova sound cruise through the outer reaches of the galaxy. It’s the kind of thing you might expect to hear on the radio if you were dropped into *The Hitchhiker’s Guide to the Galaxy* – earnest, fun, and slightly frivolous. “Borderline” follows in kind, reaching pretty audacious levels of suaveness. Flutes are always a risky choice so credit where credit’s due when it works.

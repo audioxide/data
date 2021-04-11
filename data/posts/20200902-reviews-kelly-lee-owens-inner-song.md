@@ -61,7 +61,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I came close to adoring *Inner Song*. Bold, playful, and absolutely immaculate, it’s everything I tend to like in an electronic album. And yet in a way the album is so delicate, so finely made, that it at times feels too fragile for its own good. It’s like a frozen wildflower – intricate and beautiful, but prone to shatter at any moment.

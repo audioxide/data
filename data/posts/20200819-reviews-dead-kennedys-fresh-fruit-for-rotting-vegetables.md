@@ -65,7 +65,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Fresh Fruit for Rotting Vegetables* hums along a dirt track between punk and post-punk. While it has all the snarling ‘fuck you and fuck this’ venom you’d hope for from a punk classic it’s also wry and clever, relishing how much fun it’s having at the world’s expense. As a Dead Kennedys newbie I’ve had a great time with it.

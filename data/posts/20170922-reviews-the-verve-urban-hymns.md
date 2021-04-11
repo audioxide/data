@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If Britpop was the party, brimming with pomp and groove, *Urban Hymns* was surely its hangover. The record is a proper dark night of the northern soul — a tattered, vulnerable epic. The Verve’s seminal work sits snugly in a space between softness and dynamism, bringing uncomfortably numb sensations to the fore. 

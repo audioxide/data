@@ -64,7 +64,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Prior to *Gish* my only exposure to The Smashing Pumpkins was by way of [a Simpsons gag](https://youtu.be/R0kXDBXSu80?t=1m37s), so I was glad to expand on that. This introduction has been pleasant in ways only debuts can be. It has that perfect tottering aliveness that comes with first steps — reminiscent of Wolf Alice’s [*My Love Is Cool*](/reviews/wolf-alice-my-love-is-cool/) in that respect. 

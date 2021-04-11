@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Out of Time* at its best is very good. At its worst it’s still pretty good, but straddles that line between slightly embarrassed head-nodding and contortion levels of cringe. The album has an almost uncannily clean, quaint alternative rock sound. When a harpsichord inevitably made an appearance it took me a while to distinguish it from the guitar. That kind of sound. So long as the band are pointed in a rockier direction, it works a treat. Standout tracks like “Shiny Happy People” and “Near Wild Heaven” are sharp and memorable, with gorgeous harmonies and welcome variety in song structure. The record warrants a listen for the highlights alone.

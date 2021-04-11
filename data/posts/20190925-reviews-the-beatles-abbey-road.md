@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s been a few years since I last listened to *Abbey Road* and I was ready to love it more than I have done. The highlights are truly magical, as good as anything written in the decades since the album was released. The rest settles for being exceptional, a fine final dose of The Beatles for the world before John, Paul, George, and the drummer went their separate ways.

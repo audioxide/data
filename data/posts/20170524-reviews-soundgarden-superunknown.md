@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   A pet peeve of mine when it comes to grunge is that it’s often too embarrassed to sound immaculate. It revels in the submerged and murky depths of angst and power chords, and although that’s a great vibe, it’s often limiting. Such is the case with *Superunknown*, Soundgarden’s 1994 breakthrough album. It’s long, it’s wasteful, the sound thick and inelegant, but the core formula is so enjoyable that my only real gripe is the band weren’t more ruthless with the tracklist. 

@@ -12,7 +12,7 @@ featuredimage: article-images/gorillaz-go-1-d.jpg
 featuredimageAlt: Illustration of Gorillaz singer 2-D with his mouth taped shut
 title: Gorillaz go 1-D
 summary: Time might be up for 2-D and the gang. They have been reduced to cardboard cutouts, and without them the Gorillaz sound rings hollow
-author: fred
+author: frederick-obrien
 blurb: Time might be up for 2-D and the gang. Without the music belonging to them they’re nothing but cardboard cutouts, and without them the music rings hollow. 
 
 ---

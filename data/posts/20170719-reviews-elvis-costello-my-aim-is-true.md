@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I love debuts like this. Earnest and goofy, *My Aim Is True* has a fresh-faced quality that leaves you feeling like you’re listening to a remarkable series of demos, which isn’t that far from the truth, really. Under Nick Lowe’s watch, the album’s quickshot recording (six four-hour sessions) translates into a deeply authentic feel, as if the songs are being played for the first time. 

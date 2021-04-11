@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This never really hits the mark. Although *The Hope Six Demolition Project* does have its moments, most of the time spent between them just kind of happens. A good deal of discernable quality throughout — from toe-tapping blues samples, to irreverent ’60s style rock, to smoky folk melodies — is suffocated by the album’s sloppy, murky sound. What little surviving crispness there is isn’t striking enough to make the experience anything more than frustrating. Whether the album’s thick combination of recording and mixing was a deliberate artistic decision or not I’m not sure, but it doesn’t work. 

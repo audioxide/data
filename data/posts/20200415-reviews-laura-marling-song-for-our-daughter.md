@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Few things in life seem certain these days, but at least Laura Marling can still be relied on to write thoughtful, tender odes that would as soon breathe new life into your heart as smack you firmly across the face. So it is with *Song for Our Daughter*. Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, the album is an often sublime Marling masterclass.

@@ -58,7 +58,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Unknown Pleasures* is a goliath of an album. More than 40 years on from its release it still feels like a one of a kind project. The sound, lyricism, and production amount to something Lovecraftian in its grandeur and unpleasantness. And the album’s concerns are human rather than cosmic, so in many respects it’s even worse.

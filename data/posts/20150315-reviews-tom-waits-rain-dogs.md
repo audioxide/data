@@ -50,7 +50,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s down, dirty, and very, very human; an album that gets under your skin and taps your toes for you. *Rain Dogs* isn’t for everyone, but if you want to hear what the roots of an urban jungle sound like — in all their sad and messy madness — it’s well worth a listen.

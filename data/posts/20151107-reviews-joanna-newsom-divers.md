@@ -55,7 +55,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s something ingratiating about music sincerely in its own world, doing its own thing, and doing it rather well. It invites its listeners in to experience life through a different lens. Joanna Newsom’s *Divers* is commendable in its ability to weave such a realm. 

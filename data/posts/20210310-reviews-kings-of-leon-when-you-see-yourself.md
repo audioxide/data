@@ -60,7 +60,7 @@ tracks:
   - 100,000 People
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Albums like this beg the age-old question: would anybody care if this wasn’t released by **[INSERT NAME OF FAMOUS BAND HERE]**? With _When You See Yourself_ I doubt it, but it’s Kings of Leon so here we all are. What would otherwise be dismissed as pedestrian and aimless appears on magazine covers as ‘evolution’, the sounds of a band ‘exploring’ new ground. All I hear is a band trying — and mostly failing — to justify the decision to keep making music together.

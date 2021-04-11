@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Boasting a lovely lightness and colour of sound, the Flaming Lips’s tenth studio album seems to me like a childish fantasy. *Yoshimi Battles the Pink Robots* is baffling and nonsensical, but in a unique, creative, and colourful way. Although it very, very, very vaguely threatens to be a concept album, in practice it jumbles into something far more abstract and clumsy. Influences ranging from psychedelia to manga are pieced together throughout, although often toward a directionless end. As agreeable an impression as the album tends to make, it is a little mushy. It’s often charming in its childishness, but I’m not charmed by it. I find myself indulging it rather than believing it. The shiny whimsy of what goes on does not enchant me; it leaves me glazed. 

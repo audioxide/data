@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In keeping with the album’s spirit of ham-fisted posturing, I look to Oscar Wilde for a profound and enlightening quote of some kind or other. ‘In this world,’ apparently, ‘there are only two tragedies. One is not getting what one wants, and the other is getting it.’ Therein lies the problem with *Drones*; it’s the full tragedy package. 

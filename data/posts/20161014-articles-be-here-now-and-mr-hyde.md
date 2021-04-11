@@ -16,7 +16,7 @@ featuredimage: article-images/be-here-now-and-mr-hyde.jpg
 featuredimageAlt: Caricature of Liam Gallagher of Oasis
 title: "&#8216;Be Here Now&#8217; and Mr. Hyde"
 summary: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album
-author: fred
+author: frederick-obrien
 blurb: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album.
 
 ---

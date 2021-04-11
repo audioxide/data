@@ -63,7 +63,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   When I watch a classic old film I am often calmed by how simple everything is. The characters speak to each other in plain English, everyone smokes, and the story is wrapped up in a tidy bow before 90 minutes have passed. *The Man-Machine* feels a little like that. It’s simple compared to modern electronic fare, but that only throws its sophistication into sharper focus.

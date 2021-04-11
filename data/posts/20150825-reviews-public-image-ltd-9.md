@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although Public Image Ltd have more celebrated works in their catalogue than *9*, I’ve always thought the record got a rough deal. Released in the tail-end of PiL’s first stint, oozing a thick ’80s sound, and with the trademark John Lydon wails barrelling along merrily throughout, one can understand why the album didn’t garner a great deal of contemporary critical affection. 

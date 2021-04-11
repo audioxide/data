@@ -57,7 +57,7 @@ tracks:
   - Faith Healer
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I thought I was losing my mind until I saw [Anthony Fantano gave this a four](https://www.youtube.com/watch?v=LXdabIrzrDs). I haven’t connected with _Little Oblivions_ at all, and I don’t think that’s (solely) because I’m an emotional husk. For all its rawness and openness, the cold hard truth for me is that the album has plenty of good qualities and yet no standout ones. 

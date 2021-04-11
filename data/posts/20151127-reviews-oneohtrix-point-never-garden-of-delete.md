@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I was, and remain, pretty ambivalent about the grating, manic school of electronic music that *Garden of Delete* seems to hail from. The hodgepodge of creativity and vacuousness that characterises it doesn’t garner affection, and I’m not enough of a fan of the genre for more cerebral qualities to come through. The album’s game of subverting listener expectations of electronic music doesn’t play so well on me, as I don’t really have any. I’m not invested in the tropes Oneohtrix Point Never’s playing poltergeist to. 

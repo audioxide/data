@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I don’t understand *The Real Thing* and I don’t expect I ever will. It is so many things. It is metal, it is hip hop, it is big band jazz and shimmering synthesisers and the last act of a dazzling musical nobody asked for. The record is like some thunderous neon trainwreck, a fireball in all colours of the rainbow. You don’t know whether to be awed or baffled or both. I like it.

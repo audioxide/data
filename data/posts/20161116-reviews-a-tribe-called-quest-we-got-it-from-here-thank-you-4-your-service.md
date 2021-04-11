@@ -53,7 +53,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a pretty unique misfire. The songwriting, instrumentation, and performances are super solid, but the production holds them down and smothers them with a wet blanket. Songs sound squashed. The energy implicit in them never reaches my ears. What often ought to be dazzling musicianship sounds totally pedestrian. I can’t stand blunt, compressed production, especially when the music it’s ruining is strong. Listens to this on earphones were particularly grating; inner-ear drones that bestowed tracks like “Solid Wall of Sound” with a highly unwelcome irony. 

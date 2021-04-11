@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sigur Rós are one of those groups that seems to have been around forever. I’d heard bits and pieces, but this was the first time I sat down and listened to a whole release of theirs all the way through. *Ágætis byrjun* is apparently a critical darling, and it’s obvious why. Hailing from Iceland, there is fittingly something quite glacial about it. The record is icy and immense, yet serene.

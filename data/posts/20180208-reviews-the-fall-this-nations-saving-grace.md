@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *This Nation’s Saving Grace* has been a pleasure to discover. A gross, seedy, cheerful pleasure. This is probably the first album I’ve listened to that literally sounded inebriated. It’s like Tom Waits’ [*Rain Dogs*](/reviews/tom-waits-rain-dogs/) without the dignity. There’s a looseness to what goes on, a chummy sleaze as distinct in the drums as in Mark E. Smith’s delivery. The Fall are on marvelous form here, and John Leckie’s production does them complete justice throughout. 

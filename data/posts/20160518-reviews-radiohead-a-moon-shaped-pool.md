@@ -64,7 +64,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s something uniquely bittersweet about *A Moon Shaped Pool*. The album is solemn and sad even by Radiohead standards, ruminating on the past to such an extent that it itself becomes something of a retrofit — albeit a very beautiful one. A good portion of the tracks can have their origins traced years, even decades back. 

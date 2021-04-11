@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Queens of the Stone Age’s self-titled debut is a sleazy, groovy record; a real kick to listen to. It’s strange listening to a debut album *after* you’ve heard the rest of the discography. Listening to it in isolation is difficult. You hear what the group will become, look for the origins of sounds in the roots of the music. There’s a formative energy to it all; the buzz of explosive combinations still working each other out. That’s certainly the case here. The guitars groan, the percussion and bass are positively guttural, while Homme’s vocals are charmingly hesitant compared to his more recent efforts. It’s a raw, winning combination. When the pieces get to grinding it’s a grand ol’ head noddin’ time.

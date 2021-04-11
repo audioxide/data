@@ -62,7 +62,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I was ready to lavish this album with simpering, unconditional praise and slap an eight on it and prance into the sunset. Alas, it is merely very good. Floating out of post-rock orbit and towards the lighter, brighter moons of electronic (and even pop) music, _As the Love Continues_ manages to feel both enterprising and tentative — an album caught between worlds.

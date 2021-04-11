@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Straightforward, confident, full of earworms, the prestige of Oasis’s debut album is no great mystery. As revered as *Definitely Maybe* is, there is not much to be said about it. Its simplicity is exactly what makes it so good. “Rock ‘N’ Roll Star”, “Shakermaker”, and “Liver Forever” are as good an opening rock trio as you’re ever likely to hear, and that standard carries through. What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s the game on *Definitely Maybe*; relentless and unstoppable. 

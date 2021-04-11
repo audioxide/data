@@ -65,7 +65,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Modern Life Is Rubbish* is not Blur at their best. The production is tinny and restrictive, the songs are often overlong, and whole affair is front-loaded. And yet I still like it a lot. It’s very, very ‘90s. It’s like when you see footage of people wearing oversized running jackets and leopard skin onesies. I can’t help but find it charming that someone, somewhere not only thought that was a good idea, but almost pulled it off. The album’s a bit like that. There’s an unruly delight to something being so kooky and inelegant and colourful. From the oboe solo in “Star Shaped” to the two-tone mania of “Advert”, the playfulness on *Modern Life Is Rubbish* invites a kind of cackling glee from its listeners.

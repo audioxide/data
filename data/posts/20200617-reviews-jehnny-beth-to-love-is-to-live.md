@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Buckle in, folks, Jehnny Beth is back to sing about lurve and liveeng and all that good stuff. Having received well-earned plaudits for her work with [Savages](/reviews/savages-adore-life/), she’s now gone solo, serving up a concoction of spoken word musings, industrial grinding, and sombre piano interludes. If that sounds like a bit of a jumble, that’s because it is. A bold, professional, earnest bit of a jumble.

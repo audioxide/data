@@ -62,7 +62,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *There Is No Year* left a fantastic first impression, but that’s as good as it got. It’s surprised me how little growing power the album has. It has an awful lot going for it. It feels contemporary in ways few albums manage. The arrangements are slick and dynamic, cruising a fine line somewhere between industrial and electronic music. It’s a super original sound, but not for the sake of it. That’s just Algiers’ bag, baby.
