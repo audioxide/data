@@ -43,7 +43,7 @@ artistLink: https://shop.djangodjango.co.uk
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   If dusky psychedelic pop music is your thing, chances are Django Django are already on your radar. _Glowing in the Dark_ expands on the horizons set previously, with the band pushing towards a variety of different styles and genres. At this point they’re basically flaunting their extreme talents. The bastards.

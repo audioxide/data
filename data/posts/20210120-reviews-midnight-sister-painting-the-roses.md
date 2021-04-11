@@ -43,7 +43,7 @@ artistLink: https://midnightsister.bandcamp.com/merch
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   Los Angeles duo Midnight Sister are not short on ideas. Their sophomore album *Painting the Roses* is an eclectic mixture of indie rock and baroque pop, with not-so-subtle nods to psychedelia, jazz, dance, and classical music. Not every experiment pays off, but there’s bound to be something for everyone to enjoy. The record feels remarkably loose; a trait that delights and frustrates in equal measure.

@@ -46,7 +46,7 @@ artistLink: https://blackcountrynewroad.bandcamp.com/merch
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   Rock music is dead. At least, that’s what the older gentleman wearing a [Led Zeppelin](/reviews/led-zeppelin-led-zeppelin/) t-shirt was telling me. ‘Bands don’t know what rock and roll is anymore’, according to my mate who listens to nothing but [The Stone Roses](/reviews/the-stone-roses-the-stone-roses/) and [*Definitely Maybe*](/reviews/oasis-definitely-maybe/). I suppose it’s true that in 2021 we’re still waiting for that decade-defining band: the one that spawns numerous clones and ultimately leads to severe saturation and general fatigue. Nevertheless, the UK finds itself in an exciting moment. Black Country, New Road, along with others such as Squid and Black MIDI, are leading the way towards a new era of British guitar music. These artists sound unique, even a little unusual. They aren’t blinded by nostalgia and instead look forward and attempt to break boundaries. You can’t help but feel something is happening here.

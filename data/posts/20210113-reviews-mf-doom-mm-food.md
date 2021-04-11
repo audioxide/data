@@ -37,7 +37,7 @@ artistLink: https://gasdrawls.com/
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   MF DOOM was like no other. He was your favourite rapper’s favourite rapper. The news of his death felt like the knockout blow of 2020, a year most of us were already keen to forget. There’s no better way to mourn than cherishing the incredible music he gave us; from the youthful days of KMD to the mastery of *Madvillainy*. However, if there’s one record that truly signifies the craft, humour, and outlandish creativity MF DOOM possessed, it’s 2004’s *MM...FOOD*. It may not be the unequivocal classic that stamps his name in the history books, but for my money it’s the most fun and nourishing project in his whole discography.

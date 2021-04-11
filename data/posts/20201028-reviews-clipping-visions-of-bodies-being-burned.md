@@ -37,7 +37,7 @@ artistLink: http://www.clppng.com/merch
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   How do you follow up one of the most memorable and imaginative hip hop records of recent years? I’m hesitant to claim this is ‘more of the same’, but there is a clear sense of continuation with *Visions of Bodies Being Burned*. It’s noisy, extremely detailed, and at times, absolutely harrowing. Clipping. have mastered this style of horrorcore, though with only a year between this and [*There Existed an Addiction to Blood*](/reviews/clipping-there-existed-an-addiction-to-blood/) I wonder if some of the novelty has worn off. Perhaps it’s my fault – I did play that record to death, after all. It was my [favourite album of 2019](/articles/top-10-albums-of-2019/) by quite a margin.

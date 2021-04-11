@@ -47,7 +47,7 @@ artistLink: https://www.spoonrecords.com/
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   Rarely do you hear rock music as expressive as _Tago Mago_. Can’s second studio album, and their first with legendary vocalist Damo Suzuki, celebrates its 50th anniversary this month. It says a lot about the record that, half a century later, listeners are still drawing inspiration from its unrestricted ethos.

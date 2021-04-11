@@ -37,7 +37,7 @@ artistLink: https://shop.thebeachboys.com
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   *Pet Sounds* is very good. Stop the presses. The Beach Boys’ beloved 1966 classic gives you a warm and fuzzy feeling that very few records can match. The harmonies are wonderful, the instrumentation is charming, and, well, everything just sounds rather bloody marvellous. There’s a lot to love, and little to dislike. Is it as extraordinary as so often cited? Perhaps not. Is it as adventurous or outright interesting as other Beach Boys records? I would say certainly not. 

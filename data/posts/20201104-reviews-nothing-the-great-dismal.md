@@ -42,7 +42,7 @@ artistLink: https://www.bandofnothing.com/shop
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   *The Great Dismal* is my first experience with Nothing, and I come away quite taken with the band's blend of shoegaze and alternative metal. I'm impressed at how many styles and genres they take a stab at, mostly with great success. Meditative album opener “A Fabricated Life” plays out like a cross between [Spiritualized](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/) and Slowdive, before launching into the gloriously noisy “Say Less”, with guitar textures that you'd usually expect on a [Nine Inch Nails](/reviews/nine-inch-nails-bad-witch/) production. *The Great Dismal* starts strong, and though there are slightly weaker moments in the final third it mostly stays on track for the duration.
