@@ -36,7 +36,7 @@ albumMBID: c137e1f0-00bf-4bee-8d69-631664b52d1f
 artistLink: https://shop.bjork.com/
 
 ---
-author: ANDRE
+author: andre-dack
 
 review: >-
   Following [our retrospective review of the sublime *Homogenic*](/reviews/bjork-homogenic/), I dived straight into the rest of Björk’s catalogue. Unsurprisingly, I was hooked: 2017 quickly turned into my year of Björk, as *Post* and *Homogenic* practically became daily listens, and my adoration grew at a rapid rate. *Utopia* has been one of my most anticipated releases of the year, and to be totally truthful, I’ve had a difficult time with it.
