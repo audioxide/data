@@ -120,7 +120,7 @@ review: >-
   Sure, nothing here throttles you quite like the opening of *Surfer Rosa*’s "Bone Machine" — really, what could? — but it more than makes up for that by swinging and bouncing in a way that their debut never really does. As I said, it’s just about the best party, and why would you ever want to leave?
 
 ---
-author: Nick
+author: nick-marsh
 
 review: >-
   I am impressed by how fitting and unfitting the name Pixies is. *Doolittle* is a schizophrenic monster: both miniature and enormous, whispering and screaming, not remotely tame, its violence cut up and compressed in a way that stresses itself and lends a playful perversity to the more friendly/poppy moments such as "Here Comes Your Man".

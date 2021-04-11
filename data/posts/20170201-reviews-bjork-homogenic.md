@@ -60,7 +60,7 @@ score:
   fraction: 0.9
 
 ---
-author: Nick
+author: nick-marsh
 
 review: >-
   ‘I’m going hunting’ — Björk tells us at the start of *Homogenic* that she is travelling, searching, hunting for home, and not stopping. The hunt is fierce: even on the album cover, Björk confronts, and conflict is *Homogenic*’s form. Everywhere in this music there is one element warring against another — machines threaten to drown out any human or natural sound; volcanic beats crush violins, accordions, glass harmonicas; the voice seems to be struggling with itself. 
