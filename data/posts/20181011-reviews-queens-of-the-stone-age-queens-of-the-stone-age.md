@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I see Queens of the Stone Age’s debut as the first in a three act play. Teething problems of the transition from the bone-crunching stoner rock of Kyuss to the lighter tone and flexibility of Queens can be felt throughout the first album. By *Rated R*, a noticeable confidence boost flexes Homme’s (and Oliveri’s) creativity in more daring directions. *Songs for the Deaf*, comfortably their best album to date, found the perfect balance.

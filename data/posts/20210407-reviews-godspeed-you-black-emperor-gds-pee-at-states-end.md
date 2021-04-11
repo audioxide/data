@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I reviewed my four pages’ worth of hastily scribbled notes for this review and found that, as was the case when we reviewed _[Luciferian Towers](/reviews/godspeed-you-black-emperor-luciferian-towers/)_, I’d neglected to write much about how this album sounds. While I touched on some of its interesting quirks - like the way it frequently reminded me of the Old Norse stylings of [Wardruna’s _Kvitravn_](https://www.loudersound.com/reviews/wardruna-kvitravn-album-review) from earlier this year - it’s mainly a reflection of my various thought processes over the course of my fourth listen. Led in entirety by the dense and challenging composition, the found-footage-style dialogue peppered throughout, and the nutty names of its parts and whole, _G\_d’s Pee AT STATE’S END!_ is, as with all of GY!BE’s output, a backdrop for losing yourself to deep thoughts.

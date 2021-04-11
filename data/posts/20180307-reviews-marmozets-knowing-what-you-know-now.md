@@ -37,7 +37,7 @@ artistLink: https://www.marmozets.co.uk
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I found myself in conflict after delving into Marmozets for the first time, though that didn’t stop me from impulse-buying a ticket to see them the night after I discovered them. The tracks I’d heard on the radio, “Habits” and “Major System Error”, belied a sharper and altogether more interesting nature to the band’s songwriting. 

@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   [*A Seat at the Table*](/reviews/solange-a-seat-at-the-table/) is a wonderful album, bursting with well-developed creativity and the perfect balance of carefree serenity and intrigue. Solange’s gracefulness felt like the core of the album’s success, underpinning every track with elegance and staggeringly clean vocals. *When I Get Home*, unfortunately, feels like neither a continuation nor progression from its predecessor. The weightlessness of Solange’s delivery feels less the result of the near-angelic demeanour with which she sang on *ASatT*, and more that of sheer emptiness.

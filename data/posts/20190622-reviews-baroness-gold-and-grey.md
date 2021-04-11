@@ -53,7 +53,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   In all manner of respects, this album is dramatic. It’s an hour-long, epic alt-metal experiment, it’s Metacritic’s most well-reviewed album of the year so far, and it’s got album art painted by the vocalist/rhythm guitarist John Baizley with a heartfelt explanation of it to boot. Along with being the end of a supposed six-part anthology that I haven’t otherwise heard, *Gold and Grey*’s sense of gravitas is intimidating.

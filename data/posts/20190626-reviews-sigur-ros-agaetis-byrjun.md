@@ -81,7 +81,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Spooky, life-affirming, and elegant are definitive qualities of Sigur Rós. *Ágætis byrjun* feels like the moment where it all fell into place for the band, both for their indomitable uniqueness and the potential for perceived pretentiousness. Enveloped in a sense of folklore, spirituality and reflection, the album is a consistent flow of serenity. Without any sacrifice of consistency, the tranquility is punctuated with resonant string sections, a sharp leap in pitch from the infallibly clean vocals, or a stamp of looming, dread-inspiring piano notes.

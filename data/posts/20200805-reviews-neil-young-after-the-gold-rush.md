@@ -90,7 +90,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *After the Gold Rush*, released 50 years ago when Neil Young was a little younger than I am now, has that indefinable timelessness of a real classic. The humanistic, emotionally available, and touchingly straightforward composition anchors it to another time in many ways, and yet its clear focus on fundamentals at both an instrumental and narrative level mean it could have been released only recently. The subsequent albums and genres where Neil Young’s influence can be felt are innumerable, like the 24-year-old was writing a love letter to bands of the future.

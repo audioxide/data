@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   "From the outset, *ZUU* is a tour de force in the bait and switch: for every blunt or cliched element across its 30-minute runtime there’s an immediate follow-up that borders on genius. I’d argue that Denzel Curry even crosses that border every so often. I’ve dabbled in his work before, but nothing prior to *ZUU* caught me in quite the same way; by the end of *TA13OO* I had largely dismissed Curry as merely another name in an overcrowded trap scene. 

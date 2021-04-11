@@ -35,7 +35,7 @@ artistLink: https://shop.thespecials.com/
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Having missed the cultural boat for a genre that feels rooted in its own heyday, and is likely better appreciated by those who experienced it contemporaneously, ska is a genre I haven’t paid all that much attention.* The Specials* defines my standing on ska in many ways, both as a genre whose experimentation is in its own existence and therefore carries more than a few sharp similarities between tracks, and as a really good time that wears thin every so often.

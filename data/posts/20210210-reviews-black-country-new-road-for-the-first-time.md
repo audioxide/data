@@ -69,7 +69,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   The most striking thing about this chaotic, traumatised, and unbelievably groovy album is how every track feels like such a committed performance. In sticking Black Country, New Road on you’re getting a band that demands attention not just in intricacy, but in raw emotiveness. It sounds fucking great.

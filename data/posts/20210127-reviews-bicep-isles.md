@@ -41,7 +41,7 @@ artistLink: https://store.bicepmusic.com/
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   It’s tiring to consider an album as a ‘mood’ rather than something to actively engage in, particularly when the mood an album like _Isles_ evokes is somewhere between boredom and frustration. It’s a house album that flirts with being straight-up ambient whilst never taking much interest in committing, and meanwhile it never does anything dynamic enough to justify its length and lack of variety.

@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   In the half-century since its release, the framework laid by *Paranoid* has been built upon to such an extent that I wouldn’t call its ‘heavy metal’ tag particularly enduring. By today’s standards, the heaviness feels incredibly restrained – the crunch of the guitars hasn’t been mixed to offer the qualities of a club to the head, the vocals never resort to loosely controlled wails or screams, the lyrics only allude to the occult rather than brandish it as the (pentagrammed) star of the show. It’s refreshing to listen to a metal album that has all of the composite elements of such without the dials on each of them having been cranked to 666 – how odd to find refreshment in an album that came out within months of the moon landings.

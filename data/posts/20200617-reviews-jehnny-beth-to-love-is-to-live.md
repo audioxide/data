@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *To Love Is To Live* is a weird album. Moment to moment it jumps between elegance and mania without pausing for breath, and this unusual composition does more to harm the experience than help it.

@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Reminiscent of the demonic glitching of *You Won’t Get What you Want* and [*Double Negative*](/reviews/low-double-negative/) of last year, clipping.’s *There Existed an Addiction to Blood* has spent the past week taking my breath away and rattling around my skull. The album’s name – itself likely salvaged from the sparsely-populated folder titled ‘We Came as Roman band name ideas’ – notwithstanding, we have in this album a consistent string of exciting, chilling, and innovative experimental hip hop tracks devoid of cheese or pretence.

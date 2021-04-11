@@ -37,7 +37,7 @@ artistLink: https://merch.ambientinks.com/collections/low
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Despite my liking for *Double Negative*, I won’t be cherry-picking any of its tracks to stick in my rotation. The album, taken as a whole, becomes a pretty wonderful realisation of a concept I’ve never really heard done convincingly, but standalone tracks are too outlandishly separate from anything else I listen to. That’s no criticism; Beethoven doesn’t get a look-in either, though I’m told he’s devastated.

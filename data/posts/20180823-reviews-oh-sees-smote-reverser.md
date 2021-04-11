@@ -34,7 +34,7 @@ artistLink: https://www.castlefacerecords.com/collections/thee-oh-sees
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   From its ludicrous track names to its filter-free kitchen sink instrumentation, *Smote Reverser* is an hour-long marathon of pretentiousness and tedium. “Sentient Oona”, the lead track, sets the scene with surgical precision: the track lasts two minutes longer than it needs to, and it’s bogged down by a series of boring loops and a solo that feels like a single-take act of brainlessness. The track ends with a comical crash of cymbals that bookends the splurge like a fart in a cathedral — most of the album’s tracks suffer similar flaws.

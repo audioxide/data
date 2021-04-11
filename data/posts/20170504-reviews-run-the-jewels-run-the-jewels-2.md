@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Run the Jewels 2*’s majesty as a sequel is rooted in its stronger sense of cohesion, forming a sound that is unique and bizarrely synergistic. Its fine-tuned core, bottled rage with boundless charm, is intoxicating and incredibly entertaining. El-P’s layered brand of production, guttural, energetic, and evil in tone, reaches new heights on this record. The heavy, growling beats, echoing synths, and dark use of space lend themselves well to the cadence of his and Killer Mike’s delivery: severe, angry, and macho, but also intrinsically light-hearted and quick to generate grins amongst the intimidation.

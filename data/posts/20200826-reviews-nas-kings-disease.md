@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   King’s Disease doesn’t feel like a bid to reclaim any space at the top of hip hop’s conversation, but Nas hasn’t sounded this good for a while. Thematically, lyrically, and sonically, the esteemed rapper channels a lot of what made his early work so timeless, and he clearly thrives on the ease of it.

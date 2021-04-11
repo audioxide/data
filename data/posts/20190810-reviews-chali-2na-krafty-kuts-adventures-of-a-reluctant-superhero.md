@@ -58,7 +58,7 @@ score:
   fraction: 0.5
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Veterans Krafty Kuts and Chali 2na seem to lack conviction on this album, never stretching themselves to attempt anything overly exciting, content with being serviceable. Warm production and consistent flows are all very well and good, but it’s telling that synthesised hooks are often the biggest draws. Elsewhere, the heavy-handedness of its composition and lyricism fill the gap of good ideas with underwhelming severity.

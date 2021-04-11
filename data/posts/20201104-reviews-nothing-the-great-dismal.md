@@ -85,7 +85,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Names for bands nor albums rarely get more melancholic than Nothing or *The Great Dismal*, and the band’s latest effort is certainly no trip to Disney. Stoney, metal-esque shoegaze whose melodies remind me of Snow Patrol is one of the more novel rock sounds I’ve heard recently, and it’s got a certain nostalgia for ’90s alt rock about it, too. I like stoney metal and I like ’90s alt rock just fine, but there’s something unfulfilling about *The Great Dismal* — like I’m waiting for it to sink the hooks in rather than just dangle them in my face. 

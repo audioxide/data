@@ -84,7 +84,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 review: >-
   FKA Twigs has been around for a little while now, but she still carries an air of a musician who’s not completely shown her hand yet. *MAGDALENE* is an assured and heartbreaking album but, outside its emotional weight and sharp composition there’s not a huge deal to get excited about.
 

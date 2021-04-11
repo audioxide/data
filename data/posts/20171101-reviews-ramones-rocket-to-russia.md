@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I’ve always been conscious of a Ramones-shaped hole in my musical education and, like André, I was excited by the prospect of finally filling it. To my dismay, I can’t help but feel that *Rocket to Russia* is an auditory experience akin to a *Fast and Furious* movie. A disengaged brain finds plenty to enjoy, and I find myself instinctively tapping my foot and bobbing my head in time to its beats. Sadly, beyond that surface of simple pleasure, I’ve been struggling to identify any form of depth.

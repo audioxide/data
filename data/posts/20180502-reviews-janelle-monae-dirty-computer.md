@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I struggle to find words when it comes to discussing this album. Each time I feel as though I’m about to make a breakthrough, the amorphous *Dirty Computer* shape-shifts in such a way that I feel taken aback, frustrated that I don’t quite understand. Feeling confused by my stance on an album isn’t particularly unusual, but in this instance I feel that the confusion damages my experience.

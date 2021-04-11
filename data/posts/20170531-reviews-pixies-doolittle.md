@@ -100,7 +100,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Managing to be at once timeless and evocative of a time long past, *Doolittle* remains as charming and engaging to me now as it did during my teenage years. Pixies’ vibrant and innocent sound is immeasurably authentic, and this, their magnum opus, showcases everything I have loved about them over the years.

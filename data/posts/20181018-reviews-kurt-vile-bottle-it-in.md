@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   This was fairly uncharted territory for me. Folk, country, and their derivatives don’t tend to appeal to me very often, and the runtime on *Bottle It In* is daunting regardless. Settling into the album, though, is remarkably easy.

@@ -74,7 +74,7 @@ score:
   fraction: 0.9
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   My knowledge of Godspeed You! Black Emperor prior to my first listen of *Luciferian Towers* was incredibly limited. Despite the best efforts of a close friend at university, I hadn’t managed to sit through an entire record — intimidated, perhaps, by the 20-minute runtimes of their tracks. 

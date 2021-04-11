@@ -82,7 +82,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Inner Song* is one of those albums that I wish I could like more than I do. While plenty of the album’s qualities are admirably delivered, sublime, and polished to a fine sheen, its general sterility and lacking variation mean that, while it’s often a gorgeous listen, I’ve found it deeply forgettable.

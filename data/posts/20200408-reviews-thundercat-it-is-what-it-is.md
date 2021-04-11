@@ -79,7 +79,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   The bohemian, avant garde, auratic bass genius of Thundercat offers a not uncommon quandary of where the seam between man and persona can be found, and the overarching narrative of *It Is What It Is* seems to be a reflection on this duality. 

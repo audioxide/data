@@ -34,7 +34,7 @@ artistLink: https://store.ledzeppelin.com/
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   From the outset of their debut, Led Zeppelin’s sheer creativity and willingness to experiment are there for all to see. Page’s excitable fingers dance across his fretboard while Bonham bends his way through a multitude of tempos without once losing a sense of charging rhythm, and Plant’s vocals echo through their famously airy production as though his voice has taken some physical form to glide through the imagined room of each track. 

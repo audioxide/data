@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Uneasy Laughter* suffers from a strangely persistent blend of [Joy Division](/reviews/joy-division-unknown-pleasures) and Two Door Cinema Club that blunts the edges of the former with the throwaway pop rock of the latter. Track by track, very little is being said or experimented with, and concentrating on each forgettable song makes for a serious lack of satisfaction. “Make it Stop” lacks the emotional weight its limply urgent chorus needs. The echoing guitar of “Stranger” sounds like a cut-out from a Joy Division B-side and I’m struck that I have no idea what this song is about. The moaning (that’s the name of the band!) vocals over its runtime are disengaging, and the lyricism that comes through is often trite and unspecific.

@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Vince Staples is undeniably talented, with a progressive approach to music that has built significant hype around his potential. The trouble I’ve had with his output, including with *Big Fish Theory*, has been in identifying his aims as a musician with any measure of precision. Listening to his latest release feels like an exercise in Guess the Influence, and the deluge of contributors serves to further mystify who or what we’re actually listening to.

@@ -54,7 +54,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Damon Albarn and his impressive entourage set expectations high, the man himself describing *Humanz* as ‘a party album for the end of the world’, while four (mostly) great singles laid the bait. “Ascension”, featuring the exciting talent of Vince Staples, seizes the doomsday concept with bars detailing the death of God, the falling of the sky, and the dropping of the ass, setting the apocalyptic party tone I expected. Unfortunately, the thread is dropped and doesn’t get picked back up until later, and it becomes clear that *Humanz* has little focus, struggles to play to Gorillaz’ strengths, and suffers from its rudderless form.

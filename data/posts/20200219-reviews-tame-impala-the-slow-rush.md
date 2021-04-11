@@ -77,7 +77,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   The dreamlike atmosphere of *The Slow Rush* will come as no surprise to anyone familiar with Tame Impala’s previous two albums. Kevin Parker’s latest has all the hallmarks of what came before, and it pushes harder on his more avant garde sensibilities whilst riding a [Daft Punk](/reviews/daft-punk-discovery/)-esque, funk-oriented focus on melodic bass.

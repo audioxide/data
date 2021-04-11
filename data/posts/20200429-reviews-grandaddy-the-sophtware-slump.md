@@ -86,7 +86,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   It’s a shame that the easiest way to describe *The Software Slump* is to compare it to *Kid A*, particularly as the flattery somewhat sidelines its own achievements. Grandaddy’s second album is similarly atmospheric, ponderous, uncanny, and sad, but where *Kid A* achieves its mystery through complexity, *The Sophtware Slump* manages it with simplicity.

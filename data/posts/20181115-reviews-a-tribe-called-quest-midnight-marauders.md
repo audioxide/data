@@ -36,7 +36,7 @@ artistLink: https://www.atcqshop.com
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   There hasn’t been a rapper or group before or since A Tribe Called Quest that has matched their knack for worldly whimsy. *Midnight Marauders* is, for me, Tribe at the peak of their powers, and the result remains staggeringly original 25 years later.

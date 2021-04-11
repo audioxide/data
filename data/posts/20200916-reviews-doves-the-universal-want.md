@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   If nothing else, The Universal Want has made it clear [Coldplay](/reviews/coldplay-parachutes/) has practically become a genre – I hasten to add that this is the kindest way I can say that Doves’ ponderous, mumbled, naggingly uninspiring, and breathtakingly dull album commits the most heinous crime of sounding like an out and out rip-off of a moment that passed over a decade ago.

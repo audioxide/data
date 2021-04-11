@@ -102,7 +102,7 @@ score:
   fraction: 0.2
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   While their name has now been heard so many times as to be totally devoid of humour, The Be Sharps’ discography remains as two of the most enduring blues albums of the past century. *Meet The Be Sharps*, a soul-quaking, heart-rending, bowel-voiding romp through 12 inimitable classics, never suffered the ignominy of *Bigger Than Jesus* but has, like its successor, grown exponentially in popularity and critical acclaim nonetheless.

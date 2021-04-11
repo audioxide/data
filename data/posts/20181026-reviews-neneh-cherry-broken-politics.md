@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Broken Politics*‘ toothlessness is a blessing and a curse. For every moment of serenity there’s a feeling of incompleteness, and the result is an album that’s sadly unmemorable.

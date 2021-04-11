@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   It’s impossible to talk about this album without mentioning [*There Existed an Addiction to Blood*](/reviews/clipping-there-existed-an-addiction-to-blood/), one of the very best avant garde hiphop albums of the past few years. Its themes, identity, and conceit are all continued in *Visions of Bodies Being Burned*, only this time the foundations are overtaken by the house. Clipping. has iterated on last year’s cinematic qualities, mastering the concept and pushing harder on the experience of listening to it, delivering something that’s confident, merciless, and complete.

@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   On the face of it, Algiers’ latest is an exciting album. The blend of gospel, *Kid A*-era [Radiohead](/articles/ranking-radioheads-discography/), Massive Attack, and Bloc Party, among others, is intriguing. Sadly, after a week of attempting to understand it, I can’t help but feel that the album is largely an aping of its influences, lacking the edge to make it deliver on the promise.

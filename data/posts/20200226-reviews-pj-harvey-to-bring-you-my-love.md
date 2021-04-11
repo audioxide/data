@@ -90,7 +90,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *To Bring You My Love* regularly feels like an encapsulation of every ’90s alt rock quirk, jumping between instrumental styles and song structures with an assured blues-heavy vision. Despite evoking such a specific moment in popular rock, it’s far more than a time capsule or an homage to other acts of the day. PJ Harvey carries the air of an artist who’s setting the tone rather than playing to it, and the boundless personality she injects into every track ensures that the varied style never feels scattershot.
