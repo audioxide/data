@@ -37,7 +37,7 @@ albumMBID: 5b058e40-25e4-4056-9123-e2315304791a
 artistLink: https://chali2nakraftykuts.bandcamp.com/
 
 ---
-author: Kieran
+author: kieran-james
 
 review: >-
   *AOARS* is an okay take on playful, skit-heavy hip-hop, but it has some low points, and these are aggravated by a pretty corny superhero conceit.
