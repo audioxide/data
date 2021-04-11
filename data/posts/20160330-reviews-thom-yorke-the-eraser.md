@@ -94,7 +94,7 @@ score:
   fraction: 0.7
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   With Radiohead being one of my favourite bands still touring today, Thom Yorke is a writer that has had a huge influence on the way that I appreciate, create, and perform music. From seeing his signature expressive dancing live at Victoria Park on their tour of *In Rainbows*, one thing that anyone should be able to appreciate is his integrity, diversity, and reluctance to conform. With that, ten years after its release, I have been given the chance to vent my appreciate for his first solo project; *The Eraser*.

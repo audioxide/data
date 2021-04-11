@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   This is my first time experiencing the sound of San Fermin, and it has proved to be an interesting record for me for a number of reasons. *Belong* doesn’t shy away from openly revealing its tricks and influences. This makes it feel instantly accessible and comprehendible, but at times also causes certain tracks to feel formulaic, and a little too familiar to what can be heard in mainstream popular music. 

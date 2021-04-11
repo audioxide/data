@@ -61,7 +61,7 @@ score:
   fraction: 0.9
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   I implore you to listen to this record if you haven’t done so before. Several tracks from this double-length LP, such as “Isn’t She Lovely”, “Pastime Paradise” and “Sir Duke”, have become familiar to most ears due to their popularity and strength of Stevie Wonder’s writing. 

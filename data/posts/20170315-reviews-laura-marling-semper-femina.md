@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   I should confess, I’ve been a fan of her Laura Marling’s writing since the release of her debut album *Alas I Cannot Swim back* in 2008. Since then my personal taste has taken my focus to other genres, but even still I was aware that I could listen to any part of her discography and be gifted to soothing, self-reflective songs. With *Sempa Famina* this is still very much the case. 
