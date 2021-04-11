@@ -22,10 +22,10 @@ featuredimage: article-images/favourite-albums-2019.jpg
 featuredimageAlt: Tyler, the Creator wearing a dashing baby blue suit and monstrous blonde wig
 title: Our 10 favourite albums of 2019
 author:
-  - andre
-  - fred
-  - marcus
-  - micheal
+  - andre-dack
+  - frederick-obrien
+  - marcus-lawrence
+  - micheal-clark
 blurb: It's the end of the year, which means we're legally obliged to round up our favourite albums. Here are our picks in the year of our Lorde 2019.
 
 ---

@@ -19,12 +19,12 @@ featuredimage: article-images/favourite-albums-2017.jpg
 featuredimageAlt: Vinyl record of Kendrick Lamar's album DAMN. on a turntable
 title: Our 10 favourite albums of 2017
 author:
-  - michael
-  - fred
-  - gabriel
-  - andrew
-  - andre
-  - marcus
+  - michael-clark
+  - frederick-obrien
+  - gabriel-sutton
+  - andrew-bridge
+  - andre-dack
+  - marcus-lawrence
 blurb: It's the end of the year, and that means it's time for fond remembrances of the best bits. From hip-hop to folk to R&B to rock, here lies our favourite albums of 2017.
 ---
 

@@ -24,7 +24,7 @@ featuredimage: article-images/13-songs-for-a-horrible-halloween.jpg
 featuredimageAlt: Stained red photograph of Thom Yorke performing onstage
 title: 13 songs for a horrible Halloween
 summary: Let’s face it, Halloween playlists can be awful. “Monster Mash”, “Ghostbusters”, theme tunes from dated horror flicks… hell, even “Thriller” has become tainted. As a tasteful alternative, here lies a less conventional collection of frightening contemporary songs. More treats than tricks, I promise
-author: andre
+author: andre-dack
 blurb: Let's face it, Halloween playlists can be awful. Here lies an alternative lineup of frightening songs. More treats than tricks, we promise.
 
 ---

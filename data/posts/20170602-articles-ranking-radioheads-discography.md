@@ -17,9 +17,9 @@ featuredimageAlt: Lineup of the members of the band Radiohead
 title: "2 + 2 = 9: Radiohead&#8217;s studio albums ranked"
 summary: Be it anxious art-rock, spasmodic electronica, or jazz-tinged soundscapes, Thom & Co. have you covered
 author:
-  - andrew
-  - andre
-  - fred
+  - andrew-bridge
+  - andre-dack
+  - frederick-obrien
 blurb: Be it anxious art-rock, spasmodic electronica, or jazz-tinged soundscapes, Thom & Co. have you covered. Here are Radiohead's albums ranked worst-to-best.
 
 ---

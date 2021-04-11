@@ -17,9 +17,9 @@ featuredimageAlt: Joanna Newsom playing the harp
 title: Our 10 favourite tracks of 2015
 summary: From Kendrick Lamar to Joanna Newsom, the year had its fair share of beautiful tracks. Here is our pick of the bunch
 author: 
-  - fred
-  - andrew
-  - andre
+  - frederick-obrien
+  - andrew-bridge
+  - andre-dack
 blurb: From Kendrick Lamar to Joanna Newsom, 2015 had its fair share of beautiful tracks. Here are our picks of the year.
 
 ---

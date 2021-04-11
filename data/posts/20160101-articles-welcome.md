@@ -17,7 +17,7 @@ featuredimage: article-images/welcome.jpg
 featuredimageAlt: A wall covered with vinyl record sleeves
 title: Welcome
 summary: A letter from André
-author: andre
+author: andre-dack
 blurb: All this started as three friends talking about music, and it remains just that - a shared exploration, which we now want to share with you.
 
 ---

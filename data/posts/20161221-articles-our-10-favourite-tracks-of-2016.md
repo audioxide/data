@@ -19,9 +19,9 @@ featuredimageAlt: Beyonce Knowles in a bright yellow dress for the music video o
 title: Our 10 favourite tracks of 2016
 summary: Real friends, true love, and mushroom clouds
 author:
-  - andre
-  - andrew
-  - fred
+  - andre-dack
+  - andrew-bridge
+  - frederick-obrien
 blurb: Real friends, true love, and mushroom clouds. 
 
 ---

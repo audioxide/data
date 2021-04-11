@@ -11,7 +11,7 @@ tags:
 featuredimage: album-artwork/lovely-mutant-couliflower-this-frilly-ape.jpg
 featuredimageAlt: Album artwork of Lovely mutant cauliflower by This frilly ape
 title: This frilly ape's 'Lovely mutant cauliflower' as weird and wonderful as it sounds
-author: andre
+author: andre-dack
 blurb: It's quite the fusion of sounds, and huge credit goes to Rumerio for creating something so distinctive. It's rather captivating, truth be told.
 
 ---
