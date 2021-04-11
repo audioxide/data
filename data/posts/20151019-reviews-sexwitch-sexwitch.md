@@ -34,7 +34,7 @@ albumMBID: 323d699e-83b0-4baf-8c2a-49be22ed42fe
 artistLink: https://www.musicglue.com/sexwitch/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   With its contagious aura of revelry and high sense of spirituality, Natasha Khan’s latest project initially proves quite alluring. Despite being a cover album, *Sexwitch* is surprisingly creative and certainly succeeds in crafting a sense of improvisation. This does, however, often lead to a lack of real substance; the more focused tracks such as “Helelyos” and “Ghoroobaa Ghashangan” suffer from being surrounded by less concentrated, more repetitive songs that at times border on tedious. 
@@ -52,7 +52,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I’ve seen words like ‘transcendent’ and ‘psychedelic’ thrown around in relation to *Sexwitch*, and I just don’t see it. Vaguely hip covers of eastern folk songs with an echo effect on the vocals does not enlightenment create — at least I hope not. Admittedly, I’m being a little meaner than the album deserves, but I just don’t find it terribly seductive. It does very occasionally brush the ethereal heights it seems to be going for, but only enough to draw its more monotonous aspects into sharper focus. 
@@ -69,7 +69,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A collaboration featuring Natasha Khan was a welcome surprise this year. This eponymous debut consists of six cover version of ’70s folk music from around the world – certainly an interesting idea on paper as far as I’m concerned. 

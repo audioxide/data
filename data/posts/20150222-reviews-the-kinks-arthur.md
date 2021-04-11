@@ -34,7 +34,7 @@ artistLink: https://store.thekinks.info/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   An enjoyable album, one that is incredibly easy to consume. The vocal harmonies are a joy to listen to. Whilst nothing particularly stands out, I’ll definitely revisit *Arthur* for the pure pleasure.
@@ -50,7 +50,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s a funny old album, *Arthur*. A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album's scattered feel keeps it from being more than the sum of its parts. That’s a minor qualm, though. The lyrics and melodies are graceful and lovely, and the instrumentation supports them with aplomb. It’s all very Kinks-y, in that the main takeaway is ultimately, ‘Well, that sure was a pleasant listen!’ Sometimes that’s all you need.
@@ -66,7 +66,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Some interesting melodies and instruments choices, I especially appreciate the horns all over it, and the harmonies are really nice in some tracks.

@@ -37,7 +37,7 @@ artistLink: https://davidbyrne.com/shop
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   David Byrne isn’t one to play it safe. The rewards for such a bold approach are potentially plentiful, but occasionally disastrous. *American Utopia* hits both end of the scale. The opening moments are rough, and that’s putting it kindly. “I Dance Like This” is a calamity of painful proportions, as a light and dainty piano passage is gratingly interrupted by a clumsy electro breakdown. It’s clear what Byrne was going for, and such ambition isn’t to be scoffed at, but the execution is poor. Album openers are vitally important, and *American Utopia* gets it all wrong.
@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *American Utopia* is a good example of the value of repeat listens. The first time I played it I was baffled, the second I started to get it, from the third onward I’ve been on board. The album has its flaws, but they are comfortably outweighed by the David Byrne funk machine. “It’s Not Dark Up Here” and “Everybody’s Coming to My House” are [vintage Byrne](/reviews/talking-heads-remain-in-light), with borderline delirious grooves and pristine, lively mixes. It’s a genuinely joyous affair, with horns and synths and jangling percussion aplenty. “Bullet” is another highlight. Stripped back in the context of an otherwise busy album, its soft, thoughtful melody is a welcome dose of sobriety. As jubilant as much of the album is, its shadow is part of the fun.
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *American Utopia* has me conflicted. On one hand, it’s brilliant to see that David Byrne isn’t just riding on the coattails of his previous projects, nor is he churning out half-baked material at high frequency, but in doing so this album takes risks which don’t consistently pay off. This is his first release in years and first solo album in over a decade, and it shows in the variety of ideas across the tracklist. 

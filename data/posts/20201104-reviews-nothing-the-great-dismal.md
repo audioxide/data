@@ -42,7 +42,7 @@ artistLink: https://www.bandofnothing.com/shop
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   *The Great Dismal* is my first experience with Nothing, and I come away quite taken with the band's blend of shoegaze and alternative metal. I'm impressed at how many styles and genres they take a stab at, mostly with great success. Meditative album opener “A Fabricated Life” plays out like a cross between [Spiritualized](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/) and Slowdive, before launching into the gloriously noisy “Say Less”, with guitar textures that you'd usually expect on a [Nine Inch Nails](/reviews/nine-inch-nails-bad-witch/) production. *The Great Dismal* starts strong, and though there are slightly weaker moments in the final third it mostly stays on track for the duration.
@@ -63,7 +63,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   By and large *The Great Dismal* listens like something out of the gentle giant school of rock, serving up heavy riffs and thumping rhythms with all the awkward, stuttering grace of a class nerd with horn-rimmed glasses. I’m a fan of the sound, but the album does lay it on a bit thick at times.
@@ -85,7 +85,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Names for bands nor albums rarely get more melancholic than Nothing or *The Great Dismal*, and the band’s latest effort is certainly no trip to Disney. Stoney, metal-esque shoegaze whose melodies remind me of Snow Patrol is one of the more novel rock sounds I’ve heard recently, and it’s got a certain nostalgia for ’90s alt rock about it, too. I like stoney metal and I like ’90s alt rock just fine, but there’s something unfulfilling about *The Great Dismal* — like I’m waiting for it to sink the hooks in rather than just dangle them in my face. 

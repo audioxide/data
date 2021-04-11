@@ -37,7 +37,7 @@ artistLink: https://www.ofmontreal.net/shop
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   For a record that so ruthlessly explores the devastating emotional fallout of a relationship, *Hissing Fauna, Are You the Destroyer?* can be an extremely entertaining experience. It’s certainly one of the most amusing breakup albums I’ve listened to, flaunting its theatrical tone with an imposing degree of flamboyancy and flair. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   *Hissing Fauna, Are You the Destroyer?* is a primal scream that can easily be mistaken for a laugh. Much of the record was written when Kevin Barnes was cripplingly depressed in a foreign land and contemplating the possible dissolution of his marriage, and it follows that its lyrical content is largely bleak, desperate, utterly despairing. Yet, apart from “The Past is a Grotesque Animal”, the swirling vortex at the album’s centre (and one of the outstanding tracks of the 00s), the songs are never presented as such. Especially on the first half, they’re manic, flamboyant, playful, frankly irresistible pop numbers that compel you to sing and dance along. A plea for friendship, or some kind of positive human connection or feeling, perhaps. 
@@ -79,7 +79,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   A decade ago, of Montreal released *Hissing Fauna, Are You The Destroyer?* to wide critical acclaim. Despite my listening habits at the time, including the likes of Animal Collective, Late of the Pier, and The Unicorns, all of which draw from the same pool of colourful, psychedelic indie pop as this album does, this is another first experience for me. It’s been a positive one at that, with each listen generating ear to ear grins at times and new points of note to discover. of Montreal disguise sombre negativity with flamboyant, theatrical instrumentation that could be mistaken for music from a couple of decades prior, with funk-filled bass lines and coarse, antiquated synth tones. 
   

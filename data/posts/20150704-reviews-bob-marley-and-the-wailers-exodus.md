@@ -33,7 +33,7 @@ artistLink: https://shop.bobmarley.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Having survived failed attempts of assassination, *Exodus* featured a rejuvenated Bob Marley who was seemingly just happy to still be alive. As a result, the mellow and reflective side of Marley set the tone, for better or worse. Whilst the laid-back energy of *Exodus* remained consistent, the content itself was divided into two halves. There’s certainly a parallel here — the nature of these split halves appropriately demonstrates the two sides of Bob Marley that he’s widely celebrated for; one of protest and demonstration, and the other of love, harmony and passion. 
@@ -51,7 +51,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s a great deal to like about *Exodus*, but I don’t think the album’s overall quality matches up to its reputation. It has moments of quite profound Marley charm, but such peaks are matched by (very pleasant) plateaus. This is perhaps best represented by the disparity between the album’s two sides. “Exodus” aside, the first half is pretty formulaic. Now obviously one would do well to argue ‘formulaic’ is a vice in a genre like reggae, but *Exodus* reaches much higher peaks when it engages with a broader range of sounds and vocal deliveries. 
@@ -69,7 +69,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Exodus* is seen by many as a classic album of the 20th century, from an artist who played a major role in bringing reggae to a worldwide audience. Given that, the album has high praise and expectation to live up to. 

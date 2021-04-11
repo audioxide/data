@@ -19,9 +19,9 @@ featuredimage: article-images/favourite-albums-2015.jpg
 featuredimageAlt: Black and white photograph of Kendrick Lamar performing onstage
 title: Our 10 favourite albums of 2015
 author:
-  - andre
-  - fred
-  - andrew
+  - andre-dack
+  - frederick-obrien
+  - andrew-bridge
 blurb: What a year it's been. Hip hop kings, hip hop princes, UK rock upstarts, and lots more. Here are our fav albums of 2015.
 
 ---

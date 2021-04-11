@@ -8,7 +8,7 @@ featuredimage: funnyfarm-images/8-hazardous.jpg
 featuredimageAlt: Ink drawing of Alan Hazard having one of his episodes
 title: "VIII: Hazardous"
 summary: In which we hear the innermost thoughts of the world's most important person
-author: fred
+author: frederick-obrien
 blurb: In which we hear the innermost thoughts of the world's most important person.
 
 ---

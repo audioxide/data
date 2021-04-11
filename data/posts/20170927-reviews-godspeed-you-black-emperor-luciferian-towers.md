@@ -34,7 +34,7 @@ artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   It wouldn’t be a new record from post-rock’s most overtly political band without a damning press release that blasts social injustice and demands revolution. ‘An end to foreign invasions. An end to borders. The total dismantling of the prison-industrial complex. Healthcare, housing, food and water acknowledged as an inalienable human right. The expert fuckers who broke this world never get to speak again.’ Given the sheer strength of such powering words, you’d be forgiven for thinking that this sets up Godspeed You! Black Emperor for their most furious album yet. Whilst the sound is vast and menacing in stature,*Luciferian Towers* lacks the abrasive power that [made their debut such an authoritative record](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/).
@@ -52,7 +52,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   ‘Apocalyptic’ is a word often thrown Godspeed You! Black Emperor’s way — and with good reason — but it doesn’t apply here. *Luciferian Towers* is a different animal, its tone righteousness and fury rather than rumination. The group’s famed ruinous tint is present, but it’s in service of a more redemptive project. There’s a discipline to *Luciferian Towers* that’s deeply affecting; a controlled, raging anarchy. 
@@ -74,7 +74,7 @@ score:
   fraction: 0.9
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   My knowledge of Godspeed You! Black Emperor prior to my first listen of *Luciferian Towers* was incredibly limited. Despite the best efforts of a close friend at university, I hadn’t managed to sit through an entire record — intimidated, perhaps, by the 20-minute runtimes of their tracks. 

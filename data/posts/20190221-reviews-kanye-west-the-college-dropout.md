@@ -33,7 +33,7 @@ artistLink: https://shop.kanyewest.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The College Dropout* was the first hip-hop album I ever owned. As soon as I heard “Through the Wire”, 12-year old me made sure to save some pocket money for the release of Kanye West’s debut album, which of course my mother had to purchase (thanks again, mum!). Naturally, this record played a huge part in my musical development, and it makes for a pretty severe nostalgia trip in 2019. It’s a great album, that much is obvious, but it’s genuinely startling to go back to, [as Ye himself would put it](/reviews/kanye-west-the-life-of-pablo/), ‘the old Kanye’.
@@ -53,7 +53,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I joined the Kanye party late. I’m used to him being a bit loopy, a bit of genius, and massively inconsistent. I like that about him. Even [*The Life of Pablo*](/reviews/kanye-west-the-life-of-pablo/), which was frankly a bit of a farce when it first came out, was one of my favourite albums of 2016. Kanye has a gift for making music that feels like it’s spilling directly out of his head, and because *The College Dropout* comes from a time when he was still loosely connected to reality, it’s human in ways he’s only managed in fits and bursts since.
@@ -73,7 +73,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Before Kanye West became the Twitter outbursting, Kardashian schmoozing curio he is today, he released his debut, *The College Dropout*, and all at the same time as well! It’s a different beast altogether: well polished, with healthy portions of cheek and snark and instrumentals full of character.

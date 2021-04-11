@@ -35,7 +35,7 @@ artistLink: https://shop.justice.church/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Justice’s debut album, released almost 10 years ago now, exploded on to the scene with bold intentions. It was loud, it was daring, and it was exciting, like a nu-age opera. Although its impact was compelling at the time ([at least for the most part](http://www.musicradar.com/news/tech/justice-respond-to-unplugged-controversy-by-posting-more-pictures-183657)), that ‘Justice sound’ has had little momentum since. This wasn’t helped by a tame second studio album, which only polarised listeners, and, more significantly, the detracting force of EDM and house music that has continued to occupy the mainstream dance space. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although Justice’s latest release never quite builds up a head of steam, I’ve no qualms saying it’s a deeply funky listen. The brutal, operatic edges of *Cross* are exchanged for a looser old-school sound, mixing elements of dance, funk, disco, and electronica into a cool, colourful character. It’s a gorgeous, full vibe which sounds bigger than whatever sound system it’s being played on. “Fire” and “Alakazam !” mark the best of what *Woman* has to offer, balancing its liquid sound with a genuinely commanding drive and restlessness — fever, you might even call it. All the choral sections are lovely, “Stop” especially. Lovely. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been great to see a return from Justice on their latest release, *Woman*. As a big fan of the cinematic, grungey crunch of their debut album *Cross*, and the lighter, more playful disco jaunt *Audio, Video, Disco.*, that followed it, my expectations were high. I can’t say I’m immensely disappointed either. 

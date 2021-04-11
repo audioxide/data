@@ -15,8 +15,8 @@ featuredimage: album-artwork/melodrama-lorde.jpg
 featuredimageAlt: Album artwork of 'Melodrama' by Lorde
 title: "“This is like a classy Disney tune” – André and Fred listen to Lorde"
 author:
-  - andre
-  - fred
+  - andre-dack
+  - frederick-obrien
 blurb: "“This is like a classy Disney tune” – André and Fred listen to Lorde"
 
 ---

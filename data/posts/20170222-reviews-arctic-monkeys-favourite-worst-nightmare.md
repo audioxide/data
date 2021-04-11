@@ -36,7 +36,7 @@ albumMBID: f113fa38-7908-3ec9-8145-d2455e78a8b2
 artistLink: https://arcticmonkeys-store.com
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   The release of Arctic Monkeys’ debut album was a monumental occasion. *Whatever People Say I Am, That’s What I’m Not* broke numerous British records, and it remains the fastest selling album by a band in the UK to date. At the time, comparisons were made with cultural giants on the scale of [Oasis](/reviews/oasis-definitely-maybe/) and [The Beatles](/reviews/the-beatles-revolver/), whilst frontman Alex Turner was described as a [‘master of observation’](http://www.nme.com/reviews/album/reviews-arctic-monkeys-7837). For a band who were still in their teens, the accolades were maybe a little overblown. Of course it was a good album, but it had obvious limitations. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   With the Arctic Monkeys album *Favourite Worst Nightmare* reaching 10 years since its release year, there seems no better time to break out that old box of nostalgia lurking under your bed. There are few albums that bring back such vivid memories both good and bad. *Favourite Worst Nightmare* speaks to a time where shouting ‘bus wanker’ was still funny. A time where every local dancehall and club was filled with shamelessly terrible Strokes/Arctic Monkeys clones. The Arctic Monkeys in the mid 2000s were the answer to so many — they showed that you too could start a chart topping indie rock band from your dad's shed. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It may be a decade old, but *Favourite Worst Nightmare* could easily be a new release. With a far sharper sound and clear contrast in production compared to their debut, the Arctic Monkeys follow up album makes it clear that the band weren't prepared to stick with 'more of the same'. By bringing the bass and vocals right to the front of the mix, each track is immediately full of drama with an enormous dynamic range. 

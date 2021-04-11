@@ -33,7 +33,7 @@ artistLink: https://solange.blackplanet.com/shop/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Though we were all fairly lukewarm on its release, [*A Seat at the Table*](/reviews/solange-a-seat-at-the-table/) eventually became one of my favourite records of 2016. It flowed like a written diary, and its sound was sumptuous. More importantly, its power grew over time. My initial reaction to Solange’s latest release, *When I Get Home,* was similarly tepid, this time bordering on genuine apathy. Unfortunately, further listens have only decreased my overall interest.
@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   [*A Seat at the Table*](/reviews/solange-a-seat-at-the-table/) is a wonderful album, bursting with well-developed creativity and the perfect balance of carefree serenity and intrigue. Solange’s gracefulness felt like the core of the album’s success, underpinning every track with elegance and staggeringly clean vocals. *When I Get Home*, unfortunately, feels like neither a continuation nor progression from its predecessor. The weightlessness of Solange’s delivery feels less the result of the near-angelic demeanour with which she sang on *ASatT*, and more that of sheer emptiness.
@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It took me some time to get on board with Solange’s previous album, and I was fully expecting to warm to this latest release in the same way. Unfortunately, I’ve remained indifferent to the majority of *When I Get Home*. Amid suggestions that there are hidden away secrets and deeper meaning within this album, and that it’s the listener’s responsibility to dive deeper, I find myself struggling not to float away, let alone dive in.

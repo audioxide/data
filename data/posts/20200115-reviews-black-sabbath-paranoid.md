@@ -38,7 +38,7 @@ artistLink: https://blacksabbathapparelshop.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Metal is a funny thing. It was funny 50 years ago, and it’s funny now. Often absurd, sometimes comical, and, every now and then, rather spectacular. My favourite records within the genre are those that come within sub-categories that emerged in the ’90s and beyond: the likes of [*The Downward Spiral*](/reviews/nine-inch-nails-the-downward-spiral/)* (industrial metal), [*Toxicity*](/reviews/system-of-a-down-toxicity/) (nu-metal), and [*Dissociation*](/reviews/the-dillinger-escape-plan-dissociation/) (mathcore) to name but a few. As far as straight up heavy metal goes, I think Black Sabbath’s *Paranoid* is one of the very best. It’s very sincere and reliably silly. And when it rocks, it fucking rocks.
@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   A type of YouTube channel has really taken off over the last few years in which they restore things. Old gizmos are dug out, treated for rust, and painted to look like new. The items that features in these videos – vices, mining lamps, lighters, things like that – are often dated and clunky, but boy are they well made. After decades in some field somewhere the nuts and bolts of the things still work. *Paranoid* feels a bit like that. It’s built to last music; a cast iron album with a thin coating of rust.
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   In the half-century since its release, the framework laid by *Paranoid* has been built upon to such an extent that I wouldn’t call its ‘heavy metal’ tag particularly enduring. By today’s standards, the heaviness feels incredibly restrained – the crunch of the guitars hasn’t been mixed to offer the qualities of a club to the head, the vocals never resort to loosely controlled wails or screams, the lyrics only allude to the occult rather than brandish it as the (pentagrammed) star of the show. It’s refreshing to listen to a metal album that has all of the composite elements of such without the dials on each of them having been cranked to 666 – how odd to find refreshment in an album that came out within months of the moon landings.

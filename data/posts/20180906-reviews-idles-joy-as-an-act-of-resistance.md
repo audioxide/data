@@ -36,7 +36,7 @@ artistLink: https://www.idlesband.com/shop/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   IDLES have arrived at a crucial time. With the United Kingdom in a state of turbulence, the Bristol punk band deliver a necessary antidote. *Joy as an Act of Resistance* is gut-wrenchingly good. The music depicts anger and revolt, but the message is often tender: love yourself, and love others. Compassion and unity will reign victorious over bigotry and hate. IDLES’ liberal declarations are hardly subtle, but they are incredibly hard-hitting and frequently effective. Serious concerns declared with sarcasm, satire and a smirk. This is as close we’ve come to a cultural punk force since its mainstream peak back in the ’70s.
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   For all its fire and biting satire, *Joy as an Act of Resistance* feels like an album that sells itself short. It’s powerful, righteous, funny music that defies labels. Punk? Post-punk? Krautrock? Beans on Toast after a tour of Vietnam? All close, but not quite. The sound here can only be described as ‘IDLES’ — witty, gritty resistance of the highest order. The social conscience of *Joy* is brazen, though certainly not one-dimensional. From Brexit to the manufactured controversy of James Bond casting, IDLES swing hard and fast. The record doesn’t feel like a partisan project, though. *Joy* is catharsis, not a manifesto. Put simply, Joe Talbot is here to get some things off his chest. Saddle up.
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Noisy, abrasive guitar music tends to rub me up the wrong way, often feeling like it’s all mouth and no trousers. IDLES have escaped my preconception with their latest album, however, combining powerful instrumentals with satisfyingly constructed lyrics full of genuine sentiment. 

@@ -37,7 +37,7 @@ artistLink: http://www.clppng.com/merch
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   How do you follow up one of the most memorable and imaginative hip hop records of recent years? I’m hesitant to claim this is ‘more of the same’, but there is a clear sense of continuation with *Visions of Bodies Being Burned*. It’s noisy, extremely detailed, and at times, absolutely harrowing. Clipping. have mastered this style of horrorcore, though with only a year between this and [*There Existed an Addiction to Blood*](/reviews/clipping-there-existed-an-addiction-to-blood/) I wonder if some of the novelty has worn off. Perhaps it’s my fault – I did play that record to death, after all. It was my [favourite album of 2019](/articles/top-10-albums-of-2019/) by quite a margin.
@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although I’ve enjoyed listening to *Visions of Bodies Being Burned* and have no hesitation recommending it, I don’t actually feel all that strongly about the album one way or the other. It is beautifully made and beautifully produced, with some belting tracks and velvety smooth flows. I guess it just lacks a certain wow factor.
@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   It’s impossible to talk about this album without mentioning [*There Existed an Addiction to Blood*](/reviews/clipping-there-existed-an-addiction-to-blood/), one of the very best avant garde hiphop albums of the past few years. Its themes, identity, and conceit are all continued in *Visions of Bodies Being Burned*, only this time the foundations are overtaken by the house. Clipping. has iterated on last year’s cinematic qualities, mastering the concept and pushing harder on the experience of listening to it, delivering something that’s confident, merciless, and complete.

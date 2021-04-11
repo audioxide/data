@@ -36,7 +36,7 @@ artistLink: http://saulwilliams.com/store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Born out of ongoing activism that stems back to mid the ‘90s, Saul Williams returns to his expressive roots on his latest studio release. Whilst *The Inevitable Rise and Liberation of NiggyTardust!* excelled in its embrace of industrial hip-hop, *MartyrLoserKing* is more in line with his fearless debut *Amethyst Rock Star*. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s something uniquely engaging about *MartyrLoserKing*. When listening to it I don’t hear an album so much as I do a vivid and vibrant spoken word performance. Small wonder given Saul Williams’ background, but worthy of mention up-front given much of the work’s impact stems from the deference it pays to its vocals. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   Saul Williams’ latest album has had a relatively quiet release, but it may make for one of 2016’s hidden gems. *MartyrLoserKing* has a distinctive, explorative, industrial sound that melds analogue and digital effortlessly, rapidly evolving in instrumentation and atmosphere, with Williams’ vocals sitting firmly in the middle of it all. 
   

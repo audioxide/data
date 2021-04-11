@@ -35,7 +35,7 @@ albumMBID: 299408a0-9846-4234-9d1e-559a5d54f8df
 artistLink: https://www.batforlashes.com/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   With an adept ability for creating whimsical worlds in her sonic compositions, a concept album has always been in reach for Natasha Khan. Since the release of her debut record a decade ago, every Bat For Lashes album has been graciously theatrical in its own niche way, each becoming more focused and driven in its vision. While [*Two Suns*](/reviews/bat-for-lashes-two-suns/) and *The Haunted Man* were deeply sophisticated works, the momentum has sadly stopped here. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was 50 minutes of anti-climax. Having been passingly acquainted with Bats for Lashes by Natasha Khan aficionado and shrine builder André, I was quite looking forward to this one. Khan’s recent side project [*Sexwitch*](/reviews/sexwitch-sexwitch/) wasn’t without its limitations, but there were enough creative juices flowing through it to expect some haunting and groovy ambient splashes from *The Bride*. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The opening of *The Bride* sounded promising. With a clear concept and some airy, delicate instrumentals, the new Bat For Lashes release could’ve seen the same success as previous albums. Unfortunately, it’s the development which isn’t quite there for me. A few interesting instrumentals are peppered throughout the album, but these largely don’t evolve from the opening moments of each track. 

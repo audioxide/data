@@ -35,7 +35,7 @@ artistLink: https://yolatengo.com/forsale/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   By the time I had finished my first listen of *There’s a Riot Going On*, I had already forgotten about it. As I would any other album, I gave it the benefit the doubt, assumed it was a grower, and hours later delved back into its soft, smooth aesthetic. This process has been repeated a number of times, and I still don’t have much to say about it. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I can only assume *There’s a Riot Going On* was given its title as a joke. Listening to the album has been like trying to stay awake after a couple of days without sleep. As far as I can tell, Yo La Tengo decided to undertake a dreamy ambient rock project and lacked the restraint necessary to make it work. It isn’t bad. Instead it’s boring, which might be even worse. The sonic palette is murky and the songwriting is lax. Any time the group stumble onto a passable bass line or soothing melody they run it into the ground in some sort of slow motion indie panic. I had no idea three-minute songs could last so long. 
@@ -72,7 +72,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I don’t take any pleasure in lambasting Yo La Tengo’s latest release. Listening through *There’s a Riot Going On*, you’re met with warm, often calming instrumentals which are easy on the ear but don’t feature a lot of progression. It does well at setting an atmosphere and works best as background music, but the fact that the record does little more than that exposes its flaws. 

@@ -36,7 +36,7 @@ artistLink: https://teapadorchestra.bigcartel.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Brimming with catchy vocal hooks and compelling harmonious moments, *Something Blue* is a pleasant record, one that revels in its spirit. But for all its charm, a prominent deficiency lies in its production. The album reveals the difficulties of attempting to capture the energy of a live performance on a studio recording. The subdued nature of the band's performance is the opposite of what you would expect to hear from a group who share a great understanding of each other’s talents, and it’s this hesitancy that prevents *Something Blue* from being as accomplished as it should be. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Something Blue* joins a frustrating school of albums we’ve listened to in which recording decisions deeply hinder the final product and do a disservice to the talents of the artist. Like Lianne La Havas’ [*Blood*](/reviews/lianne-la-havas-blood/) and Savages’ [*Adore Life*](/reviews/adore-life/), Rob Heron & The Tea Pad Orchestra shoot themselves in the foot here by failing to translate their performative energies into a vibrant recorded form. The songwriting is dynamic and fun, the group is delightfully tight on a technical level, Heron’s lyrics are sprite and clever, and I can barely enjoy any of it because it’s like I’m hearing it through a wall. The group has been so cleanly recorded in *Something Blue* that their collective sound has been reduced to a Disney-style brand of sanitised grit. 
@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Rob Heron and his Tea Pad Orchestra return with their third release, and there’s a notable polish this time round. Rob Heron’s lyrics have always had a knack for standing out and bringing a smirk to a listener’s face, and *Something Blue* is no exception, with the title track and “Flat Tonic Water” making for lyrical highlights. To complement this, there’s been a clear effort to vary the vocal sound, with rock and roll influences mixing well with Heron’s voice. Instrumentally, the sound has clearly been bolstered, taking a heavier influence from swing, blues, and country of America, where previous material has seen a sound that explores more European influences. 
@@ -92,7 +92,7 @@ score:
   fraction: 0.6
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   My first encounter with Rob Heron and the Tea Pad Orchestra was at Koko in Camden Town some four years ago now. They were supporting a favourite artist of mine, Pokey Lafarge & The South City Three, and right then I was blown away. _Something Blue_ intertwines aspects of country, gypsy jazz, Americana, and gospel. For listeners less experienced with these genres, the music of Rob Heron and the Tea Pad Orchestra might be considered ‘retro’, a word that [Pokey Lafarge openly dislikes](https://www.youtube.com/watch?v=No22bRC1-gA). Pokey quite aptly describes his own music as 'American music that never died', and I believe the same can be said for Rob Heron and the Tea Pad Orchestra. What immediately excited me about them is that they’re not from Louisiana or from New Orleans or Chicago. They’re from Newcastle, UK. As a person who has listened to and played jazz, swing, and blues as soon as my 13 year old fingers could grapple that bar chord, the fact that Rob Heron et al. were young and British was confirmation that there was an audience for a new breed of Traditional music, that talked about current topics.

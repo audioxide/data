@@ -36,7 +36,7 @@ artistLink: http://miauniverse.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   M.I.A.’s fifth and final album is an unfortunate affair. Comprised of lazy lyrics, half-arsed sampling, and grating production, *AIM* completely misses the mark. It contains some potentially interesting ideas that are too often driven into the dirt by feeble songwriting, ultimately becoming stale and incredibly tiresome after a short amount of time. Practically every song sounds like a loose sketch that runs out of ideas halfway through. 
@@ -54,7 +54,7 @@ score:
   fraction: 0.4
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   On a score this low I’d expect to be upset or angry in some undignified way or other, but in this case I’m just deeply unaffected. *AIM*, ironically, is a directionless. Boasting a small army of producers (read: electric sledgehammer wielders) like Dilpo and Skrillex, the album’s character is inelegant and obnoxious, with the creative sparks scattered throughout only serving to highlight what is missing — vision. 
@@ -73,7 +73,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve always had a soft spot for M.I.A’s mix of variety, opinion, and experimentation, and it’s continued with more recent releases despite the slightly dulled edge they’ve suffered. Unfortunately, *AIM*, M.I.A’s self-proclaimed ‘final album,’ feels all the more unfurled. With lead single and opener, “Borders”, leaving me cold next to previous big singles like “Bad Girls” and “Paper Planes” despite the collection of catchy elements throughout, and “Go Off” which follows, largely feeling like a single idea from collaborator Sonny Moore (a.k.a Skrillex) stretched over three minutes, *AIM* doesn’t provide an impressive opening. There are good ideas to be had though, “Bird Song” is more interesting, with a quirky sample making for a catchy hook and chopped up vocals from M.I.A reminiscent of her earlier output. Unfortunately, the album fluctuates and fragments in style and quality, with many tracks feeling part-formed, kept in maybe to provide a specific moment or reference in the album, but never expanded upon.

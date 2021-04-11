@@ -34,7 +34,7 @@ albumMBID: 72d15666-99a7-321e-b1f3-a3f8c09dff9f
 artistLink: https://www.thebeatles.com/store/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   *Revolver* marks the beginning of my favourite period for The Beatles, and despite the curious inclusion of “Yellow Submarine” I find it to be the most cohesive album the band ever released. It’s full to the brim with ideas that are executed with such precision, skillfully mixed with care and delicacy, resulting in a complete work that seems somehow effortless in its construction. *Revolver* is one of the most enjoyable pop albums of all time, an iconic work that will forever be used as an example for songwriting expertise.
@@ -50,7 +50,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s not a great deal that can be said about *Revolver* that hasn’t already been quite thoroughly covered in the last fifty years. The songs are consistently excellent, with a rich, fresh sound and truly beautiful lyrics. I don’t think it’s my favourite Beatles album, but it may well catch them at their most cohesive. Lennon, McCartney, and Harrison (and Starr, I guess) are tuned in to the same frequency, and the results are iconic.
@@ -66,7 +66,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Revolver* is an album that marks a change in The Beatles’ sound as they entered their ‘psychedelic’ period, but that doesn’t mean that there aren’t some great pop songs on the album. In contrast, “Tomorrow Never Knows” is a clear sign of this change in sound but sounds similarly fantastic. 

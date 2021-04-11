@@ -39,7 +39,7 @@ albumMBID: 5fdd6ba8-83c1-3a87-b378-d5f61dec5ddd
 artistLink: https://www.enoshop.co.uk/shop.html
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   To get the most out of *Ambient 1: Music for Airports*, it’s important to understand the concept behind it. Brian Eno’s intention was to ‘induce calm and a space to think’, with an end goal of making music that was ‘as ignorable as it is interesting’. *Music for Airports* largely succeeded on both accounts, and whilst it wasn’t the first album of its kind, it was effectively responsible for the establishment of ambient music. With all of Eno’s work, there remains a hint of indulgence, but that doesn’t detract from the effectiveness of the music itself. Almost forty years after its release, *Music for Airports* still stands as one of Eno’s greatest ever records, and its unlimited sound continues to be a huge influence in [popular music](https://www.youtube.com/watch?v=D0JvrQ1MrU8&t=17s), [film scores](https://www.youtube.com/watch?v=gHxi-HSgNPc), and [game soundtracks](https://www.youtube.com/watch?v=laZusNy8QiY).
@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The funny thing about ambient music is that — at least in theory — the less affecting it is, the more successful it is, and in this sense *Ambient 1: Music for Airports* is a very fine album. Soft and unexpectant, the rippling soundscape Eno crafts doesn’t demand attention, it’s just there; a willing soundtrack to experience, whatever that experience may be. Eno calls ambience ‘a tint,’ a ‘space to think,’ and it certainly provides that in *Music for Airports*. It loosens thought by giving it room to breathe. 
@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Ambient 1: Music for Airports* was written as a sound installation to calm the anxious atmosphere of an airport terminal, and that makes critiquing it an interesting task. Closer to an art piece than a music release, it invokes thought rather than evoking an emotion of its own, and while that might normally be a negative, that is its purpose. Each piece finds its own way to glide along, painting a backdrop for the listener to fill. 

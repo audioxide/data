@@ -12,7 +12,7 @@ tags:
 featuredimage: article-images/the-80s-according-to-stewart-lee.jpg
 featuredimageAlt: Black and white photograph of Morrissey surrounded by smoke
 title: The &#8217;80s according to Stewart Lee
-author: fred
+author: frederick-obrien
 blurb: The most miserable man in comedy has five favourite albums from everyone's least favourite decade. We explore Stewart Lee's highlights of the '80s.
 summary: The most miserable man in comedy has five favourite albums from everyone’s least favourite decade. Who could turn down a trip through ’80s music in a Stewart Lee devotee vehicle? Don’t answer that
 

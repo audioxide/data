@@ -35,7 +35,7 @@ artistLink: https://store.johnlennon.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Almost fifty years after its release, *John Lennon/Plastic Ono Band* still stands as a significant moment in music history. Raw, deeply personal, and tremendously honest, this was rock & roll as Lennon had always envisaged it. Sometimes it’s gorgeous, and other times its twitchy and uncomfortable, making for a somewhat demanding experience. 
@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Stripped-down and emotionally raw, *John Lennon/Plastic Ono Band* is a record I’m glad to have listened to, albeit for slightly atypical reasons. If you’re curious what the fallout from ‘let’s sit down and talk about our feelings’ sounds like in album form, this is as good an example as you’re ever likely to find. It listens like a therapy session — sometimes basely sincere and beautiful, others fidgety, inelegant, and crass. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I can only imagine the hubub John Lennon’s first solo record caused on its initial release, with high critical praise all around. The most obvious characteristic of the album is the familiar reverb, similar to [The Beatles](/reviews/the-beatles-revolver) but dialed up a notch, with vocal delivery and general quirkiness following suit. 

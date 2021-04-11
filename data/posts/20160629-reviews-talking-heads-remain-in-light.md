@@ -38,7 +38,7 @@ artistLink: https://hifi247.com/talking-heads.html
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Remain in Light* is a sheer delight to listen to. It thrives on its character, never ceasing to be thoroughly entertaining. The opening portion of the record springs along with a playful energy, and the second half is a haze that floats by at its own steady pace, drawing comparisons to albums of a similar era such as David Bowie’s [*Low*](/reviews/david-bowie-low/). 
@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Talking Heads cast a long shadow, and *Remain in Light* is a huge reason for that. Little about the album is uniform, yet it endures as one of the most airtight musical projects there is. This is one for the audiophiles. Under the Midas wing of Brian Eno, Talking Heads juggle African genres with Western experimentation and innovative digital play, glazing the whole affair with almost delirious David Byrne lyrics and delivery. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   If nothing else can be said for *Remain In Light*, it’s a lot of fun to listen to. Fortunately, despite this being my first exposure to a Talking Heads LP, I’ve found a lot more to like. With strong influences of Cuban and African music and high energy from the opener, the album is sun-soaked and has a focus on rhythms and drum patterns that make up a huge part of this energy. 

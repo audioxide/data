@@ -40,7 +40,7 @@ albumMBID: 7aadf038-4270-4e1f-820d-f9f367f6dfa9
 artistLink: https://www.batforlashes.com/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   After the disappointingly vapid nature of 2016’s [*The Bride*](/reviews/bat-for-lashes-the-bride/), it’s a pleasure to hear such playful music from Bat For Lashes once again. This is Natasha Khan’s love letter to the ’80s. Inside *Lost Girls* you hear everything from pop sensations [Michael Jackson](/reviews/michael-jackson-bad/), Cyndi Lauper, and [Prince](/reviews/prince-purple-rain/), to the more experimental names of [David Bowie](/reviews/david-bowie-hunky-dory/), [The Cure](/reviews/the-cure-disintegration/), and [Talking Heads](/reviews/talking-heads-remain-in-light/). Add to that the countless homages to John Williams, alongside the music of *Stranger Things*, and what you essentially have here is Khan’s musical reimagining of *The Lost Boys*. It’s really quite fun.
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Up to now my relationship with for Bat for Lashes has drifted between [noncommittal fondness](/reviews/sexwitch-sexwitch/) and [mild disappointment](/reviews/bat-for-lashes-the-bride/). This time I have to concede I have stepped up to a little crush. Just a little one. *Lost Girls* does not entirely avoid Khan’s traditional shortcomings (airiness and filler, mainly) but it is probably her most cohesive project to date, and has some serious groove credentials.
@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Bat For Lashes returns after three years, and in *Lost Girls* it sounds like Natasha Kahn had real fun during its recording.

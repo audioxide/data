@@ -37,7 +37,7 @@ artistLink: https://thundercat.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   We all root for Thundercat. A magnificent multi-instrumentalist with charm and charisma in spades. He’s contributed to some of the most extraordinary records released in the past decade, and even picked up a grammy for his work on Kendrick Lamar’s [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/). There’s no denying his talents, nor the distinctive mark he commits to a variety of musical projects. However, there’s certainly a conversation to be had about his quality as an individual recording artist.
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *It Is What It Is* is what it is. Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style, a good time but not terribly eventful. That will likely be enough for many listeners – and I certainly don’t begrudge the approach – it just seems a bit anticlimactic.
@@ -79,7 +79,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   The bohemian, avant garde, auratic bass genius of Thundercat offers a not uncommon quandary of where the seam between man and persona can be found, and the overarching narrative of *It Is What It Is* seems to be a reflection on this duality. 

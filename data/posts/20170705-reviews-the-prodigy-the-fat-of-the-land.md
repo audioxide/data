@@ -37,7 +37,7 @@ artistLink: https://theprodigy.tmstor.es
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   When it comes to the ‘90s, opinions often sway to both extremes, but there’s no denying that it was host to a wide variety of excellent electronic music. Whilst [Aphex Twin](/reviews/aphex-twin-richard-d-james-album) and [Air](/reviews/air-moon-safari) were offering a calmness that was otherwise absent from dance music, [The Chemical Brothers](/reviews/the-chemical-brothers-dig-your-own-hole) and Fatboy Slim tapped into huge arena-rock sensibilities, propelling big beat to the very forefront of popular culture. The Prodigy, meanwhile, took one step further by applying a punk aesthetic to the electronic field, which ironically made them the most accessible and popular act of them all — at least for a period. 
@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Fat of the Land* is a very good dance album and a decent album. I don’t have the joy of dance in my heart so it isn’t terribly useful to me, but the vibe is strong for as long as you feel inclined to not listen too closely. I always feel a little iffy about music that isn’t supposed to be heard, but the sound here is fresh and lively and has aged pretty well. 
@@ -77,7 +77,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   If nothing else, *The Fat of the Land* has certainly left a legacy. With at least two of its tracks still on regular rotation, it only improved on The Prodigy’s solid track record of releases through the ‘90s. Their third studio album manages, for the most part, to avoid the pitfall that many dance albums fall into by remaining listenable at home, and memorable long after its dying moments. 

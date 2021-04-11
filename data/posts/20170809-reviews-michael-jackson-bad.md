@@ -35,7 +35,7 @@ artistLink: https://michaeljackson.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Following an album on the sheer scale of *Thriller* is no easy task, even for the King of Pop. It took Michael Jackson five years to follow up the greatest selling album of all time, and despite showing drastic signs of age, I’d say he gave it a damn good go with *Bad*. Jackson and legendary producer Quincy Jones took a step away from disco and instead leaned towards hard dance, flirting with rock and metal, whilst allowing space for dainty ballads — standard pop procedure, but with a slight edge. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Bad* is good, but it isn’t Michael Jackson’s best work. It’s like having ’80s pop pumped straight into your veins. Given that the strain is MJ — the good stuff — I’m game. It’s just terribly easy to listen to. Practically every song is catchy enough to be a single (and probably was). 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Bad* compiles together some of Michael Jackson’s best known and loved singles. From the opening title track with its slinky bassline, to the quintessential ’80s ballad “Man in the Mirror”, there are some incredible tracks to be found across this tracklist. With that said, you’re not going to mistake this for anything other than an ’80s release. With some pretty clunky MIDI instruments dousing close to every track, and a healthy portion of ’80s cheese thrown in too, you’ll likely contract chronic nostalgia for the decade even if you had no part in it. 

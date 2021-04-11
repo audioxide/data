@@ -41,7 +41,7 @@ albumMBID: 0da340a0-6ad7-4fc2-a272-6f94393a7831
 artistLink: https://blonded.co/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   After months of build-up, speculation and [shrewd marketing](http://pitchfork.com/news/67329-snapchat-rolls-out-frank-ocean-filters/), Frank Ocean’s long-awaited second studio album is here. Does it live up to the extravagant hype? Probably not. Does it matter? Again, probably not. 
@@ -65,7 +65,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I haven’t been sure what to make of *Blonde.* It’s good weird, but it isn’t visionary. The album is some kind of high art hip hop, I guess? Cerebral autotuned soliloquies about Nike and Ferrari play off of cellophane dream soundscapes and Facebook anecdotes. Frank Ocean certainly isn’t beholden to anyone but himself, which I suppose is just as well, because whatever on earth it is he’s doing on *Blonde* is nothing if not intriguing. Often it’s affecting, though not always. His mystery meticulousness becomes its own thing to care about. 
@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Frank Ocean’s latest release has seen a lot of anticipation and hype over the last few weeks, with fuel added to the fire as its release date was continuously pushed back. Despite this, it seems as though Ocean has been working on a relatively low-key affair for the past few years. *Blonde* has reminded me of the work of [Bon Iver](/reviews/bon-iver-22-a-million/) and [James Blake](/reviews/james-blake-the-colour-in-anything/) more than a couple of times during my time with it. 

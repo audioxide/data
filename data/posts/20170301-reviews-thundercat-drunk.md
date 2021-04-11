@@ -36,7 +36,7 @@ artistLink: https://thundercat.bandcamp.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I’m at a weird place with *Drunk*. Thundercat’s third studio album is creative, charismatic, honest, and sometimes extremely funny, but the rapid-fire approach to track sequencing can leave me frustrated as much as it does delighted. With an average track length of about two minutes, Thundercat leaves little room for these sweet R&B jams to develop into what they deserve to be. *Drunk* swiftly goes from one idea to the next, and it’s difficult to get a grasp on many of the songs that fail to get to the three-minute mark. It’s often a jarring and muddled experience, which I suppose may be the point given the album title, but it’s not exactly the most engaging artistic direction. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   Of *Drunk*’s twenty-three tracks, only six exceed three minutes. It’s 51 minutes long, and the average track sticks around for roughly two minutes. Records such as J Dilla’s *Donuts* and Flying Lotus’ *You’re Dead!* have demonstrated that this kind of structure is better suited to creating the illusion of formlessness: an album that’s rapid and seamless, that careens through short tracks that are meticulously mixed to function not as discrete units, but as movements within a larger, constantly shifting piece of music. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m left frustrated by *Drunk*. It’s a grower of an album for sure, as my first listen certainly didn’t grab me, but additional plays have given me a chance to find a lot to like. Some of the flourishes and ideas in the mix on this album are superb. The *Sonic The Hedgehog* sample in “Show You The Way”, for instance, makes me smile on every listen. A lot of the musical ideas are engaging, fresh and sound just right. If you’ve listened to Thundercat before, the same aesthetic has returned, and the mix of jazz, soul, and R&B still piques my curiosity. 

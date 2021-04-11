@@ -35,7 +35,7 @@ artistLink: https://shop.firstaidkitband.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   First Aid Kit have enjoyed a great deal of success since the release of *The Lion’s Roar* — their finest work — as they continue to act as a suitable entry point for newcomers of folk and Americana. The Söderberg sisters sing with clarity and grace, engaging in wonderful harmonies that float across well-crafted instrumentals. *Ruins* retains the same formula, but it’s difficult to get truly enthused given the sheer safety of its build. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Ruins* is a place where life is found to be beautiful, there are harmonies and steel pedal guitars, and the landscape isn’t terribly memorable. That’s the long and short of it. Beyond being a space for people to be pleased with themselves for finding life beautiful I don’t understand why this exists. I can’t hear any other reason. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve always had a soft spot for First Aid Kit. Having proven themselves to be an impressive force on stage over the last decade, I have a lot of time for new material from the Swedish folk duo. Certainly, the first third of *Ruins* delivers, with a striking opener that brings with it beautiful harmonies and a busy instrumental, followed by a further couple of tracks which are very much in the duo’s wheelhouse, but still feel distinctive and have somewhat of a punch to them. 

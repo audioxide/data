@@ -38,7 +38,7 @@ artistLink: https://weyesblood.kungfustore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Natalie Mering, otherwise known as Weyes Blood, describes her fourth album as ‘The Kinks meet the Second World War, or Bob Seger meets Enya.’ I’m not entirely sure how accurate that depiction is, but then Titanic Rising is proving a difficult album to nail down. I hear glimpses of Joni Mitchell, Perfume Genius, Ariel Pink, and even a flash of [Muse](/reviews/muse-origin-of-symmetry/). The variety on show is quite extraordinary, and it’s something that separates this work from the recent releases of artists like [Julia Jacklin](/reviews/julia-jacklin-crushing/), and perhaps even [Courtney Barnett](/reviews/courtney-barnett-tell-me-how-you-really-feel/). Whilst I wouldn’t claim *Titanic Rising* to be a masterpiece, I’d rank it alongside many of this decades finest pop albums without hesitation. And there’s been quite a few of those.
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a strange listening experience. *Titanic Rising* is lush, ornate, and not terribly gripping. Its arrangements are as intricate as anything likely to be released this year, yet I couldn’t tell you my standout moments. I’m not even sure I have standout moments. The record is too airy for that. Too ethereal. Instead of resting on catchy hooks or a restless rhythm section, *Titanic Rising* tries to weave something bigger.
@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Titanic Rising* is warm and bold. Often sounding closer to a cinematic score from the tail end of the 20th century, it throws hints of nostalgic, mid-century Americanisms into its instrumentals then drapes an assortment of strings and synths across the tracklist.

@@ -38,7 +38,7 @@ artistLink: https://www.authentichendrix.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Jimi Hendrix changed everything. Each of us have contemporary guitarists that we [adore](/reviews/queens-of-the-stone-age-like-clockwork/), [appreciate](/reviews/radiohead-ok-computer/), and [admire](/reviews/muse-origin-of-symmetry/), and they owe much of their expertise to Hendrix. On *Electric Ladyland*, the ultimate guitar hero lays out all of his artistic ambition, resulting in a long and colourful trip that successfully showcases the depths of his mastery. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s obvious why this is considered a classic. It’s also obvious why André, Andrew, and I hadn’t listened to it before. It’s instinctive, messy, and rambling, with shimmers of the divine. *Electric Ladyland* speaks in a kind of rock and roll tongues, sitting Jimi Hendrix front and centre and rolling with it. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It really is an experience to listen through *Electric Ladyland*‘s constantly changing scenery, jumping between the racous, driving thump of “Crosstown Traffic”, to the swelling virtuoso epic of “Voodoo Chile”, to the [Beatles](/reviews/the-beatles-abbey-road/)-smattered “Little Miss Strange”. All the while, Hendrix has his guitar up front and centre in the mix, pushing his smoother vocals behind it and cutting through the rest of the instrumentation. While some albums fail to recreate the live atmosphere when they need to, *Electric Ladyland* manages it seemingly without effort, as solos flood out into long jams across the entire album. 

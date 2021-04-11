@@ -36,7 +36,7 @@ artistLink: https://www.merchbar.com/dance-electronic-edm/apparat
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Apparat’s latest album is one those of releases that settles for being ‘nice’. With that comes some positives. After all, ‘nice’ is always preferable to ‘not nice’. Unfortunately, *LP5* seems comfortable not pushing any boundaries. Tracks unravel steadily, with heavy attention shown towards atmosphere and production (both of which are the album’s strong points). Rarely are there any momentous changes to melodic composition, such is the ambient nature of the work. *LP5* is an impressive record on the surface, but I’m often just as tired as I am satisfied.
@@ -54,7 +54,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Following the release of this project Apparattold told fans: ‘I made a record. It’s called *LP5* because I didn’t wanna make up a bullshit title and a story to go with it. It is about music and only that.’ Fair play to him, he was right. *LP5* has no story and no obvious purpose. It exists, sounding immaculate and saying nothing. At times one wonders why he bothered at all.
@@ -73,7 +73,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Apparat has settled on a particular path with *LP5*. Each track is a meandering, gradual, comforting mix of whirring synths, quietly agitated beats, and strings of all varieties. It makes for a thoroughly pleasant experience, but without a great deal of variety or highlight in sight it’s easy for the pleasant to become the forgettable.

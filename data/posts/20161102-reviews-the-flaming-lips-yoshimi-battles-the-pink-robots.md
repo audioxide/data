@@ -36,7 +36,7 @@ artistLink: https://store.flaminglips.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The tenth studio album from The Flaming Lips is an ambiguous musical fantasy, telling the tale of a fictional character named Yoshimi who defeats evil robots using the power of love, wonder, and… existentialism. Wayne Coyne assembles this musical in typical Lips fashion, using a colourful blend of sprightly synths, stirring basslines, and whimsical lyrics. It’s nonsense. Beautiful, vague nonsense. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Boasting a lovely lightness and colour of sound, the Flaming Lips’s tenth studio album seems to me like a childish fantasy. *Yoshimi Battles the Pink Robots* is baffling and nonsensical, but in a unique, creative, and colourful way. Although it very, very, very vaguely threatens to be a concept album, in practice it jumbles into something far more abstract and clumsy. Influences ranging from psychedelia to manga are pieced together throughout, although often toward a directionless end. As agreeable an impression as the album tends to make, it is a little mushy. It’s often charming in its childishness, but I’m not charmed by it. I find myself indulging it rather than believing it. The shiny whimsy of what goes on does not enchant me; it leaves me glazed. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve got a lot of love for The Flaming Lips’ tenth studio album. Setting its sound firmly between that of a live band and electronic outfit, *Yoshimi Battles The Pink Robots* has a distinctive, sometimes cinematic, always sunny style that stays with me long after each listen. Couple it together with a (very) loose narrative about the titular Yoshimi and her battle and it should sound intriguing to most just on paper. 

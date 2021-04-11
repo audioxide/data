@@ -36,7 +36,7 @@ artistLink: https://store.neworder.com/joy-division.html/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   An undisputed landmark in the World of alternative music, *Unknown Pleasures* has spread its influence far and wide since its 1979 release. It is a definitive declaration of Gothic artistry that spawned a host of followers and imitators, and a perfect case of cathartic despair that continues to inspire artists of all genres: from skilful rockers such as [Radiohead](/reviews/radiohead-ok-computer/) and [Nine Inch Nails](/reviews/nine-inch-nails-pretty-hate-machine/), to hip-hop darlings like Danny Brown and [Vince Staples](/reviews/vince-staples-fm/). 
@@ -58,7 +58,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Unknown Pleasures* is a goliath of an album. More than 40 years on from its release it still feels like a one of a kind project. The sound, lyricism, and production amount to something Lovecraftian in its grandeur and unpleasantness. And the album’s concerns are human rather than cosmic, so in many respects it’s even worse.
@@ -82,7 +82,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Unknown Pleasures* is a stand out classic for many. Having influenced music through the decades that followed, it’s clear that this debut album resonated with people. Regretfully, however, I’m not one of them and I’ve come away baffled by the almost unanimous praise.

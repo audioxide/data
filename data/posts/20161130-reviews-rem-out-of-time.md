@@ -35,7 +35,7 @@ artistLink: https://store.remhq.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   In spite of two exceptional singles, *Out of Time* isn’t quite the musical monument it aspires to be. Sure, this was the album that rocketed R.E.M to worldwide prestige, selling over 18 million records to date, but it sorely suffers from moments of filler and predictable tendencies. To its credit, *Out of Time* never meanders into unpleasant listening: it’s thoroughly entertaining at best, and a little stale at worst.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Out of Time* at its best is very good. At its worst it’s still pretty good, but straddles that line between slightly embarrassed head-nodding and contortion levels of cringe. The album has an almost uncannily clean, quaint alternative rock sound. When a harpsichord inevitably made an appearance it took me a while to distinguish it from the guitar. That kind of sound. So long as the band are pointed in a rockier direction, it works a treat. Standout tracks like “Shiny Happy People” and “Near Wild Heaven” are sharp and memorable, with gorgeous harmonies and welcome variety in song structure. The record warrants a listen for the highlights alone.
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   To describe *Out Of Time* as ‘patchy’ would maybe appear a little unfair. There are some memorable and now very recognisable tracks, and it’s by no means a dud release from R.E.M., with “Losing my Religion” being the most likely track for many to recognise. The first half of the album is pretty strong in general, with “Shiny Happy People”, “Near Wild Heaven”, and opener “Radio Song” all being easy picks for the favourites list.

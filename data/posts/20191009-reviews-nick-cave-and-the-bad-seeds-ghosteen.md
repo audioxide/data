@@ -35,7 +35,7 @@ artistLink: https://store.nickcave.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   How do you even follow an album like [*Skeleton Tree*](/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/)? The 2016 release from Nick Cave & The Bad Seeds was beautiful, powerful, and utterly devastating. It stands as one of the most despondent records of recent years. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is the third Nick Cave & The Bad Seeds album we’ve reviewed, and despite swathes of beatiful moments I still don’t really feel like I understand them. Cave is a natural frontman with his own — increasingly heavy — centre of gravity, while The Bad Seeds are as loyal as any companions going. The group’s a heavy duty outfit for sure, with plenty purring under the hood, but it rarely seems like they’re firing on all cyclinders.
@@ -80,7 +80,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   You can trust Nick Cave and his Bad Seeds to create brooding, atmospheric, suspenseful music. If you’re big on that style and its vocal pairing of shimmering, billowing epics, *Ghosteen* has a lot to like.

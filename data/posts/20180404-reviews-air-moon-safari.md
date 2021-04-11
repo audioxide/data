@@ -36,7 +36,7 @@ artistLink: https://itunes.apple.com/artist/id5641488
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Air were one of the very first to make chillout music cool and, dare I say, fashionable to listen to. Their debut album remains a thoroughly lovely listen. Released 20 years ago this month, Air combined chillout aesthetic with downtempo percussion, whilst adding that crucial pop element that made the record such a success. It’s pleasant, comforting, and frequently absorbing. It’s hard to imagine anyone not having a good time with it. When *Moon Safari* is at its best, it goes well beyond background listening.
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is passive and luxurious muzak. I (mostly) don’t mean that in a disparaging way. *Moon Safari* has no shortage of admirable qualities. The arrangements are sophisticated, the mix is bubbly and colourful, and the vocals drift through the track list like a good daydream. It’s all terribly pleasant, especially early on. “Sexy Boy” manages to be lush and lurid at the same time, while “Kelly Watch the Stars” wastes no time flinging you across the cosmos. The soft cooings of Beth Hirsch’s vocals are everything the record deserves. The opening stretch is an electronic delight.
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I have a lot of time for *Moon Safari*. While nostalgia no doubt plays a part, Air’s debut still sounds smooth as butter. It glides along throughout its 43-minute playtime, full of bass lines that hit the spot and hooks that’ll stay with you long after you’ve finished listening. 

@@ -38,7 +38,7 @@ artistLink: https://brucespringsteenstore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Bruce Springsteen is nothing if not a romantic. He thrives on finding the pleasures and grieving the pains of daily American life through the process of rock and roll. It’s an affecting formula, but I find the degrees of success vary with each record. The difference between *Darkness on the Edge of Town* and its predecessor, for example, is striking. *Born to Run* is ridden with drama and composed with enchanting sensibilities, whereas this is a little more real, and in many ways a lot more cruel. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Darkness on the Edge of Town* is cheese. Rich, tasty cheese. Bruce Springsteen’s brand of heartland rock isn’t for everyone, but one would do well to question its heart. It’s balls to the wall rock and roll too busy enjoying itself to get bogged down in sleaze. There will be leather jackets and denim jeans, and all the instruments will have solos that leave a smouldering pile of ash where your speakers used to be. You can hear why, years later, [some yanks didn’t realise “Born in the USA” was ironic](https://www.thedailybeast.com/are-politicians-too-dumb-to-understand-the-lyrics-to-born-in-the-usa). Springsteen’s music has such an up-front quality to it. There’s no pretence, especially in *Darkness on the Edge of Town*. Here stands an honest-to-god ‘Murican wailing about everything from young love to the plight of the working classes; take it or leave it. How on earth can I turn that down?
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Darkness on the Edge of Town* is a victim of its own success in some respects. At face value, 40 years on, it’s easy to complain of cheesiness, to draw comparisons and point out where the album has failed to a modern listener’s ear. But look again and it becomes clear that this album made a such a change in terms of production that everyone took notes and ran off to do the same. 

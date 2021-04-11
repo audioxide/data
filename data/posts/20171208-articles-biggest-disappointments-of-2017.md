@@ -11,9 +11,9 @@ featuredimage: article-images/biggest-disappointments-2017.jpg
 featuredimageAlt: Promotional image of Arcade Fire during their Everything Now phase
 title: Our biggest disappointments of 2017
 author:
-  - andre
-  - michael
-  - marcus
+  - andre-dack
+  - michael-clark
+  - marcus-lawrence
 blurb: It's time to put on our cynical hats. The artists featured here have set such a high standard that it's upsetting when they fall (considerably) short.
 
 ---

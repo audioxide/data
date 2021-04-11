@@ -37,7 +37,7 @@ artistLink: https://www.marmozets.co.uk
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I found myself in conflict after delving into Marmozets for the first time, though that didn’t stop me from impulse-buying a ticket to see them the night after I discovered them. The tracks I’d heard on the radio, “Habits” and “Major System Error”, belied a sharper and altogether more interesting nature to the band’s songwriting. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was my introduction to Marmozets. In fact, it may have been my introduction to an entire genre: post-hardcore. If *Knowing What You Know Now* is a fair picture of both I’ve been pleased to make their acquaintance. The record plays through an impressive spectrum of sounds and sonic energies, but it frustrates as much as it entertains. It’s a true hodgepodge of influences. Listening through I hear [Muse](/reviews/muse-origin-of-symmetry/), I hear [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/), I hear Green Day… I hear all sorts of bands that are only tangentially connected outside of the album.
@@ -81,7 +81,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I have to admit, I’m choosy when it comes to this area of rock. Many of Marmozets’ contemporaries often come across to me as angsty, whiney, and compressed to the point of losing any grit that could’ve been. With that said though, *Knowing What You Know Now* has made for an enjoyable week of listening and I certainly haven’t struggled with returning for repeat listens. 

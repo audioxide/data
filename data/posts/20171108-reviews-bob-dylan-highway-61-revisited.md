@@ -35,7 +35,7 @@ artistLink: https://bobdylanstore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   So much has already been said about the works of Bob Dylan that it’s difficult not to lose myself in the complex lores accompanying each record. This is one of the greatest personal joys that comes with consuming beautiful music — obsessing over liner notes, desperately scrambling for information and conclusions — but it can be a curse to those who are looking for an entry-point. As I approach the record at face value, and step away from the folklore, it becomes abundantly clear how important *Highway 61 Revisited* is.
@@ -56,7 +56,7 @@ score:
   max: 10
   
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Bob Dylan has a gift for making you feel like you’re sharing in a dark, beautiful secret in the same breath that he’s telling you to go take a hike. He has no shortage of seminal works, but *Highway 61 Revisited* is probably the finest meeting of his anger and his clarity. The record is almost everything it’s cracked up to be, and that amounts to something pretty special — especially where side one is concerned. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Highway 61 Revisited* manages to do a lot with seemingly little. At first glance, Bob Dylan uses simple chord structures, down to earth vocals and story-driven lyrics which puts him alongside an overwhelming sea of other artists. But what sets this album apart from a majority of other albums is the sheer character and hidden intricacy of the whole tracklist. 

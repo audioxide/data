@@ -8,7 +8,7 @@ featuredimage: funnyfarm-images/2-bas.jpg
 featuredimageAlt: Ink drawing of a stoned silly guitarist called Bas
 title: "II: Bas"
 summary: In which a second guitarist is sourced at a local car park
-author: fred
+author: frederick-obrien
 blurb: In which a second guitarist is sourced at a local car park.
 
 ---

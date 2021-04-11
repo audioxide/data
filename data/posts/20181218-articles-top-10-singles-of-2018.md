@@ -19,11 +19,11 @@ featuredimageAlt: David Bryne performing onstage during his American Utopia tour
 title: Our 10 favourite singles of 2018
 summary: What would the end of the year be without some lists?
 author: 
-  - fred
-  - andre
-  - gabriel
-  - andrew
-  - marcus
+  - frederick-obrien
+  - andre-dack
+  - gabriel-sutton
+  - andrew-bridge
+  - marcus-lawrence
 blurb: What would the end of the year be without some lists? Here lies our favourite singles of 2018.
 
 ---

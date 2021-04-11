@@ -37,7 +37,7 @@ albumMBID: 97ee3a0f-183b-4830-aa5c-45507a084d37
 artistLink: https://arcticmonkeys-store.com
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   **General thoughts on _Tranquility Base Hotel & Casino_ (May 11th – day of release):** 
@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is not the Arctic Monkeys as we’ve heard them before, which is just as well six albums in. Alex Turner has said the record [‘tees up the idea of playing to a quiet room,’](https://pitchfork.com/features/song-by-song/arctic-monkeys-alex-turner-decodes-every-song-on-tranquility-base-hotel-and-casino/) and that’s certainly its scene. Hushed, husky Turner monologues drift over sophisticated arrangements with retro sheens, the whole affair playing out at strolling pace, basking in the seedy buzz of a make-believe underworld. In flow *Tranquility Base* feels like slithering down a John Waters-curated rabbit hole. “Science Fiction” hums and grinds with thick synths and smooth refrains, while “Batphone” moves with the tight, thumping intent of a [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon) *Animals* track. It’s unfamiliar territory, but accommodating — in a smokey, ‘70s kind of way.
@@ -81,7 +81,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The Arctic Monkeys have made a considerable departure from their previous material in *Tranquility Base Hotel & Casino*, and my first few listens were honestly spent finding a lot to dislike. I couldn’t get over the one-speed, seemingly style over substance nature of the whole thing. Then I found myself reminded of some of my favourite vocalists as I listened to some of Alex Turner’s soft croons. I found moments of [later era Bowie](/reviews/david-bowie-blackstar/) in the title track and even some [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/)-esque points dotted around in the likes of “American Sports”. 

@@ -9,7 +9,7 @@ tags:
 featuredimage: article-images/the-dmca-rabbit-hole.jpg
 featuredimageAlt: Alice in Wonderland themed illustration of people arguing about music rights on the internet
 title: The DMCA rabbit hole
-author: fred
+author: frederick-obrien
 blurb: Debate surrounding DMCA reform requires nuance and flexibility, not trench warfare bullshitting.
 
 ---

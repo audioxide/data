@@ -42,7 +42,7 @@ artistLink: https://store.wolfalice.co.uk/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   My first listen of *Visions of a Life* was far more emotional than I had ever expected. Each of us saw great promise in Wolf Alice following [our review of their debut record](/reviews/wolf-alice-my-love-is-cool) back in 2015. I wouldn’t have said they were destined for greatness, but the potential was undoubtedly there… and here we are. How did they get here so quickly? I have no right to feel like a proud father, yet that’s exactly how I feel. In the space of two years, Wolf Alice have elevated themselves to the best band in the UK. Not five years. Two.
@@ -66,7 +66,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   We all liked Wolf Alice’s debut, [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool). We liked it very much. It was imperfect and vivid and we were all excited to hear the band grow — and my haven’t they. I think *Visions of a Life* is a masterpiece. I’m utterly infatuated with everything about it. The songs, the sound, the feel, the pacing. Everything. 
@@ -90,7 +90,7 @@ score:
   fraction: 0.9
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Rock releases over the past few years haven’t quite scratched the sweet spot, and there’s been somewhat of a dearth of genuinely exciting new talent. Brandon Flowers recently commented in [an interview with *Noisey*](https://noisey.vice.com/en_uk/article/mbb9n8/the-killers-arent-dead-yet) that new bands simply 'aren’t good enough' to make waves. 2017 doesn’t have an answer to [The Strokes](/reviews/the-strokes-first-impressions-of-earth), or Interpol, he claims. Much like The Killers’ output, Flowers is both spot-on and wildly off the mark. Maybe it’s naïve of me to expect a Vegas-based musician to be familiar with a group widely earmarked as the next best British band, but if he was I’m sure he’d have held his tongue. 

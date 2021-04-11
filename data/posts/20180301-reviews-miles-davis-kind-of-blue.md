@@ -37,7 +37,7 @@ artistLink: https://www.milesdavisstore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I enjoy jazz, but never could I possibly claim to be in any position to critique it like I would do other genres, such as rock, electronica, or hip-hop. My knowledge is narrow and my experience is limited. 1970’s *Bitches Brew* — the ‘other’ classic in Miles Davis’ vast collection — is essentially the only jazz record I am familiar with, and that album is practically a head start for modern listeners who cherish the likes of [Flying Lotus](/reviews/flying-lotus-cosmogramma/) and Matthew Herbert, and even psychedelic rock bands. *Kind of Blue* offers a different strand of jazz: less chaotic, but just as luxurious. Within its opening moments, it’s easy to see why this remains the essential choice.
@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Kind of Blue* is possibly the first album I’ve ever listened to where using headphones *really* felt like an insult to what I was hearing. Playing it through speakers was a revelation. The music fills whatever space it’s granted, a solemn, expansive jazz ensemble at the peak of their powers. 
@@ -79,7 +79,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It almost feels trite to wax lyrical about the cool atmosphere imparted by *Kind of Blue*. I’m no doubt at the back of an endless queue of people that want to fawn over the relaxed, smooth style across the tracklist as well. But none of that makes it any less true. *Kind of Blue* fills a space with its atmosphere and while it works incredibly well as background music, listen to it intently and one can find a lot of beauty in the detail. 

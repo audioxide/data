@@ -33,7 +33,7 @@ artistLink: https://shop.ultimatedenzelcurry.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Since shifting slightly away from the dizzying World of Soundcloud rap, Denzel Curry has proved himself to be a notable force in modern hip-hop. His latest full-length album reinforces the fact that Curry is an artist who will live far beyond a mere distribution platform. *ZUU* is far from perfect, but it is one of the most enjoyable rap records of the year so far.
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   "From the outset, *ZUU* is a tour de force in the bait and switch: for every blunt or cliched element across its 30-minute runtime there’s an immediate follow-up that borders on genius. I’d argue that Denzel Curry even crosses that border every so often. I’ve dabbled in his work before, but nothing prior to *ZUU* caught me in quite the same way; by the end of *TA13OO* I had largely dismissed Curry as merely another name in an overcrowded trap scene. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I was a little sceptical of *ZUU* in its opening moments. As the title track opens the album, I was hard pressed to find anything that set it apart from a lot of mainstream hip-hop around today. The deeper into the tracklist though, the more this album grows on me.

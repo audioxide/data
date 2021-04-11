@@ -37,7 +37,7 @@ artistLink: https://store.wasteheadquarters.com/collections/thom-yorke-atoms-for
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *ANIMA* manifests a brand of bleakness that Thom Yorke has begun to master since his first solo effort in 2006, [*The Eraser*](/reviews/thom-yorke-the-eraser/). 2014’s follow-up *Tomorrow’s Modern Boxes* took the dystopian flavour one step further, but its instrumentals too often meandered into the grey. In contrast, the immediate reaction to *ANIMA* is just how wonderful the record sounds. Indeed, it’s mixed and produced beautifully, demonstrating Yorke’s anxiety with the current political landscape to excellent effect.
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is a Thom Yorke solo project. I listen to it and I think, ‘Yep, this is a solo Thom Yorke project.’ There are bitty drum machines, shivering synthesisers, dissonant keyboards, and a whole lot of tender harmonies. You land slap bang in the middle of that world and stay there for 50 minutes.
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Unsurprisingly at this stage in his career, Thom Yorke is not looking to cater to new fans. *ANIMA* is everything you’d expect from a Thom Yorke album. Agitated beats tick along with evolving, cavernous pads waxing and waning track to track. Meanwhile, Yorke’s vocals take centre stage, often mournful, always comfortable in their setting.

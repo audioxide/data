@@ -35,7 +35,7 @@ artistLink: https://courtneybarnett.bandcamp.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Three years after the release of her invigorating debut album, *Sometimes I Sit and Think, and Sometimes I Just Sit*, Courtney Barnett returns with another dose of whimsical indie rock. As you’d expect, it’s pretty good, though it doesn’t venture much further than that. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a case where the best qualities of something threw into sharp focus where it was most lacking. Courtney Barnett is a fine centre-piece to the album. Her lyrics flow, as does her delivery of them. There are shades of [PJ Harvey](/reviews/pj-harvey-the-hope-six-demolition-project/) about her, Lou Reed even. That velvet drawl. When the faux-punk instrumentals step back and let her dictate, as they do in “Hopefulessness” and “Help Your Self”, the whole picture is rock solid. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve had a good time with *Tell Me How You Really Feel*. Where Courtney Barnett’s debut thoroughly enjoyed a raw energy, rough edges and all, this follow up feels more mature, with a touch more polish, all without losing any of the character I had previously enjoyed. 

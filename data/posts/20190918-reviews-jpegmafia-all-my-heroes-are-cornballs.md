@@ -35,7 +35,7 @@ albumMBID: c35a4a3f-d584-42fc-ac0f-b9592aedd3b2
 artistLink: https://www.jpegmafia.net/store
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   JPEGMAFIA is an artist I admire more than personally cherish. He creates incredibly inventive music and has a production style that is both unique and highly innovative. Unless you don’t have an ear for experimental music, there’s really not much to dislike. However, I personally find it difficult to connect to such an erratic stream of consciousness, regardless of the flair on show, and *All My Heroes Are Cornballs* is no different. Objectively speaking, it’s not far from being a contemporary classic. Perhaps I just find myself grasping for something with a little more weight.
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   For me listening to *All My Heroes Are Cornballs* feels a bit like attending a house party. It’s noisy, it’s vibey, there’s lots going on in a slightly reckless, unravelling way, and I wouldn’t mind terribly if I were somewhere else. Not that that’s a problem. If I don’t want to be there it probably means it’s a pretty good party.
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   JPEGMAFIA’s latest release is busy, to say the least. Hopping from moment to moment, sketch to skit, idea to mood, it’s hard to know where to start, as individual ‘tracks’ are often made up of two or three opposing sounds.

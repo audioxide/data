@@ -35,7 +35,7 @@ artistLink: https://www.liannelahavas.com/merch/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   There’s no denying Lianne La Havas’ talent. When we reviewed her last studio album, [*Blood*](/reviews/lianne-la-havas-blood/), in 2015, there was agreement across the board that the songwriting and arrangements weren’t always up to the same standard as her stunning vocal performances. If the instrumentals were as dynamic as La Havas’ exquisite voice, I imagine it would have had more of a lasting impact.
@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Lianne La Havas is back and she sounds as lovely as you expect, but her third album is not so much a progression from *Blood* as it is a step sideways. The vocals are almost impossibly full and luscious, the songs meander, and the production, though markedly improved, is still too polished to feel real. The songs go down smooth, but I don’t expect they’ll have much staying power.
@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Lianne La Havas’ self-titled return, five years after Blood, was a welcome announcement. Having enjoyed her previous material and her enthralling live performances, she joins the list of [excellent artists making this year a touch more positive](/reviews/laura-marling-song-for-our-daughter/).

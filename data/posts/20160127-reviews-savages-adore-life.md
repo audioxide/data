@@ -36,7 +36,7 @@ artistLink: https://matadorrecords.com/savages
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Largely through the intense live shows that surrounded the release of their ferociously measured debut *Silence Yourself*, Savages have rightly earned their reputation as one of the most energetic and dynamic bands in the post-punk scene. *Adore Life* tries valiantly to match their status, but regrettably falls flat in comparison. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 review: >-
   *Adore Life* was a surreal album to listen to. So many of the things you want to hear are there: solid songwriting; swagger and drive; an immensely charismatic frontwoman in Jehnny Beth. It should be really good, but I don’t think it is. The energy never really hits home — like punches in a dream, which even at their most vicious wind up feeling about as devastating as a gentle nudge. The album’s production really holds it back. *Adore Life* listens like a live sound that’s been clumsily bottled and sold as a studio recording. The work’s numerous strengths often get lost in the cold and frantic din of its overall character. 
   
@@ -77,7 +77,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Savages’ latest release certainly feels different to their debut effort. With many commenting on their probable lack of longevity, it didn’t seem likely they’d make it to a second album. However, Savages return with *Adore Life*, with slightly more room to breathe and a clear, albeit unlikely, focus of love. There’s still a lot of remnants of *Silence Yourself* here, with the opening track, “The Answer”, providing a noisy, frantic, lurching stage for Jehnny Beth’s strong vocal, ‘Love is the answer,’ to ring out upon. 

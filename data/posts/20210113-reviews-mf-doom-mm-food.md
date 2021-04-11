@@ -37,7 +37,7 @@ artistLink: https://gasdrawls.com/
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   MF DOOM was like no other. He was your favourite rapper’s favourite rapper. The news of his death felt like the knockout blow of 2020, a year most of us were already keen to forget. There’s no better way to mourn than cherishing the incredible music he gave us; from the youthful days of KMD to the mastery of *Madvillainy*. However, if there’s one record that truly signifies the craft, humour, and outlandish creativity MF DOOM possessed, it’s 2004’s *MM...FOOD*. It may not be the unequivocal classic that stamps his name in the history books, but for my money it’s the most fun and nourishing project in his whole discography.
@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Playful and stylish, with flows so smooth they border on indecent, *MM..FOOD* is hip hop on another plane. It’s a joy to listen to. MF DOOM’s wordplay and delivery have that weightlessness of peak performance, like [Muhammad Ali dancing circles around Cleveland Williams](https://www.youtube.com/watch?v=oJUzl0aFHZw), or [David Gilmour playing guitar in Pompeii](https://www.youtube.com/watch?v=y-E7_VHLvkE). I can barely string together a ‘thanks, have a nice day’ at the supermarket and here’s DOOM with words tumbling out of him for minutes at a time with every single one fitting together like god made them specially for that purpose. It’s marvellous, and quite wonderful.
@@ -81,7 +81,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *MM..FOOD* is one of those albums I can enjoy in back to back (to back) listens. By the time I find myself in the cartoon mania of the closing moments of “Kookies”, I’m left wanting more, and from there it’s very easy to end up back in the middle, listening to ramblings about “Gumbo” all over again.

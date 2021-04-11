@@ -40,7 +40,7 @@ artistLink: https://www.hellomerch.com/collections/dead-kennedys
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Hardcore punk doesn’t come much better than *Fresh Fruit for Rotting Vegetables*. Dead Kennedys’ iconic debut still boasts some of the most brilliant and uncompromisingly cynical songs the genre has ever seen. It’s not wholly consistent, but its manic, rapid-fire approach retains momentum throughout. It’s an absolute fucking riot: the sound of true rebellion. It makes the [Ramones](/reviews/ramones-rocket-to-russia/) sound like nursery school punk.
@@ -65,7 +65,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Fresh Fruit for Rotting Vegetables* hums along a dirt track between punk and post-punk. While it has all the snarling ‘fuck you and fuck this’ venom you’d hope for from a punk classic it’s also wry and clever, relishing how much fun it’s having at the world’s expense. As a Dead Kennedys newbie I’ve had a great time with it.
@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I didn’t enjoy [*Rocket to Russia*](/reviews/ramones-rocket-to-russia/), and Ramones fans were peeved to say the least. With that in mind, I was worried that Dead Kennedy fans might be lynching me, rather than their landlords.

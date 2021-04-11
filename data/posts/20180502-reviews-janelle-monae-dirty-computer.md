@@ -38,7 +38,7 @@ artistLink: https://store.warnermusic.com/atlantic-records/artists/janelle-monae
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Dirty Computer* is a joy to listen to. Janelle Monáe’s latest album brims with positivity, open-mindedness, and love. Part protest for sure, but part celebration too. At its best, this is the level of pop music that similar artists should aspire to reach: harmonically lush, deliberately structured, and wonderfully diverse. Better still, it carries a crucial message that promotes freedom and liberation.
@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I struggle to find words when it comes to discussing this album. Each time I feel as though I’m about to make a breakthrough, the amorphous *Dirty Computer* shape-shifts in such a way that I feel taken aback, frustrated that I don’t quite understand. Feeling confused by my stance on an album isn’t particularly unusual, but in this instance I feel that the confusion damages my experience.
@@ -84,7 +84,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve struggled to come to a conclusion on *Dirty Computer*. While pop music can often remain lightweight and largely effectless, Janelle Monáe has managed to thread the needle of pop with some depth. The lead singles, “I Like That” and “Make Me Feel”, still remain some of my favourite moments on this album, but there’s a good amount of variety to be found elsewhere too. And while “Make Me Feel” leaves me pining for [Prince](/reviews/prince-purple-rain/)’s “Kiss” more often than not, it is still a great pop track in its own right. There’s a lot of heavy Prince-isms to be found throughout the tracklist too and in most cases it benefits from the comparison, adding enough originality to not be derivative.

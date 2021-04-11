@@ -35,7 +35,7 @@ artistLink: https://shop.kendricklamar.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Following a record as monumental as [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/) is no easy task, even for one of the World’s greatest living artists. At this point, there can be no question about his status – Kendrick Lamar’s talent feels like a once in a generation occassion. His winning streak in hip-hop is so hot that [even his B-sides are making a mockery of his competition](/reviews/untitled-unmastered/), and he has appropriately become one of the most significant figures in popular culture. Kendrick takes his standing seriously, and recognises his responsibilities as an idol. *DAMN.* is the result of a deliberate introspection, as he turns the spotlight on to himself to deliver his most despondent record yet.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Kendrick Lamar’s newest release *DAMN.* has been met with huge anticipation. Not least of all because he had everyone [waiting patiently for a release date that would end up being a week later](https://www.youtube.com/watch?v=lbYIUnV8u7E). Regardless, *DAMN.* in many areas does not disappoint. It may not hit you as immediately as the ‘smell of those yams as you’re walking down the street’, but it’s full of intelligible hooks, darkly captivating lyrics, and a generous handful of creative and interesting collabs. 
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It was almost an inevitability that Kendrick Lamar’s latest release was going to disappoint fans in one way or another. Even if it was objectively better than *To Pimp a Butterfly*, following up such an album without issue was always an insurmountable task. Make no mistake though, *DAMN.* is good. I’ve returned to this album obsessively since its release and thoroughly enjoyed my time with it. 

@@ -19,9 +19,9 @@ featuredimage: article-images/favourite-albums-2016.jpg
 featuredimageAlt: David Bowie holding a bible
 title: Our 10 favourite albums of 2016
 author:
-  - andrew
-  - fred
-  - andre
+  - andrew-bridge
+  - frederick-obrien
+  - andre-dack
 blurb: Albums what we liked in 2016.
 
 ---

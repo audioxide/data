@@ -42,7 +42,7 @@ artistLink: https://shop.coldplay.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Coldplay are an easy target, and for good reason. It’s incredibly easy to dismantle their derivative sound, and admittedly rather fun. Keen defenders of the band are quick to point out that their earlier albums showed exciting potential, and whilst *Parachutes* is no doubt a pleasant listen, I don’t wholly agree. There is very little here that arouses anything resembling excitement, or any other sensation for that matter. Listening to Coldplay’s debut album is effortless, requiring almost nothing from the listener. I see the value in that, and I’d be lying if I said I didn’t enjoy a good portion of the tracklist. It’s just too damn passive for my liking. It’s so inoffensive that it inadvertently becomes offensive.
@@ -63,7 +63,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   While explaining to Howard Stern that “Yellow”, the greatest song of all time, is meaningless — absolutely meaningless — Chris Martin just about sums up Coldplay perfectly: [‘It was a feeling more than a meaning.’](https://www.youtube.com/watch?v=5efsGs3niy0)
@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I returned to Coldplay’s debut with low expectations. Often touted as a lightweight tribute of some other post-Britpop band, they get a lot of heat for only being surface deep. *Parachutes*, however, has a lot going for it.

@@ -37,7 +37,7 @@ artistLink: https://shop.foals.co.uk/
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   It seems almost an age ago that Foals dropped their debut album [*Antidotes*](/reviews/foals-antidotes/), a record we covered not too long ago. In that review I said ‘Foals manage to keep things interesting not only throughout the record but within the songs themselves.’
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think it’s bold pitching this as the first in a two part project, as if one album couldn’t possibly contain all the bombs being dropped. There’s a statement in this album somewhere, but for the most part it listens like a solid pop rock album with mittens on. Foals are a talented group and I admire their openness to change, but I find it hard to connect with most of what goes on in *Everything Not Saved Will Be Lost – Part 1*.
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Foals have developed their sound in the decade since their debut, and they’ve done so by building on the foundations that were laid down by [*Antidotes*](/reviews/foals-antidotes/). *Everything Not Saved Will Be Lost – Part 1* has been widely received as a return to form for the band, and there’s certainly a lot to like.

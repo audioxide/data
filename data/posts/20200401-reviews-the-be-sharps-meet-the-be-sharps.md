@@ -36,7 +36,7 @@ blurb: The richest and most melodious harmonisations of four men since John, Mar
 artistMBID: 
 albumMBID:
 ---
-author: André
+author: andre-dack
 
 review: >-
   Ah, the story of Be Sharps. In a word; bittersweet. So much promise, only to end in tragedy. In many ways it’s a narrative that reflects the entire musical output of Springfield itself. The dreary songwriting of [Kirk Van Houten](/reviews/kirk-van-houten-can-i-borrow-a-feeling/) became famous for all the wrong reasons, and the less said about Disco Stu’s mixtape the better. The Be Sharps, meanwhile, had the whole World at their feet. “Baby on Board” propelled the quartet to fame in rapid fashion with its sublime vocal harmonies and profound statements on parenthood. It remains one of the greatest Barbershop songs in existence, and arguably one of the most gripping album openers in contemporary music. The Be Sharps were tasked with keeping the same quality throughout on an entire LP, and despite a few hitches along the way, I’d say they rose to the challenge rather well.
@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was the best thing to come out of Springfield since galoshes. As ambitious as it is effortless, *Meet the Be Sharps* tells the story of a generation with the voices of angels. Although its follow-up, *Bigger Than Jesus*, was an epic amongst epics, and in many respects a more well rounded project, there’s nothing quite like the buzz of a debut album that sticks the landing.
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   From the humble beginnings in a squalid bar during 1985, The Be Sharps saw a meteoric rise to fame. Their debut, *Meet The Be Sharps* is the finest of their output.
@@ -102,7 +102,7 @@ score:
   fraction: 0.2
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   While their name has now been heard so many times as to be totally devoid of humour, The Be Sharps’ discography remains as two of the most enduring blues albums of the past century. *Meet The Be Sharps*, a soul-quaking, heart-rending, bowel-voiding romp through 12 inimitable classics, never suffered the ignominy of *Bigger Than Jesus* but has, like its successor, grown exponentially in popularity and critical acclaim nonetheless.

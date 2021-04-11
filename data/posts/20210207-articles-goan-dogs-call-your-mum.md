@@ -13,7 +13,7 @@ featuredimage: article-images/goan-dogs-deliver-guitar-pop-romp.jpg
 featuredimageAlt: Promotional image for the album 'Call Your Mum' by Goan Dogs
 title: Goan Dogs deliver guitar pop romp in ‘Call Your Mum’ (and excellent advice to boot)
 summary: Bristol band Goan Dogs have been going strong for ten years, and the work they've put in during that time has come to captivating fruition in their debut record
-author: andrew
+author: andrew-bridge
 blurb: Bristol band Goan Dogs have been going strong for ten years, and the work they've put in during that time has come to captivating fruition in their debut.
 
 ---

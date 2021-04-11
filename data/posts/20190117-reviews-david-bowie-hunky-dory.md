@@ -33,7 +33,7 @@ albumMBID: 743b0b2e-a23a-3182-950e-232f8cb0dfb7
 artistLink: https://store.davidbowie.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   *Hunky Dory* is rightly celebrated as one of David Bowie’s finest achievements, but I don’t see it as his greatest work. The 1971 classic is loved for its accessibility (both musically and lyrically), its vast array of musical styles, and of course its famed theme of shifting sexual identity. The songwriting is unbelievably good, to the point where it sounds effortless. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Halfway through *Hunky Dory*, in “Quicksand”, David Bowie says he is ‘just a model with potential of a superman.’ That line captures the essence of the album for me. It is dazzling listen, but not mighty in the way [Bowie’s greatest works](/reviews/david-bowie-low/) proved to be.
@@ -75,7 +75,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   David Bowie took a pretty radical change in style when he released *Hunky Dory*. Coming from *The Man Who Sold the World*, released the previous year, which leaned into hard rock and metal and made for a raucous affair, *Hunky Dory* found the polar opposite style and ran with it.

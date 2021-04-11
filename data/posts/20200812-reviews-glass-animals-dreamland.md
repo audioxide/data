@@ -38,7 +38,7 @@ artistLink: https://shop.glassanimals.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   UK psych-pop outfit Glass Animals are well adept at writing breezy, easy-listening tunes. There’s a stylishness that can prove impossible to resist. The minute you start to actually dig a little deeper, however, things begin to unravel at quite a pace. Glass Animals are comprised of hugely talented individuals who are either unable to look forward, or simply have no desire to do so. The washes of glittering synths and slickly produced woozy beats only go so far.
@@ -56,7 +56,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Gaze long enough into an abyss, the abyss will gaze back into you. *Dreamland* is an album that tackles head on the bubbly, colourful, vapid, disposable, Instagram filtered, infotainment-filled emptiness of modern life. To Glass Animals’ credit, that character comes across pretty strongly. Sadly though, that character comes across pretty strongly.
@@ -77,7 +77,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Four years after fan-favourite [*How To Be A Human Being*](/articles/a-late-love-in-for-how-to-be-a-human-being/), Glass Animals return with *Dreamland*. A change in sound, writing, and focus make for a divisive release and I’ve been hoping this isn’t that ‘Difficult Third Album’ for the band.

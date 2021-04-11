@@ -18,10 +18,10 @@ featuredimage: article-images/favourite-singles-2010s.jpg
 featuredimageAlt: Ellie Rowsell singing in front of a microphone
 title: Our 10 favourite singles of the 2010s
 author:
-  - marcus
-  - michael
-  - andre
-  - fred
+  - marcus-lawrence
+  - michael-clark
+  - andre-dack
+  - frederick-obrien
 blurb: The decade had some doozies. Here were our favourites.
 
 ---

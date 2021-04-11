@@ -38,7 +38,7 @@ artistLink: https://pixies.kontraband.store/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Say what you will about their current iteration, the Pixies have earned their status in musical history. Their vibrant brand of catchy guitar music laid the groundwork for ’90s rock, directly influencing cherished artists like [Nirvana](/reviews/nirvana-in-utero/), [The Smashing Pumpkins](/reviews/the-smashing-pumpkins-gish/) and [PJ Harvey](/reviews/pj-harvey-the-hope-six-demolition-project/). They had a unique capacity for making irresistible rock music that revelled in musical simplicity — yet despite an overwhelming influence, their sound has proven impossible to replicate. Whilst *Surfer Rosa* remains a fine showcase of the abrasive nature to their sound, it’s their second studio album that continues to define them. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Doolittle*’s qualities are obvious, as they’re quite in-your-face for the duration. It is a very busy 40 minutes, full of contrasting styles and paces, tempered by the hard-to-soft, frantic-to-silky dynamics that made Pixes so sharp at their best. *Doolittle* just kind of happens, every time. Each listen feels like an indiscriminate explosion of sound, where the tracklist could be randomised and it wouldn’t make the slightest difference to the experience. The band are so in sync that they would chew you up and spit you out regardless. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Doolittle* probably has at least one track you know well, but not as a Pixies track. Nearly every song in its tracklist can worm its way into your head, each for a slightly different reason. It’s by no means a hodgepodge set of songs, but for better or worse, the band certainly didn’t stick with one idea for long. They needed to keep the pace too, as fitting 15 tracks onto a sub-40-minute album is an achievement in itself. 
@@ -100,7 +100,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Managing to be at once timeless and evocative of a time long past, *Doolittle* remains as charming and engaging to me now as it did during my teenage years. Pixies’ vibrant and innocent sound is immeasurably authentic, and this, their magnum opus, showcases everything I have loved about them over the years.
@@ -110,7 +110,7 @@ review: >-
   *Doolittle*’s highlights will no doubt reinstate themselves as earworms for the rest of my life, and it’s both a blessing and a curse that I doubt I will ever fully appreciate the depth of its intricacies and emotional intelligence.
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   If *Doolittle* isn’t the greatest album ever made — and, frankly, it isn’t — it at least succeeds in briefly convincing you that it very well could be. There’s an ebullience and a forcefulness of feeling throughout that, in the moment, makes it seem as if it’s the only thing that could possibly matter in the world, as if it’s the only party you need to be at. 
@@ -120,7 +120,7 @@ review: >-
   Sure, nothing here throttles you quite like the opening of *Surfer Rosa*’s "Bone Machine" — really, what could? — but it more than makes up for that by swinging and bouncing in a way that their debut never really does. As I said, it’s just about the best party, and why would you ever want to leave?
 
 ---
-author: Nick
+author: nick-marsh
 
 review: >-
   I am impressed by how fitting and unfitting the name Pixies is. *Doolittle* is a schizophrenic monster: both miniature and enormous, whispering and screaming, not remotely tame, its violence cut up and compressed in a way that stresses itself and lends a playful perversity to the more friendly/poppy moments such as "Here Comes Your Man".
@@ -130,7 +130,7 @@ review: >-
   The evocations that do stick, though — such as the reference to Dalí/Buñuel’s surrealism — are compelling, as seen through bloody eyes; indeed, *Doolittle* is framed by these two songs referring to optic mutilation, and with my perception suitably bloodied I now look again to a world of rock gladly Debased forever by the Pixies.
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Pixies’ *Doolittle* remains to this day one of the quintessential ‘must listens’ in music history. Similar to the common ‘[Beatles](/reviews/the-beatles-abbey-road/) phase’, everyone seems to have that 'Pixies phase' too, and *Doolittle* is often the album that opens the initial obsession. The record is a perfect mix of sharp bass tones, whirling and sometimes screeching guitar, and an unforgettable vocal style. Songs like "Debaser" have become such cult staples that it is almost impossible not to know the words. 

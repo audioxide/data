@@ -37,7 +37,7 @@ artistLink: https://stonerosesstore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The story of The Stone Roses is a curious one: one of the ultimate one-album wonder bands of contemporary music. Their 1989 debut record was as solid a foundation as they come, and whilst their follow-up album wasn’t quite as dreadful as certain fans like to suggest, it certainly came as a disappointment. The Stone Roses laid the groundwork for a special formula, only to never expanded upon it. To many fans, *The Stone Roses* is just as significant as a nostalgia trip as it is a piece of music, a hark back to a sound that promised so much.
@@ -61,7 +61,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think *The Stone Roses* is one of those albums where you’re not so much affected by specific moments as you are by the quality of the overall experience. It’s an ironic conclusion given how down I’ve been on releases this year for lacking standout traits, but there you go. This album is a cut above and can get away with it. In fact, it positively thrives.
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The Stone Roses’ debut certainly makes me nostalgic for a time I never frequented. Between the prominence in the Madchester movement and the clear influences from music of the two decades that preceded the band, *The Stone Roses* produces a chilled, clean sound with vocal lines that have aged well.

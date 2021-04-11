@@ -34,7 +34,7 @@ artistLink: https://store.wasteheadquarters.com/collections/thom-yorke-atoms-for
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s difficult to explain the enjoyment to be acquired from *The Eraser*. Skittish beats set up an infrastructure that awkwardly engages with icy synths, stirring vocals, and robotic patterns, making for a fairly erratic experience. Although the cold nature of the album will push listeners away, its fidgety personality suits it. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In this latest episode of *Fred Doesn’t Get It*, I’m not entirely sure what to make of *The Eraser*. When listening to it one voice in my head mumbles approvingly at having more Thom Yorke to listen to, whilst another, much louder voice gently suggests my time would be better spent just listening to some Radiohead. This is the crux of my problem with Yorke’s solo debut, mild bouts of schizophrenia aside. I think it showcases his talents as an ingredient in a larger creative process far more than it does a compelling solo artist at work. There is certainly quality on show in *The Eraser*, but it does fluctuate — from dreary to cerebral and back again. 
@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It certainly doesn’t feel like a decade since the release of Thom Yorke’s debut solo album, but returning to it has been enjoyable. From the eponymous opener, the sound of *The Eraser* is immediately distinctive from anything that came before or after it from Radiohead, focusing on rigidly robotic yet intricate beats throughout and a bias towards electronic instrumentation. 
@@ -94,7 +94,7 @@ score:
   fraction: 0.7
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   With Radiohead being one of my favourite bands still touring today, Thom Yorke is a writer that has had a huge influence on the way that I appreciate, create, and perform music. From seeing his signature expressive dancing live at Victoria Park on their tour of *In Rainbows*, one thing that anyone should be able to appreciate is his integrity, diversity, and reluctance to conform. With that, ten years after its release, I have been given the chance to vent my appreciate for his first solo project; *The Eraser*.

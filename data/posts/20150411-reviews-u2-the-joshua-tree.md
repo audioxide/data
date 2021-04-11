@@ -34,7 +34,7 @@ artistLink: https://shop.u2.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   With assistance from [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/) and Daniel Lanois, U2 achieved a vast and powerful sound that crucially stopped itself from treading into the territory of the overly bombastic; here we experience the band without the excruciating self-indulgence that turns listeners away from their more recent works. 
@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Joshua Tree* is a towering work. With gusto it embarks on a journey over the American horizon, conveying beautifully all the chaste heartache that seems to entail. It’s an epic poem of sorts, and I’m not sure anyone could have performed it as well as Bono does. It has its grandiose moments, but for the most part the album sounds superb. Gets better with each listen, too, which is always a welcome quality.
@@ -68,7 +68,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was my first real listen to a U2 album and I came in with pretty mixed impressions; *The Joshua Tree* improved those. While some of the more anthemic tracks passed me by, the instrumentation and song writing that goes with it is really interesting and shows a nice range without being inconsistent. Eno makes his mark alongside the others that produced the album too. 

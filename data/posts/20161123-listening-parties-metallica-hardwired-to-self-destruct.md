@@ -17,8 +17,8 @@ featuredimage: album-artwork/hardwired-to-self-destruct-metallica.jpg
 featuredimageAlt: Album artwork of 'Hardwired... to Self-Destruct' by Metallica
 title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and Fred listen to Metallica"
 author: 
-  - andre
-  - fred
+  - andre-dack
+  - frederick-obrien
 blurb: Metallica roll back the years with a tight, rollicking ride, wiping the smug looks off our faces in the process.
 
 ---

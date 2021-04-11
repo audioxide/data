@@ -39,7 +39,7 @@ artistLink: https://shop.urbanlegends.com/collections/n-w-a
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Straight Outta Compton*, the acclaimed and influential debut by N.W.A, is a seriously good hip-hop album. Celebrating its 30th anniversary, the record still sounds tremendously exciting, and strikingly defiant. Gangsta rap doesn’t come much purer than this, and it remains an essential listen for hip-hop heads old or new. That said, I’m not so sure it’s one of the *greatest*. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Straight Outta Compton* is an easy album to take for granted. Its formula is so ingrained in music consciousness now that it’s odd to think there was a ‘before.’ Skits, samples, obstinance, and anger are the linchpins of many great hip hop albums, but few showcase their chemistry as explosively as N.W.A. did in 1988. The [‘reality rap’](https://www.rollingstone.com/music/music-features/ice-cube-on-n-w-as-reality-rap-and-straight-outta-compton-movie-106622/) of their debut shone a light on a world much of America hadn’t seen, and did so in a way that impacted everything that followed. The success of today’s hip hop superstars, from [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) to [Eminem](/reviews/eminem-the-marshall-mathers-lp/), is built on foundations laid by N.W.A.
@@ -83,7 +83,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A modern listener might be forgiven for overlooking *Straight Outta Compton*. While the album was divisive and shocking at the time, it left a legacy that has permeated music and modern culture since its release three decades ago. Between the title track, “Fuck Tha Police”, and “Gangsta Gangsta”, the opening portion of the album alone could be enough for many to deem this album a major success, blending catchy hooks with political commentary to produce a bombastic sound. These tracks encapsulate a good portion of what the album is mostly remembered for: exciting instrumentals, characterful skits woven into tracks, and solid production to tie everything together. 

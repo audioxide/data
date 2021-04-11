@@ -37,7 +37,7 @@ albumMBID: 5be88c22-464f-4b6a-9f14-945c589a9840
 artistLink: https://moaning.bandcamp.com
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Though by no means perfect, Moaning’s 2018 debut was a striking opening statement. Cathartic, powerful, yet with plenty of room to grow. Whilst it’s hardly unusual for post-punk bands to transition into new wave, it seems as though Moaning have done so prematurely. It’s almost as if they’ve missed a step along the way. Jagged and jittery guitar riffs make way for soaring synths, with Sean Solomon striving for more melodic vocal passages. Shoegaze elements remain, but there’s no denying the intention: this is a synth-pop record exuding the most glaring ’80s nostalgia imaginable.
@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   We reviewed [a HAIM album](/reviews/haim-something-to-tell-you) a couple of years ago. It was polished, professional pop perfectly adequate for disposable summer listening. *Uneasy Laughter* has a similarly pleasant-yet-forgettable demeanor. It’s a distinctly west coast breed of gothy synth pop, moody in a painstakingly dyed and straightened fringe kind of way.
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Uneasy Laughter* suffers from a strangely persistent blend of [Joy Division](/reviews/joy-division-unknown-pleasures) and Two Door Cinema Club that blunts the edges of the former with the throwaway pop rock of the latter. Track by track, very little is being said or experimented with, and concentrating on each forgettable song makes for a serious lack of satisfaction. “Make it Stop” lacks the emotional weight its limply urgent chorus needs. The echoing guitar of “Stranger” sounds like a cut-out from a Joy Division B-side and I’m struck that I have no idea what this song is about. The moaning (that’s the name of the band!) vocals over its runtime are disengaging, and the lyricism that comes through is often trite and unspecific.

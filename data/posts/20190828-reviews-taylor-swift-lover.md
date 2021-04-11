@@ -41,7 +41,7 @@ albumMBID: 30e9785b-7b50-4d29-b3d1-96fb55e3397f
 artistLink: https://store.taylorswift.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   This is a golden age of female pop stars. In the past few years we’ve had fabulous records from [Lorde](/listening-parties/lorde-melodrama/), Billie Eilish, [Janelle Monae](/reviews/janelle-monae-dirty-computer/), [Robyn](/reviews/robyn-honey/), Ariana Grande, and many more of this generation’s finest talents. The most frustrating thing about Taylor Swift’s latest album is just how close it flirts to the greatness of those records.
@@ -63,7 +63,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I was ready to be an asshole about *Lover*, but actually the worst thing I can say about it is it sells itself short. Taylor Swift has assembled a lush, heartfelt pop record that would have benefitted from killing some of its darlings. Flagship tracks like “Lover”, “The Man”, and “Cruel Summer” are brilliant — hip, catchy… all that stuff. *Lover* isn’t as expansive as [Kate Bush](/reviews/kate-bush-hounds-of-love/) or as daring as [St. Vincent](/reviews/st-vincent-masseduction/), but it is accessible and intelligent, which I think are the hallmarks of Swift at her best.
@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Taylor Swift returns with an energetic, synth-pop album which leans away from the bolshie production of 2017’s *Reputation*. At an hour long, however, *Lover* runs out of steam a little prematurely despite a lot of enjoyable moments.

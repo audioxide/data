@@ -35,7 +35,7 @@ artistLink: https://store.toolband.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s been a long time coming. Over ten years in the making, TOOL have finally returned with a brand new studio album. The immediate curiosity is whether the wait has been worth it, and that largely depends on how much you get from the band’s brand of progressive metal. There’s no doubting the quality of the musicianship, likewise the mixing, production and engineering. *Fear Inoculum* is impressive. It’s also quite boring.
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If a bunch of nobodies released *Fear Inoculum* I don’t think it would make so much as a ripple. Whatever strengths the album has are numbed beyond feeling by its length and astonishing lack of urgency. Long, broody, instrumental-heavy albums have their place — [I’ve gushed over enough of them to know](/reviews/godspeed-you-black-emperor-luciferian-towers/) — but instead of poking into the frontier this gets mired in a kind of no-man’s land. This sounds like rock in slow motion.
@@ -75,7 +75,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m always suspicious of albums that extend to this length. Often a sign of indecision, it usually makes for a mediocre album that could’ve been tightened to be a far superior album. For *Fear Inoculum*, however, I’m less sure this is the case.

@@ -37,7 +37,7 @@ artistLink: https://store.graceland.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   I’ve always been intrigued by the rise of Elvis Presley. The landscape of popular music was vastly different back in the 1950s, though the practice of manufacturing an artist is much the same today. Visual media has always been key, but twas even more-so during a time where television was fast becoming a phenomenon. Elvis had the swagger, and it was about getting that exuberant personality out in the eyes of the general public. There was no guarantee that Elvis Presley was to be a success, particularly with very little in the way of precedent. The timing was perfect, and as we all know, he went on to become The King.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s almost impossible to separate an album like *Elvis Presley* from the cultural tsunami that followed it, but I’ll try. I don’t think this is a classic album. When it rocks and rolls it still manages to sound a bit naughty, despite being over 60 years old, but there are so many songs crammed into the 28-minute runtime that it’s inevitable for some not to land. Presley barely has time to coo each track’s name before you’re on to the next one.
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At twelve tracks deep and shy of half an hour, Elvis’ debut is a whistle-stop tour of material. Sixty-three years on, pacing and track order feels off and, without a single writing credit for Presley it would be easy to call this a cover album in disguise.

@@ -34,7 +34,7 @@ artistLink: https://sanferminband.square.site/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Being unfamiliar with San Fermin allowed me to go into *Jackrabbit* without expectations, and I came away pleasantly surprised. Masterminded by composer Ludwig-Leone, the album draws influences from a variety of genres, shifting stylistically and dynamically throughout, helped even further by two soulful vocalists. 
@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was my first time listening to San Fermin, and it was a very pleasant introduction. I always appreciate it when an artist makes a concerted effort to craft an album, rather than a collection of unrelated songs, and such an approach shines through in *Jackrabbit*. It’s smart, sophisticated pop with a sincere heart, and that makes for an extremely listenable experience from start to finish. 
@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having listened to their first album, I was hoping for big things from this new release. As a band, the variety is there, with the instrumentation spanning a huge range and taking very clear influences from folk, electronic and classical genres. The horn section is, to my delight, given a big place in the album as it was in their debut and I feel the synths and other electronic instruments were given more of an airing here too. 

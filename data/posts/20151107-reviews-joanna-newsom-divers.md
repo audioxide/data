@@ -33,7 +33,7 @@ albumMBID: 099da227-07ea-42fd-b46e-9e1938fe18d3
 artistLink: https://www.dragcity.com/artists/joanna-newsom 
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Beautifully crafted in its arrangement and narrative, Joanna Newsom creates a World on *Divers* that is both wonderful and despairing. This surreal juxtaposition lends a dreamlike quality to a record that ultimately feels as much like an enchanting fairytale than anything else, yet remains deep enough explore the profound musings that delicately tickle the hearts of its listeners. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s something ingratiating about music sincerely in its own world, doing its own thing, and doing it rather well. It invites its listeners in to experience life through a different lens. Joanna Newsom’s *Divers* is commendable in its ability to weave such a realm. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Joanna Newsom has painted a vivid picture with *Divers*. From the opening track, the album invites listeners into a world of timbres and genres, evoking nostalgia and curiosity that holds interest throughout the album and melds with her distinctive voice incredibly naturally. 

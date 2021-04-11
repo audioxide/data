@@ -43,7 +43,7 @@ artistLink: https://shop.blur.co.uk/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   My relationship with Blur is complicated, to say the least. While I certainly enjoy a good portion of their Britpop material, they’re far from my favourite band of the era. Oasis had [bigger hits](/reviews/oasis-definitely-maybe/), Pulp had better albums, and Radiohead were taking British rock to [more interesting places](/reviews/radiohead-ok-computer/). Blur have a sound of their own, one that is certainly separate to the bands just mentioned, but I often find that I have to be in a certain mood to indulge the overwhelming Britishness. The fact that my favourite record of theirs, *13*, is the least-Blur-sounding release of the whole lot, speaks volumes. 
@@ -65,7 +65,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Modern Life Is Rubbish* is not Blur at their best. The production is tinny and restrictive, the songs are often overlong, and whole affair is front-loaded. And yet I still like it a lot. It’s very, very ‘90s. It’s like when you see footage of people wearing oversized running jackets and leopard skin onesies. I can’t help but find it charming that someone, somewhere not only thought that was a good idea, but almost pulled it off. The album’s a bit like that. There’s an unruly delight to something being so kooky and inelegant and colourful. From the oboe solo in “Star Shaped” to the two-tone mania of “Advert”, the playfulness on *Modern Life Is Rubbish* invites a kind of cackling glee from its listeners.
@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Modern Life Is Rubbish* has been rather battered by time. It’s not that it sounds bad at all, and in fact tracks like “Oily Water” and “Advert” make for an enjoyable ride. But next to its successors, Blur’s second album feels like the album before the band hit their stride. There are a wealth of comparisons I could make between this and the follow up, *Parklife*, and unfortunately the latter nearly always wins out over the former. Be that the overt Britishness that ripples throughout Blur’s discography, or the singles that stick with you long after you’re finished with the album, it’s hard not to draw similarities. 

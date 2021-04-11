@@ -36,7 +36,7 @@ albumMBID: c137e1f0-00bf-4bee-8d69-631664b52d1f
 artistLink: https://shop.bjork.com/
 
 ---
-author: ANDRE
+author: andre-dack
 
 review: >-
   Following [our retrospective review of the sublime *Homogenic*](/reviews/bjork-homogenic/), I dived straight into the rest of Björk’s catalogue. Unsurprisingly, I was hooked: 2017 quickly turned into my year of Björk, as *Post* and *Homogenic* practically became daily listens, and my adoration grew at a rapid rate. *Utopia* has been one of my most anticipated releases of the year, and to be totally truthful, I’ve had a difficult time with it.
@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s strange to feel so little for an album as luscious and intricate as *Utopia*, but here we are. Björk’s latest outing, 70+ minutes of vivid electronic ambience, is in many respects a delight. Björk sounds great, the production is impressive, the imagery conjured distinct and powerful. The record sways and flows through electric cathedrals and psychedelic fantasy rainforests, and, er, googling stuff. The blend of flutes and harmonies and goodness knows what else culminate in a truly otherworldly sound, something utterly magisterial at its best.
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m so conflicted at the end of a week with *Utopia*. So many beautiful moments that have made for some of the best listening of the year can be found on Björk’s latest album. But for every minute I’ve enjoyed, I feel as though *Utopia* has taken another without much impact. Albums of this length begin to make me question whether the artist was simply indecisive about what should have made the cut, [even for artists I’d normally defend to the hilt](/reviews/james-blake-the-colour-in-anything/). 

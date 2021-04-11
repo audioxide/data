@@ -47,7 +47,7 @@ artistLink: https://www.spoonrecords.com/
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   Rarely do you hear rock music as expressive as _Tago Mago_. Can’s second studio album, and their first with legendary vocalist Damo Suzuki, celebrates its 50th anniversary this month. It says a lot about the record that, half a century later, listeners are still drawing inspiration from its unrestricted ethos.
@@ -72,7 +72,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   _Tago Mago_ really does run the gauntlet, listening like an all-night jam at an impossibly cool bohemian gettogether. It’s funky, relaxed, audacious, and oftentimes quite exhausting. If there was ever an album drenched in sweat and speaking in tongues, it’s this one. At half a century old it can still party with the best of them.
@@ -93,7 +93,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   _Tago Mago_ is a strange beast. Like a house party, it invites you in with a chilled groove and warm atmosphere. Midway through, someone pulls out something a little stronger, all hell breaks loose, time disappears, and the next moment you’re dazed, confused and nursing a warm drink before being promptly turfed out.

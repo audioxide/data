@@ -36,7 +36,7 @@ artistLink: https://store.prince.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Purple Rain* was the monumental record that cemented Prince’s position of power and distinguished him from his peers. Remarkably, it retains all of its audacity and persuasive force three decades on. It’s an endearing record of mystery and wonder, deftly inheriting elements from a wide selection of genres that amalgamate to create a category of its own. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This fully shoulders its mantle of iconic ’80s album. This is one of those works that define an era rather than toes its line, sounding very much of its time but rarely in a way that dates it. Dynamic songwriting; a rich breadth of sounds and vocal deliveries; thick, grinding guitar; all these qualities and more are on hand, and with subtle, intelligent flow. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Purple Rain* is arguably the best known album Prince released and it certainly adds to a brilliant legacy. From start to finish, the album doesn’t let the listener’s attention waiver, with something different and memorable in each track. With a mix of less than subtle synths, and Prince’s vocals crying out over each track, this album is unmistakably 80s, but it’s aged well and doesn’t distract the listener from the music. 

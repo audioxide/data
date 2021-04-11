@@ -34,7 +34,7 @@ artistLink: https://shop.urbanlegends.com/collections/the-roots
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Things Fall Apart* is a seriously solid offering of smooth hip-hop. Stop the presses. The third studio album by The Roots is comfortably their finest achievement, and it’s aged like a fine wine since its released 20 years ago. Given the melancholic tone, it’s amazing just how easy and enjoyable it is to listen to. *Things Fall Apart* is a fluid, continuous listen; understated to the point of being an excellent backdrop, which is both a blessing and a curse. It’s appropriately structured and remains focused throughout its 70-minute duration, and this is particularly alluring for a modern listener given the amount of over-bloated rap albums we’re dealt with every single year.
@@ -54,7 +54,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In many respects it’s commendable that an album can last over 70 minutes and more or less maintain a high standard during that time. It is also strangely disappointing that that is the best thing I can say about *Things Fall Apart*. I wish I could wax lyrical about the audacity of this track and the bone-shattering truth of that track, but I can’t. The album is pure, unadulterated flow. Well produced, sprinkled with a rich variety of genre samples and beats, it seldom sets a foot wrong. Just one in front of the other until it reaches wherever it’s getting to.
@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s a weight to *Things Fall Apart* that is well disguised by the smooth flow, slick production and attention-drawing hooks. While it’d be easy to let this album pass by, a closer listen will show its real depths.

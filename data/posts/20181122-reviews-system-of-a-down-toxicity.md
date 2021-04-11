@@ -34,7 +34,7 @@ artistLink: https://store.systemofadown.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Toxicity* is a highlight of the nu-metal wave of the early 2000s. It’s a restless, prickly record, bouncing between different ideas at such a rate that the experience is as much an uncontrollable adrenaline rush as it is anything else. Most of System of a Down’s music hasn’t aged particularly well, but *Toxicity* has aged gracefully compared to the group’s other studio albums. Whilst there’s no escaping the ’00s nu-metal sound, the subject matter is as disturbingly familiar now as it was then. *Toxicity* provides a high-octane, hysterical thrill. It has its gimmicks, though the tricks are far subtler here than anywhere else — particularly in comparison to their two 2005 albums, *Hypnotize* and *Mesmerize*.
@@ -54,7 +54,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   System of a Down hold an unusual place in many people’s personal musical history. Listening to *Toxicity* in the latter part of 2018 it is clear to see that it is very of the time. Having said this, back in its 2001 release it felt like a fresh, Armenian infused injection into an otherwise homogenised heavy metal scene. From their first self-titled release in 1998 it was clear SOAD had a distinct sound. One still recognisable and rarely imitated today. *Toxicity* is no exception.
@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Released at the turn of the century, System of a Down’s second album dropped in a period full of metal and guitar music, but the variety of influences in the mix and the moments where the band are playful with their music make an album that still holds up today.

@@ -37,7 +37,7 @@ albumMBID: f95c7bc2-b502-4bd0-b24f-207c8c61fe19
 artistLink: https://store.qotsa.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Despite the wandering range in quality, the Desert Sessions project has always been a lot of fun. It’s sincere music created in the moment by a bunch of talented artists. Returning from an absence of 16 (!!!) years, I’m pleased to report nothing has really changed on that front. In fact, *Volumes 11 & 12* may just be the most entertaining release yet. The likes of Mike Kerr ([Royal Blood](/reviews/royal-blood-how-did-we-get-so-dark/)), Jake Shears (Scissor Sisters) and even Matt Berry (Matt Berry) are involved this time round, and it sounds like they all had a pretty wild time writing and recording the material. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   You’ve heard of the Harlem Globetrotters, right? They’re good fun aren’t they? Colourful, entertaining, cheerful… all sorts of good stuff. There’s also nothing at stake in their matches. *Vols. 11 & 12* is like that. It’s an exhibition match. Josh Homme and an ensemble of fine friends have had a lark, recorded it, and released it for all of us to enjoy. That’s the deal, and that’s what you get.
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Desert Sessions have always been, by nature, a bit of a mishmash of styles and ideas — contributions and collaborations from a long list of excellent artists that Josh Homme has corralled into the mix. Maybe it was this knowledge entering these latest volumes that had me ready for a pick’n’mix of rock music which, ultimately, has made for one of my most enjoyable releases of the year.

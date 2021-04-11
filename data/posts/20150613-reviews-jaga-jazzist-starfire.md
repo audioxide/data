@@ -35,7 +35,7 @@ artistLink: https://jagajazzist.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >- 
   An experience packed with energy and drama, Jaga Jazzist’s *Starfire* is a nocturnal journey taking you across a well-lit city, with bright lights flickering in step with each musical outburst. It’s a record determined as it is frenzied, starting strongly and continuing to drive along in relentless fashion, but ultimately lacking any real purpose as a whole. 
@@ -52,7 +52,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Fifty minutes of experimental jazz instrumentals is not a prospect I’m terribly inclined to get excited about. It invites visions of Howard Moon mixing loops of suicidal crabs and a dirge of horns accompanying your own dwindling will to live. In an unremarkable twist, however, it turns out that my prejudices were misplaced and that *Starfire* makes for a pretty pleasant listen. 
@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   As a newcomer to Jaga Jazzist, I was expecting something closer to conventional contemporary jazz. While what I heard was unexpected, it was certainly still enjoyable. Instrumentation and melodies that wouldn’t be so out of place next to [Radiohead](/articles/ranking-radioheads-discography/) transition and entwine with gritty synths that’d you’d expect from a Clark release, and the progression and transition of the music ensures you remain entertained at least for the first two thirds. 

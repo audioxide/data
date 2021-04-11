@@ -34,7 +34,7 @@ artistLink: https://shop.nirvana.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The influence of Nirvana is impossible to overstate. The band’s breakout record *Nevermind* was front-loaded with hits that have remarkably remained as momentous rock anthems today, and the legacy of that record will likely be everlasting. But while *Nevermind* laid the groundwork for our favourite rock bands of the 21<sup>st</sup> century, *In Utero* is the work that truly affirms Nirvana’s status. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   That *In Utero* was somehow able to step out from *Nevermind*’s shadow says everything you need to know about its quality. Nirvana’s final album has an unassuming, painful grace that its predecessor does not. Cobain, Grohl, and Novoselic had an elemental chemistry, and their controlled, aggressive introspection here lends itself to a heavy meditative state. There aren’t as many standout tracks as there are on in *Nevermind*, but *In Utero* is a more complete, assured work. 
@@ -75,7 +75,7 @@ score:
   max: 10
   fraction: 0.8
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s not the golden child of Nirvana’s discography, but *In Utero* holds its own. By trying to do something different, rather than more of the same after the surprise success of *Nevermind*, Nirvana created a raucous, abrasive 40 minutes that takes the listener from sublime noise to audible insanity. 

@@ -34,7 +34,7 @@ artistLink: https://shop.jamesblakemusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Two years prior to the release of *Overgrown*, James Blake dropped his self-titled debut; a refreshing collection of skittish beats, delicate vocals and pretty melodies. But with certain spots sounding like unfinished sketches, the record was ultimately unsure of what it truly wanted to be. *Overgrown* is a far less disjointed affair, retaining the melancholic mood that was set in 2011 and applying it with more focus. 
@@ -53,7 +53,7 @@ score:
   max: 10
   fraction: 0.8
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although *Overgrown* prompted a healthy discussion between us about the makeup of ambient — and to a slightly lesser extent electronic — music, I personally have little to say about the album itself. It’s meticulously made and utterly unaffecting. 
@@ -70,7 +70,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having been championed by the likes of Mary Anne Hobbs and Giles Peterson, and winning fans with his eponymous debut release, James Blake’s follow up album, *Overgrown*, had a lot of anticipation surrounding it. The two years between albums shows in the production of the whole album. Instrumentation and electronic effects all meld together to make a polished, technically excellent album. With a stormy, moody, ethereal opening, Blake brings a lot of what previous listeners loved and adds to it, with drone-like organs, pads and sub bass creating atmosphere, which opens up to slow, rolling beats. 

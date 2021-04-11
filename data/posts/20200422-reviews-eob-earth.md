@@ -38,7 +38,7 @@ artistLink: https://store.eobmusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The name Ed O’Brien may not be known worldwide like [Thom Yorke](/reviews/thom-yorke-anima/), or even Jonny Greenwood, but ask any [Radiohead](/articles/ranking-radioheads-discography/) fan and they’ll likely gush over his intricate guitar work, crucial percussion parts, and of course those cherished vocal harmonies. His debut solo album has been in the works for a while now, and under the alias of EOB his music has finally entered our senses. Like any project related to Radiohead, *Earth* is earnest and technically impressive. Much of it is passive, somewhat lowkey, yet you can sense an urgency throughout. O’Brien stated that a part of him would ‘die’ if he didn’t release a solo record. You can feel that desperation here. Sometimes for better, sometimes for worse.
@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I remember once that Graham Coxon made a solo album and someone hit the nail in the head by saying it sounded like [Blur](/reviews/blur-modern-life-is-rubbish/)‘s guitarist made a solo album. *Earth*, similarly, is an album by a guitarist from Radiohead. That’s what it is, that’s what it sounds like.
@@ -80,7 +80,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   In the works for almost a decade, Ed O’Brien’s solo material has been highly anticipated. Between the Radiohead connection, his reputation as an exceptional guitarist, and well-received lead single “Shangri-La”, there was good reason to keep an eye on this release.

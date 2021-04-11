@@ -35,7 +35,7 @@ artistLink: https://shop.thespecials.com/
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Having missed the cultural boat for a genre that feels rooted in its own heyday, and is likely better appreciated by those who experienced it contemporaneously, ska is a genre I haven’t paid all that much attention.* The Specials* defines my standing on ska in many ways, both as a genre whose experimentation is in its own existence and therefore carries more than a few sharp similarities between tracks, and as a really good time that wears thin every so often.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This album has long been a favourite of mine. Its suave, lively character is one of the most memorable I’ve had the pleasure of listening to. That said, it has been interesting to return to it with a more critical ear. The tone of *The Specials* is indeed its greatest strength. Raucous, but also sophisticated and stylish, the album is, put simply, great fun.
@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been a pleasure to really dig into The Specials’ self-titled debut this week. While it’s very easy to come away remembering the most famous moments on the record, giving the rest of the album some focus has uncovered some hidden gems for me.

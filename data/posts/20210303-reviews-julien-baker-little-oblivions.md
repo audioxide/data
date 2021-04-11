@@ -37,7 +37,7 @@ albumMBID: 03e8da57-fd08-4864-89e7-4919ddfe4735
 artistLink: https://julienbaker.com/collections/music
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   Julien Baker makes brutally candid music, exploring the torment that comes with addiction, depression and desolation. Like most of the artists I cherish, basically. So it’s unfortunate that I don’t connect with _Little Oblivions_ as much as I’d hoped. Baker’s songwriting is as genuine and introspective as anything you’ll hear within the bracket of indie folk music. Her music derives from pain, and she sings with a confessional tone, reinforcing her complicated relationship with religion. It’s genuinely agonising to hear of her struggles. _Little Oblivions_ is a success in terms of this portrayal, but less so in terms of musical satisfaction. I admire it far more than I enjoy it.
@@ -57,7 +57,7 @@ tracks:
   - Faith Healer
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I thought I was losing my mind until I saw [Anthony Fantano gave this a four](https://www.youtube.com/watch?v=LXdabIrzrDs). I haven’t connected with _Little Oblivions_ at all, and I don’t think that’s (solely) because I’m an emotional husk. For all its rawness and openness, the cold hard truth for me is that the album has plenty of good qualities and yet no standout ones. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Julien Baker’s material as a solo artist is often characterised as fragile, raw, and deeply personal. Drawing from turbulent personal experience, her lyrics often deal with mental health, substance abuse, and a complicated relationship with religion. The lead single to her third release, “Faith Healer”, was a clear statement of intent to continue exploring and confronting these themes while upping the instrumental stakes.

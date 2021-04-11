@@ -36,7 +36,7 @@ artistLink: https://store.robyn.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Swedish superstar Robyn is undoubtedly one of the greatest pop musicians of the 21st century, so the announcement of a new album — the first in almost a decade — was met with great anticipation. With the release of lead single “Missing U”, it seemed as though Robyn was set to deliver another shimmering dance-pop record comprised of whirling synthesisers and anthemic hooks. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Oftentimes what makes pop music powerful is its ability to be larger than life, to take on the splendour of an emergent butterfly. It’s novel, then, to hear an artist like Robyn opt for snugness and comfort. *Honey* has plenty of pop hallmarks, yet it shakes off enough of the genre’s conventions to feel new, and even a bit enigmatic. *Honey* is far from a broody album, but by pop standards it isn’t far off.
@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   In the hands of another pop artist, *Honey* could have come and gone without much fanfare. Without the bombast of other entries in Robyn’s discography, this latest release is no doubt an easy listen. Swamped in hugging, warm pads throughout, its tracklist transitions between downtempo, sub-filled tracks like “Human Being” to the funky, twinkling splashes of “Because It’s in the Music”.

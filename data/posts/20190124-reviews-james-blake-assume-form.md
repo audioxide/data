@@ -38,7 +38,7 @@ artistLink: https://shop.jamesblakemusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   James Blake has fallen in love, and don’t we know it. Declarations of adoration abound on his latest record, which makes a refreshing change from the sorrows that encompassed previous releases. At first, it seems like very little has changed. The title track kicks things off with warm piano touches, contrasting nicely against jittery beats, but without going anywhere particularly interesting. 
@@ -62,7 +62,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The thinking (wo)man’s Sam Smith is back. His fringe is gone, so you know he means business. *Assume Form* is true to its name. [Previous James Blake albums](/reviews/james-blake-overgrown/) had created expectations of slow, aimless tracks with sparkly ambient shimmers, and the opening efforts of *Assume Form* do little to dispel that particular prejudice. But as the album progresses — and eventually flourishes — I have to admit this is Blake’s most ambitious effort to date. It’s not far off being wonderful.
@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At the release of James Blake’s last LP, [*The Colour In Anything*](/reviews/james-blake-the-colour-in-anything/), I was conflicted. While I found a lot to enjoy, the album as a whole sprawled out, unfocused and more unsure of itself as it progressed. *Assume Form* seems to be somewhat of an antidote. At 48 minutes the tracklist feels more concise, and the sound across the album is far more cohesive.

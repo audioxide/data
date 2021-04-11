@@ -19,13 +19,13 @@ featuredimageAlt: Screenshot from the music video for Laura Marling's song "Soot
 title: Our 10 favourite tracks of 2017
 summary: It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, these were our favourite singles of 2017
 author:
-  - marcus
-  - gabriel
-  - fred
-  - michael
-  - andre
-  - andrew
-  - thomas
+  - marcus-lawrence
+  - gabriel-sutton
+  - frederick-obrien
+  - michael-clark
+  - andre-dack
+  - andrew-bridge
+  - thomas-ashby
 blurb: It's year's end, and that means it's time for fond remembrances. From lovesick shoegazing to rock epics, here lies our favourite singles of 2017.
 
 ---

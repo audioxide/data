@@ -41,7 +41,7 @@ artistLink: https://store.bicepmusic.com/
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   It’s tiring to consider an album as a ‘mood’ rather than something to actively engage in, particularly when the mood an album like _Isles_ evokes is somewhere between boredom and frustration. It’s a house album that flirts with being straight-up ambient whilst never taking much interest in committing, and meanwhile it never does anything dynamic enough to justify its length and lack of variety.
@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   _Isles_ is a gleaming, whirring android of a soundtrack. Too bad, then, that it’s supposed to be an album. It’s hard to escape the feeling you’ve dropped into Bicep’s world _in medias res_, with unheard hours of polished, passive electronic experiments stretching beyond its ‘start’ and its ‘end’. That’s an approach that can work, of course. As Brian Eno so aptly put it in the linear notes of _[Ambient 1: Music for Airports](/reviews/brian-eno-ambient-1-music-for-airports/)_, the goal for a project like this is often to be ‘as ignorable as it is interesting.’ The fatal flaw in that philosophy, as we’ve seen time and again, is that if you’re not Brian Eno the end product often winds up being plain old ignorable.
@@ -79,7 +79,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Bicep followed their 2017, critically acclaimed debut with an extensive world tour. Then a break in 2019. Unbeknownst to the electronic duo, it would be longer than expected, with the worldwide pandemic hitting them in 2020 along with the rest of us.

@@ -38,7 +38,7 @@ artistLink: https://shop.thevincestaplesshow.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I like Vince Staples, but I’ve never been sure where to place him. The American rapper is one of the most talented and exciting artists in hip-hop today, making a name for himself on *Hell Can Wait*, before going all in on his debut album *Summertime ’06*. Last year’s *Prima Donna* showcased a versatility that was impressive, but nonetheless left me wondering where the momentum was heading. The good news is that *Big Fish Theory* is his most progressive project to date, affirming his status as one of the most forward-thinking voices in rap’s current climate. Unfortunately, the album is a structural clutter, and it doesn’t reach the heights that the creativity deserves.
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Big Fish Theory*, the much anticipated follow-up to *The Spilt Milk Equilibrium*, is a complete mystery to me. Bursting at the seams with collaborators, writers, and producers, a distinct identity is sorely lacking. Nothing on the record holds a candle to work like the 2015 single “Norf Norf”, the off-kilter, conversational tone of which caught the imaginations of millions. *Big Fish Theory*, despite being much noisier, has far less impact. It reminds me of Kanye West’s [*The Life of Pablo*](/reviews/kanye-west-the-life-of-pablo/), but without the redemptive zeal and colour of madness. The production is similarly bright here, but it doesn’t seem to be in service on anything.
@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Vince Staples is undeniably talented, with a progressive approach to music that has built significant hype around his potential. The trouble I’ve had with his output, including with *Big Fish Theory*, has been in identifying his aims as a musician with any measure of precision. Listening to his latest release feels like an exercise in Guess the Influence, and the deluge of contributors serves to further mystify who or what we’re actually listening to.

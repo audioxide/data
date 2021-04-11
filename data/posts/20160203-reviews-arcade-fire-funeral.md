@@ -36,7 +36,7 @@ artistLink: https://www.arcadefirestore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Funeral* is the beating heart of adolescence, a journey of affection that voices the struggle of coming to terms with growing up. Childhood, and its eventual extension, is bound together by moments that often define a person, for better or worse, which *Funeral* exemplifies to great effect. It is beautifully intense, oftentimes emotionally draining, yet manages to be uniquely joyous amid its drama. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I like *Funeral* very much. It delves into formative aspects of life with candidness and fervour, and is quite disarming as a result. Oftentimes the most appropriate reaction to death — literal or figurative — is a heightened awareness of the vividness and beauty of life. Arcade Fire’s debut album has its eyes open wide, and observes a great deal. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Twelve years on, Arcade Fire’s debut album still sounds fresh and exciting to me. The instrumentation across the album expands outwards from a standard rock band set up at its core, adding synths, organs, percussion of many varieties, a whole string section, recorders and more into the mix. It makes for a rich, distinctive, and positive sound for the whole album, which could easily mask its less positive lyrical content, providing powerful imagery to convey despair and mourning, realising the inevitability of time passing and maturing through making mistakes — to note a few interesting lyrical moments. 

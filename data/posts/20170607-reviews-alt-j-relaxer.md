@@ -37,7 +37,7 @@ artistLink: https://store.altjband.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   2012’s *An Awesome Wave* caught the attention of both listeners and critics in the UK; not just with its catchy hooks and compact songwriting, but also its quaint textures and quirky mannerisms. There has always been an element of gimmickry with alt-J, and I’ve often wondered what would happen if you were to remove the quirks — the clicks, snaps and buzzes — and observe the band at their most bare and skeletal. As it turns out, not much happens at all. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Relaxer* falls together for spells, but for the most part the music sounds drunk. The general impression it leaves is inelegant and sloppy. I don’t understand what *Relaxer* is for or what it’s trying to do or say. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Relaxer* is such a stark contrast to alt-J’s previous output, it begs the question: what happened here? It’s clear the band wanted to veer towards something poignant for their ‘difficult third album’, as only “In Cold Blood” has all the hallmarks of their previous work. A cover of “House of the Rising Sun”, branded ‘easy-going’ by some, comes across as drab and dull; I’m waiting for it to get going for the full five minutes. “Adeline” follows a similar theme later in the tracklist. “Hit Me Like That Snare” is probably the worst offender on the album: initially promising a lift in pace, the band described it as ‘spicy’, but it feels like the band trying to be edgy without any success. 

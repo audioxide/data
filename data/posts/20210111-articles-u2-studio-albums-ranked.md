@@ -17,8 +17,8 @@ featuredimageAlt: Photograph from the album cover of 'The Joshua Tree' by U2
 title: "How to Dismantle a Frontloaded Discography: U2&#8217;s studio albums ranked"
 summary: U2’s music often feels larger than life. Although their bombastic sound will always turn some listeners away, there is no denying the lasting impact of their finest records 
 author: 
-  - andre
-  - fred
+  - andre-dack
+  - frederick-obrien
   - rob-wilson
 blurb: Our journey had its ups and downs but we feel confident of where we ended up. Which is just as well, because we’re never putting ourselves through this again.
 artistMBID: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432

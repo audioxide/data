@@ -39,7 +39,7 @@ artistLink: https://shopuk.soundgardenworld.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   My generation has a habit of pining for the ’90s. Like anything that impacts popular culture, music works in cycles, and the current landscape isn’t exactly glowing with great rock bands. The notion that rock is somehow ‘dead’ is a complete fallacy of course, but it stopped being a dominant force in music long ago. 
@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   A pet peeve of mine when it comes to grunge is that it’s often too embarrassed to sound immaculate. It revels in the submerged and murky depths of angst and power chords, and although that’s a great vibe, it’s often limiting. Such is the case with *Superunknown*, Soundgarden’s 1994 breakthrough album. It’s long, it’s wasteful, the sound thick and inelegant, but the core formula is so enjoyable that my only real gripe is the band weren’t more ruthless with the tracklist. 
@@ -85,7 +85,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s unsurprising that *Superunknown* received such critical acclaim on its release. At a time where [*In Utero*](/reviews/nirvana-in-utero/) was still rocking the world, [Britpop](/reviews/oasis-definitely-maybe/) was taking hold, and Nine Inch Nails were spreading industrial darkness, Soundgarden’s fourth release was well positioned for success. 

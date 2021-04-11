@@ -40,7 +40,7 @@ artistLink: https://www.deathfromabove1979.com/
 
 ---
 
-author: andré
+author: andre-dack
 
 review: >-
   In [a recent interview with Anthony Fantano](https://www.youtube.com/watch?v=obJot9a3EHI), Death From Above 1979 made it very clear that their latest record _Is 4 Lovers_ is the first time the band have been left to their own devices, with no outside influence from labels or producers. At the time, this left me excited, though also slightly nervous. After spending significant time with _Is 4 Lovers_, I can only describe the record as a failed experiment. I can’t remember the last time I was so disappointed with a recent rock record. It’s not just underwhelming, but outright irritating.
@@ -63,7 +63,7 @@ tracks:
 
 ---
 
-author: gabriel
+author: gabriel-sutton
 
 review: >-
   Back in 2005, Death from Above 1979 made waves with _You’re a Woman, I’m A Machine_. Back in the hazy days of the early naughties two piece rock outfits were not as common as they are now with the likes of [Royal Blood](/reviews/royal-blood-how-did-we-get-so-dark/) and [Drenge](/reviews/drenge-strange-creatures/), to name a couple. We would have to wait almost 10 years for anything new from Death from Above 1979, but it was worth it. Their consequent albums, _The Physical World_ and _Outrage! Is Now_ were superb.
@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With each listen of _Is 4 Lovers_, I’m puzzled as to why we’ve been so hard on it. “Modern Guy” is a stonking opener, a powerful riff matched with a scrappy, distorted, electronic aesthetic. The fierce cowbell is the icing on the cake. “One + One” is similarly satisfying, with its agitated hi-hat, a driving beat, and a half-time bridge reminiscent of [The Strokes](/reviews/the-strokes-first-impressions-of-earth/). “Free Animal” follows it, the bassline is sharp-edged, the wall of sound that hits the listener is satisfying, the noise is still pretty alluring.

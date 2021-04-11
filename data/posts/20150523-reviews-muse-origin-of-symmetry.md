@@ -35,7 +35,7 @@ artistLink: https://store.muse.mu/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Despite the raw talent they possess, Muse have yet to release a fully accomplished album. It seems as though Matthew Bellamy has the tendency to attempt too many things simultaneously, resulting in a severe lack of focus. This is showcased impeccably on 2012’s *The 2nd Law*, where the band go from hard rock to dubstep with a flick of a switch. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Origin of Symmetry* was my introduction to Muse, and although returning to it hasn’t provided the same punch, its power remains pretty remarkable. The album is a hotbed of frenzied riffs and quivering falsettos, and its rawness suits Muse down to the ground. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Putting aside sentimentality, *Origin of Symmetry* is still an impressive album. Its drama, driving guitar riffs, and falsetto vocals all set the album apart from its contemporaries. Piano and synths line the whole album, but animal bones and organs make major appearances too, providing an eeriness to the final third. 

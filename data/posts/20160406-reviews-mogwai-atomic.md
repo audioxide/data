@@ -34,7 +34,7 @@ artistLink: https://store.mogwai.scot/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Due to the epic instrumental makeup of Mogwai’s music, their potential for soundtrack work has always be evident. After producing well-received compositions for both film and television, the band now attempt to bridge the gap between soundtrack work and studio albums. *Atomic* is a rework of their soundtrack for a [BBC documentary](http://www.bbc.co.uk/programmes/b065y1dx) that explores the realities of the nuclear age, and succeeds greatly in achieving the appropriate tone. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Atomic*, in all its boom and rumble, is likely going to wind up being one of my favourite releases of the year. This tweaked offshoot of a documentary soundtrack — originally produced by Mogwai for [a nuclear age-focused BBC programme of the same name](http://www.bbc.co.uk/programmes/b065y1dx) — is an appropriately brutal exercise in escalation. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   Mogwai has created a brilliant soundtrack here, but treating it as a release in its own right without the context of what it accompanies made for an interesting discussion. The band have really created some beautiful moments in this release. With “Ether” building suspense up to a brass fanfare grandly introducing the crashing guitars that explode across the track, and “Pripyat” constructing a towering wall of sound only to pull it down and let the dust settle for the remainder of the track. 
   

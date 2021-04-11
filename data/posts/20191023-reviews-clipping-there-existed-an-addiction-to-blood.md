@@ -37,7 +37,7 @@ albumMBID: 16af6d23-9d40-49a6-952b-5631d4ec7981
 artistLink: http://www.clppng.com/merch
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   A horrorcore album based on a ’70s vampire film, featuring spooky field recordings, homages to John Carpenter, and suspenseful instrumentals. This, released on the month of Halloween. *There Existed an Addiction to Blood* doesn’t exactly deal in subtleties then. Nonetheless, clipping. have achieved something quite brilliant with their latest record. Though it borrows multiple tropes of all things Halloween, the experimental hip-hop group don’t rely on gimmicks to shock its listeners. Everything is constructed with precision and skill. As a huge fan of early [Eminem](/reviews/eminem-the-marshall-mathers-lp/), it’s no surprise that I’m totally infatuated with what’s on display.
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I had a strange time with this album. There’s no question it’s a quality product, but that’s something I understand rather than feel. Diggs’ flow is superb, the arrangements are dynamic and unusual, and the production is immaculate, serving up a kind of Twilight Zone horror spectacular. It’s been a rather cerebral year for hip hop, almost to the point of being nerdy. *There Existed an Addiction to Blood* often comes across more like a spoken work art piece than as an album. There’s a lot to like, but not a great deal to love.
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Reminiscent of the demonic glitching of *You Won’t Get What you Want* and [*Double Negative*](/reviews/low-double-negative/) of last year, clipping.’s *There Existed an Addiction to Blood* has spent the past week taking my breath away and rattling around my skull. The album’s name – itself likely salvaged from the sparsely-populated folder titled ‘We Came as Roman band name ideas’ – notwithstanding, we have in this album a consistent string of exciting, chilling, and innovative experimental hip hop tracks devoid of cheese or pretence.

@@ -37,7 +37,7 @@ artistLink: https://deeppurple.com/collections
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Aside from being cited as one of the pioneers of hard rock, I knew little of Deep Purple outside of the renowned hits. Their debut album, *Shades of Deep Purple*, celebrates its 50th anniversary this month, and I was naturally expecting raucous rock in a similar vein to “Smoke on the Water” and “Highway Star”. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is a real time capsule of an album. Half of it is covers of ‘60s classics, while the other is a frenetic onslaught of psychedelia fit for any Summer of Love montage. The fact that *Shades of Deep Purple* was released a year after those messy months in San Francisco only seems right. The album very much feels like a product of its time, a faithful, occasionally zealous disciple of a zeitgeist. The likes of [Jefferson Airplane](/reviews/jefferson-airplane-surrealistic-pillow/), [Jimi Hendrix](/reviews/the-jimi-hendrix-experience-electric-ladyland/), and, of course, [The Beatles](/reviews/the-beatles-revolver/) loom large over Deep Purple’s own forays down the rabbit hole. There are worse influences out there to be sure, and they translate into quite a trip here.
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Deep Purple’s debut highlights a band that are content with building on the successes of the era it was produced. With original tracks from the band like “Mandrake Root” that reek of the ’60s, and reinterpretations of tracks like “Help” and “Hey Joe” strongly tinged with the band’s own character, *Shades of Deep Purple* is an enjoyable montage of its decade. 

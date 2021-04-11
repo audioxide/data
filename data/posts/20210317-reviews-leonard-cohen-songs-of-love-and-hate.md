@@ -38,7 +38,7 @@ albumMBID: 964ccc52-2873-3bce-a806-73d71532c539
 artistLink: https://www.leonardcohenshop.com/
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   Ashamedly, this time spent with _Songs of Love and Hate_ is my first proper Leonard Cohen experience. It’s as emotionally intense as I imagined, yet surprisingly gentle too. The songs are comprised of acoustic guitars guiding passionate tales of love, hate, and everything in between, with poignant imagery that references the likes of Joan of Arc and Cain and Abel.
@@ -65,7 +65,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   One person and a guitar; a combination of timeless simplicity and beauty. That is, when it’s done right, and boy does _Songs of Love and Hate_ do it right. Never quite as simple as it appears, the album certainly is timeless, and plenty of other things too. Tender, magisterial, and wisened are qualities that come to mind, though none quite do justice to the innerworldliness of what goes on.
@@ -85,7 +85,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   From the simmering, cinematic opening moments of “Avalanche”, I was smitten with _Songs Of Love And Hate_. Cohen’s vocal stretches out over an urgent guitar as swells of strings sweep across to form a backdrop. It’s a suspenseful, moody start that entices with each listen.

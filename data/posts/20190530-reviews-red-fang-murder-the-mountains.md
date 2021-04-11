@@ -36,7 +36,7 @@ artistLink: http://redfang.net/store.html
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Red Fang may seem on the outset to be your standard all American heavy metal outfit, but I think there’s much more to them then punching guitars and growling vocals.
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   My frame of reference for this kind of music is so small that the best I can do is say *Murder the Mountains* sounds like something from an early *Tony Hawk’s Pro Skater* game. It’s gruff, it’s aggressive, and it has no standout qualities worth speaking of. That’s fine. It makes for an easy listen. The foundations are solid, but there’s not much on top. The grooves are relentless, sometimes even catchy. There just isn’t that finesse. Much of the album has the muscle of a [Queens of the Stone Age](/reviews/queens-of-the-stone-age-queens-of-the-stone-age/) record, but none of the swagger.
@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Red Fang’s 2011 release, *Murder the Mountains*, makes for a patchy listen for me. While this isn’t a flavour of metal I click with, there are some awesome moments from the crunchy, sludgy guitars and some stonking tracks overall.

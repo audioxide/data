@@ -8,7 +8,7 @@ featuredimage: funnyfarm-images/1-genesis.jpg
 featuredimageAlt: Ink drawing of an upside down sunrise
 title: "I: Genesis"
 summary: In which two hapless dreamers form a band
-author: fred
+author: frederick-obrien
 blurb: In the beginning there was Alan Hazard and Ray O. Sunshine. These were their real names.
 
 ---

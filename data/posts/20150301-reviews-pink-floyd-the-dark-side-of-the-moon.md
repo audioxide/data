@@ -37,7 +37,7 @@ artistLink: https://www.pinkfloyd.com/store.php
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Undeniably special, *The Dark Side of the Moon* is an iconic record that will stand the test of time. I do feel, however, that one side is considerably stronger than the other - the first half is a good album, and the second half is a brilliant one. In that sense I’d suggest it perhaps falls a tad short of the greatness that it so often gets accoladed with.
@@ -53,7 +53,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Dark Side of the Moon* is one of those high-water marks of artistic expression. It’s just sublime. I don’t have a bad thing to say about it. I think the two halves need each other, their relationship not unlike the one shared by the beam of light and the prism that adorn the iconic cover. If I wasn’t such an impassive git this album probably would have changed my life. I’ve chosen favourites, but you really should just listen to it all in one go.
@@ -69,7 +69,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I think the fact that I feel almost drained after listening to this album proves that *Dark Side of the Moon* certainly makes me feel something more than an average album, takes me on a journey. There are some stand out tracks, but together, with the range of instruments and the interesting time signatures and melodies sprinkled through it, it really can put you in a dream like trance, which isn’t an easy thing to achieve!

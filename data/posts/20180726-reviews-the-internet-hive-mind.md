@@ -36,7 +36,7 @@ artistLink: https://shop.internet-band.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Lush R&B is often the perfect supplement for a sweltering hot summer, and given the fine weather here in the UK I’ve been willing myself to enjoy *Hive Mind* as though it was some sort of enriching movement propelling British Summertime to a new beyond. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Talented people coming together to share in the joy of creation and music sounds like a good deal, especially in the summer. Unfortunately, most of what The Internet serve up here is relaxed to the point of inconsequence. It’s dozy. The low-key delivery and subtle groove puts most of the album out of focus. It’s not just the songwriting either. The production is dazed and murky, and the hour-long runtime doesn’t help matters. The lasting impression is of something nice. Boring and nice.
@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At face value, *Hive Mind* is a sound of summer, bringing an idyllic hour of R&B to the table. Although it thrives in creating some great moments of music, it falls down when it comes to memorability and development. Unfortunately, my time with this release has been a downhill journey. From initially enjoying the overall package and trying to glean insight into individual tracks, I grew weary of its hour-long play time and found only a handful of tracks that did something substantial with their initial ideas. 

@@ -38,7 +38,7 @@ artistLink: https://jeffersonairplane.shop.musictoday.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Surrealistic Pillow* was a pioneering piece of psychedelic folk-rock, filled to the brim with creativity. It remains a staple of the genre today, feeling as fresh and vibrant now as it did in 1967, and stands as tall as the finest works of the same era by [The Rolling Stones](/reviews/the-rolling-stones-let-it-bleed/) and [The Beatles](/reviews/the-beatles-revolver/). The music is so accomplished, and so varied, that it sounds like a wonderful montage of the ’60s. 
@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   You get the full Summer of Love package with *Surrealistic Pillow*. Searing, mind-bending psychedelic odysseys sit side by side with spectacularly sappy lovey-dovey numbers, and almost everything is top notch. The music’s folky, rubbery psychedelia is of its time, but in a way that’s completely authoritative. 
@@ -82,7 +82,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s hard not to be at all aware of Jefferson Airplane, but after listening to their second release, *Surrealistic Pillow*, I think I’ve found a new discography that I need to delve into. With a tracklist that explores a lot of different styles synonymous with the ’60s, and over half the tracks individually leaving their own legacy in pop culture even today, you’d be forgiven for mistaking this release as a best of or compilation album. Instead, *Surrealistic Pillow* is an album from a band at the top of their game. 

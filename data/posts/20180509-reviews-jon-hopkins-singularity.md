@@ -36,7 +36,7 @@ artistLink: https://jonhopkins.shop.redstarmerch.com/store
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Jon Hopkins’ long-awaited follow up to 2013’s *Immunity*, one of the standout electronic albums of the decade, is an absorbing experience unlikely to disappoint fans. *Singularity* is a nocturnal journey, and a genuine masterclass in sonic texture. Hopkins leads listeners through an expanding universe, a voyage equipped with the all the thrills of a rollercoaster, before safely guiding them back down to Earth. Though it’s hardly a huge departure from the customary Hopkins design, this is possibly his most cohesive record yet. The quality of *Singularity*’s design and construction cannot be questioned. Provided you’re listening in the right environment, the record can be utterly absorbing. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It bothers me not liking music like *Singularity* more than I do. There are elements of the album which make it clear why so many connect with it. There is also enough lacking for me to understand why I don’t. The production on the album is absolutely immaculate, expansive yet subtle. All very sophisticated. The problem is that it isn’t in service of something more pointed — at least not in a way I can tune into. Much of *Singularity* feels like watching Jon Hopkins nurse a whiskey in a leather wingback armchair. My participation hardly seems necessary. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Jon Hopkins hasn’t thrown any surprises into the mix with *Singularity*, instead opting for a meticulously produced journey through the night. For some, that might come as a disappointment, as ‘more of the same’ is often far less exciting than a curveball. But for me, this new release hits the mark. 

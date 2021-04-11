@@ -37,7 +37,7 @@ artistLink: https://store.lauramarling.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Though not to everyone’s tastes, 2017’s [*Semper Femina*](/reviews/laura-marling-semper-femina/) has grown to become one of my favourite folk records of recent years. It’s a nuanced statement of identity, backed up with superb songwriting and affecting arrangements. However, its ambiguous tone and sometimes skeletal structures created a frigid sensation that proved isolating for certain listeners. Laura Marling’s latest studio album *Song for Our Daughter* is a far warmer affair, and this in itself will be a huge bonus for a portion of her fans.
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Few things in life seem certain these days, but at least Laura Marling can still be relied on to write thoughtful, tender odes that would as soon breathe new life into your heart as smack you firmly across the face. So it is with *Song for Our Daughter*. Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, the album is an often sublime Marling masterclass.
@@ -83,7 +83,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The news of an expedited Laura Marling album certainly made for a positive in the deluge of curveballs flowing out the first half of 2020. Off the back of 2017’s [*Semper Femina*](/reviews/laura-marling-semper-femina/), *Song for Our Daughter* had a tough act to follow.

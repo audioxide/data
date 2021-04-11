@@ -43,7 +43,7 @@ artistLink: https://www.merchbar.com/dance-electronic-edm/flying-lotus/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >- 
   Ten years after its release, I cannot think of a single record that sounds anything remotely like *Cosmogramma*. The level of inventiveness Flying Lotus shows on his this, his third studio album, sets it apart from any release in the 21st century that is electronic, jazz, or otherwise. For all of its wonders and possibilities, technology has made it even easier to release boring music, but here is an artist who truly shows the potential of what it can do for this beloved medium. In short, *Cosmogramma* is a stunning showcase of music made, or at the very least assisted by, computers. Time has only proved it to be a genuine modern masterpiece.
@@ -64,7 +64,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >- 
   Being the grifter and fraud I am, I did not read about this album before listening to it. So when I told André I thought it sounded like digital jazz I had no idea just how close to the truth that was. As it turns out, Flying Lotus comes from a rich tradition of tender, audacious artistry, but like any artist worth his salt he pushes the boundaries to find something entirely of his own.
@@ -85,7 +85,7 @@ score:
 
 ---
 
-author: Michael
+author: michael-clark
 
 review: >- 
   I must confess that I feel somewhat daunted by, and emotionally unprepared to cope with the full implications of, the task of writing in teeny-tiny capsule form about *Cosmogramma* on the occasion of its tenth anniversary. Not only do I regard it as one of the more historically significant records of the previous decade, but also as a dearly treasured artefact of my adolescence – a foundational work in my personal journey as a music lover, and perhaps, if you pushed me on the matter, my favourite record.

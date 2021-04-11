@@ -38,7 +38,7 @@ artistLink: https://bobdylanstore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Legendary singer-songwriter and cultural icon Bob Dylan has now released [almost 40 studio LPs](/articles/bob-dylan-studio-albums-ranked/). It appears even the most devoted of fans are struggling to keep up. The last record I caught up with was 2012’s Tempest, and I thought it was fairly good. I have similar judgement for *Rough and Rowdy Ways*. This seems to go against the general perception: that this is his modern masterpiece.
@@ -61,7 +61,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   As Bob Dylan says in “I Contain Multitudes”, *Rough and Rowdy Ways* are songs of experience. This is not bright-eyed music. Grizzled and dusty, the album is as world-weary as it is worldly. Grandpa Dylan sits in his rocking chair by the fire and regales with old stories between stints of napping. The instrumentation is noir-like, all cigarette smoke and shadows. The guitars are gentle without losing their edge, the rhythm thumps along as reliably as a heartbeat.

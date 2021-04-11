@@ -35,7 +35,7 @@ artistLink: https://store.grizzly-bear.net
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The latest record from Brooklyn-based rock band Grizzly Bear is a floating slow-burner; threatening to become compelling, but almost always falling short. The base sound of *Painted Ruins* is lush and colourful, with hovering soundscapes and dainty melodies rising and falling in unison. The material is there, and the music is absolutely crying out to be heard, so it’s a great shame that the majority of it feels flat. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In many respects *Painted Ruins* deserves more love, but when push comes to shove it’s an album served tepid. Grizzly Bear went for progrock odyssey and came up with a theme park ride. Enjoyable yes, resplendent with expressive riches no. It has a lovely tone, but something holds it back from being more than that. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Grizzly Bear’s latest release feels constrained and muted. Listening carefully, you can hear where big swells of sound and quiet moments of suspense once were. Midway through “Cut-Out”, you can tell that a soft drum beat with a twinkling guitar paces back and forth before a thunderous, stabbing guitar breaks the silence, but on record, everything remains at the same level, the energy has gone, the impact softened. This example is not a lone occurrence across the tracklist and it really does turn seemingly interesting music into a far less interesting product. 

@@ -35,7 +35,7 @@ artistLink: https://philadelphonic.com/shop/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The debut album from Philadelphian outfit G. Love & Special Sauce is smooth, spirited, and very cool in character. At least, it is for about 15 minutes. It thrives on its youthful essence and does so assuredly, but this novelty wears off quickly. *G. Love and Special Sauce* begins in extremely mellow fashion with a loose version of “The Things That I Used to Do”, and never reaches any real level of vigour beyond this. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Some albums endure through the honesty of their sound. They commit to it, execute with pizzazz, and hit a few spells of frisson. *G. Love and Special Sauce* is one of those albums. Sloppy hip-hop blues stay loose for an hour here, and although I’d be lying if I said the record doesn’t feel its length at times, the best bits are fabulous. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This my first experience of *G. Love and Special Sauce*, but it’s undoubtedly a fun, summery listen. With each track underpinned by energetic hip-hop beats from drummer Jeffrey Clemens and distinctive vocal and harmonica work from Garrett Dutton, their debut gets off to a roaring start. The production lends itself perfectly to the ‘sunglasses music’ sound, with shimmering guitar stabs, slender double bass slides, and silky smooth vocal delivery aplenty across the album. 

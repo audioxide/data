@@ -35,7 +35,7 @@ albumMBID: 49339024-c6b4-4345-b521-6349463513cb
 artistLink: https://store.nickcave.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   2016 has been a harrowing year for music. Legendary artists have left us — [some in dramatic fashion](/reviews/david-bowie-blackstar/) — whilst others have [delivered their bleakest offerings yet](/reviews/radiohead-a-moon-shaped-pool/). *Skeleton Tree*, the latest record from Nick Cave & The Bad Seeds, falls right in line. Deep, dark, and despondent, it is a suitable representation of a largely distressing year in the music sphere. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Skeleton Tree* is a moving, frequently poetic eulogy and deserves all the reverence it has been met with. However — and I’m not alone in thinking this — it doesn’t always hit the mark as an album. There’s something lacking in it that doesn’t inspire me to come back. I wish my first listen to *Skeleton Tree* had occurred without any knowledge of the story behind it. I’d be interested to know what I’d have made of it then. Its general quality is unquestionable, magisterial in its grief. There’s a black magic to Nick Cave’s lyrics and delivery reminiscent of [The Doors](https://www.youtube.com/watch?v=JSUIQgEVDM4) and [Johnny Cash](https://www.youtube.com/watch?v=vt1Pwfnh5pc). The music, thick and heavy, slicks along like oil. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Nick Cave has created an atmospheric, sombre listen with his latest release, *Skeleton Tree*. The tragic events that Cave experienced during recording have clearly had some impact here, but there is more to find than just an album of personal grief. *Skeleton Tree* is a heavy listen for sure, and an album that I found I could only appreciate with my full concentration given to it. 

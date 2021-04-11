@@ -18,10 +18,10 @@ featuredimage: article-images/favourite-albums-2010s.jpg
 featuredimageAlt: Photograph of members of the band Queens of the Stone Age playing pool
 title: Our 10 favourite albums of the 2010s
 author:
-  - andrew
-  - andre
-  - fred
-  - marcus
+  - andrew-bridge
+  - andre-dack
+  - frederick-obrien
+  - marcus-lawrence
 blurb: The end of the 2010s is upon us, which means we are bound by obscure 16th century law to rank our favourite albums of the decade.
 
 ---

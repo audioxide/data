@@ -37,7 +37,7 @@ artistLink: https://thefall.xyz/emporium
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   A few weeks ago the music industry was in a state of mourning once again, this time over the fallen post-punk idol Mark E. Smith. This wasn’t your typical overwhelming sense of grievance, however, as much as it was a joyful recognition over a cult hero who formed important art and had a complex personality. Not that I knew much of this information before listening to *This Nation’s Saving Grace*: this was my first true experience with The Fall, and I’ve come away bopping my head with a wry smile. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *This Nation’s Saving Grace* has been a pleasure to discover. A gross, seedy, cheerful pleasure. This is probably the first album I’ve listened to that literally sounded inebriated. It’s like Tom Waits’ [*Rain Dogs*](/reviews/tom-waits-rain-dogs/) without the dignity. There’s a looseness to what goes on, a chummy sleaze as distinct in the drums as in Mark E. Smith’s delivery. The Fall are on marvelous form here, and John Leckie’s production does them complete justice throughout. 
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m left cold with *This Nation’s Saving Grace*. It’s a frustrating thing to feel when it’s clear so many herald this as a five-star album. There’s no doubt that I can hear points of influence for a wide range of contemporary punk and rock artists across the tracklist and there’s nothing incohesive or poorly executed here either. It’s therefore frustrating that to find the slurred, almost drunken, vocal style a distraction rather than a decoration on each track, and the general short repetition in many of the vocals and melodies to turn my attention away from the music. 

@@ -38,7 +38,7 @@ albumMBID: d4952445-d143-35a1-8420-d73cc78c668f
 artistLink: https://www.batforlashes.com/shop
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   It’s been 10 years since Bat For Lashes’ sophomore album, and it remains the most compelling work in her catalogue. Whereas 2016’s [*The Bride*](/reviews/bat-for-lashes-the-bride/) suffered from being a lofty concept album, *Two Suns* functions perfectly fine inside and outside of its prepared image. “Pearl’s Dream” and “Siren Song” work well within Khan’s primary blueprint, whereas “Glass”, “Moon and Moon” and “Daniel” are brilliant pop songs, irrespective of any particular concept. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   When we reviewed [*The Bride*](/reviews/bat-for-lashes-the-bride/) I thought it was a shame to catch Natasha Khan at her worst. Oh no, I thought, this can’t be a fair picture of her. Turns out it wasn’t far off. *Two Suns* is a far better album than *The Bride.* Oftentimes it’s lovely, but on the whole there’s an airiness and absence of purpose that, after listening to three different projects, I’m learning to accept is part and parcel of the Bat for Lashes experience.
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Natasha Khan has a knack for creating ethereal, cavernous music laced with hints of her influences from the ’80s and her contemporaries. *Two Suns* had high expectations to live up to off the back of the debut, and it almost pulls it off.

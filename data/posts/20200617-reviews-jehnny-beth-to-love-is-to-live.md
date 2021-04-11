@@ -37,7 +37,7 @@ artistLink: https://shop.jehnnybeth.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Having fronted one of the finest and most forceful punk bands of the 2010s, Jehnny Beth’s debut solo has been highly anticipated. I was initially surprised at just how cinematic *To Love Is to Live* is. This is an immersive exploration of human emotion and activity: love, lust, and desire, with all of the vulnerabilities that come attached. It’s a journey that stays true to its themes, and is consistent in tone, but does occasionally feel overbearing. The album is purposefully provocative, and whilst this brings some exhilarating and hard-hitting moments, it can also result in disorientating frenzies. It feels messy, basically, though this isn’t always a bad thing.
@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Buckle in, folks, Jehnny Beth is back to sing about lurve and liveeng and all that good stuff. Having received well-earned plaudits for her work with [Savages](/reviews/savages-adore-life/), she’s now gone solo, serving up a concoction of spoken word musings, industrial grinding, and sombre piano interludes. If that sounds like a bit of a jumble, that’s because it is. A bold, professional, earnest bit of a jumble.
@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *To Love Is To Live* is a weird album. Moment to moment it jumps between elegance and mania without pausing for breath, and this unusual composition does more to harm the experience than help it.

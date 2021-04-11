@@ -37,7 +37,7 @@ artistLink: https://www.merchbar.com/r-b-hiphop-rap/stevie-wonder
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   As far as legacies in pop music go, none are as powerful, or as enduring, as Stevie Wonder’s. *Songs in the Key of Life*, his eighteenth studio album, is the most ambitious collection of songs in his career, and is often cited as the essential Wonder work by his fans, the media, and his contemporaries. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.9
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   I implore you to listen to this record if you haven’t done so before. Several tracks from this double-length LP, such as “Isn’t She Lovely”, “Pastime Paradise” and “Sir Duke”, have become familiar to most ears due to their popularity and strength of Stevie Wonder’s writing. 
@@ -81,7 +81,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   To produce an exceptional double album for your eighteenth studio release is no easy task, and for many artists, it’s likely an impossible aim to achieve. *Songs In The Key Of Life* manages it though, with a tireless sunny optimism that never dissipates despite its extended play time. 

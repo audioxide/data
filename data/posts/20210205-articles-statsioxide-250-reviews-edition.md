@@ -41,7 +41,7 @@ featuredimage: article-images/statsioxide-250-featured-image.jpg
 featuredimageAlt: Collage of the first 250 albums reviewed by Audioxide
 title: "Statsioxide: our first 250 reviews in numbers"
 summary: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data
-author: fred
+author: frederick-obrien
 blurb: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data.
 
 ---

@@ -37,7 +37,7 @@ artistLink: https://beak.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *\>>>* is the third studio album by British electronic band Beak — arguably Geoff Barrow’s most prominent project since [Portishead](/reviews/portishead-dummy/). On their previous two albums, instrumentals were driven along with a perverse sense of precision, propelled by a subtle sense of psychedelia, and drastically approaching the territory of krautrock. However, there’s something notably different about *\>>>*. The inclusion of Will Young (known otherwise as Moon Gangs) will have played a part, for sure, and it’s a most welcome change to the setup. The grooves here feel less secured, and the songs don’t feel as continual. Ideas are persistent, but don’t outstay their welcome. Krautrock is merely one of many influences, rather than a driving direction.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There are records where the pleasure comes simply from slipping beneath the surface and letting the music play out. Beak>’s third album, *\>>>*, comfortably fits the bill. It builds a broody world to play in and takes its time poking around. Opener “The Brazilian” sets the tone, its murky synths and hard-edged instrumentals bringing with them visions of a moonrise on a distant world. There are no epic cities here, though, no shining utopias. *\>>>* is a dingy place, the scenery buckled and rusty. It’s a terrific mood. One to explore and soak in.
@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Returning after six years and with a change in line up, Beak>’s third studio album has all the hallmarks of their previous work, but *\>>>* feels more exploratory. The band’s mix of sharp guitar tones and wailing synths makes for an ominous, other-worldly quality which can be heard right from the opening moments of the album. The opener, “The Brazilian”, develops whirring pads into a lumbering groove which feels a touch looser than their previous material has been.

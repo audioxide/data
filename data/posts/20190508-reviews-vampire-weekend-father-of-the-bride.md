@@ -38,7 +38,7 @@ artistLink: https://vampireweekend.frocksteady.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Kooky indie pop rarely appeals to my senses. That said, Vampire Weekend’s music has always seemed to be transcend the regularities of the genre. Astute, stylish, and of course catchy. After the departure of founding member Rostam Batmanglij, the band return a man down for their fourth record. And with some reasonable success.
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This isn’t the kind of music I would listen to in my own time, so *Father of the Bride* does well to be a pleasant listen. It delivers its preppy brand of indie rock with such aplomb that I actually find myself enjoying the album most when it’s annoying me. The songs, which are largely a jumble of richly produced pop arrangements and Ezra Koenig cooing, are hokey, but they’re also unexpectedly endearing.
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With six years and a lineup change between Vampire Weekend’s previous album and their present new release, it’s unsurprising that *Father of the Bride* makes for a change of pace coming from their prior material.

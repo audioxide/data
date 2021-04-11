@@ -35,7 +35,7 @@ artistLink: https://pjharvey.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In a catalogue filled to the brim with vitality and emotion, 2011’s [*Let England Shake*](/reviews/pj-harvey-let-england-shake/) proved to be one of PJ Harvey’s most powerful works, in spite of her age and mounting maturity. It was crafted expertly and stands as one of the best releases of the decade so far. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This never really hits the mark. Although *The Hope Six Demolition Project* does have its moments, most of the time spent between them just kind of happens. A good deal of discernable quality throughout — from toe-tapping blues samples, to irreverent ’60s style rock, to smoky folk melodies — is suffocated by the album’s sloppy, murky sound. What little surviving crispness there is isn’t striking enough to make the experience anything more than frustrating. Whether the album’s thick combination of recording and mixing was a deliberate artistic decision or not I’m not sure, but it doesn’t work. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Hope Six Demolition Project* has rough, bluesy, improvised aesthetic which, on paper, ought to be an interesting return for PJ Harvey. In practice however, it doesn’t play out as hoped. Some great hooks and intriguing instrumentation make for some gems, with “A Line in the Sand” piquing curiosity with it’s twinkling guitar and strong sax lines which are only further demonstrated as “The Ministry Of Social Affairs” erupts during the latter half. 

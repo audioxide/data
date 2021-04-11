@@ -38,7 +38,7 @@ artistLink: https://ty-segall.com/collections/all
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Freedom’s Goblin*, Ty Segall’s tenth studio release in as many years, is a confident, unrestrained double-album. It contains some of Segall’s finest tracks, a couple of wonderful covers, and a few instances of filler. It’s his longest record to date, but can also be one of his most rewarding. During its best moments, *Freedom’s Goblin* plays like a celebration of Segall’s creativity, whereas other songs are immediately forgettable, despite being fairly decent. So where exactly does that leave us?
@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Trying to describe my feelings on *Freedom’s Goblin* leaves me reaching for all kinds of clumsy metaphors. Limp handshake from a great guy; B movie masterpiece; an album rehearsing itself; easy to listen to and easy to forget, like those people at parties. Take your pick. The album’s a smorgasbord of talents and genres, but something about its execution leaves me seriously wanting — much as I’d like to feel otherwise. 
@@ -84,7 +84,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   While I’m normally the first one to bemoan an album’s length, Ty Segall has managed to make the very exclusive list of exceptions. Make no mistake, there are tracks here that I wouldn’t miss terribly had they been resigned to b-sides, and the six-minute jam in “She” does push towards outstaying its welcome, even if it does sound like the band are having a great time throughout. Most of the album, however, makes for a smashing listen. 

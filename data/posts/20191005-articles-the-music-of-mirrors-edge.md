@@ -10,7 +10,7 @@ featuredimage: article-images/keep-faith-the-music-of-mirrors-edge.jpg
 featuredimageAlt: Blurred concept art from the video game Mirror's Edge
 title: "Keep Faith: the music of &#8216;Mirror&#8217;s Edge&#8217;"
 summary: This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.
-author: fred
+author: frederick-obrien
 blurb: The Mirror's Edge OST is tuned perfectly to the game’s tone. Elegant, adaptive, and constantly on the move, it is proper parkour music.
 
 ---

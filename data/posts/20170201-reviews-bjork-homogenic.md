@@ -38,7 +38,7 @@ artistLink: https://shop.bjork.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Homogenic* is, quite simply, a stunning work. The music of Björk, who is righty credited as one of the most creative and unique artists of the past few decades, can often defy categorisation, but there is little doubt that her third studio album benefits from a coherence that has often been missing from the majority of her other records.
@@ -60,7 +60,7 @@ score:
   fraction: 0.9
 
 ---
-author: Nick
+author: nick-marsh
 
 review: >-
   ‘I’m going hunting’ — Björk tells us at the start of *Homogenic* that she is travelling, searching, hunting for home, and not stopping. The hunt is fierce: even on the album cover, Björk confronts, and conflict is *Homogenic*’s form. Everywhere in this music there is one element warring against another — machines threaten to drown out any human or natural sound; volcanic beats crush violins, accordions, glass harmonicas; the voice seems to be struggling with itself. 
@@ -84,7 +84,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m surprised it’s taken me this long to discover my love for Björk’s work. Deterred by her mid-noughties output, it’s taken me two decades to delve into anything earlier. *Homogenic* is gigantic in many ways, each track constructing a world of musical layers, mixing the unapologetically artificial with swathes of cinematic, orchestral instrumentation, and almost completely hiding its age in the process. With each musical world in place, Björk’s unique vocals soar above them. 

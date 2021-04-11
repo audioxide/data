@@ -35,7 +35,7 @@ albumMBID: 0f7a9bb0-c99a-48ea-93fb-ecdcc0ed636e
 artistLink: https://www.drdre.com/store
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Referring to it as his ‘grand finale,’ *Compton* feels like a cinematic celebration of Dr. Dre’s career in the game, and makes for a rewarding, if unspectacular experience. Whilst *Detox* failed to pass the finishing production tests after years of labor, this is a focused and cohesive work that clearly benefitted from the inspiration found during production of *Straight Outta Compton*. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Compton* is a polished, lumbering beast of an album. Not so much concerned with peaks and troughs as with a steady, charismatic drone of all things Compton, Dr. Dre’s latest concoction rides a peculiar line between celebration and reflection. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   This is Dr. Dre’s first album in 16 years and, unsurprisingly, there were a lot of listeners who expecting a lot from *Compton*. The album is filled to the brim with collaborators, and it’s clear that each was given a fair amount of control over the tracks they featured on — Kendrick Lamar applying his signature style that we heard from [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), to Genocide and Snoop Dogg delivering a fierce vocal on “One Shot One Kill”. 
   

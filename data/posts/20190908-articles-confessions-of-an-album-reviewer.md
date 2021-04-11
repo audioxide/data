@@ -8,7 +8,7 @@ featuredimage: article-images/confessions-of-an-album-reviewer.jpg
 featuredimageAlt: Abstract illustration of two heads talking to each other
 title: Confessions of an album reviewer
 summary: For reasons known not even to himself, Fred disparages the memory of George Orwell’s essay ‘Confessions of a Book Reviewer’
-author: fred
+author: frederick-obrien
 blurb: For reasons known not even to himself, Fred decides to disparage the memory of George Orwell's essay 'Confessions of a Book Reviewer'.
 
 ---

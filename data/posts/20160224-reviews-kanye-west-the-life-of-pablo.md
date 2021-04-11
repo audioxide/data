@@ -35,7 +35,7 @@ artistLink: https://shop.kanyewest.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Life of Pablo* is uneven, sporadic, and totally erratic; an unfinished version of a potentially great album. There’s heaps of enjoyment to be had with its outlandish humour and unpredictable instrumental turns, but it comes with an equal amount of frustration. At its worst, *TLoP* is one of the most obnoxious records I’ve ever listened to. The lyrical content ranges from witty and delightfully brash, to cheap and wholly abhorrent, while some of the instrumentals simply [don’t seem finished](https://twitter.com/kanyewest/status/698971890581401600). 
@@ -58,7 +58,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
    I love the good Kanye, few marbles loose Kanye<br>
@@ -84,7 +84,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Kanye West’s latest release, *The Life of Pablo*, leaves subtly at the door, so it seems fitting to review the album in the same way. *TLoP* is an uneven frankenstein of a tracklist. Genuinely catchy, thought-out tracks sit beside tracks that — I can only hope — are fully invested in Kanye’s own irony and lunacy, which in turn sit beside tracks that feel like draft copies (and based on the rumours, they may well be). 

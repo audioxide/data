@@ -36,7 +36,7 @@ artistLink: https://golfwang.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The early days of Odd Future instigated extraordinary levels of excitement amongst teenagers and young adults alike. The hype was on another level — I myself was one of many to be lured in. More often than not, however, the buzz outweighed the actual content. Odd Future were a captivating hip-hop outfit with an endearing spirit, but much of the music itself was ultimately underwhelming. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Having never listened to Tyler, the Creator before, I thoroughly enjoyed *Flower Boy*. The album’s craft is a pleasure to experience, and the sound is confident and rich. It doesn’t so much command attention as lure it in. Listens through have the sensory, slow-motion quality of a dream, which is quite a feat in any genre, let alone R&B. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This could’ve easily been a lightweight, offensive, puff of smoke that dissipated without effect into 2017. Tyler, The Creator’s output has varied in quality since the release of his mixtape, *Bastard*, at the turn of the decade. While the shock factor and raw production of early releases gave me reason to return to them, there was little progression between albums. *Flower Boy*, however, is a brilliant, pleasant surprise for the year. Toning down the goof a touch and improving significantly on the production values, it’s made for an album that I can’t help but return to. 

@@ -35,7 +35,7 @@ albumMBID: fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6
 artistLink: https://store.nin.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Before the arena tours and Academy Award wins, Trent Reznor was a mere janitor at an Ohio-based studio, eager to channel his adolescent angst through the one thing that was always there for him: music. This is where the Nine Inch Nails enterprise began. *Pretty Hate Machine* is most certainly a product of its time, utilising many of the synth-pop conventions laid down by artists like Depeche Mode and Soft Cell, and blending them with elements of industrial, rock, and hip-hop music. Thirty years later, the outcome is still unique, and it remains one of the most distinctive fusions in alternative music. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Baby Trent Reznor is a bit like a baby spider up close — kind of adorable, but still pretty horrifying. *Pretty Hate Machine* feels familiar, but not fully formed. Nine Inch Nails has achieved so much, critically and sonically, in the thirty years since this album was released that it ultimately feels more like a precursor than anything else.
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Pretty Hate Machine* was my starting point for Nine Inch Nails, and it makes for quite an entrance. Between the thoroughly ’80s instrumentation, tracks that ooze angst, and a Reznor rap within its first ten minutes, it’s memorable if nothing else.

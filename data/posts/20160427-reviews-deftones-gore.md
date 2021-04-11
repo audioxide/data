@@ -36,7 +36,7 @@ artistLink: https://deftones.merchdirect.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Irrespective of their stellar output, Deftones have always struggled to distinguish themselves from the contaminated haze of nu-metal that so often turns listeners away. Without sacrificing any of the gratifying brutality fans have come to expect from the band, *Gore* strikes a delightful balance, and is perhaps their most accessible record to date. It’s not a resounding success, but it’s an assured high point in a discography that gets more impressive with almost each release. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Gore*, the latest release from alternative metal band Deftones, is a whole lot of screamy, fuzzy merge. Stop the presses! Sadly, I’ve found it difficult to move beyond that initial impression, flippant as it may be. The album is relentless and abrasive in ways that incinerates subtlety and reflection. In its defence, though, it does so deliberately. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was my first proper exposure to a Deftones release, and it's been a positive one. With a variety of sounds present throughout the album, *Gore* revels in offering the listener vast, echoing music, with Chino Moreno's vocals calling out across them, only to throw you into blistering passages of noise that would likely be brilliant to experience in a live setting. It provides a slightly agitated, conflicted quality to the album without making it a disjointed listen. 
@@ -96,7 +96,7 @@ score:
   fraction: 0.6
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   I came to Deftones late. Faded memories of “Back to School (Mini Maggit)” playing on late 90’s Scuzz still fill my brain. However, it wasn’t until very recently I spent the time to listen to this music that people have called ‘genre-less’. Although this is a gross overstatement, I can appreciate the sentiment. I started with *Around the Fur* (1997) and *Adrenaline* (1995) and later on graduated to the award winning *White Pony* (2000) and *Diamond Eyes* (2011). You may say the music has an overall tone, however it is difficult to call Deftones Nu Metal, Hard Rock, Post-Punk or any other denomination of the aforementioned. This is because they are all of these things, and none of them at the same time.

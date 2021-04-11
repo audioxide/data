@@ -38,7 +38,7 @@ artistLink: https://shop.haimtheband.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Californian sisters Haim are in no hurry to rewrite the rules of popular music. They balance elements of pop, rock, country, and R&B to shape a satisfying, radio-friendly sound; performed with a sparkling confidence and produced with crystal-clear clarity. It’s an altogether impressive, yet vaguely insipid setup that doesn’t rouse to inspire, but does play so satisfyingly to the ear, beaming with a feel-good factor that has already proved ideal for sunny festivals.
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Something to Tell You* is glossy, air-headed radio pop fresh from the Pacific coast, and pretty good at it. Love is aplenty and tan will prevail. The record has the spaced, friendly character of a Long Beach stereotype, and if you reign in your (read: my) judgement it’s just as agreeable. Visions of Disney montages are pretty insistent, as well as that weird non-energy I thought was limited to ‘inspiring’ quotes telling people not to improve themselves, but it’s charming.
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ll be honest: I came to Haim’s latest release with needless and unwarranted snobbery. Having been introduced to the band through Radio 1 daytime, my assumption was that I was in for a dull listen. But with strong flavours of Fleetwood Mac and definite tinges of Prince thrown into the mix, *Something to Tell You* is an album of inoffensive and enjoyable pop music.
