@@ -35,7 +35,7 @@ artistLink: https://store.nickcave.com/
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   The Nick Cave & The Bad Seeds catalogue is a tricky one to infiltrate. It speaks volumes about the quality and diversity of the musical output that, when prompted as to which is the best, fans often point to a good handful of records. Whilst *The Boatman’s Call* is a magical album, I’d instead recommend *Let Love In* as an entry album for new listeners. It’s a striking and visual record that captures everything that Nick Cave is all about. 
