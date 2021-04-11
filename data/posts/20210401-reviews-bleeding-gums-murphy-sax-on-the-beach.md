@@ -38,7 +38,7 @@ artistLink: https://sonnyrollins.com/
 
 ---
 
-author: Michael
+author: michael-clark
 
 review: >-
   If there is one general explanation for why great talents are lost to history, we might say that it is an unfortunate configuration of time and space. The artist in question could find themselves working in the right place, but at the wrong time (consider [Connie Converse](https://www.youtube.com/watch?v=gowqgGxDrE0), a woman who in 1950s New York predicted the folk singer-songwriter trends that by the mid-60s would dominate the city’s music scene). Equally, the artist could be working in the right historical moment, but were simply in the wrong place to fit within any larger movement (one imagines what might have happened to the proto-punk band [Death](https://www.youtube.com/watch?v=rl3FstCc_OY) if they had left Detroit for New York or London in the mid-1970s). Or, worst of all, they could have worked in the wrong place and the wrong time, which we might say of saxophonist Bleeding Gums Murphy.

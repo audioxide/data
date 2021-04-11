@@ -110,7 +110,7 @@ review: >-
   *Doolittle*’s highlights will no doubt reinstate themselves as earworms for the rest of my life, and it’s both a blessing and a curse that I doubt I will ever fully appreciate the depth of its intricacies and emotional intelligence.
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   If *Doolittle* isn’t the greatest album ever made — and, frankly, it isn’t — it at least succeeds in briefly convincing you that it very well could be. There’s an ebullience and a forcefulness of feeling throughout that, in the moment, makes it seem as if it’s the only thing that could possibly matter in the world, as if it’s the only party you need to be at. 

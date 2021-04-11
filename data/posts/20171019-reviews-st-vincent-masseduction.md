@@ -84,7 +84,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   In search of a more pronounced, accessible pop aesthetic, St. Vincent’s Annie Clark has ditched her long-time producer, John Congleton, to co-produce *Masseduction* alongside fun.’s Jack Antonoff, who has recently produced for [Taylor Swift](/reviews/taylor-swift-lover/) and [Lorde](/listening-parties/lorde-melodrama/>). And, superficially, it seems that Clark had to compromise nothing of her characteristic sound while doing this, as this is just as gnarled, vivid, and idiosyncratic as any of her other records. There is more of an inclination towards synthpop, and, regrettably, less of an emphasis on her virtuoso guitar playing, but this album’s wry, sexy, noisy as fuck interpretation of pop nevertheless sounds of a piece with her most recent work. Why, then, does *Masseduction* not stick with me as her previous records invariably did?

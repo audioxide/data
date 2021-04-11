@@ -85,7 +85,7 @@ score:
 
 ---
 
-author: Michael
+author: michael-clark
 
 review: >- 
   I must confess that I feel somewhat daunted by, and emotionally unprepared to cope with the full implications of, the task of writing in teeny-tiny capsule form about *Cosmogramma* on the occasion of its tenth anniversary. Not only do I regard it as one of the more historically significant records of the previous decade, but also as a dearly treasured artefact of my adolescence – a foundational work in my personal journey as a music lover, and perhaps, if you pushed me on the matter, my favourite record.

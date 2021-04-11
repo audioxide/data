@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   It’s tempting to simply exalt *Last Place* for being an actual, legitimate, bona-fide Grandaddy record, because *holy shit it’s an actual, legitimate, bona-fide Grandaddy record*. I’d love to just skip around and rhapsodize about how it’s not some ersatz approximation that kind of, sort of *sounds like* Grandaddy’s woozy, bittersweet brand of indie-rock, and about how much of a relief this is. We are, however, talking about a band that has only recently returned from a lengthy hiatus, so I appreciate that such statements cannot stand on their own, because what the fuck *is* a Grandaddy record, anyway? 

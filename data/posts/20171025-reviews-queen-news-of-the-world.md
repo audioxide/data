@@ -58,7 +58,7 @@ score:
   fraction: 0.5
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   Like Andre, my previous encounters with Queen were not with any particular studio album, but with the outsized imprint left on popular culture by their ubiquitous hits like “Bohemian Rhapsody”, “I Want to Break Free”, and “Don’t Stop Me Now”. Such tracks gave me the impression that Queen operated exclusively within the realm of elaborate and theatrical stadium anthems — that they adhered to a fairly strict set of stylistic parameters because it worked for both them and their audience; and, though I was never particularly smitten with them, I could at least appreciate that they performed their shtick with skill and verve, and understand why it appealed so broadly. 

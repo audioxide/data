@@ -38,7 +38,7 @@ artistLink: https://kf-merch.com/collections/lcd-soundsystem
 
 ---
 
-author: Michael
+author: michael-clark
 
 review: >-
   LCD Soundsystem was introduced to the world in 2002 with an irony-drenched dirge for a pompous thirtysomething’s sense of coolness called [“Losing My Edge”](https://www.youtube.com/watch?v=6xG4oFny2Pk). The great joke underpinning this track was that, despite all his insistence to the contrary, James Murphy wasn’t there: he wasn’t there in 1974, at the first Suicide practices in a New York City loft. He wasn’t there in the Paradise Garage DJ booth with Larry Levan. He wasn’t even alive in 1968, when Can played their first show in Cologne. No, he was born in 1970, and just barely missed out on what would become his favourite period of music, initially because he was too young to appreciate it, and later because, growing up in small-town New Jersey, he was too far removed from the cities in which these cultural moments were happening. 

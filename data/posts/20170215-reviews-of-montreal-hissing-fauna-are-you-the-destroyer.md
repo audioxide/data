@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   *Hissing Fauna, Are You the Destroyer?* is a primal scream that can easily be mistaken for a laugh. Much of the record was written when Kevin Barnes was cripplingly depressed in a foreign land and contemplating the possible dissolution of his marriage, and it follows that its lyrical content is largely bleak, desperate, utterly despairing. Yet, apart from “The Past is a Grotesque Animal”, the swirling vortex at the album’s centre (and one of the outstanding tracks of the 00s), the songs are never presented as such. Especially on the first half, they’re manic, flamboyant, playful, frankly irresistible pop numbers that compel you to sing and dance along. A plea for friendship, or some kind of positive human connection or feeling, perhaps. 

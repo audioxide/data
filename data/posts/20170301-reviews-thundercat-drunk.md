@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   Of *Drunk*’s twenty-three tracks, only six exceed three minutes. It’s 51 minutes long, and the average track sticks around for roughly two minutes. Records such as J Dilla’s *Donuts* and Flying Lotus’ *You’re Dead!* have demonstrated that this kind of structure is better suited to creating the illusion of formlessness: an album that’s rapid and seamless, that careens through short tracks that are meticulously mixed to function not as discrete units, but as movements within a larger, constantly shifting piece of music. 
