@@ -34,7 +34,7 @@ artistLink: https://thehyv.shop/collections/baths/
 
 ---
 
-author: ANDRE
+author: andre-dack
 
 review: >-
   On the third Baths album, Will Wiesenfeld shows once again that he is a skillful storyteller. Songs on *Romaplasm* are set in fantasy realms and are highly visual as a result. The delicate craft of Wiesenfeld’s earlier work is mostly gone, and the instrumentals are instead excitable, fidgety, and sometimes erratic. 
