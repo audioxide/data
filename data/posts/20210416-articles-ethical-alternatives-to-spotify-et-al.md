@@ -59,7 +59,7 @@ The new kid on the block and possibly the biggest name to make the move.
 
 ## Bandcamp
 
-![BandCamp music streaming logo](article-images/spotify-alternatives-soundcloud.png "BandCamp logo")
+![BandCamp music streaming logo](article-images/spotify-alternatives-bandcamp.png "BandCamp logo")
 
 Bandcamp isn’t exactly a music streaming service, but it’s been so terrific for artists during the pandemic that it more than merits a mention here.
 
