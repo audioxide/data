@@ -1,17 +1,17 @@
 ---
-created: 2021-04-02T12:00:00.000Z
-modified: 2021-04-02T12:00:00.000Z
+created: 2021-04-16T12:00:00.000Z
+modified: 2021-04-16T12:00:00.000Z
 slug: ethical-alternatives-to-spotify
 type: articles
 tags:
   - music industry
   - spotify
-featuredimage: article-images/filler.jpg
-featuredimageAlt: Filler
+featuredimage: article-images/spotify-alternatives-featured.jpg
+featuredimageAlt: A set of red headphones
 title: Ethical music streaming alternatives to Spotify et al.
-author: fred
+author: frederick-obrien
 summary: The big dogs of music streaming aren’t great for musicians, but there are other options out there. Here are services that put artists first (or at least, not last)
-blurb: TBD
+blurb: The big dogs of music streaming aren’t great for musicians, but there are other options out there. Here are services that put artists first (or at least, not last).
 
 ---
 
@@ -25,7 +25,9 @@ In no particular order, below are some of the major music streaming platforms th
 
 ## Resonate
 
-Founded in 2016, Resonate uses an approach called stream2own, whereby the cost of streams doubles each time until you’ve effectively bought the song and can listen to it as much as you like for no further cost. The thinking here is that users can explore and discover new music without breaking the bank. It’s only once a song hooks you that you really start to fork over the pennies, which seems fair enough. 
+[Resonate music streaming logo](article-images/spotify-alternatives-resonate.png "Resonate logo")
+
+Founded in 2016, Resonate uses an approach called stream2own, whereby the cost of streams doubles each time until you’ve effectively bought the song and can listen to it as much as you like for no further cost. The thinking here is that users can explore and discover new music without breaking the bank. It’s only once a song hooks you that you really start to fork over the pennies, which seems fair enough.
 
 Uniquely among those mentioned here, Resonate is a cooperative, owned by the people who use it and develop it. 
 
@@ -35,23 +37,29 @@ Resonate is browser-based. There is no app, though you can bookmark the web app 
 
 ## SonStream
 
-Going all in on a musician-centric model, on SonStream you pay artists directly for streams. Instead of a subscription it’s straight up pay-as-you-go — around 2.5 pence a song (or 3 cents). 
+[SonStream music streaming logo](article-images/spotify-alternatives-sonstream.png "SonStream logo")
+
+Going all in on a musician-centric model, on SonStream you pay artists directly for streams. Instead of a subscription it’s straight up pay-as-you-go — around 2.5 pence a song (or 3 cents).
 
 If you listen to no songs in a month, you pay nothing. If you listen to 500 songs you’ll pay somewhere in the region of £12.50 (or $15). The direct line between listeners and artists is a real pro here. There’s no opaque processes whereby your money finds itself in pockets you’ve never listened to.
 
 As far as ease of use goes SonStream is getting there. It recently rolled out apps for Android and iOS. There’s some teething to be done but for a plucky underdog without billions of venture capital to pump into development it’s not half bad. Find a song, press play, enjoy. Simples.
 
-The catalogue is a little lean — X compared to Spotify’s Y — but it’s growing. Radiohead, Talking Heads, and The Specials are there to name but a few. The nice thing about SonStream is it costs nothing to have it installed and ready to go. If an artist is on SonStream, great, listen to them there. If not, no harm done.
+The catalogue is a little lean — X compared to Spotify’s Y — but it’s growing. [Radiohead](/reviews/radiohead-ok-computer/), [Talking Heads](/reviews/talking-heads-remain-in-light/), and [The Specials](/reviews/the-specials-the-specials/) are there to name but a few. The nice thing about SonStream is it costs nothing to have it installed and ready to go. If an artist is on SonStream, great, listen to them there. If not, no harm done.
 
 -----
 
 ## SoundCloud
+
+[SoundCloud music streaming logo](article-images/spotify-alternatives-soundcloud.png "SoundCloud logo")
 
 The new kid on the block and possibly the biggest name to make the move.
 
 -----
 
 ## Bandcamp
+
+[BandCamp music streaming logo](article-images/spotify-alternatives-soundcloud.png "BandCamp logo")
 
 Bandcamp isn’t exactly a music streaming service, but it’s been so terrific for artists during the pandemic that it more than merits a mention here.
 
