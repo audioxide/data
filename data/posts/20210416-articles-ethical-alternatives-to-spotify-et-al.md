@@ -25,7 +25,7 @@ In no particular order, below are some of the major music streaming platforms th
 
 ## Resonate
 
-[Resonate music streaming logo](article-images/spotify-alternatives-resonate.png "Resonate logo")
+![Resonate music streaming logo](article-images/spotify-alternatives-resonate.png "Resonate logo")
 
 Founded in 2016, Resonate uses an approach called stream2own, whereby the cost of streams doubles each time until you’ve effectively bought the song and can listen to it as much as you like for no further cost. The thinking here is that users can explore and discover new music without breaking the bank. It’s only once a song hooks you that you really start to fork over the pennies, which seems fair enough.
 
@@ -37,7 +37,7 @@ Resonate is browser-based. There is no app, though you can bookmark the web app 
 
 ## SonStream
 
-[SonStream music streaming logo](article-images/spotify-alternatives-sonstream.png "SonStream logo")
+![SonStream music streaming logo](article-images/spotify-alternatives-sonstream.png "SonStream logo")
 
 Going all in on a musician-centric model, on SonStream you pay artists directly for streams. Instead of a subscription it’s straight up pay-as-you-go — around 2.5 pence a song (or 3 cents).
 
@@ -51,7 +51,7 @@ The catalogue is a little lean — X compared to Spotify’s Y — but it’s gr
 
 ## SoundCloud
 
-[SoundCloud music streaming logo](article-images/spotify-alternatives-soundcloud.png "SoundCloud logo")
+![SoundCloud music streaming logo](article-images/spotify-alternatives-soundcloud.png "SoundCloud logo")
 
 The new kid on the block and possibly the biggest name to make the move.
 
@@ -59,7 +59,7 @@ The new kid on the block and possibly the biggest name to make the move.
 
 ## Bandcamp
 
-[BandCamp music streaming logo](article-images/spotify-alternatives-soundcloud.png "BandCamp logo")
+![BandCamp music streaming logo](article-images/spotify-alternatives-soundcloud.png "BandCamp logo")
 
 Bandcamp isn’t exactly a music streaming service, but it’s been so terrific for artists during the pandemic that it more than merits a mention here.
 
