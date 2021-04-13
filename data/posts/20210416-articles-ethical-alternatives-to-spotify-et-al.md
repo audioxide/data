@@ -6,7 +6,7 @@ type: articles
 tags:
   - music industry
   - spotify
-featuredimage: article-images/spotify-alternatives-featured.jpg
+featuredimage: article-images/spotify-alternatives-featured-image.jpg
 featuredimageAlt: A set of red headphones
 title: Ethical music streaming alternatives to Spotify et al.
 author: frederick-obrien
