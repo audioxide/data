@@ -8,8 +8,6 @@ tags:
   - andy stott
   - electronic
 featuredimage: album-artwork/never-the-right-time-andy-stott.jpg
-artworkCredit: TBD
-artworkCreditSource: TBD
 artist: Andy Stott
 album: Never the Right Time
 essentialtracks:
