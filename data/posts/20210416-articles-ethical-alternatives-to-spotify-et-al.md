@@ -8,7 +8,7 @@ tags:
   - spotify
 featuredimage: article-images/spotify-alternatives-featured-image.jpg
 featuredimageAlt: Illustration of a wooden signpost with boards pointing to different music streaming services
-title: Alternatives to Spotify and other major music streaming services
+title: Pro-artist alternatives to Spotify et al.
 author: frederick-obrien
 summary: The big dogs of music streaming aren’t great for musicians, but there are fairer, more ethical options out there. Here are services putting artists first (or at least, not dead last)
 blurb: The big dogs of music streaming aren’t great for musicians, but there are other options out there. Here are services putting artists first (or at least, not dead last).
