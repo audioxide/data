@@ -67,4 +67,4 @@ Although SoundCloud stopped short of a guarunteed per-stream royalty rate, this 
 
 Although Bandcamp doesn’t pay out for streams of songs, it does make purchasing music super easy — be it for yourself or as a gift for someone else. Their Bandcamp Fridays initiative (during which they waive their revenue share) have also been fantastic for artists. Keep up to date on the next one at [isitbandcampfriday.com](https://isitbandcampfriday.com/).
 
-Although not strictly mu live stream gig functionality is also a great way to get your live music fix while supporting the artists you love. Bandcamp takes a 10% cut for e-tickets - the rest goes straight to the artist. Something to keep in mind during the pandemic and beyond.
+Their [live stream gig functionality](https://bandcamp.com/live) is also a great way to get your live music fix while supporting the artists you love. Bandcamp takes a 10% cut for e-tickets - the rest goes straight to the artist. Something to keep in mind during the pandemic and beyond.
