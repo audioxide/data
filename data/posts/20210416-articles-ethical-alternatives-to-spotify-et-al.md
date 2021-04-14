@@ -7,10 +7,10 @@ tags:
   - music industry
   - spotify
 featuredimage: article-images/spotify-alternatives-featured-image.jpg
-featuredimageAlt: A set of red headphones
-title: Ethical alternatives to Spotify and other major music streaming services
+featuredimageAlt: Illustration of a wooden signpost with boards pointing to different music streaming services
+title: Alternatives to Spotify and other major music streaming services
 author: frederick-obrien
-summary: The big dogs of music streaming aren’t great for musicians, but there are other options out there. Here are services putting artists first (or at least, not dead last)
+summary: The big dogs of music streaming aren’t great for musicians, but there are fairer, more ethical options out there. Here are services putting artists first (or at least, not dead last)
 blurb: The big dogs of music streaming aren’t great for musicians, but there are other options out there. Here are services putting artists first (or at least, not dead last).
 
 ---
@@ -29,9 +29,9 @@ Of course, buy merch if you can, buy records and attend gigs if you can. If you 
 
 Founded in 2016, [Resonate](https://resonate.is/) uses an approach called stream2own, whereby the cost of streams doubles each time until you’ve effectively bought the song and can listen to it as much as you like for no further cost. The thinking here is that users can explore and discover new music without breaking the bank. It’s only once a song hooks you that you really start to fork over the pennies, which seems fair enough.
 
-Uniquely among those mentioned here, Resonate is a cooperative, owned by the people who use it and develop it.
+Uniquely among those mentioned here, [Resonate is a cooperative](https://resonate.is/the-coop/), owned by the people who use it and develop it. Their one member, one share, one vote leaves an especially warm, fuzzy feeling. All the other services described here are private companies that try to behave well, but they’re private companies all the same. Meanwhile, any profits Resonate makes goes to its members.
 
-Resonate is browser-based. There is no app, though you can bookmark the web app on your phone and have much the same experience.
+However, one trade-off of being a cooperative is thtat Resonate does not yet have the resources to build dedicated apps for iOS and Android. It is instead browser-based offering - a web app. That will be a turn-off for some, but the interface is lovely and clean and you can link from your homescreen and have much the same experience as if you’d installed something.
 
 -----
 
@@ -61,10 +61,10 @@ Although SoundCloud stopped short of a guarunteed per-stream royalty rate, this 
 
 ## Bandcamp
 
-![BandCamp music streaming logo](article-images/spotify-alternatives-bandcamp.png "BandCamp logo")
+![BandCamp music streaming logo](article-images/spotify-alternatives-bandcamp.png "Bandcamp logo")
 
-[Bandcamp](https://bandcamp.com/) isn’t exactly a music streaming service, but it’s been so terrific for artists during the pandemic that it more than merits a mention here.
+[Bandcamp](https://bandcamp.com/) isn’t exactly a music streaming service, but it’s been so terrific for artists during the pandemic that it more than merits a mention. A wide range of artists have stores on Bandcamp, selling both music and merchandise. On digital sales Bandcamp takes a 15 percent cut, and for the merch it’s 10 percent. 
 
-A lot of artists have stores on Bandcamp, selling both music and merchandise. On digital sales Bandcamp takes a 15 percent cut, and for the merch it’s 10 percent. Although Bandcamp doesn’t pay out for streams of songs, it does make purchasing music super easy — be it for yourself or as a gift for someone else.
+Although Bandcamp doesn’t pay out for streams of songs, it does make purchasing music super easy — be it for yourself or as a gift for someone else. Their Bandcamp Fridays initiative (during which they waive their revenue share) have also been fantastic for artists. Keep up to date on the next one at [isitbandcampfriday.com](https://isitbandcampfriday.com/).
 
-Keep an eye out for the next Bandcamp Friday, during which artists get 100 percent of the money spent.
+Although not strictly mu live stream gig functionality is also a great way to get your live music fix while supporting the artists you love. Bandcamp takes a 10% cut for e-tickets - the rest goes straight to the artist. Something to keep in mind during the pandemic and beyond.
