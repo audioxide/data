@@ -12,6 +12,8 @@ tags:
   - jefferson airplane
   - oasis
 featuredimage: album-artwork/the-stone-roses-the-stone-roses.jpg
+artworkCredit: was designed by band guitarist John Squire. It was inspired by the Paris riots of May 1968, in which students and workers protested capitalism, consumerism, and other scourges of civilisation. The lemons in the artwork refer to the fruit's usage as a tear gas antidote during the protests.
+artworkCreditSource: https://www.radiox.co.uk/artists/stone-roses/secret-behind-the-stone-roses-debut-album-cover/
 artist: The Stone Roses
 album: The Stone Roses
 essentialtracks:

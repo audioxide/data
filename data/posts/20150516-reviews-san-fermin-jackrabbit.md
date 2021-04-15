@@ -9,6 +9,8 @@ tags:
   - pop
   - art pop
 featuredimage: album-artwork/jackrabbit-san-fermin.jpg
+artworkCredit: was designed by American artist Stephen Halker using pencil and digital painting. ‘I wanted to create a certain amount of dissonance in the rabbit to go along with the structure of the songs,’ he said. ‘Under the superficial layer of dirt and fur, there’s a hidden core of gold. Under the blanket of the mundane, the world is filled with immeasurable wealth.’
+artworkCreditSource: https://stephenhalker.weebly.com/san-fermin-jackrabbit.html
 artist: San Fermin
 album: Jackrabbit
 essentialtracks: ""

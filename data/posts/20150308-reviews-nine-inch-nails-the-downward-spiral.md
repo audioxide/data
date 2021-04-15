@@ -12,6 +12,8 @@ tags:
   - alternative rock
   - metal
 featuredimage: album-artwork/the-downward-spiral-nine-inch-nails.jpg
+artworkCredit: was designed by British collagist Russell Mills, with Trent Reznor asking for art that evoked ‘attrition’ and ‘decay.’ Mills went so far as to use his own blood while making the piece. Talk about commitment.
+artworkCreditSource: https://www.revolvermag.com/culture/nine-inch-nails-downward-spiral-story-behind-cover-art/
 artist: Nine Inch Nails
 album: The Downward Spiral
 essentialtracks: ""

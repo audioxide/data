@@ -12,6 +12,8 @@ tags:
   - psychedelia
   - indie
 featuredimage: album-artwork/bottle-it-in-kurt-vile.jpg
+artworkCredit: was designed by Vile himself. ‘I basically found an old record that I liked and had it morphed and used the wear of that record,’ he said. ‘I wanted it to look used and worn in. I always think things look a little strange, when they’re super crisp and modern.’
+artworkCreditSource: https://www.pastemagazine.com/music/kurt-vile/kurt-vile-talks-through-his-groove-based-new-album/
 artist: Kurt Vile
 album: Bottle It In
 essentialtracks: ""

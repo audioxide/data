@@ -11,6 +11,8 @@ tags:
   - jazz
   - david bowie
 featuredimage: album-artwork/bad-witch-nine-inch-nails.jpg
+artworkCredit: means nothing. No really, that’s the idea. Trent Reznor said he wanted the art direction ‘to feel like shadows on a cave wall and we’re trying to figure out what it is and really there’s no nice, clean, safe scientific explanation... This is dirt and a broken computer chip and everything you believe in is really just bullshit.’ Classic Trent.
+artworkCreditSource: https://www.nin.com/trent-reznor-in-conversation-with-lizzy-goodman/
 artist: Nine Inch nails
 album: Bad Witch
 essentialtracks:

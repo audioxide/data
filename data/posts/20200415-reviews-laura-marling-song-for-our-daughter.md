@@ -12,6 +12,8 @@ tags:
   - neil young
   - pj harvey
 featuredimage: album-artwork/song-for-our-daughter-laura-marling.jpg
+artworkCredit: was shot by Canadian artist Justin Tyler Close.
+artworkCreditSource: https://aah-magazine.co.uk/2020/stunning-folk-artist-laura-marling-returns-with-powerfully-raw-album-song-for-our-daughter/
 artist: Laura Marling
 album: Song for Our Daughter
 essentialtracks:

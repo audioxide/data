@@ -12,6 +12,8 @@ tags:
   - joy division
   - jehnny beth
 featuredimage: album-artwork/ultra-mono-idles.jpg
+artworkCredit: was painted by British artist Russell Oliver, with the concept coming from band frontman Joe Talbot. Oliver recalled that it ‘relates to Joe and the band’s ideal of unconditional love and acceptance for all, including their critics, or political opposition, or for other bands who may have positioned themselves as “rivals” or adversarial. The large pink ball (Joe’s favourite colour) represents this unstoppable and unavoidable ideal of love and acceptance colliding forcefully with such an opponent.’
+artworkCreditSource: https://ourculturemag.com/2020/09/25/russell-oliver-on-creating-the-cover-artwork-for-idles-ultra-mono/
 artist: Idles
 album: Ultra Mono
 essentialtracks: "" 

@@ -9,6 +9,8 @@ tags:
   - alternative rock
   - space rock
 featuredimage: album-artwork/ladies-and-gentlemen-we-are-floating-in-space-spiritualized.jpg
+artworkCredit: was designed by Mark Farrow. Its sterile, minimal aesthetic was made to resemble the packaging of prescription medicine. A 2009 edition of the album went so far as to package the songs in an enormous pill box, each song stored on a three-inch CD in an oversized blister pack.
+artworkCreditSource: https://fontsinuse.com/uses/16203/ladies-and-gentlemen-we-are-floating-in-space
 artist: Spiritualized
 album: Ladies and Gentleman We Are Floating in Space
 essentialtracks:
