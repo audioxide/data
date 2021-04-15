@@ -6,8 +6,6 @@ type: reviews
 tags:
   - 2020s
   - drongo
-  - rock
-  - alternative rock
   - krautrock
   - electronic
   - psychedelia
@@ -45,7 +43,7 @@ artistLink: https://www.drongotheband.com/
 author: andre-dack
 
 review: >-
-  A Drongo is a bird that imitates and manipulates other animals to get what it wants. That is, according to the Norwegian 8-piece band who go by the same name. Drongo channel the characteristics of this special songbird to make whatever music they desire. Their superb debut album, _1_, navigates through krautrock, disco, and afrobeat, whilst also incorporating elements of electronica and noise. It’s an exhilarating amalgamation that makes for one of the most exciting debut records I’ve had the pleasure of listening to.
+  A Drongo is a bird that imitates and manipulates other animals to get what it wants. That is, according to the Norwegian eight-piece band who go by the same name. Drongo channel the characteristics of this special songbird to make whatever music they desire. Their superb debut album, _1_, navigates through krautrock, disco, and afrobeat, whilst also incorporating elements of electronica and noise. It’s an exhilarating amalgamation that makes for one of the most exciting debut records I’ve had the pleasure of listening to.
 
   The music of _1_ moves in passages, with patient build-up segments that rarely outstay their welcome. Song structures seem limitless, yet retain a sense of resolve and cohesiveness. The music ebbs and flows beautifully, locking into irresistible grooves and gradually bending them towards in directions. The way in which tracks progress often reminds me of classic psychedelia, such as Caravan and Gong. _1_ shares a similar sense of adaptability too. It can easily soundtrack your working day, but also provide the perfect setting for a variety of social gatherings. My bet, however, is that it’s best listened to live. Preferably in an intimate venue with like-minded music lovers. Here’s hoping.
 
