@@ -35,7 +35,7 @@ artistLink: https://store.qotsa.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *…Like Clockwork* is a welcome reinvention. The two Queens of the Stone Age records prior to this contained some great moments but were far from accomplished. As a longtime admirer of the band, I had growing concerns that *Songs for the Deaf* was to be their pinnacle work, forever unmatched in a growing discography. Whilst *…Like Clockwork* doesn’t have the special quality that makes *Songs for the Deaf* the hard rock classic it is today, it is a great album that brims with flair and creativity, and ultimately raises the Queens to new heights of relevancy. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s a whole lot to like about *…Like Clockwork*. It’s smart and sexy and revels in knowing it. Although the album draws from a ludicrous pool of talent (ranging wonderfully from the likes of [Trent Reznor](/reviews/nine-inch-nails-bad-witch/) to Elton John), its voice still very much belongs to Josh Homme, who marshals the whole affair with swagger and verve. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Queens of the Stone Age have always set the bar high with their albums, so *…Like Clockwork* had a lot to live up to. One could be forgiven for showing some brief concern at the album’s opener, “Keep Your Eyes Peeled”, which isn’t bad in any sense of the word, but takes its time to pack any punch, opting instead for a moody growl from the bass. Any concern is short lived however, with “I Sat by the Ocean” driving energy into the rest of the album. With a good variety of atmosphere from the likes of “The Vampyre of Time and Memory” and grit from tracks such as “My God is the Sun”, the album continues to surprise and grabs a firm hold on the listeners interest throughout. 

@@ -36,7 +36,7 @@ artistLink: https://kingsroadmerch.com/tom-waits/region/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Tom Waits undeniably has one of the coolest voices in music - his unique delivery will always catch a listener’s attention. I feel that in the case of *Rain Dogs*, the distinctive nature of Waits’ vocals can often carry a song. Is this a testament to such a strong voice, or an indication that some of the songwriting itself is, at times, a little lackluster? It’s an enjoyable album, but one that can feel like a jumbled selection of tracks rather than a complete, cohesive work.
@@ -52,7 +52,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s down, dirty, and very, very human; an album that gets under your skin and taps your toes for you. *Rain Dogs* isn’t for everyone, but if you want to hear what the roots of an urban jungle sound like — in all their sad and messy madness — it’s well worth a listen.
@@ -68,7 +68,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s a really interesting album, and it achieved it’s loose aim of providing a flavour of a city. In having so many different genres and styles of music, it did sometimes feel a bit incoherent, and that didn’t work for me 100% of the time.

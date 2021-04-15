@@ -37,7 +37,7 @@ artistLink: https://sigurros.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The release of Sigur Rós’ sophomore album caused quite a stir in the alternative and experimental music scene, some 20 years ago. Once it landed on UK and US territory in the very early 2000’s, critics were keen to praise in emphatic and dramatic fashion. By this point of course, fans were already sharing *Ágætis byrjun* on message boards — such was the time — but it was clear that something special was brewing. Sigur Rós were, at a point, one of the most crucial bands at the beginning of the 21st century.
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sigur Rós are one of those groups that seems to have been around forever. I’d heard bits and pieces, but this was the first time I sat down and listened to a whole release of theirs all the way through. *Ágætis byrjun* is apparently a critical darling, and it’s obvious why. Hailing from Iceland, there is fittingly something quite glacial about it. The record is icy and immense, yet serene.
@@ -81,7 +81,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Spooky, life-affirming, and elegant are definitive qualities of Sigur Rós. *Ágætis byrjun* feels like the moment where it all fell into place for the band, both for their indomitable uniqueness and the potential for perceived pretentiousness. Enveloped in a sense of folklore, spirituality and reflection, the album is a consistent flow of serenity. Without any sacrifice of consistency, the tranquility is punctuated with resonant string sections, a sharp leap in pitch from the infallibly clean vocals, or a stamp of looming, dread-inspiring piano notes.

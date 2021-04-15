@@ -37,7 +37,7 @@ albumMBID: 4486d356-5ad2-43ec-b9f0-c571eafde4f3
 artistLink: https://kingsofleonshop.com/
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Not long ago, I had the pleasure of reviewing Kings of Leon’s, [_Because of the Times_](/reviews/kings-of-leon-because-of-the-times/). At the time I gave it a 7/10, however, if you sit alongside their new record, _When You See Yourself_, it’s easily an 8 or 9/10.
@@ -60,7 +60,7 @@ tracks:
   - 100,000 People
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Albums like this beg the age-old question: would anybody care if this wasn’t released by **[INSERT NAME OF FAMOUS BAND HERE]**? With _When You See Yourself_ I doubt it, but it’s Kings of Leon so here we all are. What would otherwise be dismissed as pedestrian and aimless appears on magazine covers as ‘evolution’, the sounds of a band ‘exploring’ new ground. All I hear is a band trying — and mostly failing — to justify the decision to keep making music together.
@@ -79,7 +79,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   _When You See Yourself_ sits in a no man’s land of ineffectual indie rock. While there’s nothing egregious here, there’s nothing exceptional either. In fact, far from egregious, there’s some well-performed, well-produced music in this tracklist, but it’s all for nought if it doesn’t grab its listener.

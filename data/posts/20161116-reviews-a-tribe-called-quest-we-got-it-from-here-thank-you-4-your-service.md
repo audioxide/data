@@ -31,7 +31,7 @@ blurb: The record certainly has that classic Tribe vibe, but it lacks the key fi
 artistMBID: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
 albumMBID: b445860f-edd9-4160-841c-fccf5533ecbd
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The awaited return of A Tribe Called Quest is a mild success. *We Got it From Here* was recorded with all founding members, including the [recently deceased Phife Dawg](http://www.rollingstone.com/music/news/a-tribe-called-quests-phife-dawg-dead-at-45-20160323), with contributions from friends old (Busta Rhymes, Consequence) and new ([Kendrick Lamar](/reviews/kendrick-lamar-damn/), Andre 3000). [Jack White](/reviews/jack-white-boarding-house-reach/) is a notable presence, and even Elton John makes an appearance. It has the ingredients to be a triumphant reunion, and yet it never quite reaches its full potential. 
@@ -53,7 +53,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a pretty unique misfire. The songwriting, instrumentation, and performances are super solid, but the production holds them down and smothers them with a wet blanket. Songs sound squashed. The energy implicit in them never reaches my ears. What often ought to be dazzling musicianship sounds totally pedestrian. I can’t stand blunt, compressed production, especially when the music it’s ruining is strong. Listens to this on earphones were particularly grating; inner-ear drones that bestowed tracks like “Solid Wall of Sound” with a highly unwelcome irony. 
@@ -72,7 +72,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A Tribe Called Quest haven’t released a studio album since 1998, so the anticipation for *We Got It from Here*, their latest and final album, was understandably high. Right from the opening track “The Space Program”, the vocal delivery goes down very smoothly, sitting on top of similarly smooth instrumental that glides along effortlessly. It all feels fresh while maintaining a style that feels synonymous with the ’90s, with seamless transitions between each vocalist and verse and instrumentals that, for the most part, explore and evolve in each track. It’s all very glossy, and it feels like the gloss has been introduced in the production. 

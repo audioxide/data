@@ -33,7 +33,7 @@ artistLink: https://store.universalmusic.com/PiL/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Simultaneously slick and silly in its alternative rock/dance fusion, *9* is a peculiar record. The instrumentation is unapologetically ’80s, but certainly entertaining enough to look past some of the generic tropes that were so common during that decade. 
@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Although Public Image Ltd have more celebrated works in their catalogue than *9*, I’ve always thought the record got a rough deal. Released in the tail-end of PiL’s first stint, oozing a thick ’80s sound, and with the trademark John Lydon wails barrelling along merrily throughout, one can understand why the album didn’t garner a great deal of contemporary critical affection. 
@@ -73,7 +73,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Maybe it’s because I’ve come to Public Image Ltd’s *9* without any prior listening of their previous material, and with only a brief foray into any of John Lydon’s music, but I find the album hard to approach. With a signature, wild vocal style, Lydon clearly never attempts to pander to his listeners, and in doing so he is a clear influence for frontmen that followed him throughout the ’80s ’90s, but in *9* it can feel a little hit and miss, feeling like a detractor rather than an addition to some tracks. 

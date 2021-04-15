@@ -34,7 +34,7 @@ albumMBID: f4174531-b783-3786-b75f-4fe61a8f6333
 artistLink: https://neilyoung.warnerrecords.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   *On The Beach* is perfect for those late nights alone, where the further you venture into the album, the more poignant the evening feels. Both mellow and despondent, the record features the purest of songwriting from a genuine artist, flowing gracefully from start to finish. 
@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   As is often the case with my favourite albums, when I try to articulate my admiration I flounder pretty hard. In my mind, *On the Beach* is Neil Young’s finest work, and as our discussion testified to its quality often defies description. 
@@ -72,7 +72,7 @@ score:
   fraction: 1
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *On The Beach* provides for a relaxing, positive listen at a cursory glance. Natural production and a variety of folk and rock instrumentation make for an album that rises and falls at a great pace. The tracklist is well structured, the lyrics catch your attention; a good album on paper. 

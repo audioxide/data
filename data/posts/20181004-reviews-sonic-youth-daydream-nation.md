@@ -37,7 +37,7 @@ artistLink: https://sonicyouth.kungfustore.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Sonic Youth’s fifth studio album, *Daydream Nation,* celebrates its 30th anniversary this month; a sprawling work that has served as a major influence for many of today’s finest acts working in alternative and indie rock. Noisy avant-rock with cathartic vocals and bold, punkish statements is usually an instant win for me, but connecting with the record in any meaningful way has proven difficult for me. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Once upon a time, the hunched and hairy fella in the middle of [evolution-of-man diagrams](https://en.wikipedia.org/wiki/March_of_Progress) was the most advanced lifeform around. Today, he looks rather unkempt and probably smells dreadful. That’s been my experience of *Daydream Nation*, an album that looms large over so much music I hold dear. It sounds like an stepping stone for better versions of itself. 
@@ -83,7 +83,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Daydream Nation* falls into a blind spot of mine. Adored by fans, met with critical acclaim, and influencing its successors, I feel like I must be missing something here. There’s certainly nothing to hate on this tracklist by any means. “Teen Age Riot” is a solid opening to proceedings, bringing with it a memorable chord progression from thickly toned guitars, and “The Sprawl” starts as a brooding canter that simmers into whirling noise in its second half. Later on, “Eric’s Trip” is another driving force that has glimmers of rock from the decade before, and “Candle” takes a total diversion with cleaner, twinkling guitars in tow.

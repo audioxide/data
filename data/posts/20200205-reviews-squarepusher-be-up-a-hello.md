@@ -37,7 +37,7 @@ artistLink: https://squarepusher.net/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Be Up A Hello* feels like an earnest love letter; gratifying fan service that pays tribute to one of Tom Jenkinson’s dear friends who had recently passed, an incident that ultimately served as inspiration. Opening track “Oberlove” is as emotionally forceful as drum ‘n’ bass could ever hope to be, and the album artwork itself is just one big stylised heart. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I feel like a broken record at this point. Whenever we listen to albums like this we each say more or the less the same things as we did the time before, because the music is more or the less the same as it was the time before. *Be Up A Hello* is a playful, frenetic addition to Squarepusher’s discography. The beats glitch around all over the place and synth effects keep it from being overly abrasive. If you like Squarepusher, you’ll like the album, because it’s exactly what you’d expect. If you go in cold you’ll remain so for the same reason.
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been five years since [*Damogen Furies*](/reviews/squarepusher-damogen-furies/) slapped us across the face with its frenetic fizz of drum-heavy electronica. At the time I sheepishly proposed that the album might not ‘give the listener much of a break.’ With that thought in the back of my mind, I dived into *Be Up A Hello* a smidge cautious.

@@ -36,7 +36,7 @@ artistLink: https://spiritualized.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *And Nothing Hurt* is, unquestionably, a Spiritualized album. That alone will determine how much enjoyment you get from it. Jason Pierce has this sound down to a tee, and it’s more than pleasant enough to drift in and out of. There’s no doubting the quality of his songwriting, the construct of the arrangements, and the heartfelt poetry. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Spiritualized was one of the first artists we ever reviewed here, and in the years since nothing has quite compared to their sound. The spacious-yet-intricate intimacy of [*Ladies and Gentlemen We Are Floating in Space*](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/) still holds up as a ‘90s high water mark. Today, over 20 years later, Jason Pierce is still sending transmissions from the stars. Are they as urgent as those he’s sent before? As essential? No. Will they please fans? I expect so. The line between rut and groove can blur on projects like this. More of the same can be both a blessing and a curse.
@@ -79,7 +79,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There are all the hallmarks of a Spiritualized album in *And Nothing Hurt*. Jason Pierce’s comforting vocals are accompanied by a plethora of other-worldly leads and pads, alongside horns and strings, which contribute to warm lush instrumentals. You’ll find tracks that break down into satisfying jams and dreamy moments of piano which fall between each beat. But as much as I’ve tried to love *And Nothing Hurt*, I can’t help but feel like I’ve been here before.

@@ -36,7 +36,7 @@ artistLink: https://store.gorillaz.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Having not listened to *Demon Days* for a good number of years now, I’ve relished coming back to this one. Albarn collaborates with a wide variety of artists, and in doing so deserves enormous credit for sculpturing such a cohesive, accessible record — ten years on and it’s still very impressive how, with all the stylistic twists and turns, the album remains consistent enough to create such a unified package. Attached with plenty of nostalgia, *Demon Days* is an extremely enjoyable listen and undoubtedly the most complete [Gorillaz](/reviews/gorillaz-plastic-beach/) release to date.
@@ -52,7 +52,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s excellent; a cartoonish odyssey bristling with creative energy. The whimsy of the band’s debut album is toned down, and what emerges in its stead is a biting sombreness very much of the 21st century. It’s eclectic in the very best sense of the word. 
@@ -70,7 +70,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having never listened to this album as a full album, I realised just how many tracks I bought individually and loved. It’s a real testament to how varied and strong the album is. The instrumentation and the subtle but interesting beats throughout give each track depth without detracting from the accessibility of the album as a whole. 

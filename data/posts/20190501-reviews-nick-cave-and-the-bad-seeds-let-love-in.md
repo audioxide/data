@@ -35,7 +35,7 @@ artistLink: https://store.nickcave.com/
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   The Nick Cave & The Bad Seeds catalogue is a tricky one to infiltrate. It speaks volumes about the quality and diversity of the musical output that, when prompted as to which is the best, fans often point to a good handful of records. Whilst *The Boatman’s Call* is a magical album, I’d instead recommend *Let Love In* as an entry album for new listeners. It’s a striking and visual record that captures everything that Nick Cave is all about. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Let Love In* is a bit of a voodoo album. Lots of strange, unexpected things go in, and from the resultant puff of red smoke a magical and slightly spooky figure steps out. The ever broody Nick Cave takes centre stage of course, almost to the point of hogging the spotlight, but there’s a lot going on around him. That’s what makes the album truly shine.
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   I am by no means a seasoned Nick Cave listener, not least of all due to his (and his Bad Seeds) extensive back catalogue stretching almost 40 years. However, *Let Love In* is as good a place to start as any. It may be the most well-rounded listening experience for any new listeners as it exemplifies Nick Cave’s vocals and lyrics whilst also varying its influences and sounds from song to song.

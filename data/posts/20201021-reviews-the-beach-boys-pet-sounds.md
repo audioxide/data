@@ -37,7 +37,7 @@ artistLink: https://shop.thebeachboys.com
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   *Pet Sounds* is very good. Stop the presses. The Beach Boys’ beloved 1966 classic gives you a warm and fuzzy feeling that very few records can match. The harmonies are wonderful, the instrumentation is charming, and, well, everything just sounds rather bloody marvellous. There’s a lot to love, and little to dislike. Is it as extraordinary as so often cited? Perhaps not. Is it as adventurous or outright interesting as other Beach Boys records? I would say certainly not. 
@@ -60,7 +60,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I didn’t remember *Pet Sounds* feeling like such a transitional album. Although the music has moved on from the chummy surfer rock of the Beach Boys’ formative years, it hasn’t yet arrived at the harmony-filled halls of Brian Wilson’s imagination. It’s caught in the middle. Man-child music. 
@@ -81,7 +81,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   While I often have a touch of lyrical deafness, *Pet Sounds* gives me a real flare-up and, at the risk of sounding like a crotchety senior citizen, I think that might be because there are a lot of sweet-nothings and good feeling and not a lot more.

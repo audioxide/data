@@ -37,7 +37,7 @@ artistLink: https://bleep.com/artist/78-boards-of-canada
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Music has the Right to Children* is ultimate background listening. I mean that in the most tremendous way possible. It functions exquisitely when you are listening intently, and when you are not. Boards of Canada’s debut record is so fluently splendid that it can be difficult to explain exactly why. It’s a milestone of electronic music for good reason. Never before had music of this aesthetic felt so organic, so human. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Some things are so well made that they make you appreciate the senses you use to experience them. A perfectly seasoned meal tickles taste buds you didn’t know existed; the right painting leaves you marvelling at the possibilities of colour and texture almost as much as at the painting itself; and a certain class of album delights by showcasing the breadth of sounds we’re capable of hearing. *Music Has the Right to Children* is one of those albums. If not always affecting, it’s unquestionably always stimulating. The production/vibe combo is too good not to engage with. It’s meticulous, assured, and completely under control. There are no soaring melodies or irresistible hooks here. They’re unnecessary. Instead, every moment is the sum of a thousand tiny polished parts.
@@ -79,7 +79,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Boards of Canada make brilliant background music, and I say that as a statement of praise rather than disparagement. Ordinarily I’d use the term ‘background music’ to refer to something that vaguely sounds pleasant, remaining inoffensive and enjoyable to listen to for most of its length, but Boards of Canada do something different. They manage to produce music that develops slowly and is happy to sit in the background, while still remaining engaging, innovative and interesting throughout. *Music Has the Right to Children* is an excellent example of this too, and it easily does enough to hold a listeners attention throughout. 

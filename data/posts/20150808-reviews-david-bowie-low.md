@@ -37,7 +37,7 @@ albumMBID: f6a51281-56c4-3538-b915-65a9d4eb29b5
 artistLink: https://store.davidbowie.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   In alliance with Tony Visconti and [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/), Bowie achieved a striking balance on *Low*, an equilibrium uncovered between the experimentation of avant-garde electronic music and the melodic sensibilities of pop and glam-rock that Bowie was already familiar with. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It is an absolute pleasure listening to *Low*. Written and produced in the midst of Bowie’s come-down from cocaine addiction, the album is infused with a gentle clarity that you’re not conditioned to expect from much of his work. Although its depth of sound is rightly renowned and celebrated, the precise measure and care with which it is pieced together is what elevates it above much of Bowie’s works before and since. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   If any album were going to remind the digital music listener that one used to be required to switch sides in the middle of the album, *Low* would probably be a pretty good contender. The first side is an expected, well formed (if slightly hurried) '70s pop album and the second is made up of four widely contrasting soundscapes. 

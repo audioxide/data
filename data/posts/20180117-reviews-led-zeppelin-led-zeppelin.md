@@ -34,7 +34,7 @@ artistLink: https://store.ledzeppelin.com/
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   From the outset of their debut, Led Zeppelin’s sheer creativity and willingness to experiment are there for all to see. Page’s excitable fingers dance across his fretboard while Bonham bends his way through a multitude of tempos without once losing a sense of charging rhythm, and Plant’s vocals echo through their famously airy production as though his voice has taken some physical form to glide through the imagined room of each track. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Led Zeppelin’s debut album isn’t their best, but there’s no shame in that. I like it when discographies have a record where you can hear the pieces coming together. There’s no buzz quite like it. Recorded in a day and half’s worth of studio time, *Led Zeppelin* unsurprisingly feels like bottled lightning, though not *quite* as electric. (Sorry.) 
@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s a rare occurrence to hear such a confident debut from a band. While it’s by no means free from rough edges, Led Zepplin’s eponymous debut delivers some of the band’s most critically acclaimed tracks. Despite the release being panned at the time, the album’s opening minutes feature some stonking guitar work across both “Good Times Bad Times” and “Babe I’m Gonna Leave You”, and Robert Plant’s vocals certainly hold their own here too. 

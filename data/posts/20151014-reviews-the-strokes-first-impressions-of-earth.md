@@ -34,7 +34,7 @@ artistLink: https://shop.thestrokes.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   ‘We could drag it out, but that’s for other bands to do,’ Julian Casablancas slurs on “Ask Me Anything,” a sentiment that has been communally endorsed since 2001’s *Is This It?*, an album so refined, so effortlessly sophisticated in its flow and structure, that it became a crucial root in the rebirth of garage/indie rock. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *First Impressions of Earth* is a model misunderstood album; flawed, overdrawn, deserving of a good deal of its harsh reviews, and yet still host to a unique and worthwhile character. The Strokes’ 2006 release, embracing the essence of its name, comes across like an unvetted first draft. It is tremendously raw. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *First Impressions of Earth* got a lukewarm response on its release, and one could be forgiven for this having been spoilt by the band’s critically acclaimed debut and follow up albums, the latter of which was mainly criticised for being too similar to the former. The Strokes had a lot to live up to with their third album, being both different while still worthy of taglines as hyperbolic as ‘the stuff of which legends are made.’ 

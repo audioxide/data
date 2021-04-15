@@ -36,7 +36,7 @@ artistLink: https://www.musicglue.com/sophie-shop/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I’ve been waiting for SOPHIE’s debut album for quite some time now, having immensely enjoyed a selection of her singles over the years, namely [“Bipp”](https://www.youtube.com/watch?v=MVc3Z-bG6Eo), [“Lemonade”](https://www.youtube.com/watch?v=LdLvp630plc), and [“Ponyboy”](https://www.youtube.com/watch?v=uERIXLWeik0). Anticipation grew into genuine excitement after the release of [“Faceshopping”](https://www.youtube.com/watch?v=es9-P1SOeHU), an enthralling post-industrial banger, equipped with a scalp-burning beat that I still can’t get enough of. For me, it remains SOPHIE’s greatest track. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 review: >-
   <center><iframe src="https://gifer.com/embed/S2A7" width="480" height="192.000" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
@@ -71,7 +71,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   SOPHIE’s debut album is a testament to her skilled production and experimentation with electronic, dance, and pop music. Fans of the twisted, distorted, sub-drenched instrumentals from her 2015 compilation *PRODUCT* and from the lead singles to this release won’t be disappointed, with the likes of “Not Okay” and “Pretending” adding to the showcase alongside the nine-minute-epic that closes the album. 

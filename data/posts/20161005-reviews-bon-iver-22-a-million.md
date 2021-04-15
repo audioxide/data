@@ -38,7 +38,7 @@ artistLink: https://store.boniver.org/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *22, A Million* feels like a nondescript blur. It doesn’t deal in structure, but in loose clusters of peculiar sounds and imperceptible words. Melodies come in sketches, and hooks are a curious rarity. Arrangements are frequently muddled, often to the point of obscurity. It’s a type of elusiveness that isn’t so much rewarding as it is mundane. *22, A Million* is an unnecessarily complicated record: overly processed vocals, chopped-up lyrics, and saturated samples are the prime focus, overruling any instance of decent songwriting that you’d usually come to expect from Bon Iver. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   &#9857;&#9857;&#9856;&#9857;&#9857;&#9857;&#9857;&#9857;&#9857;&#9858;&#9857;&#9857;&#9857;&#9860;&#9857;&#9857;&#9857;&#9859;&#9859;&#9857;&#9857;&#9857;&#9857;&#9857;.
@@ -85,7 +85,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I guess my recurring question when discussing this album is, ‘Why?’. Why are the track titles named in the style of a quirky EDM outfit? Why has someone thrown all the effects in their rack at most of tracks? (I thought I had a dodgy connection for the first couple.) Why have Justin Vernon’s already strong, soulful vocals been drenched in enough autotune to make even Kanye blush? Why don’t I ‘get’ this release like the rest of the Internet does? 

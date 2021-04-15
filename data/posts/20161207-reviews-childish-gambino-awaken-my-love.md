@@ -36,7 +36,7 @@ artistLink: https://shop.childishgambino.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Notoriously known for his comedic charisma and kooky personality, Donald Glover is one super-popular individual. His tally of talents is indisputable, and he will likely enjoy a long, prosperous career in the entertainment industry. However, whilst his work as an actor is generally celebrated, Glover’s musical career hasn’t seen the same rate of success. Childish Gambino is popular, no question, but his records have hardly hit universal acclaim. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *“Awaken, My Love!”* alternates between being enjoyable and a massive windup. Childish Gambino, I’m told, has trod new musical ground with this release, and in terms of instrumentation and production I like it. The album boasts a lush, colourful sound, drawing from elements of funk and soul to create an impressively modern vibe. Structure and delivery is where it all falls down. Even at its best the album is like watching *Hamlet* performed by Kermit the Frog. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *“Awaken, My Love!”* has grown on me for sure, but I’m certainly not fawning over it. What I’ve become most attached to are the instrumentals: oozing funk and soul, they certainly fall in line with one of my preferred trends of this year, drawing from influences of decades past while also adding in modern day synths and effects to freshen the sound. Single “Redbone” and opener “Me and Your Mama” in particular have warm, indulgent instrumental arrangements that have kept me coming back in isolation. The first half of the tracklist generally does well in this respect, while the second half feels slightly sparser, concentrating more on the vocals. 

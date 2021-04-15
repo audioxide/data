@@ -39,7 +39,7 @@ artistLink: https://www.grandaddymusic.com/store
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Another year, another [comeback](/reviews/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service/) [album](/reviews/blur-the-magic-whip/). A little over a decade after disbanding, Grandaddy return with what is, thankfully, a Grandaddy album. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   It’s tempting to simply exalt *Last Place* for being an actual, legitimate, bona-fide Grandaddy record, because *holy shit it’s an actual, legitimate, bona-fide Grandaddy record*. I’d love to just skip around and rhapsodize about how it’s not some ersatz approximation that kind of, sort of *sounds like* Grandaddy’s woozy, bittersweet brand of indie-rock, and about how much of a relief this is. We are, however, talking about a band that has only recently returned from a lengthy hiatus, so I appreciate that such statements cannot stand on their own, because what the fuck *is* a Grandaddy record, anyway? 
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Sometimes it’s nice to listen to an album that one doesn’t need to rip apart. *Last Place* is everything I expected from a Grandaddy album and just a little more. Opening with a strong ten minutes of mid-tempo fuzz and catchy lead riffs alongside Jason Lytle’s smooth, complementary vocals, the album draws in its listener. Then, signalling a change of pace, “Oh She Deleter”, a bubbling, sci-fi interlude, elegantly tees up “The Boat is in the Barn”, an entrancing slow jam reminiscent of [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/)’s “Comfortably numb”. 

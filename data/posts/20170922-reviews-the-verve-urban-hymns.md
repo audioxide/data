@@ -37,7 +37,7 @@ artistLink: https://www.merchbar.com/rock-alternative/verve
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Before the remarkable rise to fame and fortune, Richard Ashcroft earned the nickname ‘Mad Richard’ from the UK press, following numerous fascinating, often bizarre quotes. One such quote, taken way back in 1993, was particularly striking: ‘I can name you 50 bands who are doing OK now and in two years they will be forgotten’, said Ashcroft. ‘History will forget them. But history has a place for us. It may take three albums but we will be there’. As it turns out, ‘Mad Richard’ wasn’t so mad after all. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If Britpop was the party, brimming with pomp and groove, *Urban Hymns* was surely its hangover. The record is a proper dark night of the northern soul — a tattered, vulnerable epic. The Verve’s seminal work sits snugly in a space between softness and dynamism, bringing uncomfortably numb sensations to the fore. 
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Urban Hymns* doesn’t quite feel like an album of the heady ’90s. It adds a touch of maturity and a dollop of reflection into the rasp of the decade’s earlier rock. Few Britpop albums before it would have been able to open with a track like “Bitter Sweet Symphony” without hobbling the remainder of the tracklist, and while an amazing track, *Urban Hymns*’ opener doesn’t overshadow the likes of “The Drugs Don’t Work”, a multi-faceted, personal, sentimental ballad, or “Catching The Butterfly” which follows it with a dreamy, soft-edged haze. 

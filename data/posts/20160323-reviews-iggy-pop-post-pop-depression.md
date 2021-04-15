@@ -35,7 +35,7 @@ artistLink: https://shop.postpopdepression.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Old age must be a surreal reality for rock stars, particularly those as conspicuous as Iggy Pop. As his relevance decreases, lingering sensations of the glory days develop into recollections that are as painful as they are joyous. Exploring such bittersweet reflections has required some assistance in the form of Joshua Homme, who leaves his footprints all over *Post Pop Depression*. It’s more akin to projects like Them Crooked Vultures than it is to a [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) release — though disappointingly, this is as rewarding as neither. 
@@ -53,7 +53,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I’ve never been sure what to make of Iggy Pop. He’s a supreme symbol of rock and roll, and rightly so, but he doesn’t strike me as a terribly potent artist on his own. I tend to see him more as a muse than as a creator, and *Post Pop Depression* does little to dispel that notion. 
@@ -73,7 +73,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   *Post Pop Depression* certainly piqued my interest when we selected it and it’s received a lot of praise from others. From the opener, “Break Into Your Heart”, it’s clear that Josh Homme has had a hand in this, with a familiar guitar tone and pace to the track, and a riff that wouldn’t be out of place on a track from Queen of the Stone Age’s [*...Like Clockwork*](/reviews/queens-of-the-stone-age-like-clockwork/). Other tracks throughout the release can definitely be painted with a similar brush too, and while I’ve no objection to this, I sometimes have to remind myself that it’s Iggy Pop’s name sitting on the album cover, and not Josh Homme’s. 
   

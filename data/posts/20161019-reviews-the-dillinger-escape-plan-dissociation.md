@@ -41,7 +41,7 @@ artistLink: https://store.relapse.com/b/the-dillinger-escape-plan
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Due to the sheer lack of any standout hard-rock record, *Dissociation* is a crucial shot in the arm for 2016. The Dillinger Escape Plan construct an album that is gloriously punishing, beating listeners into a meditative, almost coma-like state. The severity that derives from the combination of Greg Puciato’s visceral vocals and the band’s jittery playing will strike terror into the hearts of many — but rest assured, there’s great excitement to be had from the brutality. 
@@ -63,7 +63,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The Dillinger Escape Plan’s final album exemplifies my strained relationship with x-core music. *Dissociation* is intelligent, deliberate, and utterly punishing. Furious metal rackets trade blows with soft, elegant jazz fusion and string arrangements, and the whole exchange is gorgeous and horrible at the same time. 
@@ -82,7 +82,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This album is certainly no walk in the park. The final release from The Dillinger Escape Plan sends the listener into a clattering, raucous, driving rollercoaster ride from the off, throwing the tempo around like a rag doll. Sudden changes appear from out of nowhere throughout the album, with diversions like “Fugue” appearing just as the listener settles into the tone set by the first 15 minutes of listening, before being unseated again by “Low Feels Blvd” which follows. This does well to agitate and unsettle the listener, which surely can’t be a mistake on the band’s part, but also never leaves ideas to hang about for too long (not that they feel underdeveloped). 

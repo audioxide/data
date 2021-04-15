@@ -13,7 +13,7 @@ featuredimage: article-images/anders-filipsen-portrait.jpg
 featuredimageAlt: Photograph of Danish composer Anders Filipsen
 title: Anders Filipsen channels Brian Eno and C418 in solo debut ‘Waiting Music’
 summary: Few people whinge about electronic music more than I do, but when the genre lands it truly is majestic. Danish composer Anders Filipsen delivers something serene and uncannily innocent in this record
-author: fred
+author: frederick-obrien
 blurb: Danish composer Anders Filipsen delivers something serene and uncannily innocent, bringing a playfulness to his sweeping ambient soundscapes. 
 
 ---

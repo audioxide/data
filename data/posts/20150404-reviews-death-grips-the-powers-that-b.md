@@ -36,7 +36,7 @@ artistLink: https://deathgripsshop.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   I certainly enjoy *The Powers That B*, but I unfortunately see no need for it to be a double album; the two discs contrast stylistically and in fluidity. More importantly though, one side does not enhance the other, and with its overall length of 80 minutes you have to question if this is detrimental to the record as a whole. It doesn’t stop you from appreciating both sides separately, but it does affect the overall cohesiveness. Another shot of adrenaline from Death Grips then, as you would expect, but it’s likely that I’ll proceed to consider *The Powers That B* as a release that contains two good albums with very little relation between them.
@@ -52,7 +52,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s a headful, but I like it. ‘Fucking crazy’ seemed to be my go-to description in our discussion, and I think I’ll stick with that. It’s fucking crazy. Sometimes it’s wonderful, but mostly fucking crazy. There should always be a place for that. The two sides seemingly have nothing to do with each other, but I suppose that might stem from the fact that the whole affair is fucking crazy. Well worth a listen, though that approval comes with the caveat that the two halves be treated as different albums.
@@ -68,7 +68,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >- 
   The two discs don’t bear much relation to each other, that’s my main gripe here. However, as with a lot of Death Grips’ output, a lot of it seems like it shouldn’t work. It’s just such a huge, crazy wall of sound, and that certainly makes for an exhausting listen, and yet it works well despite it all. There’s a lot more instrumentational exploration here too, which I certainly welcome, though I think I very slightly prefer the latter disc. Such a huge album means I will definitely be returning to this, and some of the catchier tracks will be getting more listens in the coming weeks! As an added, completely irrelevant bonus: some of those track names are brilliant!

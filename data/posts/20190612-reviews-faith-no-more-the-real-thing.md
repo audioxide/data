@@ -34,7 +34,7 @@ artistLink: https://faithnomore.shopfirebrand.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Real Thing* turns 30 this month, and yet I still don’t know what to make of it. In terms of style, substance, and general quality, it’s absolutely all over the place. I would guardedly describe it as a journey of funky new wave rap-metal, and if that depiction sounds ridiculous… well that’s because it is.
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I don’t understand *The Real Thing* and I don’t expect I ever will. It is so many things. It is metal, it is hip hop, it is big band jazz and shimmering synthesisers and the last act of a dazzling musical nobody asked for. The record is like some thunderous neon trainwreck, a fireball in all colours of the rainbow. You don’t know whether to be awed or baffled or both. I like it.
@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Real Thing* has me perplexed. Equal parts bombastic and cringeworthy and catchy, I’m unsure where to begin. But the inclusion of rock-rap, death metal screams and washes of bluesy organ all on one tracklist might just give you a hint of the cacophony of sound that comes out of this record.

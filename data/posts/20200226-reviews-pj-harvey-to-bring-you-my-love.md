@@ -46,7 +46,7 @@ artistLink: https://pjharvey.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   There was no shortage of moody alternative music in the ’90s. Grunge propelled itself to the mainstream in the USA, with [Nirvana](/reviews/nirvana-in-utero/), [Smashing Pumpkins](/reviews/the-smashing-pumpkins-gish/), and [Soundgarden](/reviews/soundgarden-superunknown/) all flying the angsty flag of melancholy, whilst [Nine Inch Nails](/reviews/nine-inch-nails-pretty-hate-machine/) and [Marilyn Manson](/reviews/marilyn-manson-heaven-upside-down/) were working on providing an essential dose of nihilistic despair for the most miserable of music listeners.
@@ -70,7 +70,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If [*Let England Shake*](/reviews/pj-harvey-let-england-shake/) is PJ Harvey’s ethereal peak (it is) then *To Bring You My Love* showcases the best of her voodoo depths. Light and shade and all that. From start to finish the album is like wading through swampland. The guitar on tracks like “Working for the Man” are enough to make your skin crawl, and if that doesn’t do the trick then Harvey’s whisper-in-your-ear vocals will likely send you over the top. The songwriting is water tight, but it’s the delivery that gives *To Bring You My Love* its black magic.
@@ -90,7 +90,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *To Bring You My Love* regularly feels like an encapsulation of every ’90s alt rock quirk, jumping between instrumental styles and song structures with an assured blues-heavy vision. Despite evoking such a specific moment in popular rock, it’s far more than a time capsule or an homage to other acts of the day. PJ Harvey carries the air of an artist who’s setting the tone rather than playing to it, and the boundless personality she injects into every track ensures that the varied style never feels scattershot.

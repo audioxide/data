@@ -42,7 +42,7 @@ artistLink: http://www.katebush.com/shop
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Very few albums evoke the sense of mystery and wonder like Kate Bush’s *Hounds of Love*. The music is beautifully dramatic, like a howling wind moving ferociously through a magical landscape. Despite its quirks, the record retains a level of accessibility that keeps it well within the territory of pop. There’s a lofty concept behind the albums structure — the weight and meaning of its two sides — but Bush rarely lets the music slip away from pop arrangements. There’s a direct purpose behind every move, even if the execution isn’t always flawless. 
@@ -66,7 +66,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Hounds of Love* travels to the outer reaches of pop, and it often feels like it does so simply out of curiosity. Bush’s first four albums were a whirlwind, released in quick succession and with near-furious creative energy. In *Hounds* there’s a clear sense of someone stepping back, breathing in, and trying something extraordinary. 
@@ -88,7 +88,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s hard to discern, as a modern listener, whether pop music was hitting its stride, running wild with musical experimentation, or simply striving to be more interesting, but *Hounds of Love* delivers a striking sound which is full to the brim with character. 

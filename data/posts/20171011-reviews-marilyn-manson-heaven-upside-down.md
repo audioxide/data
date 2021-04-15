@@ -36,7 +36,7 @@ artistLink: https://www.marilynmanson.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   When I declare myself a Marilyn Manson fan, I feel obliged to elaborate instantaneously: I’m a fan of the fierce imagery and fulfilling escapism of the [Antichrist Superstar](https://www.youtube.com/watch?v=aXcoXBdM_uw), *not* the [Born Villain](https://www.youtube.com/watch?v=JY_QVaTZOq0) who, frankly, sounded like he was trying to convince himself as much as anyone else. The whole process is a nuisance, let me tell you, though it’s starting to feel less humiliating nowadays. Manson has just released his tenth studio album, and whilst it doesn’t really come close to his best work, it’s still far better than most of Manson’s miserable material of the 2000s.
@@ -57,7 +57,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I tend to admire Marilyn Manson more for his imagery than his music, so it’s been interesting to have the former fairly absent on *Heaven Upside Down*. Manson has a gift for palatable industrial music, but I don’t think I care for it much here. It’s well mixed and Manson’s delivery is excellent, but it never truly gets its talons in — not that it has talons. 
@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Manson’s music has always lived within the visual. From the man himself, to the stage sets, to the guitar pedal boards, they permeate each other. And often with excellent consequences. Like [Bowie](/reviews/david-bowie-hunky-dory) innovated before him, he has an incredible ability to slip into personas and create records that are unified in their harmonic dissonance. Albums like *Mechanical Animals*, *Golden Age of Grotesque*, and even his most recent record *The Pale Emperor* do this in spades. This is where *Heaven Upside Down* falls down.

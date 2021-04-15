@@ -35,7 +35,7 @@ artistLink: https://store.universalmusic.com/thecure/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Disintegration* remains a melancholic wonder after all these years. The Cure have a reputation for being bleak and depressive, but this couldn’t be further from the truth. Robert Smith creates music that is designed to make listeners feel a range of emotions that revolve around love, lust and loss — feelings and sentiments that can be experienced from adolescence, through teenage-hood, to the latter years of life. It’s extremely affecting music. *Disintegration* sustains an atmosphere that is gloomy, yet thoroughly gorgeous. It somehow manages to feel both claustrophobic and seductive.
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I have no previous experience with The Cure. I’d heard of them of course, but never taken the time to properly listen. This was a lovely album to come into blind. I had no idea what to expect and it still managed to surprise me. *Disintegration* is a vivid, dreamlike record, and it’s not far off being stunning.
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having spent most of my week humming the hooks of at least three stand-out tracks on *Disintegration*, it’d be hard for me to deny how much I’ve enjoyed my time with it, at least in part. While the album might’ve been intended to be full of murkiness and depression, you might not need to prepare yourself for 70 minutes of sombre sadness.

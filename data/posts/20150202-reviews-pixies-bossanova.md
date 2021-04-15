@@ -35,7 +35,7 @@ artistLink: https://pixies.kontraband.store/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Without the raw energy of *Surfer Rosa* and cohesiveness of [*Doolittle*](/reviews/pixies-doolittle/), *Bossanova* is simply a solid album from a remarkable band. By no means their best work, but an enjoyable listen nonetheless (even if a few tracks do drift by).
@@ -51,7 +51,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I found a lot of *Bossanova* to be quite forgettable. There is a handful of good tracks, but the album as a whole fails to build up a head of steam. It isn’t bad by any means, though, and certainly merits a listen.
@@ -67,7 +67,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Really my first proper introduction to Pixies and I really enjoyed it. If nothing else there are some amazingly catchy guitar riffs.

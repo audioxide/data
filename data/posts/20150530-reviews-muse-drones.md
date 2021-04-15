@@ -36,7 +36,7 @@ artistLink: https://store.muse.mu/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In an all too predictable state of affairs, *Drones* is a bit of a mess. Whilst it’s more focused than the bands’ previous effort *The 2nd Law*, it’s just as inconsistent and makes for a frustrating listen. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   In keeping with the album’s spirit of ham-fisted posturing, I look to Oscar Wilde for a profound and enlightening quote of some kind or other. ‘In this world,’ apparently, ‘there are only two tragedies. One is not getting what one wants, and the other is getting it.’ Therein lies the problem with *Drones*; it’s the full tragedy package. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Muse’s latest release poses a dilemma when trying to concisely review it. The first third sounds like the standard of Muse album that we’ve heard from the last releases, and that I’ve largely not taken much notice of; the second third makes me forget all my cynicism as I enjoy some of the best output from the band in a long time, and then I’m brought back down to earth in despair and confusion as the final third takes over; incoherency, faux neoclassicism and all. 

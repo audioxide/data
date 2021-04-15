@@ -36,7 +36,7 @@ artistLink: https://weezerwebstore.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   A key part of what makes Weezer’s early albums so enjoyable is the sincerity of the music. They avoided the bullshit fallacies that other alt-rock pretenders were so keen to churn out, and did so without even thinking about it. Rivers Cuomo was merely an awkward bedroom poet with an ongoing infatuation for metal guitar solos, and these personal traits somehow became key ingredients when creating quirky power pop. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Feeding off a host of tangled, damaged, and gritty rock influences from the late ’80s and early ’90s, Weezer’s debut album is a really lovely reminder that rock bands don’t need to be tangled, damaged, and gritty to sound great. Clean-cut and pleasantly neurotic, *The Blue Album* shuffles in and winds up rocking out pretty flawlessly. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Weezer’s debut was released alongside many similar bands at the time, but it seems they’ve found success in outlasting the majority, as well as producing an album that has aged well. *The Blue Album* is, without doubt, a signature ’90s album, but where many albums of the time now sound stale, cheesy, or simply cringe-inducing, Weezer’s eponymous debut manages to avoid all of those pitfalls. 

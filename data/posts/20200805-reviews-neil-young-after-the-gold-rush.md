@@ -42,7 +42,7 @@ artistLink: https://neilyoung.warnerrecords.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *After the Gold Rush* is Neil Young at the absolute top of his game. It’s a masterpiece, plain and simple. His third studio album is as accomplished as any he’s ever released: an astonishing feat given he was only 24 years of age at the time. *After the Gold Rush* is a tight package that displays extreme versatility, covering an extraordinary range of musical ground and lyrical depth. Provocative rock jams with soulful guitar solos stand alongside romantic country ballads and heart-warming numbers led by playful piano.
@@ -67,7 +67,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Reviewing albums of this calibre is a bit of a double-edged sword. They’re a delight to listen to, and writing about them almost feels redundant. What is there to say about *After the Gold Rush* that hasn’t been already? It’s vintage Neil Young, as fine a blend of rock, blues, and country you’re ever likely to hear. Beautifully produced too, which always helps.
@@ -90,7 +90,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *After the Gold Rush*, released 50 years ago when Neil Young was a little younger than I am now, has that indefinable timelessness of a real classic. The humanistic, emotionally available, and touchingly straightforward composition anchors it to another time in many ways, and yet its clear focus on fundamentals at both an instrumental and narrative level mean it could have been released only recently. The subsequent albums and genres where Neil Young’s influence can be felt are innumerable, like the 24-year-old was writing a love letter to bands of the future.

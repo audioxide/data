@@ -39,7 +39,7 @@ artistLink: https://matadorrecords.com/kurt_vile
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Kurt Vile’s latest studio album is a peculiar beast. It plays out like an all-encompassing diary expressed through fascinating musical explorations and witty wordplay. With a running time of 80 minutes, *Bottle It In* asks a lot of its listener, at least on paper. 
@@ -61,7 +61,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sustaining a high level over 80 minutes is a challenge in any sphere, but Kurt Vile does it effortlessly it on *Bottle It In*. All-American dusty rock struts around like it owns the place, and for long spells it unquestionably does. “Check Baby” twangs hard and hits heavy, while the psychedelic swathes in tracks like “Hysteria” and “Bassackwards” are [worthy of the ’60s](/reviews/the-jimi-hendrix-experience-electric-ladyland/). The whole record has an easiness of manner, content to be the sonic backdrop for a wanderer with no particular destination in mind. The mix colours all this perfectly. Vile’s explorations deserve an expansive setting, and they get one.
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   This was fairly uncharted territory for me. Folk, country, and their derivatives don’t tend to appeal to me very often, and the runtime on *Bottle It In* is daunting regardless. Settling into the album, though, is remarkably easy.

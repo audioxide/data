@@ -34,7 +34,7 @@ artistLink: https://store.moby.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s easy to hold a cynical position towards *18* — even at the best of times downtempo music can become a predictable affair, so after consuming over an hour’s worth of Moby’s tried and tested chillout formula you’d have no qualms branding it a monotonous, lazy record. 
@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s difficult to understand why *18*’s release was met with a combination of plaudits and disdain, as I don’t think it deserves either. Lasting a slow 70 minutes, most of the album consists of a flat brand of electronica that in its nothing entirety loses most of the character its stronger tracks flicker with. Its best moments take place in the ambient realm — and are lovely — but such tracks are a small minority. 
@@ -72,7 +72,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 review: >-
   *18* clearly left many listeners unsure of what to think. With reviews for the album ranging from insults to unwaivering praise, it certainly divided opinion. Strung together with down tempo drum beats, silky basslines, warming pads, and soulful vocals, it’s certainly a very consumable album, with little to jolt a listener’s senses. 
   

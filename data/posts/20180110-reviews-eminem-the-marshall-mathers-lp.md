@@ -35,7 +35,7 @@ artistLink: https://shop.eminem.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Billboard* editor in chief Timothy White famously accused Eminem of ‘making money by exploiting the World’s misery’. Whatever way you look at it, White was right. On *The Slim Shady LP*, his major label debut, Eminem rapped about [ripping Hilary Clinton’s tonsils out](https://www.youtube.com/watch?v=ubEublECnMU), [potentially raping an unconscious woman](https://www.youtube.com/watch?v=Xbw_BxDwdjk), and [disposing of his wife’s corpse](https://www.youtube.com/watch?v=wFM5UKYorFg). He was inevitably labeled as a misogynist and an advocate of domestic violence and, on the surface, there are obvious grounds for such claims. But to Eminem’s credit, one of his finest traits is blurring the line between what is real and what is fiction; what is horror and what is humour. He thrived on controversy. Certain listeners were appalled by his excessive use of the word ‘faggot’, and Eminem’s responded by using the term even more. Slim Shady was an outlet for Marshall Mathers to not only cause mischief but also to expose truths in, let’s say, unconventional ways.
@@ -55,7 +55,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think it’s easy to take *The Marshall Mathers LP* for granted. I certainly do. Which must mean everyone else does to. That's how narcissism works. It’s one of those records that became Great almost as soon as it released, tearing in and doing and saying things in ways people hadn’t heard before. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *The Marshall Mathers LP* is a weird one. Normally I can shower an album with praise, waxing lyrical about my love for one track or another, enjoying a particular atmosphere of a track and adoring the instrumentation of another. But I don’t love or enjoy a lot of this album and I don’t think that was ever its intention. Instead, I find myself returning to this album to still be enthralled by “Stan”, thoroughly horrified by “Kim” and equally grossed out as I am amused by the “Ken Kaniff” skit. Somehow *MMLP* hasn’t aged a bit, nor does it wear thin at any point in its 70+ minute play time.

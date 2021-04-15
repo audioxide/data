@@ -20,11 +20,11 @@ featuredimageAlt: Run the Jewels performing live
 title: Our 10 favourite albums of 2020
 author:
   - rachael-davis
-  - marcus
-  - fred
-  - andre
-  - gabriel
-  - andrew
+  - marcus-lawrence
+  - frederick-obrien
+  - andre-dack
+  - gabriel-sutton
+  - andrew-bridge
 summary: Music took on new meaning this year. For many of us it was the only remedy; at times, a vital kickstart. Old favourites provided much needed comfort, and new releases became sources of vigour and inspiration
 blurb: Music took on new meaning this year. For many of us it was the only remedy; at times, a vital kickstart. New releases became sources of vigour and inspiration
 

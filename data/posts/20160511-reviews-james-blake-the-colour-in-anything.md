@@ -34,7 +34,7 @@ artistLink: https://shop.jamesblakemusic.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Though James Blake tells us that he’s removed himself from a [‘perpetual cycle of anxiety and depression’](http://pitchfork.com/features/interview/9889-james-blake-and-the-pursuit-of-happiness/), you’d be forgiven for thinking otherwise. Sonically speaking, Blake is where he has been since his debut album. He illustrates a deeply sombre image, singing with a consistently mournful tone to fill the gaps left by a backdrop of music that feels sparse, yet inconceivably textured. Blake’s ability to exploit a particular space within a soundscape means his music can so often suit a variety of settings and moods. There’s certainly no denying his talent, yet he finds himself a victim of the scope of his natural capabilities. 
@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Slurring his words over echoey piano, a series of unrelated synth effects, and an occasionally off-beat drum machine, James Blake is back. If you’re a fan of his sound, *The Colour in Anything* is likely to be a welcome addition to his discography, with plenty of new ‘tunes’ to latch onto. If, like me, you’re not convinced, you might find it grating that his only major creative leap here seems to be doing what he does for longer. The album clocks in at over seventy minutes long, and yet there’s very little I can say about it that wasn’t covered during our discussion of [*Overgrown*](/reviews/james-blake-overgrown/). 
@@ -71,7 +71,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   James Blake’s latest, surprise album has been a tricky one to review for me. My first listen was extremely satisfying, and I stand by those initial thoughts, but there are a few niggling issues that, on reflection, I simply can’t shake off. *The Colour in Anything* is a lengthy album. At double the length of both his previous LPs, it was always in danger of not being decisive enough about what should make the final cut. 

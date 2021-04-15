@@ -34,7 +34,7 @@ artistLink: https://www.merchbar.com/rock-alternative/ramones
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   For years I had been looking forward to the day I actually sat down and listen to the Ramones. Their reputation is distinguished to music-lovers of all ages, and their status has been firmly cemented into music history: renowned for not only pioneering the punk movement, but also infusing an everlasting influence on a wide variety of genres, including all sorts of sub-sections in rock and metal. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I’ve always been conscious of a Ramones-shaped hole in my musical education and, like André, I was excited by the prospect of finally filling it. To my dismay, I can’t help but feel that *Rocket to Russia* is an auditory experience akin to a *Fast and Furious* movie. A disengaged brain finds plenty to enjoy, and I find myself instinctively tapping my foot and bobbing my head in time to its beats. Sadly, beyond that surface of simple pleasure, I’ve been struggling to identify any form of depth.
@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Ramones have amassed a sizeable reputation as one of the greats, and with their logo now so widely recognised too it’s unsurprising that they’ve held on to such a legacy. It’s disappointing then to find myself falling out of love with *Rocket to Russia* as quickly as I fell for it. Tracks are concise from the outset, snappy enough to get your head bopping. The pacing is good, with the tracks that have proven their staying power over the decades sprinkled throughout, rather than in a single clump. Nothing sticks around for too long, as each song stays shy of the three-minute mark, with the whole album wrapping up in around half an hour. 

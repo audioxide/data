@@ -34,7 +34,7 @@ artistLink: https://www.castlefacerecords.com/collections/thee-oh-sees
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   From its ludicrous track names to its filter-free kitchen sink instrumentation, *Smote Reverser* is an hour-long marathon of pretentiousness and tedium. “Sentient Oona”, the lead track, sets the scene with surgical precision: the track lasts two minutes longer than it needs to, and it’s bogged down by a series of boring loops and a solo that feels like a single-take act of brainlessness. The track ends with a comical crash of cymbals that bookends the splurge like a fart in a cathedral — most of the album’s tracks suffer similar flaws.
@@ -53,7 +53,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Smote Reverser* sounds like an album by a band who release an album or two a year. It’s tight, it’s energetic, and there’s no obvious filter to what goes on. As John Dwyer himself puts it, [‘the record doesn’t have like a continuum.’](https://www.billboard.com/articles/columns/rock/8468833/oh-sees-smote-reverser-interview) It does have character, though, and it’s tidily mixed. Pieced together from a series of improvisations, *Smote Reverser *oscillates between garage rock and brainy psychedelia. There’s a lot of movement. If you can tap into Oh Sees’ frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
@@ -71,7 +71,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve had a week of surprises with Oh Sees’ latest release. To the uninitiated, its album cover might have me believe I was in for an hour of rancid death metal, while the band’s name would suggest something at the opposite end of the rock spectrum. What *Smote Reverser* delivers instead is a variety of raucous rock with differing degrees of the psychedelia you might expect from the band.

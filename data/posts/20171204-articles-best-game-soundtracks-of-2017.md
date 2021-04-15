@@ -9,7 +9,7 @@ tags:
 featuredimage: article-images/favourite-video-game-soundtracks-2017.jpg
 featuredimageAlt: Screenshot of the video game Sonic Mani
 title: My favourite game soundtracks of 2017
-author: andre
+author: andre-dack
 blurb: The video game industry sucks. Luckily, its music doesn't. 2017 produced some terrific game soundtracks, and here lies my pick of the bunch.
 
 ---

@@ -37,7 +37,7 @@ artistLink: https://store.royalbloodband.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Royal Blood occupy a curious space. Their sound isn’t exactly substantial, nor is it the slightest bit original. It’s pop music, essentially, manufactured not just for Radio 1 listeners, but those who come from an alternative rock background too. The music is formulaic to the point of being predictable, with safe song structures being sustained by mammoth riffs and pounding arena-rock beats. It’s a deeply limited formula, but the sound is compelling enough for it to work. Their debut record took the UK by storm, and despite similar basic boundaries, their follow-up album *How Did We Get So Dark?* is an enjoyable ride throughout.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The sensation I get when listening to *How Did We Get So Dark?* is similar to that of watching a Marvel film: entertained, but not terribly invested. The sound is solid, the choruses are catchy, the riffs hook, and so on. It’s all there. Elements of strong rock — in the vein of [Muse](/reviews/muse-origin-of-symmetry/) and [Queens of the Stone Age](/reviews/queens-of-the-stone-age-like-clockwork/) — litter the album, but they rarely have their own weight. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s no point in burying the lead: If you liked Royal Blood’s eponymous debut, you won’t find any surprises to turn you off of their follow-up, *How Did We Get So Dark?* At 34 minutes, the rock duo has kept things short, sweet, and radio friendly. “Lights Out” demonstrates their continued ability to make a very big sound for a couple of people, with a raucous chorus that provides a satisfying hook. 

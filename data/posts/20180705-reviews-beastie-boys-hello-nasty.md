@@ -34,7 +34,7 @@ artistLink: https://shop.beastieboys.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Hello Nasty* is my first comprehensive experience with Beastie Boys, and I’m taken aback by the variation on show. Sprightly rap rock is the focus, as expected, but the record delves into a plethora of other genres. Such a sonic assortment makes *Nasty* a very loose record — mostly for the better, but occasionally for the worse. One could never accuse it of being repetitive, which is impressive given the 65-minute playtime, and the free-spirited nature is presumably why it remains a firm fan favourite.
@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is a super viby record. To an extent that’s why I’ve struggled to process why I don’t enjoy it as much as some other Beastie Boys albums. It can be tricky to separate the Beastie synergy from the quality of what’s going on around them. They could probably make my beatboxing sound hip and cool if they felt so inclined. Their swagger is peerless.
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   As a newcomer to *Hello Nasty*, my time with it has been a welcome surprise. The variety on show right out the gate makes for a captivating, mile-a-minute opening to the album. While Beastie Boys are likely best known for their hip-hop prowess, it’s the instrumentals that bring me back time and again. Unsurprisingly, it’s the best-known tracks that fall into my favourites. “Body Movin'” has such an infectious instrumental, a simple hook, and sampling that really hits the spot. “Intergalactic” follows it with a slightly punchier, though no less entertaining, four minutes.

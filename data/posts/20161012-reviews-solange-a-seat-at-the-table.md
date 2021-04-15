@@ -35,7 +35,7 @@ artistLink: https://solange.blackplanet.com/shop/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   The third album from Solange is proud, personal, and exceedingly pleasing. *A Seat at the Table* valiantly confronts discrimination and oppression in a similar manner to [*To Pimp A Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), but is also understated and extremely modest compared to this year’s [brilliant record from Solange’s older sister Beyoncé](/articles/best-of-the-rest-april-2016/). It’s an extremely smooth ride with no turbulence or unnecessary distractions, full to the brim with colourful instrumentals and warm, comforting vocals that glide through at a measured pace. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   As sumptuous as *A Seat at the Table* can be, it often threatens to pass on by. It’s a smooth, elegant work put together with a subtlety lacking in many other releases this year. Solange Knowles navigates styles ranging from blues to reggae with intelligence and grace, and there are plenty of nice stretches, but that lasting impression is never quite made. There’s a lack of teeth to what goes on. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There was little fanfare for the release of Solange Knowles latest release, *A Seat at the Table*, but it’s a great listen. Featuring appearances from Lil Wayne, Sampha, and Kelly Rowland, it looks like a patchy album on paper, but each collaboration has had clear direction from Solange, making for a great mix of the featuring artist’s style and her own. This results in a silky smooth, cohesive album that doesn’t outstay its welcome despite its 50-minute play time. 

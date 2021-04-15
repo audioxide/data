@@ -38,7 +38,7 @@ artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
 
 ---
 
-author: andré
+author: andre-dack
 
 review: >-
   Canadian post-rock champions Godspeed You! Black Emperor return with yet more music that sounds larger than life itself. If the grandiose nature of their previous material hasn’t clicked with some listeners, _G\_d’s Pee AT STATE’S END_ is unlikely to change that. The band perform captivating protest music with commanding authority, powering through huge arrangements that convey a wide array of emotions. Theirs is a blueprint that has now existed for over 25 years. What separates _State’s End_ from other records in the catalogue, however, is the sense of hope and triumph. Godspeed You sound genuinely buoyant.
@@ -59,7 +59,7 @@ tracks:
 
 ---
 
-author: fred
+author: frederick-obrien
 
 review: >-
   Godspeed You! Black Emperor are back with more brainy rock and weird names. Wailing violins, droning chords, groaning synths, visions of ashes and flame, wink wink, nudge nudge, say no more say no more. Except, I really _can’t_ say much more. André and Marcus have it pretty well covered and I’d just be taking up space. That said, let me say more.
@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   I reviewed my four pages’ worth of hastily scribbled notes for this review and found that, as was the case when we reviewed _[Luciferian Towers](/reviews/godspeed-you-black-emperor-luciferian-towers/)_, I’d neglected to write much about how this album sounds. While I touched on some of its interesting quirks - like the way it frequently reminded me of the Old Norse stylings of [Wardruna’s _Kvitravn_](https://www.loudersound.com/reviews/wardruna-kvitravn-album-review) from earlier this year - it’s mainly a reflection of my various thought processes over the course of my fourth listen. Led in entirety by the dense and challenging composition, the found-footage-style dialogue peppered throughout, and the nutty names of its parts and whole, _G\_d’s Pee AT STATE’S END!_ is, as with all of GY!BE’s output, a backdrop for losing yourself to deep thoughts.

@@ -35,7 +35,7 @@ artistLink: https://www.arcadefirestore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   As an avid admirer of Arcade Fire’s first three records, *Everything Now* has been a truly miserable experience for me. Not because it’s necessarily an awful album — though it does flirt dangerously close — but because the band give me absolutely nothing to care about. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   "*Anything Now* sounds like the kind of thing you make when you’re tired. A good idea at the time, but exposed in the light of day as jangly and poorly executed. The goal was disco with a kick, or least that’s my best guess. It’s hard to believe everyone involved was on the same page. Although the record sometimes drifts into a genuinely colourful, confident sound, most of the time it is oddly clunky. The music just doesn’t seem comfortable in its own skin — and with good reason. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There is no two ways about it, *Everything Now* is not a patch on Arcade Fire’s previous output. Going from strength to strength from their 2004 debut right through to their similarly disco-heavy 2013 release, *Reflektor*, I’ve long held high expectations for a new release from the band. *Everything Now* feels like a misstep though. 

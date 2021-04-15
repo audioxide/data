@@ -34,7 +34,7 @@ artistLink: https://thehyv.shop/collections/baths/
 
 ---
 
-author: ANDRE
+author: andre-dack
 
 review: >-
   On the third Baths album, Will Wiesenfeld shows once again that he is a skillful storyteller. Songs on *Romaplasm* are set in fantasy realms and are highly visual as a result. The delicate craft of Wiesenfeld’s earlier work is mostly gone, and the instrumentals are instead excitable, fidgety, and sometimes erratic. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Every so often there comes an album that I have a complete disconnect with. It’s there and I’m here and that’s ok. *Romaplasm* is one of those records. Over the last couple of years it’s become obvious that skittish drum beats and aimless synthesisers [is not a formula I go for](/reviews/thom-yorke-the-eraser/), and sadly (for me) that’s exactly what Baths delivers. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   When Will Wiesenfeld sings ‘our goodwill is going to kill us’ on “Extrasolar” he could almost — almost — be describing the experience of listening to *Romaplasm*. To be sure, this record is shot through with an infectious sense of euphoria: Wiesenfeld’s heart would appear to be overflowing, as almost every track here is imbued with an indelible brightness — a pervasive warmth and exuberance — that’s difficult to deny. 

@@ -37,7 +37,7 @@ artistLink: https://kf-merch.com/collections/mgmt
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Little Dark Age* was supposed to be an encouraging new dawn for MGMT, who have been on a gradual decline since their debut album in 2007. Although I was never totally smitten with *Oracular Spectacular*, it’s no question that the record contained a plethora of catchy songs, some of which carried significant weight to an adolescent demographic. Indeed, “Kids” and “Time to Pretend” were the soundtrack to many teenage trickeries. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   You know how albums sometimes have a song or two that could stand to be cut? *Little Dark Age*  is entirely made up of those songs. They’re not *bad*, the production is *ok*, but is that enough? Synth tunes plod along with all the charisma of a mumbler with a weak chin, and it’s not as if the mix is lush enough to distract from the total absence of drive or direction. If *Little Dark Age* went nowhere but sounded great, ok, but it goes nowhere and sounds fine. It’s utterly middling. 
@@ -74,7 +74,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I was a huge fan of MGMT’s debut, *Oracular Spectacular*, but I missed their releases since. That may well skew my perception of the band next to an avid MGMT fan. With that in mind however, I’ve hardly noticed *Little Dark Age* playing. It’s not something I expected to be saying about a band that has released a collection of enduring singles since their debut, each distinctive and full of character. 

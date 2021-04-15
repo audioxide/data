@@ -36,7 +36,7 @@ artistLink: https://shop.portishead.co.uk/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   As tempting as it is to brand Portishead’s debut as the definitive trip-hop record, *Dummy* is really a genre in itself. It took the dance foundations of Massive Attack and applied a greater sense of songwriting to the equation, resulting in one of the major landmarks of the ’90s. 
@@ -57,7 +57,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sensuous and glum, *Dummy* is all you can reasonably ask of a debut album. It announces itself as something new and distinct, and manages to do so with the wry, measured air of a veteran. Portishead’s murky, submerged sound provides a near-perfect accompaniment for Beth Gibbons’ near-perfect voice. It seems unfair for a human to be able to sound as beautiful as she does, but *Dummy* doesn’t waste the privilege. 
@@ -78,7 +78,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Portishead’s debut, *Dummy*, may be over two decades old, but their distinctively ’90s, trip-hop sound hasn’t aged a bit. From the opener, “Mysterons”, the album is immediately shrouded in eerie, ominous atmosphere. Melding orchestral and jazz samples with surging beats and melody lines that remain intense despite their minimal construction, *Dummy* is intriguing for the listener throughout its tracklist. 

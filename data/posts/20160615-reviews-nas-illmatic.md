@@ -33,7 +33,7 @@ artistLink: https://shop.nasirjones.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Illmatic* is a milestone in hip-hop, an undisputed classic that is held on a pedestal to this day. Though there are many albums with greater highs, you’d be hard pressed to find one with fewer flaws. It captures a cultural scene so poignantly to achieve a timeless status that only [a few albums](/reviews/radiohead-ok-computer/) hold alongside it. 
@@ -53,7 +53,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is one of those albums that colours how you see a time and place. Born of ‘90s New York hip-hop, *Illmatic*, without being a blowaway experience, is as close to flawless as a record can reasonably get. Ten tracks, 40 minutes, no filler. Thank you very much. Each song has its own killer hook with a crisp flow, sampling is effortless and appropriate, and Nas delivers his account of city life with a gravity far beyond his years. 
@@ -71,7 +71,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Illmatic* received high praise after its release, shooting Nas to the forefront of the hip-hop scene and causing ripples with fans at the time. It’s easy to see why, listening to this debut release over 20 years later. Without any illusions of grandeur, every track on *Illmatic* manages to make a point and sound great doing it. Instrumentals can be noticeably repetitive, but not with a detrimental effect to the track overall, with “N.Y. State of Mind” sticking to a simple piano loop and drum pattern but managing to do so in a way that simply leaves the stage clear for the lyrics to remain the focus. Even for those that often don’t or won’t focus on lyrics, Nas delivering ‘I never sleep, ‘cause sleep is the cousin of death’ is hard not to notice. 

@@ -34,7 +34,7 @@ albumMBID: 3037f334-1e40-4d13-98ed-08169120652b
 artistLink: https://store.lauramarling.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Laura Marling’s sixth studio album is one of the finest folk records in recent years. *Semper Femina* is a Latin phrase that translates to ‘always a woman’, and is also referenced in Virgil’s epic poem *Aeneid*: here, it translates to ‘woman is ever a fickle and changeable thing’, a passage that has motivated Marling to embrace her own understanding of femininity. On the gorgeous “Nouel”, Marling responds directly to Virgil’s poem with a smile: ‘fickle and changeable are you, and long may that continue’. It’s one of the many moments of tender observation that *Semper Femina* expresses so tastefully. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   I should confess, I’ve been a fan of her Laura Marling’s writing since the release of her debut album *Alas I Cannot Swim back* in 2008. Since then my personal taste has taken my focus to other genres, but even still I was aware that I could listen to any part of her discography and be gifted to soothing, self-reflective songs. With *Sempa Famina* this is still very much the case. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Laura Marling’s return is certainly welcome. As an avid listener of her early releases and a slightly more removed fan of her later work, having her latest release, *Semper Femina*, on repeat hasn’t been a chore. ‘On repeat’ is far from an exaggeration too, as I reach the end of the album and can’t help but pick out favourites only to find myself relistening to the entire tracklist again. At 43 minutes long, there’s room for each of the nine tracks to either develop and breathe, or drone and drag. Luckily, nothing here has even a hint of the latter, creating a distinct, memorable atmosphere with intricate instrumentation ranging from moody bass slides to shimmering American soul. 

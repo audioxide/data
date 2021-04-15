@@ -33,7 +33,7 @@ artistLink: https://baronessmerch.shop.musictoday.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The new record from American alternative-metal band Baroness strives to be an epic of sorts, with its sprawling tracklist and adventurous sonic deviations. Despite some frustrations, it largely succeeds. *Gold & Grey* sees the band play to their strengths whilst simultaneously spreading themselves to deliver key moments that one wouldn’t ordinarily expect from a heavy metal record. Opinions on the music itself may differ, but there’s no doubt that Baroness actively pursued a destination that excels the norm. They go above and beyond general assumptions of metal. Mostly.
@@ -53,7 +53,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   In all manner of respects, this album is dramatic. It’s an hour-long, epic alt-metal experiment, it’s Metacritic’s most well-reviewed album of the year so far, and it’s got album art painted by the vocalist/rhythm guitarist John Baizley with a heartfelt explanation of it to boot. Along with being the end of a supposed six-part anthology that I haven’t otherwise heard, *Gold and Grey*’s sense of gravitas is intimidating.
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The latest album from Baroness is bold and ambitious. Starting out the gates with strong, surging riffs and vocals that echo out across the top of each track endlessly, it’s impossible not to feel a sense of grand drama.

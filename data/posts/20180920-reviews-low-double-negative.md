@@ -37,7 +37,7 @@ artistLink: https://merch.ambientinks.com/collections/low
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Despite my liking for *Double Negative*, I won’t be cherry-picking any of its tracks to stick in my rotation. The album, taken as a whole, becomes a pretty wonderful realisation of a concept I’ve never really heard done convincingly, but standalone tracks are too outlandishly separate from anything else I listen to. That’s no criticism; Beethoven doesn’t get a look-in either, though I’m told he’s devastated.
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There was an unfortunate spell a couple of years back where artists were putting out records that deliberately sounded dreadful. They presumably thought they were onto something. They were wrong. Tracks crackled into dead ends and perfectly good arrangements were buried alive by gratuitous effects. Bon Iver’s [*22, A Million*](/reviews/bon-iver-22-a-million/) was possibly the most egregious example, a jittery hodgepodge of glitches that mercifully faded from memory almost as soon as they ended. The fad passed and the world found other ways to disappoint. I thought we were in the clear.
@@ -78,7 +78,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Low’s heavily crushed, noisy, glitchy approach to their latest album could have quickly put me off, and may well not be everyone’s cup of tea. However, *Double Negative* has intrigued me during my time with it. Unlike earlier releases that leaned more heavily on indie rock and folk, this instead goes for an atmospheric, ambient, electronic sound that feels refreshing and intense all at once.

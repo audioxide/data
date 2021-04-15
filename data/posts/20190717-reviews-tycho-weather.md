@@ -35,7 +35,7 @@ albumMBID: 0ebe471f-87a1-4c60-af9d-135a4b080894
 artistLink: https://ukmerch.ambientinks.com/collections/tychoiso50
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   There is such a thing as sounding too immaculate. Beyonce’s recent collaboration with Hans Zimmer for *The Lion King* remake is merely another example of overproduction in contemporary music, but sterility hurts even more when it manages to infiltrate artists outside of the inflated pop scene. When Vampire Weekend released [*Father of the Bride*](/reviews/vampire-weekend-father-of-the-bride/) back in May, I wrote that ‘these songs wouldn’t feel out of place in an advert for Google, such is the clinical nature of their formation’, and I could apply this exact sentiment to *Weather* too. It is recorded, mixed and produced exquisitely, yet I can’t recall a single release in 2019 that has proven to be so inconsequential. I don’t dislike the music at all, but it’s so severely sterile.
@@ -53,7 +53,7 @@ score:
   fraction: 0.5
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   There’s easy listening, and then there’s something like *Weather*. This is ambient Muzak. For all its smoothness and gentleness it barely leaves any impression at all. I’d tuned out so much by the end of the first listen that I didn’t realise the album was over for a good few minutes. It’s a real shame too, because I wouldn’t call anything on the album ‘bad’. It just isn’t all that good either.
@@ -72,7 +72,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Weather* suffers a similar fate to other albums that have arrived in 2019. Wispy and delicate, it tends to float by without much consequence, which is a shame given the overall atmosphere Tycho has produced here.

@@ -41,7 +41,7 @@ artistLink: https://shop.dovesofficial.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   It’s been a while since we’ve heard from Doves. Eleven years to be exact. The biggest compliment I can give The Universal Want is that it feels like the band never went away. Though it feels heart-warmingly familiar, the songwriting and arrangements feel fresh. It has a similar sense of comfort to that of [Coldplay](/reviews/coldplay-parachutes/)’s music, except this is actually good. There have been some brilliant comeback albums recently. There have also been some rather wretched ones. This leans more into the former. Whilst it doesn’t quite reach the height of Doves’ first two records, The Universal Want is a satisfying return that will no doubt please long-time fans. The band certainly haven’t lost their way.
@@ -62,7 +62,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I think it’d be quite easy for an album like The Universal Want to sound rubbish. High paced pop rock with busy arrangements and ornate mixing is a potentially boorish combo, but Doves do an admirable job of spinning its plates. The album earns your attention and keeps hold of it without ever quite being exceptional.
@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   If nothing else, The Universal Want has made it clear [Coldplay](/reviews/coldplay-parachutes/) has practically become a genre – I hasten to add that this is the kindest way I can say that Doves’ ponderous, mumbled, naggingly uninspiring, and breathtakingly dull album commits the most heinous crime of sounding like an out and out rip-off of a moment that passed over a decade ago.

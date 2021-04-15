@@ -13,7 +13,7 @@ tags:
 featuredimage: article-images/apex-legends-character-themes-ranked.jpg
 featuredimageAlt: Wattson from Apex Legends shushing at the camera
 title: 'A Grand Soirée: All character themes in ‘Apex Legends’ ranked'
-author: andre
+author: andre-dack
 summary: Music is one of many reasons the game stands apart from other battle royale titles, each tune bringing our favourite heroes (and villains) to life. Disagree? I’ll see you on the firing range
 blurb: Music is one of many reasons the game stands apart from other battle royale titles, each tune bringing our favourite heroes (and villains) to life.
 

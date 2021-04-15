@@ -34,7 +34,7 @@ artistLink: https://shop.foals.co.uk/
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Foals first came to my attention (and many others) in 2007 with a track called “Hummer”. They emerged into a scene that was oversaturated with bad haircuts and bedroom guitar playing, but still managed to bring something fresh. From the get go they were on track to be the sound of early 2000’s youth. Not least of all because many of their tracks soundtracked the then popular TV show *Skins*. Thankfully, *Skins* has all but left us. However, Foals have not, and their now fairly prolific discography may not have been possible without a solid start from their debut *Antidotes*.
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Fidgety, kooky math rock reigns supreme in Foals’ debut, and it does so with such openness and colour that I like it in spite of myself. Indie music in this vein doesn’t usually please me, to put it mildly, but there’s enough going on under the hood for *Antidotes* to command at least bemused attention at any given time. The blend of shoutsinging, scraggly guitars, and tourette-style drumming amounts to a respectable indie highlight reel. Weirdness for weirdness sake comes off as obnoxious, but Foals *just* about steer clear of that.
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Foals sat apart from their contemporaries with their debut. While it’s easy to tell that the likes of Bloc Party and The Maccabees were cut from a similar cloth, Foals leaned into their restless, agitated, math-rock roots and carved out a niche in the mainstream indie rock of the time. 

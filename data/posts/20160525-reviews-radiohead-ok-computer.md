@@ -43,7 +43,7 @@ artistLink: https://store.wasteheadquarters.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The term ‘timeless’ is often carelessly applied. Music can be eternal in a literal sense, but very rarely does a work have the endurance to live past its own age and move into new realms of significance as it ages. *OK Computer* is one of these works. This was a life born after *The Bends* and away from traditional rock and roll, derived instead from a place of anxiety and paranoia that distanced itself from the declining movement of [Britpop](/reviews/oasis-definitely-maybe/). A transitional work in the best sense of the word, it was a clinical move into the cold and empirical, before the decisive nosedive into electronica that triggered *Kid A*. 
@@ -67,7 +67,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Radiohead’s famed 1997 sedative for the unhappinesses of modern life is as serenely despondant now as it has ever been. This is due in part, presumably, to the unhappinesses of modern life having not changed all that much in the last twenty years, but *OK Computer* itself endures as pristine music. 
@@ -87,7 +87,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *OK Computer* has received high critical acclaim since its release, but it isn’t without its critics. Many complain of its pretension, its noisiness, and its lack of memorability, but I find it incredibly hard to relate to these issues, especially the last of the three. 

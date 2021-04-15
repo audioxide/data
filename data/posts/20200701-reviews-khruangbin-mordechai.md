@@ -39,7 +39,7 @@ artistLink: https://www.hellomerch.com/collections/khruangbin/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Long-time readers of *Audioxide* will likely be aware of our general thoughts on albums that prioritise aesthetic above all else. Style over substance, as the saying goes. There will always be a place for music that focuses on flaunting snazzy sounds, and rightly so, because snazzy sounds are nice to listen to. Such is life. However, this can often result in a lack of longevity. I imagine the recently released records from [Thundercat](/reviews/thundercat-it-is-what-it-is/) and [Tame Impala](/reviews/tame-impala-the-slow-rush/), but to name a few, have probably been forgotten by most listeners already. I think I forgot about [Tycho’s 2019 album](/reviews/tycho-weather/) before I even finished listening to it.
@@ -63,7 +63,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   We all have those films we watch, books we read, and albums we listen to when we don’t want to think. In their inoffensive, professional competence we find solace and maybe even the occasional emotion. Mordechai is in that bracket.
@@ -84,7 +84,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Khurangbin released Mordechai in what should have been the midsts of festival season, and its entire tracklist is soaked in the ‘festival vibe.’ The hazy, summery, soul/psych sound evokes the nostalgia of watching live music in the open air and the ethereal reverb lathered on the vocals only serves to solidify those memories.

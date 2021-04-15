@@ -34,7 +34,7 @@ artistLink: https://store.soulwax.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *FROM DEEWEE* was, [allegedly](http://www.factmag.com/2017/02/09/soulwax-from-deewee-album-announced/), recorded in one take. That naturally seems quite impressive, and certainly strikes an initial interest, but upon realising that everything sounds so utterly flat and lifeless, one recognises that Soulwax have done themselves no favours by constructing the record as a continuous, mundane stretch of music.
@@ -52,7 +52,7 @@ score:
   fraction: 0.4
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Soulwax have been a band on my ‘must see’ list for quite some time. If I turned up for the duo to only play tracks from *FROM DEEWEE*, I’m afraid to say I think I would be largely disappointed. It’s hard not to compare *FROM DEEWEE* to *Nite Versions* as the disparity quality is so large, but I’ve been hard pushed to pull the same level of enjoyment from this as I have their illustrious record from 2005.
@@ -70,7 +70,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There were many moments on *FROM DEEWEE* that piqued my interest. Unfortunately, each moment was combined with a hope that a turning point in the album was about to reveal itself, which was often followed by disappointment when it didn’t arrive.

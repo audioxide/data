@@ -37,7 +37,7 @@ artistLink: https://deerhoof.net/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Deerhoof are amongst the finest acts in indie rock; building a reputation in the 2000s and sustaining their status right through to 2017 — but 20 years since their debut album, and the San Fransisco-born band are still vastly under-appreciated in the grand scheme of things. After all these years, it’s practically a given that charming noise pop doesn’t come much sweeter than Deerhoof, and the level of consistency they have achieved is almost unprecedented — you’d have to look at a band as gigantic as [Radiohead](/reviews/radiohead-a-moon-shaped-pool/) to even start comparisons. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was wacky, but seldom contrived. I’m not sure I’ve ever heard something so delighted to be doing whatever it damn well pleased. There’s a twinkle to *Mountain Moves* that’s genuinely endearing, if sometimes trying. The production and general sound is great, every instrument and vocal brimming with colour. “Come Down Here & Say That” showcases this particularly well, rattling cheerfully through about eight different genres, as does “Your Dystopic Creation Doesn’t Fear You”. 
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Mountain Moves* does anything but rest on its laurels. Clocking in at just under 40 minutes, this 15-track album flies along and doesn’t stop throwing new ideas into the mix. Tinges of hip-hop, orchestral opera, and jazz sax are just some of the unexpected, all executed with success, aplomb and cohesion. “Your Dystopic Creation Doesn’t Fear You” is a particular favourite, encompassing many of the best things about the album. With a spoken verse, contrasted totally by a relatively meagre chorus and an infectious hook, the song covers a considerable amount of ground, and does so effortlessly. 

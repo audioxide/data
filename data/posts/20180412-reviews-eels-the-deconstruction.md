@@ -34,7 +34,7 @@ artistLink: https://eelstheband.com/stores.php
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Another Eels album, another prescription of melancholic indie rock. You know the drill by now. On their 12th studio album, *The Destruction*, Mark Oliver Everett and his dependable friends rarely venture out of the vintage Eels blueprint, which has developed into something of a comfort zone for listeners over the years. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *The Deconstruction* is another album by Eels. That’s what it sounds like. The production has depth and colour, the songs are arranged with care, and E sings/talks gruffly about love and being sad. It’s a good, honest serving of Eels. It’s also nothing new. *The Deconstruction* rarely perks up my ears. “Rusty Pipe” and “You Are the Shining Light” come closest, dipping as they do into a novel world of flutes and strings, but even they aren’t pushing things particularly far. For the most part, this is Radio E frequency.
@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I don’t think I have a bad word to say for any of the content on *The Deconstruction*. In fact, there’s a lot to like here, with the title track opening proceedings in great fashion, sitting well alongside the likes of “Bone Dry” and “You Are The Shining Light”, which bring a driving energy that you’ll likely know well if you’ve listened to previous Eels material. Similarly, you’ll find the sweet, delicate moments that long-time fans have been accustomed to in “Sweet Scorched Earth” and “The Epiphany”. It’s all very familiar, cosy, and comfortable, and while that’s not detrimental in itself, it can, at times, feel a little too close to ‘more of the same’.

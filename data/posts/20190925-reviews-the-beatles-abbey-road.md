@@ -35,7 +35,7 @@ albumMBID: 9162580e-5df4-32de-80cc-f45a8d8a9b1d
 artistLink: https://www.thebeatles.com/store/
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   What is there left to say about The Beatles? Arguably the biggest band in the world, the group produced an extensive discography in a relatively short space of time. For many *Abbey Road* is the last ‘true’ Beatles record, and it is easy to see why.
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s been a few years since I last listened to *Abbey Road* and I was ready to love it more than I have done. The highlights are truly magical, as good as anything written in the decades since the album was released. The rest settles for being exceptional, a fine final dose of The Beatles for the world before John, Paul, George, and the drummer went their separate ways.
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Of The Beatles’ discography, *Abbey Road* is one of the releases I’ve neglected. Released towards the end of their time as a band, with some of the material here being recorded even after *Let It Be*, it often gets overshadowed by what had come before. It’s not climbed the ranks to be my favourite this week, but it certainly shouldn’t be overlooked.

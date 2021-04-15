@@ -39,7 +39,7 @@ artistLink: https://store.nin.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Downward Spiral* serves as a reminder that music can often be the purest form of human expression. As a work of art, Reznor takes us into the deepest and darkest places of the human psyche, questioning the importance of control and the relevance of religion; all the while depicting the bleak dehumanization of society and its effect on ones individuality. 
@@ -59,7 +59,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It was a horrible experience. I haven’t slept soundly since.
@@ -75,7 +75,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s so much emotion in this album, the themes are pretty dark to begin with and powerful instrumentation and the intricate composition really produces, at least from me, a huge amount of empathy. While I always rush over lyrics, some of the lyrics in the album are intense, veiled, and simply striking. It’s been a slow burner though, it’s certainly not a ‘happy’ album, but one that I’ve really grown to love.

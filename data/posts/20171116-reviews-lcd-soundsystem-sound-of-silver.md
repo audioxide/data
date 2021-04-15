@@ -38,7 +38,7 @@ artistLink: https://kf-merch.com/collections/lcd-soundsystem
 
 ---
 
-author: Michael
+author: michael-clark
 
 review: >-
   LCD Soundsystem was introduced to the world in 2002 with an irony-drenched dirge for a pompous thirtysomething’s sense of coolness called [“Losing My Edge”](https://www.youtube.com/watch?v=6xG4oFny2Pk). The great joke underpinning this track was that, despite all his insistence to the contrary, James Murphy wasn’t there: he wasn’t there in 1974, at the first Suicide practices in a New York City loft. He wasn’t there in the Paradise Garage DJ booth with Larry Levan. He wasn’t even alive in 1968, when Can played their first show in Cologne. No, he was born in 1970, and just barely missed out on what would become his favourite period of music, initially because he was too young to appreciate it, and later because, growing up in small-town New Jersey, he was too far removed from the cities in which these cultural moments were happening. 
@@ -64,7 +64,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I struggled with this one. Listening through it’s obvious how much love and craftsmanship went into making *Sound of Silver*, and the influences — from [Talking Heads](/reviews/talking-heads-remain-in-light/) to [Bowie](/reviews/david-bowie-low/) — bounce around quite happily, but I can never really get on board with what’s happening. For every dance stormer like “Get Innocuous!” there’s a track I find repetitive and frigid. When the record lets its hair down and gets to the point it’s a true (goofy) groovefest. The opener’s a blinder, and “North American Scum” is super sharp. The closer’s lovely too. Good spells abound, and yet, ultimately, a solid chunk of the album sounds like a glossy, sterile homage to music I’d rather be listening to, and that’s as far as it gets.
@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   When *Sound of Silver* first released, I listened without much of a context nor much of a musical background. I was won over by distinctive instrumentals, catchy hooks and likeable vocals. I don’t remember a lot beside having a lot of fun with the album. Returning now, nostalgia intact, and knowing a little more about the album and its obvious influencers, I can’t help but still be totally charmed by it. With big dollops of [Talking Heads](/reviews/talking-heads-remain-in-light/) and a fair helping of [Bowie](/reviews/david-bowie-low/) too, it mixes its influencers with its own flavour of rolling dance tracks and fidgety indie rock that I can make a lot of time for. 

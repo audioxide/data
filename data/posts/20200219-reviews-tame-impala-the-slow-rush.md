@@ -38,7 +38,7 @@ artistLink: https://shoptameimpala.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *The Slow Rush* is another genre-bending release from Tame Impala that, despite satisfying the senses with luscious and colourful sounds, rarely captivates to the fullest. Dreamy psychedelia takes centre stage, with very little shift in pace or tone. I’m hugely enamoured with the first handful of tracks, but gradually become numb to the music’s whimsical nature. It’s so, so goddamn smooth, almost to a fault. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I enjoyed the first 15 minutes of *The Slow Rush* as much as I’ve enjoyed any new release in the last couple of years. The production is luscious and the early tracks are fabulously funky, with “Instant Destiny” being especially good. The track’s synthesizers sound like a supernova sound cruise through the outer reaches of the galaxy. It’s the kind of thing you might expect to hear on the radio if you were dropped into *The Hitchhiker’s Guide to the Galaxy* – earnest, fun, and slightly frivolous. “Borderline” follows in kind, reaching pretty audacious levels of suaveness. Flutes are always a risky choice so credit where credit’s due when it works.
@@ -77,7 +77,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   The dreamlike atmosphere of *The Slow Rush* will come as no surprise to anyone familiar with Tame Impala’s previous two albums. Kevin Parker’s latest has all the hallmarks of what came before, and it pushes harder on his more avant garde sensibilities whilst riding a [Daft Punk](/reviews/daft-punk-discovery/)-esque, funk-oriented focus on melodic bass.

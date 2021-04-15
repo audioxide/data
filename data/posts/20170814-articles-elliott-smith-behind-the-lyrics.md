@@ -13,7 +13,7 @@ featuredimage: article-images/elliott-smith-behind-the-lyrics.jpg
 featuredimageAlt: Memorial wall for the musician Elliott Smith
 title: "Elliott Smith: behind the lyrics"
 summary: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott Smith’s words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they’ve ever been
-author: ruya
+author: ruya-yonak
 blurb: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott Smith's words still cut deep, as darkly precious now as they've ever been.
 
 ---
@@ -27,9 +27,7 @@ Chances are, if you listen to Elliott Smith when you are already feeling down, y
 
 If you’ve listened to Elliott before, you probably didn’t stop with one song, and if you’ve never listened before, you ought to. Few understood as he did the sharpest degree of pain you feel when your wound is fresh. You will relate to him when you are in pain, and resonate with the emotions that led him to put a knife in his chest.
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tOnImKYMpSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="tOnImKYMpSs" desc="Elliott Smith - Heaven Adores You trailer" />
 
 This article is difficult to write without sounding like I am romanticising suicide. That is not my point, especially given the recent loss of two other exceptional musical talents — Chris Cornell and Chester Bennington — but avoiding these subjects, and our obsession with living life a certain way, is damaging. It is difficult to feel like an alien all the time, to keep your depressive and toxic thoughts to yourself because they would worry others or make them uncomfortable. We are often discouraged from talking about death, suicide, the pointlessness of life, our insignificance in the world, the disappointments we face and cause… Somehow, experiencing these emotions is “weakness.” Not being honest, or genuine, or human.
 
@@ -41,9 +39,7 @@ Visual storytelling and use of metaphors is also present throughout his work. Ta
 
 Raw, vulnerable lyricism was essential to his music, but despite writing about such difficult subjects, he didn’t see himself as a miserable person like some might conclude. In his words, taken from an interview with Spin that was also featured in [*The Guardian*](https://www.theguardian.com/music/2013/oct/16/elliott-smith-rocks-backpages), he thinks his songs are not happy nor sad: “A lot of people are kind of depressed. I mean, I am happy some of the time and some of the time I’m not”.
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/pAP3sYaaBv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<youtube-video video-id="pAP3sYaaBv4" desc="Elliott Smith on Freaks by Blank on Blank" />
 
 Elliott was highly aware of the cathartic quality of his music: ‘People seem so chaotic internally but being filtered through some form.. Like making a record sort of filters it down into something that can be understood. It’s hard to represent chaos or absence of something. It’s much easier to represent the presence of something or a situation, people can be in chaos but it’s hard to fit it into some creative piece that you make, you know, it’s hard.’
 

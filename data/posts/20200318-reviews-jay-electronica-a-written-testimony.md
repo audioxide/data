@@ -37,7 +37,7 @@ albumMBID: e3db4db7-603a-420b-8e7d-112bd4a8f6c9
 artistLink: https://awrittentestimony.com/ 
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   Releasing a record that has, technically speaking, been in the making for well over 10 years, comes with a huge degree of pressure. There was always a chance that whatever it was that Jay Electronica dropped next – whether it was this or Act II of the initially planned trilogy – there would be at least some disappointment among fans who had been waiting so (im)patiently for what, admittedly, feels like forever. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   A fair few albums that come out after an extended period of faff wind up sounding like exhumed bodies, any semblance of life long, long since gone. Thankfully, this isn’t one of those times. [Recorded in 40 days and 40 nights](https://www.vulture.com/2020/03/jay-electronica-debut-album-a-written-testimony-jay-z-tidal.html) (and clocking in at a smooth 40 minutes), *A Written Testament* feels like a release of tension rather than the exhausted efforts of a spent artist. It’s really very good.
@@ -79,7 +79,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   A debut from Jay Electronica has been long anticipated, with previous release dates coming and going for ten years, many fans are no doubt full of expectation. It’s unsurprising, therefore, that *A Written Testimony* has been somewhat controversial.

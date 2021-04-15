@@ -43,7 +43,7 @@ artistLink: https://shop.djangodjango.co.uk
 
 ---
 
-author: Andre
+author: andre-dack
 
 review: >-
   If dusky psychedelic pop music is your thing, chances are Django Django are already on your radar. _Glowing in the Dark_ expands on the horizons set previously, with the band pushing towards a variety of different styles and genres. At this point they’re basically flaunting their extreme talents. The bastards.
@@ -67,7 +67,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   A few months back we reviewed an album much like _Glowing in the Dark_. It was [_Mordechai_](/reviews/khruangbin-mordechai/) by Khruangbin. We dubbed it a ‘festival album,’ which meant it was a pleasant one-off event without much staying power. There’s little I can say here that I didn’t say there.
@@ -88,7 +88,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   _Glowing in the Dark_ feels like a product of indecision. Four albums in with close to a decade since their debut, Django Django have had time to explore their sound, but this latest album pulls in enough directions to stretch at the seams.

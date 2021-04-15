@@ -38,7 +38,7 @@ artistLink: https://store.davidbowie.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Blackstar* wasn’t fully realised until a few days after its release. The initial sensation was one of revitalization in David Bowie’s creativity, with the metaphors of Lazarus seemingly showcasing his tortured immortality. We now understand that *Blackstar* is the open book of a dying man; a work created and scheduled for listeners to experience at the end of Bowie’s life, allowing him to depart on his own terms. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Sentiment aside, *Blackstar* is not quite the tour de force it sorely deserved to be — though it is close. It is delicate and defiant *mementos mori*, relaying life and death intertwined with almost unwavering impact. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With *Blackstar*, David Bowie has gone out doing what he loved, and the added context made this review all the more interesting. Most of the album has a sinister, haunting atmosphere about it, with Bowie’s lyrics consistently exploring ominous ground. ‘Look up here, man, I’m in danger’ Bowie protests in “Lazarus”, ‘I’ve got nothing left to lose.’ Prior to his death, the uncomfortable air throughout the album seemed unexplained; since then, lyrics across the album have taken on a whole new context. 

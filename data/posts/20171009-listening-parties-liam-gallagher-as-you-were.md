@@ -17,8 +17,8 @@ featuredimageAlt: Album artwork of 'As You Were' by Liam Gallagher
 title: "&#8220;Looks like Oaysis have competition&#8221; &#8211; André and Fred
   listen to Liam Gallagher"
 author:
-  - andre
-  - fred
+  - andre-dack
+  - frederick-obrien
 blurb: "\"Looks like Oaysis have competition.\" André and Fred's first impressions of 'As You Were', the debut solo album by professional manc Liam Gallagher."
 
 ---

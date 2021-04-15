@@ -9,7 +9,7 @@ tags:
 featuredimage: album-artwork/the-colour-in-anything-james-blake.jpg
 featuredimageAlt: Album artwork of 'The Colour in Anything' by James Blake
 title: James Blake returns with soul and experimentation
-author: andrew
+author: andrew-bridge
 blurb: Fans of Blake's stripped back vocal/piano tracks are served well here, with the title track a particular highlight.
 
 ---

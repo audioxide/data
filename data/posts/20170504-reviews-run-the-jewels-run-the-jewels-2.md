@@ -34,7 +34,7 @@ artistLink: https://rtj4.link/store/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Run the Jewels are a breath of fresh air in the current hip-hop climate. Here we have two veteran MCs at the top of their game, thriving in each other’s company, delivering powerful and witty statements, all the while having the most fun in their entire career. Their sound is explosive, authoritative, and, due to the villainous tone of the instrumentals, often very humorous. Their influences are apparent, sometimes brash, but ultimately, there is nothing else quite like Run the Jewels.
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Run the Jewels 2*’s majesty as a sequel is rooted in its stronger sense of cohesion, forming a sound that is unique and bizarrely synergistic. Its fine-tuned core, bottled rage with boundless charm, is intoxicating and incredibly entertaining. El-P’s layered brand of production, guttural, energetic, and evil in tone, reaches new heights on this record. The heavy, growling beats, echoing synths, and dark use of space lend themselves well to the cadence of his and Killer Mike’s delivery: severe, angry, and macho, but also intrinsically light-hearted and quick to generate grins amongst the intimidation.
@@ -78,7 +78,7 @@ score:
   fraction: 0.9
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Having already thoroughly enjoyed *Run the Jewels 3*, their previous release faced stiff competition. Thankfully, I’ve had a tremendous time with *Run the Jewels 2*, and it has become one of the few albums that I’ve had the urge to instantly replay as it comes to an end. 

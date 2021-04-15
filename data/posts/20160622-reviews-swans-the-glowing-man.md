@@ -35,7 +35,7 @@ artistLink: https://swans.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   In an intermittent career that spans well over two decades, here lies the end of Swans’ latest carnation, *The Glowing Man*: a two-hour expedition of pure chaos, pummelling you in the face relentlessly. The barrage of noise is constant, confrontational, and often quite stressful. Despite some moments of regressed intensity, this is assuredly one of the most demanding experiences of 2016. That said, it’s certainly worth staying with, even if it means consuming it on your own listening terms. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is good and didn’t give me too much of a headache. Experimental rock spars with tribal ambience in *The Glowing Man*, and does so for a breathless two hours. There’s a primal energy to the record that finds form in a seductively elegant web of sounds. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s a lot to take in on *The Glowing Man*. In its two-hour play time, we see some short, delicate, folk-soaked music which come with hints of [Portishead](/reviews/dummy/) and [PJ Harvey’s later output](/reviews/pj-harvey-the-hope-six-demolition-project/) at one end of the spectrum, while at the other, psychedelic, entrancing, swelling soundscapes span across half-hour stretches. 

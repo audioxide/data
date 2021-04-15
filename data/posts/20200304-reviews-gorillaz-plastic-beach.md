@@ -38,7 +38,7 @@ artistLink: https://store.gorillaz.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   With *Plastic Beach* celebrating its 10-year anniversary this month – a rather frightening fact in itself – I’ve been thinking about the journey that the Gorillaz project has gone through since its inception. [*Demon Days*](/reviews/gorillaz-demon-days/), released in 2005, is widely considered to be the essential work, capturing that satisfying sensation of sombre pop with an array of fantastic sonic fusions. Although I find the album’s closing moments to be slightly underwhelming – at least in comparison to the rest – it does retain a delicious darkness throughout its playtime. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   What a pleasure it is listening to Gorillaz in full flow. I don’t think *Plastic Beach* is the group’s best outing (that would be [*Demon Days*](/reviews/gorillaz-demon-days/)) but it’s probably the most fun. Despite the all-star lineup of collaborators the ‘band’ still just about holds together, and everything’s packaged in an immutable groovy sound. It’s vibing, jiving beach party.
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Plastic Beach* was always going to struggle to compete against the runaway success of its predecessors. [*Demon Days*](/reviews/gorillaz-demon-days/) made a hit out of every single that came from it. But ten years on, it feels as though this maybe should’ve had more of a look in.

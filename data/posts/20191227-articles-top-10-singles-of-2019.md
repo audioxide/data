@@ -19,10 +19,10 @@ featuredimageAlt: Tyler, the Creator in a promotional shot for his album Igor
 title: Our 10 favourite singles of 2019
 summary: From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do
 author:
-  - marcus
-  - fred
-  - andre
-  - andrew
+  - marcus-lawrence
+  - frederick-obrien
+  - andre-dack
+  - andrew-bridge
 blurb: From haunted hip hop rides to lunar cruise muzak, this will likely be the most un-single-like list of year-end singles we ever do.
   
 ---

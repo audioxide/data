@@ -13,7 +13,7 @@ tags:
 featuredimage: article-images/arlo-parks-portrait.jpg
 featuredimageAlt: Musician Arlo Parks staring offscreen to the left against a plain background. Photo by Chris Almeida
 title: Arlo Parks debuts with moreish confidence
-author: andrew
+author: andrew-bridge
 summary: Drawing from a melting pot of influences, Parks delivers ice cool nonchalance and honest intimacy in a debut record as exciting as it is impressive
 blurb: Drawing from a melting pot of influences, Parks delivers ice cool nonchalance and honest intimacy in a debut record as exciting as it is impressive.
 

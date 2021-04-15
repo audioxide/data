@@ -36,7 +36,7 @@ artistLink: https://store.elviscostello.com
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *My Aim Is True*, the rollicking debut that launched Elvis Costello’s career, is humorous, rebellious, and infinitely enjoyable. This month marks its 40-year anniversary, which is astonishing given how good it still sounds. The songwriting reeks of the ‘70s — wonderfully so — but remains as charming and engaging as ever. There is a remarkable degree of confidence that you wouldn’t usually expect from a debut, which is not only testament to Costello’s immense musical capabilities, but also his cheerfully bitter personality. This is a punk record, after all. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I love debuts like this. Earnest and goofy, *My Aim Is True* has a fresh-faced quality that leaves you feeling like you’re listening to a remarkable series of demos, which isn’t that far from the truth, really. Under Nick Lowe’s watch, the album’s quickshot recording (six four-hour sessions) translates into a deeply authentic feel, as if the songs are being played for the first time. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’m still quite amazed at how well Elvis Costello’s debut album has dodged the ravages of time. Turning 40 this year, *My Aim Is True* still sounds clean and confident, and does well at packing 12 well-defined tracks into a sub-40-minute tracklist. 

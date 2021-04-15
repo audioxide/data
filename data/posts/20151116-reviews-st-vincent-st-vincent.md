@@ -36,7 +36,7 @@ artistLink: https://store.ilovestvincent.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Avoiding the pitfalls that can often appear on art-rock records, St. Vincent’s self-titled album is a confident release that sparkles with peculiarity but steers away from pretension. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Having been a casual follower of St. Vincent’s music for years prior to this release, it was a real treat to hear the various pieces of Annie Clark’s talent fall together with such aplomb. Channelling a vibrant mixture of art rock convention and lively initiative, *St. Vincent* is a crackling treat for the senses and the sensibilities. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   To my surprise, as a new comer to St. Vincent, this eponymous album is filled with interesting, suitably distorted electronic timbres. Buzzes, whirs, and beeps cover the album, accompanying simple but satisfying beats and catchy guitar riffs. Over all this, Anne Clark’s distinctive vocal melodies pull the whole album together. 

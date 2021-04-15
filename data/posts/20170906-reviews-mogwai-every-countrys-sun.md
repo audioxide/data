@@ -35,7 +35,7 @@ artistLink: https://store.mogwai.scot/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Whilst it doesn’t necessarily reach the heights of earlier work, *Every Country’s Sun* has everything you’d want in a Mogwai album. The sound is vast, vivid, and mostly compelling, as the band strike a fine balance between progression and familiarity. When Mogwai go massive, they erupt like a violent volcano that threatens imminent destruction — a trait that was at the forefront of 2015’s [*Atomic*](/reviews/mogwai-atomic), and a loose attribute that actually stretches back to the band’s earliest works. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Like a fair few people, I listened to *Every Country’s Sun* for the first time on its BBC Radio 6 midnight debut, and it was a pretty enchanting experience. My fondness for the record has dimmed slightly with repeat listens, but not by much. It’s muscular enough to meet the expectations of devotees, but it’s in the gentler moments that *Sun* really... shines. (Sorry.) 
@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With a number of very solid soundtracks under their belts, Mogwai has forged quite a wide ranging sound for themselves, and the lead singles, and album openers, from *Every Country’s Sun* do a good job of showing that range off. “Coolverine”, an atmospheric, pensive simmer, sits next to “Party in the Dark”, a moody, well-paced alt-rock track with a satisfying, distant vocal line. The variety is prevalent through the entire 57-minute tracklist, with “aka 47” holding the listener in suspense as it builds and swells and twinkles, fizzing to a climax before dissipating, it makes for a visceral listen at times albeit a bit of a slow burn. 

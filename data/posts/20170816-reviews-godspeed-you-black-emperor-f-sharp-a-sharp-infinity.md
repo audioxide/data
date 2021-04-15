@@ -35,7 +35,7 @@ artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Godspeed You! Black Emperor’s debut record approaches its 20th anniversary this month, and it remains one of the most striking debut albums in modern music. Whilst the concept of a standard studio album narrows with each year, *F♯ A♯ ∞* continues to serve as a refreshing change of pace. It’s not hugely accessible, but it is thoroughly effective for those with the patience. The current musical climate could do with more records in the same realm. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This was a grim experience and I loved it. *F# A# ∞* is like listening to an arthouse film: strange, beautiful, and a tad lax. Godspeed You! Black Emperor’s debut gets deep into the minutia of what is typically labelled post-rock, but the results defy labels. Almost entirely instrumental, the music twangs and moans through a sumptuous range of soundscapes, sounding as fresh as it does apocalyptic. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *F# A# ∞* has been a hard listen for me. That’s not the start of a negative review by any means, but I’ve struggled with my feelings towards it. I can latch on to small pockets of the vast expanses of time that each track fills. The final two minutes of “The Dead Flag Blues” float into a sweet violin and xylophone medley, the mid section of “Providence” whirls into a fast canter that builds suspense and excitement. It can all be very exciting at times. Even those moments that often melt into one another like the moody, cinematic western that plays out a short way into “East Hastings” are evocative, but nevertheless, drift by with the tumbleweed that the music evokes. There’s even an eerie moment that spooks me on each listen around the twelve-minute mark of “East Hastings”, with a sullen, monotonous voice crackling over a radio amongst a whirring, claustrophobic atmosphere. 

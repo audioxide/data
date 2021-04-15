@@ -40,7 +40,7 @@ artistLink: https://store.unkle.info/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   ‘Come with us into the realm of imagination’, a cryptic voice broadcasts on “UNKLE (Main Theme Title)”. Indeed, UNKLE’s debut album *Psyence Fiction* is all about concepts, ideas, and creativity. Inspiration derives from DJ Shadow’s favourite records — ranging from old-school hip hop to soul stirring rock — as well as his favourite films and TV series. The fact that DJ Shadow and James Lavelle are able to (mostly) sustain a cohesive direction is an achievement in itself. 
@@ -62,7 +62,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I enjoy *Psyence Fiction* best as a kind of ‘90s aggregator. It juggles so many sounds, sample, and vocalists that treating it as a uniform vision seems silly. If anything the album is stubbornly scattergun in its approach. Some grunge here, a sprinkle of trip hop there… and some orchestral spells of course. There’s a daring to that, win or lose. Throwing [Richard Ashcroft](/reviews/the-verve-urban-hymns/) into the midst of a downtempo flow is audacious, but “Lonely Soul” pulls it off. Doing sombre, cooing Thom Yorke [years before he was doing it himself](/reviews/thom-yorke-the-eraser/>) is something we probably take for granted now, but it really is quite impressive given *Psyence Fiction *came out in 1998.
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Sample heavy albums usually appeal to me through their sheer creativity in flipping a passage of music on its head. The likes of The Avalanches and The Beastie Boys have piqued my interest during our reviews for similar reasons. Where *Psyence Fiction*, with DJ Shadow in tow, makes a stark difference is in the moods that result. Far from the cartoonesque quirk of [*Wildflower*](<reviews/the-avalanches-wildflower/>), or the bombast of [*Hello Nasty*](<reviews/beastie-boys-hello-nasty/>), *Psyence Fiction* gives us “Bloodstain”. Its eerie, sullen guitar line creates a far more distinctive atmosphere that builds through its six-minute play time to wailing guitars that echo out across the stereo field. 

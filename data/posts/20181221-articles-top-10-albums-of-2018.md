@@ -19,11 +19,11 @@ featuredimage: article-images/favourite-albums-2018.jpg
 featuredimageAlt: British punk band Idles performing onstage
 title: Our 10 favourite albums of 2018
 author:
-  - gabriel
-  - marcus
-  - fred
-  - andre
-  - andrew
+  - gabriel-sutton
+  - marcus-lawrence
+  - frederick-obrien
+  - andre-dack
+  - andrew-bridge
 blurb: It's the end of the year, and that means it's time for fond remembrances. From hip-hop to folk, and R&B to rock, here lies our favourite albums of 2017.
 
 ---

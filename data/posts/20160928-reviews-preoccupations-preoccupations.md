@@ -38,7 +38,7 @@ albumMBID: 2a64e463-6d16-4ae4-af8d-f3c064b09256
 artistLink: https://preoccupations.bandcamp.com/merch
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Fresh from releasing one of the finest rock records of 2015, Viet Cong return with a required name change and a slight shift in sound. Though its predecessor contained elements of industrial and noise rock, *Preoccupations* is very much a post-punk album, and one that wears its influences on its sleeves. The band embrace the catchier end of the post-punk spectrum to an almost imitative degree: fans of [The Cure](/reviews/the-cure-disintegration/) and Echo and The Bunnymen will assuredly approve of a tracklist so purposely comprised of bass-driven, guitar glistening songs. 
@@ -60,7 +60,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Preoccupations* is formless, but not in a bad way. The self-titled presentation is appropriate; the album is effectively forty minutes of the band’s sound, something defined more by character than by memorable statements. Luckily, it’s a good sound, a heavy post-punk drone reminiscent of the likes of Joy Division and early [Public Image Ltd](/reviews/public-image-ltd-9/). The difference is that this is more at ease with its pleasantness, which I suppose is to be expected given that Preoccupations are Canadian. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Preoccupations have released an eponymous album that certainly grows on the listener. While the album opener and lead single, “Anxiety”, makes for a noisy, satisfying start to proceedings, things really don’t get going until the listener is being hypnotised by droning, transfixing ambience at the end of “Memory”. From here on, the album deviates off in a more explorative direction, with each track bringing unique characteristics to the album, be it the crunchy synths in “Forbidden” or the driving bass line that whips up a fast-paced energy by the end of “Stimulation”, the tail end of *Preoccupations* is where it shines. 

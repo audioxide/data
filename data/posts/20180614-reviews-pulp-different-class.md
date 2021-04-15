@@ -40,7 +40,7 @@ artistLink: https://www.merchbar.com/rock-alternative/pulp
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   One of the most distinctive aspects of Britpop, both in its music and its culture, was the curious combination of superficial amusement with quivering angst and apprehension. No album epitomises this trademark characteristic more than *Different Class*. On this, their fifth album, Pulp had expanded on past formulas and mastered their theatrical brand of satirical pop. They had released good records prior, particularly *His ‘N Hers*, but this was where everything fell into place. 
@@ -62,7 +62,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Different Class* has a gift for sounding like Britpop while also making most Britpop sound rubbish in comparison. The soaring choruses, the la la las, the acute class consciousness — all the hallmarks are there, and they’re all the better for being delivered by [Jarvis Cocker](/reviews/jarvis-cocker-jarvis/). His offbeat lyricism sits so well throughout that it’s easy to forget how impressive it is that it works at all. Jangling pop-rock probably isn’t the natural bedfellow of spoken-word musings on knickers and trust fund babies, but you wouldn’t know it listening to *Different Class*.
@@ -82,7 +82,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   "*Different Class* is the Britpop album that sits above the rest for me. Quintessentially British without shoving it down your neck, it delivers a collection of long-lasting, catchy instrumentals which complement distinctive, brilliant vocals. Where many of its contemporaries suffered issues with [muddy production](/reviews/oasis-definitely-maybe/) or [stagnated in the four-piece rock-band set up](/reviews/blur-modern-life-is-rubbish/), *Different Class* brings a menagerie of instrumentation, and a clean, crisp sound to boot. 

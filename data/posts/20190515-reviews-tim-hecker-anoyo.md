@@ -37,7 +37,7 @@ artistLink: https://tim-hecker-uk.myshopify.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   A constant criticism of Tim Hecker’s music – and the work of his peers – is the way in which the pieces often prioritise the process and predominant concept over the end result. Too often we, as modern listeners, look for conclusions, answers and emotional rewards. We’re conditioned in such a way that it becomes routinely easy to dismiss any work that requires us to think about how, and why, the music itself was made. Many writers and artists have written far more profound and interesting pieces on this subject, but suffice to say, I find Hecker’s latest work very satisfying indeed.
@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   Tim Heckers newest 2019 release is not your Sunday morning listening. And it’s certainly not your Saturday night listening either. *Anoyo* is darkly uncomfortable and at times nervously pretty.
@@ -75,7 +75,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Tim Hecker stands alongside [Apparat this year](/reviews/apparat-lp5/), as they both release albums full to the brim with rich, organic, swirling and, at times, seemingly directionless music. *Anoyo* is somewhat of a different beast to *LP5* though, and where the latter settled for delicate ambient moments without much weight, Hecker pursues a more ambitious work that tends to be less kind towards his listener.

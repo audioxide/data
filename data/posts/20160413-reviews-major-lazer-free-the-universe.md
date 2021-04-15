@@ -33,7 +33,7 @@ artistLink: https://majorlazer.merchtable.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   EDM is undoubtedly one of the more divisive genres in modern music. Even after the explosive success of giants like Skrillex and Deadmau5, questions continue to be asked of its longevity, its legitimacy as a music type, and the potential damage it deals to certain sectors of the electronic music community. As the movement proceeds through this troubling period, it’s important to keep in mind the primary reason such music exists in the first place: to inspire the expression of dance. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Being introduced to EDM this way was like being introduced to a moving car. There’s a lot of noise in *Free the Universe*. A lot. And it won’t stop. It won’t stop. It won’t stop. If music really is the gaps between the notes then *Free the Universe* is sublimely vapid. I’m not sure I’ve ever listened to something so terrified of silence. There are points in the album that threaten to be listenable — softer, calmer efforts like “Reach for the Stars” or “Jessica” — but the poor dears are bludgeoned to death by the staggering din of the rest of the tracks. I’m a grumpy, reticent sort, so the all-in hedonist orgy extravaganza Major Lazer is going for is probably wasted on me. That’s its saving grace; if you’re not me you might not hate it. But me, I hear precious little humanity in *Free the Universe*. The album is a grotesque semblance of life, and all that lies behind its ghastly veneer is the reminder that death is coming and not soon enough. My warmest thanks to Kaya for the request.
@@ -70,7 +70,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It seems that I’m in the minority here when it comes to this album and this brand of dance music. I enjoy the heavy beats, the overzealous sub bass and synths, even if some haven’t aged well in the three years since the album’s release. I enjoy this and similar albums like I enjoy fast food, it’s 'Junk Music' — listen to it all the time and I’d have a bland musical experience which missed critical things that are needed to fully enjoy music. I understand why people stay away from it in the same way as they stay away from junk food, but I give into, and enjoy, more audacious music like this. 

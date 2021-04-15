@@ -35,7 +35,7 @@ artistLink: https://shop.adele.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Now that *25* has been unleashed, Adele is in the midst of breaking every sale record imaginable. The figures are remarkable, and even I, with my cynicism intact, can understand why Adele has become such a giant in the contrived field of pop music. Precise, flamboyant, and incredibly accessible, her voice is as good as anyone’s in the genre. It’s the sheer dynamism of Adele’s vocals that truly sets her apart from her peers though, a trait that consequently makes her one of the greatest pop vocalists of the 21st century. 
@@ -56,7 +56,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   *25* is inoffensive and unspectacular pop fodder. People will listen to it on the radio and find it agreeable and vaguely evocative and no-one will be telling their grandchildren how exciting it was to be around when it was released. It’s a shame, because when it’s utilised effectively Adele has a voice like a freight train, and she’s shown herself to be an extremely capable songwriter in fits and bursts across *19* and *21*. 
@@ -75,7 +75,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It would be remiss of us not to at least take note of the UK’s newest fastest selling album, despite it looking a little out of place beside our previous reviews. It’s taken as a given at this point that Adele’s voice is impressive, but *25* doesn’t do anything to add or detract from this, providing little challenge nor any vocal line so bland to take note of.

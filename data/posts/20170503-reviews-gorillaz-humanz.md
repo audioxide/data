@@ -34,7 +34,7 @@ artistLink: https://store.gorillaz.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   *Humanz* doesn’t feel all that human. In fact, it barely feels like an album at all; more like an extended mixtape, with a long list of guests who share the same doomsday despair, however vague the vision may be. Unfortunately, these visitors don’t seem to be involved as much as they seem to be intruding, and the abundance of outside talent is a big reason as to why *Humanz* rarely sounds like a Gorillaz album. It’s too inconsistent to be cohesive, and it’s too much of a frenzy to be all that enjoyable. Ultimately, listeners are left with a feeling of disconnect that makes the record a hard sell.
@@ -54,7 +54,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Damon Albarn and his impressive entourage set expectations high, the man himself describing *Humanz* as ‘a party album for the end of the world’, while four (mostly) great singles laid the bait. “Ascension”, featuring the exciting talent of Vince Staples, seizes the doomsday concept with bars detailing the death of God, the falling of the sky, and the dropping of the ass, setting the apocalyptic party tone I expected. Unfortunately, the thread is dropped and doesn’t get picked back up until later, and it becomes clear that *Humanz* has little focus, struggles to play to Gorillaz’ strengths, and suffers from its rudderless form.
@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I no doubt set myself up for disappointment this week. My time with the back catalogue from the animated outfit has been thoroughly enjoyable thus far, but *Humanz* falls a little flat in comparison. It’s a varied album for sure, featuring a star-studded list of great collaborations, and while that’s not anything new for a Gorillaz release, *Humanz* has far less of that Gorillaz quirk that I’ve come to know and love. 

@@ -39,7 +39,7 @@ albumMBID: ef8e8e4d-05a2-4732-b68a-c5b6af86d786
 artistLink: https://store.mogwai.scot/
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   For the past 25 years, Mogwai have consistently delivered captivating records of instrumental rock, setting the standard for much of the scene to strive for. Their songs follow a formula of patiently building to an explosive crescendo of noise. Often with a sense of sadness, though occasionally a feeling of overcoming. Ten albums in and the band continue to make good on this blueprint that has earned so many dedicated fans. However, _As the Love Continues_ does sound different from previous records. It’s more playful, and less restrained. It feels like Mogwai have loosened up a little. The result is a rich assortment of songs that showcase the multiple facets of the bands perceptions and inspirations.
@@ -62,7 +62,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I was ready to lavish this album with simpering, unconditional praise and slap an eight on it and prance into the sunset. Alas, it is merely very good. Floating out of post-rock orbit and towards the lighter, brighter moons of electronic (and even pop) music, _As the Love Continues_ manages to feel both enterprising and tentative — an album caught between worlds.
@@ -83,7 +83,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I’ve been harbouring a secret: Mogwai is not my bag. Though I had praise for _[Atomic](/reviews/mogwai-atomic)_ and their previous LP, _[Every Country’s Sun](/reviews/mogwai-every-countrys-sun)_, suggesting that ‘I can certainly see myself returning for more’ was maybe a bit ambitious. While much of Mogwai’s appeal is in their ability to slowly build large soundscapes, it can wear a little thin for me when that’s all an album has to offer.

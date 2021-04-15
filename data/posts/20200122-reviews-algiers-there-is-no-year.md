@@ -40,7 +40,7 @@ artistLink: https://algierstheband.terriblemerch.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The release of clipping’s 2019 record [*There an Existed an Addiction to Blood*](/reviews/clipping-there-existed-an-addiction-to-blood/) was a huge indulgence for my listening habits. I am drawn to deeply engaging ambience, particularly that of the gloomy kind. A glorified mood junkie, if you will. As such, I was immediately taken to Algiers’ latest release. 
@@ -62,7 +62,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *There Is No Year* left a fantastic first impression, but that’s as good as it got. It’s surprised me how little growing power the album has. It has an awful lot going for it. It feels contemporary in ways few albums manage. The arrangements are slick and dynamic, cruising a fine line somewhere between industrial and electronic music. It’s a super original sound, but not for the sake of it. That’s just Algiers’ bag, baby.
@@ -82,7 +82,7 @@ score:
   fraction: 0.7
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   On the face of it, Algiers’ latest is an exciting album. The blend of gospel, *Kid A*-era [Radiohead](/articles/ranking-radioheads-discography/), Massive Attack, and Bloc Party, among others, is intriguing. Sadly, after a week of attempting to understand it, I can’t help but feel that the album is largely an aping of its influences, lacking the edge to make it deliver on the promise.

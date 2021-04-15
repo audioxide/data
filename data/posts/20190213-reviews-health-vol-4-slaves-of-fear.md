@@ -35,7 +35,7 @@ artistLink: https://fashion.youwillloveeachother.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Although the latest record from L.A noise rock outfit HEALTH is an impressive listen, it’s not particularly a satisfying one. *Vol 4 :: Slaves of Fear* should theoretically be a treat for someone of my tastes: the industrial beats blast, the nu-metal guitars chug, and the soundscapes evoke a sense of fear and dread. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is an album that really sells itself short. *Vol. 4 :: Slaves of Fear *goes a mile a minute sounding cavernous and empty in equal measure. It reminds me a little of [Nine Inch Nails](/reviews/nine-inch-nails-bad-witch/), but only as a kind of pretender. NIN’s industrial edge leaves festering wounds, whereas HEALTH leaves only a glazed expression. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   HEALTH’s latest record had me intrigued from the outset. Its opening moments are menacing and mucky, and the thwack of beefy kick drums and gritty bass lines particularly hit the spot. It’s a great shame, in that case, to find that the effect doesn’t have the staying power I had hoped for.

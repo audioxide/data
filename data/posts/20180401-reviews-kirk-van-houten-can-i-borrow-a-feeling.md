@@ -32,7 +32,7 @@ blurb: Van Houten’s first and only studio album is flawed, for sure, but also
 artistMBID: 
 albumMBID:
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Kirk Van Houten’s first and only studio album is flawed, for sure, but it’s also profoundly personal. The songwriting is ordinary, the production is rather unpleasant, yet there’s a certain charm to the whole affair. After 20+ years of mockery, I feel the album’s reputation is a little unwarranted. 
@@ -54,7 +54,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Can I Borrow a Feeling?* still divides opinion. I know where I stand. Recorded in the wake of the title track’s surprise independent run in the US Top 100, Kirk Van Houten’s debut (and swansong) is a marvel. I still don’t fully understand how Van Houten got a record deal out of that single — allegations persist that mayor Joseph Quimby used public school funds to buy copies in bulk and get Springfield positive national press coverage, though this remains unproven — but he did, and it was everything you hoped it wouldn’t be. 
@@ -73,7 +73,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *Can I Borrow A Feeling?* is probably our most divisive album review yet. Charlatans mock Kirk Van Houten for his brave insight on life, but it’s clear that this debut sits among the highest echelons of contemporary music. 

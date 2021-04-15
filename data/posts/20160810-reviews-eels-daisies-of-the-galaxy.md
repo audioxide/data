@@ -35,7 +35,7 @@ artistLink: https://eelstheband.com/stores.php
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Mark Everett, known simply as E, occupies a peculiar space in indie rock. The foundations of his music are not separate from that of other artists, with songs fuelled by guitar-driven chord progressions and conventional structures. It’s the other, slightly frivolous details that have caused Eels to settle for a niche place in the industry. E sings about love and loneliness — all that jazz — but also delves into a darker space that explores death and depression. He blends these themes in such a way that it makes you feel sad for being happy, and happy for being sad. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I like E. No, not that E. Mr. E. The sad cuddle E. *Daisies of the Galaxy* is a real sweet spot of unobtrusive, almost apologetic Eels melancholy. I love that place. Despair and mania skip hand in hand through cutesy acoustic numbers and gruff rollers and slow burners about the hidden little things that swell bigger than everything. It’s a good ride. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Eels have a knack for creating a music that juxtaposes itself effortlessly. From the regal, carefree opening minutes of “Grace Kelly Blues” to the last, happy-go-lucky seconds of “Mr. E’s Beautiful Blues”, *Daisies Of The Galaxy* brings a lot of desolate emotions behind quirky, upbeat pop tracks through most of its playtime. The exception would be “It’s A Motherfucker”, which sounds closer to a tragic musical piece, and shows its heart far more openly. 

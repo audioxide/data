@@ -38,7 +38,7 @@ artistLink: https://nenehcherry.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Neneh Cherry’s latest album sees her continue the stylistic change towards trip-hop that was first heard on 2014’s *Blank Project*, with Four Tet once again at the helm of production duties. *Broken Politics* is notably more reflective than her previous work — or indeed any of her studio albums — and its meditative sound can certainly be endearing, to the point of relaxation. According to its press release, the record [‘searches for answers, patiently and with great care’](https://nenehcherry.bandcamp.com/), and it’s undoubtedly a success in that regard. Cherry’s lyrical work is as good as ever, and her voice is as charming as ever.
@@ -59,7 +59,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I wish I liked *Broken Politics* more than I do. Projects made with this much tenderness deserve at least some in return, but there’s been no getting past the fact this album doesn’t stick. Neneh Cherry weaves an eclectic, vibrant world here — parts [Saul Williams](/reviews/saul-williams-martyr-loser-king/), parts [Joanna Newsom](/reviews/joanna-newsom-divers/), parts [Solange](/reviews/solange-a-seat-at-the-table/), all very much her domain. In full flow it’s a delight. “Natural Skin Deep” jangles and gyrates, partylike in its energy. The vocals on “Kong” are measured and elegant, lending the track an elegance beyond that of its neighbours.
@@ -80,7 +80,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Broken Politics*‘ toothlessness is a blessing and a curse. For every moment of serenity there’s a feeling of incompleteness, and the result is an album that’s sadly unmemorable.

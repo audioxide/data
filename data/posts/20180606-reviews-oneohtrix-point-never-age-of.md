@@ -36,7 +36,7 @@ artistLink: https://kontraband.shop/collections/point-never
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   I’ve become rather attached to Daniel Lopatin’s latest work. It’s hardly a surprise really, given my fondness for 2015’s [*Garden of Delete*](/reviews/oneohtrix-point-never-garden-of-delete/), an album that brutally demonstrated that Oneohtrix Point Never is one of the most vital artists working in the electronic music field. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I find it difficult to talk about music like this, whatever this is. Renaissance art dipped in crazy and given a soundtrack? Something like that. As far as craft goes, I listen and hear only things to admire. The mix is neatly polished and well oiled, with harpsichords and autotune rubbing shoulders as if it were the most natural thing in the world. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It seems all three of us have come at *Age Of* from different starting points and all arrived at roughly the same conclusion. For me, Oneohtrix Point Never’s [previous release](/reviews/oneohtrix-point-never-garden-of-delete/) was rather too rich for my blood, often building a mania of pretty ominous layers of sound then dropping everything and doing something totally different. It honestly made for a frustrating listen where I just wanted a little more exploration of each idea. 

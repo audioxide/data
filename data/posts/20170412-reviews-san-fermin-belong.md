@@ -36,7 +36,7 @@ artistLink: https://sanferminband.square.site/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   For [our review of San Fermin’s second studio album *Jackrabbit*](/reviews/san-fermin-jackrabbit/), I wrote that ‘the album in its entirety can feel slightly taxing due to the bloated, overstuffed nature of the songwriting.’ This unfortunately seems to be a staple of Ellis Ludwig-Leone’s writing, because *Belong* contains the exact same problems that held *Jackrabbit* back from being one of the best albums of 2015. In fact, it’s even more bloated, and it contains even less highlights. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Thomas
+author: thomas-ashby
 
 review: >-
   This is my first time experiencing the sound of San Fermin, and it has proved to be an interesting record for me for a number of reasons. *Belong* doesn’t shy away from openly revealing its tricks and influences. This makes it feel instantly accessible and comprehendible, but at times also causes certain tracks to feel formulaic, and a little too familiar to what can be heard in mainstream popular music. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I can’t help but be disappointed. From their distinctive, suspenseful debut, to their [sophomore album](/reviews/san-fermin-jackrabbit/) that didn’t quite hit the same mark, and now to *Belong*, I’m continuously finding less to love in San Fermin. Besides a few standout tracks, a lot of the work here feels homogenised. I can draw easy comparisons between these tracks and other mainstream pop tracks (“Better Company” is a Calvin Harris track sanitised for Radio 2) and that wasn’t something I would think about doing in previous releases. Drained of its drama, its strings softened and horns stifled, *Belong* really has lost a great deal of the charm that San Fermin had initially brought to the table. 

@@ -35,7 +35,7 @@ artistLink: https://artists.sound-merch.com.au/theavalanches/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   The Avalanches have finally returned with a new record, and it’s fairly good. Thank heavens. *Wildflower* is brimming with positive energy, and is a worthy, if lopsided follow-up to the acclaimed *Since I Left You*. The music is carefree, graceful, and extremely accessible, with an open-ended structure that makes the listening experience feel like a vast and joyous journey.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Wildflower*, The Avalanches’ long-awaited follow-up to *Since I Left You*, has arrived in one piece. One bouncy, sunny, protracted piece. It comes out of the blocks strong. “Because I’m Me”, for all intents and purposes the opener, is a dynamically mixed old-meets-new summertime soul drive with serious charm. The track throws a gauntlet down to the rest of the album, which does a serviceable job of picking it up again. 
@@ -78,7 +78,7 @@ score:
   max: 10
   fraction: 0.7
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   It’s been a long time coming, but The Avalanches have given us a new record with a lot to like about it. A sun-kissed tracklist makes it a timely release and gives enough of an Avalanches signature to satisfy fans of their cult classic debut, *Since I Left You*. Besides that, *Wildflower* sees an emphasis on making something simply fun to listen to, with Nickelodean-infused tracks like “The Noisy Eater” making for some of the best play time on the album. 

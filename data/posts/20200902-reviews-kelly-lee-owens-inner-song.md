@@ -38,7 +38,7 @@ artistLink: https://kellyleeowens.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   There is an abundance of good producers in the realm of electronic music. There are some good songwriters too. To find an artist capable of excelling in both aspects can prove challenging. Even [Thom Yorke](/reviews/thom-yorke-the-eraser/), often considered one of the best songwriters of modern music, has released electronic records to varying degrees of success. [James Blake](/reviews/james-blake-assume-form/) has found a formula that works for him, though even then some listeners remain skeptical.
@@ -61,7 +61,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I came close to adoring *Inner Song*. Bold, playful, and absolutely immaculate, it’s everything I tend to like in an electronic album. And yet in a way the album is so delicate, so finely made, that it at times feels too fragile for its own good. It’s like a frozen wildflower – intricate and beautiful, but prone to shatter at any moment.
@@ -82,7 +82,7 @@ score:
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   *Inner Song* is one of those albums that I wish I could like more than I do. While plenty of the album’s qualities are admirably delivered, sublime, and polished to a fine sheen, its general sterility and lacking variation mean that, while it’s often a gorgeous listen, I’ve found it deeply forgettable.

@@ -35,7 +35,7 @@ artistLink: https://store.qotsa.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   It’s universally known that Queens of the Stone Age are, almost certainly, the coolest band in the World. Born from the dust of legendary stoner-rock band Kyuss, the Queens obviously know how to rock hard, but they also know how to dance. A sense of playfulness runs through their entire catalogue, and they sure know how to have a good fucking time. Their impact on modern rock music is rather understated given their fine reputation, particularly now as Joshua Homme has made a name for himself as a producer, and not just a badass frontman. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   The new Queens of the Stone Age album is a bit dorky for me to get fully on board with. There’s a sentence I never thought I’d write. *Villains* dabbles in two new sounds: synthesisers and scrunchy Mark Ronson production. The first works, the other kind of works eventually. 
@@ -81,7 +81,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Queens of the Stone Age have enjoyed a lighter, synth-laced sound in their more recent material, and it was a roaring success in their previous album, [*…Like Clockwork*](/reviews/queens-of-the-stone-age-like-clockwork/). This trend was bound to continue with Mark Ronson’s involvement in this latest outing for the band, but in places Ronson’s sheen teeters on the overbearing cliff edge. 

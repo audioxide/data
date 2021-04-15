@@ -34,7 +34,7 @@ artistLink: https://shop.kendricklamar.com
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Kendrick Lamar’s sparse activity in the past 12 months has been an intriguing conversion in hip-hop. Most rappers would find it difficult to leave the limelight after releasing such an acclaimed record as [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly), but aside from some excellent TV performances Kendrick has laid relatively low. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Can’t argue with more Kendrick. Refreshingly up-front about the jumble of its composition, *untitled unmastered.* is a welcome surprise and a worthy addition to Lamar’s already outrageous resume. Comprised mostly of dabbles and snippets from the formative months of [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/), this album embraces its patchwork nature and in doing so manages to sound more complete than many ‘real’ records do. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Here’s my disclaimer before we go any further: if this release had been abysmal, I would’ve been very kind to it. B-side releases are typically hit and miss after all; it’s usually obvious why the tracks had been discarded in the first place. The good news? I don’t need be sympathetic, I don’t need to skirt around ugly truths, I don’t need to polish a turd. The sweepings from [*To Pimp a Butterfly*](/reviews/kendrick-lamar-to-pimp-a-butterfly/)‘s cutting room floor include some treasures, all threaded together in a surprisingly consistent package. 

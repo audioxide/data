@@ -33,7 +33,7 @@ artistLink: https://shop.fatfreddysdrop.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Fluently blending the foundations of dub with jazz, soul, and electronica, *Based on a True Story* is a smooth and summery listen. True to its reggae roots, the album’s mood is consistently mellow, providing an ideal vibe for those warm summer evenings. It flows at a steady tempo and seldom threatens to move away from it — even during the long digressions often responsible for lengthy song durations. When Fat Freddy’s Drop stumble upon a particularly good jam, they remain in that space for a good while. And who can blame them, because when it does soar, *Based on a True Story* is a highly enjoyable experience. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Based on a True Story* was like listening to galaxy formation very slightly sped up. Numerous instruments and sounds go into the makeup of the album, but it takes an age for them to converge and take shape. When they do, the results are seductive, although not without their limitations. Early tracks are formless, passive, and overlong. This happens then that happens then it’s the next song. It’s not terribly gripping. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Fat Freddy’s Drop have completely passed me by up until now, but listening to their debut release, *Based on a True Story*, has been a great entry point. Introducing themselves with tracks soaked in dub and reggae influences, the album sets a clear vibe for the listener. It produces a vast, sparse soundscape in the opening minutes of “Ernie” with a mix of jazz and reggae instrumentation and hollow, reverberating vocals, only to draw the listener into a busier, richer sound that continues on through the album. 

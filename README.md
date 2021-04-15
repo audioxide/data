@@ -55,7 +55,7 @@ tags:                           # Optional
   - pop
   - bat for lashes
 featuredimage: 2016/06/file.png # Relates to a path from the ./data/images directory
-author: fred                    # Relates to an author file in ./data/authors directory
+author: frederick-obrien                    # Relates to an author file in ./data/authors directory
 blurb: Lorem ipsum dolor        # Used as an SEO description; optional; summary used if unspecified
 summary: Lorem ipsum dolor      # Used as a by line in articles and a long, conclusive review summary; optional for articles
 artistMBID: 00000000-0000-0000  # A MusicBrainz ID for the artist; mainly for reviews; used to pull artist information; optional
@@ -105,7 +105,7 @@ otherwise this content will count as a new content section.
 
 ---
 
-author: andrew
+author: andrew-bridge
 
 review: >-
  This is another content section, but it uses YAML syntax to provide further metadata about this
@@ -138,14 +138,6 @@ Note also, that Markdown allows for HTML tags to be used within it, allowing for
 to be used in content
 
 ```
-
-#### Images
-
-Images have been imported directly from the Wordpress upload directory, and as such have a `YYYY/MM/file.jpg` format. This format is **not** required, but may be worth continuing with or reorganising entirely. However, as post files manually reference image paths, reorganisation would require re-referencing, which would need some code automation to do sanely.
-
-During generation, images are regenerated at multiple sizes and aspect ratios to allow for performant and flexible display in the site. These sizes are determined by the `./data/images/sizes.json` file. This file provides a name for a size, and specifies width (or `w`) and, optionally, height (or `h`). If no height is specified, the same value as width is used.
-
-Files will only be reduced and cropped and will not be enlarged if they are smaller than the size specified.
 
 ### Non-data files
 

@@ -19,11 +19,11 @@ featuredimageAlt: Screenshot of the music video for "Me In 20 Years" by Moses Su
 title: Our 10 favourite singles of 2020
 author:
   - rachael-davis
-  - marcus
-  - gabriel
-  - fred
-  - andrew
-  - andre
+  - marcus-lawrence
+  - gabriel-sutton
+  - frederick-obrien
+  - andrew-bridge
+  - andre-dack
 summary: This year has been... testing, to put it mildly. The magic of music has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat
 blurb: This year has been... testing, to put it mildly. Music's magic has been a valuable support for many of us. Some would say essential. Here are the songs that kept us afloat.
 

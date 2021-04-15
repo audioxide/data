@@ -36,7 +36,7 @@ artistLink: https://blonded.co/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Upon the release of his first official album, [Frank Ocean revealed that his first love had been a man](http://frankocean.tumblr.com/post/26473798723), which naturally got people talking about his sexuality. More importantly, it provided critical context to an album made up of tragic laments of unrequited love. *Channel Orange* represents personal freedom, and it’s a liberation that Ocean experiences as an artist as well as a man. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.9
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   André and Andrew are right to admire what they do about *Channel Orange*, but I’d be lying if I said the album and I ever really hit it off. As finely made as Frank Ocean’s work is, my praise for it seldom escapes the afterthought ‘for pop.’ Reflective, for pop. Vulnerable, for pop. Important, for pop. This sounds smarmier than I mean it to. *Channel Orange* is a complete work and a nice listen, but ‘nice,’ as we all know, can be a death knell of a first impression. It has that horrible characterless implication to it. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Despite its notoriety and acclaim, I’ve only been listening to *Channel Orange* for a similar amount of time as [*Blonde*](<reviews/frank-ocean-blond/>), and it’s been an interesting comparison. *Channel Orange* is rife with catchy hooks and a huge variety of sounds and atmospheres, memorable lines and nostalgia-inducing interludes. Unlike *Blonde*, beats and percussive rhythm are commonplace but by no means similar or boring, taking influence from electronic and dance, soul and jazz, and hip hop itself. 

@@ -42,7 +42,7 @@ artistLink: https://grandaddy-us.myshopify.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Sombre, sleepy, yet constantly absorbing, *The Sophtware Slump* remains the definitive Grandaddy record. On their sophomore release, Jason Lytle and company captured the essence of progressive rock legends ELO and presented them with similar tension and anguish to [*OK Computer*](/reviews/radiohead-ok-computer/) and [*Ladies and Gentleman We Are Floating in Space*](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/). 
@@ -64,7 +64,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Where to begin with *The Sophtware Slump*. Equal parts [Weezer](/reviews/weezer-the-blue-album/), [Radiohead](/reviews/radiohead-a-moon-shaped-pool/), [Neil Young](/reviews/neil-young-on-the-beach/), and blinking neon fairground ride, I’m never quite sure whether to find the album amusing or deeply moving. In any case, it’s very, very good. Whiny American nerd rock isn’t exactly my go-to genre, but this is a cut above most of what you hear out of the indie scene.
@@ -86,7 +86,7 @@ score:
   fraction: 0.8
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   It’s a shame that the easiest way to describe *The Software Slump* is to compare it to *Kid A*, particularly as the flattery somewhat sidelines its own achievements. Grandaddy’s second album is similarly atmospheric, ponderous, uncanny, and sad, but where *Kid A* achieves its mystery through complexity, *The Sophtware Slump* manages it with simplicity.

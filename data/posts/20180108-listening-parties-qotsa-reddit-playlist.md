@@ -10,8 +10,8 @@ featuredimage: article-images/queens-of-the-stone-age-logo.jpg
 featuredimageAlt: Queens of the Stone age logo
 title: André and Fred listen to r/qotsa&#8217;s Best Of album
 author:
-  - andre
-  - fred
+  - andre-dack
+  - frederick-obrien
 blurb: "r/qotsa put together the ultimate Queens of the Stone Age playlist: ...Vulgar Songs for Villains (Rated R). We put it to the test."
 
 ---

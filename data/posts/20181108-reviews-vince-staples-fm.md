@@ -36,7 +36,7 @@ artistLink: https://shop.thevincestaplesshow.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Vince Staples’ latest release is possibly his most consistent project yet. Regardless of whether it’s an album, an EP, or a mere makeshift of sorts, *FM!* is a strong and immersive concept that sees Vince go through 11 tracks in a rapid-fire manner. It sounds like 20 minutes of ad-free urban radio (or just a really good Spotify playlist). *FM!* is fun, but also chaotic, presumably representative of California life itself. Vince’s deadpan delivery is essential for the dark humour and bleak social commentary of songs like “FUN!” and “Tweakin’”. Whilst his flow can seem expressionless at times, Vince’s lyrics remain as striking as ever. The album’s character lies in its concept and its popping, bouncing instrumentals, as well as the fabulous production by Kenny Beats and Hagler.
@@ -54,7 +54,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *FM!* sounds like what you’d expect an album called *FM!* to sound like. The songs are short, the beats are consistent, the mix is vibrant, the skits have a radio station theme, and cynicism bubbles throughout. It’s quickfire West Coast hip hop. I’ve cooled on the album since early listens, but there’s an audacity to the concept that’s hard to ignore. *FM! *really does sound like a cartoonish snippet of overblown California radio, with all the pomp and sunshine and shadow that entails.
@@ -72,7 +72,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   *FM!* has been a grower for me, which is surprising given its accessibility. Whistling by at just 22 minutes, you’ll need a few listens to find more than a patchwork of contemporary hip hop. Littered with a healthy portion of features and collaborators (albeit partly made up of 30-second teasers), the tracklist doesn’t stick to one sound long enough to become tiresome.

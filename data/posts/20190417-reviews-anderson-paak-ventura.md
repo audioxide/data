@@ -37,7 +37,7 @@ artistLink: https://shop.andersonpaak.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   *Ventura*, the latest offering from Anderson .Paak, is a slick R&B record that dives deep into funk and neo soul. It’s a tight package crammed with satisfying musical ideas, with a warm and lush sound that will prove perfect for the summer. It packs a punch, though it’s missing that knockout blow, which largely comes down to a lack of originality. The substantial nods to funk rock and [golden-age Stevie Wonder](/reviews/stevie-wonder-songs-in-the-key-of-life/) are nice, but perhaps lay it on slightly too thick. Influences very quickly become imitation. There’s something slightly cynical about replicating a sound so closely without including anything meaningful to the formula.
@@ -57,7 +57,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   This has been a strange year. Each album seems to have something really right with it, but there’s always something crucial missing. Sadly, *Ventura* continues the trend, though many of its ingredients are top drawer. The arrangements are funky, the production is lush and sophisticated, and Anderson .Paak is a suitably smooth master of ceremonies. When the album is in full swing, be it through the jangling groove of “Yada Yada” or the thick, velvety soul of “Chosen One”, it’s very, very pleasant to listen to.
@@ -77,7 +77,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Anderson .Paak has created an album full of rich, textured tracks fit for summer on *Ventura*. With some great collaborations and Paak on form with his vocals, there’s a great deal to enjoy here.

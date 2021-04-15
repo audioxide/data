@@ -38,7 +38,7 @@ artistLink: https://lanadelreystore.com/
 
 ---
 
-author: andré
+author: andre-dack
 
 review: >-
   Lana Del Rey’s 2019 album _Norman Fucking Rockwell!_ was always going to be a tough act to follow. Frustrated by and disinterested in previous material, I appreciated the bolder songwriting and arrangements that felt more considered. Del Rey relied less on the tropes that made her one of the biggest pop stars of the 2010s, and - with the help of Jack Antonoff – finally produced music that matched the scope of her huge vision. _Chemtrails Over the Country Club_ is softer, smaller and slower, with no “Venice Bitch” to be found. Whilst it results in a few languid moments, the album is generally successful in its understated approach. Del Rey’s brand of dream pop has never felt more soothing.
@@ -61,7 +61,7 @@ tracks:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   I once wrote that Josh Homme of [Queens of the Stone Age](/reviews/queens-of-the-stone-age-villains/) could slur his way through a phone book and still be the coolest man in the room. Lana Del Rey has a similar gift, though with a different specialty. She could read a grocery list and still conjure smoky visions of love and cigarettes.
@@ -86,7 +86,7 @@ score:
 
 ---
 
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I think I need new ears. My current pair seem to miss most of what Lana Del Rey’s latest release has to offer. _Chemtrails Over The Country Club_ tries to be stripped back, but most of the tracklist comes off as muted, smudging the more colourful character of tracks on _Norman Fucking Rockwell!_ into a wispy cloud.

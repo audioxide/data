@@ -35,7 +35,7 @@ artistLink: https://www.liannelahavas.com/merch/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Lianne La Havas possesses a wonderful voice; soulful, delicate and adaptive when necessary, her performances across *Blood* will no doubt infatuate many listeners. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Blood* is undeniably a smooth listen, but beneath its silky surface I don’t think there’s a great deal to care for. For all the merits of Lianne La Havas’s thoroughly lovely and dynamic voice, the album ultimately comes across as lopsided and a little flat. 
@@ -74,7 +74,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   With the success of Lianne La Havas’ debut album, *Blood* had a lot to live up to. With a discernible change in instrumentation and post-production, it is clear that the album had intentions of being bigger and bolder, with a full band accompanying La Havas throughout the album where previously vocals and guitar were much more common. While the vocals remain strong and dynamic in *Blood*, the added instrumentation often feels a little surplus to requirements, lacking in dynamic range in places. 

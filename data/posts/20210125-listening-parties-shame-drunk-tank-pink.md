@@ -13,8 +13,8 @@ tags:
 featuredimage: album-artwork/drunk-tank-pink-shame.jpg
 featuredimageAlt: Album artwork of 'Drunk Tank Pink' by Shame
 author:
-  - andre
-  - andrew
+  - andre-dack
+  - andrew-bridge
 blurb: Crunchy guitars and relentless percussion abound in Shame's new record 'Drunk Tank Pink'. Yes we're two weeks into the year, but a highlight all the same.
 ---
 

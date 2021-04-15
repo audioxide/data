@@ -36,7 +36,7 @@ artistLink: https://aphextwin.warp.net/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Aphex Twin is the unequivocal master of modern electronic music. This much we know already. But studio albums have rarely been his *thing*. *Selected Ambient Works 85-92* was a magnificent debut — arguably game-changing — but that was a quarter of a century ago. The few records released since then have been drastically influential, but each suffering from similar issues of length, filler, and genuine instances of bewilderment. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Of all things, this reminded me most of our experience with Brian Eno’s [*Music for Airports*](/reviews/brian-eno-ambient-1-music-for-airports/). Listening to this was far more relaxing than it had any business being; there’s a tranquility to even the most restless arrangements. *Richard D. James Album* is kooky to be sure, but it’s also assured. It’s confident in a way that totally grounds everything you hear, from drum machines to slide whistles. 
@@ -80,7 +80,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Spending the week with *Richard D. James Album* has been a pleasure. While you could be forgiven for immediately conjuring thoughts of a spiky barrage of beats when talking about Aphex Twin, this particular release has a brilliant balance. “Peek 82454201” does well to push that opinion to its limits, as it does have several moments where drum patterns twang and stutter around into white noise territory, but the pads, cold and hollow as they are, complement the beats incredibly well. 

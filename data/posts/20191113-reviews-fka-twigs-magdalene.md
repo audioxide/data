@@ -43,7 +43,7 @@ artistLink: https://shop.fkatwi.gs/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Four years after her dark and dazzling debut, FKA Twigs dials down on sensuous soundscapes and instead delivers a far more introspective record. *MAGDALENE* explores the effects of physical and emotional trauma in visceral fashion. Certainly, it stands as one of the year’s most striking pop albums. 
@@ -65,7 +65,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   When we reviewed [*Ghosteen*](/reviews/nick-cave-and-the-bad-seeds-ghosteen/) by Nick Cave & The Bad Seeds, my main issue with the album was its tendency to drift. Although the production and arrangements formed a grand backdrop for Cave’s musings, there was no real impetus to drive things along. It felt more like a spoken word art project than a fully formed album. My experience with *MAGDALENE* has been much the same.
@@ -84,7 +84,7 @@ score:
   fraction: 0.6
 
 ---
-author: Marcus
+author: marcus-lawrence
 review: >-
   FKA Twigs has been around for a little while now, but she still carries an air of a musician who’s not completely shown her hand yet. *MAGDALENE* is an assured and heartbreaking album but, outside its emotional weight and sharp composition there’s not a huge deal to get excited about.
 

@@ -37,7 +37,7 @@ artistLink: https://www.queenonlinestore.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Though I’m familiar with most of the band’s gigantic hits, *News of the World* is the first Queen album I’ve actually listened to. It’s been a bizarre and somewhat unexpected experience. To put it simply, I don’t care for the record at all. The least I anticipated was an array of huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be the case. 
@@ -58,7 +58,7 @@ score:
   fraction: 0.5
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   Like Andre, my previous encounters with Queen were not with any particular studio album, but with the outsized imprint left on popular culture by their ubiquitous hits like “Bohemian Rhapsody”, “I Want to Break Free”, and “Don’t Stop Me Now”. Such tracks gave me the impression that Queen operated exclusively within the realm of elaborate and theatrical stadium anthems — that they adhered to a fairly strict set of stylistic parameters because it worked for both them and their audience; and, though I was never particularly smitten with them, I could at least appreciate that they performed their shtick with skill and verve, and understand why it appealed so broadly. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.4
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   For all its shortcomings, I have a real urge to defend Queen’s sixth studio album. However, there’s no getting away from its flaws: the pacing of the tracklist is pretty erratic from the outset. The two lead singles are slung up front to open the album, which is a decision that I can only hope was ill-advised, rather than cynical. “Sheer Heart Attack” is an energetic stomp that reacts to the punk rock movement at the time, and I find it enjoyable. Unfortunately, despite it being on my list of favourites, it’s hampered by production decisions, with drums low enough to resemble white noise, and an ending that sours me to a track I otherwise enjoy. “Fight From The Inside” destroys Roger Taylor’s vocals with a bathroom reverb, whilst “Get Down, Make Love” makes all sorts of weird decisions culminating in a stilted curio of a track. “Sleeping On The Sidewalk” cannot go unmentioned either, as it probably would’ve served the album better had it remained a demo on the cutting room floor. 

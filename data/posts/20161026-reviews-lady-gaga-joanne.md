@@ -37,7 +37,7 @@ artistLink: https://shop.ladygaga.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   As a result of her breakout album in 2008, Lady Gaga rapidly rose to become the biggest pop sensation on the planet. *The Fame* and its consequent reissue contained [numerous](https://www.youtube.com/watch?v=2Abk1jAONjw) [singles](https://www.youtube.com/watch?v=d2smz_1L2_0) that were catchy, vibrant, and exciting to the point of being outright dangerous. As well as being international hits, they were candid social statements that were accessible enough for the mainstream, and smart enough to avoid critical refusal. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.4
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   To my mind, Lady Gaga has always been a better student of image — and the possibilities of image — than of music. She’s had her magic meetings of both, of course. There was a grotesque electricity to her breakout hits which was entirely her own. It’s often been imitated since, but seldom matched, including here. Precious little of what makes/made Gaga special is on show in *Joanne*. Outrageous, acutely self-aware, infuriatingly catchy pop anthems are nowhere to be seen; just pedestrian ones. 
@@ -78,7 +78,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Pop music often gets chastised, often by me, for how similar and bland it is. With Lady Gaga’s latest release, *Joanne*, I’m able to make those complaints while still yearning for more focus. Gaga has [commented on a long term love for country musicians](http://www.rollingstone.com/country/news/lady-gaga-talks-garth-brooks-fandom-country-influences-w445181) and *Joanne* certainly has strong country influences in patches, but each attempt through the tracklist feels fleeting and is often tinged by a need to wedge in the ‘dance track’ preset. This point is demonstrated particularly well in the first 10 minutes of the album, beginning with a more familiar sound and ending with an acoustic, echoing, country ode to Gaga’s late aunt Joanne in the eponymous track. 

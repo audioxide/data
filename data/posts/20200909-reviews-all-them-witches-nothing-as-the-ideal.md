@@ -43,7 +43,7 @@ artistLink: https://allthemwitches.bandcamp.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Following the departure of keyboardist Jonathan Draper, All Them Witches have slimmed down into a trio for their sixth studio album. Thankfully, the band have lost none of their power. *Nothing as the Ideal* is another satisfying collection of alternative rock jams that rummages around in the deep and dark depths of blues, stoner rock, and neo-psychedelia. The mixture may become too eclectic for its own good sometimes, but the record remains a hard-hitting odyssey that rarely fails to entertain.
@@ -68,7 +68,7 @@ score:
 
 ---
 
-author: Fred
+author: frederick-obrien
 
 review: >-
   This is the second time in as many weeks I’ve been a hair’s breadth from loving a record but ultimately held back. *Nothing as the Ideal* has a lot going for it. The record is a sumptuously produced blend of folk, rock, post-rock, and psychedelia, all with a smokey stoner sheen. When it gets rolling the grooves are irresistible. You can inject “See You Next Fall” straight into my veins thank you kindly.
@@ -89,7 +89,7 @@ score:
 
 ---
 
-author: Gabriel
+author: gabriel-sutton
 
 review: >-
   All Them Witches' latest offering, *Nothing as the Ideal*, is as satisfying as it is surprising at times, and is a delightful addition to their already accomplished back catalogue.

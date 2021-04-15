@@ -42,7 +42,7 @@ artistLink: https://store.ilovestvincent.com/
 
 ---
 
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   St Vincent’s fifth studio album *Masseduction* is, as you’d expect, a pretty fun listen. Try as it might, it’s not much more than that. The record sounds good, and can be thoroughly enjoyable in the moment, but every now and then I force myself to focus on what Annie Clark is actually singing about.
@@ -64,7 +64,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   If (hypothetically) I were inebriated and *Masseduction* was in full flow, I’d call it [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon/) pop. With time to sober up and think about it, I’d say that’s not really true. I’m always ready to be enamoured by St. Vincent, but I haven’t fallen for her latest output — try as I might. It’s a topsy-turvy record. Glammy schizoid pop rubs shoulders with tightly wound, rather despairing cud chewing, and the two styles never truly mesh. Each has its merits. In any given listen through I enjoy one aspect or the other, just never at the same time.
@@ -86,7 +86,7 @@ score:
   fraction: 0.7
 
 ---
-author: Michael
+author: michael-clark
 
 review: >-
   In search of a more pronounced, accessible pop aesthetic, St. Vincent’s Annie Clark has ditched her long-time producer, John Congleton, to co-produce *Masseduction* alongside fun.’s Jack Antonoff, who has recently produced for [Taylor Swift](/reviews/taylor-swift-lover/) and [Lorde](/listening-parties/lorde-melodrama/>). And, superficially, it seems that Clark had to compromise nothing of her characteristic sound while doing this, as this is just as gnarled, vivid, and idiosyncratic as any of her other records. There is more of an inclination towards synthpop, and, regrettably, less of an emphasis on her virtuoso guitar playing, but this album’s wry, sexy, noisy as fuck interpretation of pop nevertheless sounds of a piece with her most recent work. Why, then, does *Masseduction* not stick with me as her previous records invariably did?

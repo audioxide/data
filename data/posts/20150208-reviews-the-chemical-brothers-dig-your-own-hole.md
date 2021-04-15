@@ -34,7 +34,7 @@ artistLink: https://merch.thechemicalbrothers.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Despite my love and appreciation for electronic music, *Dig Your Own Hole* is not an album I personally connect with too much. My favourite tracks are those that are less driven by a beat and focus instead on interesting melodies and textural layers.
@@ -50,7 +50,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   It’s certainly an acquired taste, but once I got over the hump I actually quite enjoyed the album. The allure of dance tracks is totally lost on me (which is more my problem than the album’s), but once the more textured songs rear their heads the whole album falls together a little better. The ending portion mellowed out my initial irritation. The last few tracks are top notch.
@@ -66,7 +66,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >- 
   I think it had some interesting influences, some nice basslines, and I will be returning to a fair few tracks. It’s not my favourite album of theirs from the ’90s, or in general, though.

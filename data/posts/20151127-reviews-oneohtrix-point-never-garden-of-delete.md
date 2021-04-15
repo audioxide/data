@@ -37,7 +37,7 @@ artistLink: https://kontraband.shop/collections/point-never
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Approach *Garden of Delete* with caution. Both terrifying and amusing in equal measure, Oneohtrix Point Never’s latest release is as much of an abstract collage of sound as it is an album, and has clear intentions of bending your expectations of electronic music. 
@@ -59,7 +59,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   I was, and remain, pretty ambivalent about the grating, manic school of electronic music that *Garden of Delete* seems to hail from. The hodgepodge of creativity and vacuousness that characterises it doesn’t garner affection, and I’m not enough of a fan of the genre for more cerebral qualities to come through. The album’s game of subverting listener expectations of electronic music doesn’t play so well on me, as I don’t really have any. I’m not invested in the tropes Oneohtrix Point Never’s playing poltergeist to. 
@@ -77,7 +77,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   There’s a lot to think about for a review of *Garden of Delete*. The whole album is a manic blast of sound, at least on its first listen. Twisting and turning and purposely blindsiding its listener, *Garden of Delete* doesn’t stop evolving, and without following any kind of structure it can very easily feel like a stream of consciousness immortalised in music. This alone provides a lot of reason to return over and over — a single listen simply won’t be enough to take it all in. 

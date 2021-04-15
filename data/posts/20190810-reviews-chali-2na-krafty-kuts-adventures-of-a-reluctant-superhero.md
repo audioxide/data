@@ -37,7 +37,7 @@ albumMBID: 5b058e40-25e4-4056-9123-e2315304791a
 artistLink: https://chali2nakraftykuts.bandcamp.com/
 
 ---
-author: Kieran
+author: kieran-james
 
 review: >-
   *AOARS* is an okay take on playful, skit-heavy hip-hop, but it has some low points, and these are aggravated by a pretty corny superhero conceit.
@@ -58,7 +58,7 @@ score:
   fraction: 0.5
 
 ---
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   Veterans Krafty Kuts and Chali 2na seem to lack conviction on this album, never stretching themselves to attempt anything overly exciting, content with being serviceable. Warm production and consistent flows are all very well and good, but it’s telling that synthesised hooks are often the biggest draws. Elsewhere, the heavy-handedness of its composition and lyricism fill the gap of good ideas with underwhelming severity.
@@ -80,7 +80,7 @@ score:
   fraction: 0.6
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   The latest album from Krafty Kuts and Chali 2na had my head nodding out the gates. With great instrumentals and smooth deliveries from Chali 2na, it shapes up to be a good jaunt, but after a few listens I have to admit I’ve cooled on it a little.

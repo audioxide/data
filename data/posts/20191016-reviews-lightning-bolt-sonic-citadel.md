@@ -33,7 +33,7 @@ albumMBID: e15e37de-2462-48fa-9f81-e512eb24fb12
 artistLink: https://lightningbolt.bandcamp.com/
 
 ---
-author: André
+author: andre-dack
 
 review: >-
   As noisy duos go, I’ve always found Lightning Bolt to be quite frustrating. They’re an outstanding live outfit which, in my opinion, always struggled to transmit their energy onto recordings. Unfortunately, *Sonic Citadel* suffers from the same issue, though it does introduce a new side to the duo that makes for a refreshing change of pace. 
@@ -55,7 +55,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   My favourite thing about the album is how angry it made Andrew.
@@ -70,7 +70,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Full disclosure: noise rock is not an area of music I frequent often. Lightning Bolt’s latest album gives me no desire to explore it further. I have it on good authority that this duo is formed of stellar talent, and by all accounts their live performances burst with energy. But *Sonic Citadel* sticks around for too long on the same idea for the effect to carry over here.

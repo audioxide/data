@@ -35,7 +35,7 @@ artistLink: https://daftpunk.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   On their appropriately named second studio album, Daft Punk discover the joy in mainstream electronic music, blending the foundations of house with smooth disco quirks. *Discovery* starts as well as any other record of its kind, rolling out infectious hits one after another, and leaves an initial impression of jubilance that you’d struggle to match in dance music. 
@@ -57,7 +57,7 @@ score:
   fraction: 0.8
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Discovery*, the second album by French lightning rods Daft Punk, is a rambunctious affair. It boings along quite happily, with a quaint electric shimmer, and often proves infectious. It’s charming in its zest and sincere in its cheeriness. “Harder, Better, Faster, Stronger”, which I can only hope is house music’s answer to [Radiohead](/articles/ranking-radioheads-discography/)’s “Fitter Happier”, remains as cheerfully strange as it’s ever been, warping synth effects in a way that feels natural — obvious even. Why *wouldn’t* it sound like that? On the other end of the spectrum, “Verdis Quo” drifts beautifully somewhere in the Disco Galaxy. I like both a great deal, and more besides. 
@@ -75,7 +75,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   This was largely heralded as an excellent return release from Daft Punk, and it’s easy to see why given the impression the opening minutes leave. From the sample-centric, vocoder adorned “One More Time” to “Aerodynamic”, the guitar solo epic that covers a huge amount of ground in three and a half minutes, *Discovery* sets a big, catchy precedent for the rest of the album. 

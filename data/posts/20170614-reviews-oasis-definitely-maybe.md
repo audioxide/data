@@ -37,7 +37,7 @@ albumMBID: 451dca98-c118-32e1-9244-c47ca9c3c0f9
 artistLink: https://shop.oasisinet.com/
 
 ---
-author: ANDRÉ
+author: andre-dack
 
 review: >-
   Like many of the best debut albums, *Definitely Maybe* set the foundation of something special. Oasis firmly inhabited themselves in rock & roll — not exempt from both the liberations and limitations of the genre — as they embraced their working class credentials. In looking to capture the imagination of ordinary folk just like themselves, the band showed glimpses of potential prominence. This, of course, was the most exciting aspect of it all. Oasis proved that stardom is in touching distance of all of us, just so long as you have the tunes.
@@ -59,7 +59,7 @@ score:
   fraction: 0.7
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Straightforward, confident, full of earworms, the prestige of Oasis’s debut album is no great mystery. As revered as *Definitely Maybe* is, there is not much to be said about it. Its simplicity is exactly what makes it so good. “Rock ‘N’ Roll Star”, “Shakermaker”, and “Liver Forever” are as good an opening rock trio as you’re ever likely to hear, and that standard carries through. What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s the game on *Definitely Maybe*; relentless and unstoppable. 
@@ -81,7 +81,7 @@ score:
   fraction: 0.8
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   I can’t admit to being the biggest fan of Oasis in the past, between the band’s internal dramas and the middling reception their output of the ’00s received, they’ve never been on my list of musical interests. *Definitely Maybe* works to repair that impression somewhat. Their debut is certainly not the shiniest release from the band, with much of the album suffering from muddy guitars and ‘raw’ mixing and production style. 

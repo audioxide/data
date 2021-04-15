@@ -36,7 +36,7 @@ artistLink: https://jarvis-uk.myshopify.com/
 
 ---
 
-author: André
+author: andre-dack
 
 review: >-
   Solo albums can be tricky ventures, particularly those born from the minds of eccentric frontmen with a bone to pick. Whilst some leave the past behind and relish a newly-offered creative license, Jarvis Cocker instead seems a little lost without his standard supporting cast, awkwardly fidgeting his way through numerous ideas without coming to a satisfying development. He knows exactly what he’s doing, yet the potential is disappointingly unfulfilled. 
@@ -56,7 +56,7 @@ score:
   fraction: 0.6
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Jarvis Cocker’s maiden solo album sounds like one. The record, for better or worse, may as well be called *Pop: The Album*: charming, listenable, and a bit shallow. As I think happens quite often with solo albums, *Jarvis* comes across like one person trying to replicate the synergy of a band — without the band. This is hardly a deal breaker, but it does make for a peculiar dynamic. 
@@ -76,7 +76,7 @@ score:
   fraction: 0.7
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Debut solo albums make for interesting listens, as an artist’s approach can vary widely. Cocker hasn’t thrown any curveballs here, filling *Jarvis* with catchy pop rock for the most part, though that isn’t totally positive. While tracks like “Don’t Let Him Waste Your Time” and “Heavy Weather” are easily consumed, they don’t necessarily linger, nor do they provide any real character. 

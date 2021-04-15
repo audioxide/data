@@ -36,7 +36,7 @@ artistLink: https://www.atcqshop.com
 
 ---
 
-author: Marcus
+author: marcus-lawrence
 
 review: >-
   There hasn’t been a rapper or group before or since A Tribe Called Quest that has matched their knack for worldly whimsy. *Midnight Marauders* is, for me, Tribe at the peak of their powers, and the result remains staggeringly original 25 years later.
@@ -58,7 +58,7 @@ score:
   fraction: 1
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   *Midnight Marauders* is possibly the most sumptuous hip hop album I’ve ever listened to, which makes it all the stranger that I can’t pinpoint most of what happens. It’s relentlessly, casually cool. The record serves up a steady stream of excellence, a hazy, luxurious world of supple grooves and easy flows. Its ‘program’ opens with hopes that what follows will be ‘precise, bass-heavy and just right.’ It delivers and then some.
@@ -75,7 +75,7 @@ score:
   max: 10
   fraction: 0.9
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   At a quarter-century old, you could forgive an album for sounding a little tired to the modern listener, but *Midnight Marauders* needs no such apology. From the quirk of the latin-jazz interludes to the hooky instrumentals to the lyrical interplay between the four members of A Tribe Called Quest, *Midnight Marauders* remains fresh and engaging.
