@@ -24,7 +24,7 @@ colours:
   - "#d5d5d5"
   - "#d5d5d5"
 pullquote: TBD
-summary:TBD
+summary: TBD
 week: 268
 blurb: TBD
 artistMBID: ecf5ab37-019f-4cc1-9fdc-218de6a41b65
