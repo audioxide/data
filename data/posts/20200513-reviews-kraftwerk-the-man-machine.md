@@ -9,6 +9,7 @@ tags:
   - kraftwerk
   - electronic
   - pop
+  - krautrock
   - aphex twin
   - the chemical brothers
   - squarepusher
