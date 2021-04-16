@@ -18,10 +18,10 @@ artworkCreditSource: https://www.instagram.com/p/CGpxVgzpy02/
 artist: Drongo
 album: "1"
 essentialtracks:
-  - TBD
+  - Katten
+  - Neshorn
 favouritetracks:
-  - TBD
-  - TBD
+  - Hester
 totalscore:
   given: 24
   possible: 30
@@ -81,23 +81,21 @@ score:
 ---
 author: andrew-bridge
 review: >-
-  It’s a delight to happen upon genuinely enjoyable music and even more so when it’s a band’s debut. Drongo’s _1_ labels itself as Krautrock but takes no time in breaking down genre-defining walls and sprawling out in all sorts of directions.
+  It’s a delight to happen upon genuinely enjoyable music and even more so when it’s a band’s debut. Drongo’s _1_ labels itself as krautrock but takes no time breaking down genre walls and sprawling out in all sorts of directions.
 
-
-  An album packed full of ten-minute instrumentals, Drongo could easily fall foul of [outstaying their welcome or over-egging affairs](/reviews/tool-fear-inoculum/). But there’s no such misstep here. Opening with “Katten”, the band provides a taste of the goods before building a kinetic canter with a driving beat and Kraftwerkian counter-rhythms around the edges of the track. Ever-changing, this isn’t just a beat and a drone, kineticisms give way to ominous, gliding wails, which make a backdrop for eerie horns that flutter as the track drives to its climactic conclusion. It makes for an incredibly satisfying, fun experience, and it’s not just this track that pulls it off. “Hester” has delicate, tense breakdowns that build suspense for the track’s final leg, which modulates into an uplifting chord progression of effervescent guitar. “Neshorn” is a musical inkjet printer turned raging tribal pummel that drops into a treacly, noisy half time and enjoys its time there.
-
+  With an album packed full of ten-minute instrumentals, Drongo could easily fall foul of outstaying their welcome or over-egging affairs. There’s no such misstep here. Opening with “Katten”, the band provides a taste of the goods before building a kinetic canter with a driving beat and [Kraftwerkian](/reviews/kraftwerk-the-man-machine/) counter-rhythms around the edges of the track. Ever-changing, this isn’t just a beat and a drone, kineticisms give way to ominous, gliding wails, which make a backdrop for eerie horns that flutter as the track drives to its climactic conclusion. It makes for an incredibly satisfying, fun experience, and it’s not just this track that pulls it off. “Hester” has delicate, tense breakdowns that build suspense for the track’s final leg, which modulates into an uplifting chord progression of effervescent guitar. “Neshorn” is a musical inkjet printer turned raging tribal pummel that drops into a treacly, noisy half time and enjoys its time there.
 
   _1_ is an album that remains evocative throughout. It’s an album that makes a fine backing track or one that can hold your full attention for its duration. From performers to producers, there’s a wealth of skill on display here, sounding immaculate while retaining a raw, live energy.
 
-
   At this point, I’m merely _looking_ for nits to pick. The former half of the tracklist is where I’ve had the most fun, but don’t let that suggest there’s a drop in quality as the album progresses. I’d love to hear some more of the horns from “Katten” and sludge from “Neshorn” too, but the album still has a lot more on offer.
 
-
   It’s an exciting prospect, finding a band sounding this good with their debut. Given how much fun we’ve all had with _1,_ we’ll be keeping an eye on what Drongo come up with in the future, and in the meantime, I’ll certainly be telling everyone I can about them.
+
 tracks:
   - Hester
   - Katten
   - Neshorn
+
 score:
   score: 8
   max: 10
