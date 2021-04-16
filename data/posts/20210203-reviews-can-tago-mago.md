@@ -9,6 +9,7 @@ tags:
   - can
   - punk
   - funk
+  - krautrock
   - electronic
   - rock
   - progressive rock
