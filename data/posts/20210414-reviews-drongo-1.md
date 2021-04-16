@@ -13,7 +13,7 @@ tags:
   - kraftwerk
   - daughters
 featuredimage: album-artwork/1-drongo.jpg
-artworkCredit: was designed by Frode Holgersen, with each animal representing one of the tracks.
+artworkCredit: was designed by Frode Holgersen. Each animal represents one of the tracks.
 artworkCreditSource: https://www.instagram.com/p/CGpxVgzpy02/
 artist: Drongo
 album: "1"
