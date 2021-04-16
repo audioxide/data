@@ -94,7 +94,10 @@ review: >-
 
 
   It’s an exciting prospect, finding a band sounding this good with their debut. Given how much fun we’ve all had with _1,_ we’ll be keeping an eye on what Drongo come up with in the future, and in the meantime, I’ll certainly be telling everyone I can about them.
-tracks: []
+tracks:
+  - Hester
+  - Katten
+  - Neshorn
 score:
   score: 8
   max: 10
