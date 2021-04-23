@@ -67,11 +67,24 @@ score:
 
 ---
 author: andrew-bridge
-review: Text
+review: >-
+  _Never The Right Time_ is a pastiche of nocturnal moods. Modulating between haunting, mournful soundscapes and mechanical, beat-heavy outings, Andy Stott winds his way through forty minutes of electronica that has me returning for back-to-back listens.
+
+
+  Opening with electric shivers and a doleful guitar line to back Alison Skidmore’s reverberating, breathy vocal, Stott’s statement of intent remains closely aligned to his previous material. However, Skidmore’s heavy involvement throughout this tracklist is a change from the status quo, shaping the robotic, sharp edges of the title track to something reminiscent of Bjork material and “The beginning” into a vaporwave-esque affair.
+
+
+  Elsewhere, tracklist highlight “Repetitive Strain” will sound familiar to fans of Stott’s previous output too. Sparsely arranged, Stott pairs a frantic melody with a satisfying, thumping kick drum, jumping in and out of a half time two-step. “Answers” will scratch the same itch, with compressed, manic drum patterns contrasting longtail wails that stretch out across the five-minute playtime.
+
+
+  Unfortunately, in sticking within the same arena of sounds, _Never The Right Time_ opens itself up to comparison with Stott’s previous records. His 2014 release, _Faith in Strangers_, has strikingly similar arrangements in some cuts, and edges out on top of this new album in my books. A contributing factor here is that, while Skidmore’s vocals make for a nice aesthetic, it’s one that begins to feel restrictive by the midpoint of the tracklist.
+
+
+  Familiarity aside, _Never The Right Time_ is a cracker of an album that I’ve enjoyed my time with. Returning fans of Andy Stott will find more of what they loved before, and newcomers will welcome a discography spanning fifteen years with more of the same style of cavernous synths and beats. But without exploring new ground, it’s an album that falls short of real brilliance.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Repetitive Strain
+  - Answers
+  - Never the right time
 score:
   score: 7
   max: 10
