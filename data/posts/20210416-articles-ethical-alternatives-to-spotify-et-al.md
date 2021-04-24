@@ -11,7 +11,7 @@ featuredimageAlt: Illustration of a wooden signpost with boards pointing to diff
 title: Pro-artist alternatives to Spotify et al.
 author: frederick-obrien
 summary: The big dogs of music streaming aren’t great for musicians, but there are fairer, more ethical options out there. Here are services putting artists first (or at least, not dead last)
-blurb: The big dogs of music streaming aren’t great for musicians, but there are other options out there. Here are services putting artists first (or at least, not dead last).
+blurb: The big dogs of music streaming aren’t great for musicians, but there are other options. Here are services putting artists first (or at least, not dead last).
 
 ---
 
