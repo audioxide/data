@@ -55,11 +55,21 @@ tracks:
 
 ---
 author: frederick-obrien
-review: Text
+review: >-
+  _Never the Right Time_ sounds like an orchestra was given sheet music written by Aphex Twin. It’s glitchy and fast-paced, but also ornate and elegant, sitting in a kind of uncanny valley between electronic and classical. Weird, in a word, but good weird.
+
+
+  I tend to go in for electronic music on the softer end of the spectrum - where the likes of [Kelly Lee Owens](/reviews/kelly-lee-owens-inner-song/) and [Boards of Canada](/reviews/boards-of-canada-music-has-the-right-to-children) hang out - and Andy Stott definitely fits in. ‘Nocturnal’ was a recurring word in our chat about the album, and a better descriptor hasn’t come to mind since. “When it hits” and “The beginning” especially hit the spot for me, though most of the tracks have that restless mood of neon signs and moonlight. 
+
+
+  What sets this apart from the artists mentioned above is that its ‘harsher’ elements are fluffed up - busy but never abrasive. Drum machines have never sounded so natural as they do on “Repetitive strain”. It’s what you’d expect [Thom Yorke’s solo material](/reviews/thom-yorke-the-eraser/) to sound like after smoking a spliff. 
+
+
+  The line between intriguing and boring does blur from time to time, but _Never the Right Time_ largely hits upon a bleep bloop dreaminess quite unlike anything else we’ve reviewed on this site. Weird, but good weird. Text
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Repetitive strain
+  - When it hits
+  - The beginning
 score:
   score: 7
   max: 10
