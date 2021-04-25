@@ -10,6 +10,8 @@ tags:
   - alternative rock
   - folk
 featuredimage: album-artwork/the-hope-six-demolition-project-pj-harvey.jpg
+artworkCredit: was designed by English writer and artist Michelle Henning.
+artworkCreditSource: http://www.michellehenning.co.uk/album-artwork.html
 artist: PJ Harvey
 album: The Hope Six Demolition Project
 essentialtracks:

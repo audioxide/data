@@ -11,6 +11,8 @@ tags:
   - the kinks
   - folk
 featuredimage: album-artwork/let-england-shake-pj-harvey.jpg
+artworkCredit: was designed by English writer and artist Michelle Henning.
+artworkCreditSource: http://www.michellehenning.co.uk/album-artwork.html
 artist: PJ Harvey
 album: Let England Shake
 essentialtracks: ""
