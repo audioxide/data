@@ -30,9 +30,9 @@ colours:
   - "#d5d5d5"
   - "#d5d5d5"
 pullquote: Ambient music for club-goers
-summary: Everything unravels at its own pace, with beats gradually mutating under the moody surface. Where others might layer up to obscene degrees, Stott has a knack for finding beauty in miniscule details. It’s practically ambient music for club-goers.
+summary: Everything unravels at its own pace, with beats gradually mutating under the moody surface. Where others might layer up to obscene degrees, Stott has a knack for finding beauty in minuscule details. It’s practically ambient music for club-goers.
 week: 268
-blurb: Where others might layer up to obscene degrees, Stott has a knack for finding beauty in miniscule details. It’s practically ambient music for club-goers.
+blurb: Where others might layer up to obscene degrees, Stott has a knack for finding beauty in minuscule details. It’s practically ambient music for club-goers.
 artistMBID: ecf5ab37-019f-4cc1-9fdc-218de6a41b65
 albumMBID: 966c30c1-1ce4-496d-9c84-0fb9f53527aa
 artistLink: https://www.merchbar.com/dance-electronic-edm/andy-stott
@@ -41,7 +41,7 @@ artistLink: https://www.merchbar.com/dance-electronic-edm/andy-stott
 author: andre-dack
 
 review: >-
-  I once described Andy Stott’s music as ‘sophisticated techno.’ Not my finest moment. Even though I still hate myself for saying it, his brand of electronic music _does_ provoke the use of such pretentious terms. Everything unravels at its own pace, with beats gradually mutating under the moody surface. Where others might layer up to obscene degrees, Stott has a knack for finding beauty in miniscule details. It’s practically ambient music for club-goers. _Never the Right Time_ doesn’t differ much from previous records, except that it’s slightly more ethereal. Think Burial playing at [The Roadhouse](https://www.youtube.com/watch?v=nsr-ORwIfMw&ab_channel=ItaliansDoItBetterMusic).
+  I once described Andy Stott’s music as ‘sophisticated techno.’ Not my finest moment. Even though I still hate myself for saying it, his brand of electronic music _does_ provoke the use of such pretentious terms. Everything unravels at its own pace, with beats gradually mutating under the moody surface. Where others might layer up to obscene degrees, Stott has a knack for finding beauty in minuscule details. It’s practically ambient music for club-goers. _Never the Right Time_ doesn’t differ much from previous records, except that it’s slightly more ethereal. Think Burial playing at [The Roadhouse](https://www.youtube.com/watch?v=nsr-ORwIfMw&ab_channel=ItaliansDoItBetterMusic).
 
   I doubt _Never the Right Time_ will have the same impact as other Stott albums, solely because it’s so similar. I can imagine some listeners being disappointed by the sense of familiarity, though it doesn’t bother me so much. We’ve seen a small wave of UK artists inspired by the likes of Stott and Actress, but not many of them capture the beautifully nocturnal sensation of _Never the Right Time_. It makes me feel nostalgic for night-life, even though I’m an introvert who refuses to dance. The record is tailor-made for me, basically.
 
