@@ -1,14 +1,14 @@
 ---
-created: 2021-04-26T12:00:00.000Z
-modified: 2021-04-26T12:00:00.000Z
-slug: pro-artist-alternatives-to-spotify
+created: 2021-04-26T18:00:00.000Z
+modified: 2021-04-26T18:00:00.000Z
+slug: artist-friendly-alternatives-to-spotify
 type: articles
 tags:
   - music industry
   - spotify
 featuredimage: article-images/spotify-alternatives-featured-image.jpg
 featuredimageAlt: Illustration of a wooden signpost with boards pointing to different music streaming services
-title: Pro-artist alternatives to Spotify et al.
+title: Artist-friendly music streaming alternatives to Spotify et al.
 author: frederick-obrien
 summary: The big dogs of music streaming aren’t great for musicians, but there are fairer, more ethical options out there. Here are services putting artists first (or at least, not dead last)
 blurb: The big dogs of music streaming aren’t great for musicians, but there are other options. Here are services putting artists first (or at least, not dead last).
@@ -61,7 +61,7 @@ Although SoundCloud stopped short of a guaranteed per-stream royalty rate, their
 
 ## Bandcamp
 
-![BandCamp music streaming logo](article-images/spotify-alternatives-bandcamp.png "Bandcamp logo")
+![Bandcamp music streaming logo](article-images/spotify-alternatives-bandcamp.png "Bandcamp logo")
 
 [Bandcamp](https://bandcamp.com/) isn’t exactly a music streaming service, but it’s been so good to and for artists during the pandemic that it merits a mention. A wide range of artists have stores on Bandcamp, selling both music and merchandise. On digital sales Bandcamp takes a 15 percent cut, and for the merch it’s 10 percent.
 
