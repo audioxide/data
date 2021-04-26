@@ -37,7 +37,7 @@ One trade-off of being a cooperative is that Resonate does not yet have the reso
 
 ## SonStream
 
-![SonStream music streaming logo](article-images/spotify-alternatives-sonstream.png "SonStream logo")
+![SonStream music streaming logo](article-images/spotify-alternatives-sonstream-logo.png "SonStream logo")
 
 Going all in on a musician-centric model, on [SonStream](https://resonate.is/) you pay artists directly for streams. Instead of a subscription it’s straight up pay-as-you-go — around 2.5 pence a song (or 3 cents). No fucking around.
 
