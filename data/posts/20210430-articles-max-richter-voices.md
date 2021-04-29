@@ -14,6 +14,11 @@ blurb: Deep, lush composition combines with powerful spoken word in Max Richter'
 
 ---
 
+<figure class="wide">
+  <img src="album-artwork/voices-max-richter.jpg" alt="Album artwork of 'Voices' by Max Richter" />
+  <figcaption>Album artwork of 'Voices' by Max Richter</figcaption>
+</figure>
+
 Having soundtracked sleep [with record-breaking success](https://www.bbc.co.uk/news/entertainment-arts-34378077), Max Richter’s moved on to soothing activism. His _Voices_ project, which receives a second volume of work this month, takes inspiration from the Universal Declaration of Human Rights and combines multi-lingual spoken word with Richter’s signature cinematic compositions.
 
 Eleanor Roosevelt, instrumental in the declaration’s adoption, opens the album with a reading of it. She’s backed by Richter’s “negative orchestra”, a concept which leans towards lower register instruments to produce deep, lush music across _Voices_. Large swathes of the pieces have bassy seas that smaller numbers of sharper violins and vocals pierce through.
