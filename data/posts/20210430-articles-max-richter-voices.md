@@ -1,7 +1,7 @@
 ---
 created: 2021-05-03T12:00:00.000Z
 modified: 2021-05-03T12:00:00.000Z
-slug: max-richter-voices
+slug: max-richter-voices-sooths-the-soul
 type: articles
 tags:
   - max richter
