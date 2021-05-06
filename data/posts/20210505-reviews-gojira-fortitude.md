@@ -54,7 +54,10 @@ review: >-
 
 
   Not that Gojira deliver a tour de force here. Were it not for the tracks mentioned I suspect my overall response would be much closer to lukewarm. But they are there, so let’s bask in the warm, fuzzy feeling of a good listen, where the tracks land and the mix is just right. It almost makes metal feel dignified. Almost.
-tracks: []
+tracks:
+  - The Chant
+  - Hold On
+  - Fortitude
 score:
   score: 7
   max: 10
