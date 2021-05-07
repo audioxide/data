@@ -34,15 +34,25 @@ artistLink: https://shop.roadrunnerrecords.co.uk/fr/artists/gojira.html
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  As someone who tends to occupy themselves on the outskirts of metal, gleefully flirting with noise and industrial music, Gojira have been on my radar for some time. Alongside the likes of Mastodon and Deafheaven, the French band are one of the most prestigious in the scene. Not just beloved by fans, but frequently acclaimed by critics. _Fortitude_ has proved to be a persuasive entry point for me. It contains everything I look for in a metal album, and then some. The riffs savagely chug away, in the spirit of early Metallica albums, and the pinch harmonics sail to the dark side of the moon (and back again). Virtuosic drumming and snarling vocals round off the trademarks, and at this point you already have a pretty bad-ass metal record. “Born For One Thing” is more than enough to incite a mosh pit, after all.
+
+
+  But it’s the unexpected moments that elevate _Fortitude_ to another dimension. After almost 30 minute’s worth of beautifully pummelling music, the record takes a turn with “Fortitude” and “The Chant”. The former is a lovely breather, reminiscent of a campfire singalong. Steady percussion pushes it along, before the haunting melody then explodes into an exhilarating anthem on “The Chant”, with explosive power chords lifting the voices up to the heavens. It’s one of the most powerful musical moments I’ve heard all year.
+
+
+  _Fortitude_ has such a firm grasp on melody too, which immediately separates it from other albums that occupy a similar space. The guitar work is riveting, obviously, but it can also be quite catchy. Early highlight “Amazonia” is a real ear-worm, and its Brazilian rhythms make it one of the most distinct tracks on the album. Furthermore, I feel like “Another World” is the type of thing TOOL tried to do on their [recent disappointment](/reviews/tool-fear-inoculum); particularly the way in which the track introduces itself with a finger-tapping frenzy. Straight to the point. No bullshit buildup necessary.
+
+
+  _Fortitude_ is a weighty record, but it’s the playful songwriting that keeps me captivated and coming back for repeat listens. Though it’s emotionally potent, it never feels overbearing. In fact, the album feels defiant, provoking thoughts of resistance and inspiration. Not everything sticks - the harmonised vocals that open “Hold On” is perhaps the most peculiar inclusion – but I suppose all the great metal albums contain at least a small portion of cheese. I would liken _Fortitude_ to a mild cheddar. Versatile, resilient and, sometimes, unbeatable.
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - The Chant
+  - Amazonia
+  - Born For One Thing
 score:
-  score: 7
+  score: 8
   max: 10
-  fraction: 0.7
+  fraction: 0.8
 
 ---
 author: frederick-obrien
