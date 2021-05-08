@@ -19,9 +19,9 @@ favouritetracks:
   - Fortitude
   - Amazonia
 totalscore:
-  given: 22
+  given: 21
   possible: 30
-  fraction: 0.7333333333333333
+  fraction: 0.7
 colours:
   - "#6a4e27"
   - "#e1ded9"
