@@ -75,12 +75,19 @@ score:
 
 ---
 author: andrew-bridge
-review: Lorem ipsum dolor
+review: >-
+  Gojira doesn’t shy away from their heavy metal trappings in _Fortitude_. The front portion is out and out metal: virtuosic drumming, chunky, chugging guitar work, growling, roaring vocals. Lead single, “Another World”, is a highlight with its churning riff and howling vocals creating a dramatic energy, only bolstered in the [accompanying dystopian, animated music video](https://www.youtube.com/watch?v=iqrMFNMgVS0).
+
+
+  But it’s the title track and follow up, “The Chant”, that has hooked me. From a simmering, minimal instrumental, faint cries of a vocal melody cycle around before dropping into a sludgy, satisfying chug. Memorable enough to become the earworm of the week, this duo has warmed me to the album as a whole. Between here and the album’s closing moments, “The Trails” makes for calmer, pensive waters before sliding a listener into the whirlwind of “Grind”, which whips and rattles along in a frantic closer.
+
+
+  Metal isn’t my bag, frustratingly, and Fortitude hasn’t made for an “aha” moment to change my mind. While I can appreciate the musicianship here, the likes of “Born For One Thing” and “Hold On” aren’t going to have me rushing back. But the diversions into less pummelling rock in the back half of this album have had me returning frequently. Nevertheless, the fact remains that I’ve enjoyed this record more when I’ve left half of it unplayed. Whether that’s a damning indictment of this album or my taste in music is something I’ll leave you to decide.
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - Fortitude
+  - The Chant
+  - Another World
 score:
-  score: 8
+  score: 6
   max: 10
-  fraction: 0.8
+  fraction: 0.6
