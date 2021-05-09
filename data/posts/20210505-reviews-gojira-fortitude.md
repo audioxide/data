@@ -37,7 +37,7 @@ artistLink: https://shop.roadrunnerrecords.co.uk/fr/artists/gojira.html
 ---
 author: andre-dack
 review: >-
-  As someone who tends to occupy myself on the outskirts of metal, gleefully flirting with noise and industrial music, Gojira have been on my radar for some time. Alongside the likes of Mastodon and Deafheaven, the French band are one of the most prestigious in the scene. Not just beloved by fans, but frequently acclaimed by critics.
+  As someone who tends to listen on the outskirts of metal, gleefully flirting with noise and industrial music, Gojira have been on my radar for some time. Alongside the likes of Mastodon and Deafheaven, the French band are one of the most prestigious in the scene. Not just beloved by fans, but frequently acclaimed by critics.
   
   _Fortitude_ has proved to be a persuasive entry point for me. It contains everything I look for in a metal album, and then some. The riffs savagely chug away, in the spirit of early [Metallica](/listening-parties/metallica-hardwired-to-self-destruct/) albums, and the pinch harmonics sail to the dark side of the moon (and back again). Virtuosic drumming and snarling vocals round off the trademarks, and at this point you already have a pretty bad-ass metal record. “Born For One Thing” is more than enough to incite a mosh pit, after all.
 
