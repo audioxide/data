@@ -34,11 +34,21 @@ artistLink: https://squiduk.bandcamp.com/merch
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  Brighton 5-piece Squid are key players in the emerging South London scene, where astute post-punk blends seamlessly with a multitude of different genres, guiding UK guitar music to a refreshing new path. On their debut album _Bright Green Field_, the band take characteristics from krautrock, dub, funk and jazz to form a sound that is remarkably coherent, and wholly distinct. It’s chaotic, but it works.
+
+
+  Jittery guitar lines are propelled by bouncy post-punk rhythms, whilst vocalist Ollie Judge barks his way through a series of nervous thoughts about capitalism and other such joys of modern life. This underlying foundation keeps _Bright Green Field_ on track, and I dare say it’s what the band remain best at. “Boy Racers” is an example of what happens when things go a little too off-piste: after 3 minutes of groovy basslines and delightful guitar licks, the track fizzles out into an avant-garde ambient piece. Once it reaches the end, the experimental noise is immersive and compelling, but it takes an unnecessary amount of time to get there. I’d bet it’s quite mesmerising live. Unfortunately, it feels flat on record. 
+
+
+  On the other hand, lead single “Narrator” is an absolute triumph. It’s by far and away the best example of what the band are capable of: a sonic journey that travels through multiple musical segments, similar to what’s heard on iconic albums like _[OK Computer](/reviews/radiohead-ok-computer)_ and _[The Moon and Antarctica](/reviews/modest-mouse-the-moon-and-antarctica)_. However, it does also highlight my main issue with _Bright Green Field_ as a whole. Martha Skye Murphy’s shrieking guest vocals are haunting, adding an entirely new dimension to the record. It’s amazing how much of a difference another voice makes to the music. I’ve never taken any issues with Judge’s vocal style before, but on an album lasting almost an hour, his yelping can become tiring after a while. It’s something I’d like to see the band experiment with in the future.
+
+
+  Overall, _Bright Green Field_ is a bold and satisfying debut album. It raised a few eyebrows when it was announced to be released on Warp Records, but the music totally fits the profile. It’s ambitious, varied, and explorative. Most importantly, it’s just fun to listen to. _Bright Green Field_ is far from perfect – and I probably prefer [Black Country, New Road’s record](/reviews/black-country-new-road-for-the-first-time) if we’re getting into mundane comparisons – but it hints at incredible promise. The way in which the band so naturally shape-shift is astonishing. If they can refine certain aspects of their sound, I’m certain that Squid will end up as one of the most interesting and compelling bands on the planet. Not to get carried away, of course...
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - Narrator
+  - Pamphlets
+  - Paddling
 score:
   score: 7
   max: 10
