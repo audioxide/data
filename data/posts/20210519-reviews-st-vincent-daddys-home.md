@@ -37,15 +37,22 @@ artistLink: https://ilovestvincent.com/
 
 ---
 author: andre-dack
-review: Text
+review: >-
+  Despite the critical acclaim and grammy awards that 2017’s _[Masseduction](/reviews/st-vincent-masseduction/)_ received, I was ultimately left disappointed with its lack of staying power. Though incredibly stylish, and obviously entertaining, it felt all too comfortable for an artist who previously displayed such exciting levels of ingenuity. _Daddy’s Home_, however, feels like the beginning of a new era for St Vincent. It’s a welcome change, even if I am a little sad about the lack of frenzied noise and fuzzy guitars. This is a bold step, and it’s mostly very rewarding.
+
+
+  Annie Clark takes influence from many of her favourite records from the past, melding them into a nostalgic yet refreshing sound. [David Bowie](/reviews/david-bowie-hunky-dory), [Pink Floyd](/reviews/pink-floyd-the-dark-side-of-the-moon) and [The Beatles](/reviews/the-beatles-revolver) are all musically referenced, albeit without much subtlety (the Prince yelps heard on the title track are hugely awkward, for instance). The way in which Clark embodies the character on _Daddy’s Home_ is certainly reminiscent of Ziggy Stardust, too. Jack Antonoff – who clearly doesn’t know the meaning of the word rest – helps blend these styles together rather expertly. All things considered, it’s probably the most accessible St Vincent album to date.
+
+
+  Despite a handful of patchy moments, _Daddy’s Home_ strangely feels like one of St Vincent’s most cohesive records. It’s a hazy affair, but also very colourful. The highs aren’t quite as momentous as, say, “Birth in Reverse”, which can keep you hooked for days on end. However, the album feels like a complete body of work: carefully constructed and skilfully realised. Clark has always been one of the wittiest songwriters around, and that reputation will endure with the release of _Daddy’s Home_. I don’t think it’s a masterstroke by any stretch, but I can see myself revisiting this far more frequently than _Masseduction_.
 score:
   score: 7
   max: 10
   fraction: 0.7
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Down
+  - Pay Your Way in Pain
+  - Somebody Like Me
 
 ---
 author: frederick-obrien
