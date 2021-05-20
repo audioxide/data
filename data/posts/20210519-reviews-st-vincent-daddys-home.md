@@ -36,7 +36,7 @@ albumMBID: 077c9bf8-8958-4e03-b200-addec6b5eafc
 artistLink: https://ilovestvincent.com/
 
 ---
-author: andré
+author: andre-dack
 
 review: >-
   Text
@@ -52,7 +52,7 @@ tracks:
   - TBD
 
 ---
-author: Fred
+author: frederick-obrien
 
 review: >-
   Text
@@ -68,7 +68,7 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+author: andrew-bridge
 
 review: >-
   Text
