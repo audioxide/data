@@ -14,6 +14,8 @@ tags:
   - run the jewels
   - dr dre
 featuredimage: album-artwork/straight-outta-compton-nwa.jpg
+artworkCredit: was taken by photographer Eric Poppleton. It was one of several ideas tried on the fly during a shoot in Los Angeles. ‘I just lay on the ground and they pointed what hopefully was an unloaded gun down at the camera,’ Poppleton recalled. ‘I couldn’t say for sure whether it was ready to fire, but it was definitely a real gun. There wasn’t anything fake back then.’
+artworkCreditSource: https://www.nme.com/blogs/nme-blogs/how-i-shot-the-iconic-cover-to-nwas-straight-outta-compton-767110
 artist: N.W.A.
 album: Straight Outta Compton
 essentialtracks:
