@@ -12,6 +12,7 @@ tags:
   - trip hop
   - experimental
 featuredimage: album-artwork/beak-three-beak.jpg
+artworkCredit: was a collaboration between artist Marc Bessant, graphic designer 45rpmWHAT, and God. So says Geoff Barrow who would know.
 artist: BEAK>
 album: ">>>"
 essentialtracks: ""
