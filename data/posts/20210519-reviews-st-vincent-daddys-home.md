@@ -56,15 +56,25 @@ tracks:
 
 ---
 author: frederick-obrien
-review: Text
+review: >-
+  St. Vincent releases have become a bit of an event for me. I’m curious to see the world she builds, and the character she puts at its centre. In _Daddy’s Home_ she trades in the hyper sweet pop of _[Masseduction](/reviews/st-vincent-masseduction/)_ for a sordid yet uncannily polished ‘70s variety show. 
+
+
+  The album doesn’t so much wear its influences on its sleeve as wear them all over. Songs are steeped in a synthy, warped ‘70s sound - steeped I tell you. “Down and Out Downtown” is so full of sitar and soulful vocal harmonies that it’s fit to burst, while “Live in the Dream” would fit right in on [a Pink Floyd record](/reviews/pink-floyd-the-dark-side-of-the-moon/). Annie Clark, together with Jack Antonoff, wrangles a myriad of vintage sounds and gives them a stunning contemporary sheen, but it is in service of a world unquestionably her own. David Bowie and Mia Wallace had a sweet baby girl and left her to fend for herself in South Queens.
+
+
+  Not for the first time there’s a kind of detachment to what goes on - a sense that St. Vincent is playing a game of musical dress-up. That make-believe mood gives the kookier cuts (looking at you “Daddy’s Home”) room to be silly, but it has a funny way of keeping the fantasy at bay.
+
+
+  Still, if that’s the tradeoff needed for this cycle to work, then work it did. _Daddy’s Home_ may not have the standalone hits of, say, St. Vincent’s [self-titled record](/reviews/st-vincent-st-vincent/), but the overall picture here is brighter and more fully formed - in a dirty, sad New York City kind of way.
 tracks:
-  - TBD
-  - TBD
-  - TBD
+  - Down and Out Downtown
+  - The Melting of the Sun
+  - Pay Your Way in Pain
 score:
-  score: 5
+  score: 8
   max: 10
-  fraction: 0.5
+  fraction: 0.8
 
 ---
 author: andrew-bridge
