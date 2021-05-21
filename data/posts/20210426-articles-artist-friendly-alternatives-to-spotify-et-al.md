@@ -31,7 +31,7 @@ Founded in 2016, [Resonate](https://resonate.is/) uses an approach to payouts ca
 
 Uniquely among those mentioned here, [Resonate is a cooperative](https://resonate.is/the-coop/), owned by the people who use it and develop it. Their one member, one share, one vote ethos leaves an especially warm, fuzzy feeling. All the other services described here are private companies that try to behave well, but they’re private companies all the same. You know what they can be like. Meanwhile, any profits Resonate makes goes to its members.
 
-One trade-off of being a cooperative is that Resonate does not yet have the resources to build dedicated apps for iOS and Android. It is instead browser-based offering - a web app, if you will. That will be a turn-off for some, but the interface is simple and intuitive and you can link from your homescreen and have much the same experience as if you’d installed something.
+One trade-off of being a cooperative is that Resonate does not yet have the resources to build dedicated apps for iOS and Android. It is instead a browser-based offering - a web app, if you will. That will be a turn-off for some, but the interface is simple and intuitive and you can link from your homescreen and have much the same experience as if you’d installed something.
 
 -----
 
@@ -53,7 +53,7 @@ The catalogue is a little lean — one millions compared to Spotify’s sixty mi
 
 ![SoundCloud music streaming logo](article-images/spotify-alternatives-soundcloud.png "SoundCloud logo")
 
-[SoundCloud] is likely the biggest name to move towards a more user-centric model. In March of 2021 [the company announced it was moving towards a ‘fan-powered’ royalty system](https://www.theverge.com/2021/3/2/22309090/soundcloud-artist-stream-pay-listener-fan-royalties), meaning artists’ earnings would now directly reflect the number of listens they receive. Before that SoundCloud had a Spotify-esque old model in which money was put into a giant, mysterious pool and distributed at the platorm’s discretion. The new model is much more direct. If you listen to three artists during the month, all your money will go to those three artists.
+[SoundCloud](https://soundcloud.com/) is likely the biggest name to move towards a more user-centric model. In March of 2021 [the company announced it was moving towards a ‘fan-powered’ royalty system](https://www.theverge.com/2021/3/2/22309090/soundcloud-artist-stream-pay-listener-fan-royalties), meaning artists’ earnings would now directly reflect the number of listens they receive. Before that SoundCloud had a Spotify-esque old model in which money was put into a giant, mysterious pool and distributed at the platform’s discretion. The new model is much more direct. If you listen to three artists during the month, all your money will go to those three artists.
 
 Although SoundCloud stopped short of a guaranteed per-stream royalty rate, their step was still positive - one the rest of the industry will likely be watching with interest. If you’re a vote-with-your-wallet kind of consumer, SoundCloud may be an especially good option. If SoundCloud can make ethical music streaming work then the idea’s time on the fringes could be over.
 
