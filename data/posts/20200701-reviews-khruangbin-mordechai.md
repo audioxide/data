@@ -14,7 +14,7 @@ tags:
   - thundercat
   - tycho
 featuredimage: album-artwork/mordechai-khruangbin.jpg
-artworkCredit: was designed by the band’s bassist Laura Lee together with artist Nathaniel Utesch.
+artworkCredit: was designed by band bassist Laura Lee together with artist Nathaniel Utesch.
 artworkCreditSource: https://www.makingways.co/episodes/khruangbin-with-laura-lee-and-designer-nate-utesch/
 artist: Khruangbin
 album: Mordechai
