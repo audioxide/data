@@ -1,6 +1,6 @@
 ---
 created: 2015-05-23T22:00:30.000Z
-modified: 2018-03-11T17:51:49.000Z
+modified: 2021-05-22T16:51:49.000Z
 slug: muse-origin-of-symmetry
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - alternative rock
   - progressive rock
 featuredimage: album-artwork/origin-of-symmetry-muse.jpg
+artworkCredit: was designed by illustrator William Eager.
+artworkCreditSource: https://www.instagram.com/p/B_aLZ6jgS5-/
 artist: Muse
 album: Origin of Symmetry
 essentialtracks:
@@ -26,9 +28,9 @@ colours:
   - "#ffffff"
   - "#323944"
 pullquote: Breathless, explosive music
-summary: It's breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band. Origin of Symmetry listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it's pretty rad, man.
+summary: It’s breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band. Origin of Symmetry listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it’s pretty rad, man.
 week: 17
-blurb: There are few better highs than Muse in top gear. It's breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band.
+blurb: There are few better highs than Muse in top gear. It’s breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band.
 artistMBID: 9c9f1380-2516-4fc9-a3e6-f9f61941d090
 albumMBID: ef03fe86-b54c-3667-8768-029833e7e1cd
 artistLink: https://store.muse.mu/
