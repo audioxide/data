@@ -1,6 +1,6 @@
 ---
 created: 2016-02-24T18:00:30.000Z
-modified: 2018-03-11T14:47:25.000Z
+modified: 2021-05-22T17:03:25.000Z
 slug: kanye-west-the-life-of-pablo
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - kendrick lamar
   - taylor swift
 featuredimage: album-artwork/the-life-of-pablo-kanye-west.jpg
+artworkCredit: was designed by Belgian artist Peter De Potter.
+artworkCreditSource: https://walkerart.org/magazine/designing-bon-iver-22-a-million-album-art-eric-timothy-carlson
 artist: Kanye West
 album: The Life of Pablo
 essentialtracks:
@@ -26,7 +28,7 @@ colours:
   - "#000301"
   - "#000301"
 pullquote: Totally erratic
-summary: Genuinely catchy, thought-out tracks sit beside tracks that — I can only hope — are fully invested in Kanye's own irony and lunacy, which in turn sit beside tracks that feel like draft copies (and based on the rumours, they may well be).
+summary: Genuinely catchy, thought-out tracks sit beside tracks that — I can only hope — are fully invested in Kanye’s own irony and lunacy, which in turn sit beside tracks that feel like draft copies (and based on the rumours, they may well be).
 week: 42
 blurb: Uneven, sporadic, and totally erratic; an unfinished version of a potentially great album. Enjoyment and frustration abound in equal measure.
 artistMBID: 164f0d73-1234-4e2c-8743-d77bf2191051
