@@ -9,7 +9,7 @@ tags:
   - grunge
   - alternative rock
 featuredimage: album-artwork/in-utero-nirvana.jpg
-artworkCredit: was designed by Kurt Cobain and Nirvana’s longtime art director Rober Fisher. It features an image of a Transparent Anatomical Manikin, with angel wings superimposed.
+artworkCredit: was designed by Kurt Cobain together with the band’s longtime art director, Robert Fisher. It features an image of a Transparent Anatomical Manikin, with angel wings superimposed.
 artworkCreditSource: https://www.washingtonpost.com/archive/lifestyle/1994/04/06/keeping-those-risque-covers-undercover/6eab560c-6a51-46ed-a8d4-c98702baee2e/
 artist: Nirvana
 album: In Utero
