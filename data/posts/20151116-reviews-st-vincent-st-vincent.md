@@ -1,6 +1,6 @@
 ---
 created: 2015-11-16T20:23:33.000Z
-modified: 2018-03-06T00:14:13.000Z
+modified: 2021-05-22T16:55:13.000Z
 slug: st-vincent-st-vincent
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - david byrne
   - art pop
 featuredimage: album-artwork/st-vincent-st-vincent.jpg
+artworkCredit: was shot by Russian photographer Renata Raksha.
+artworkCreditSource: https://www.allmusic.com/artist/renata-raksha-mn0003227975/credits
 artist: St. Vincent
 album: St. Vincent
 essentialtracks: ""
@@ -29,7 +31,7 @@ colours:
 pullquote: A crackling treat
 summary: A confident release that sparkles with peculiarity but steers away from pretension. In capturing the middle ground between passion and precision, Annie Clark achieves a distinct sound that can only be described as some sort of melodic computer malfunction.
 week: 31
-blurb: Capturing the middle ground between passion and precision, Annie Clark's sound here can only be described as some sort of melodic computer malfunction.
+blurb: Capturing the middle ground between passion and precision, Annie Clark’s sound here can only be described as some sort of melodic computer malfunction.
 artistMBID: 5334edc0-5faf-4ca5-b1df-000de3e1f752
 albumMBID: 37889165-4443-4248-abd0-3c1703d9c02a
 artistLink: https://store.ilovestvincent.com/
@@ -41,7 +43,7 @@ author: andre-dack
 review: >-
   Avoiding the pitfalls that can often appear on art-rock records, St. Vincent’s self-titled album is a confident release that sparkles with peculiarity but steers away from pretension. 
   
-  In capturing the middle ground between passion and precision, Annie Clark achieves a distinct sound that can only be described as some sort of melodic computer malfunction, her sweet voice combining effortlessly with jittery guitars, shifty synthesisers, and noise-influenced textures that are welcoming rather than challenging. Clark retains her status as being one of the most distinctive guitarists in modern music, and it's no surprise that most of the hits on *St. Vincent* contain those wonderfully condensed guitar fragments that make her such a unique performer. 
+  In capturing the middle ground between passion and precision, Annie Clark achieves a distinct sound that can only be described as some sort of melodic computer malfunction, her sweet voice combining effortlessly with jittery guitars, shifty synthesisers, and noise-influenced textures that are welcoming rather than challenging. Clark retains her status as being one of the most distinctive guitarists in modern music, and it’s no surprise that most of the hits on *St. Vincent* contain those wonderfully condensed guitar fragments that make her such a unique performer. 
   
   However, whilst there is a lot to admire about the album, proceedings do unfortunately get a little wobbly towards the end. It’s undoubtedly a tight record, flowing effortlessly from track to track, but when the first half is crammed with so many good ideas, the following portion ends up feeling rather uninspired in comparison. Aside from the poignant closer, there isn’t a single moment that gets close to being as captivating as the vocal hooks on “Digital Witness” and “Birth in Reverse”, with “Every Tear Disappears” being a particularly notable dud. 
   
@@ -83,7 +85,7 @@ author: andrew-bridge
 review: >-
   To my surprise, as a new comer to St. Vincent, this eponymous album is filled with interesting, suitably distorted electronic timbres. Buzzes, whirs, and beeps cover the album, accompanying simple but satisfying beats and catchy guitar riffs. Over all this, Anne Clark’s distinctive vocal melodies pull the whole album together. 
   
-  There are clear throwbacks throughout to the '80s, with Clark citing many artists of the period as her own influences, making for memorable, exciting tracks. The singles taken from the album demonstrate that there was a clear bias of upbeat tracks towards the former half of the album, the latter half settling down into a mix of experimentation and downtempo electronica. 
+  There are clear throwbacks throughout to the ’80s, with Clark citing many artists of the period as her own influences, making for memorable, exciting tracks. The singles taken from the album demonstrate that there was a clear bias of upbeat tracks towards the former half of the album, the latter half settling down into a mix of experimentation and downtempo electronica. 
   
   While this is by no means a deal breaker for the album, it can make the tracklist feel a little lopsided. With that said, the closer, “Severed Crossed Fingers”, is one of the finer examples of this downtempo electronica (with twinges of country!) and allows Clark’s vocals and guitar to shine through. Certainly an album I shall return to fully in the future.
 
