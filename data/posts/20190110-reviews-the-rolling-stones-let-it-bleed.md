@@ -14,6 +14,8 @@ tags:
   - the jimi hendrix experience
   - bob dylan
 featuredimage: album-artwork/let-it-bleed-the-rolling-stones.jpg
+artworkCredit: was designed by American graphic designer Robert Brownjohn. Keith Richards hired Brownjohn, who in turned hired English cook Delia Smith to bake the cake that sat atop the ‘record stack.’ The back cover shows the same stack in total disarray.
+artworkCreditSource: https://gizmodo.com/how-the-rolling-stones-iconic-let-it-bleed-album-art-w-1301361771
 artist: The Rolling Stones
 album: Let It Bleed
 essentialtracks:

@@ -10,6 +10,8 @@ tags:
   - space rock
   - surf rock
 featuredimage: album-artwork/bossanova-pixies.jpg
+artworkCredit: was designed by British graphic designers Vaughan Oliver and Chris Bigg, and features photography by Simon Larbalestier. Oliver produced the artwork for the band’s entire discography during his lifetime.
+artworkCreditSource: https://www.rollingstone.com/music/music-news/vaughan-oliver-pixies-artist-4ad-dead-931865/
 artist: Pixies
 album: Bossanova
 essentialtracks:

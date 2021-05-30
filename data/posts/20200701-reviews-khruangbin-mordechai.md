@@ -1,7 +1,7 @@
 ---
 
 created: 2020-07-01
-modified: 2020-08-14
+modified: 2021-05-22
 slug: khruangbin-mordechai
 type: reviews
 tags:
@@ -14,13 +14,15 @@ tags:
   - thundercat
   - tycho
 featuredimage: album-artwork/mordechai-khruangbin.jpg
+artworkCredit: was designed by band bassist Laura Lee together with artist Nathaniel Utesch.
+artworkCreditSource: https://www.makingways.co/episodes/khruangbin-with-laura-lee-and-designer-nate-utesch/
 artist: Khruangbin
 album: Mordechai
 essentialtracks:
   - Time (You and I) 
 favouritetracks:
   - Pelota
-  - So We Won't Forget
+  - So We Won’t Forget
 totalscore:
   given: 19
   possible: 30
@@ -52,7 +54,7 @@ review: >-
 
 
 tracks:
-  - So We Won't Forget
+  - So We Won’t Forget
   - Time (You and I)
   - If There is No Question
 

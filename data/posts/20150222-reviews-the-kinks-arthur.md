@@ -1,6 +1,6 @@
 ---
 created: 2015-02-22T00:00:22.000Z
-modified: 2018-03-09T22:45:11.000Z
+modified: 2021-05-22T17:01:11.000Z
 slug: the-kinks-arthur
 type: reviews
 tags:
@@ -9,13 +9,15 @@ tags:
   - the kinks
   - rock
 featuredimage: album-artwork/arthur-the-kinks.jpg
+artworkCredit: was designed by Australian artist Bob Lawrie.
+artworkCreditSource: https://www.stereoboard.com/content/view/224667/9
 artist: The Kinks
 album: Arthur (Or the Decline and Fall of the British Empire)
 essentialtracks: ""
 favouritetracks:
   - Australia
   - Shangri-La
-  - Drivin'
+  - Drivin’
 totalscore:
   given: 23
   possible: 30
@@ -25,9 +27,9 @@ colours:
   - "#050808"
   - "#bdb693"
 pullquote: All very Kinks-y
-summary: A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album's scattered feel keeps it from being more than the sum of its parts.
+summary: A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album’s scattered feel keeps it from being more than the sum of its parts.
 week: 4
-blurb: The songs are beautiful in ways only Ray Davies can achieve, but the album's scattered feel keeps it from being more than the sum of its parts.
+blurb: The songs are beautiful in ways only Ray Davies can achieve, but the album’s scattered feel keeps it from being more than the sum of its parts.
 artistMBID: 17b53d9f-5c63-4a09-a593-dde4608e0db9
 albumMBID: cd27ba91-162e-3d8a-8042-9451b84aa78e
 artistLink: https://store.thekinks.info/
@@ -53,7 +55,7 @@ score:
 author: frederick-obrien
 
 review: >-
-  It’s a funny old album, *Arthur*. A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album's scattered feel keeps it from being more than the sum of its parts. That’s a minor qualm, though. The lyrics and melodies are graceful and lovely, and the instrumentation supports them with aplomb. It’s all very Kinks-y, in that the main takeaway is ultimately, ‘Well, that sure was a pleasant listen!’ Sometimes that’s all you need.
+  It’s a funny old album, *Arthur*. A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album’s scattered feel keeps it from being more than the sum of its parts. That’s a minor qualm, though. The lyrics and melodies are graceful and lovely, and the instrumentation supports them with aplomb. It’s all very Kinks-y, in that the main takeaway is ultimately, ‘Well, that sure was a pleasant listen!’ Sometimes that’s all you need.
 
 tracks:
   - Some Mother’s Son

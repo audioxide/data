@@ -13,6 +13,8 @@ tags:
   - trip hop
   - soul
 featuredimage: album-artwork/broken-politics-neneh-cherry.jpg
+artworkCredit: was shot by German photographer Wolfgang Tillman.
+artworkCreditSource: https://www.factmag.com/2018/08/30/neneh-cherry-returns-broken-politics/
 artist: Neneh Cherry
 album: Broken Politics
 essentialtracks:

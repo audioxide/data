@@ -9,6 +9,8 @@ tags:
   - alternative rock
   - indie
 featuredimage: album-artwork/first-impressions-of-earth-the-strokes.jpg
+artworkCredit: features a 1968 painting by German avant-garde artist Lothar Quinte. The painting’s name is “Ohne Titel", or “Untitled”.
+artworkCreditSource: https://www.sonymusic.ch/kuenstler/the-strokes
 artist: The Strokes
 album: First Impressions of Earth
 essentialtracks: ""
@@ -37,13 +39,13 @@ artistLink: https://shop.thestrokes.com/
 author: andre-dack
 
 review: >-
-  ‘We could drag it out, but that’s for other bands to do,’ Julian Casablancas slurs on “Ask Me Anything,” a sentiment that has been communally endorsed since 2001’s *Is This It?*, an album so refined, so effortlessly sophisticated in its flow and structure, that it became a crucial root in the rebirth of garage/indie rock. 
+  ‘We could drag it out, but that’s for other bands to do,’ Julian Casablancas slurs on “Ask Me Anything,” a sentiment that has been communally endorsed since 2001’s *Is This It?*, an album so refined, so effortlessly sophisticated in its flow and structure, that it became a crucial root in the rebirth of garage/indie rock.
   
-  What a shame, then, that *First Impressions of Earth* leaves such a contrasting impression. Messy, overloaded and extremely rough around the edges — this is everything the debut was not, yet still features some of the bands finest tracks in their entire discography. 
+  What a shame, then, that *First Impressions of Earth* leaves such a contrasting impression. Messy, overloaded and extremely rough around the edges — this is everything the debut was not, yet still features some of the bands finest tracks in their entire discography.
   
-  The New York outfit start proceedings with a confident swagger; “You Only Live Once” is a catchy opener that manages to sound fresh whilst remaining true to the core of their sound, whilst “Juicebox,” the first moment of unfamiliarity, is a confident stab at hard rock that pays off handsomely with its bold riffs and dynamic vocals. The album proceeds at a steady pace after these early triumphs, but once the alluring groove of “Electricityscape” wraps up, the album turns into a disorientating, totally confusing experience. 
+  The New York outfit start proceedings with a confident swagger; “You Only Live Once” is a catchy opener that manages to sound fresh whilst remaining true to the core of their sound, whilst “Juicebox,” the first moment of unfamiliarity, is a confident stab at hard rock that pays off handsomely with its bold riffs and dynamic vocals. The album proceeds at a steady pace after these early triumphs, but once the alluring groove of “Electricityscape” wraps up, the album turns into a disorientating, totally confusing experience.
   
-  It’s certainly not all bad, but by the time you reach the latter highlights of “Ize of the World” and “Red Light,” you’re too irritated to care. At the time of release, the change in sound was certainly not universally accepted, but in hindsight the majority of experiments on show do actually work. 
+  It’s certainly not all bad, but by the time you reach the latter highlights of “Ize of the World” and “Red Light”, you’re too irritated to care. At the time of release, the change in sound was certainly not universally accepted, but in hindsight the majority of experiments on show do actually work.
   
   The problem is in its construction — it’s an unfinished record, one that was in serious need of trimming down, tidying up, and to have a sense of structure applied to its final moments. There’s a great album to uncover here, and there are far too many good tracks for it to be written off completely, but as it stands *First Impressions of Earth* is a flawed and frustrating listen.
 

@@ -13,6 +13,8 @@ tags:
   - frank ocean
   - queens of the stone age
 featuredimage: album-artwork/rtj4-run-the-jewels.jpg
+artworkCredit: was designed by photographer and filmmaker Tim Saccenti.
+artworkCreditSource: http://timothysaccenti.com/projects/stills/run-the-jewels-rtj-4/
 artist: Run the Jewels
 album: RTJ4
 essentialtracks:

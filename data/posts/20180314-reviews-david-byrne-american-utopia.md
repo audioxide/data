@@ -12,6 +12,8 @@ tags:
   - talking heads
   - art rock
 featuredimage: album-artwork/american-utopia-david-byrne.jpg
+artworkCredit: features a painting by American artist Purvis Young.
+artworkCreditSource: http://davidbyrne.com/explore/american-utopia/press/david-byrne-uses-a-piece-by-outsider-artist-purvis-young-on-american-utopia
 artist: David Byrne
 album: American Utopia
 essentialtracks:

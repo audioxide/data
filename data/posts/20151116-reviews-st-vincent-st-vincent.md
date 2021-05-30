@@ -1,6 +1,6 @@
 ---
 created: 2015-11-16T20:23:33.000Z
-modified: 2018-03-06T00:14:13.000Z
+modified: 2021-05-22T16:55:13.000Z
 slug: st-vincent-st-vincent
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - david byrne
   - art pop
 featuredimage: album-artwork/st-vincent-st-vincent.jpg
+artworkCredit: was shot by Russian photographer Renata Raksha.
+artworkCreditSource: https://www.allmusic.com/artist/renata-raksha-mn0003227975/credits
 artist: St. Vincent
 album: St. Vincent
 essentialtracks: ""

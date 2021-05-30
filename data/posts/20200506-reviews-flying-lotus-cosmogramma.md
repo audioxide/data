@@ -16,7 +16,7 @@ tags:
   - aphex twin
   - boards of canada
 featuredimage: album-artwork/cosmogramma-flying-lotus.jpg
-artworkCredit: was designed by American actor, author, and artist Leigh McCloskey. The illustration is from a codex McCloskey started in the 1980s. “We are part of something vast and wondrous and we are part of something intimate,” he said. “That’s the feeling I got with the album itself. I felt like I was holding something both modern and ancient.”
+artworkCredit: was designed by American actor, author, and artist Leigh McCloskey. The illustration is from a codex McCloskey started in the 1980s. ‘We are part of something vast and wondrous and we are part of something intimate,’ he said. ‘That’s the feeling I got with the album itself. I felt like I was holding something both modern and ancient.’
 artworkCreditSource: http://thesuperslice.com/2011/05/02/flying-lotus-the-art-of-cosmogramma/
 artist: Flying Lotus
 album: Cosmogramma

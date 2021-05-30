@@ -10,6 +10,8 @@ tags:
   - rock
   - folk
 featuredimage: album-artwork/on-the-beach-neil-young.jpg
+artworkCredit: was a collaboration between Gary Burden (design), Bob Seideman (photography), and Rick Griffin (lettering). The 1959 Cadillac tailfin was from a Santa Ana junkyard, Young’s outfit was bought in a ‘sleazy men’s shop’, the newspaper was picked up in LA, and the patio set came from a run-of-the-mill patio supply store (this was the ’70s remember. The cover was shot at Santa Monica beach, and Burden said it was the favourite he ever made.
+artworkCreditSource: https://www.washingtonpost.com/local/obituaries/gary-burden-who-designed-album-covers-for-california-rockers-dies-at-84/2018/03/19/8c8bcd68-2b83-11e8-8ad6-fbc50284fce8_story.html
 artist: Neil Young
 album: On the Beach
 essentialtracks:
@@ -37,7 +39,7 @@ artistLink: https://neilyoung.warnerrecords.com/
 author: andre-dack
 
 review: >-
-  *On The Beach* is perfect for those late nights alone, where the further you venture into the album, the more poignant the evening feels. Both mellow and despondent, the record features the purest of songwriting from a genuine artist, flowing gracefully from start to finish. 
+  *On The Beach* is perfect for those late nights alone, where the further you venture into the album, the more poignant the evening feels. Both mellow and despondent, the record features the purest of songwriting from a genuine artist, flowing gracefully from start to finish.
   
   The real beauty, though, lies in the somber trio of songs that concludes the album, starting with the stunning title track (‘though my problems are meaningless, that don’t make them go away’) and ending with “Ambulance Blues,” a truly harrowing song that sees a self-reflective Young attempting to move past his sorrow, and instead look forward with hope of wiping away the thoughts of despair. It’s a great record, and it does a fine job of reminding you that you’re human.
 
@@ -75,9 +77,9 @@ score:
 author: andrew-bridge
 
 review: >-
-  *On The Beach* provides for a relaxing, positive listen at a cursory glance. Natural production and a variety of folk and rock instrumentation make for an album that rises and falls at a great pace. The tracklist is well structured, the lyrics catch your attention; a good album on paper. 
+  *On The Beach* provides for a relaxing, positive listen at a cursory glance. Natural production and a variety of folk and rock instrumentation make for an album that rises and falls at a great pace. The tracklist is well structured, the lyrics catch your attention; a good album on paper.
   
-  But the closer one listens, the more there is to find. Between Young’s cynicisms and commentary on the music scene that he was part of, the album provides a lot for the emotions besides a the simple warmth of good music. 
+  But the closer one listens, the more there is to find. Between Young’s cynicisms and commentary on the music scene that he was part of, the album provides a lot for the emotions besides a the simple warmth of good music.
   
   Describing quite what I’ve found so far in the album to make it so intersting and notable however, has proven incredibly hard. All I do know is that I want to go back for another listen to hear more of it. Something that must be heard to be believed.
 
