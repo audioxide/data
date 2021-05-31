@@ -12,7 +12,7 @@ tags:
   - new order
 featuredimage: album-artwork/unknown-pleasures-joy-division.jpg
 artworkCredit: was designed by English graphic designer Peter Saville, Factory Record’s creative director at the time. The band presented him with a page from the Cambridge Encyclopedia of Astronomy, on which was a stacked plot of radio emissions from the pulsar star CP 1919. Saville inverted the colours, and the rest is legend.
-artworkCreditSource: https://www.theverge.com/2012/10/16/3513480/watch-this-joy-division-album-cover
+artworkCreditSource: https://www.radiox.co.uk/artists/joy-division/cover-joy-division-unknown-pleasures-meaning/
 artist: Joy Division
 album: Unknown Pleasures
 essentialtracks: ""
