@@ -1,6 +1,6 @@
 ---
 created: 2020-02-12T12:00:53.000Z
-modified: 2020-02-19T14:20:28.000Z
+modified: 2021-05-31T15:34:28.000Z
 slug: joy-division-unknown-pleasures
 type: reviews
 tags:
@@ -11,11 +11,13 @@ tags:
   - nine inch nails
   - new order
 featuredimage: album-artwork/unknown-pleasures-joy-division.jpg
+artworkCredit: was designed by English graphic designer Peter Saville, Factory Record’s creative director at the time. The band presented him with a page from the Cambridge Encyclopedia of Astronomy, on which was a stacked plot of radio emissions from the pulsar star CP 1919. Saville inverted the colours, and the rest is legend.
+artworkCreditSource: https://www.theverge.com/2012/10/16/3513480/watch-this-joy-division-album-cover
 artist: Joy Division
 album: Unknown Pleasures
 essentialtracks: ""
 favouritetracks:
-  - She's Lost Control
+  - She’s Lost Control
   - Day of the Lords
   - Shadowplay
 totalscore:
@@ -27,9 +29,9 @@ colours:
   - "#dad6d8"
   - "#dad6d8"
 pullquote: Rain and thunder
-summary: Pretty much everything about Unknown Pleasures was, and continues to be, a total fucking triumph in cathartic misery. It's reassuring that a record so emotionally detached and theatrically passionate can still inspire music listeners in 2020.
+summary: Pretty much everything about Unknown Pleasures was, and continues to be, a total fucking triumph in cathartic misery. It’s reassuring that a record so emotionally detached and theatrically passionate can still inspire music listeners in 2020.
 week: 220
-blurb: Pretty much everything about Unknown Pleasures was, and continues to be, a total triumph in cathartic misery. It's a true classic.
+blurb: Pretty much everything about Unknown Pleasures was, and continues to be, a total triumph in cathartic misery. It’s a true classic.
 artistMBID: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
 albumMBID: 42352def-1aab-3000-b548-895ebd869cb6
 artistLink: https://store.neworder.com/joy-division.html/
