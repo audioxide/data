@@ -18,7 +18,9 @@ tags:
   - experimental
   - electronic
 featuredimage: album-artwork/magdalene-fka-twigs.jpg
-artist: FKA Twigs
+artworkCredit: was a collaboration between twigs and English artist Matthew Stone. The effect was achieved by painting onto a 3D scan of twigs. ‘I’m trying to depict bodies that feel real and unreal at the same time,’ Stone said, ‘trying to create something that feels authentically human, but kind of trapping myself within this digital world.’ 
+artworkCreditSource: https://www.creativereview.co.uk/matthew-stone-fka-twigs-madgalene/
+artist: FKA twigs
 album: MAGDALENE
 essentialtracks:
   - mary magdalene
@@ -46,11 +48,11 @@ artistLink: https://shop.fkatwi.gs/
 author: andre-dack
 
 review: >-
-  Four years after her dark and dazzling debut, FKA Twigs dials down on sensuous soundscapes and instead delivers a far more introspective record. *MAGDALENE* explores the effects of physical and emotional trauma in visceral fashion. Certainly, it stands as one of the year’s most striking pop albums. 
+  Four years after her dark and dazzling debut, FKA Twigs dials down on sensuous soundscapes and instead delivers a far more introspective record. *MAGDALENE* explores the effects of physical and emotional trauma in visceral fashion. Certainly, it stands as one of the year’s most striking pop albums.
   
   It’s often bursting with ideas, though you can almost pinpoint them track-for-track. The piano chords on “home with you” are taken directly from [Thom Yorke’s pamphlet of solemnity and sadness](/reviews/thom-yorke-anima/), whilst “sad day” is pretty much a 2019 reimagining of [*Hounds of Love*](/reviews/kate-bush-hounds-of-love/). To be clear, this is far from a bad thing: there are worse influences to have than Radiohead and Kate Bush. However, I do think *MAGDALENE* suffers from a lack of originality.
 
-  When the plan comes together, it results in some stunning moments. “fallen alien” is a sci-fi banger that even [Björk](/reviews/bjork-homogenic/) would be proud of, with multiple musical passages and riveting spots of production. Most importantly, it sounds wholly unique. Although it gets somewhat lost amongst the back-end lull, “cellophane” is another fine example. 
+  When the plan comes together, it results in some stunning moments. “fallen alien” is a sci-fi banger that even [Björk](/reviews/bjork-homogenic/) would be proud of, with multiple musical passages and riveting spots of production. Most importantly, it sounds wholly unique. Although it gets somewhat lost amongst the back-end lull, “cellophane” is another fine example.
   
   There is no doubting the spirit behind FKA Twigs’ music, and whilst I think LP1 remains her most enjoyable work, her words have reached greater depths here. There’s proof of artistic maturity, which makes the inclusion of a mediocre Future-featured hip-hop cut even stranger, and so much more disappointing. It seems as though *MAGDALENE* strives for an understated pop epic, yet this is a curious contradiction in itself. For all its instances of greatness and undeniable beauty, the record gets tangled in its own aspirations.
 
