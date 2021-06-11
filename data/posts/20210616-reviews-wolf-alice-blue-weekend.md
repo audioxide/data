@@ -33,7 +33,8 @@ albumMBID: 8216c4a1-367e-405e-8d67-9457f6e76c22
 artistLink: https://store.wolfalice.co.uk/
 
 ---
-author: andré
+
+author: andre-dack
 
 review: >-
   Text
@@ -49,7 +50,8 @@ tracks:
   - TBD
 
 ---
-author: Fred
+
+author: frederick-obrien
 
 review: >-
   Text
@@ -65,7 +67,8 @@ score:
   fraction: 0.5
 
 ---
-author: Andrew
+
+author: andrew-bridge
 
 review: >-
   Text
