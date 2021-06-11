@@ -1,6 +1,6 @@
 ---
 created: 2019-11-13T12:00:20.000Z
-modified: 2019-11-17T21:30:00.000Z
+modified: 2021-06-11T01:04:00.000Z
 slug: fka-twigs-magdalene
 type: reviews
 tags:

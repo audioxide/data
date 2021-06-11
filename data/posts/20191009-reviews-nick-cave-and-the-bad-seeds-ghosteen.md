@@ -1,6 +1,6 @@
 ---
 created: 2019-10-09T10:00:14.000Z
-modified: 2019-10-15T11:02:52.000Z
+modified: 2021-06-11T11:02:52.000Z
 slug: nick-cave-and-the-bad-seeds-ghosteen
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - electronic
   - ambient
 featuredimage: album-artwork/ghosteen-nick-cave-and-the-bad-seeds.jpg
+artworkCredit: features an adapted painting by artist Tom duBois. The original, Breath of Life, depicts Adam the Garden of Eden. The Nick Cave edition replaces Adam with a lamb and a white horse. 
+artworkCreditSource: https://www.theguardian.com/music/2019/oct/05/nick-cave-and-the-bad-seeds-ghosteen-review
 artist: Nick Cave & the Bad Seeds
 album: Ghosteen
 essentialtracks: ""
@@ -26,9 +28,9 @@ colours:
   - "#ffffff"
   - "#ffffff"
 pullquote: Muggy and sorrowful
-summary: The aura of each composition is beautiful, yet there's also the aching feeling of something missing. Ghosteen is quite stunning as an overall entitity. However, without specific songs standing out, it's surprisingly forgettable.
+summary: The aura of each composition is beautiful, yet there’s also the aching feeling of something missing. Ghosteen is quite stunning as an overall entitity. However, without specific songs standing out, it’s surprisingly forgettable.
 week: 211
-blurb: The aura of each composition is beautiful, yet there's also the aching feeling of something missing. Stunning, and yet also oddly forgettable.
+blurb: The aura of each composition is beautiful, yet there’s also the aching feeling of something missing. Stunning, and yet also oddly forgettable.
 artistMBID: 172e1f1a-504d-4488-b053-6344ba63e6d0
 albumMBID: 99fc75a4-3ff2-4248-9ae2-65d7026c7296
 artistLink: https://store.nickcave.com/
@@ -38,7 +40,7 @@ artistLink: https://store.nickcave.com/
 author: andre-dack
 
 review: >-
-  How do you even follow an album like [*Skeleton Tree*](/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/)? The 2016 release from Nick Cave & The Bad Seeds was beautiful, powerful, and utterly devastating. It stands as one of the most despondent records of recent years. 
+  How do you even follow an album like [*Skeleton Tree*](/reviews/nick-cave-and-the-bad-seeds-skeleton-tree/)? The 2016 release from Nick Cave & The Bad Seeds was beautiful, powerful, and utterly devastating. It stands as one of the most despondent records of recent years.
   
   We now arrive at *Ghosteen*, where Nick Cave’s sorrow shifts into acceptance and slight optimism. Nonetheless, the mournful tone is retained, and despite Cave’s words feeling more buoyant than before, the ambience of *Ghosteen* is even more dejected. It seems that he’s made peace with that terrible tragedy in 2015, using the suffering to strengthen his stance on life itself. Cave’s captivating words are, without a doubt, the real highlight of the record. His delivery is amongst the most sincere and compelling in contemporary music.
 
