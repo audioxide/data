@@ -72,14 +72,22 @@ score:
 author: andrew-bridge
 
 review: >-
-  Lorem ipsum dolor
+  It’s almost trite to shower praise on _Blue_, but that’s, unfortunately, all I can do. Joni Mitchell’s fourth album is raw, sentimental and minimal, her composition and performance both so exposed that flaws have nowhere to hide.
+
+  Mitchell’s instrumentals are alluring, if for no other reason, because of their unconventional nature. Leaving rockers and jazzists alike scratching their heads, much of _Blue_ (and her writing in general) throws out the rule book, often leaving chords unresolved and suspended with twisting progressions in unexpected directions. Mitchell describes chords as ‘colours that depict the current state of your emotionality’, and in _Blue_, the music reflects the unresolved parts of her life. The likes of the album’s title track or even the very final closing moments of the album leave the listener at emotional clifftops, leading them through winding paths as Joni’s voice cuts through the single instrument arrangements.
+
+  Vocals on _Blue_ are just as distinctive and iconic. Swooping into the clouds in “River”, her voice is delicate and intimate in one moment, ethereal at the next. “A Case of You” reverberates out over the dulcimer, forming a poetic, honest reflection of a deep, soulful bond.
+
+  To pick the tracklist apart for favourites is tough. But the five minutes made up by “California” and “This Flight Tonight” create a beautiful set of vignettes filled with internal indecision and emotion, backed by lighter, breezier, country-infused instrumentals. Elsewhere, the likes of “Little Green” and closer, “The Last Time I Saw Richard” are both filled with uncertainty and desperation in lyric and instrumental and manage to whip the listener up in the emotions involved.
+
+  With the music on _Blue_, Joni Mitchell has quelled angry crowds and spawned an accidental Christmas classic. In the years since its release, _Blue_ has inspired musos and musicians alike. Half a century later, this is still timeless music that has been a joy to dig into, and it’s essential listening in my eyes.
 
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - A Case of You
+  - California
+  - River
 
 score:
-  score: 8
+  score: 10
   max: 10
-  fraction: 0.8
+  fraction: 1
