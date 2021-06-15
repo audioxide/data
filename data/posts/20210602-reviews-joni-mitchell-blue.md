@@ -28,7 +28,7 @@ colours:
   - "#5b5f93"
   - "#8cb7e1"
 pullquote: She’s so good you almost wonder why anyone else bothers                                 
-summary: The early 1970s was a golden era for singer-songwriters, but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocals performances.                 
+summary: The early 1970s was a golden era for singer-songwriters, but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocal performances.                 
 week: 272                                                    
 blurb: The early 1970s was a golden era for singer-songwriters, but this stands alongside the best. The beauty of Mitchell’s songwriting lies in its simplicity.                                    
 artistMBID: a6de8ef9-b1a1-4756-97aa-481bbb8a4069
@@ -40,7 +40,7 @@ artistLink: https://jonimitchell.com/music/
 author: andre-dack
 
 review: >-
-  Some records are so inherently brilliant that it becomes difficult to even explain why. Such is the case with Joni Mitchell’s _Blue_, which celebrates its 50th anniversary this month. [The early 1970s was a golden era for singer-songwriters](/reviews/neil-young-on-the-beach/), but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocals performances. _Blue_ is a confessional album, travelling through multitudes of grief, but these reflections can sometimes lead to clumsy lyrical moments. This is the only element of the record that hasn’t aged elegantly. The songwriting itself is as good as it gets.
+  Some records are so inherently brilliant that it becomes difficult to even explain why. Such is the case with Joni Mitchell’s _Blue_, which celebrates its 50th anniversary this month. [The early 1970s was a golden era for singer-songwriters](/reviews/neil-young-on-the-beach/), but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocal performances. _Blue_ is a confessional album, travelling through multitudes of grief, but these reflections can sometimes lead to clumsy lyrical moments. This is the only element of the record that hasn’t aged elegantly. The songwriting itself is as good as it gets.
 
   _Blue_ remains a marvellous and universally adored album, but it’s also a fascinating piece of history. It was written and released towards the end of the Vietnam War, and the folk scene was firmly rooted in the protests. At the beginning of “California” Mitchell laments that ‘they won’t give peace a chance, that was just a dream some of us had.’ On the title track she references the hippy lifestyle she found herself in: ‘acid, booze and ass/needles, guns and grass/lots of laughs, lots of laughs.’ It feels like an inner conflict for Mitchell. She knows there’s more to life, but - during one of the agonising wars in modern history - she is, at the very least, laughing. This is more than can be said for many others.
 
