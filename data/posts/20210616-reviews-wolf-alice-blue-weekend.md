@@ -59,7 +59,7 @@ score:
 ---
 author: andrew-bridge
 review: >-
-  As Wolf Alice released their debut, all three of us looked forward to exciting things in the band’s future. Here in the future, with a third album under their belt, I can’t say I’m disappointed.
+  As Wolf Alice released their [debut](/reviews/wolf-alice-my-love-is-cool/), all three of us looked forward to exciting things in the band’s future. Here in the future, with a third album under their belt, I can’t say I’m disappointed.
 
 
   Primed by lead single, “The Last Man on Earth”, it felt as though this album was striving for a bigger, bolder sound. As it is, this track sits in the middle of the pack, with the snarly, noisy, gritty fuzz of “Smile” and the woozy haze across “Delicious Things” pushing their way to the top of my favourites here. The band is stretching out throughout this tracklist, now comfortable with the sound they’ve carved for themselves. Folky fingerpicking slides into ’70’s leaning “How Can I Make It OK?” which in turn sits next to a noisy, punky surge of sound. In each case, the band pull it off, with drummer, Joel Amey, turning his hand to the counter vocal in “Safe From Heartbreak” and returning to pummel the drumline in “Play The Greatest Hits”. Ellie Rowsell’s vocals stretch out in a similar way, playing with delivery to make lyrics dance, tiptoe or glide their way across a track with a poetic, familiar lilt.
@@ -68,7 +68,7 @@ review: >-
   With each listen, my recurring thought is how great this material will sound live. The band has a knack for letting an instrumental ride out a track, as guitar soars out to meet strings rounding out “Delicious Things” while “Feeling Myself” erupts into a climax of sound in its final moments. These are likely room-filling moments in a live setting and I’m excited for them to tour with this tracklist in the mix.
 
 
-  While their debut rocked, and _Visions Of A Life_ had shining highlights, _Blue Weekend_ sits most comfortably with me. With a slightly heavier undertone of fizzy electronic sounds in places and a wider gamut of styles across the board, it feels as though this album brings an overall cracking quality even if it doesn’t bring the standout tracks of the previous record. Despite the hefty competition for amazing music we’ve seen in 2021, this album feels like it’ll stick around for end of year lists and beyond.
+  While their debut rocked, and _[Visions Of A Life](/reviews/wolf-alice-visions-of-a-life)_ had shining highlights, _Blue Weekend_ sits most comfortably with me. With a slightly heavier undertone of fizzy electronic sounds in places and a wider gamut of styles across the board, it feels as though this album brings an overall cracking quality even if it doesn’t bring the standout tracks of the previous record. Despite the hefty competition for amazing music we’ve seen in 2021, this album feels like it’ll stick around for end of year lists and beyond.
 tracks:
   - Play The Greatest Hits
   - Feeling Myself
