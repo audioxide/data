@@ -25,7 +25,7 @@ totalscore:
   fraction: 0.93333333333333
 colours:
   - "#022158"
-  - "#474b7b"
+  - "#5b5f93"
   - "#8cb7e1"
 pullquote: She’s so good you almost wonder why anyone else bothers                                 
 summary: The early 1970s was a golden era for singer-songwriters, but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocals performances.                 
@@ -61,7 +61,7 @@ score:
 author: frederick-obrien
 
 review: >-
-  I could drink a case of _Blue_ (hoooooooooooooo). The record flows like nectar, cool and smooth and bittersweet. We’ve listened to our fair share of [singer-songwriters](/reviews/leonard-cohen-songs-of-love-and-hate/) over the years and not one of them holds court quite like Joni Mitchell does. She’s so good you almost wonder why anyone else bothers.
+  I could drink a case of _Blue_ (hoooooooooooooo). The record flows like nectar, cool and smooth and bittersweet. We’ve listened to our fair share of [singer-songwriters](/reviews/bob-dylan-highway-61-revisited/) over the years and not one of them holds court quite like Joni Mitchell does. She’s so good you almost wonder why anyone else bothers.
 
 tracks:
   - Blue
@@ -69,9 +69,9 @@ tracks:
   - This Flight Tonight
 
 score:
-  score: 8
+  score: 9
   max: 10
-  fraction: 0.8
+  fraction: 0.9
 
 ---
 
