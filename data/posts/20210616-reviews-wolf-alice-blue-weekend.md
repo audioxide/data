@@ -74,7 +74,7 @@ author: frederick-obrien
 review: >-
   Wolf Alice are back, baby, and if not better than ever exactly then still terrific in surprising new ways. We adored _Visions of a Life_ back in 2017 and could not wait to hear what was next for them. It turns out what was next was synth-pop and power ballads and intense bursts of electronica. And another two-minute punk rock number, of course.
 
-  _Visions_ fundamentally felt like a rock record. There was a smattering of everything - as is Wolf Alice’s way - but the sum total was something quite wiry an hard-edged. _Blue Weekend_ is an altogether looser thing. It’s like the band came apart and sewed itself back together with shimmering gold thread.
+  _Visions_ fundamentally felt like a rock record. There was a smattering of everything - as is Wolf Alice’s way - but the sum total was something quite wiry and hard-edged. _Blue Weekend_ is an altogether looser, more mystical thing, like the band came apart and sewed itself back together with shimmering gold thread.
 
   Much is familiar. Ellie Rowsell’s customary drift between spoken-word musings and operatic soarings is alive and well, and the band as a whole is as simpatico as ever - if not moreso. Their gifts are just in service of gentler shapes this time around. The delicious synth haze of “How Can I Make It OK?” is reminiscent of [Kate Bush](/reviews/kate-bush-hounds-of-love/), while the ice cold and cavernous “Feeling Myself” listens like _Kid A_-era [Radiohead](/reviews/radiohead-ok-computer/) of all things. It’s bold, often brilliant songwriting.
 
