@@ -35,7 +35,7 @@ colours:
 pullquote: Bigger, bolder, and gentler than ever
 summary: Ellie Rowsell’s customary drift between spoken-word musings and operatic soarings is alive and well, and the band as a whole is as simpatico as ever - if not moreso. Their gifts are just in service of gentler shapes this time around.
 week: 273
-blurb: Ellie Rowsell’s drift between spoken-word musings and operatic soarings is alive and well, and Wolf Alice as a whole is as simpatico as ever - if not moreso.
+blurb: Ellie Rowsell’s drift between spoken-word musings and operatic soarings is alive and well, and the band as a whole is as simpatico as ever - if not moreso.
 artistMBID: 3547f34a-db02-4ab7-b4a0-380e1ef951a9
 albumMBID: 8216c4a1-367e-405e-8d67-9457f6e76c22
 artistLink: https://store.wolfalice.co.uk/
@@ -103,7 +103,7 @@ review: >-
 
   With each listen, a recurring thought is how great this material will sound live. The band has a knack for letting an instrumental ride out a track. Guitar soars to meet strings rounding out “Delicious Things”, while “Feeling Myself” erupts into a climax of sound in its final moments. These are likely room-filling moments in a live setting and I’m excited for them to tour with this tracklist in the mix.
 
-  While their debut rocked, and [_Visions Of A Life_](/reviews/wolf-alice-visions-of-a-life/) had shining highlights, _Blue Weekend_ sits most comfortably with me. With a slightly heavier undertone of fizzy electronic sounds and a wider gamut of styles, the album brings cracking quality, even if it doesn’t have the standout tracks of the previous record. Despite the hefty competition for amazing music we’ve seen in 2021, this album feels like it’ll stick around for [end of year lists](/tags/year-end-lists/) and beyond.
+  While their debut rocked, and [_Visions of A Life_](/reviews/wolf-alice-visions-of-a-life/) had shining highlights, _Blue Weekend_ sits most comfortably with me. With a slightly heavier undertone of fizzy electronic sounds and a wider gamut of styles, the album brings cracking quality, even if it doesn’t have the standout tracks of the previous record. Despite the hefty competition for amazing music we’ve seen in 2021, this album feels like it’ll stick around for [end of year lists](/tags/year-end-lists/) and beyond.
 
 tracks:
   - Play The Greatest Hits
