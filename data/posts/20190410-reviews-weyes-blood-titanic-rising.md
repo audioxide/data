@@ -1,6 +1,6 @@
 ---
 created: 2019-04-10T10:00:23.000Z
-modified: 2019-05-02T18:27:49.000Z
+modified: 2021-06-26T23:12:49.000Z
 slug: weyes-blood-titanic-rising
 type: reviews
 tags:
@@ -13,6 +13,8 @@ tags:
   - courtney barnett
   - muse
 featuredimage: album-artwork/titanic-rising-weyes-blood.jpg
+artworkCredit: was shot by Australian photographer Brett Stanley. Blood saw the bedroom as an expression of modern individualism. ‘It’s kind of like the waters have risen over this bedroom which to me is symbolic of kind of a subconscious altar that all young people in western culture create for themselves,’ she said. 
+artworkCreditSource: https://www.stereogum.com/2038017/weyes-blood-titanic-rising-interview-underwater-cover/interviews/
 artist: Weyes Blood
 album: Titanic Rising
 essentialtracks: ""
@@ -29,7 +31,7 @@ colours:
   - "#f7f4ef"
   - "#f7f4ef"
 pullquote: Cheesy, excellently realised pop
-summary: Titanic Rising goes above and beyond to attempt something extraordinary, and even if it doesn't quite reach those desired heights, Weyes Blood deserves serious commendation.
+summary: Titanic Rising goes above and beyond to attempt something extraordinary, and even if it doesn’t quite reach those desired heights, Weyes Blood deserves serious commendation.
 week: 187
 blurb: Despite its glistening arrangements and ethereal production, this is a cheesy, yet excellently realised, pop album at heart; bold and forthright.
 artistMBID: 469d6414-1f06-43de-80d5-17762d4a356a
