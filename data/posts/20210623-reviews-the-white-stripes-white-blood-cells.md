@@ -76,12 +76,22 @@ score:
 
 ---
 author: andrew-bridge
-review: Lorem ipsum dolor
+review: >-
+  It seems the White Stripes decided to combat the ‘difficult third album’ syndrome with the rough and readiness of a debut. _White Blood Cells_ rattles through sixteen tracks in its forty minute playtime, and in the case of “Little Room”, which intends to present the benefits of limitation, it doesn’t even touch the minute mark.
+
+
+  With such a whirlwind of ideas, nothing is given time to flesh out. Simple, catchy, bluesy progressions lay the foundations for Jack White’s vocal, he’s either fiercely in love or in a deep martyrdom for a woman, a striking chorus whips along through and you’re on to the next cut. These simple elements can make for a cracking listen, but it ultimately makes for less impactful music and many tracks just get lost in the shuffle.
+
+
+  The most interesting tracks here are also those that break the trend. “I Think I Smell a Rat” has a striking opening, White’s vocal full of drama and rasp. “The Union Forever” opens with a sinister, droning instrumental and a vocal almost entirely built of lines from _Citizen Kane_. Even closer, “The Protector”, with its looping piano progression and more prominent backing vocals from Meg White make it instantly more notable than other tracks.
+
+
+  All this culminates in a shallow experience, a great listen without much more depth. This is a grab bag of White Stripes music that sits well in their discography, but does little to stand out among the rest of their material.
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - The Union Forever
+  - I Think I Smell A Rat
+  - Fell In Love With A Girl
 score:
-  score: 8
+  score: 6
   max: 10
-  fraction: 0.8
+  fraction: 0.6
