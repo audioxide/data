@@ -35,11 +35,20 @@ artistLink: https://www.whitestripes.com/
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  The early 2000s was a lucrative time for guitar music, but The White Stripes still managed to make themselves heard with some of the most accessible garage rock to ever break the mainstream. The immediacy of their sound was tailor-made for radio, and the mystery around the duo’s relationship only added to the intrigue. They may not have been the biggest band around, but they were certainly one of the coolest. Their music was a valuable gateway for listeners who wouldn’t usually venture into the realms of rock’n’roll. There’s huge value in that.
+
+
+  Personally, I always found the music to be slightly too skeletal to fully embrace. The White Stripes evolved to great effect on _Elephant_, which remains their most accomplished record, but many fans hold its predecessor, _White Blood Cells_, as a highlight in the discography. Whilst I always enjoy my time with it, I can’t help but bemoan its lack of staying power. Jack plays trashy guitar chords whilst singing similar stories of love (or lack thereof), and Meg bashes the drums with great force. The duo have undeniable charm, but there’s only so many times you can listen to the formula without feeling fatigued, if only slightly.
+
+
+  The White Stripes are well known for sparse arrangements, but the songs on _White Blood Cells_ feel strangely empty, even in comparison to previous material. Their 1999 debut album sets the tone with opening track “Jimmy the Exploder”: a blues-punk stomper that doesn’t just get the feet tapping, but also the hips swaying. Whilst _White Blood Cells_ does share that same primal instinct, it lacks the infectious sense of fun and joy. The album is curiously hollow in places, with a small selection of songs that feel unfulfilled.
+
+
+  Consequently, my favourite tracks are those that are more eccentric and choose to steer away from the formula altogether, and there are enough of those to keep _White Blood Cells_ engaging until the end. There is a nice balance between the offbeat songs, such as “I Think I Smell a Rat” and “ The Union Forever”, and the rockabilly punk cuts like “Fell In Love With a Girl”. There’s not a whole lot left to say given the amusement is so surface level. Which is fine, by the way. _White Blood Cells_ is a good album, but far from their best, and not remotely on the same level as some of the milestones of that era.
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - I Think I Smell a Rat
+  - The Union Forever
 score:
   score: 7
   max: 10
