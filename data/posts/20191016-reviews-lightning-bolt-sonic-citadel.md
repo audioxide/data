@@ -1,6 +1,6 @@
 ---
 created: 2019-10-16T10:00:58.000Z
-modified: 2019-10-21T11:43:15.000Z
+modified: 2021-06-10T03:31:15.000Z
 slug: lightning-bolt-sonic-citadel
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - rock
   - noise rock
 featuredimage: album-artwork/sonic-citadel-lightning-bolt.jpg
+artworkCredit: was designed by the band’s drummer, Brian Chippendale. 
+artworkCreditSource: https://beartreerecords.com/products/lightning-bolt-sonic-citadel-lp
 artist: Lightning Bolt
 album: Sonic Citadel
 essentialtracks:
@@ -27,7 +29,7 @@ colours:
 pullquote: Grubby and monotonous
 summary: I have it on good authority that this duo is formed of stellar talent, and by all accounts their live performances burst with energy. But Sonic Citadel sticks around for too long on the same idea for the effect to carry over here.
 week: 212
-blurb: Sonic Citadel leans into the grubby, raw, jam-like nature of the duo's live performances, records it, and calls it a day. It's like a whirring motorcycle.
+blurb: Sonic Citadel leans into the grubby, raw, jam-like nature of the duo’s live performances, records it, and calls it a day. It’s like a whirring motorcycle.
 artistMBID: 978a36f7-85c6-44ca-a02e-7564e8fa8284
 albumMBID: e15e37de-2462-48fa-9f81-e512eb24fb12
 artistLink: https://lightningbolt.bandcamp.com/
