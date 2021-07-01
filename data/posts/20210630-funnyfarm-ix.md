@@ -106,9 +106,9 @@ Otto’s head appeared again.
 <center>*</center>
 
 > **BAND WITH NO NAME STRIKES AGAIN**
-> The hottest act this side of Crickle Farm proved itself to me no one-off fluke last night, sending the Neon Duck into a kind of mass scream therapy session.
+> The hottest act this side of Crickle Farm proved itself to be no one-off fluke last night, sending the Neon Duck crowd into a kind of mass scream therapy session.
 > Frontman Alan Hazard’s wordplay took listeners to another plane of existence. It was not an altogether pleasant plane, but otherly all the same. This reporter is comfortable saying Hazard’s words spoke to universal, ageless truths of the soul.
-> The rest of the Band with No Name were transcendent. Angels wished they played their harps half as well as rhythm guitarist Bas plays his Fender knockoff.
+> The rest of the Band with No Name were transcendent. Lead guitarist Ray O. Sunshine wept at his own solos almost as much as those in the audience. Drummer Theo Stone tapped into the pulse of the cosmos. Angels wished they played their harps half as well as rhythm guitarist Bas plays his Fender knockoff.
 > It was a gig for the ages. Before the final note had faded the band were gone.
 
 <center><p><strong>← <a href="funnyfarm/viii/">Previous</a></p></center>
