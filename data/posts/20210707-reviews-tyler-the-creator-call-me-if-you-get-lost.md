@@ -21,13 +21,13 @@ favouritetracks:
   - MASSA
   - WUSYANAME
 totalscore:
-  given: 22
+  given: 24
   possible: 30
-  fraction: 0.7333333333333333
+  fraction: 0.8
 colours:
   - "#6ea375"
-  - "#242e23"
-  - "#242e23"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Impulsive in all the best ways
 summary: CALL ME IF YOU GET LOST transcends hip-hop. This is a buttery fusion of rap, soul, synth-pop, jazz, and a whole lot more. There’s even a reggae section that doesn’t fall flat on its face.
 week: 275
