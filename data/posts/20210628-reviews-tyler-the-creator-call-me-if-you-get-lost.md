@@ -47,11 +47,14 @@ score:
 
 ---
 author: frederick-obrien
-review: Lorem ipsum dolor
+review: >-
+  Tyler sure knows what he’s doing. _CALL ME IF YOU GET LOST_ is a delicious scramble of sounds, a record that feels all over the place yet utterly assured. In lesser hands it might have sounded like a mess, but you can pull in as many directions as you want if the results are this lush, this alive. From the gently barbed synth dream of “MASSA” to the confessionals of “WILSHIRE”, Tyler goes all in on the tangents and sticks the landings.
+
+
+  That said, ‘all in’ translates into something lower key than you might expect. The album is a bit of an under-the-radar addition to Tyler’s discography. It’d do well to sound more at ease with itself. Even if it lacks the edge of _[Flower Boy](/reviews/tyler-the-creator-flower-boy/)__ _or _[IGOR](/reviews/tyler-the-creator-igor/)_, _CALL ME IF YOU GET LOST _is almost certainly the most pleasant of the three to listen to. It’s like sinking into an improbably soft and colourful velvet sofa.
 tracks:
-  - Track 3
-  - Track 6
-  - Track 5
+  - MASSA
+  - SWEET / I THOUGHT YOU WANTED TO DANCE
 score:
   score: 8
   max: 10
