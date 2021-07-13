@@ -55,9 +55,9 @@ tracks:
   - MANIFESTO
 
 score:
-  score: 7
+  score: 8
   max: 10
-  fraction: 0.7
+  fraction: 0.8
 
 ---
 
