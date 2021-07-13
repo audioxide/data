@@ -55,6 +55,7 @@ review: >-
 tracks:
   - MASSA
   - SWEET / I THOUGHT YOU WANTED TO DANCE
+  - WILSHIRE
 score:
   score: 8
   max: 10
