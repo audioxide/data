@@ -17,6 +17,9 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 14
+    - run: yarn
+      env:
+        GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: yarn run process-images
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
