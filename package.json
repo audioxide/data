@@ -16,7 +16,7 @@
     "process-images": "processAudioxideImages"
   },
   "dependencies": {
-    "@audioxide/data-processor": "^0.15.1",
+    "@audioxide/data-processor": "^0.15.2",
     "@babel/core": "^7.12.10",
     "flexsearch": "^0.6.32",
     "node-fetch": "^2.6.1"
