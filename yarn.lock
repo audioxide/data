@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@audioxide/data-processor@^0.15.2":
-  version "0.15.2"
-  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.15.2/5577b88cb7fccb455f7e0fc7ffa39c771141dec84015fd673aede707ecd14d8f#399f7128168bc28db98afc614e50422d9576ac68"
-  integrity sha512-UK8jS3OAqEivjOp97ZlqTiV4E5svnaaMbm2EpygRWoUsupiqlgewTviFxnTw+9Zq/FKliTNg7hFmkXfIT5iprg==
+"@audioxide/data-processor@^0.15.3":
+  version "0.15.3"
+  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.15.3/fb823dd9b1e6c5af5098d3ae1a7f30fe906f0859501321a0f94f68a0c4a70321#8d35c0b959584ac7bf7b4638790750b4783e5323"
+  integrity sha512-mE9HL43Kydnhn3so3PKfpHauM5h1FHx9chgYs+ORX1XIyvDTiP9EI+jHymtbTjmNJn7LyPOhw3EsgS5m2N603A==
   dependencies:
     "@aws-sdk/client-s3" "^3.21.0"
     "@parcel/transformer-svgo" "^2.0.0-nightly.1739"
