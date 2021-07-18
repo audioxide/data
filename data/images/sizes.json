@@ -10,5 +10,6 @@
         "medium": 768,
         "large": 1026,
         "xlarge": 1500
-    }
+    },
+    "formats": ["[original]", "webp", "avif"]
 }
