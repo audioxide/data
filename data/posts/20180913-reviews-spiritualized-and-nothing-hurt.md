@@ -1,6 +1,6 @@
 ---
 created: 2018-09-13T10:00:56.000Z
-modified: 2018-09-28T16:35:56.000Z
+modified: 2021-07-26T21:15:56.000Z
 slug: spiritualized-and-nothing-hurt
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - rock
   - eels
 featuredimage: album-artwork/and-nothing-hurt-spiritualized.jpg
+artworkCredit: was designed by British artist Mark Farrow.
+artworkCreditSource: https://www.southrecordshop.com/products/spiritualized-and-nothing-hurt
 artist: Spiritualized
 album: And Nothing Hurt
 essentialtracks: ""
