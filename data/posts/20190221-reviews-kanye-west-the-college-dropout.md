@@ -8,7 +8,7 @@ tags:
   - kanye west
   - hip hop
 featuredimage: album-artwork/the-college-dropout-kanye-west.jpg
-artworkCredit: was designed by Eric Duvauchelle, who was then part of Roc-A-Fella Records’ in-house design team. Duvauchelle was given a binder of Dropout Bear photographs and was drawn to bleachers shot. Its lavish frame was taken from a book of 16th century illustrations. ‘The gold ornaments on the cover around the image represented the admiration Kanye has for art,’ Duvauchelle said, ‘and he wanted to drastically depart from the typical image of rap at the time—to bring a sense of elegance and style to what was typically a gangster-led image of rap artists.’
+artworkCredit: was designed by Eric Duvauchelle. The lavish frame around the main Dropout Bear photograph was taken from a book of 16th century illustrations. ‘The gold ornaments [...] represented the admiration Kanye has for art,’ Duvauchelle said, ‘and he wanted to drastically depart from the typical image of rap at the time—to bring a sense of elegance and style to what was typically a gangster-led image of rap artists.’
 artworkCreditSource: https://www.capitalxtra.com/artists/kanye-west/lists/the-college-dropout-facts/artwork/
 artist: Kanye West
 album: The College Dropout
