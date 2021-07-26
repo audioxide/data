@@ -1,6 +1,6 @@
 ---
 created: 2018-08-23T10:00:00.000Z
-modified: 2018-08-28T22:27:11.000Z
+modified: 2021-07-26T21:21:11.000Z
 slug: oh-sees-smote-reverser
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - alternative rock
   - psychedelia
 featuredimage: album-artwork/smote-reverser-oh-sees.jpg
+artworkCredit: was designed by American artist Matt Stawicki. John Dwyer had always wanted to work with an artist with a pulp science fiction background. ‘It was two different worlds coming together,’ Dwyer said.
+artworkCreditSource: https://www.billboard.com/articles/columns/rock/8468833/oh-sees-smote-reverser-interview
 artist: Oh Sees
 album: Smote Reverser
 essentialtracks: ""
@@ -25,7 +27,7 @@ colours:
   - "#cbc9d4"
   - "#cbc9d4"
 pullquote: Filter-free
-summary: If you can tap into Oh Sees' frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
+summary: If you can tap into Oh Sees’ frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
 week: 160
 blurb: From its ludicrous track names to its filter-free kitchen sink instrumentation, *Smote Reverser* is an hour-long marathon of pretentiousness and tedium.
 artistMBID: 194272cc-dcc8-4640-a4a6-66da7d250d5c
