@@ -1,6 +1,6 @@
 ---
 created: 2018-07-12T10:00:21.000Z
-modified: 2018-07-12T16:37:53.000Z
+modified: 2021-07-26T28:37:53.000Z
 slug: bjork-debut
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - arcade fire
   - kate bush
 featuredimage: album-artwork/debut-bjork.jpg
+artworkCredit: was shot by French photographer Jean-Baptiste Mondino of Iconoclast Image. 
+artworkCreditSource: https://www.theguardian.com/music/gallery/2015/jan/22/bjorks-album-artwork-in-pictures-vulnicura-biophilia
 artist: Björk
 album: Debut
 essentialtracks:
