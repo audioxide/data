@@ -1,6 +1,6 @@
 ---
 created: 2021-04-26T18:00:00.000Z
-modified: 2021-04-26T18:00:00.000Z
+modified: 2021-07-26T18:00:00.000Z
 slug: artist-friendly-alternatives-to-spotify
 type: articles
 tags:
@@ -14,6 +14,11 @@ summary: The big dogs of music streaming aren’t great for musicians, but there
 blurb: The big dogs of music streaming aren’t great for musicians, but there are other options. Here are services putting artists first (or at least, not dead last).
 
 ---
+
+<figure class="wide">
+  <img src="article-images/spotify-alternatives-featured-image.jpg" alt="Illustration of a wooden signpost with boards pointing to different music streaming services" />
+  <figcaption>Image by the author</figcaption>
+</figure>
 
 Royalty rates on popular music streaming services make it impossible for all but the most biggest musicians to earn livable incomes. Consumer habits alone won’t save the world, but enough people spending conscientiously  can make a huge difference to an awful lot of artists. With that in mind, this article lists a selection of more ethical alternatives to the likes of Spotify, Apple Music, and YouTube.
 
@@ -39,7 +44,7 @@ One trade-off of being a cooperative is that Resonate does not yet have the reso
 
 ![SonStream music streaming logo](article-images/spotify-alternatives-sonstream-logo.png "SonStream logo")
 
-Going all in on a musician-centric model, on [SonStream](https://resonate.is/) you pay artists directly for streams. Instead of a subscription it’s straight up pay-as-you-go — around 2.5 pence a song (or 3 cents). No fucking around.
+Going all in on a musician-centric model, on [SonStream](https://sonstream.com/) you pay artists directly for streams. Instead of a subscription it’s straight up pay-as-you-go — around 2.5 pence a song (or 3 cents). No fucking around.
 
 If you listen to no songs in a month, you pay nothing. If you listen to 500 songs you’ll pay somewhere in the region of £12.50 (or $15). Seems reasonable right? The direct line between listeners and artists is a real pro here. There’s no opaque processes whereby your money mysteriously finds itself in the pockets of artists you’ve never listened to.
 
