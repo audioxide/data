@@ -63,7 +63,7 @@ tracks:
   - TBD
 
 score:
-  score: 1
+  score: 10
   max: 10
   fraction: 1
 
@@ -80,6 +80,6 @@ tracks:
   - TBD
 
 score:
-  score: 1
+  score: 10
   max: 10
   fraction: 1
