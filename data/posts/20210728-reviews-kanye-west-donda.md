@@ -13,10 +13,10 @@ artworkCreditSource: https://ocula.com/magazine/art-news/louise-bourgeois-gouach
 artist: Kanye West
 album: Donda
 essentialtracks:                                             
-  - Acme Track
-  - Acme Track
+  - TBD
+  - TBD
 favouritetracks:                                            
-  - Acme Track
+  - TBD
 totalscore:                                                  
   given: 30                                                  
   possible: 30
