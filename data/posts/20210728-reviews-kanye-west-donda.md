@@ -8,8 +8,8 @@ tags:
   - hip hop
   - kanye west
 featuredimage: album-artwork/donda-kanye-west.jpg      
-artworkCredit: was designed by French artist Louise Bourgeois.                             
-artworkCreditSource: https://hiphopdx.com/news/id.63279/title.kanye-west-donda-album-cover-art-revealed            
+artworkCredit: features a painting by French-American artist Louise Bourgeois.                             
+artworkCreditSource: https://ocula.com/magazine/art-news/louise-bourgeois-gouache-kanye-west-donda/            
 artist: Kanye West
 album: Donda
 essentialtracks:                                             
@@ -18,17 +18,17 @@ essentialtracks:
 favouritetracks:                                            
   - Acme Track
 totalscore:                                                  
-  given: 22                                                  
+  given: 30                                                  
   possible: 30
-  fraction: 0.7333333333333333
+  fraction: 1
 colours:
   - "#b60203"
-  - "#637684"
-  - "#637684"
-pullquote: Lorem ipsum dolor                                 
-summary: Lorem ipsum dolor                                   
+  - "#ffffff"
+  - "#ffffff"
+pullquote: TBD                                 
+summary: TBD                                   
 week: 277
-blurb: Lorem ipsum dolor                                    
+blurb: TBD                                    
 artistMBID: 164f0d73-1234-4e2c-8743-d77bf2191051
 albumMBID: 00000000-0000-0000
 artistLink: https://shop.kanyewest.com/
@@ -38,48 +38,48 @@ artistLink: https://shop.kanyewest.com/
 author: andre-dack
 
 review: >-
- Lorum ipsum dolor
+ TBD
 
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - TBD
+  - TBD
+  - TBD
 
 score:
-  score: 7
+  score: 10
   max: 10
-  fraction: 0.7
+  fraction: 1
 
 ---
 
 author: frederick-obrien
 
 review: >-
-  Lorem ipsum dolor
+  TBD
 
 tracks:
-  - Track 3
-  - Track 6
-  - Track 5
+  - TBD
+  - TBD
+  - TBD
 
 score:
-  score: 8
+  score: 1
   max: 10
-  fraction: 0.8
+  fraction: 1
 
 ---
 
 author: marcus-lawrence
 
 review: >-
-  Lorem ipsum dolor
+  TBD
 
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - TBD
+  - TBD
+  - TBD
 
 score:
-  score: 8
+  score: 1
   max: 10
-  fraction: 0.8
+  fraction: 1
