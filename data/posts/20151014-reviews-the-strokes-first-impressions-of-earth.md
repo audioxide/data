@@ -9,7 +9,7 @@ tags:
   - alternative rock
   - indie
 featuredimage: album-artwork/first-impressions-of-earth-the-strokes.jpg
-artworkCredit: features a 1968 painting by German avant-garde artist Lothar Quinte. The painting’s name is “Ohne Titel", or “Untitled”.
+artworkCredit: features a 1968 painting by German avant-garde artist Lothar Quinte. The painting’s name is “Ohne Titel”, or “Untitled”.
 artworkCreditSource: https://www.sonymusic.ch/kuenstler/the-strokes
 artist: The Strokes
 album: First Impressions of Earth
