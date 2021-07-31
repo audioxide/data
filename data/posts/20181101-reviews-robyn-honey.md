@@ -1,6 +1,6 @@
 ---
 created: 2018-11-01T12:00:02.000Z
-modified: 2018-11-02T22:59:19.000Z
+modified: 2021-07-26T21:06:19.000Z
 slug: robyn-honey
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - janelle monae
   - lady gaga
 featuredimage: album-artwork/honey-robyn.jpg
+artworkCredit: was shot by German photographer Heji Shin, with a custom typeface designed by French graphic designer Laura Jouan.
+artworkCreditSource: https://models.com/work/various-covers-robyn-honey-album-cover
 artist: Robyn
 album: Honey
 essentialtracks: ""

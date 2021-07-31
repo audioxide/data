@@ -1,6 +1,6 @@
 ---
 created: 2018-07-19T10:00:31.000Z
-modified: 2018-07-19T16:53:33.000Z
+modified: 2021-07-31T22:00:33.000Z
 slug: deep-purple-shades-of-deep-purple
 type: reviews
 tags:
@@ -12,6 +12,8 @@ tags:
   - the beatles
   - the jimi hendrix experience
 featuredimage: album-artwork/shades-of-deep-purple-deep-purple.jpg
+artworkCredit: was designed by American artist Les Weisbrich.
+artworkCreditSource: https://www.allmusic.com/artist/les-weisbrich-mn0001423517/credits
 artist: Deep Purple
 album: Shades of Deep Purple
 essentialtracks:

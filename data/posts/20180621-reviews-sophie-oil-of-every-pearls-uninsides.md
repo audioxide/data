@@ -1,6 +1,6 @@
 ---
 created: 2018-06-21T10:00:47.000Z
-modified: 2018-06-28T16:25:25.000Z
+modified: 2021-07-31T22:08:25.000Z
 slug: sophie-oil-of-every-pearls-uninsides
 type: reviews
 tags:
@@ -11,8 +11,10 @@ tags:
   - experimental
   - IDM
 featuredimage: album-artwork/oil-of-every-pearls-un-insides-sophie.jpg
+artworkCredit: was shot by British photographer Charlotte Wales.
+artworkCreditSource: https://www.dazeddigital.com/music/article/40374/1/listen-sophie-debut-album-oil-of-every-pearls-un-insides
 artist: SOPHIE
-album: OIL OF EVERY PEARL'S UN-INSIDES
+album: OIL OF EVERY PEARL’S UN-INSIDES
 essentialtracks: ""
 favouritetracks:
   - Ponyboy

@@ -1,6 +1,6 @@
 ---
 created: 2019-06-26T10:00:13.000Z
-modified: 2019-06-30T22:42:48.000Z
+modified: 2021-07-26T20:57:48.000Z
 slug: sigur-ros-agaetis-byrjun
 type: reviews
 tags:
@@ -12,6 +12,8 @@ tags:
   - shoegaze
   - art rock
 featuredimage: album-artwork/agaetis-byrjun-sigur-ros.jpg
+artworkCredit: was designed by Gotti Bernhöft. It is a nod to the album’s name, which translates as ‘a good beginning.’ The original drawing was in ballpoint pen, which was then inverted to produce the final design.
+artworkCreditSource: https://underthemusiccovers.wordpress.com/2014/08/25/sigur-ros-agaetis-byrjun-1999/
 artist: Sigur Rós
 album: Ágætis byrjun
 essentialtracks:

@@ -1,6 +1,6 @@
 ---
 created: 2018-07-05T10:00:22.000Z
-modified: 2018-07-10T12:09:56.000Z
+modified: 2021-07-26T21:23:56.000Z
 slug: beastie-boys-hello-nasty
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - hip hop
   - the avalanches
 featuredimage: album-artwork/hello-nasty-beastie-boys.jpg
+artworkCredit: was a collaboration between Bill McMullen, Cey Adams, and photographer Michael Lavine. It was the early days of Photoshop (1998), so the band really was photographed in a giant sardine can together. The lid was superimposed on afterwards.
+artworkCreditSource: https://proxymusic.club/2018/07/14/beastie-boys-hello-nasty-bill-mcmullen/
 artist: Beastie Boys
 album: Hello Nasty
 essentialtracks:

@@ -1,6 +1,6 @@
 ---
 created: 2018-09-20T10:00:23.000Z
-modified: 2018-09-28T16:35:33.000Z
+modified: 2021-07-26T21:10:33.000Z
 slug: low-double-negative
 type: reviews
 tags:
@@ -12,6 +12,8 @@ tags:
   - bon iver
   - alt j
 featuredimage: album-artwork/double-negative-low.jpg
+artworkCredit: was designed by British artist Peter Liversidge.
+artworkCreditSource: https://recordart.net/2019/02/20/record-covers-by-peter-liversidge/
 artist: Low
 album: Double Negative
 essentialtracks: ""
