@@ -12,7 +12,7 @@ tags:
   - public image ltd
   - can
 featuredimage: album-artwork/this-nations-saving-grace-the-fall.jpg
-artworkCredit: was designed by British photographer Micheal Pollard and Danish artist Claus Castenskiold. Pollard took and manipulated the shot of central Manchester, and Castenskiold illustrated the clouds and chariot. ‘I remember showing the finished artwork to my psychologist,’ Pollard recalled. 
+artworkCredit: was designed by British photographer Micheal Pollard and Danish artist Claus Castenskiold. Pollard took and manipulated the shot of central Manchester, and Castenskiold illustrated the clouds and chariot. ‘I remember showing the finished artwork to my psychologist,’ Pollard said. 
 artworkCreditSource: https://thefall.org/news/pics/mpollard_photos/index.html
 artist: The Fall
 album: This Nation’s Saving Grace
