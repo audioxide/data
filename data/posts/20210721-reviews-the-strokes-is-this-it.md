@@ -80,11 +80,18 @@ score:
 
 ---
 author: andrew-bridge
-review: Lorem ipsum dolor
+review: >-
+  _Is This It_ has all the hallmarks of a debut done right. Hovering around the half-hour mark, it leaves itself no time to stew, instead fizzing along with peppy drums, solid basslines and striking riffs that stick with you long after the tracklist has closed.
+
+
+  “Last Nite” and “Someday” continue to be classic indie tracks to this day, and Julian Casablancas knack for writing and delivering satisfying, hooky vocals play a large part in their longevity. “The Modern Age” stands out as a track that could’ve been released at any point in the 00’s and still felt fresh, as contemporaries cribbed from the band’s playbook long after this debut release.
+
+
+  When we reviewed _[First Impressions of Earth](/reviews/the-strokes-first-impressions-of-earth)_, I pointed to inconsistency and length as weak spots in its tracklist. Meanwhile, _Is This It_ is almost the polar opposite: short and snappy, it doesn’t hang around, it doesn’t try to dig deep. To pick this tracklist apart is virtually impossible due to its homogeneity. It’s an album that’s greater than the sum of its parts and returning to it as a whole has been a joy, but I’m certainly glad they explored their sound in the albums that followed.
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - Take It Or Leave It
+  - Last Nite
+  - Trying Your Luck
 score:
   score: 8
   max: 10
