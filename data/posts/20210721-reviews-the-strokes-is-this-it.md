@@ -36,15 +36,28 @@ artistLink: https://shop.thestrokes.com/
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  _Is This It?_ remains one of the most celebrated and cherished albums of the 21st century, so I’ll spare the over-sentimental gushing, as it’s almost certainly been done better by somebody else. I will, however, make a claim for it being the greatest debut rock album ever released. That will seem trivial to some people, but I genuinely believe it to be the case.
+
+
+  A young group of guys from New York came together to create sharp, catchy songs about urban adolescence and unreliable human behaviour. These are things that pretty much every listener can relate to, so it’s no surprise the album made such a splash on release. There are catchy guitars riffs and singalong’s aplenty. Gordon Raphael’s production is so damn effective that I’ve never even noticed it until now: each note of every individual performance is captured and presented perfectly, with the ragged spirit of the band left intact. It’s scruffy yet masterful.
+
+
+  Admittedly, I listen to _Is This It?_ with a different pair of ears nowadays. I don’t find it as relentlessly exciting as I once did, though it’s still as infinitely listenable as ever. I’m not sure that will ever change. The likes of “Soma” and “Barely Legal” aren’t quite as strong as other tracks here, but they still supply an astounding level of memorable hooks to keep listeners engaged. Since its release, there’s been a running joke regarding the similarity of the songs on _Is This It?_: if you like one song, you’ll like them all. It’s absolutely true though. The album rarely ventures away from the formula, and with such a compact running time, it doesn’t need to either.
+
+
+  Whilst I consider _Is This It?_ to be a total triumph, I don’t think it’s perfect. Despite featuring a brilliant pre-chorus, I’ve always found “New York City Cops” to be a minor annoyance, perhaps due to the sluggish vocal melody on the chorus. That’s where my criticism ends, however. “Someday” and “Last Nite” will forever be indie anthems, whilst “Trying Your Luck” and “Take It Or Leave It” remain two of my favourite rock tracks ever. When The Strokes get it right – as they do so often here – it just sounds so effortlessly good.
+
+
+  Very occasionally you listen to a band and wonder how they ended up with each other. How did they get it right the first time round? As far as debut rock records go, there are barely any as well-conceived and refined as _Is This It?_. It’s not arty, it’s not crushingly heavy, and it certainly didn’t reinvent the wheel. It’s just five young lads writing witty and irresistibly catchy tunes. And thus, they became musical heroes. Magnificent.
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - Trying Your Luck
+  - Someday
+  - Take It Or Leave It
 score:
-  score: 7
+  score: 9
   max: 10
-  fraction: 0.7
+  fraction: 0.9
 
 ---
 author: frederick-obrien
