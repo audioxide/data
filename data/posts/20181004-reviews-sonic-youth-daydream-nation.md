@@ -1,6 +1,6 @@
 ---
 created: 2018-10-04T10:00:06.000Z
-modified: 2018-10-05T10:58:07.000Z
+modified: 2021-08-02T19:00:07.000Z
 slug: sonic-youth-daydream-nation
 type: reviews
 tags:
@@ -12,6 +12,8 @@ tags:
   - pixies
   - noise rock
 featuredimage: album-artwork/daydream-nation-sonic-youth.jpg
+artworkCredit: features a 1983 painting called “Candle” by avant-garde German artist Gerhard Richter.
+artworkCreditSource: https://www.thewire.co.uk/news/18276/daydream-nation-artwork-for-sale
 artist: Sonic Youth
 album: Daydream Nation
 essentialtracks:
