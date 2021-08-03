@@ -1,6 +1,6 @@
 ---
 created: 2017-03-22T18:12:57.000Z
-modified: 2018-03-12T19:40:02.000Z
+modified: 2021-08-03T21:23:02.000Z
 slug: stevie-wonder-songs-in-the-key-of-life
 type: reviews
 tags:
@@ -30,7 +30,7 @@ colours:
 pullquote: Masterful pop
 summary: The instrumental jams are drawn out in a ceremonious manner, with hooks piled on top of other hooks; each chorus repeated enough for it to become a necessary sing-along. The majority of the time, the formula is masterful.
 week: 90
-blurb:
+blurb: The jams are drawn out in a ceremonious manner, with hooks piled on top of other hooks; each chorus repeated enough for it to become a sing-along.
 artistMBID: 1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e
 albumMBID: ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f
 artistLink: https://www.merchbar.com/r-b-hiphop-rap/stevie-wonder
