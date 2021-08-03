@@ -1,6 +1,6 @@
 ---
 created: 2021-06-02T12:00:00.000Z                            
-modified: 2021-06-15T12:00:00.000Z                           
+modified: 2021-08-03T21:24:00.000Z                           
 slug: joni-mitchell-blue                                
 type: reviews                                                
 tags:                                                        
@@ -11,6 +11,7 @@ tags:
   - bob dylan
   - neil young
   - leonard cohen
+  - 27 plus club
 featuredimage: album-artwork/blue-joni-mitchell.jpg    
 artist: Joni Mitchell
 album: Blue
