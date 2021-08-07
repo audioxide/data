@@ -2,14 +2,15 @@
 # yarn lockfile v1
 
 
-"@audioxide/data-processor@^0.15.14":
-  version "0.15.14"
-  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.15.14/99401b9ab4b0ca61f497cccecd6f1da3c4124f59f30f227a3d94090d7cf79cf3#471431e6140eaa6426337857c7a9de025c5d6cae"
-  integrity sha512-9JdEXcSuskUHonNAlYvKUQiIhpKSI4xn9nY9phrDz/fb8OKLvvYrq8YSBGMyZLS5gVK4qDXseJ3LD72yAmWtLQ==
+"@audioxide/data-processor@^0.15.15":
+  version "0.15.15"
+  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.15.15/28e2447b6527084fd0c6e1d29ce5886f6f6aa337bd80c2111be174b4fe668b07#be254e8fb7ab098c9fd22d312ee5899aecff48a9"
+  integrity sha512-R9bypbo5Cg/UdG6u0x6mP+wtuNImo39U0mFH5iUiVqsvVIpWp9/dd0gLqgbM6fHqeMpTUYgE/SimhAZj4bGc0g==
   dependencies:
     "@aws-sdk/client-s3" "^3.21.0"
     "@parcel/transformer-svgo" "^2.0.0-nightly.1739"
     flexsearch "^0.6.32"
+    imagekit "^3.2.0"
     jsdom "^16.4.0"
     lodash "^4.17.15"
     parcel "^2.0.0-beta.1"
@@ -4125,6 +4126,11 @@ graceful-fs@^4.1.2, graceful-fs@^4.2.4:
   resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.4.tgz"
   integrity sha512-WjKPNJF79dtJAVniUlGGWHYGz2jWxT6VhN/4m1NdkbZ2nOsEF+cI1Edgql5zCRhs/VsQYRvrXctxktVXZUkixw==
 
+hamming-distance@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/hamming-distance/-/hamming-distance-1.0.0.tgz#39bfa46c61f39e87421e4035a1be4f725dd7b931"
+  integrity sha1-Ob+kbGHznodCHkA1ob5Pcl3XuTE=
+
 har-schema@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/har-schema/-/har-schema-2.0.0.tgz"
@@ -4378,6 +4384,16 @@ iferr@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/iferr/-/iferr-1.0.2.tgz"
   integrity sha512-9AfeLfji44r5TKInjhz3W9DyZI1zR1JAf2hVBMGhddAKPqBsupb89jGfbCTHIGZd6fGZl9WlHdn4AObygyMKwg==
+
+imagekit@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/imagekit/-/imagekit-3.2.0.tgz#1c7ccebbb07eedf5ad5c2888cfb447e22a7f8699"
+  integrity sha512-maeNVnflB9Oyu/YZL37+qn1/ux1zTKvL+42vREDYHLUGyzdA4UnlONXQ4TPNUcE7dPNj2JpTd8ZIAvaUkjuUWQ==
+  dependencies:
+    hamming-distance "^1.0.0"
+    lodash "^4.17.15"
+    request "^2.88.0"
+    uuid "^3.3.3"
 
 import-fresh@^2.0.0:
   version "2.0.0"
@@ -7155,7 +7171,7 @@ utils-merge@1.0.1:
   resolved "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz"
   integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
 
-uuid@^3.3.2:
+uuid@^3.3.2, uuid@^3.3.3:
   version "3.4.0"
   resolved "https://registry.npmjs.org/uuid/-/uuid-3.4.0.tgz"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
