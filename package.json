@@ -13,7 +13,8 @@
   "scripts": {
     "build": "processAudioxideData",
     "dev": "yarn && processAudioxideData && npx http-server dist -p 8888 --cors -c-1",
-    "process-images": "processAudioxideImages"
+    "process-images": "processAudioxideImages",
+    "upload-images": "processAudioxideUploadImages"
   },
   "dependencies": {
     "@audioxide/data-processor": "^0.15.14",
