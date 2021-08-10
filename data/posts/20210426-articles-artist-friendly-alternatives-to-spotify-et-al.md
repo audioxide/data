@@ -1,6 +1,6 @@
 ---
 created: 2021-04-26T18:00:00.000Z
-modified: 2021-07-26T18:00:00.000Z
+modified: 2021-08-10T22:26:00.000Z
 slug: artist-friendly-alternatives-to-spotify
 type: articles
 tags:
@@ -20,9 +20,9 @@ blurb: The big dogs of music streaming aren’t great for musicians, but there a
   <figcaption>Image by the author</figcaption>
 </figure>
 
-Royalty rates on popular music streaming services make it impossible for all but the most biggest musicians to earn livable incomes. Consumer habits alone won’t save the world, but enough people spending conscientiously  can make a huge difference to an awful lot of artists. With that in mind, this article lists a selection of more ethical alternatives to the likes of Spotify, Apple Music, and YouTube.
+Royalty rates on popular music streaming services make it impossible for all but the biggest musicians to earn livable incomes. Consumer habits alone won’t save the world, but enough people spending conscientiously can make a huge difference to an awful lot of artists. With that in mind, this article contains a selection of more ethical alternatives to the likes of Spotify, Apple Music, and YouTube.
 
-This is not a ranking list. The services are presented in no particular order and we are not affiliated with any of them. Nor do we claim to be the arbiters of music industry morality. What follows is for anyone wishing to learn more about streaming models that don’t totally shaft musicians. In our eyes the standard for that involves things like higher payouts for streams (think one cent per listen and up, a kind of [music streaming minimum wage](/articles/what-would-a-music-streaming-minimum-wage-look-like/)), more transparent payout distribution, and co-operative organisation.
+This is not a ranking list. The services are presented in no particular order and we are not affiliated with any of them. Nor do we claim to be the arbiters of music industry morality. This is for anyone wishing to learn more about streaming models that don’t totally shaft musicians. In our eyes the standard for that involves things like higher payouts for streams (think one cent per listen and up, a kind of [music streaming minimum wage](/articles/what-would-a-music-streaming-minimum-wage-look-like/)), more transparent payout distribution, and co-operative organisation.
 
 Of course, buy merch if you can, buy records and attend gigs if you can. If you can’t, fair enough. Artists aren’t the only ones struggling right now. All the same, the services below may well allow you to spend the same amount as you were before while putting _a lot_ more money in your favourite musicians’ pockets. Who can argue with that?
 
