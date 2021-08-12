@@ -1,6 +1,6 @@
 # audioxide-data
 
-This repository stores the data for the Audioxide API. Test
+This repository stores the data for the Audioxide API.
 
 ## Layout
 
