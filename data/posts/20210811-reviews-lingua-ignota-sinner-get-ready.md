@@ -57,15 +57,22 @@ score:
 
 ---
 author: frederick-obrien
-review: Lorem ipsum dolor
+review: >-
+  Not since we reviewed _[The Downward Spiral](/reviews/nine-inch-nails-the-downward-spiral/)__ _have I found an album to be so wonderfully ghastly. _Sinner Get Ready_ is gothic, livid, and blood-curdling, listening like an R-rated opera. What might easily have been wretched is instead coarsely beautiful.
+
+
+  Ignota’s performance is both otherworldly and guttural. Her willingness to look beastly subjects dead in the eye is awe-inspiring, giving even the most ornate arrangements a steeliness and weight. Combined with a restless medley of bells and flutes and fiddles and synthesisers and piano keys, the result is what you might expect hell’s hymns to sound like. 
+
+
+  For better or worse, I have to gear myself up to listen to _Sinner Get Ready_. From start to finish it groans right at the brink of breaking point’; magnificent yet exhausting. It’s a record everyone ought to hear, but I wouldn’t blame anyone for not wanting to hear it again.
 tracks:
-  - Track 3
-  - Track 6
-  - Track 5
+  - Many Hands
+  - Man Is Like a Spring Flower
+  - Pennsylvania Furnace
 score:
-  score: 8
+  score: 9
   max: 10
-  fraction: 0.8
+  fraction: 0.9
 
 ---
 author: andrew-bridge
