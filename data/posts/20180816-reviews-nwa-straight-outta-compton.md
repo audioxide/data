@@ -16,7 +16,7 @@ tags:
 featuredimage: album-artwork/straight-outta-compton-nwa.jpg
 artworkCredit: was taken by photographer Eric Poppleton. It was one of several ideas tried on the fly during a shoot in Los Angeles. ‘I just lay on the ground and they pointed what hopefully was an unloaded gun down at the camera,’ Poppleton recalled. ‘I couldn’t say for sure whether it was ready to fire, but it was definitely a real gun. There wasn’t anything fake back then.’
 artworkCreditSource: https://www.nme.com/blogs/nme-blogs/how-i-shot-the-iconic-cover-to-nwas-straight-outta-compton-767110
-artist: N.W.A.
+artist: N.W.A
 album: Straight Outta Compton
 essentialtracks:
   - Express Yourself
@@ -32,9 +32,9 @@ colours:
   - "#fa2a3c"
   - "#e3e6e3"
 pullquote: Unignorable
-summary: It has its lulls, but when Straight Outta Compton blows hot it feels unstoppable. The legacy of that underlying energy lives on in the artists N.W.A. touched. They modelled a spirit of expression impossible to ignore.
+summary: It has its lulls, but when Straight Outta Compton blows hot it feels unstoppable. The legacy of that underlying energy lives on in the artists N.W.A touched. They modelled a spirit of expression impossible to ignore.
 week: 159
-blurb: It has its lulls, but when Straight Outta Compton blows hot it feels unstoppable. N.W.A. modelled a spirit of expression impossible to ignore.
+blurb: It has its lulls, but when Straight Outta Compton blows hot it feels unstoppable. N.W.A modelled a spirit of expression impossible to ignore.
 artistMBID: 3a54bffa-2314-44a2-927b-60144119c780
 albumMBID: fed1608d-80b7-38d2-aeb8-c6357f0d4c23
 artistLink: https://shop.urbanlegends.com/collections/n-w-a 
@@ -66,13 +66,13 @@ score:
 author: frederick-obrien
 
 review: >-
-  *Straight Outta Compton* is an easy album to take for granted. Its formula is so ingrained in music consciousness now that it’s odd to think there was a ‘before.’ Skits, samples, obstinance, and anger are the linchpins of many great hip hop albums, but few showcase their chemistry as explosively as N.W.A. did in 1988. The [‘reality rap’](https://www.rollingstone.com/music/music-features/ice-cube-on-n-w-as-reality-rap-and-straight-outta-compton-movie-106622/) of their debut shone a light on a world much of America hadn’t seen, and did so in a way that impacted everything that followed. The success of today’s hip hop superstars, from [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) to [Eminem](/reviews/eminem-the-marshall-mathers-lp/), is built on foundations laid by N.W.A.
+  *Straight Outta Compton* is an easy album to take for granted. Its formula is so ingrained in music consciousness now that it’s odd to think there was a ‘before.’ Skits, samples, obstinance, and anger are the linchpins of many great hip hop albums, but few showcase their chemistry as explosively as N.W.A did in 1988. The [‘reality rap’](https://www.rollingstone.com/music/music-features/ice-cube-on-n-w-as-reality-rap-and-straight-outta-compton-movie-106622/) of their debut shone a light on a world much of America hadn’t seen, and did so in a way that impacted everything that followed. The success of today’s hip hop superstars, from [Kendrick Lamar](/reviews/kendrick-lamar-to-pimp-a-butterfly/) to [Eminem](/reviews/eminem-the-marshall-mathers-lp/), is built on foundations laid by N.W.A.
 
   The openers — “Straight Outta Compton”, “Fuck tha Police”, and “Gangsta Gangsta” — are what the album is rightly remembered for. They are as striking a trio as you’re ever likely to hear, and the flows of Ice Cube, MC Ren, and Eazy-E bounce off of each other beautifully. The faux-ragtag collaboration throughout is irresistable. Even the conventions of the album format weren’t safe. The producers dropping in for a couple of verses and bossing it? Why not? Dr. Dre and DJ Yella provided the perfect backdrop for the album’s social satire. It only seems fair for them to reap the fruits of their labour.
 
   The synergy of the group still amazes. Together they comprised, as Kendrick Lamar recently put it, [‘the perfect cast of characters.’](https://www.billboard.com/articles/columns/the-juice/6663126/kendrick-lamar-nwa-tribute-essay-eazy-e-dre) They were role models for dissent, marrying fury with artistry to make something unignorable. It’s much harder to dismiss something as crass when it sounds so good, when it sets up its knockout punches so carefully. Denying the intelligence of an album like *Straight Outta Compton* is wilful blindness, and that’s part of its brilliance. How many people can claim to have made an album so good that anyone who refused to get it only furthered its cause?
 
-  It runs out of steam, which is no great sin given how strong the opening tracks are, but it does keep the album a rung below the greats. The closing spell feels more like a party than a riot, but that’s part and parcel of the album’s energy. You get the anger, the elegance, the sass, and the downright goofy all in one. It has its lulls, but when *Straight Outta Compton* blows hot it feels unstoppable. The legacy of that underlying energy lives on in the artists N.W.A. touched. They modelled a spirit of expression impossible to ignore.
+  It runs out of steam, which is no great sin given how strong the opening tracks are, but it does keep the album a rung below the greats. The closing spell feels more like a party than a riot, but that’s part and parcel of the album’s energy. You get the anger, the elegance, the sass, and the downright goofy all in one. It has its lulls, but when *Straight Outta Compton* blows hot it feels unstoppable. The legacy of that underlying energy lives on in the artists N.W.A touched. They modelled a spirit of expression impossible to ignore.
 
 tracks:
   - Fuck tha Police
