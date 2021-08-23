@@ -29,9 +29,9 @@ pullquote: Lorem ipsum dolor
 summary: Lorem ipsum dolor                                   
 week: 279
 blurb: Lorem ipsum dolor                                    
-artistMBID: 00000000-0000-0000
-albumMBID: 00000000-0000-0000
-artistLink: https://www.artistwebsite.com/shop/
+artistMBID: c842d29f-a297-48cd-bb71-4f77fd672b16
+albumMBID: e53310bf-8ccc-3d7f-a0b7-5ca4dbababcb
+artistLink: https://www.merchbar.com/rock-alternative/t-rex
 
 ---
 
