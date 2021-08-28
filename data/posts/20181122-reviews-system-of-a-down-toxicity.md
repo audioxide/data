@@ -1,6 +1,6 @@
 ---
 created: 2018-11-22T12:00:41.000Z
-modified: 2018-11-26T23:02:18.000Z
+modified: 2021-08-28T14:56:18.000Z
 slug: system-of-a-down-toxicity
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - metal
   - nu metal
 featuredimage: album-artwork/toxicity-system-of-a-down.jpg
+artworkCredit: was designed by Mark Wakefield, one of the band’s founding members.
+artworkCreditSource: https://www.allmusic.com/artist/mark-wakefield-mn0002306903/credits?1630158834084
 artist: System of a Down
 album: Toxicity
 essentialtracks:

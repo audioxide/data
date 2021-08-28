@@ -1,6 +1,6 @@
 ---
 created: 2018-06-14T10:00:30.000Z
-modified: 2018-06-15T17:46:48.000Z
+modified: 2021-08-28T15:00:48.000Z
 slug: pulp-different-class
 type: reviews
 tags:
@@ -15,6 +15,8 @@ tags:
   - oasis
   - radiohead
 featuredimage: album-artwork/different-class-pulp.jpg
+artworkCredit: was designed by Blue Source. The main image is from a real wedding. Photographer Donald Milne agreed to take pictures on the condition he could take a few gag shots with life-size cutouts of the band. The family didn’t know what they were for until the groom’s mother saw a poster advertising the album in a HMV. 
+artworkCreditSource: https://www.thestar.co.uk/news/people/pulps-legendary-different-class-album-25-today-heres-story-behind-it-3019852
 artist: Pulp
 album: Different Class
 essentialtracks:

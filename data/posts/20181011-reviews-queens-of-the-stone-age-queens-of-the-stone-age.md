@@ -1,6 +1,6 @@
 ---
 created: 2018-10-11T10:00:42.000Z
-modified: 2018-10-15T22:06:41.000Z
+modified: 2021-08-28T14:50:41.000Z
 slug: queens-of-the-stone-age-queens-of-the-stone-age
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - alternative rock
   - stoner rock
 featuredimage: album-artwork/queens-of-the-stone-age-queens-of-the-stone-age.jpg
+artworkCredit: "features a photograph taken from Mark Gabor’s 1972 book ‘The Pin-Up: A Modest History’. The image first came to the band’s attention through a postcard bought by frontman Josh Homme in Amsterdam in 1993."
+artworkCreditSource: http://www.thefade.net/oldsite/discography/qotsa.html
 artist: Queens of the Stone Age
 album: Queens of the Stone Age
 essentialtracks:

@@ -1,6 +1,6 @@
 ---
 created: 2018-01-17T20:00:19.000Z
-modified: 2018-12-29T22:22:37.000Z
+modified: 2021-08-02T19:04:37.000Z
 slug: led-zeppelin-led-zeppelin
 type: reviews
 tags:
@@ -9,11 +9,13 @@ tags:
   - rock
   - the jimi hendrix experience
 featuredimage: album-artwork/led-zeppelin-led-zeppelin.jpg
+artworkCredit: was designed by English artist George Hardie. His ink rendering of the burning Hindenburg airship is itself adapted from the iconic 1937 photo taken by Belarusian photojournalist Sam Shere. 
+artworkCreditSource: https://www.christies.com/features/George-Hardie-original-artwork-for-Led-Zeppelin-I-10500-1.aspx
 artist: Led Zeppelin
 album: Led Zeppelin
 essentialtracks: ""
 favouritetracks:
-  - Babe I'm Gonna Leave You
+  - Babe I’m Gonna Leave You
   - Black Mountain Side
   - You Shook Me
 totalscore:
