@@ -51,7 +51,7 @@ review: >-
   It’s been years since I’d listened to _Electric Warrior_ and I’d forgotten how slick it was. Given glam rock’s association with excess, garishness, and - worst of all - flared trousers, you’d expect the genre’s founding album to be a bit much. Instead, it’s just right. 
 
 
-  Thanks in large part to Tony Visconti’s production, T. Rex serves up rock with a flourish. Centrepiece tracks like “Get It On” and “Cosmic Dancer” indulge in their fair share of lush string and horn arrangements (and horniness, for that matter) but those moments are tempered by a down and dirtiness every bit heavy as [Jimi Hendrix](/reviews/the-jimi-hendrix-experience-electric-ladyland/) or [the Stones](/reviews/the-rolling-stones-let-it-bleed/). In Marc Bolan the band a frontman every bit as captivating. 
+  Thanks in large part to Tony Visconti’s production, T. Rex serves up rock with a flourish. Centrepiece tracks like “Get It On” and “Cosmic Dancer” indulge in their fair share of lush string and horn arrangements (and horniness, for that matter) but those moments are tempered by a down and dirtiness every bit heavy as [Jimi Hendrix](/reviews/the-jimi-hendrix-experience-electric-ladyland/) or [the Stones](/reviews/the-rolling-stones-let-it-bleed/). In Marc Bolan the band had a frontman every bit as captivating. 
 
 
   As is the glam rock way, _Electric Warrior_ sets a mood then rolls with it a hair too long. By the time “Rip Off” closes the record out I’ve both had a marvelous time and had enough. That’s probably how it has to be, though. You can hardly tell T. Rex to tone it down. Stupid Sexy Bolan.Lorem ipsum dolor
