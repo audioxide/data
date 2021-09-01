@@ -58,7 +58,7 @@ score:
 ---
 author: frederick-obrien
 review: >-
-  Not since we reviewed _[The Downward Spiral](/reviews/nine-inch-nails-the-downward-spiral/)__ _have I found an album to be so wonderfully ghastly. _Sinner Get Ready_ is gothic, livid, and blood-curdling, listening like an R-rated opera. What might easily have been wretched is instead coarsely beautiful.
+  Not since we reviewed _[The Downward Spiral](/reviews/nine-inch-nails-the-downward-spiral/)_ have I found an album to be so wonderfully ghastly. _Sinner Get Ready_ is gothic, livid, and blood-curdling, listening like an R-rated opera. What might easily have been wretched is instead coarsely beautiful.
 
 
   Ignota’s performance is both otherworldly and guttural. Her willingness to look beastly subjects dead in the eye is awe-inspiring, giving even the most ornate arrangements a steeliness and weight. Combined with a restless medley of bells and flutes and fiddles and synthesisers and piano keys, the result is what you might expect hell’s hymns to sound like. 
