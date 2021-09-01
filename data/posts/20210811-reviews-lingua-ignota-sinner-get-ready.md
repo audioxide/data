@@ -76,12 +76,22 @@ score:
 
 ---
 author: andrew-bridge
-review: Lorem ipsum dolor
+review: >-
+  I’ve sat with SINNER GET READY since its release at the start of the month, and I still don’t want to write about it. Lingua Ignota has produced an album that greets listeners with foreboding, dissonant, and at times uncomfortable music. Hayter’s expressive vocal performances, which often sit somewhere between anguish and anger from the outset, pair with eerie vocals and cacophonous, drone-like, sparse instrumentation to create atmospheric, unsettling soundscapes.
+
+
+  But SINNER GET READY flourishes as it continues, with “PENNSYLVANIA FURNACE” providing the first moment of delicate respite, swelling and soaring as it progresses with some beautiful choices of instrumentation. Even in the more ominous moments, tracks are coloured with folk and fizzy electronica while remaining firmly orchestral at their roots.
+
+
+  By the home stretch, “MAN IS LIKE A SPRING FLOWER” is considerably more palatable despite the dour lyrical content. Its clockwork polyrhythms surge the track forward as layer builds upon layer to become a hypnotising affair, and I can’t disagree with Hayter herself when she describes it as “a wild ride”. To close, “THE SOLITARY BRETHREN OF EPHRATA” is almost unrecognisably traditional next to the opening cuts. Warmer than anything else on this album, it’s a gorgeous piece to end on, though the lyrical sting and underlying mournful air don’t let the tone escape too far into the realms of positivity.
+
+
+  It still feels like SINNER GET READY hasn’t quite clicked with me. Inaccessible and a little terrifying from the outset, it isn’t an easy ride. But everything here feels incredibly considered, packed with evocative words and music and very purposely and impressively architected. It certainly won’t be my easy Sunday listening, but some moments on this tracklist have made for the most intense, engaging listening of this year.
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - MAN IS LIKE A SPRING FLOWER
+  - REPENT NOW CONFESS NOW
+  - THE SOLITARY BRETHREN OF EPHRATA
 score:
-  score: 8
+  score: 9
   max: 10
-  fraction: 0.8
+  fraction: 0.9
