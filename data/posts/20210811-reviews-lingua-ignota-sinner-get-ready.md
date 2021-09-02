@@ -16,12 +16,12 @@ featuredimage: album-artwork/sinner-get-ready-lingua-ignota.jpg
 artworkCredit: features a mask designed by American fashion designer Ashley Rose Couture, with layout by Canadian graphic artist Chimère Noire.
 artworkCreditSource: https://www.instagram.com/p/CSO3jSFLmqX/
 artist: Lingua Ignota
-album: SINNER GET READY
+album: Sinner Get Ready
 essentialtracks:
-  - MAN IS LIKE A SPRING FLOWER
+  - Man Is Like a Spring Flower
 favouritetracks:
-  - PENNSYLVANIA FURNACE
-  - MANY HANDS
+  - Pennsylvania Furnace
+  - Many Hands
 totalscore:
   given: 26
   possible: 30
@@ -54,9 +54,9 @@ review: >-
   Musically, the album is comprised mostly of piano and strings, with moments of avant-garde folk that represent the unsettling realities of Christianity. There’s not a whole lot of melody to hold on to, but this isn’t exactly a classic sing-along affair. _Sinner Get Ready_ grabs you instead with vivid imagery: brutal depictions of ugly devotion, told by a voice so authentically traumatic that it could well be a psychological trigger for those unprepared. I’m unsure if it will go down as one of my very favourite records of the year, but it is most certainly an unforgettable piece of art. A monumental – and ghastly - achievement.
 
 tracks:
-  - PENNSYLVANIA FURNACE
-  - I WHO BEND THE TALL GRASSES
-  - MAN IS LIKE A SPRING FLOWER
+  - Pennsylvania Furnace
+  - I Who Bend the Tall Grasses
+  - Man Is Like a Spring Flower
 
 score:
   score: 8
@@ -72,12 +72,12 @@ review: >-
 
   Ignota’s performance is both otherworldly and guttural. Her willingness to look beastly subjects dead in the eye is awe-inspiring. It gives even the most ornate arrangements a steeliness and weight. Combined with a restless medley of bells and flutes and fiddles and synthesisers and piano keys, the result is what you might expect hell’s hymns to sound like.
 
-  For better or worse, I have to gear myself up to listen to _Sinner Get Ready_. From start to finish it groans right at the brink of breaking point’; magnificent yet exhausting. It’s a record everyone ought to hear, but I wouldn’t blame anyone for not wanting to hear it again.
+  For better or worse, I have to gear myself up to listen to _Sinner Get Ready_. From start to finish it groans right at the brink of breaking point - magnificent yet exhausting. It’s a record everyone ought to hear, though I wouldn’t blame anyone for not wanting to hear it again.
 
 tracks:
-  - MANY HANDS
-  - MAN IS LIKE A SPRING FLOWER
-  - PENNSYLVANIA FURNACE
+  - Many Hands
+  - Man Is Like a Spring Flower
+  - Pennsylvania Furnace
 
 score:
   score: 9
@@ -89,18 +89,18 @@ score:
 author: andrew-bridge
 
 review: >-
-  I’ve sat with _SINNER GET READY_ since its release, and I still don’t want to write about it. Lingua Ignota has produced an album that greets listeners with foreboding, dissonant, and at times uncomfortable music. Hayter’s expressive vocal performances, which often sit somewhere between anguish and anger from the outset, combine with eerie vocals and cacophonous, drone-like, sparse instrumentation to create atmospheric, unsettling soundscapes.
+  I’ve sat with _Sinner Get Ready_ since its release, and I still don’t want to write about it. Lingua Ignota has produced an album that greets listeners with foreboding, dissonant, and at times uncomfortable music. Hayter’s expressive vocal performances, which often sit somewhere between anguish and anger from the outset, combine with eerie vocals and cacophonous, drone-like, sparse instrumentation to create atmospheric, unsettling soundscapes.
 
-  _SINNER GET READY_ flourishes as it continues, with “PENNSYLVANIA FURNACE” providing the first moment of delicate respite, swelling and soaring as it progresses with some beautiful choices of instrumentation. Even in the more ominous moments, tracks are coloured with folk and fizzy electronica while remaining firmly orchestral at their roots.
+  _Sinner Get Ready_ flourishes as it continues, with “Pennsylvania Furnace” providing the first moment of delicate respite, swelling and soaring as it progresses with some beautiful choices of instrumentation. Even in the more ominous moments, tracks are coloured with folk and fizzy electronica while remaining firmly orchestral at their roots.
 
-  By the home stretch, “MAN IS LIKE A SPRING FLOWER” is considerably more palatable despite the dour lyrical content. Its clockwork polyrhythms surge the track forward as layer builds upon layer to become a hypnotising affair. I can’t disagree with Hayter herself when she describes it as ‘a wild ride.’ To close, “THE SOLITARY BRETHREN OF EPHRATA” is almost unrecognisably traditional next to the opening cuts. Warmer than anything else on this album, it’s a gorgeous piece to end on, though the lyrical sting and underlying mournful air don’t let the tone escape too far into the realms of positivity.
+  By the home stretch, “Man Is Like a Spring Flower” is considerably more palatable despite the dour lyrical content. Its clockwork polyrhythms surge the track forward as layer builds upon layer to become a hypnotising affair. I can’t disagree with Hayter herself when she describes it as ‘a wild ride.’ To close, “The Solitary Brethren of Ephrata” is almost unrecognisably traditional next to the opening cuts. Warmer than anything else on this album, it’s a gorgeous piece to end on, though the lyrical sting and underlying mournful air don’t let the tone escape too far into the realms of positivity.
 
-  It still feels like _SINNER GET READY_ hasn’t quite clicked with me. Inaccessible and a little terrifying from the outset, it isn’t an easy ride, but everything here feels incredibly considered, packed with evocative words and purposeful music. It certainly won’t be my easy Sunday listening, but some moments on this tracklist have made for the most intense, engaging listening of this year.
+  It still feels like _Sinner Get Ready_ hasn’t quite clicked with me. Inaccessible and a little terrifying from the outset, it isn’t an easy ride, but everything here feels incredibly considered, packed with evocative words and purposeful music. It certainly won’t be my easy Sunday listening, but some moments on this tracklist have made for the most intense, engaging listening of this year.
 
 tracks:
-  - MAN IS LIKE A SPRING FLOWER
-  - REPENT NOW CONFESS NOW
-  - THE SOLITARY BRETHREN OF EPHRATA
+  - Man Is Like a Spring Flower
+  - Repent Now Confess Now
+  - The Solitary Brethren of Ephrata
 
 score:
   score: 9
