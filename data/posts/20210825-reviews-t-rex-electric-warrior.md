@@ -35,15 +35,22 @@ artistLink: https://www.merchbar.com/rock-alternative/t-rex
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  Cherished glam rock classic _Electric Warrior_ celebrates its 50th anniversary this month, which has finally prompted me to listen to a T. Rex album for the first time. I had expected the whimsical dramatics, knowing what I did about Marc Bolan and his impact on music and culture, but the record is far more playful than I had ever imagined. His songwriting is so instinctively excellent, crossing the bridge between romping rock ’n roll and soulful balladry with ease. Making music sounded like a breeze for him, and when you add some vintage Visconti wizardry into the mix, you can’t really go wrong.
+
+
+  I get the impression that Bolan had very few restrictions with _Electric Warrior_; singing about strange absurdities and compiling fanciful musical arrangements that would be too extravagant for most. That sort of carefree attitude, however real it may actually be, is a pleasure to behold. _Electric Warrio_r doesn’t give me a whole lot to grasp, but I enjoy every moment of my time with it. There’s much amusement to be had in lines such as ’just like a car, you’re pleasing to behold/I’ll call you Jaguar, if I may be so bold’. More often than not, the album doesn’t take itself too seriously, so why should we?
+
+
+  The entertainment that _Electric Warrior_ provides is wildly infectious, so it’s not surprising to see how much of an influence it had on popular music. Multiple moments on the album trigger musical memories for me: the theatrical panache of [David Bowie](/reviews/david-bowie-hunky-dory); the swagger and sleaze of [Queens of The Stone Age](/reviews/queens-of-the-stone-age-like-clockwork); the sheer virtuoso of modern arena bands such as Coldplay and [Muse](/reviews/muse-origin-of-symmetry). Some of these artists have gone on to make music with even higher substance, at least in my view, but there’s a lot of gratitude to be shown towards _Electric Warrior_. Bolan was a true creative, no doubt about it. A smooth operator who was ahead of his time. What a legacy.
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - Cosmic Dancer
+  - Monolith
+  - Jeepster
 score:
-  score: 7
+  score: 8
   max: 10
-  fraction: 0.7
+  fraction: 0.8
 
 ---
 author: frederick-obrien
