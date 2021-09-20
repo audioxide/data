@@ -1,6 +1,6 @@
 ---
 created: 2018-05-17T16:00:20.000Z
-modified: 2018-06-15T17:51:47.000Z
+modified: 2021-09-20T23:25:47.000Z
 slug: arctic-monkeys-tranquility-base-hotel-and-casino
 type: reviews
 tags:
@@ -13,6 +13,8 @@ tags:
   - david bowie
   - lounge pop
 featuredimage: album-artwork/tranquility-base-hotel-and-casino-arctic-monkeys.jpg
+artworkCredit: was designed by frontman Alex Turner. The band already knew what the record would be called, and Turner wanted to explore what the hotel lobby might look like. “That’s where I focused most of my attention and time,” he said, “not figuring out what the place itself looked like, but what the model of the place in the lobby would.” The result was inspired by director Stanley Kubrick’s outer-space aesthetic.
+artworkCreditSource: https://www.nme.com/news/music/alex-turner-explains-artwork-arctic-monkeys-tranquility-base-hotel-casino-2319002
 artist: Arctic Monkeys
 album: Tranquility Base Hotel & Casino
 essentialtracks: ""
