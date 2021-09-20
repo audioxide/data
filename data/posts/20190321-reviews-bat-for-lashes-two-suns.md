@@ -1,6 +1,6 @@
 ---
 created: 2019-03-21T12:00:50.000Z
-modified: 2019-09-15T20:20:45.000Z
+modified: 2021-09-20T23:31:45.000Z
 slug: bat-for-lashes-two-suns
 type: reviews
 tags:
@@ -14,6 +14,8 @@ tags:
   - goldfrapp
   - sexwitch
 featuredimage: album-artwork/two-suns-bat-for-lashes.jpg
+artworkCredit: was a collaboration between Natasha Kahn and graphic designer Andrew Murabito, with photography by David Benjamin Sherry. The contrasting front and back images were intended to echo the two personalities storylined within the albums tracks.
+artworkCreditSource: https://andrewmurabito.com/Bat-For-Lashes-Two-Suns
 artist: Bat for Lashes
 album: Two Suns
 essentialtracks: ""
