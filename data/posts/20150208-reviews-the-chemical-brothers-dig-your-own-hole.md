@@ -1,6 +1,6 @@
 ---
 created: 2015-02-08T00:00:21.000Z
-modified: 2018-03-04T20:36:59.000Z
+modified: 2021-09-20T23:39:59.000Z
 slug: the-chemical-brothers-dig-your-own-hole
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - electronic
   - big beat
 featuredimage: album-artwork/dig-your-own-hole-the-chemical-brothers.jpg
+artworkCredit: was designed by design agency Negativespace, which also designed the duo’s logo. Negativespace co-founder Anthony Sweeney said the trippy, quasi-psychedelic logo was on the ‘crazy’ end of the spectrum of ideas they came up with, calling it the ‘antithesis of what we thought of as good typography at the time.’
+artworkCreditSource: https://www.bandlogojukebox.com/blog/2019/10/25/c2-the-chemical-brothers
 artist: The Chemical Brothers
 album: Dig Your Own Hole
 essentialtracks:
@@ -27,7 +29,7 @@ colours:
 pullquote: Fine basslines
 summary: Once the more textured songs rear their heads the whole album falls together a little better. The last few tracks are top notch.
 week: 2
-blurb: The Chemical Brothers' second album is likely to please a number of electric tastes. It seldom rises above a good beat, but then it doesn't need to.
+blurb: The Chemical Brothers’ second album is likely to please a number of electric tastes. It seldom rises above a good beat, but then it doesn’t need to.
 artistMBID: 1946a82a-f927-40c2-8235-38d64f50d043
 albumMBID: 69f4aa7f-d760-3890-bd2a-902fb9abe40b
 artistLink: https://merch.thechemicalbrothers.com/
