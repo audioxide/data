@@ -1,6 +1,6 @@
 ---
 created: 2017-10-25T16:00:08.000Z
-modified: 2020-04-12T11:19:33.000Z
+modified: 2021-09-23T13:13:33.000Z
 slug: queen-news-of-the-world
 type: reviews
 tags:
@@ -12,11 +12,13 @@ tags:
   - nine inch nails
   - muse
 featuredimage: album-artwork/news-of-the-world-queen.jpg
+artworkCredit: was painted by American sci-fi artist Frank Kelly Freas. The image was itself based on an October 1953 cover for Astounding Science Fiction.
+artworkCreditSource: https://www.radiox.co.uk/artists/queen/story-behind-queen-news-of-the-world-album-cover/
 artist: Queen
 album: News of the World
 essentialtracks: ""
 favouritetracks:
-  - It's Late
+  - It’s Late
   - Spread Your Wings
   - All Dead, All Dead
 totalscore:
@@ -30,7 +32,7 @@ colours:
 pullquote: A fabricated slog
 summary: "The least I anticipated was an array of huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be the case. Most of the songs on News of the World are weirdly tame: there’s no headbang-inducing rock epic, nor is there a funky dance number."
 week: 121
-blurb: You'd expect huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be. Most of the songs on News of the World are weirdly tame.
+blurb: You’d expect huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be. Most of the songs on News of the World are weirdly tame.
 artistMBID: 0383dadf-2a4e-4d10-a46a-e9e041da8eb3
 albumMBID: c172ea98-3a82-3254-b8ad-25a4f465ba03
 artistLink: https://www.queenonlinestore.com/
