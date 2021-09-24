@@ -10,7 +10,7 @@ tags:
   - grunge
   - weezer
 featuredimage: album-artwork/pinkerton-weezer.jpg      
-artworkCredit: features “Night snow at Kambara” by Japanese ukiyo-e artist Hiroshige.                             
+artworkCredit: features a ukiyo-e woodcut print called “Night snow at Kambara” by Japanese artist Hiroshige.                             
 artworkCreditSource: https://www.metmuseum.org/art/collection/search/56915            
 artist: Weezer
 album: Pinkerton
@@ -28,7 +28,7 @@ colours:
   - "#dbc397"
   - "#dbc397"
 pullquote: Brave and utterly hopeless all at once                                 
-summary: I came for the singalong hooks of “El Scorcho”, “Pink Triangle”, and “Falling for You”, but I stayed for the stories Rivers told about himself - alone in his college dorm, sniffing envelopes sent to him by female fans, his leg held together by pins, fantasising about loves lost and loves unrequited. It’s difficult to stare but impossible to look away.                                   
+summary: I came for the singalong hooks of “El Scorcho”, “Pink Triangle”, and “Falling for You”, but I stayed for the stories Rivers told about himself - alone in his college dorm, sniffing envelopes sent to him by female fans, his leg held together by pins, fantasising about loves lost and loves unrequited.
 week: 280
 blurb: Come for the singalong hooks of “El Scorcho”, “Pink Triangle”, and “Falling for You”, stay for Rivers Cuomo’s tales of loves lost and loves unrequited.                                     
 artistMBID: 6fe07aa5-fec0-4eca-a456-f29bff451b04
