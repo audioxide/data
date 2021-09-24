@@ -1,6 +1,6 @@
 ---
 created: 2016-01-20T13:00:54.000Z
-modified: 2018-03-10T22:47:36.000Z
+modified: 2021-09-24T21:33:36.000Z
 slug: weezer-the-blue-album
 type: reviews
 tags:
@@ -12,10 +12,10 @@ tags:
   - nirvana
 featuredimage: album-artwork/the-blue-album-weezer.jpg
 artist: Weezer
-album: Weezer (The Blue Album)
+album: Weezer (Blue Album)
 essentialtracks: ""
 favouritetracks:
-  - Say It Ain't So
+  - Say It Ain’t So
   - Undone - The Sweater Song
   - Buddy Holly
 totalscore:
@@ -27,7 +27,7 @@ colours:
   - "#000000"
   - "#000000"
 pullquote: Pleasantly neurotic
-summary: One of the most iconic albums of the '90s. Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
+summary: One of the most iconic albums of the ’90s. Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
 week: 37
 blurb: Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
 artistMBID: 6fe07aa5-fec0-4eca-a456-f29bff451b04
@@ -41,11 +41,11 @@ author: andre-dack
 review: >-
   A key part of what makes Weezer’s early albums so enjoyable is the sincerity of the music. They avoided the bullshit fallacies that other alt-rock pretenders were so keen to churn out, and did so without even thinking about it. Rivers Cuomo was merely an awkward bedroom poet with an ongoing infatuation for metal guitar solos, and these personal traits somehow became key ingredients when creating quirky power pop. 
   
-  His lyrics on *The Blue Album* are honest, funny, and often clumsy, which of course is all part of the classic Weezer charm. They wore their influences on their sleeves, yet produced a sound that was fresh and peculiarly original — qualities helped emphatically by the band’s natural humility. Weezer were, after all, a group of nerds who enjoyed chugging away at power chords. There’s more to it than that of course, and though it took some time, Weezer’s unusual lure successfully captured the spirit of the younger generation of the ‘90s. 
+  His lyrics on the *Blue Album* are honest, funny, and often clumsy, which of course is all part of the classic Weezer charm. They wore their influences on their sleeves, yet produced a sound that was fresh and peculiarly original — qualities helped emphatically by the band’s natural humility. Weezer were, after all, a group of nerds who enjoyed chugging away at power chords. There’s more to it than that of course, and though it took some time, Weezer’s unusual lure successfully captured the spirit of the younger generation of the ’90s. 
   
-  Impressive still, *The Blue Album* continues to carry that same youthful tone today. It’s a rich selection of seriously catchy tunes, with essential highlights in the form of “Buddy Holly” and “Say It Ain’t So”, the latter thriving on a damaged vulnerability that reaches its climax through a guitar solo of Iron Maiden proportions. 
+  Impressive still, the *Blue Album* continues to carry that same youthful tone today. It’s a rich selection of seriously catchy tunes, with essential highlights in the form of “Buddy Holly” and “Say It Ain’t So”, the latter thriving on a damaged vulnerability that reaches its climax through a guitar solo of Iron Maiden proportions. 
   
-  *The Blue Album* is simple, but immensely enjoyable, and happens to be one of the most iconic albums of the ‘90s. Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
+  the *Blue Album* is simple, but immensely enjoyable, and happens to be one of the most iconic albums of the ‘90s. Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
 
 tracks:
   - Say It Ain’t So
@@ -61,11 +61,11 @@ score:
 author: frederick-obrien
 
 review: >-
-  Feeding off a host of tangled, damaged, and gritty rock influences from the late ’80s and early ’90s, Weezer’s debut album is a really lovely reminder that rock bands don’t need to be tangled, damaged, and gritty to sound great. Clean-cut and pleasantly neurotic, *The Blue Album* shuffles in and winds up rocking out pretty flawlessly. 
+  Feeding off a host of tangled, damaged, and gritty rock influences from the late ’80s and early ’90s, Weezer’s debut album is a really lovely reminder that rock bands don’t need to be tangled, damaged, and gritty to sound great. Clean-cut and pleasantly neurotic, the *Blue Album* shuffles in and winds up rocking out pretty flawlessly. 
   
-  Power chords, stonking solos, and bashful lyrics about girls and losing your friends and Dungeons & Dragons and going surfing combine into something immensely likeable. *The Blue Album* is unpretentious to a T, and I love that. There’s some stellar song-writing, too. Rivers Cuomo knows his hooks, and his songs don’t lack variety here. There’s not enough room to swing a cat without (you or it) being snagged by something in the bands repertoire. That tracks as disparate as “Buddy Holly” and “Say It Ain’t So” can fall into place and make the album feel as complete as it does is a testament to the care with which it was put together. 
+  Power chords, stonking solos, and bashful lyrics about girls and losing your friends and Dungeons & Dragons and going surfing combine into something immensely likeable. the *Blue Album* is unpretentious to a T, and I love that. There’s some stellar song-writing, too. Rivers Cuomo knows his hooks, and his songs don’t lack variety here. There’s not enough room to swing a cat without (you or it) being snagged by something in the bands repertoire. That tracks as disparate as “Buddy Holly” and “Say It Ain’t So” can fall into place and make the album feel as complete as it does is a testament to the care with which it was put together. 
   
-  *The Blue Album* isn’t profound in the way the word typically suggests, but there is a purity in simplicity that misery and mess can’t touch. ‘I write my stupid songs,’ sings Cuomo, and it’s easy to see why listeners often wind up loving every one.
+  the *Blue Album* isn’t profound in the way the word typically suggests, but there is a purity in simplicity that misery and mess can’t touch. ‘I write my stupid songs,’ sings Cuomo, and it’s easy to see why listeners often wind up loving every one.
 
 tracks:
   - Say It Ain’t So
@@ -81,7 +81,7 @@ score:
 author: andrew-bridge
 
 review: >-
-  Weezer’s debut was released alongside many similar bands at the time, but it seems they’ve found success in outlasting the majority, as well as producing an album that has aged well. *The Blue Album* is, without doubt, a signature ’90s album, but where many albums of the time now sound stale, cheesy, or simply cringe-inducing, Weezer’s eponymous debut manages to avoid all of those pitfalls. 
+  Weezer’s debut was released alongside many similar bands at the time, but it seems they’ve found success in outlasting the majority, as well as producing an album that has aged well. the *Blue Album* is, without doubt, a signature ’90s album, but where many albums of the time now sound stale, cheesy, or simply cringe-inducing, Weezer’s eponymous debut manages to avoid all of those pitfalls. 
   
   Harmonised vocal lines, characteristic of ’90s rock, are sprinkled across the album, and they, along with the chugging bass lines in tracks like “No One Else”, draw clear influence from bands that came before them, [Pixies](/reviews/pixies-doolittle/) and [Nirvana](/reviews/nirvana-in-utero/) especially. Clean, picked guitar lines hark back to ’60s American rock, the consistently minor riffs adding a cynical twist to the surf music influences. 
   
