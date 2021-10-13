@@ -1,6 +1,6 @@
 ---
 created: 2017-09-06T16:00:16.000Z
-modified: 2019-07-15T19:05:31.000Z
+modified: 2021-09-23T19:05:31.000Z
 slug: mogwai-every-countrys-sun
 type: reviews
 tags:
@@ -10,13 +10,15 @@ tags:
   - post rock
   - new order
 featuredimage: album-artwork/every-countrys-sun-mogwai.jpg
+artworkCredit: was designed by graphic artist and illustrator dlt.
+artworkCreditSource: https://www.instagram.com/p/BUEw_QdAIGp/
 artist: Mogwai
 album: Every Country’s Sun
 essentialtracks:
   - aka 47
 favouritetracks:
   - Crossing the Road Material
-  - Don't Believe the Fife
+  - Don’t Believe the Fife
 totalscore:
   given: 22
   possible: 30

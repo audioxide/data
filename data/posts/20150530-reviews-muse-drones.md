@@ -1,6 +1,6 @@
 ---
 created: 2015-05-30T22:00:38.000Z
-modified: 2018-03-11T17:49:02.000Z
+modified: 2021-09-23T12:46:02.000Z
 slug: muse-drones
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - alternative rock
   - pink floyd
 featuredimage: album-artwork/drones-muse.jpg
+artworkCredit: was designed by American illustrator Matthew S. Mahurin. ‘People refer to “drones” as those flying machines and robots but a drone can be anything,’ he said. ‘A student, a soldier… anything that’s subject to being controlled and manipulated.’
+artworkCreditSource: https://www.nme.com/blogs/nme-blogs/what-does-the-opinion-splitting-new-muse-album-cover-mean-the-artist-behind-the-drones-sleeve-interv-17791
 artist: Muse
 album: Drones
 essentialtracks:

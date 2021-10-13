@@ -1,6 +1,6 @@
 ---
 created: 2017-10-04T16:00:46.000Z
-modified: 2020-02-26T20:43:05.000Z
+modified: 2021-09-23T13:09:05.000Z
 slug: wolf-alice-visions-of-a-life
 type: reviews
 tags:
@@ -17,10 +17,12 @@ tags:
   - the strokes
   - shoegaze
 featuredimage: album-artwork/visions-of-a-life-wolf-alice.jpg
+artworkCredit: features a photograph of frontwoman Ellie Rowsell’s aunt. ‘It really resonated with me because I spent my whole childhood not playing with toys but playing inside my head and acting it out,’ she said. ‘That’s what our songs are, I suppose – visions and little bits of life that somehow get made into music.’
+artworkCreditSource: https://www.nme.com/features/wolf-alice-visions-of-a-life-interview-2017-2123294
 artist: Wolf Alice
 album: Visions of a Life
 essentialtracks:
-  - Don't Delete the Kisses
+  - Don’t Delete the Kisses
 favouritetracks:
   - Visions of a Life
   - Formidable Cool
@@ -33,9 +35,9 @@ colours:
   - "#f5edf8"
   - "#f5edf8"
 pullquote: Rock’s overdue renaissance
-summary: Whereas My Love is Cool was guilty of trying too hard, no such thing can be said of Visions. The riffs roar and the melodies soar, with the band playing beautifully to Ellie Rowsell's strengths.
+summary: Whereas My Love is Cool was guilty of trying too hard, no such thing can be said of Visions. The riffs roar and the melodies soar, with the band playing beautifully to Ellie Rowsell’s strengths.
 week: 118
-blurb: Visions of a Life is a triumph of contemporary British rock. The riffs roar and the melodies soar, with the band playing beautifully to Ellie Rowsell's strengths.
+blurb: Visions of a Life is a triumph of contemporary British rock. The riffs roar and the melodies soar, with the band playing beautifully to Ellie Rowsell’s strengths.
 artistMBID: 3547f34a-db02-4ab7-b4a0-380e1ef951a9
 albumMBID: 7f231c61-20b2-49d6-ac66-1cacc4cc775f
 artistLink: https://store.wolfalice.co.uk/
@@ -93,7 +95,7 @@ score:
 author: marcus-lawrence
 
 review: >-
-  Rock releases over the past few years haven’t quite scratched the sweet spot, and there’s been somewhat of a dearth of genuinely exciting new talent. Brandon Flowers recently commented in [an interview with *Noisey*](https://noisey.vice.com/en_uk/article/mbb9n8/the-killers-arent-dead-yet) that new bands simply 'aren’t good enough' to make waves. 2017 doesn’t have an answer to [The Strokes](/reviews/the-strokes-first-impressions-of-earth), or Interpol, he claims. Much like The Killers’ output, Flowers is both spot-on and wildly off the mark. Maybe it’s naïve of me to expect a Vegas-based musician to be familiar with a group widely earmarked as the next best British band, but if he was I’m sure he’d have held his tongue. 
+  Rock releases over the past few years haven’t quite scratched the sweet spot, and there’s been somewhat of a dearth of genuinely exciting new talent. Brandon Flowers recently commented in [an interview with *Noisey*](https://noisey.vice.com/en_uk/article/mbb9n8/the-killers-arent-dead-yet) that new bands simply ‘aren’t good enough’ to make waves. 2017 doesn’t have an answer to [The Strokes](/reviews/the-strokes-first-impressions-of-earth), or Interpol, he claims. Much like The Killers’ output, Flowers is both spot-on and wildly off the mark. Maybe it’s naïve of me to expect a Vegas-based musician to be familiar with a group widely earmarked as the next best British band, but if he was I’m sure he’d have held his tongue. 
   
   Wolf Alice are, quite simply, one of the most electrifying acts going right now. [*My Love is Cool*](/reviews/wolf-alice-my-love-is-cool) was a great debut, full of potential that was easy to notice but clearly not yet fully realized. With *Visions of a Life* that potential hasn’t quite been tapped in its entirety, but that doesn’t mean Wolf Alice haven’t put out a frontrunner for album of the year.
 

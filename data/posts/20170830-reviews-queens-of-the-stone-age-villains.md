@@ -1,6 +1,6 @@
 ---
 created: 2017-08-30T18:00:45.000Z
-modified: 2018-03-04T20:26:32.000Z
+modified: 2021-09-23T20:26:32.000Z
 slug: queens-of-the-stone-age-villains
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - pop rock
   - david bowie
 featuredimage: album-artwork/villains-queens-of-the-stone-age.jpg
+artworkCredit: was designed by British graphic artist Boneface. Each member of the band had their own artwork, with Josh Homme’s the one featured on the front.
+artworkCreditSource: https://www.juxtapoz.com/news/music/queens-of-the-stone-age-josh-homme-and-boneface-on-the-art-behind-villains/
 artist: Queens of the Stone Age
 album: Villains
 essentialtracks:
@@ -26,9 +28,9 @@ colours:
   - "#86a9a5"
   - "#FFF"
 pullquote: A distinct lack of thump
-summary: Mark Ronson’s production makes things sound pristine, which is impressive from a technical standpoint but not always appropriate. It makes the music sound kitschy, like a gigantic quiff's greatest hits. Which all seems a bit unnecessary given that Josh Homme could slur his way through a phonebook and still be the coolest man in the room.
+summary: Mark Ronson’s production makes things sound pristine, which is impressive from a technical standpoint but not always appropriate. It makes the music sound kitschy, like a gigantic quiff’s greatest hits. Which all seems a bit unnecessary given that Josh Homme could slur his way through a phonebook and still be the coolest man in the room.
 week: 113
-blurb: Mark Ronson's production is pristine, which while technically impressive feels inappropriate. The music sounds kitschy, like a gigantic quiff's greatest hits.
+blurb: Mark Ronson’s production is pristine, which while technically impressive feels inappropriate. The music sounds kitschy, like a gigantic quiff’s greatest hits.
 artistMBID: 7dc8f5bd-9d0b-4087-9f73-dc164950bbd8
 albumMBID: 7e7270ae-a73a-48e2-a8a6-20e1112e21f8
 artistLink: https://store.qotsa.com/
@@ -64,9 +66,9 @@ author: frederick-obrien
 review: >-
   The new Queens of the Stone Age album is a bit dorky for me to get fully on board with. There’s a sentence I never thought I’d write. *Villains* dabbles in two new sounds: synthesisers and scrunchy Mark Ronson production. The first works, the other kind of works eventually. 
   
-  Even with repeat listens, the first half of the album leaves me pretty cold. Although I understand groove is there, I don’t feel it. From the tepid boing of “Feet Don’t Fail Me” (which *should *be an excellent opener) to the compressed clangs of “Head Like a Haunted House”, the first half has an odd, dampening sheen to it. Mark Ronson’s production makes things sound pristine, which is impressive from a technical standpoint, but not always appropriate. It makes the music sound kitschy, like a gigantic quiff’s greatest hits. Which all seems a bit unnecessary given that Josh Homme could slur his way through a phonebook and still be the coolest man in the room.
+  Even with repeat listens, the first half of the album leaves me pretty cold. Although I understand groove is there, I don’t feel it. From the tepid boing of “Feet Don’t Fail Me” (which *should* be an excellent opener) to the compressed clangs of “Head Like a Haunted House”, the first half has an odd, dampening sheen to it. Mark Ronson’s production makes things sound pristine, which is impressive from a technical standpoint, but not always appropriate. It makes the music sound kitschy, like a gigantic quiff’s greatest hits. Which all seems a bit unnecessary given that Josh Homme could slur his way through a phonebook and still be the coolest man in the room.
 
-  That said, the later tracks make for a much prettier picture of the synth rock groovefest Queens seemed to be going for. “Un-Reborn Again” is comfortably the best track on the album, with lovely synth action and a looser, more tousled sound. “Hideaway” is no showstopper, but it’s alluringly different, with the vibrant, marauding bass proving a standout. The guitar on “The Evil Has Landed” sounds great. The closer, “Villains of Circumstance”, is a soaring rock-musical number that showcases how beautifully the album's kitschy vibe works when it works at all. 
+  That said, the later tracks make for a much prettier picture of the synth rock groovefest Queens seemed to be going for. “Un-Reborn Again” is comfortably the best track on the album, with lovely synth action and a looser, more tousled sound. “Hideaway” is no showstopper, but it’s alluringly different, with the vibrant, marauding bass proving a standout. The guitar on “The Evil Has Landed” sounds great. The closer, “Villains of Circumstance”, is a soaring rock-musical number that showcases how beautifully the album’s kitschy vibe works when it works at all. 
   
   *Villains* has enough going for it to be a pleasurable listen overall — I just find the tone restricts the experience. Mandatory fun is the worst kind, and in no universe should the word ‘lame’ come to mind when listening to a Queens album. Also, it feels its length a tad. Not enough to complain about, but enough to mention off-hand in a disapproving way.
 

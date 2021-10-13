@@ -1,6 +1,6 @@
 ---
 created: 2016-02-03T18:00:06.000Z
-modified: 2018-03-11T14:43:27.000Z
+modified: 2021-09-23T12:57:27.000Z
 slug: arcade-fire-funeral
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - art rock
   - chamber pop
 featuredimage: album-artwork/funeral-arcade-fire.jpg
+artworkCredit: was designed by Canadian artist Tracy Maurice, a fellow member of the Montreal art scene at the time. She painted the original pieces on slabs of wooden planter, which then proved too big to scan. ‘We had to saw them down to make it fit. It was ridiculous, but it worked.’ 
+artworkCreditSource: https://www.billboard.com/articles/news/6251421/funeral-arcade-fire-album-art-tracy-maurice-neon-bible-win-butler
 artist: Arcade Fire
 album: Funeral
 essentialtracks: ""

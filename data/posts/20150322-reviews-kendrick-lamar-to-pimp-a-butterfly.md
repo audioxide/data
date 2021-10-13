@@ -1,6 +1,6 @@
 ---
 created: 2015-03-22T00:00:47.000Z
-modified: 2018-03-09T21:13:18.000Z
+modified: 2021-09-20T23:52:18.000Z
 slug: kendrick-lamar-to-pimp-a-butterfly
 type: reviews
 tags:
@@ -12,6 +12,8 @@ tags:
   - experimental hip hop
   - contemporary r&b
 featuredimage: album-artwork/to-pimp-a-butterfly-kendrick-lamar.jpg
+artworkCredit: was shot by French photographer Denis Rouvre under the direction of Lamar, Dave Free, and Vlad Sepetov. Most of those pictured are family members or friends of Lamar, who said the cover was ‘taking a group of the homies who haven’t seen the world and putting them in these places that they haven’t necessarily seen, or only on TV and showing them something different other than the neighbourhood and them being excited about it. That’s why they have them wild faces on there.’
+artworkCreditSource: https://www.vice.com/en/article/vvz45j/how-kendrick-lamars-to-pimp-a-butterfly-artwork-is-the-lasting-document-of-americas-hip-hop-president
 artist: Kendrick Lamar
 album: To Pimp a Butterfly
 essentialtracks:

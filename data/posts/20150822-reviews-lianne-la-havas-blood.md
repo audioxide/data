@@ -1,6 +1,6 @@
 ---
 created: 2015-08-22T22:00:16.000Z
-modified: 2018-03-11T18:57:09.000Z
+modified: 2021-09-23T12:52:09.000Z
 slug: lianne-la-havas-blood
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - rhythm and blues
   - contemporary r&b
 featuredimage: album-artwork/blood-lianne-la-havas.jpg
+artworkCredit: was shot by Philippines-born photographer John-Paul Pietrus.
+artworkCreditSource: https://www.johnpaulpietrus.com/work/selected-covers-from-my-career/
 artist: Lianne La Havas
 album: Blood
 essentialtracks:
