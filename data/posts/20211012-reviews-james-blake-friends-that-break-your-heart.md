@@ -29,7 +29,7 @@ colours:
   - "#ddd5c1"
   - "#ddd5c1"
 pullquote: A little too familiar.
-summary: Blake’s vocals are, predictably, beautiful; Blake’s production is, predictably, meticulous; and I, predictably, have lapped it up and listened in back-to-back listens. But where Assume Form felt like progress, Friends That Break Your Heart feels a little too familiar.
+summary: Blake’s vocals are, predictably, beautiful; Blake’s production is, predictably, meticulous; and I, predictably, have lapped it up. But where Assume Form felt like progress, Friends That Break Your Heart feels a little too familiar.
 week: 281
 blurb: Blake’s vocals are, predictably, beautiful; Blake’s production is, predictably, meticulous; and it’s all, predictably, quite predictable.
 artistMBID: 8dc08b1f-e393-4f85-a5dd-300f7693a8b8
