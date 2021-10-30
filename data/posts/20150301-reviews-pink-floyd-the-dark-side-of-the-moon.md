@@ -1,6 +1,6 @@
 ---
 created: 2015-03-01T00:00:11.000Z
-modified: 2018-03-09T22:50:10.000Z
+modified: 2021-10-30T15:25:10.000Z
 slug: pink-floyd-the-dark-side-of-the-moon
 type: reviews
 tags:
@@ -12,6 +12,8 @@ tags:
   - pink floyd
   - progressive rock
 featuredimage: album-artwork/the-dark-side-of-the-moon-pink-floyd.jpg
+artworkCredit: was designed by English graphic artist Storm Thorgerson. ‘It related mostly to a light show,’ he said. ‘They hadn’t really celebrated their light show. That was one thing. The other thing was the triangle. I think the triangle, which is a symbol of thought and ambition, was very much a subject of Roger’s lyrics.’
+artworkCreditSource: https://www.rollingstone.com/feature/storm-thorgerson-how-i-designed-the-cover-of-dark-side-of-the-moon-99919/
 artist: Pink Floyd
 album: The Dark Side of the Moon
 essentialtracks:

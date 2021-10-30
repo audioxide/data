@@ -1,6 +1,6 @@
 ---
 created: 2015-03-29T00:00:56.000Z
-modified: 2018-03-10T18:15:47.000Z
+modified: 2021-10-30T15:27:47.000Z
 slug: new-order-power-corruption-and-lies
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - post punk
   - joy division
 featuredimage: album-artwork/power-corruption-and-lies-new-order.jpg
+artworkCredit: was designed by British graphic artist Peter Saville. It features a reproduction of “A Basket of Roses”, a painting by French artist Henri Fantin-Latour. Saville came across the image on a postcard in the National Gallery gift shop. ‘Flowers suggested the means by which power, corruption and lies infiltrate our lives,’ he said. ‘They’re seductive.’
+artworkCreditSource: https://www.theguardian.com/music/gallery/2011/may/29/joydivision-neworder
 artist: New Order
 album: Power, Corruption & Lies
 essentialtracks:

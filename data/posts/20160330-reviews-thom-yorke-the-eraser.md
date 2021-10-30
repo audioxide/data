@@ -1,6 +1,6 @@
 ---
 created: 2016-03-30T16:00:06.000Z
-modified: 2018-03-11T14:19:36.000Z
+modified: 2021-10-30T15:40:36.000Z
 slug: thom-yorke-the-eraser
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - radiohead
   - electronic
 featuredimage: album-artwork/the-eraser-thom-yorke.jpg
+artworkCredit: was designed by English artist Stanley Donwood, a longtime Radiohead collaborator. The style was orignally inspired by a flood he witnessed in Cornwall. ‘I was trying to copy the woodcuts in a book called the Nuremberg Chronicle that had been published in the 15th Century,’ he said. ‘For reasons which are now obscure I embarked on a thirteen-foot long linocut of London being destroyed by fire and flood in a quasi-mediaeval style.’
+artworkCreditSource: https://thamesandhudson.com/news/inside-the-work-a-photo-essay-with-radiohead-art-collaborator-stanley-donwood/
 artist: Thom Yorke
 album: The Eraser
 essentialtracks:

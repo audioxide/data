@@ -1,6 +1,6 @@
 ---
 created: 2015-04-25T22:00:44.000Z
-modified: 2018-03-04T20:10:06.000Z
+modified: 2021-10-30T15:34:06.000Z
 slug: gorillaz-demon-days
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - alternative rock
   - mf doom
 featuredimage: album-artwork/demon-days-gorillaz.jpg
+artworkCredit: was designed by English comic book artist Jamie Hewlett, who was co-founded the band with Damon Albarn.
+artworkCreditSource: https://www.iconeye.com/icon-036-june-2006/jamie-hewlett-icon-036-june-2006
 artist: Gorillaz
 album: Demon Days
 essentialtracks: ""
