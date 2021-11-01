@@ -35,15 +35,22 @@ artistLink: https://shop.joycrookes.com/
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  Blimey, this was quite the introduction. Joy Crookes has been making waves in the UK music scene for a few years now, following a series of superb singles that drew obvious comparisons to Amy Winehouse. There’s certainly a warmth to Crookes’ fusion of jazz and R&B that harks back to _Back in Black_, whilst the classy string arrangements offer a sense of nostalgia for 60s soul. Indeed, the spirit of Shirley Bassey can certainly be found on _Skin_’s opening track “I Don’t Mind”. A Bond theme sung by Crookes is surely an inevitability.
+
+
+  Debut albums are rarely as accomplished as _Skin_. The vocal performances are confident and charismatic, and the production has a delicious saturation to it. The crack of the snare is super satisfying, particularly on highlights “Feet Don’t Fail Me Now” and “When You Were Mine”. Crookes sings on a personal level, citing forgiveness and healing, but also explores the wider social and political climate of the UK. “Kingdom” was written following the Conservative government returning to office in 2019, and Crookes spares no punches: “no such thing as a Kingdom, when tomorrow’s done for the children”.
+
+
+  There’s a slight sonic similarity to _Skin_ that means I’m not totally engrossed all the way through. A little more variety in the instrumentals would have gone a long way, though the record never outstays its welcome. The songwriting is as consistent as it gets. Far less compelling albums have sky-rocketed artists into the stratosphere. Joy Crookes is without a doubt one of the most rawly talented acts to emerge from the UK in quite some time. If she doesn’t make it to the top, the music business is even more rotten than I first feared.
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - Feet Don't Fail Me Now
+  - I Don't Mind
+  - 19th Floor
 score:
-  score: 7
+  score: 8
   max: 10
-  fraction: 0.7
+  fraction: 0.8
 
 ---
 author: frederick-obrien
