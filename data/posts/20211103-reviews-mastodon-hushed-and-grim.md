@@ -37,9 +37,9 @@ artistLink: https://mastodon.backstreetmerch.com/
 author: andre-dack
 
 review: >-
- I totally forgot about this record after a week of it being released. **(Note: He really did.)** That might sound unfair given how much metal mastery is at show here, but the truth is that _Hushed and Grim_ is a bit of a slog. There’s no need for it to be 90 minutes long. Very few records justify such length, and Mastodon don’t offer enough variation to keep up attention spans. At least, not mine.
+  I totally forgot about this record after a week of it being released. **[Note: He really did.]** That might sound unfair given how much metal mastery is at show here, but the truth is that _Hushed and Grim_ is a bit of a slog. There’s no need for it to be 90 minutes long. Very few records justify such length, and Mastodon don’t offer enough variation to keep up attention spans. At least, not mine.
 
-There are clear standout songs, but none of them reach the same heights as _Crack the Skye_. Unfortunately, the flashes of greatness aren’t enough to help _Hushed and Grim_ being completely overstuffed. Closing track “Gigantium” is great and all, but it’s not worth sitting through 80 minutes of this for. Still, long-time fans will likely adore it. I’m happy that they’re happy. If you need me, I’ll be listening to [_Fortitude_](/reviews/gojira-fortitude/).
+  There are clear standout songs, but none of them reach the same heights as _Crack the Skye_. Unfortunately, the flashes of greatness aren’t enough to help _Hushed and Grim_ being completely overstuffed. Closing track “Gigantium” is great and all, but it’s not worth sitting through 80 minutes of this for. Still, long-time fans will likely adore it. I’m happy that they’re happy. If you need me, I’ll be listening to [_Fortitude_](/reviews/gojira-fortitude/).
 
 tracks:
   - Gobblers of Dregs
