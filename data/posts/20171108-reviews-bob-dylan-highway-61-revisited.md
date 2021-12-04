@@ -10,7 +10,7 @@ tags:
   - blues
   - rock
 featuredimage: album-artwork/highway-61-revisited-bob-dylan.jpg
-artworkCredit: was shot by American photographer Daniel Kramer outside a New York City apartment owned by Dylan’s then-manager, Albert Grossman. Dylan insisted on wearing his new Triumph Motorcycles t-shirt. Beyond that, there was no plan. To compensate for the “all naked” background Kramer recruited Dylan’s friend Bob Neuwirth to stand behind the singer with a camera. “Once he did that, it seems like something’s going on,” Kramer said.
+artworkCredit: was shot by American photographer Daniel Kramer outside a New York City apartment owned by Dylan’s then-manager, Albert Grossman. Dylan insisted on wearing his new Triumph Motorcycles t-shirt. Beyond that, there was no plan. To compensate for the ‘all naked’ background Kramer recruited Dylan’s friend Bob Neuwirth to stand behind the singer with a camera. ‘Once he did that, it seems like something’s going on,’ Kramer said.
 artworkCreditSource: https://www.rollingstone.com/music/music-news/go-behind-the-scenes-of-bob-dylans-highway-61-revisited-album-cover-59271/
 artist: Bob Dylan
 album: Highway 61 Revisited

@@ -12,7 +12,7 @@ tags:
   - liam gallagher
   - rock
 featuredimage: album-artwork/urban-hymns-the-verve.jpg
-artworkCredit: was shot by British graphic designer Brian Cannon at Richmond Park in London. Band frontman Richard Ashcroft told Cannon to keep it simple because he wanted fans to “just listen to the fucking record.”
+artworkCredit: was shot by British graphic designer Brian Cannon at Richmond Park in London. Band frontman Richard Ashcroft told Cannon to keep it simple because he wanted fans to ‘just listen to the fucking record.’
 artworkCreditSource:
 artist: The Verve
 album: Urban Hymns

@@ -9,7 +9,7 @@ tags:
   - brian eno
   - rock
 featuredimage: album-artwork/the-joshua-tree-u2.jpg
-artworkCredit: was shot by Dutch photographer Anton Corbijn, with the overall design orchestrated by Irish graphic artist Steve Averill. “What I was trying to do with the way we shot the pictures and framed the cover was to suggest the landscape vision and cinematic approach that was taken to the recording,” Averill said.
+artworkCredit: was shot by Dutch photographer Anton Corbijn, with the overall design orchestrated by Irish graphic artist Steve Averill. ‘What I was trying to do with the way we shot the pictures and framed the cover was to suggest the landscape vision and cinematic approach that was taken to the recording,’ Averill said.
 artworkCreditSource: http://www.soundbard.com/soundbard/where-the-trees-have-no-name-steve-averill-on-designing-the-artwork-for-u2s-the-joshua-tree/
 artist: U2
 album: The Joshua Tree

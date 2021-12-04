@@ -10,7 +10,7 @@ tags:
   - alternative rock
   - nine inch nails
 featuredimage: album-artwork/like-clockwork-queens-of-the-stone-age.jpg
-artworkCredit: was designed by British artist Boneface. “All of the artwork evolved as an extension of the title of the record,” he said. “The title is ironic in the sense that the journey from album conception to creation was littered with hitches, spanners, and snares, yet it is exactly these obstacles that tend to give you the gnarliest scars and the best stories.”
+artworkCredit: was designed by British artist Boneface. ‘All of the artwork evolved as an extension of the title of the record,’ he said. ‘The title is ironic in the sense that the journey from album conception to creation was littered with hitches, spanners, and snares, yet it is exactly these obstacles that tend to give you the gnarliest scars and the best stories.’
 artworkCreditSource: https://www.getintothis.co.uk/2013/05/boneface_queens_of_the_stone_a/
 artist: Queens of the Stone Age
 album: ...Like Clockwork

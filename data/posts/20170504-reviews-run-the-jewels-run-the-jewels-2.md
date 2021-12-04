@@ -9,7 +9,7 @@ tags:
   - hip hop
   - death grips
 featuredimage: album-artwork/run-the-jewels-2-run-the-jewels.jpg
-artworkCredit: was designed by American artist Nick Gazin. Duo co-founder El-P was adamant that their logo involve hand gestures. “They’re kind of these blue demonic hands and there’s something either frightening or friendly about them,” Gazin said. “I see them as being this kind of ‘haunted house’ aesthetic, not necessarily satanic.”
+artworkCredit: was designed by American artist Nick Gazin. Duo co-founder El-P was adamant that their logo involve hand gestures. ‘They’re kind of these blue demonic hands and there’s something either frightening or friendly about them,’ Gazin said. ‘I see them as being this kind of ‘haunted house’ aesthetic, not necessarily satanic.’
 artworkCreditSource: https://ew.com/article/2015/01/20/run-the-jewels-artist-nick-gazin-marvel/
 artist: Run the Jewels
 album: Run the Jewels 2

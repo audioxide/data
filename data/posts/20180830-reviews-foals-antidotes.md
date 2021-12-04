@@ -9,7 +9,7 @@ tags:
   - alternative rock
   - indie
 featuredimage: album-artwork/antidotes-foals.jpg
-artworkCredit: was designed by British artist Christopher Wright, aka Tinhead. The original artwork he submitted had two people on it - a man and a woman - but band frontman Yannis Philippakis thought cutting it down to one would make the cover more iconic. “We had an argument,” Wright said, “but in the end, obviously, he got his way.”
+artworkCredit: was designed by British artist Christopher Wright, aka Tinhead. The original artwork he submitted had two people on it - a man and a woman - but band frontman Yannis Philippakis thought cutting it down to one would make the cover more iconic. ‘We had an argument,’ Wright said, ‘but in the end, obviously, he got his way.’
 artworkCreditSource: https://hypergallery.com/blogs/blog/interview-tinhead
 artist: Foals
 album: Antidotes
