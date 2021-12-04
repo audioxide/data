@@ -39,65 +39,62 @@ artistLink: https://store.johnlennon.com
 author: andre-dack
 
 review: >-
-Almost fifty years after its release, _John Lennon/Plastic Ono Band_ still stands as a significant moment in music history. Raw, deeply personal, and tremendously honest, this was rock & roll as Lennon had always envisaged it. Sometimes it’s gorgeous, and other times its twitchy and uncomfortable, making for a somewhat demanding experience.
+  Almost fifty years after its release, _John Lennon/Plastic Ono Band_ still stands as a significant moment in music history. Raw, deeply personal, and tremendously honest, this was rock & roll as Lennon had always envisaged it. Sometimes it’s gorgeous, and other times its twitchy and uncomfortable, making for a somewhat demanding experience.
 
-From a personal standpoint, I find that listening to the album in its entirety can make for an extremely claustrophobic encounter. Maybe it’s the emotive — and rather harrowing — nature of Lennon’s delivery, or perhaps it’s the vast production that, in conjunction with Phil Spector’s ‘Wall of Sound’, rarely leaves you room to breathe. Either way, _John Lennon/Plastic Ono Band_ hasn’t exactly blossomed with age, and sounds fairly crude on occasion.
+  From a personal standpoint, I find that listening to the album in its entirety can make for an extremely claustrophobic encounter. Maybe it’s the emotive — and rather harrowing — nature of Lennon’s delivery, or perhaps it’s the vast production that, in conjunction with Phil Spector’s ‘Wall of Sound’, rarely leaves you room to breathe. Either way, _John Lennon/Plastic Ono Band_ hasn’t exactly blossomed with age, and sounds fairly crude on occasion.
 
-The more rewarding tracks are those that feel more refined, and are constructed with delicacy; “Working Class Hero” is pure, powerful, and profound, its mellow character serving as a real premonition to Neil Young’s [_On the Beach_](/reviews/neil-young-on-the-beach), whilst the gentle “Love” exposes Lennon at his very sweetest.
+  The more rewarding tracks are those that feel more refined, and are constructed with delicacy; “Working Class Hero” is pure, powerful, and profound, its mellow character serving as a real premonition to Neil Young’s [_On the Beach_](/reviews/neil-young-on-the-beach), whilst the gentle “Love” exposes Lennon at his very sweetest.
 
-Ultimately, the context that surrounds *John Lennon/Plastic Ono Band* is what makes it important, even necessary, and with Lennon’s confession of ‘I don’t believe in Beatles, I just believe in me; Yoko and me’, it at least deserves attention for being that final nail in The Beatles coffin.
+  Ultimately, the context that surrounds *John Lennon/Plastic Ono Band* is what makes it important, even necessary, and with Lennon’s confession of ‘I don’t believe in Beatles, I just believe in me; Yoko and me’, it at least deserves attention for being that final nail in The Beatles coffin.
 
 tracks:
-
-- Working Class Hero
-- ­Isolation
-- ­Love
+  - Working Class Hero
+  - ­Isolation
+  - ­Love
 
 score:
-score: 7
-max: 10
-fraction: 0.7
+  score: 7
+  max: 10
+  fraction: 0.7
 
 ---
 
 author: frederick-obrien
 
 review: >-
-Stripped-down and emotionally raw, _John Lennon/Plastic Ono Band_ is a record I’m glad to have listened to, albeit for slightly atypical reasons. If you’re curious what the fallout from ‘let’s sit down and talk about our feelings’ sounds like in album form, this is as good an example as you’re ever likely to find. It listens like a therapy session — sometimes basely sincere and beautiful, others fidgety, inelegant, and crass.
+  Stripped-down and emotionally raw, _John Lennon/Plastic Ono Band_ is a record I’m glad to have listened to, albeit for slightly atypical reasons. If you’re curious what the fallout from ‘let’s sit down and talk about our feelings’ sounds like in album form, this is as good an example as you’re ever likely to find. It listens like a therapy session — sometimes basely sincere and beautiful, others fidgety, inelegant, and crass.
 
-Such a degree of self-reflection made the record something of a sensation when it was released in 1970, but looking at it with the benefit of hindsight I’m not wholly convinced its content is all that staggering. Make no mistake, tracks in the softer, pained vein of “Mother” and “Working Class Hero” are gorgeous in their honesty, but there are also spells in which the most memorable quality on show is nondescript messiness.
+  Such a degree of self-reflection made the record something of a sensation when it was released in 1970, but looking at it with the benefit of hindsight I’m not wholly convinced its content is all that staggering. Make no mistake, tracks in the softer, pained vein of “Mother” and “Working Class Hero” are gorgeous in their honesty, but there are also spells in which the most memorable quality on show is nondescript messiness.
 
-Mess is part of the process, of course. In the absence of a filter all manner of oddities — profound and clumsy — find their way into mix. _John Lennon/Plastic Ono Band_ seemed to serve as a necessary purge of emotions for Lennon, and I find it fascinating and somewhat moving in that context, but the work itself isn’t actually all that wonderful. Oddly, this is a must-listen for fans of music; just don’t expect to love all the music.
+  Mess is part of the process, of course. In the absence of a filter all manner of oddities — profound and clumsy — find their way into mix. _John Lennon/Plastic Ono Band_ seemed to serve as a necessary purge of emotions for Lennon, and I find it fascinating and somewhat moving in that context, but the work itself isn’t actually all that wonderful. Oddly, this is a must-listen for fans of music; just don’t expect to love all the music.
 
 tracks:
-
-- Mother
-- ­Working Class Hero
-- ­Hold On
+  - Mother
+  - ­Working Class Hero
+  - ­Hold On
 
 score:
-score: 7
-max: 10
-fraction: 0.7
+  score: 7
+  max: 10
+  fraction: 0.7
 
 ---
 
 author: andrew-bridge
 
 review: >-
-I can only imagine the hubub John Lennon’s first solo record caused on its initial release, with high critical praise all around. The most obvious characteristic of the album is the familiar reverb, similar to [The Beatles](/reviews/the-beatles-revolver) but dialed up a notch, with vocal delivery and general quirkiness following suit.
+  I can only imagine the hubub John Lennon’s first solo record caused on its initial release, with high critical praise all around. The most obvious characteristic of the album is the familiar reverb, similar to [The Beatles](/reviews/the-beatles-revolver) but dialed up a notch, with vocal delivery and general quirkiness following suit.
 
-It’s clear that, with free reign over production and writing, Lennon was able to show off his bolder ideas. With this freedom does come a slightly homemade feel, though, with some tracks feeling a little rough and ready, and effects like the explosive ending to “Remember” feeling wholly dated.
+  It’s clear that, with free reign over production and writing, Lennon was able to show off his bolder ideas. With this freedom does come a slightly homemade feel, though, with some tracks feeling a little rough and ready, and effects like the explosive ending to “Remember” feeling wholly dated.
 
-Lyrics throughout *John Lennon/\*\*Plastic Ono Band* are oddly uneven, with “Working Class Hero” making a passioned, well executed point, while “God” feels like it should have a deeper sentiment than it ends up delivering. This album is certainly a great debut for Lennon, but the quirks and kinks are a detriment to its overall effect. Nevertheless, I’ll certainly be returning to this album on a lazy weekend.
+  Lyrics throughout *John Lennon/\*\*Plastic Ono Band* are oddly uneven, with “Working Class Hero” making a passioned, well executed point, while “God” feels like it should have a deeper sentiment than it ends up delivering. This album is certainly a great debut for Lennon, but the quirks and kinks are a detriment to its overall effect. Nevertheless, I’ll certainly be returning to this album on a lazy weekend.
 
 tracks:
-
-- Isolation
-- ­Working Class Hero
-- ­Hold On
+  - Isolation
+  - ­Working Class Hero
+  - ­Hold On
 
 score:
-score: 7
-max: 10
-fraction: 0.7
+  score: 7
+  max: 10
+  fraction: 0.7

@@ -34,6 +34,7 @@ blurb: Dylan sings and we listen, the instrumentation hanging on his every word 
 artistMBID: 72c536dc-7137-4477-a521-567eeb840fa8
 albumMBID: fb48b1dc-412f-36aa-8820-1023c08c46c6
 artistLink: https://bobdylanstore.com/
+
 ---
 
 author: andre-dack
@@ -48,9 +49,9 @@ review: >-
   Nonetheless, the power of _Highway 61 Revisited_ is unmatched, and it remains a key landmark of the ‘60s that we will be listening to for decades to come.
 
 tracks:
-- Ballad of a Thin Man
-- ­­Tombstone Blues
-- ­­Like a Rolling Stone
+  - Ballad of a Thin Man
+  - ­­Tombstone Blues
+  - ­­Like a Rolling Stone
 
 score:
   score: 8
@@ -62,18 +63,18 @@ score:
 author: frederick-obrien
 
 review: >-
-Bob Dylan has a gift for making you feel like you’re sharing in a dark, beautiful secret in the same breath that he’s telling you to go take a hike. He has no shortage of seminal works, but _Highway 61 Revisited_ is probably the finest meeting of his anger and his clarity. The record is almost everything it’s cracked up to be, and that amounts to something pretty special — especially where side one is concerned.
+  Bob Dylan has a gift for making you feel like you’re sharing in a dark, beautiful secret in the same breath that he’s telling you to go take a hike. He has no shortage of seminal works, but _Highway 61 Revisited_ is probably the finest meeting of his anger and his clarity. The record is almost everything it’s cracked up to be, and that amounts to something pretty special — especially where side one is concerned.
 
-The no bullshit drum intro to “Like a Rolling Stone” is classic Dylan, smashing the door in with a straight-to-business thud, and the record continues in kind. The opener’s a masterpiece. Not much I can add there. The guitar motif on “Tombstone Blues” is perfect. Thank god he went electric. The instrumentals are given some space to breathe between there and “Ballad of a Thin Man”, which is absolutely ghastly. I love it. Side one of _Highway 61 Revisited_ is as good as it gets, frankly. Epiphanic and livid in equal measure, it’s like being bludgeoned with The Complete Works of William Shakespeare by the man himself. Marvellous.
+  The no bullshit drum intro to “Like a Rolling Stone” is classic Dylan, smashing the door in with a straight-to-business thud, and the record continues in kind. The opener’s a masterpiece. Not much I can add there. The guitar motif on “Tombstone Blues” is perfect. Thank god he went electric. The instrumentals are given some space to breathe between there and “Ballad of a Thin Man”, which is absolutely ghastly. I love it. Side one of _Highway 61 Revisited_ is as good as it gets, frankly. Epiphanic and livid in equal measure, it’s like being bludgeoned with The Complete Works of William Shakespeare by the man himself. Marvellous.
 
-Side two doesn’t quite sustain that level, at times bordering even on pedestrian, but in the context of the album that works rather well. After the onslaught of the first 20 minutes, it’s nice to have some time to nurse one’s wounds. You get to “Desolation Row” which strips things back and plays the record off and it all winds up being a bit of a Journey. Bob Johnston’s production enables the sense of intimacy the music deserves; the sound is raucous, but always sat just behind Dylan. He speaks and the band shakes. It really is quite an exquisite balance.
+  Side two doesn’t quite sustain that level, at times bordering even on pedestrian, but in the context of the album that works rather well. After the onslaught of the first 20 minutes, it’s nice to have some time to nurse one’s wounds. You get to “Desolation Row” which strips things back and plays the record off and it all winds up being a bit of a Journey. Bob Johnston’s production enables the sense of intimacy the music deserves; the sound is raucous, but always sat just behind Dylan. He speaks and the band shakes. It really is quite an exquisite balance.
 
-You can hear the record's age, but the record isn’t old. Like Dylan himself, there’s something mythical about it, its plane high above any one time or place. He sings and we listen, the instrumentation hanging on his every word along with the rest of us. It’s one of those things that reassures you with how expressive and beautiful people are capable of being. (Or at least that Bob’s capable of being, and we of understanding.) One for the ages, and an endless pleasure.
+  You can hear the record's age, but the record isn’t old. Like Dylan himself, there’s something mythical about it, its plane high above any one time or place. He sings and we listen, the instrumentation hanging on his every word along with the rest of us. It’s one of those things that reassures you with how expressive and beautiful people are capable of being. (Or at least that Bob’s capable of being, and we of understanding.) One for the ages, and an endless pleasure.
 
 tracks:
-- Ballad of a Thin Man
-- ­­Like a Rolling Stone
-- ­­Tombstone Blues
+  - Ballad of a Thin Man
+  - ­­Like a Rolling Stone
+  - ­­Tombstone Blues
 
 score:
   score: 9
@@ -92,9 +93,9 @@ review: >-
   The few tracks that are less memorable are more than made up for by the rest, and where I initially felt as though all the best material was up front on side one, further listens have warmed me to the second side. I feel as though this is an album I want to start each Sunday with, with its laid-back tone lasting throughout its near hour play time. It’s been a pleasure to listen to Dylan’s characterful vocals and memorable hooks, and _Highway 61 Revisited_ will certainly be going into my favourites list.
 
 tracks:
-- Like a Rolling Stone
-- ­­Tombstone Blues
-- ­­Ballad of a Thin Man
+  - Like a Rolling Stone
+  - ­­Tombstone Blues
+  - ­­Ballad of a Thin Man
 
 score:
   score: 9

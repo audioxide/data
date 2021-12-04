@@ -43,9 +43,9 @@ review: >-
   _The Joshua Tree_ may not be my favourite U2 album, but it is their most refined, and I certainly wouldn’t dispute the claim of it being the definitive U2 record to exist in a rather eventful discography.
 
 tracks:
-- Where the Streets Have No Name
-- ­With or Without You
-- ­Bullet the Blue Sky
+  - Where the Streets Have No Name
+  - ­With or Without You
+  - ­Bullet the Blue Sky
 
 score:
   score: 8
@@ -60,9 +60,9 @@ review: >-
   _The Joshua Tree_ is a towering work. With gusto it embarks on a journey over the American horizon, conveying beautifully all the chaste heartache that seems to entail. It’s an epic poem of sorts, and I’m not sure anyone could have performed it as well as Bono does. It has its grandiose moments, but for the most part the album sounds superb. Gets better with each listen, too, which is always a welcome quality.
 
 tracks:
-- Bullet the Blue Sky
-- ­Trip Through Your Wires
-- ­With or Without You
+  - Bullet the Blue Sky
+  - ­Trip Through Your Wires
+  - ­With or Without You
 
 score:
   score: 8
@@ -79,9 +79,9 @@ review: >-
   I can certainly see how this has influenced others and the impact it had to those that listened to it on its release. With all that in mind, I still don’t connect with this album as much as many do, but I’ll certainly be returning to it.
 
 tracks:
-- With or Without You
-- ­Bullet the Blue Sky
-- ­Exit
+  - With or Without You
+  - ­Bullet the Blue Sky
+  - ­Exit
 
 score:
   score: 6

@@ -48,9 +48,9 @@ review: >-
   To summarise, _…Like Clockwork_ is a real treat; a necessary shot in the arm for one of the most respected rock acts of this generation. It doesn’t reach the intensifying highs of _Songs for the Deaf_, and it doesn’t try to, because Queens of the Stone Age have transformed. Gone are the days of Nick Olivieri shrieking down the mic to pulsating riffs; we now live in an age where Homme performs sensual piano ballads. And the crazy thing is, I’m no longer sure which is more satisfying.
 
 tracks:
-- I Appear Missing
-- ­­Fairweather Friends
-- ­­I Sat By The Ocean
+  - I Appear Missing
+  - ­­Fairweather Friends
+  - ­­I Sat By The Ocean
 
 score:
   score: 8
@@ -69,9 +69,9 @@ review: >-
   Homme’s quip that rock [‘should be heavy enough for the boys and sweet enough for the girls’](https://hobbs1767.tripod.com/transcripts/ozzfest2000.html) rings true here. There’s a near perfect balance of grit and finesse on _…Like Clockwork_ that surely makes it Queens of the Stone Age’s most accomplished work since _Songs for the Deaf_.
 
 tracks:
-- If I Had a Tail
-- ­­Smooth Sailing
-- ­­The Vampyre of Time and Memory
+  - If I Had a Tail
+  - ­­Smooth Sailing
+  - ­­The Vampyre of Time and Memory
 
 score:
   score: 8
@@ -88,9 +88,9 @@ review: >-
   While easily missed through its effortlessness, the talent on display through _…Like Clockwork_ is as stunning as ever, with Homme’s vocals sounding strong and some of the instrumental performances, especially some of the drum lines, leaving it near impossible for the listener not to be impressed. It’s a brilliant album that doesn’t try to be anything more than anything deeper than an approachable, lively listen from start to finish and achieves that and more incredibly well without resorting to any watering down of the genre, something which has to be commended in and of itself. The extra bonus here? The album sounds excellent live — so go and see them. Grand and gritty throughout.
 
 tracks:
-- Fairweather Friends
-- ­­The Vampyre of Time and Memory
-- ­­Kalopsia
+  - Fairweather Friends
+  - ­­The Vampyre of Time and Memory
+  - ­­Kalopsia
 
 score:
   score: 8

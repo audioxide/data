@@ -49,9 +49,9 @@ review: >-
   Nonetheless, *RTJ2* is one of the finest hip-hop records of the 2010s, and with the duo showing no signs of slowing down, there may be another level to them yet.
 
 tracks:
-- Early
-- ­Oh My Darling Don’t Cry
-- ­Blockbuster Night Part 1
+  - Early
+  - ­Oh My Darling Don’t Cry
+  - ­Blockbuster Night Part 1
 
 score:
   score: 8
@@ -70,9 +70,9 @@ review: >-
   Among myriad talented and appropriate features, the shining external input comes from BOOTS. His style of production on “Early” merges nicely with El-P’s, and his vocals are beautiful and haunting. Gangsta Boo’s verse on “Love Again”, commanding and hilarious, ties the track together to form a rounded attitude to sexual objectification that’s very refreshing. Zach De La Rocha’s looped hook and surprisingly funny verse on “Close Your Eyes (And Count to Fuck)” sonically matches the other features in its synergy with the sound Run the Jewels have put together. Nothing else sounds like _RTJ2_, much like nobody sounds like Killer Mike or El-P. The fact that their uniqueness has combined to create something distinct from themselves, transcending their laudable quality on prior projects, is as much baffling as it is glorious.
 
 tracks:
-- Early
-- ­Blockbuster Night Part 1
-- ­Lie, Cheat, Steal
+  - Early
+  - ­Blockbuster Night Part 1
+  - ­Lie, Cheat, Steal
 
 score:
   score: 9
@@ -93,9 +93,9 @@ review: >-
   Combined as a tracklist of perfect length, _RTJ2_ makes for addictive listening and difficult critiquing, as I can only see a slight lull appearing in the final couple of tracks. This will certainly fall into my list of essential listening, and I can only see it improving with age.
 
 tracks:
-- Lie, Cheat, Steal
-- ­All My Life
-- ­Blockbuster Night Part 1
+  - Lie, Cheat, Steal
+  - ­All My Life
+  - ­Blockbuster Night Part 1
 
 score:
   score: 9

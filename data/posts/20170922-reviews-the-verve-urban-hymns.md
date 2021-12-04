@@ -50,9 +50,9 @@ review: >-
   It’s an overwhelming, but vastly enjoyable experience — the essential Verve record. The dross that followed almost doesn’t matter. Ashcroft set out to make history, and the fact is we’re still listening to _Urban Hymns_ twenty years later.
 
 tracks:
-- The Drugs Don’t Work
-- ­­Bittersweet Symphony
-- ­­This Time
+  - The Drugs Don’t Work
+  - ­­Bittersweet Symphony
+  - ­­This Time
 
 score:
   score: 8
@@ -73,9 +73,9 @@ review: >-
   I find it much easier to share in the melancholy of _Urban Hymns_ than to love it outright. It needn’t give more, though. The album delves through a space mystic, misty, and oddly disjointed, and there will always be an audience for that. The album’s standing is unquestionable. It’s a classic of its time, if not quite a classic in its own right. In any overview of British music, one would do well to overlook _Urban Hymns_.
 
 tracks:
-- Bittersweet Symphony
-- ­­Catching the Butterfly
-- ­­Weeping Willow
+  - Bittersweet Symphony
+  - ­­Catching the Butterfly
+  - ­­Weeping Willow
 
 score:
   score: 8
@@ -92,9 +92,9 @@ review: >-
   The tail end of the album offers more crunch in “Come On”, a near seven-minute guitar frenzy that feels spot on where other bands would have driven it into the ground by the closing moments. That sense of cohesion is reflected across the album and, for the most part, it does well to hide its length, which at seventy minutes could easily have grown tiring at its midway point. It doesn’t get away with it entirely, but _Urban Hymns_ makes for an album of hits that have remained fresh, dynamic and, maybe most importantly, relevant twenty years on. Had it not come in a year of incredible music, it would no doubt get far more attention, but as it is, it remains a buried classic of Britpop."
 
 tracks:
-- Bittersweet Symphony
-- ­­The Drugs Don’t Work
-- ­­Catching the Butterfly
+  - Bittersweet Symphony
+  - ­­The Drugs Don’t Work
+  - ­­Catching the Butterfly
 
 score:
   score: 8

@@ -33,6 +33,7 @@ blurb: Foals leaned into their restless, agitated, math-rock roots and carved ou
 artistMBID: 6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
 albumMBID: b3354e1f-317e-3b64-88e1-d4dc54571a6d
 artistLink: https://shop.foals.co.uk/
+
 ---
 
 author: gabriel-sutton
@@ -47,9 +48,9 @@ review: >-
   However, maybe the lyrics aren’t what’s important in _Antidotes_, maybe they act as another layer of instrumentation. _Antidotes_ managed to present a sound that was unfamiliar to most and fill it with raunchy riffs and rhythm. It is certainly a standout record for its time, and one that is worthy of your attention.
 
 tracks:
-- Heavy Water
-- ­­Two Steps, Twice
-- ­­The French Open
+  - Heavy Water
+  - ­­Two Steps, Twice
+  - ­­The French Open
 
 score:
   score: 8
@@ -68,9 +69,9 @@ review: >-
   As a beginning-to-end listen _Antidotes_ is lacking. The album weaves a distinctive sound, but it’s quite rare for the tracks themselves to feel distinct from each other. The novelty of what’s happening is what keeps boredom at bay towards the end. In all it reminds me of a Michelin star kind of meal, where it’s a dollop of something with a leaf on top and a wavy line of sauce on the side. It’s all very creative and carefully made. It may even taste good. It’s just not going to fill you up. So long as that’s not what you’re expecting, all is well — enjoy the sensory splash.
 
 tracks:
-- The French Open
-- ­­Electric Bloom
-- ­­Olympic Airways
+  - The French Open
+  - ­­Electric Bloom
+  - ­­Olympic Airways
 
 score:
   score: 7
@@ -91,9 +92,9 @@ review: >-
   As the band have matured in the decade since this debut, they’ve developed a more accessible sound, but _Antidotes_ gleans a certain fondness thanks to its hyperactive guitars and twitchy drum beats that revel in a bit of quirk and angst. It’s indie rock through and through but it’ll likely stick with listeners longer than a good deal of music from the time.
 
 tracks:
-- Big Big Love (Fig .2)
-- ­­Red Sock Pugie
-- ­­Two Steps, Twice
+  - Big Big Love (Fig .2)
+  - ­­Red Sock Pugie
+  - ­­Two Steps, Twice
 
 score:
   score: 7
