@@ -38,55 +38,52 @@ artistLink: https://shop.u2.com/
 author: andre-dack
 
 review: >-
-With assistance from [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/) and Daniel Lanois, U2 achieved a vast and powerful sound that crucially stopped itself from treading into the territory of the overly bombastic; here we experience the band without the excruciating self-indulgence that turns listeners away from their more recent works.
+  With assistance from [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports/) and Daniel Lanois, U2 achieved a vast and powerful sound that crucially stopped itself from treading into the territory of the overly bombastic; here we experience the band without the excruciating self-indulgence that turns listeners away from their more recent works.
 
-_The Joshua Tree_ may not be my favourite U2 album, but it is their most refined, and I certainly wouldn’t dispute the claim of it being the definitive U2 record to exist in a rather eventful discography.
+  _The Joshua Tree_ may not be my favourite U2 album, but it is their most refined, and I certainly wouldn’t dispute the claim of it being the definitive U2 record to exist in a rather eventful discography.
 
 tracks:
-
 - Where the Streets Have No Name
 - ­With or Without You
 - ­Bullet the Blue Sky
 
 score:
-score: 8
-max: 10
-fraction: 0.8
+  score: 8
+  max: 10
+  fraction: 0.8
 
 ---
 
 author: frederick-obrien
 
 review: >-
-_The Joshua Tree_ is a towering work. With gusto it embarks on a journey over the American horizon, conveying beautifully all the chaste heartache that seems to entail. It’s an epic poem of sorts, and I’m not sure anyone could have performed it as well as Bono does. It has its grandiose moments, but for the most part the album sounds superb. Gets better with each listen, too, which is always a welcome quality.
+  _The Joshua Tree_ is a towering work. With gusto it embarks on a journey over the American horizon, conveying beautifully all the chaste heartache that seems to entail. It’s an epic poem of sorts, and I’m not sure anyone could have performed it as well as Bono does. It has its grandiose moments, but for the most part the album sounds superb. Gets better with each listen, too, which is always a welcome quality.
 
 tracks:
-
 - Bullet the Blue Sky
 - ­Trip Through Your Wires
 - ­With or Without You
 
 score:
-score: 8
-max: 10
-fraction: 0.8
+  score: 8
+  max: 10
+  fraction: 0.8
 
 ---
 
 author: andrew-bridge
 
 review: >-
-This was my first real listen to a U2 album and I came in with pretty mixed impressions; _The Joshua Tree_ improved those. While some of the more anthemic tracks passed me by, the instrumentation and song writing that goes with it is really interesting and shows a nice range without being inconsistent. Eno makes his mark alongside the others that produced the album too.
+  This was my first real listen to a U2 album and I came in with pretty mixed impressions; _The Joshua Tree_ improved those. While some of the more anthemic tracks passed me by, the instrumentation and song writing that goes with it is really interesting and shows a nice range without being inconsistent. Eno makes his mark alongside the others that produced the album too.
 
-I can certainly see how this has influenced others and the impact it had to those that listened to it on its release. With all that in mind, I still don’t connect with this album as much as many do, but I’ll certainly be returning to it.
+  I can certainly see how this has influenced others and the impact it had to those that listened to it on its release. With all that in mind, I still don’t connect with this album as much as many do, but I’ll certainly be returning to it.
 
 tracks:
-
 - With or Without You
 - ­Bullet the Blue Sky
 - ­Exit
 
 score:
-score: 6
-max: 10
-fraction: 0.6
+  score: 6
+  max: 10
+  fraction: 0.6
