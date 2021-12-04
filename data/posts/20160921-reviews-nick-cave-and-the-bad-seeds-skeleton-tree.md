@@ -1,6 +1,6 @@
 ---
 created: 2016-09-21T16:00:37.000Z
-modified: 2018-03-04T20:45:42.000Z
+modified: 2021-10-30T16:19:42.000Z
 slug: nick-cave-and-the-bad-seeds-skeleton-tree
 type: reviews
 tags:
@@ -11,6 +11,8 @@ tags:
   - radiohead
   - avant garde
 featuredimage: album-artwork/skeleton-tree-nick-cave-and-the-bad-seeds.jpg
+artworkCredit: was designed by British creative agency Hingston Studio.
+artworkCreditSource: https://www.hingston.net/work/nick-cave-and-the-bad-seeds-skeleton-tree/
 artist: Nick Cave & The Bad Seeds
 album: Skeleton Tree
 essentialtracks:

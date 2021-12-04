@@ -1,6 +1,6 @@
 ---
 created: 2016-09-28T16:00:40.000Z
-modified: 2018-03-10T20:40:13.000Z
+modified: 2021-10-30T16:14:13.000Z
 slug: preoccupations-preoccupations
 type: reviews
 tags:
@@ -14,6 +14,8 @@ tags:
   - swans
   - public image ltd
 featuredimage: album-artwork/preoccupations-preoccupations.jpg
+artworkCredit: was designed by Canadian graphic artist Marc Rimmer. ‘The idea behind the album was one of discovery and exploration of basic visual elements - line, shape, colour, composition,’ he said. ‘It definitely has nod to periods such as the Bauhaus, De Stijl, constructivism, etc.’
+artworkCreditSource: https://www.juxtapoz.com/news/design/designer-marc-rimmer-on-the-visual-art-behind-preoccupations-forthcoming-album-and-more/
 artist: Preoccupations
 album: Preoccupations
 essentialtracks:
