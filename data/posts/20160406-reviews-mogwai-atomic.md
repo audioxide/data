@@ -9,7 +9,7 @@ tags:
   - post rock
   - space rock
 featuredimage: album-artwork/atomic-mogwai.jpg
-artworkCredit: was designed by longtime collaborator with the band David ‘dlt’ Thomas
+artworkCredit: was designed by longtime band collaborator David ‘dlt’ Thomas.
 artworkCreditSource: http://www.d-l-t.co.uk/
 artist: Mogwai
 album: Atomic

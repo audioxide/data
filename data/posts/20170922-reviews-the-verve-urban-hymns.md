@@ -13,7 +13,7 @@ tags:
   - rock
 featuredimage: album-artwork/urban-hymns-the-verve.jpg
 artworkCredit: was shot by British graphic designer Brian Cannon at Richmond Park in London. Band frontman Richard Ashcroft told Cannon to keep it simple because he wanted fans to ‘just listen to the fucking record.’
-artworkCreditSource:
+artworkCreditSource: https://www.adweek.com/performance-marketing/brian-cannon-and-the-death-of-album-cover-design/
 artist: The Verve
 album: Urban Hymns
 essentialtracks:

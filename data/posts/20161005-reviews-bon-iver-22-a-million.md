@@ -13,7 +13,7 @@ tags:
   - james blake
   - experimental
 featuredimage: album-artwork/22-a-million-bon-iver.jpg
-artworkCredit: was designed by American artist Eric Timothy Carlson and is part of a wider collection of visual material that accompanied the album’s release - packaging, newspapers, posters, lyric sheets, music videos, and more. Carlson sketched in the studio during recording sessions, and as the project developed ‘it became apparent that the final artwork was to be something of a tome. A book of lore.’
+artworkCredit: was designed by American artist Eric Timothy Carlson. It is part of a wider collection of visual material that accompanied the album’s release - packaging, newspapers, posters, lyric sheets, music videos, and more. Carlson sketched in the studio during recording sessions, and as the project developed ‘it became apparent that the final artwork was to be something of a tome. A book of lore.’
 artworkCreditSource: https://walkerart.org/magazine/designing-bon-iver-22-a-million-album-art-eric-timothy-carlson
 artist: Bon Iver
 album: 22, A Million

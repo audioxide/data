@@ -9,7 +9,7 @@ tags:
   - hip hop
   - kendrick lamar
 featuredimage: album-artwork/things-fall-apart-the-roots.jpg
-artworkCredit: came in five versions during its original run, each with a different photograph, all with the theme of ‘visual failure in society.’ The image your see here, and which became the ‘default’ option, was taken in the 1960s during a riot in the Bedford–Stuyvesant neighbourhood of Brooklyn. Art director Kenny Gravillis said, ‘The cover felt like the urban community could really relate to it. Seeing real fear in the woman’s face is very affecting. It feels unflinching and aggressive in its commentary on society.’
+artworkCredit: came in five versions during its original run, each with a different photograph capturing ‘visual failure in society.’ The image your see here, and which became the ‘default’ option, was taken in the 1960s during a riot in the Bedford–Stuyvesant neighbourhood of Brooklyn. Art director Kenny Gravillis said, ‘The cover felt like the urban community could really relate to it. Seeing real fear in the woman’s face is very affecting. It feels unflinching and aggressive in its commentary on society.’
 artworkCreditSource: https://www.complex.com/style/2014/02/the-roots-things-fall-apart-album-covers/baby-in-the-rubble
 artist: The Roots
 album: Things Fall Apart
