@@ -11,6 +11,8 @@ tags:
   - electronic
   - joy division
 featuredimage: album-artwork/crawler-idles.jpg
+artworkCredit: was shot by British photographer Tom Ham.
+artworkCreditSource: https://www.tomhamphoto.com/
 artist: IDLES
 album: CRAWLER
 essentialtracks: ""
