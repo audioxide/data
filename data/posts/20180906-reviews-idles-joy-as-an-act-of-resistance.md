@@ -11,7 +11,7 @@ tags:
   - savages
   - jehnny beth
 featuredimage: album-artwork/joy-as-an-act-of-resistance-idles.jpg
-artist: Idles
+artist: IDLES
 album: Joy as an Act of Resistance
 essentialtracks: ""
 favouritetracks:
