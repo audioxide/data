@@ -1,6 +1,6 @@
 ---
 created: 2015-11-07T00:08:45.000Z
-modified: 2018-03-11T16:28:38.000Z
+modified: 2021-12-06T23:05:38.000Z
 slug: joanna-newsom-divers
 type: reviews
 tags:
@@ -9,6 +9,8 @@ tags:
   - avant garde
   - art pop
 featuredimage: album-artwork/divers-joanna-newsom.jpg
+artworkCredit: features a photograph taken by American artist Kim Keever.
+artworkCreditSource: https://www.newyorker.com/culture/photo-booth/clouds-underwater
 artist: Joanna Newsom
 album: Divers
 essentialtracks: ""
