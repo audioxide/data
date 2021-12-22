@@ -103,7 +103,7 @@ Good god. [_Sinner Get Ready_](/reviews/lingua-ignota-sinner-get-ready/) was a m
 ## 4\. “Neshorn” // Drongo
 
 <youtube-video video-id="LWMwWRX-UpU" desc="Neshorn by Drongo" />
-
+­
 **André**
 
 Drongo’s debut album was one of the year’s most unexpected delights. I’ve had a brilliant time with [1](/reviews/drongo-1/) since its release in April. The first half of the record is a true delight, expertly showcasing a multitude of musical styles with relative ease. True to form, my personal favourite moment is the most noisy and abrasive.
@@ -115,7 +115,7 @@ Drongo’s debut album was one of the year’s most unexpected delights. I’ve 
 ## 3\. “The Beachland Ballroom” // IDLES
 
 <youtube-video video-id="t7aktt5cDqs" desc="The Beachland Ballroom by IDLES" />
-
+­
 **André**
 
 Like most of IDLES’ best work, “The Beachland Ballroom” hits me like a ton of bricks. The way in which it occurs, however, is mightily different to previous efforts. After suffering some slight IDLES fatigue with their last album, [_Ultra Mono_](/reviews/idles-ultra-mono/), this was the perfect way to draw me back in. Not as pumelling as we’d come to expect, but still emotionally powerful.
