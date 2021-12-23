@@ -15,8 +15,8 @@ tags:
   - wolf alice
   - black midi
   - year end lists
-featuredimage: article-images/favourite-singles-2020.jpg
-featuredimageAlt: Screenshot of the music video for "Me In 20 Years" by Moses Sumney
+featuredimage: article-images/favourite-singles-2021.jpg
+featuredimageAlt: Promotional image of St. Vincent showing her on an old TV set in the street
 title: Our 10 favourite singles of 2021
 author:
   - rachael-davis
@@ -130,7 +130,7 @@ Joe Talbot refers to “The Beachland Ballroom” as a ‘soul tune’, and you 
 ­
 **Fred**
 
-St. Vincent is one of a select few artists whose releases I truly anticipate. She goes all in. What’s she going to transform into this time? What dream has she woven? I struggle to think of any other contemporary artist with such a [Bowie](/reviews/david-bowie-low/)-like gift for self-reinvention. “Pay Your Way In Pain” was the perfect stage setter for [_Daddy’s Home_](/st-vincent/daddys-home/). Kooky, off-beat, full of swagger, it dances between the ‘70s and present day like, we’ll, like Annie Clark in the music video.
+St. Vincent is one of a select few artists whose releases I truly anticipate. She goes all in. What’s she going to transform into this time? What dream has she woven? I struggle to think of any other contemporary artist with such a [Bowie](/reviews/david-bowie-low/)-like gift for self-reinvention. “Pay Your Way In Pain” was the perfect stage setter for [_Daddy’s Home_](/st-vincent/daddys-home/). Kooky, off-beat, full of swagger, it dances between the ‘70s and present day like, well, like Annie Clark in the music video.
 
 I love the confidence of an atypical lead single. Rather than coming out all guns blazing, “Pay Your Way In Pain” takes its time, easing you into a sonic world approximately four million miles away from the pill-popping West Coast latex daydreams of [_Masseduction_](/reviews/st-vincent-masseduction/). A blazing hot slow burning track, it remains one of my favourites on the record.
 
