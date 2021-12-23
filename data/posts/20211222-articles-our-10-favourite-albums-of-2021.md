@@ -35,7 +35,7 @@ _Blah blah blah._
 
 ## 10\. _1_ // Drongo
 
-![Album artwork of '1' by Drongo](album-artwork/1-drongo.jpg "Album artwork of '1' by Drongo")
+<img class="article-album-image" src="album-artwork/1-drongo.jpg" alt="Album artwork of '1' by Drongo">
 
 **Fred**
 
@@ -79,7 +79,7 @@ Listening to To See the Next Part of the Dream is quite literally like reliving 
 
 ## 7\. _Animal_ // LUMP
 
-![Album artwork of 'Nothing as the Ideal' by All Them Witches](album-artwork/animal-lump.jpg "Album artwork of 'Nothing as the Ideal' by All Them Witches")
+<img class="article-album-image" src="album-artwork/animal-lump.jpg" alt="Album artwork of 'Animal' by Lump">
 
 **Marcus**
 
@@ -141,7 +141,7 @@ TBD
 
 ## 2\. _For the first time_ // Black Country, New Road
 
-![Album artwork of 'For the first time' by Black Country, New Road](album-artwork/for-the-first-time-black-country-new-road.jpg "Album artwork of 'For the first time' by Black Country, New Road")
+<img class="article-album-image" src="album-artwork/for-the-first-time-black-country-new-road.jpg" alt="Album artwork of 'For the first time' by Black Country, New Road">
 
 **Rachael**
 
@@ -162,7 +162,7 @@ BC,NR’s second album is scheduled for release in February, almost a year to th
 
 ## 1\. _Call Me If You Get Lost_ // Tyler, the Creator
 
-![Album artwork of 'Call Me If You Get Lost' by Tyler, the Creator](album-artwork/call-me-if-you-get-lost-tyler-the-creator.jpg "Album artwork of 'Call Me If You Get Lost' by Tyler, the Creator")
+<img class="article-album-image" src="album-artwork/call-me-if-you-get-lost-tyler-the-creator.jpg" alt="Album artwork of 'Call Me If You Get Lost' by Tyler, the Creator">
 
 **André**
 
