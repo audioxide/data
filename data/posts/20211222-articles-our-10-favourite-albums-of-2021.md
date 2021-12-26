@@ -37,7 +37,7 @@ _This is the end, beautiful friend. Of the year that is. Which means it’s time
 
 **Fred**
 
-In at number ten, it’s _1_. A novel consequence of this website growing over the years is that people have started sending us their music in the hope that we’ll review it. Although we try to sample everything we recieve, there is only so much we can cover - we do still do this as a hobby, after all. However, one band we heard from - a Norwegian krautrock eight-piece called Drongo - had us hooked from the outset. On the strength of one track we decided to review it, and boy are we glad we did.
+In at number ten, it’s _1_. A novel consequence of this website growing over the years is that people have started sending us their music in the hope that we’ll review it. Although we try to listen to everything we recieve, there is only so much we can cover - we do still do this as a hobby, after all. However, one band we heard from - a Norwegian krautrock eight-piece called Drongo - had us hooked from the outset. On the strength of one track we decided to review it, and boy are we glad we did.
 
 Their debut record, _1_, is one of the tightest, driven, and memorable projects I’ve had the pleasure of reviewing in the seven or so years we’ve been doing Audioxide. Most importantly, it’s really bloody good. Blending krautrock with all manner of other genres, the band chug through the six tracks with almost businesslike efficiency. The thunderous “Neshorn” remains the standout track for me, though each offers a unique flavour. All these months later each listen thorugh is still like going on a new musical safari. What a buzz. Roll on _2_.
 
