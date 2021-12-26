@@ -90,7 +90,7 @@ Joy Crooke’s debut, [_Skin_](/reviews/joy-crookes-skin/) felt like that moment
 
 ---
 
-## 5\. “Pennsylvania Furnaces” // Lingua Ignota
+## 5\. “Pennsylvania Furnace” // Lingua Ignota
 
 <youtube-video video-id="7YRMV7ffPpY" desc="Pennsylvania Furnaces by Lingua Ignota" />
 ­
