@@ -16,15 +16,15 @@ tags:
   - drongo
   - year end lists
 featuredimage: article-images/favourite-albums-2020.jpg
-featuredimageAlt: Run the Jewels performing live
+featuredimageAlt: Lingua Ignota promotional photograph
 title: Our 10 favourite albums of 2021
 author:
   - rachael-davis
   - marcus-lawrence
   - frederick-obrien
   - andre-dack
-summary: TBD
-blurb: TBD
+summary: Delightful debuts, captivating concepts, and other alliteration
+blurb: This is the end, beautiful friend. Of the year that is. Which means it’s time for us to rank our favourite albums.
 ---
 
 _This is the end, beautiful friend. Of the year that is. Which means it’s time for us to rank our favourite albums. It has felt like an exceptionally good 12 months of music, with just the right mix of old favourites and new blood. Narrowing it down to ten has been challenging, but there are worse problems to have right?_
