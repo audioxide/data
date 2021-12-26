@@ -15,7 +15,7 @@ tags:
   - joy crookes
   - drongo
   - year end lists
-featuredimage: article-images/favourite-albums-2020.jpg
+featuredimage: article-images/favourite-albums-2021.jpg
 featuredimageAlt: Lingua Ignota promotional photograph
 title: Our 10 favourite albums of 2021
 author:
