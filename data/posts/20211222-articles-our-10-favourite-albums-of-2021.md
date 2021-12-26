@@ -175,7 +175,7 @@ BC,NR’s second album is scheduled for release in February of 2022, almost a ye
 
 ---
 
-## 1\. _Call Me If You Get Lost_ // Tyler, the Creator
+## 1\. _CALL ME IF YOU GET LOST_ // Tyler, the Creator
 
 <img class="article-album-image" src="album-artwork/call-me-if-you-get-lost-tyler-the-creator.jpg" alt="Album artwork of ‘Call Me If You Get Lost’ by Tyler, the Creator">
 
