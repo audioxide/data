@@ -185,7 +185,7 @@ Tyler, the Creator has now topped our year-end album rankings twice - the other 
 
 _CALL ME IF YOU GET LOST_ is a more understated record than IGOR, but over time I’ve found that just makes it more ingratiating. It’s comfortable, chummy even, sauntering through genres with the confidence of a man who knows damn well what he's doing - and loves it. I said at the time that _CALL ME IF YOU GET LOST_ was ‘like sinking into an improbably soft and colourful velvet sofa.’ It still is, I’m still there, and I won’t be getting up any time soon.
 
-<p class="block-gap"><strong>André</strong></p>
+**André**
 
 There can no longer be any doubt - Tyler, The Creator is one of the greatest artists of his generation. The 30 year-old rapper already has seven albums to his name that span hip-hop, R&B, jazz and neo soul. Half of these records have notable flaws, but his transition from 2009’s _Bastard_ to 2019’s [_IGOR_](/reviews/tyler-the-creator-igor/) is an artistic achievement in itself. On _CALL ME IF YOU GET LOST_, Tyler is brims with confidence, and it’s a sheer joy to experience. He’s truly on the top of his game.
 
