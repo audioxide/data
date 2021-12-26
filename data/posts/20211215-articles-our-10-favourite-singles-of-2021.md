@@ -106,7 +106,7 @@ Good god. [_Sinner Get Ready_](/reviews/lingua-ignota-sinner-get-ready/) was a m
 ­
 **André**
 
-Drongo’s debut album was one of the year’s most unexpected delights. I’ve had a brilliant time with [1](/reviews/drongo-1/) since its release in April. The first half of the record is a true delight, expertly showcasing a multitude of musical styles with relative ease. True to form, my personal favourite moment is the most noisy and abrasive.
+Drongo’s debut album was one of the year’s most unexpected delights. I’ve had a brilliant time with [_1_](/reviews/drongo-1/) since its release in April. The first half of the record is a true delight, expertly showcasing a multitude of musical styles with relative ease. True to form, my personal favourite moment is the most noisy and abrasive.
 
 “Neshorn” begins with weird staccato guitars, eventually finding momentum alongside a driving rhythm section. After almost three minutes of buildup, the track suddenly locks into an irresistible groove. Strange guitar sounds dwindle in and out, whilst ferocious percussion keeps the whole thing in check. “Neshorn” is menacing yet joyous - a real head-bopper that also manages to strike a level of drama to match post-rock titans [Mogwai](/reviews/mogwai-atomic/) and [Godspeed You! Black Emperor](/reviews/godspeed-you-black-emperor-f-sharp-a-sharp-infinity/). Quite frankly, I’m itching for more. Fortunately, it sounds as though we won’t have to wait too much longer...
 
