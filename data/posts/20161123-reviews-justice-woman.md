@@ -10,7 +10,7 @@ tags:
   - electronic
   - disco
 featuredimage: album-artwork/woman-justice.jpg
-artworkCredit: was designed by French artist Charlotte Delarue 
+artworkCredit: was designed by French artist Charlotte Delarue.
 artworkCreditSource: https://www.charlottedelarue-design.com/JusticeWoman-Album-Cover
 artist: Justice
 album: Woman
