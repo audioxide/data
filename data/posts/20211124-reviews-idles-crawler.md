@@ -35,6 +35,8 @@ blurb: IDLES’ most considered, sonically thoughtful, and complex release to da
 artistMBID: be465d4f-c28d-4ba1-94ab-ebaada7db8af
 albumMBID: da9a2af4-e97d-43aa-92a9-f8e6c0eab37d
 artistLink: https://www.idlesband.com/shop/
+reviewType: newRelease
+
 ---
 
 author: rachael-davis

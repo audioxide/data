@@ -40,6 +40,7 @@ blurb: Unabashedly grim, but reassuringly gentle. The album's striking cover art
 artistMBID: e86b5e8c-8a11-40ea-9bb0-551df95e99d4
 albumMBID: 0e9eff21-8115-4ab3-877c-5c4f6d0e09a0
 artistLink: https://www.bandofnothing.com/shop
+reviewType: newRelease
 
 ---
 

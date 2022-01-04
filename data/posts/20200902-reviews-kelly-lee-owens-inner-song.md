@@ -35,6 +35,7 @@ blurb: The album is so delicate that it feels too fragile for its own good. Itâ€
 artistMBID: 9d88eaab-f90a-4fbe-b84f-20da5518cd26
 albumMBID: 4f883542-76d0-4fb1-bd7f-f53ccd5e8bc3
 artistLink: https://kellyleeowens.bandcamp.com/
+reviewType: newRelease
 
 ---
 

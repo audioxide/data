@@ -35,6 +35,7 @@ blurb: Another commanding and deft iteration of Godspeed’s lauded post-rock st
 artistMBID: 3648db01-b29d-4ab9-835c-83f6a5068fe4
 albumMBID: 3805cfb2-b333-4ed0-a696-019666cca5d7
 artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
+reviewType: newRelease
 
 ---
 

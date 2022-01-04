@@ -37,6 +37,7 @@ blurb: Romping rock and roll sounded like a breeze for Marc Bolan, and when you 
 artistMBID: c842d29f-a297-48cd-bb71-4f77fd672b16
 albumMBID: e53310bf-8ccc-3d7f-a0b7-5ca4dbababcb
 artistLink: https://www.merchbar.com/rock-alternative/t-rex
+reviewType: retrospective
 
 ---
 author: andre-dack

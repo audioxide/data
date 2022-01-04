@@ -45,6 +45,7 @@ blurb: The record listens like an all-night jam at an impossibly cool bohemian g
 artistMBID: 13501c7d-d181-45ba-af52-5f101d8516a0
 albumMBID: 13d08c0e-14e2-30b2-9ad7-5f501761a8ea
 artistLink: https://www.spoonrecords.com/
+reviewType: retrospective
 
 ---
 

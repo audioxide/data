@@ -38,6 +38,7 @@ blurb: It seems that a template was drawn up and filled in ten times over, such 
 artistMBID: 9de8f66e-3cd1-4f11-8328-38200f0612b0
 albumMBID: d47ed363-bf57-426d-b061-34675b8892b6
 artistLink: https://shop.dovesofficial.com/
+reviewType: newRelease
 
 ---
 

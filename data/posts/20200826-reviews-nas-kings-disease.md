@@ -37,6 +37,7 @@ blurb: A pleasant, consistent, and enjoyable listen. Here’s hoping Nas and Hit
 artistMBID: cfbc0924-0035-4d6c-8197-f024653af823
 albumMBID: 73edf0fe-d715-44e9-b18d-c16a4a765140
 artistLink: https://shop.nasirjones.com/
+reviewType: newRelease
 
 ---
 

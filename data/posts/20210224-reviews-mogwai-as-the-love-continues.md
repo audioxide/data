@@ -37,6 +37,7 @@ blurb: An expansive, impressive listen with delicious moments of climactic erupt
 artistMBID: d700b3f5-45af-4d02-95ed-57d301bda93e
 albumMBID: ef8e8e4d-05a2-4732-b68a-c5b6af86d786
 artistLink: https://store.mogwai.scot/
+reviewType: newRelease
 
 ---
 author: andre-dack

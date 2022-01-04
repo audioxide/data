@@ -36,6 +36,7 @@ blurb: Each note of every individual performance is captured and presented perfe
 artistMBID: f181961b-20f7-459e-89de-920ef03c7ed0
 albumMBID: efea26d1-a016-30f6-b8e2-bc8c02336b0a
 artistLink: https://shop.thestrokes.com/
+reviewType: retrospective
 
 ---
 

@@ -33,6 +33,7 @@ blurb: Weaving larger-than-life arrangements with razor-sharp yet feather-light 
 artistMBID: 548e9a34-7476-4510-b3cf-70d17106d507
 albumMBID: 185279be-34f3-41b1-97b8-4ddbe98ee2f0
 artistLink: https://shop.joycrookes.com/
+reviewType: newRelease
 
 ---
 

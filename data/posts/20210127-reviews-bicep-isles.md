@@ -38,6 +38,7 @@ blurb: Tracks swirl about at a slower pace than in Bicep’s debut. It often fee
 artistMBID: 10e8f0df-90f9-4957-aedd-c4e0d187e3a8
 albumMBID: fa402a46-b4b1-40d6-8d3b-b051550eb687
 artistLink: https://store.bicepmusic.com/
+reviewType: newRelease
 
 ---
 

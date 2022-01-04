@@ -35,6 +35,7 @@ blurb: The shift away from skeletal guitars is welcome, but Baker’s strength d
 artistMBID: e3bda984-f349-4924-b4b8-f72478bbb3f3
 albumMBID: 03e8da57-fd08-4864-89e7-4919ddfe4735
 artistLink: https://julienbaker.com/collections/music
+reviewType: newRelease
 
 ---
 author: andre-dack

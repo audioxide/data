@@ -34,6 +34,7 @@ blurb: Come for the singalong hooks of “El Scorcho”, “Pink Triangle”, an
 artistMBID: 6fe07aa5-fec0-4eca-a456-f29bff451b04
 albumMBID: 385f30e2-0483-355d-aded-23e66aa20f87
 artistLink: https://weezerwebstore.com/
+reviewType: retrospective
 
 ---
 

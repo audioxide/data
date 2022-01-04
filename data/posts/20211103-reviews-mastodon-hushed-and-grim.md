@@ -31,6 +31,7 @@ blurb: As much fun as its riffs and crunching tone can be, the album feels like 
 artistMBID: bc5e2ad6-0a4a-4d90-b911-e9a7e6861727
 albumMBID: aa4960fb-3b27-4d68-b68a-0143fa5f84f0
 artistLink: https://mastodon.backstreetmerch.com/
+reviewType: newRelease
 
 ---
 

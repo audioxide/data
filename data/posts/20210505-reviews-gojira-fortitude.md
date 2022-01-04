@@ -33,6 +33,7 @@ blurb: All the great metal albums contain at least a small portion of cheese. Fo
 artistMBID: 1c5efd53-d6b6-4d63-9d22-a15025cf5f07
 albumMBID: 80f680f2-7aeb-4b30-a40b-e6c1e06a010c
 artistLink: https://shop.roadrunnerrecords.co.uk/fr/artists/gojira.html
+reviewType: newRelease
 
 ---
 author: andre-dack
