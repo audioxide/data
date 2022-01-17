@@ -35,6 +35,7 @@ blurb: Quite simply one of the greatest anti-war albums of all time. In this cur
 artistMBID: e795e03d-b5d5-4a5f-834d-162cfb308a2c
 albumMBID: 9d504fde-1b02-4c14-b484-bcf94570153a
 artistLink: https://pjharvey.kontraband.store/
+reviewType: retrospective
 
 ---
 

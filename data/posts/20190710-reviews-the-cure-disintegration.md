@@ -32,6 +32,7 @@ blurb: It’s like Frankenstein in a dinner jacket. Gothic synth rock sounds lik
 artistMBID: 69ee3720-a7cb-4402-b48d-a02c366f2bcf
 albumMBID: 494bf606-d2f7-36d0-8340-eadad8601d2b
 artistLink: https://store.universalmusic.com/thecure/
+reviewType: retrospective
 
 ---
 

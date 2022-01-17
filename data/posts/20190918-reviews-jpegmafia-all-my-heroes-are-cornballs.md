@@ -33,6 +33,7 @@ blurb: There's a glaring sense of lunacy throughout. It's as though JPEGMAFIA is
 artistMBID: c42e60f4-4520-4954-b6e4-82bbdf532c11
 albumMBID: c35a4a3f-d584-42fc-ac0f-b9592aedd3b2
 artistLink: https://www.jpegmafia.net/store
+reviewType: newRelease
 
 ---
 author: andre-dack

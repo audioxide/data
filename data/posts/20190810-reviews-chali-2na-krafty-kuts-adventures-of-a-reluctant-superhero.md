@@ -35,6 +35,7 @@ artistMBID:
   - d14416ef-2283-49ef-9118-d690613d0bc9
 albumMBID: 5b058e40-25e4-4056-9123-e2315304791a
 artistLink: https://chali2nakraftykuts.bandcamp.com/
+reviewType: newRelease
 
 ---
 author: kieran-james

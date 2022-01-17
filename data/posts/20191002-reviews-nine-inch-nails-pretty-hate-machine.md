@@ -35,6 +35,7 @@ blurb: Nine Inch Nails rapidly became renowned for emotive and affecting music. 
 artistMBID: b7ffd2af-418f-4be2-bdd1-22f8b48613da
 albumMBID: fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6
 artistLink: https://store.nin.com/
+reviewType: retrospective
 
 ---
 

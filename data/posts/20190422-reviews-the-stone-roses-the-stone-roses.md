@@ -36,6 +36,7 @@ blurb: A broody, elegant, sometimes transcendent blend of rock and electronic mu
 artistMBID: b5fa29f1-6c22-4321-a488-b5f363b06b06
 albumMBID: 88b86fe0-26f5-3949-817a-8082145e704d
 artistLink: https://stonerosesstore.com/
+reviewType: retrospective
 
 ---
 

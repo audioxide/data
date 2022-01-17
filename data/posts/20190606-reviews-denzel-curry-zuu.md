@@ -30,6 +30,7 @@ blurb: The heated, high-tempered attitude that Curry carried on 2018's TA13OO ha
 artistMBID: 5f95440d-7737-4a36-9bcf-c05337f7129b
 albumMBID: 03961b3f-23aa-4331-91dc-5598a3f3b0e6
 artistLink: https://shop.ultimatedenzelcurry.com/
+reviewType: newRelease
 
 ---
 

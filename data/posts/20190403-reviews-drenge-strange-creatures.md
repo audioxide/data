@@ -33,6 +33,7 @@ blurb: A solid entry into the band's catalogue and certainly worth a listen. As 
 artistMBID: b7f40a7c-0b93-45ad-9ae3-3bf6e28e9dd4
 albumMBID: bc507359-dc61-49cb-9073-456ff9d5be8b
 artistLink: https://drenge.tmstor.es/
+reviewType: newRelease
 
 ---
 

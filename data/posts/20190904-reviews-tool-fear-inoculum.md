@@ -32,6 +32,7 @@ blurb: While we can all appreciate a slow build, a rolling riff, and an expansiv
 artistMBID: 66fc5bf8-daa4-4241-b378-9bc9077939d2
 albumMBID: 76203bd0-466b-4802-a7ca-9b0097a3f862
 artistLink: https://store.toolband.com/
+reviewType: newRelease
 
 ---
 

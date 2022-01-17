@@ -34,6 +34,7 @@ blurb: There is plenty of anger in the album, but it is used constructively. At 
 artistMBID: 07eb40a2-2914-439c-a01d-15a685b84ddf
 albumMBID: 9c02ca99-df9a-3e48-8b7a-fabb599d19a3
 artistLink: https://shop.thespecials.com/
+reviewType: retrospective
 
 ---
 

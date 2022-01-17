@@ -32,6 +32,7 @@ blurb: HEALTH have continued their trend of making exhilarating music, but somet
 artistMBID: 6805e4d5-f550-40fe-b731-05dc8229e74b
 albumMBID: f3f9294f-bc21-4b25-b421-d2486d131f42
 artistLink: https://fashion.youwillloveeachother.com/
+reviewType: newRelease
 
 ---
 

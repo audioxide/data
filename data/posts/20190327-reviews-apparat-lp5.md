@@ -33,6 +33,7 @@ blurb: LP5 seems comfortable not pushing any boundaries. Tracks unravel steadily
 artistMBID: dc3dbfc1-f1f1-49c6-9d7c-425fabf3ae12
 albumMBID: 193f5514-4fad-4f60-b54c-23565213baa2
 artistLink: https://www.merchbar.com/dance-electronic-edm/apparat
+reviewType: newRelease
 
 ---
 

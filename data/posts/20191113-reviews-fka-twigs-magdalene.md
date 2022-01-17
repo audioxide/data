@@ -42,6 +42,7 @@ blurb: For all its instances of greatness and undeniable beauty, MAGDALENE gets 
 artistMBID: 1e4e9db7-5068-4a9c-bdd0-5777e47172c8
 albumMBID: 5d78819e-18b5-4d1a-a286-d816ce868044
 artistLink: https://shop.fkatwi.gs/
+reviewType: newRelease
 
 ---
 

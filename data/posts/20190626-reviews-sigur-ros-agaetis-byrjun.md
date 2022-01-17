@@ -36,6 +36,7 @@ blurb: Layers upon layers of sensuous strings, steady soundscapes, and ghostly v
 artistMBID: f6f2326f-6b25-4170-b89d-e235b25508e8
 albumMBID: 62b427b8-1c52-34e7-b250-da2aa3e44860
 artistLink: https://sigurros.bandcamp.com/
+reviewType: retrospective
 
 ---
 

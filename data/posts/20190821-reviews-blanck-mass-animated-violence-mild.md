@@ -38,6 +38,7 @@ blurb: It’s like Blanck Mass put Marilyn Manson, Nine Inch Nails, Mario, and t
 artistMBID: 0bbc4521-e5ac-4082-aa6c-fabfa606192d
 albumMBID: b10e623f-ef38-478f-902d-e4ee2eaf10dc
 artistLink: https://blanck-mass.tmstor.es/
+reviewType: newRelease
 
 ---
 author: andre-dack

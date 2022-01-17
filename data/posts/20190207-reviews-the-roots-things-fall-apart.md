@@ -33,6 +33,7 @@ blurb: "Things Fall Apart is a fluid, continuous listen: understated to the poin
 artistMBID: 80b3cf5e-18fe-4c59-98c7-e5bb87210710
 albumMBID: 8f341430-85b9-3a66-875f-ed1202868393
 artistLink: https://shop.urbanlegends.com/collections/the-roots
+reviewType: retrospective
 
 ---
 

@@ -32,6 +32,7 @@ blurb: In a time where singer-songwriters are ten a penny, Julia Jacklin has cre
 artistMBID: f95d0f4f-d344-4acd-bec8-cc512b40f629
 albumMBID: 09a69267-c46e-4d68-8381-27517bf3288a
 artistLink: https://juliajacklin.bandcamp.com/
+reviewType: newRelease
 
 ---
 author: andre-dack

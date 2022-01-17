@@ -39,6 +39,7 @@ blurb: Lover isn’t as expansive as Kate Bush or as daring as St. Vincent, but 
 artistMBID: 20244d07-534f-4eff-b4d4-930878889970
 albumMBID: 30e9785b-7b50-4d29-b3d1-96fb55e3397f
 artistLink: https://store.taylorswift.com/
+reviewType: newRelease
 
 ---
 author: andre-dack

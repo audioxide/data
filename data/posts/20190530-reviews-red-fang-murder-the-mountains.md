@@ -33,6 +33,7 @@ blurb: This album is a solid and grounded metal music offering with interesting 
 artistMBID: fb2cc158-0ad2-4dc5-a6b6-b2a1a8e2fe65
 albumMBID: 0e5b7ba3-2f3f-4405-b79a-9fa92478f83d
 artistLink: http://redfang.net/store.html
+reviewType: newRelease
 
 ---
 
