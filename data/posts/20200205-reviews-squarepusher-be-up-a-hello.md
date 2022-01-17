@@ -34,6 +34,7 @@ blurb: This isn't a game changer; instead a proud statement, delivered with fine
 artistMBID: 4d86ad4e-28d8-4e9f-8cf4-735c57060fdc
 albumMBID: 6dc5a5e5-a07b-453e-8423-021dbe199253
 artistLink: https://squarepusher.net/
+reviewType: newRelease
 
 ---
 

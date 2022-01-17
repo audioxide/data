@@ -36,6 +36,7 @@ blurb: An epic poem in LP form, throughout Cohen embraces a brutal honesty that,
 artistMBID: 65314b12-0e08-43fa-ba33-baaa7b874c15
 albumMBID: 964ccc52-2873-3bce-a806-73d71532c539
 artistLink: https://www.leonardcohenshop.com/
+reviewType: retrospective
 
 ---
 author: andre-dack

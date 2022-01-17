@@ -35,6 +35,7 @@ blurb: The early 1970s was a golden era for singer-songwriters, but this stands 
 artistMBID: a6de8ef9-b1a1-4756-97aa-481bbb8a4069
 albumMBID: 42d725fb-a8b7-388c-8866-3b02789af326
 artistLink: https://jonimitchell.com/music/
+reviewType: retrospective
 
 ---
 

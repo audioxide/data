@@ -34,6 +34,7 @@ blurb: The harmonies are wonderful, the instrumentation is charming, and, well, 
 artistMBID: ebfc1398-8d96-47e3-82c3-f782abcdb13d
 albumMBID: fdd96703-7b21-365e-bdea-38029fbeb84e
 artistLink: https://shop.thebeachboys.com
+reviewType: retrospective
 
 ---
 

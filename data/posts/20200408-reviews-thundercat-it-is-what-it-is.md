@@ -28,12 +28,13 @@ colours:
   - "#cc940d"
   - "#cc940d"
 pullquote: A vibe
-summary: Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style, a good time but not terribly eventful.
+summary: Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style; a good time but not terribly eventful.
 week: 228
 blurb: Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style, an uneventful good time.
 artistMBID: 044fd265-79dd-43eb-afc4-8b20becf7e17
 albumMBID: 9ffdc0f1-6683-44f1-9194-a247ecb9b297
 artistLink: https://thundercat.bandcamp.com/
+reviewType: newRelease
 
 ---
 
@@ -62,7 +63,7 @@ score:
 author: frederick-obrien
 
 review: >-
-  *It Is What It Is* is what it is. Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style, a good time but not terribly eventful. That will likely be enough for many listeners – and I certainly don’t begrudge the approach – it just seems a bit anticlimactic.
+  *It Is What It Is* is what it is. Thundercat rides the album like a surfer hanging ten on the world’s smallest, smoothest, slowest wave. It’s drifting with style; a good time but not terribly eventful. That will likely be enough for many listeners – and I certainly don’t begrudge the approach – it just seems a bit anticlimactic.
 
   You can tell on an intellectual level that the arrangements are sophisticated and sexy. The album knows its way around a bassline, and the harmonies are sunlit echoes. (Echoes.) I understand all that, and I hear it… I don’t necessarily feel it. The production is so polished and the grooves are so smooth you’d be forgiven for missing them entirely.
 

@@ -43,6 +43,7 @@ blurb: The album makes for hypnotic listening, bobbling along like a well-manner
 artistMBID: 5700dcd4-c139-4f31-aa3e-6382b9af9032
 albumMBID: 05f467f1-7524-4d9f-8794-81fbb3fef12f
 artistLink: https://www.merchbar.com/dance-electronic-edm/kraftwerk/
+reviewType: retrospective
 
 ---
 

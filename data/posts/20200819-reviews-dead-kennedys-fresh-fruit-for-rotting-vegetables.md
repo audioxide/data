@@ -37,6 +37,7 @@ blurb: Dead Kennedys' iconic debut still boasts some of the most brilliant and u
 artistMBID: 37c78aeb-d196-42b5-b991-6afb4fc9bc2e
 albumMBID: 3495fca0-ce60-3342-93f2-23fd525d8069
 artistLink: https://www.hellomerch.com/collections/dead-kennedys
+reviewType: retrospective
 
 ---
 
