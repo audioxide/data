@@ -32,6 +32,7 @@ blurb: A solid Iggy Pop record, but with a lingering sense of disappointment tha
 artistMBID: f37b3f31-b1f8-4b88-8cb5-b34f709b17d7
 albumMBID: 4277f167-a71e-46bb-a69e-439dcd5a37e2
 artistLink: https://shop.postpopdepression.com/
+reviewType: newRelease
 
 ---
 

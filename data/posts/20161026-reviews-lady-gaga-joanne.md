@@ -34,6 +34,7 @@ blurb: Precious little of what makes Gaga special is on show in Joanne. Outrageo
 artistMBID: 650e7db6-b795-4eb5-a702-5ea2fc46c848
 albumMBID: b3d4aef6-749f-40c1-b8f0-e763bde8cfdc
 artistLink: https://shop.ladygaga.com/
+reviewType: newRelease
 
 ---
 

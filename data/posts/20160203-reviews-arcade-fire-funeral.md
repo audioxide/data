@@ -35,6 +35,7 @@ blurb: Funeral is the beating heart of adolescence, a journey that voices the st
 artistMBID: 52074ba6-e495-4ef3-9bb4-0703888a9f68
 albumMBID: 05affa96-5959-32da-8d75-1c9eb985ca59
 artistLink: https://www.arcadefirestore.com/
+reviewType: retrospective
 
 ---
 

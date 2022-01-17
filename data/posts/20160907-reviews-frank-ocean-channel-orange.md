@@ -33,6 +33,7 @@ blurb: Shifting smoothly from ’90s R&B to psychedelic funk, Channel Orange is 
 artistMBID: e520459c-dff4-491d-a6e4-c97be35e0044
 albumMBID: f8f4167d-897c-4b25-a171-638374d1dfa4
 artistLink: https://blonded.co/
+reviewType: retrospective
 
 ---
 

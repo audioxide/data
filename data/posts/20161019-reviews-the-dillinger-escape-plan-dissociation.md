@@ -38,6 +38,7 @@ blurb: Furious metal rackets trade blows with soft, elegant jazz fusion and stri
 artistMBID: 1bc41dff-5397-4c53-bb50-469d2c277197
 albumMBID: 18c29ff8-b6bc-497e-a362-683978c2cdd2
 artistLink: https://store.relapse.com/b/the-dillinger-escape-plan
+reviewType: newRelease
 
 ---
 

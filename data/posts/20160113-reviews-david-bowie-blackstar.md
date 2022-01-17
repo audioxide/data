@@ -35,6 +35,7 @@ blurb: A portal into the world of remembrances that grief gives birth to... and 
 artistMBID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
 albumMBID: 1fd18f5b-9a92-41fd-a590-da6b5cc60d85
 artistLink: https://store.davidbowie.com/
+reviewType: newRelease
 
 ---
 

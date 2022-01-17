@@ -30,7 +30,8 @@ week: 30
 blurb: A world both wonderful and despairing. Such dainty music will inevitably turn certain audiences away, which is a shame because, frankly, Divers is a triumph.
 artistMBID: cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c
 albumMBID: 099da227-07ea-42fd-b46e-9e1938fe18d3
-artistLink: https://www.dragcity.com/artists/joanna-newsom 
+artistLink: https://www.dragcity.com/artists/joanna-newsom
+reviewType: newRelease
 
 ---
 author: andre-dack

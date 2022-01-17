@@ -39,6 +39,7 @@ blurb: Blond flirts with indulgence but just about manages to stay grounded. Itâ
 artistMBID: e520459c-dff4-491d-a6e4-c97be35e0044
 albumMBID: 0da340a0-6ad7-4fc2-a272-6f94393a7831
 artistLink: https://blonded.co/
+reviewType: newRelease
 
 ---
 author: andre-dack

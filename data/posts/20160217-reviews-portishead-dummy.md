@@ -35,6 +35,8 @@ blurb: Melding orchestral and jazz samples with beats that surge tracks forward,
 artistMBID: 8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11
 albumMBID: 48140466-cff6-3222-bd55-63c27e43190d
 artistLink: https://shop.portishead.co.uk/
+reviewType: retrospective
+
 ---
 
 author: andre-dack

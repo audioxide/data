@@ -31,6 +31,7 @@ blurb: Comprised mostly of dabbles and snippets from the formative months of To 
 artistMBID: 381086ea-f511-4aba-bdf9-71c753dc5077
 albumMBID: 4e44335c-3f2b-4874-a6c3-71b5e65f75d5
 artistLink: https://shop.kendricklamar.com
+reviewType: newRelease
 
 ---
 

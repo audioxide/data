@@ -33,6 +33,7 @@ blurb: The album functions best as a fantastical journey of curious thoughts and
 artistMBID: 1f43d76f-8edf-44f6-aaf1-b65f05ad9402
 albumMBID: 54b1ad4e-7e86-308d-b053-a0843f6abbdb
 artistLink: https://store.flaminglips.com/
+reviewType: retrospective
 
 ---
 

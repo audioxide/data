@@ -32,6 +32,7 @@ blurb: The record warrants a listen for the highlights alone. The problems, such
 artistMBID: ea4dfa26-f633-4da6-a52a-f49ea4897b58
 albumMBID: 400a5fdd-e616-3598-a9bf-
 artistLink: https://store.remhq.com/
+reviewType: retrospective
 
 ---
 

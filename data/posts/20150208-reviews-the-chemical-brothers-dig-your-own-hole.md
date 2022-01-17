@@ -33,6 +33,7 @@ blurb: The Chemical Brothers’ second album is likely to please a number of ele
 artistMBID: 1946a82a-f927-40c2-8235-38d64f50d043
 albumMBID: 69f4aa7f-d760-3890-bd2a-902fb9abe40b
 artistLink: https://merch.thechemicalbrothers.com/
+reviewType: retrospective
 
 ---
 

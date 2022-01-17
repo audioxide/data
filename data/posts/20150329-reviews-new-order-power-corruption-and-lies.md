@@ -33,6 +33,7 @@ blurb: The catchy riffs and toe-tapping beats are there, but that's precisely th
 artistMBID: f1106b17-dcbb-45f6-b938-199ccfab50cc
 albumMBID: 16cc9dfc-594d-3fb9-b789-3e1bfcb6f9f8
 artistLink: https://store.neworder.com/
+reviewType: retrospective
 
 ---
 

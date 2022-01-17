@@ -34,6 +34,7 @@ blurb: One of the most enjoyable pop albums of all time, an iconic work that wil
 artistMBID: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
 albumMBID: 72d15666-99a7-321e-b1f3-a3f8c09dff9f
 artistLink: https://www.thebeatles.com/store/
+reviewType: retrospective
 
 ---
 author: andre-dack

@@ -33,6 +33,7 @@ blurb: The album boasts a lush, colourful sound, drawing from elements of funk a
 artistMBID: 7fb57fba-a6ef-44c2-abab-2fa3bdee607e
 albumMBID: fd817615-3d43-4f07-9509-d0a46b2bc278
 artistLink: https://shop.childishgambino.com/
+reviewType: newRelease
 
 ---
 

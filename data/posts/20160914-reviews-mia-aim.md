@@ -33,6 +33,7 @@ blurb: M.I.A.’s fifth and final album is an unfortunate affair. Comprised of l
 artistMBID: 7cf0ea9d-86b9-4dad-ba9e-2355a64899ea
 albumMBID: c5bf04b5-30ba-43b1-88a1-5395a4fdb430
 artistLink: http://miauniverse.com/
+reviewType: newRelease
 
 ---
 

@@ -36,6 +36,7 @@ blurb: The Dark Side of the Moon is one of those high-water marks of artistic ex
 artistMBID: 83d91898-7763-47d7-b03b-b92132375c47
 albumMBID: f5093c06-23e3-404f-aeaa-40f72885ee3a
 artistLink: https://www.pinkfloyd.com/store.php
+reviewType: retrospective
 
 ---
 

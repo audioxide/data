@@ -33,6 +33,7 @@ blurb: A rather unbalanced comeback that relies too heavily on its somber tone, 
 artistMBID: ba853904-ae25-4ebb-89d6-c44cfbd71bd2
 albumMBID: f8a42780-5eb1-43be-9a3f-4d3b80184300
 artistLink: https://shop.blur.co.uk/
+reviewType: newRelease
 
 ---
 author: andre-dack
