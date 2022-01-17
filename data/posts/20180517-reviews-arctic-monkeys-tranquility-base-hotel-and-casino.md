@@ -37,6 +37,7 @@ blurb: Hushed, husky Turner monologues drift over sophisticated arrangements wit
 artistMBID: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
 albumMBID: 97ee3a0f-183b-4830-aa5c-45507a084d37
 artistLink: https://arcticmonkeys-store.com
+reviewType: newRelease
 
 ---
 author: andre-dack

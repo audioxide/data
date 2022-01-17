@@ -33,6 +33,7 @@ blurb: Tapping into the bohemian sensibilities of the era, Led Zeppelin feel lik
 artistMBID: 678d88b2-87b0-403b-b63d-5da7465aecc3
 albumMBID: 0f18ec88-aa87-38a9-8a65-f03d81763560
 artistLink: https://store.ledzeppelin.com/
+reviewType: retrospective
 
 ---
 

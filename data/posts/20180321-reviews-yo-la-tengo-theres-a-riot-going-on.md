@@ -32,6 +32,7 @@ blurb: Neither immersive nor memorable. Any time the group stumbles onto a passa
 artistMBID: 3f542031-b054-454d-b57b-812fa2a81b11
 albumMBID: 91517369-8453-4727-899e-e0b0abacf624
 artistLink: https://yolatengo.com/forsale/
+reviewType: newRelease
 
 ---
 

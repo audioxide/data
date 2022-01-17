@@ -36,6 +36,7 @@ blurb: A constant stream of static with blunt edges, and the glitches are rarely
 artistMBID: 42faad37-8aaa-42e4-a300-5a7dae79ed24
 albumMBID: d24e94ad-80e2-405d-b20a-8fd6927213dd
 artistLink: https://merch.ambientinks.com/collections/low
+reviewType: newRelease
 
 ---
 

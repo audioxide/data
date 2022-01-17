@@ -34,6 +34,7 @@ blurb: The album is constantly evolving. The rare moments of tranquility take yo
 artistMBID: 69158f97-4c07-4c4e-baf8-4e4ab1ed666e
 albumMBID: 17d74d52-c92b-3b8d-9f87-218ab2d1c4a0
 artistLink: https://bleep.com/artist/78-boards-of-canada
+reviewType: retrospective
 
 ---
 

@@ -32,6 +32,7 @@ blurb: There's nothing mind-blowing here and no pretence that there should be. A
 artistMBID: 55111838-f001-494a-a1b5-9d818db85810
 albumMBID: b061cb70-1d31-4d5f-91cb-378c3a22f9dd
 artistLink: https://courtneybarnett.bandcamp.com/
+reviewType: newRelease
 
 ---
 

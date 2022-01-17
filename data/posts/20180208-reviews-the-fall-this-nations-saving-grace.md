@@ -36,6 +36,7 @@ blurb: There’s a lot to be said for the album’s quirks, but when all is said
 artistMBID: d5da1841-9bc8-4813-9f89-11098090148e
 albumMBID: e163ed54-842b-3114-9e98-a2d376029abd
 artistLink: https://thefall.xyz/emporium
+reviewType: retrospective
 
 ---
 

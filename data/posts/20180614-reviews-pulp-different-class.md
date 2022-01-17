@@ -39,6 +39,7 @@ blurb: Pulp nail the pop/rock formula to near perfection. The themes aren’t ne
 artistMBID: 76b2e842-5e85-4c97-ab62-d5bc315595b5
 albumMBID: 88f69eab-8f07-343b-847c-b944ad33dfcf
 artistLink: https://www.merchbar.com/rock-alternative/pulp
+reviewType: retrospective
 
 ---
 

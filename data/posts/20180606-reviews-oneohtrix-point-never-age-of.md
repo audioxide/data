@@ -33,6 +33,7 @@ blurb: Nothing feels heavy-handed or crass. OPN purposefully avoids the tired tr
 artistMBID: 9cea062d-d476-447f-98b4-e67e14bfd1e4
 albumMBID: a7165142-0c5d-4859-825e-7858a22e2dd2
 artistLink: https://kontraband.shop/collections/point-never
+reviewType: newrelease
 
 ---
 

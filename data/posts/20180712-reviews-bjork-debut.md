@@ -35,6 +35,7 @@ blurb: Björk creates her own identity by combining contrasting into something e
 artistMBID: 87c5dedd-371d-4a53-9f7f-80522fb7f3cb
 albumMBID: 6891a28c-5865-36e2-9e5f-c9fac1d3595f
 artistLink: https://shop.bjork.com/
+reviewType: retrospective
 
 ---
 author: andre-dack

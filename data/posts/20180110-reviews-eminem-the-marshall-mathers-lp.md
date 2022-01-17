@@ -32,6 +32,7 @@ blurb: The Marshall Mathers LP is Eminem’s finest accomplishment, but it’s t
 artistMBID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
 albumMBID: b0fa91c8-0996-38f1-ab84-797f58d7c4eb
 artistLink: https://shop.eminem.com/
+reviewType: retrospective
 
 ---
 
