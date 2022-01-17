@@ -32,6 +32,7 @@ blurb: It lives and breathes like a reincarnation of disco. The melodies are inf
 artistMBID: 860b2707-6153-4e3a-aa57-74d2b42c55b5
 albumMBID: e295b8f2-a86c-49fb-8668-aaba1c9f9e4a
 artistLink: https://shop.justice.church/
+reviewType: newRelease
 
 ---
 

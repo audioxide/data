@@ -30,6 +30,7 @@ blurb: Formulaic songwriting; a complete absence of dynamics; a detachment in st
 artistMBID: 75be165a-ad83-4d12-bd28-f589a15c479f
 albumMBID: 924327d2-b64d-4759-b382-905e6cd417c0
 artistLink: https://majorlazer.merchtable.com/
+reviewType: retrospective
 
 ---
 

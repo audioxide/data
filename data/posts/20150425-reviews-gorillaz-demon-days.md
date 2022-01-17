@@ -35,6 +35,7 @@ blurb: A cartoonish odyssey bristling with creative energy. The whimsy of the ba
 artistMBID: e21857d5-3256-4547-afb3-4b6ded592596
 albumMBID: f959a46a-a136-3134-9412-6572b23fad95 
 artistLink: https://store.gorillaz.com/
+reviewType: retrospective
 
 ---
 

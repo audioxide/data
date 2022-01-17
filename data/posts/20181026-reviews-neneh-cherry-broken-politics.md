@@ -37,6 +37,7 @@ blurb: For every moment of serenity there's a feeling of incompleteness, and the
 artistMBID: 527c65d1-9fdb-4482-8796-dde2980bd63a
 albumMBID: 2fda0cd0-db31-4448-81f6-4979b5192077
 artistLink: https://nenehcherry.bandcamp.com/
+reviewType: newrelease
 
 ---
 

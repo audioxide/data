@@ -35,6 +35,7 @@ blurb: Instinctive, messy, and rambling, with shimmers of the divine. Electric L
 artistMBID: 33b3c323-77c2-417c-a5b4-af7e6a111cc9
 albumMBID: 47ba2d59-5544-34a4-b108-dc08c0956298
 artistLink: https://www.authentichendrix.com/
+reviewType: retrospective
 
 ---
 

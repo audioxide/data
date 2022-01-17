@@ -35,6 +35,7 @@ blurb: Kevin Parker’s latest project has all the hallmarks of what came before
 artistMBID: 63aa26c3-d59b-4da4-84ac-716b54f1ef4d
 albumMBID: c6fc678e-e987-45c5-811c-e2bd09c8b902
 artistLink: https://shoptameimpala.com/
+reviewType: newRelease
 
 ---
 

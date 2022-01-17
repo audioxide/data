@@ -32,6 +32,7 @@ blurb: Artists can and should explore different plains, but Ruins sounds safe ra
 artistMBID: 373faa02-74d7-4b1d-9b47-7574ad510f8d
 albumMBID: 2db65b00-baa9-454d-b4a5-9f9e6f239cd1
 artistLink: https://shop.firstaidkitband.com
+reviewType: newRelease
 
 ---
 

@@ -39,6 +39,7 @@ blurb: Ellie Rowsell’s drift between spoken-word musings and operatic soarings
 artistMBID: 3547f34a-db02-4ab7-b4a0-380e1ef951a9
 albumMBID: 8216c4a1-367e-405e-8d67-9457f6e76c22
 artistLink: https://store.wolfalice.co.uk/
+reviewType: newRelease
 
 ---
 

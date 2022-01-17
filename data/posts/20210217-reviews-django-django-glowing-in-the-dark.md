@@ -40,6 +40,7 @@ blurb: The album dusky psychedelic pop is covered in so much haze that, despite 
 artistMBID: 4bfce038-b1a0-4bc4-abe1-b679ab900f03
 albumMBID: 590b2c0f-1a80-4e6f-9c7e-e5388620620b
 artistLink: https://shop.djangodjango.co.uk
+reviewType: newRelease
 
 ---
 

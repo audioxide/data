@@ -34,6 +34,7 @@ blurb: A capacious sequel that seems confused by its own message. It neither sin
 artistMBID: e795e03d-b5d5-4a5f-834d-162cfb308a2c
 albumMBID: 805f6d35-5841-4339-9ee3-fa6ef9afa890
 artistLink: https://pjharvey.kontraband.store/
+reviewType: newRelease
 
 ---
 

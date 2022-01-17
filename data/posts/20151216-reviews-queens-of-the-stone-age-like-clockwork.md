@@ -34,6 +34,8 @@ blurb: Homme’s quip that rock 'should be heavy enough for the boys and sweet e
 artistMBID: 7dc8f5bd-9d0b-4087-9f73-dc164950bbd8
 albumMBID: c92f73ee-527f-42ed-a556-fd615941e214
 artistLink: https://store.qotsa.com/
+reviewType: retrospective
+
 ---
 
 author: andre-dack

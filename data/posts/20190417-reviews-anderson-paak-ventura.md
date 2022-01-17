@@ -34,6 +34,7 @@ blurb: Ventura is super consistent hip hop experience, but we can’t help but w
 artistMBID: d02dd67e-f655-4600-bc47-f789f59e7367
 albumMBID: 59732510-a2ad-447d-bd8b-9cbdfef39f88
 artistLink: https://shop.andersonpaak.com/
+reviewType: newRelease
 
 ---
 

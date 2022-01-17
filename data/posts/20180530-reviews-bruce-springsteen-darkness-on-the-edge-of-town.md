@@ -35,6 +35,7 @@ blurb: There’s no pretence. Here stands an honest-to-god ‘Murican wailing ab
 artistMBID: 70248960-cb53-4ea4-943a-edb18f7d336f
 albumMBID: b613123b-a234-3f48-9c45-e05bf4e6b9e7
 artistLink: https://brucespringsteenstore.com/
+reviewType: retrospective
 
 ---
 

@@ -37,6 +37,7 @@ blurb: The record is a rich and gloriously grubby collage of sounds. It stands s
 artistMBID: ba0d6274-db14-4ef5-b28d-657ebde1a396
 albumMBID: 4ac82f0b-1532-3734-80d7-5c02265197aa
 artistLink: https://store.smashingpumpkins.com/
+reviewType: retrospective
 
 ---
 

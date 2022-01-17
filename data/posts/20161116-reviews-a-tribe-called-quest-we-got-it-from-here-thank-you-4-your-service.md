@@ -30,7 +30,10 @@ week: 79
 blurb: The record certainly has that classic Tribe vibe, but it lacks the key finishing touches for it to be favourably compared to the material of the early ’90s.
 artistMBID: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
 albumMBID: b445860f-edd9-4160-841c-fccf5533ecbd
+reviewType: newRelease
+
 ---
+
 author: andre-dack
 
 review: >-

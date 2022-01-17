@@ -35,6 +35,7 @@ blurb: Catchy and sterile. The majority of these songs wouldn't feel out of plac
 artistMBID: af37c51c-0790-4a29-b995-456f98a6b8c9
 albumMBID: 1e083685-2e58-40eb-81ef-4163c26e01d6
 artistLink: https://vampireweekend.frocksteady.com/
+reviewType: newRelease
 
 ---
 

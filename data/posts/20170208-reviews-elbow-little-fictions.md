@@ -31,6 +31,7 @@ blurb: Little Fictions is the sound of contentedness. It’s pleasant, it’s ge
 artistMBID: 3cb3928a-526c-4a3d-93c5-53315fa9bde0
 albumMBID: d4bea9d0-1cf1-4cb5-a823-f30e4722de88
 artistLink: https://store.universalmusic.com/elbow/
+reviewType: newRelease
 
 ---
 

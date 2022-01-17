@@ -32,6 +32,7 @@ blurb: A model of casual listening. It bustles along quite happily, from section
 artistMBID: 5c71ea68-9238-4dfc-8519-bd6eff6bc28b
 albumMBID: 09aad2c2-1eba-43b0-a591-d2ce7fdfa8ef
 artistLink: https://jagajazzist.bandcamp.com/
+reviewType: newRelease
 
 ---
 

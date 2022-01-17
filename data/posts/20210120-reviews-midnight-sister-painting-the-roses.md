@@ -40,6 +40,7 @@ blurb: Part dramatic dream, part sun-soaked soliloquy, part love letter to mid-c
 artistMBID: d2523400-656e-4bd2-98c3-5582d2da3a3f
 albumMBID: b52cdcc6-bef1-413d-8a22-b809b0498310
 artistLink: https://midnightsister.bandcamp.com/merch
+reviewType: newRelease
 
 ---
 

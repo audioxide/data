@@ -39,6 +39,7 @@ blurb: Despite extended musical passages and eccentric lyrics, The Sophtware Slu
 artistMBID: 9d4c4835-c71a-4647-a4fc-263e26832cd0
 albumMBID: 1feb6a47-2725-3f26-9762-3dc0ecffe4de
 artistLink: https://grandaddy-us.myshopify.com/
+reviewType: retrospective
 
 ---
 

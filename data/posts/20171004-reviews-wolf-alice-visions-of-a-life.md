@@ -41,6 +41,7 @@ blurb: Visions of a Life is a triumph of contemporary British rock. The riffs ro
 artistMBID: 3547f34a-db02-4ab7-b4a0-380e1ef951a9
 albumMBID: 7f231c61-20b2-49d6-ac66-1cacc4cc775f
 artistLink: https://store.wolfalice.co.uk/
+reviewType: newRelease
 
 ---
 

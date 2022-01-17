@@ -34,7 +34,8 @@ week: 224
 blurb: A distinctive project that showcases exactly what Jay Electronica is all about. With a little help from a friend, of course.
 artistMBID: 8bf283b9-b1e2-4632-a953-eacd212a543e
 albumMBID: e3db4db7-603a-420b-8e7d-112bd4a8f6c9
-artistLink: https://awrittentestimony.com/ 
+artistLink: https://awrittentestimony.com/
+reviewType: newRelease
 
 ---
 author: andre-dack

@@ -32,6 +32,7 @@ blurb: Impressive vocal performances and a hugely gratifying tribal rhythm secti
 artistMBID: 2f0a5dae-f331-485a-b467-b3c9d41f490d
 albumMBID: 323d699e-83b0-4baf-8c2a-49be22ed42fe
 artistLink: https://www.musicglue.com/sexwitch/shop
+reviewType: newRelease
 
 ---
 author: andre-dack

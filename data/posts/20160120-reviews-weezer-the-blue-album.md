@@ -35,6 +35,8 @@ blurb: Weezer were unapologetically weird, yet strangely glamorous, which in its
 artistMBID: 6fe07aa5-fec0-4eca-a456-f29bff451b04
 albumMBID: c7b245c9-8099-32ea-af95-893acedde2cf
 artistLink: https://weezerwebstore.com
+reviewType: retrospective
+
 ---
 
 author: andre-dack

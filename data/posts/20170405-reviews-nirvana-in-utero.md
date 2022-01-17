@@ -33,6 +33,7 @@ blurb: Cobain, Grohl, and Novoselic had an elemental chemistry, and their contro
 artistMBID: 5b11f4ce-a62d-471e-81fc-a69a8278c7da
 albumMBID: 2a0981fb-9593-3019-864b-ce934d97a16e
 artistLink: https://shop.nirvana.com/
+reviewType: retrospective
 
 ---
 

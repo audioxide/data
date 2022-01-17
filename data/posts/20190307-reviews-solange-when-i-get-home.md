@@ -30,6 +30,7 @@ blurb: When I Get Home feels like neither a continuation nor progression from it
 artistMBID: 410e7fd3-b865-4fa0-bb18-1b7fd53382ca
 albumMBID: 3ec17787-1d35-4d05-ac06-5294c99a8d4e
 artistLink: https://solange.blackplanet.com/shop/
+reviewType: newRelease
 
 ---
 

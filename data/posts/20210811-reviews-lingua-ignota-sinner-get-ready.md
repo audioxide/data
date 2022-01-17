@@ -37,6 +37,7 @@ blurb: Uncompromising, and very brutal indeed. Some listeners will struggle to s
 artistMBID: 5d12543f-4b37-4e6f-adb1-0e38f23e04b3
 albumMBID: 68c43ae5-f851-46cb-8edc-a9cacf1125cd
 artistLink: https://linguaignota.net/
+reviewType: newRelease
 
 ---
 

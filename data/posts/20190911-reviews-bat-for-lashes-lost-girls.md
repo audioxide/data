@@ -31,13 +31,14 @@ colours:
   - "#9b1713"
   - "#f8f0ee"
   - "#f8f0ee"
-pullquote: An '80s love letter
-summary: Ultimately, Lost Girls stands firm as a satisfying-yet-unspectacular entry in the Bat for Lashes discography. It's practically impossible not to recommend it to those who share Khan's affection for the '80s.
+pullquote: An ’80s love letter
+summary: Lost Girls stands firm as a satisfying-yet-unspectacular entry in the Bat for Lashes discography. It’s practically impossible not to recommend it to those who share Khan’s affection for the ’80s.
 week: 207
-blurb: A satisfying-yet-unspectacular entry in the Bat for Lashes discography. Heartily recommended to those who share Khan's affection for the '80s.
+blurb: A satisfying-yet-unspectacular entry in the Bat for Lashes discography. Heartily recommended to those who share Khan’s affection for the ’80s.
 artistMBID: 10000730-525f-4ed5-aaa8-92888f060f5f
 albumMBID: 7aadf038-4270-4e1f-820d-f9f367f6dfa9
 artistLink: https://www.batforlashes.com/shop
+reviewType: newRelease
 
 ---
 author: andre-dack

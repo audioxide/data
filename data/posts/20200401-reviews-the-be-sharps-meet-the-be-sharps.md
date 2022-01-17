@@ -35,6 +35,8 @@ week: 226
 blurb: The richest and most melodious harmonisations of four men since John, Mark, Luke, and Matthew collaborated on their bestselling project 2,000 years ago.
 artistMBID: 
 albumMBID:
+reviewType: gag
+
 ---
 author: andre-dack
 

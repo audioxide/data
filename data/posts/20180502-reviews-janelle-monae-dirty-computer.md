@@ -35,6 +35,7 @@ blurb: As enjoyable, sometimes euphoric, as Dirty Computer is, it’s far from p
 artistMBID: ee190f6b-7d98-43ec-b924-da5f8018eca0
 albumMBID: c3b6435c-2698-4909-9879-d80439e180fe
 artistLink: https://store.warnermusic.com/atlantic-records/artists/janelle-monae.html
+reviewType: newRelease
 
 ---
 

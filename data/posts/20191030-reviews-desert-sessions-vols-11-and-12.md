@@ -35,8 +35,10 @@ blurb: The Desert Sessions project has always been a lot of fun. Returning from 
 artistMBID: 7a2e6b55-f149-4e74-be6a-30a1b1a387bb
 albumMBID: f95c7bc2-b502-4bd0-b24f-207c8c61fe19
 artistLink: https://store.qotsa.com/
+reviewType: newRelease
 
 ---
+
 author: andre-dack
 
 review: >-

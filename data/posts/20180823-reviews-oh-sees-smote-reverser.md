@@ -33,6 +33,7 @@ blurb: From its ludicrous track names to its filter-free kitchen sink instrument
 artistMBID: 194272cc-dcc8-4640-a4a6-66da7d250d5c
 albumMBID: b2cb65f0-2e0f-47cb-aff7-0f6793990e45
 artistLink: https://www.castlefacerecords.com/collections/thee-oh-sees
+reviewType: newRelease
 
 ---
 

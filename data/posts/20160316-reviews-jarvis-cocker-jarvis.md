@@ -33,6 +33,7 @@ blurb: This is pop music for the mature listener; easy to consume, enjoyable eno
 artistMBID: 38550441-d437-4aff-867e-e79bf0c04142
 albumMBID: 8f4857ed-2ca3-4931-b5ca-04556ea5160f
 artistLink: https://jarvis-uk.myshopify.com/
+reviewType: retrospective
 
 ---
 

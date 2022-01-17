@@ -33,6 +33,8 @@ blurb: The songwriting is unbelievably good, to the point where it sounds effort
 artistMBID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
 albumMBID: 743b0b2e-a23a-3182-950e-232f8cb0dfb7
 artistLink: https://store.davidbowie.com/
+reviewType: retrospective
+
 ---
 
 author: andre-dack

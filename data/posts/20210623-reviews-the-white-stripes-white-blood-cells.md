@@ -33,6 +33,7 @@ blurb: The record listens like rock music’s answer to an ice-cold six-pack of 
 artistMBID: 11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
 albumMBID: c5a0411f-374e-360d-9364-3ddec3007162
 artistLink: https://www.whitestripes.com/
+reviewType: retrospective
 
 ---
 

@@ -33,6 +33,7 @@ blurb: There is a remarkable confidence to the record that you wouldn’t usuall
 artistMBID: 8a338e06-d182-46f2-bd16-30a09bc840ba
 albumMBID: c7a4740f-2729-3895-8498-08c521886a95
 artistLink: https://store.elviscostello.com
+reviewType: retrospective
 
 ---
 

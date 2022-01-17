@@ -33,6 +33,7 @@ blurb: While there’s little wrong with any of the cuts, the album in its entir
 artistMBID: 756cf672-d4ae-4470-a3af-a43d776a211d
 albumMBID: 95846af2-4189-4049-879b-25af1852bf91
 artistLink: http://saulwilliams.com/store/
+reviewType: newRelease
 
 ---
 

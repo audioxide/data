@@ -36,6 +36,7 @@ blurb: Where others might layer up to obscene degrees, Stott has a knack for fin
 artistMBID: ecf5ab37-019f-4cc1-9fdc-218de6a41b65
 albumMBID: 966c30c1-1ce4-496d-9c84-0fb9f53527aa
 artistLink: https://www.merchbar.com/dance-electronic-edm/andy-stott
+reviewType: newRelease
 
 ---
 author: andre-dack

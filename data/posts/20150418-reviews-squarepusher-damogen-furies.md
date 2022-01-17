@@ -33,6 +33,7 @@ blurb: Squarepusher produces another solid album without pushing any boundaries.
 artistMBID: 4d86ad4e-28d8-4e9f-8cf4-735c57060fdc
 albumMBID: 42e5557d-1c2e-4b1d-8580-7524ef8c3fd4
 artistLink: https://shop.squarepusher.net/
+reviewType: newRelease
 
 ---
 

@@ -33,6 +33,7 @@ blurb: Whether the Beasties are rapping or singing, an infectious adolescent vig
 artistMBID: 9beb62b2-88db-4cea-801e-162cd344ee53
 albumMBID: 96c996ab-2a78-3abd-8974-c96b5724ae28
 artistLink: https://shop.beastieboys.com/
+reviewType: retrospective
 
 ---
 

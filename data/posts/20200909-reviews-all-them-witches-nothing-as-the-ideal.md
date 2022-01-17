@@ -40,6 +40,7 @@ blurb: A sumptuously produced blend of folk, post-rock, and psychedelia, all wit
 artistMBID: b574bfea-2359-4e9d-93f6-71c3c9a2a4f0
 albumMBID: 8188a5e9-c9b1-41ce-b8e4-602f3b7e1ea8
 artistLink: https://allthemwitches.bandcamp.com/
+reviewType: newRelease
 
 ---
 

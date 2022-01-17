@@ -36,6 +36,7 @@ blurb: The whole record has an easiness of manner, content to be the sonic backd
 artistMBID: e07a111e-4e8a-4651-a849-01ac60551ab2
 albumMBID: 2497ecd5-22e0-495b-a35c-cd3079c5b4ff
 artistLink: https://matadorrecords.com/kurt_vile
+reviewType: newRelease
 
 ---
 

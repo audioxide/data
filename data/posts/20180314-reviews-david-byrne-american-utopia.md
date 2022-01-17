@@ -36,6 +36,7 @@ blurb: The record isn’t a masterclass, but there are still enough dashes of ge
 artistMBID: d4659efb-b8eb-4f03-95e9-f69ce35967a9
 albumMBID: 3e7a3cd4-fb2c-40e8-b093-eaffe8c9cfdd
 artistLink: https://davidbyrne.com/shop
+reviewType: newRelease
 
 ---
 

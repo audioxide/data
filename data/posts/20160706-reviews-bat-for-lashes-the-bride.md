@@ -33,6 +33,7 @@ blurb: This was 50 minutes of anti-climax. Interesting instrumentals are peppere
 artistMBID: 10000730-525f-4ed5-aaa8-92888f060f5f
 albumMBID: 299408a0-9846-4234-9d1e-559a5d54f8df
 artistLink: https://www.batforlashes.com/shop
+reviewType: newRelease
 
 ---
 author: andre-dack

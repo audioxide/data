@@ -35,6 +35,7 @@ blurb: This is the first Spiritualized album in six years, so it's bizarre to he
 artistMBID: 65041e06-83d2-4987-ae52-c17a915fc82a
 albumMBID: bd913f09-b4bd-4d2f-a5ad-2c2d01419e23
 artistLink: https://spiritualized.kontraband.store/
+reviewType: newRelease
 
 ---
 

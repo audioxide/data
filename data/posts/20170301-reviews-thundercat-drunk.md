@@ -33,6 +33,7 @@ blurb: Thundercat doesn’t want to exhaust an idea, getting in and out of a son
 artistMBID: 044fd265-79dd-43eb-afc4-8b20becf7e17
 albumMBID: f0c89a63-6cb0-4b5f-9ced-79396b58a191
 artistLink: https://thundercat.bandcamp.com
+reviewType: newRelease
 
 ---
 

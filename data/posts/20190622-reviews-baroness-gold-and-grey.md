@@ -30,6 +30,7 @@ blurb: Gold & Grey strives to be an epic of sorts, with its sprawling tracklist 
 artistMBID: eeb41a1e-4326-4d04-8c47-0f564ceecd68
 albumMBID: 95d5e345-5109-4fe9-9ba9-03a3898f0039
 artistLink: https://baronessmerch.shop.musictoday.com/
+reviewType: newRelease
 
 ---
 

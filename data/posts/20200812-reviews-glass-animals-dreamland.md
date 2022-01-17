@@ -35,6 +35,7 @@ blurb: The album is a nostalgia trip and, unintentionally(?), the longest ‘onl
 artistMBID: 20395131-fbde-43ce-b141-b700cfdae99c
 albumMBID: 1ccd441a-a906-4773-8e72-e4055732a784
 artistLink: https://shop.glassanimals.com/
+reviewType: newRelease
 
 ---
 

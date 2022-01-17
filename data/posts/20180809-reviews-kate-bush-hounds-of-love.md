@@ -39,6 +39,7 @@ blurb: That Bush could create something so deliriously weird and wild yet also b
 artistMBID: 4b585938-f271-45e2-b19a-91c634b5e396
 albumMBID: 017f2a37-a78f-3578-9611-fa40408e5d90
 artistLink: http://www.katebush.com/shop
+reviewType: retrospective
 
 ---
 

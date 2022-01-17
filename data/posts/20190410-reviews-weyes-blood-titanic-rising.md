@@ -37,6 +37,7 @@ blurb: Despite its glistening arrangements and ethereal production, this is a ch
 artistMBID: 469d6414-1f06-43de-80d5-17762d4a356a
 albumMBID: b30447b9-8e32-4e98-a128-9c18d9378e8d
 artistLink: https://weyesblood.kungfustore.com/
+reviewType: newRelease
 
 ---
 

@@ -38,6 +38,7 @@ blurb: Squid take characteristics from krautrock, dub, funk, and jazz to form a 
 artistMBID: 5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45
 albumMBID: 1cda298d-bffd-40e5-b4b7-a5fc35a3e5a1
 artistLink: https://squiduk.bandcamp.com/merch
+reviewType: newRelease
 
 ---
 author: andre-dack

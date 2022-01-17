@@ -35,6 +35,7 @@ blurb: Honey delights in a downtempo sensuality. It finds voice in not being lar
 artistMBID: 5a8e07d5-d932-4484-a7f7-e700793a9c94
 albumMBID: 6f46d5e4-1e46-4480-b120-d04b37145f7f
 artistLink: https://store.robyn.com/
+reviewType: newRelease
 
 ---
 

@@ -33,6 +33,7 @@ blurb: Midnight Marauders’ tracklist is an exhibition of seemingly boundless c
 artistMBID: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
 albumMBID: b445860f-edd9-4160-841c-fccf5533ecbd
 artistLink: https://www.atcqshop.com
+reviewType: retrospective
 
 ---
 

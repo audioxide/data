@@ -36,6 +36,7 @@ blurb: Trent Reznor set a benchmark in the industrial rock genre whilst simultan
 artistMBID: b7ffd2af-418f-4be2-bdd1-22f8b48613da
 albumMBID: 7c4cab8d-dead-3870-b501-93c90fd0a580
 artistLink: https://store.nin.com/
+reviewType: retrospective
 
 ---
 

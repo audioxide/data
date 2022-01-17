@@ -35,6 +35,7 @@ blurb: Under the Midas wing of Brian Eno, Talking Heads juggle African genres wi
 artistMBID: a94a7155-c79d-4409-9fcf-220cb0e4dc3a
 albumMBID: f6b1b900-6108-32f0-abbd-2855af9151eb
 artistLink: https://hifi247.com/talking-heads.html
+reviewType: retrospective
 
 ---
 

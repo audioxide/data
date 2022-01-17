@@ -34,6 +34,7 @@ blurb: There isn't much substance here. The album gives a far clearer impression
 artistMBID: aa62b28e-b6d4-4086-91d4-e5fac1ed56f3
 albumMBID: 64653649-ff78-4bc6-a9c2-eef09a21613d
 artistLink: https://store.royalbloodband.com/
+reviewType: newRelease
 
 ---
 

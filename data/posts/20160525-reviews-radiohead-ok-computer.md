@@ -40,6 +40,7 @@ blurb: To brand this a landmark of the '90s is a disservice to its quality. OK C
 artistMBID: a74b1b7f-71a5-4011-9441-d0b5e4122711
 albumMBID: b1392450-e666-3926-a536-22c65f834433
 artistLink: https://store.wasteheadquarters.com/
+reviewType: retrospective
 
 ---
 

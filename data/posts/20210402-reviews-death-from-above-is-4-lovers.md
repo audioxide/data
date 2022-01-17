@@ -37,6 +37,7 @@ blurb: A rock record produced like a dance record, with endless amounts of satur
 artistMBID: 92dc699f-fcbc-4278-afbe-40b5ad060a55
 albumMBID: 1a44f658-72d1-432d-a3cb-7093a6b71f31
 artistLink: https://www.deathfromabove1979.com/
+reviewType: newRelease
 
 ---
 

@@ -34,6 +34,7 @@ blurb: Uneven, sporadic, and totally erratic; an unfinished version of a potenti
 artistMBID: 164f0d73-1234-4e2c-8743-d77bf2191051
 albumMBID: 8c18657a-6338-490d-a952-897663596b96
 artistLink: https://shop.kanyewest.com
+reviewType: newRelease
 
 ---
 
@@ -44,9 +45,9 @@ review: >-
   
   Kanye West has essentially attempted to sell his undeveloped ideas as substantial concepts, resulting in a complete lack of cohesion. Tracks are often compelling at first, only to then erratically detour onto something else. Though they’re not necessarily the finest cuts here, the great thing about “Feedback”, “Freestyle 4”, and “Facts” is that they allow you to simply listen to and enjoy Kanye’s excellent delivery without needing to pay much attention to the lesser lyrical lines. 
   
-  The best tracks are those that actually offer self-examinations of his humanity, such as “Real Friends” and “No More Parties in LA”, and those that display Kanye’s lunacy just enough to sound delightfully eccentric. It’s unfortunately the other side of his unpredictable narcissism that prevents *TLoP* from being a complete and satisfying album. For every “Real Friends”, there’s a “Waves”; for every “Feedback”, there’s a “30 Hours”; for every short piece of sweet spontaneity, there’s an unnecessary skit of insufferable nonsense. 
+  The best tracks are those that actually offer self-examinations of his humanity, such as “Real Friends” and “No More Parties in LA”, and those that display Kanye’s lunacy just enough to sound delightfully eccentric. It’s unfortunately the other side of his unpredictable narcissism that prevents *TLoP* from being a complete and satisfying album. For every “Real Friends”, there’s a “Waves”; for every “Feedback”, there’s a “30 Hours”; for every short piece of sweet spontaneity, there’s an unnecessary skit of insufferable nonsense.
   
-  Perhaps I’m missing the point, and maybe I’m taking it too seriously, but in my mind *TLoP* is just a heap of hype that leisurely rides the persona of Kanye West to the very maximum. It probably succeeds as entertainment — I’m just yet to be convinced that it’s genuinely a good record. Despite its enjoyable moments, of which there is a sizable amount, *TLoP* stands as Kanye’s most disappointing, laziest effort yet.
+  Perhaps I’m missing the point, and maybe I’m taking it too seriously, but in my mind *TLoP* is just a heap of hype that leisurely rides the persona of Kanye West to the very maximum. It probably succeeds as entertainment — I’m just yet to be convinced that it’s genuinely a good record. Despite its enjoyable moments, of which there is a sizable amount, *TLoP* stands as Kanye’s most disappointing, laziest effort yet.
 
 tracks:
   - Real Friends
@@ -80,9 +81,9 @@ tracks:
   - ­I Love Kanye
 
 score:
-  score: 30
+  score: 7
   max: 10
-  fraction: 3
+  fraction: 0.7
 
 ---
 

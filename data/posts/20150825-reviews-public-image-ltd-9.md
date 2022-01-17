@@ -30,6 +30,7 @@ blurb: It isn’t a classic, it isn’t conventional, it’s oftentimes a bit da
 artistMBID: 68950696-ee9a-49b2-a8c2-d1d6c19355cc
 albumMBID: 8b6dd34a-91fd-3b57-bc6d-cc660d176edb
 artistLink: https://store.universalmusic.com/PiL/
+reviewType: retrospective
 
 ---
 

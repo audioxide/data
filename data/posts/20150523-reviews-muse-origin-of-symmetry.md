@@ -34,6 +34,7 @@ blurb: There are few better highs than Muse in top gear. It’s breathless, expl
 artistMBID: 9c9f1380-2516-4fc9-a3e6-f9f61941d090
 albumMBID: ef03fe86-b54c-3667-8768-029833e7e1cd
 artistLink: https://store.muse.mu/
+reviewType: retrospective
 
 ---
 

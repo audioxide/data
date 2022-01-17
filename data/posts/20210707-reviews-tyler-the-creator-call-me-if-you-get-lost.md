@@ -35,6 +35,8 @@ blurb: The record transcends hip-hop, a buttery fusion of rap, soul, synth-pop, 
 artistMBID: f6beac20-5dfe-4d1f-ae02-0b0a740aafd6
 albumMBID: c65de046-7a48-4269-b4e5-4db0ed328f47
 artistLink: https://golfwang.com/
+reviewType: newRelease
+
 ---
 
 author: andre-dack

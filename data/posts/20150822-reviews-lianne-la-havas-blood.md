@@ -34,6 +34,7 @@ blurb: For all the merits of Lianne La Havas’s thoroughly lovely and dynamic v
 artistMBID: 680466d6-f05b-44f6-858d-625d1b5087f6
 albumMBID: b6aa9a85-6dbd-42a2-8314-62e3070299d0
 artistLink: https://www.liannelahavas.com/merch/
+reviewType: newRelease
 
 ---
 

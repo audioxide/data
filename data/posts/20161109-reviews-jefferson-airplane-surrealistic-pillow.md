@@ -35,6 +35,7 @@ blurb: A staple of the psychedelic folk-rock genre, feeling as fresh and vibrant
 artistMBID: 39c2a93d-9afa-4a22-9bba-c087ab056e1c
 albumMBID: e6440cd2-5e8e-367d-bc49-cc042b5ef524
 artistLink: https://jeffersonairplane.shop.musictoday.com
+reviewType: retrospective
 
 ---
 

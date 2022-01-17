@@ -35,6 +35,7 @@ blurb: From brotherly estrangement to Fabergéal financial ruin to dental calami
 artistMBID: ""
 albumMBID: ""
 artistLink: https://sonnyrollins.com/
+reviewType: gag
 
 ---
 

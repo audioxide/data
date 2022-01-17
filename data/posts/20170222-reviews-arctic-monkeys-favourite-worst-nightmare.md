@@ -34,6 +34,7 @@ blurb: Riffs in giant proportions, subtleties hidden between the pedal switches,
 artistMBID: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
 albumMBID: f113fa38-7908-3ec9-8145-d2455e78a8b2
 artistLink: https://arcticmonkeys-store.com
+reviewType: retrospective
 
 ---
 author: andre-dack

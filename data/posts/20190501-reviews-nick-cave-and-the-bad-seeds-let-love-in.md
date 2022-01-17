@@ -32,6 +32,7 @@ blurb: The arrangements are expansive and diverse, with coarse guitars blending 
 artistMBID: 172e1f1a-504d-4488-b053-6344ba63e6d0
 albumMBID: f369d4bf-71f1-31f5-9e01-ffdbf15acdbe
 artistLink: https://store.nickcave.com/
+reviewType: retrospective
 
 ---
 

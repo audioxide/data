@@ -33,6 +33,7 @@ blurb: An audacious project, FM! sounds like a cartoonish snippet of overblown C
 artistMBID: 78e854b8-9713-4ff2-9218-6b3784893bff
 albumMBID: b211b91a-a7ec-42f8-ae46-2618e774ab18
 artistLink: https://shop.thevincestaplesshow.com/
+reviewType: newRelease
 
 ---
 

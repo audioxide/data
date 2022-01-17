@@ -31,6 +31,7 @@ blurb: For an album that clocks in well over the hour mark, it’s regrettably u
 artistMBID: 8dc08b1f-e393-4f85-a5dd-300f7693a8b8
 albumMBID: bd166f52-cc11-4554-8045-ada94e6b2911
 artistLink: https://shop.jamesblakemusic.com/
+reviewType: newRelease
 
 ---
 

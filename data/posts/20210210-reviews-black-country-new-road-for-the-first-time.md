@@ -43,6 +43,7 @@ blurb: A blend of teenage angst and a primordial, animalistic sense of something
 artistMBID: e9403d9c-329b-4108-a26f-564159d441d9
 albumMBID: 968b13bb-026b-410e-831e-a7bb7418ea60
 artistLink: https://blackcountrynewroad.bandcamp.com/merch
+reviewType: newRelease
 
 ---
 

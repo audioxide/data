@@ -34,6 +34,7 @@ blurb: Never does the record come off as grandiose or self-important; it’s jus
 artistMBID: 188711ed-c99b-439c-844a-ca831f63a727
 albumMBID: ec84ab32-eb41-3d91-a099-7a01c72f21d2
 artistLink: https://gasdrawls.com/
+reviewType: retrospective
 
 ---
 

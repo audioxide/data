@@ -30,6 +30,7 @@ blurb: True to its reggae roots, Based on a True Story's mood is consistently me
 artistMBID: d451395a-f768-432e-bb70-d38c32baf4cb
 albumMBID: a90009fd-94d1-37f7-aa0a-8c59c0ad1f60
 artistLink: https://shop.fatfreddysdrop.com/
+reviewType: retrospective
 
 ---
 

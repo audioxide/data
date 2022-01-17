@@ -34,6 +34,7 @@ blurb: Relentless and unpredictable, the album's like the spawn of a Satanic rit
 artistMBID: 84ca8fa4-7cca-4948-a90a-cb44db29853d
 albumMBID: 8e5a1df1-2cb8-4a7e-985c-f78919c2c9b2
 artistLink: http://www.clppng.com/merch
+reviewType: newRelease
 
 ---
 

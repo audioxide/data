@@ -37,6 +37,7 @@ blurb: Psyence Fiction attempts to be the sonic equivalent of the visual cinema 
 artistMBID: 6648391e-7890-4f6c-b939-976f215195d3
 albumMBID: 17027712-7707-3791-ab65-5320e5ebe501
 artistLink: https://store.unkle.info/
+reviewType: retrospective
 
 ---
 

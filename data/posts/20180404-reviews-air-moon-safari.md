@@ -33,6 +33,7 @@ blurb: Air combined chillout aesthetic with downtempo percussion, adding the pop
 artistMBID: cb67438a-7f50-4f2b-a6f1-2bb2729fd538
 albumMBID: b0bf2b77-b8cf-32f6-8893-9741d757b400
 artistLink: https://itunes.apple.com/artist/id5641488
+reviewType: retrospective
 
 ---
 

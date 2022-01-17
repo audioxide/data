@@ -38,7 +38,8 @@ week: 240
 blurb: Parachutes is nice-feeling music written by nice-seeming blokes. As is the case with all things Coldplay, it’s easy to mock, but it’s easy to like as well.
 artistMBID: cc197bad-dc9c-440d-a5b5-d52ba2e14234
 albumMBID: 1dc4c347-a1db-32aa-b14f-bc9cc507b843
-artistLink: https://shop.coldplay.com/ 
+artistLink: https://shop.coldplay.com/
+reviewType: retrospective
 
 ---
 

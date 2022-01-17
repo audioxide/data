@@ -35,6 +35,7 @@ blurb: Blake’s vocals are, predictably, beautiful; Blake’s production is, pr
 artistMBID: 8dc08b1f-e393-4f85-a5dd-300f7693a8b8
 albumMBID: dddf4559-2271-4fb7-90ba-8ae7b4a61af3
 artistLink: https://jamesblake.store/
+reviewType: newRelease
 
 ---
 

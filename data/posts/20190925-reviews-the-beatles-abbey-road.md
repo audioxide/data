@@ -33,8 +33,10 @@ blurb: The last word of a band with nothing left to prove, and it sounds like it
 artistMBID: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
 albumMBID: 9162580e-5df4-32de-80cc-f45a8d8a9b1d
 artistLink: https://www.thebeatles.com/store/
+reviewType: retrospective
 
 ---
+
 author: gabriel-sutton
 
 review: >-

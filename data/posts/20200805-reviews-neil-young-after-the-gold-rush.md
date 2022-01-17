@@ -39,6 +39,7 @@ blurb: Along with a supremely confident and symbiotic backing band, Neil Young i
 artistMBID: 75167b8b-44e4-407b-9d35-effe87b223cf
 albumMBID: b6a3952b-9977-351c-a80a-73e023143858
 artistLink: https://neilyoung.warnerrecords.com/
+reviewType: retrospective
 
 ---
 

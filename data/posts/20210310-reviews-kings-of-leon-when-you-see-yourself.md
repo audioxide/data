@@ -35,6 +35,7 @@ blurb: An album caught in no-man’s land, its dozy stadium rock tunes neither 
 artistMBID: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
 albumMBID: 4486d356-5ad2-43ec-b9f0-c571eafde4f3
 artistLink: https://kingsofleonshop.com/
+reviewType: newRelease
 
 ---
 author: gabriel-sutton

@@ -41,6 +41,7 @@ blurb: Annie Clark wrangles a myriad of vintage sounds and gives them a stunning
 artistMBID: 5334edc0-5faf-4ca5-b1df-000de3e1f752
 albumMBID: 077c9bf8-8958-4e03-b200-addec6b5eafc
 artistLink: https://ilovestvincent.com/
+reviewType: newRelease
 
 ---
 author: andre-dack

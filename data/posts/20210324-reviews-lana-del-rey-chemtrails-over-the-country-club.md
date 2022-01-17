@@ -35,6 +35,7 @@ blurb: Vintage Del Rey (in both senses of the word), though the curious thing ab
 artistMBID: b7539c32-53e7-4908-bda3-81449c367da6
 albumMBID: b76289b0-605e-495e-b9f4-80437b70c94e
 artistLink: https://lanadelreystore.com/
+reviewType: newRelease
 
 ---
 

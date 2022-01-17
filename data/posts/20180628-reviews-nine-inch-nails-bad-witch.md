@@ -35,6 +35,7 @@ blurb: This is most downright exciting NIN album in quite some time. This is a g
 artistMBID: b7ffd2af-418f-4be2-bdd1-22f8b48613da
 albumMBID: a63e5fa6-d6ad-47bd-986d-4a27b0c9de70
 artistLink: https://store.nin.com/
+reviewType: newRelease
 
 ---
 author: andre-dack
