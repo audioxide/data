@@ -33,6 +33,7 @@ blurb: The album’s craft is a pleasure to experience, luring one's attention r
 artistMBID: f6beac20-5dfe-4d1f-ae02-0b0a740aafd6
 albumMBID: e248e931-c26c-4c94-aba2-2f89ce583901
 artistLink: https://golfwang.com/
+reviewType: newRelease
 
 ---
 

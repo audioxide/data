@@ -31,6 +31,7 @@ blurb: There’s a mindlessness to the instrumentation, lyricism, and vocals tha
 artistMBID: d6ed7887-a401-47a8-893c-34b967444d26
 albumMBID: 7de1e321-4a53-3feb-b83e-f1dab88bf952
 artistLink: https://www.merchbar.com/rock-alternative/ramones
+reviewType: retrospective
 
 ---
 

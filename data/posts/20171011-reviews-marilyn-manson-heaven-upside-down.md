@@ -33,6 +33,7 @@ blurb: You should come out of a Marilyn Manson record wanting your stomach pumpe
 artistMBID: 5dfdca28-9ddc-4853-933c-8bc97d87beec
 albumMBID: 7000fa0a-81eb-4238-af55-916e774b03a2
 artistLink: https://www.marilynmanson.com/
+reviewType: newRelease
 
 ---
 

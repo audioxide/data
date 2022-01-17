@@ -33,6 +33,7 @@ blurb: Music written by a composer of Ellis Ludwig-Leone's class should never fe
 artistMBID: 1213b8e7-79f0-4cc2-a12a-81448aaf3429
 albumMBID: 58821ade-2219-4502-b362-6ec0b4b00d67
 artistLink: https://sanferminband.square.site/
+reviewType: newRelease
 
 ---
 

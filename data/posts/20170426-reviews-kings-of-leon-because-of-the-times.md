@@ -33,6 +33,7 @@ blurb: Because of the Times is laudable record with a plethora of well written t
 artistMBID: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
 albumMBID: 20de4fa6-4cf7-31c1-b8f2-d5c46b754d07
 artistLink: https://store.digitalstores.co.uk/kingsofleon/
+reviewType: retrospective
 
 ---
 

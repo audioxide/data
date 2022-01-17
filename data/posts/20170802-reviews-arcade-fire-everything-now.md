@@ -32,6 +32,7 @@ blurb: It’s hard to believe everyone involved in Everything Now was on the sam
 artistMBID: 52074ba6-e495-4ef3-9bb4-0703888a9f68
 albumMBID: 7a2b865d-0e23-45de-bf08-f0fcbd364883
 artistLink: https://www.arcadefirestore.com/
+reviewType: newRelease
 
 ---
 

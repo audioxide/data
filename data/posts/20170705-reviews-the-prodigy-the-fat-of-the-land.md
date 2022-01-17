@@ -34,6 +34,7 @@ blurb: "What The Fat of the Land lacks in diversity, it makes up for in consiste
 artistMBID: 4a4ee089-93b1-4470-af9a-6ff575d32704
 albumMBID: ac9138ce-6331-3f8d-86d7-69f13e4ab4f4
 artistLink: https://theprodigy.tmstor.es
+reviewType: retrospective
 
 ---
 

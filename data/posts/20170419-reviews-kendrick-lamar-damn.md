@@ -32,6 +32,7 @@ blurb: Kendrick explores a multitude of personal predicaments, but it's difficul
 artistMBID: 381086ea-f511-4aba-bdf9-71c753dc5077
 albumMBID: b88655ba-7469-48b8-a296-b9011ab73ef3
 artistLink: https://shop.kendricklamar.com/
+reviewType: newRelease
 
 ---
 

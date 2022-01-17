@@ -39,6 +39,7 @@ blurb: An ambitious, splintered record. Glammy schizoid pop rubs shoulders with 
 artistMBID: 5334edc0-5faf-4ca5-b1df-000de3e1f752
 albumMBID: 53dd291e-372f-4f76-844b-1b5b42df6832
 artistLink: https://store.ilovestvincent.com/
+reviewType: newRelease
 
 ---
 

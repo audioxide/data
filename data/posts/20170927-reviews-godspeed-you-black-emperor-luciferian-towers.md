@@ -31,6 +31,7 @@ blurb: Luciferian Towers’ rolls through sonic aesthetics lifted from Scottish 
 artistMBID: 3648db01-b29d-4ab9-835c-83f6a5068fe4
 albumMBID: bd835044-cd62-4f30-8447-438232763075
 artistLink: http://cstrecords.com/artist/godspeed-you-black-emperor/
+reviewType: newRelease
 
 ---
 

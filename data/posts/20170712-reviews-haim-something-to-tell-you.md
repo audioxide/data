@@ -35,6 +35,7 @@ blurb: An album of inoffensive and enjoyable pop music. With strong instrumental
 artistMBID: aef06569-098f-4218-a577-b413944d9493
 albumMBID: 6e666e4f-5f7e-42cb-8989-c7b9aa12f470
 artistLink: https://shop.haimtheband.com/
+reviewType: newRelease
 
 ---
 
