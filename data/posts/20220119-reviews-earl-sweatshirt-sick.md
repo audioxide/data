@@ -36,11 +36,18 @@ reviewType: newRelease
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  _SICK!_ is the type of album only Earl Sweatshirt could release, which is a delight in itself. Lo-fi, jazzy beats skitter alongside Earl’s nonchalant poetry for 24 minutes and before you know it, the record is finished. Aside from the interlude “Lobby”, I dare say a single second is wasted. No gimmicks. Just densely layered hip-hop that carries the usual level of anxiety you’d come to expect. Well, maybe a little less than usual.
+
+
+  Earl’s flow is still the closest thing we have to MF DOOM, and it remains a sheer pleasure to listen to his miserable murmuring. That’s genuinely not sarcastic. The way Earl creates his music does make you wonder whether hip-hop has been stuck in the mud for a while, with much of it recycling the same traits and trademarks from years ago. In this sense, _SICK!_ feels like anti-rap. Entertaining and vitalising.
+
+
+  Though I enjoy and appreciate _SICK!_, I don’t love it. At least not yet. With the record basically shunning any idea of a hook or chorus, there’s not a whole lot to hold on to. This is much of what makes Earl the fascinating and alluring artist he is. These songs are sharp and direct; like pure, unfiltered journal entries. Ultimately, Earl is still trying to make sense of the world, which is something I’m sure many of us can connect with.
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
+  - Vision
+  - "2010"
+  - Old Friend
 score:
   score: 7
   max: 10
