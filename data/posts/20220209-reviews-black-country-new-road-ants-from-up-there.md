@@ -1,6 +1,6 @@
 ---
 created: 2022-02-09T12:00:00.000Z                            
-modifed: 2022-02-09T12:00:00.000Z                           
+modifed: 2022-03-04T12:00:00.000Z                           
 slug: black-country-new-road-ants-from-up-there                                
 type: reviews                                                
 tags:                                                        
@@ -13,7 +13,8 @@ tags:
 featuredimage: album-artwork/ants-from-up-there-black-country-new-road.jpg
 artist: Black Country, New Road
 album: Ants from Up There
-essentialtracks: "Good Will Hunting"
+essentialtracks:
+  - Good Will Hunting
 favouritetracks:                                            
   - Snow Globes
   - Bread Song
