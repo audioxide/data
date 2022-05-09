@@ -1,35 +1,37 @@
 ---
-created: 2022-05-11T12:00:00.000Z                            
-modified: 2022-05-11T12:00:00.000Z                           
-slug: bill-withers-still-bill                                
+created: 2022-05-11T12:00:00.000Z
+modified: 2022-05-11T12:00:00.000Z
+slug: bill-withers-still-bill
 type: reviews                                                
 tags:                                                        
   - 1970s                                                    
   - soul
   - bill withers
-featuredimage: album-artwork/still-bill-bill-withers.jpg           
+featuredimage: album-artwork/still-bill-bill-withers.jpg
+artworkCredit: was designed by someone, somewhere
+artworkCreditSource: https://acme.com
 artist: Bill Withers
 album: Still Bill
-essentialtracks:                                             
-  - Acme Track
-  - Acme Track
+essentialtracks: ""
 favouritetracks:                                            
-  - Acme Track
+  - TBD
+  - TBD
+  - TBD
 totalscore:                                                  
-  given: 22                                                  
+  given: 25                                           
   possible: 30
-  fraction: 0.7333333333333333
+  fraction: 0.8333333333333333
 colours:
-  - "#000000"P
+  - "#000000"
   - "#ffffff"
   - "#ffffff"
-pullquote: Lorem ipsum dolor                                 
-summary: Lorem ipsum dolor                                   
+pullquote: TBD
+summary: TBD
 week: 288
-blurb: Lorem ipsum dolor                                    
+blurb: TBD                                     
 artistMBID: fd1a2d9d-9bb6-44de-83a3-41560658aba9
 albumMBID: 63544e97-de86-3096-8702-250590ae5f90
-artistLink: https://www.artistwebsite.com/shop/
+artistLink: https://billwithers.com/
 reviewType: retrospective
 
 ---
@@ -37,48 +39,51 @@ reviewType: retrospective
 author: andre-dack
 
 review: >-
- Lorum ipsum dolor
+ Text
 
-tracks:                                                      
-  - Track 1
-  - Track 7
-  - Track 2
 
-score:                                                       
-  score: 7                                                   
+tracks:
+  - TBD
+  - TBD
+  - TBD
+
+score:
+  score: 8
   max: 10
-  fraction: 0.7
+  fraction: 0.8
 
 ---
 
 author: frederick-obrien
 
 review: >-
-  Lorem ipsum dolor
+ Text
+
 
 tracks:
-  - Track 3
-  - Track 6
-  - Track 5
+  - TBD
+  - TBD
+  - TBD
 
 score:
-  score: 8
+  score: 7
   max: 10
-  fraction: 0.8
+  fraction: 0.7
 
 ---
 
 author: andrew-bridge
 
 review: >-
-  Lorem ipsum dolor
+ Text
 
 tracks:
-  - Track 7
-  - Track 4
-  - Track 3
+  - TBD
+  - TBD
+  - TBD
 
 score:
-  score: 8
+  score: 10
   max: 10
-  fraction: 0.8
+  fraction: 1
+  
