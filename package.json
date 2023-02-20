@@ -12,10 +12,12 @@
   "private": false,
   "scripts": {
     "build": "processAudioxideData",
-    "dev": "yarn && processAudioxideData && npx http-server dist -p 8888 --cors -c-1"
+    "dev": "yarn && processAudioxideData && npx http-server dist -p 8888 --cors -c-1",
+    "process-images": "processAudioxideImages",
+    "upload-images": "processAudioxideUploadImages"
   },
   "dependencies": {
-    "@audioxide/data-processor": "^0.14.1",
+    "@audioxide/data-processor": "^0.15.17",
     "@babel/core": "^7.12.10",
     "flexsearch": "^0.6.32",
     "node-fetch": "^2.6.1"
