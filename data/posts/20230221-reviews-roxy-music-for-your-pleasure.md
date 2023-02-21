@@ -64,7 +64,7 @@ review: >-
 
   I had a swell time with _For Your Pleasure_. Bryan Ferry is a charismatic yet off-kilter frontman - think [David Bowie](/reviews/david-bowie-low) meets Patrick Bateman - and those qualities are shared by the rest of the band. Whether it’s high octane tracks like “Do the Strand” or gentler ones like “In Every Dream Home a Heartache”, there is plenty of flare, but restraint too. It’s glam rock with a wink and a smile, and the results are often joyous.
 
-  The record doesn’t have the same staying power as much of the music it likely inspired, but I’m not sure that’s a mark against it. When something is so cheerfully colourful and jumbled the best thing you can do is put your pretensions aside and enjoy the company. (Especially when it comes with the mental image of [Brian Eno](/reviews/brian-eno-music-for-airports) chained to a synth organ scowling.)
+  The record doesn’t have the same staying power as much of the music it likely inspired, but I’m not sure that’s a mark against it. When something is so cheerfully colourful and jumbled the best thing you can do is put your pretensions aside and enjoy the company. (Especially when it comes with the mental image of [Brian Eno](/reviews/brian-eno-ambient-1-music-for-airports) chained to a synth organ scowling.)
 
 tracks:
   - Do the Strand
