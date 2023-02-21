@@ -28,7 +28,7 @@ colours:
   - "#cbdddf"
 pullquote: Every inch a spectacle                                 
 summary: I wondered how BC, NR would follow up such a creatively charged debut record, and whilst it's not necessarily as ambitious as some had hoped it may be, Ants from Up There has certainly delivered the goods
-week: 287
+week: 285
 blurb: There is so much going on, and the ambitions shown are so bold and brilliant, that you can’t help but root for the record even when it’s falling a little short.                                     
 artistMBID: e9403d9c-329b-4108-a26f-564159d441d9
 albumMBID: d622ed70-ccc3-4658-8a0a-b7a2d577c28d
