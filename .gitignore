@@ -2,6 +2,7 @@ node_modules
 .DS_Store
 dist
 .idea
+.parcel-cache
 
 # Local Netlify folder
 .netlify
