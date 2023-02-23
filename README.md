@@ -2,6 +2,12 @@
 
 This repository stores the data for the Audioxide API.
 
+## on first install, copy the example .env file and cache the API routes
+
+```
+$ yarn setup-env
+```
+
 ## Layout
 
 ### Data
@@ -142,7 +148,7 @@ to be used in content
 ### Non-data files
 
 - `netlify.toml`
-    - The product of this repository is hosted by Netlify. We use their configuration file format to provide data access only to websites on the audioxide.com domain or subdomains.
+  - The product of this repository is hosted by Netlify. We use their configuration file format to provide data access only to websites on the audioxide.com domain or subdomains.
 
 ## License
 

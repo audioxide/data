@@ -2,10 +2,9 @@
 # yarn lockfile v1
 
 
-"@audioxide/data-processor@^0.13.0":
-  version "0.13.0"
-  resolved "https://npm.pkg.github.com/download/@audioxide/data-processor/0.13.0/52d580e7855ba2cd8cd4442f9ceedb1284a7552ff905c12a8897226f18950c3b#342e2e98a2dae237b6cd4097bef92c09def41451"
-  integrity sha512-bR28a717KnluVXuLXCgqzH3jZ+ljFr5/FFccE5LCNRS1Z6HmUMb6eyghvk1WlhZVaCvfGDDXNklwkhiJJUAjHg==
+"@audioxide/data-processor@https://github.com/audioxide/data-processor.git":
+  version "0.14.1"
+  resolved "https://github.com/audioxide/data-processor.git#19dd98edb19521d3986452cad22ad876f0fe9945"
   dependencies:
     "@parcel/transformer-svgo" "^2.0.0-nightly.1739"
     flexsearch "^0.6.32"

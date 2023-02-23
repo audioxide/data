@@ -11,11 +11,12 @@
   "license": "CC-BY-NC-ND-4.0",
   "private": false,
   "scripts": {
+    "setup-env": "cp .env.example .env",
     "build": "processAudioxideData",
     "dev": "yarn && processAudioxideData && npx http-server dist -p 8888 --cors -c-1"
   },
   "dependencies": {
-    "@audioxide/data-processor": "^0.14.1",
+    "@audioxide/data-processor": "https://github.com/audioxide/data-processor.git",
     "@babel/core": "^7.12.10",
     "flexsearch": "^0.6.32",
     "node-fetch": "^2.6.1"
