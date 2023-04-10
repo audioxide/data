@@ -23,7 +23,7 @@ totalscore:
   possible: 30
   fraction: 0.5333333333333333
 colours:
-  - "#fa9c76"
+  - "#713C99"
   - "#e8e8e8"
   - "#e8e8e8"
 pullquote: Grubby and monotonous
