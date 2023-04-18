@@ -42,4 +42,4 @@ All the poets he’d plagiarised over the years must have been writing about mom
 
 He glanced around to make sure the room really was empty (you could never be sure with Laina Gould) then leaned forward and kissed the mirror, tongue and all. 
 
-<center><strong>← <a href="funnyfarm/vii/">Previous</a></strong></p></center>
+<center><p><strong>← <a href="funnyfarm/vii/">Previous</a> // <a href="funnyfarm/ix/">Next</a> →</strong></p></center>

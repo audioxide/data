@@ -53,7 +53,7 @@ Gould laughed. ‘A little impetus never hurt anyone.’ She hooked her arm in W
 
 ‘A true bard.’
 
-They turned into the green room - a windowless box dominated by a sofa that looked and smelled like it had been dragged out of a canal. This mattered little to Bas and Ray O. Sunshine, who had sunk gratefully into its potent cushions and were staring unblinking at the the ceiling and the wall respectively. Theo Stone sat in the corner nursing a cup of herbal tea and reading a novel.
+They turned into the green room - a windowless box dominated by a sofa that looked and smelled like it had been dragged out of a canal. This mattered little to Bas and Ray Sunshine, who had sunk gratefully into its cushions and were staring unblinking at the the ceiling and the wall respectively. Theo Stone sat in the corner nursing a cup of herbal tea and reading a novel.
 
 ‘I’ll find Alan,’ Waltz said, and left. Gould went over to Stone, who didn’t look up.
 
@@ -75,7 +75,7 @@ Stone licked a forefinger and turned the page.
 
 ‘Yep.’
 
-Stone went back a page. The venue owner stuck his head around the door.
+Stone frowned and turned back a page. The venue owner stuck his head around the door.
 
 ‘Five minutes, Laina,’ he said. ‘Good turnout for something so short notice. The place is buzzing.’
 
@@ -109,6 +109,6 @@ Otto’s head appeared again.
 > The hottest act this side of Crickle Farm proved itself to be no one-off fluke last night, sending the Neon Duck crowd into a kind of mass scream therapy session.
 > Frontman Alan Hazard’s wordplay took listeners to another plane of existence. It was not an altogether pleasant plane, but otherly all the same. This reporter is comfortable saying Hazard’s words spoke to universal, ageless truths of the soul.
 > The rest of the Band with No Name were transcendent. Lead guitarist Ray O. Sunshine wept at his own solos almost as much as those in the audience. Drummer Theo Stone tapped into the pulse of the cosmos. Angels wished they played their harps half as well as rhythm guitarist Bas plays his Fender knockoff.
-> It was a gig for the ages. Before the final note had faded the band were gone.
+> It was a gig for the ages. Before the final note had faded, the band was gone.
 
-<center><p><strong>← <a href="funnyfarm/viii/">Previous</a></p></center>
+<center><p><strong>← <a href="funnyfarm/viii/">Previous</a> // <a href="funnyfarm/x/">Next</a> →</strong></p></center>
