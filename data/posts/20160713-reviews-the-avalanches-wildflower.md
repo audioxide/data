@@ -1,6 +1,6 @@
 ---
 created: 2016-07-13T16:08:28.000Z
-modified: 2018-03-10T19:13:28.000Z
+modified: 2021-12-12T10:11:28.000Z
 slug: the-avalanches-wildflower
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - disco
   - mf doom
 featuredimage: album-artwork/wildflower-the-avalanches.jpg
+artworkCredit: was designed by Australian artist Chris Hopkins. The band contacted Hopkins a decade before the album was released, and the concept evolved over the years alongside the album. ‘There are versions and versions and versions of the album cover and the animations that are not like the final one,’ Hopkins said, ‘with different music and different visuals — but they just weren’t right.’
+artworkCreditSource: https://eyeondesign.aiga.org/designer-chris-hopkins-spent-a-decade-working-on-the-avalanches-album-art/
 artist: The Avalanches
 album: Wildflower
 essentialtracks: ""

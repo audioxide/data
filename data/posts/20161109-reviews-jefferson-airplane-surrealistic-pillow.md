@@ -1,6 +1,6 @@
 ---
 created: 2016-11-09T18:45:09.000Z
-modified: 2018-03-04T20:17:53.000Z
+modified: 2021-12-12T20:17:53.000Z
 slug: jefferson-airplane-surrealistic-pillow
 type: reviews
 tags:
@@ -13,6 +13,8 @@ tags:
   - the rolling stones
   - the avalanches
 featuredimage: album-artwork/surrealistic-pillow-jefferson-airplane.jpg
+artworkCredit: was shot by American photographer Herb Greene.
+artworkCreditSource: https://sfae.com/Artists/Herb-Greene/Jefferson-Airplane,-Surrealistic-Pillow-Album-Cove
 artist: Jefferson Airplane
 album: Surrealistic Pillow
 essentialtracks:
