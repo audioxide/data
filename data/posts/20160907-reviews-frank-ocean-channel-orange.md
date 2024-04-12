@@ -1,6 +1,6 @@
 ---
 created: 2016-09-07T16:00:02.000Z
-modified: 2018-03-10T18:49:05.000Z
+modified: 2021-12-08T00:04:05.000Z
 slug: frank-ocean-channel-orange
 type: reviews
 tags:
@@ -11,8 +11,10 @@ tags:
   - stevie wonder
   - contemporary r&b
 featuredimage: album-artwork/channel-orange-frank-ocean.jpg
+artworkCredit: was designed by Thomas Mastorakos, Aaron Martinez, and Phil Toselli. The ‘channel’ font is Cooper Black, with the word overlaid by the coloured spots of a camera flash.
+artworkCreditSource: https://www.complex.com/style/2013/11/best-pop-album-covers/frank-ocean-channel-orange
 artist: Frank Ocean
-album: Channel Orange
+album: channel ORANGE
 essentialtracks: ""
 favouritetracks:
   - Pyramids

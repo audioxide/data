@@ -1,6 +1,6 @@
 ---
 created: 2016-11-23T18:05:50.000Z
-modified: 2018-03-10T14:45:41.000Z
+modified: 2021-12-12T10:29:41.000Z
 slug: justice-woman
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - electronic
   - disco
 featuredimage: album-artwork/woman-justice.jpg
+artworkCredit: was designed by French artist Charlotte Delarue.
+artworkCreditSource: https://www.charlottedelarue-design.com/JusticeWoman-Album-Cover
 artist: Justice
 album: Woman
 essentialtracks:

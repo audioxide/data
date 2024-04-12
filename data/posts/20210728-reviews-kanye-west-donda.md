@@ -30,7 +30,7 @@ summary: TBD
 week: 277
 blurb: TBD                                    
 artistMBID: 164f0d73-1234-4e2c-8743-d77bf2191051
-albumMBID: 00000000-0000-0000
+albumMBID: 7f4792fe-b563-4554-849a-95a89be71f84
 artistLink: https://shop.kanyewest.com/
 reviewType: gag
 

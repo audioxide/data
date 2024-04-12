@@ -1,6 +1,6 @@
 ---
 created: 2016-06-29T16:00:58.000Z
-modified: 2020-04-03T14:29:55.000Z
+modified: 2021-12-12T10:03:55.000Z
 slug: talking-heads-remain-in-light
 type: reviews
 tags:
@@ -13,6 +13,8 @@ tags:
   - new wave
   - art pop
 featuredimage: album-artwork/remain-in-light-talking-heads.jpg
+artworkCredit: was designed by bassist Tina Weymouth and drummer Chris Frantz in collaboration with MIT researcher Walter Bender. Computers were used to transpose red masks over each member’s face. In 1980 this was quite the technical feat.  
+artworkCreditSource: https://bandbyweek.wordpress.com/2014/05/13/remain-in-light-cover-art/
 artist: Talking Heads
 album: Remain in Light
 essentialtracks: ""

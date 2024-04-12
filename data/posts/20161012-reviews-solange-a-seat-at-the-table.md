@@ -1,6 +1,6 @@
 ---
 created: 2016-10-12T17:34:46.000Z
-modified: 2018-03-10T19:03:20.000Z
+modified: 2021-12-12T10:18:20.000Z
 slug: solange-a-seat-at-the-table
 type: reviews
 tags:
@@ -10,6 +10,8 @@ tags:
   - kendrick lamar
   - james blake
 featuredimage: album-artwork/a-seat-at-the-table-solange.jpg
+artworkCredit: was shot by Spanish photographer Carlota Guerrero and was partially inspired by Leonardo da Vinci. ‘I wanted to nod to the Mona Lisa and the stateliness, the sternness that that image has,’ Solange said.
+artworkCreditSource: https://www.hollywoodreporter.com/lifestyle/style/solanges-a-seat-at-table-album-cover-was-inspired-by-mona-lisa-963125/
 artist: Solange
 album: A Seat at the Table
 essentialtracks:
