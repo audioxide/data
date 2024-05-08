@@ -47,7 +47,7 @@ There was a pause as the band processed this.
 
 ‘Is that what we want?’ Hazard asked.
 
-‘Oh yes.’ Gould suddenly looked grave. ‘Some young artists get themselves in a right pickle by coming out and standing for something like voting rights or equality of the sexes. Then they get big and find themselves pigeonholed as the designated pied piper for the zeitgeist of the week.’
+‘Oh yes.’ Gould suddenly looked grave. ‘Some young artists get themselves in a right pickle by standing for something like voting rights or equality of the sexes. Then they get big and find themselves pigeonholed as the designated pied piper for the zeitgeist of the week.’
 
 ‘And we… don’t want that?’
 
@@ -55,15 +55,29 @@ There was a pause as the band processed this.
 
 Theo creased his immense brow. ‘So what do we say on social media?’
 
-‘You won’t be saying anything, darling,’ said Gould, handing Hazard her phone. ‘I’ll take care of it. I’ve already secured our handle across the major platforms.’
+‘You won’t be saying anything, darling. I’ll take care of it. I’ve already secured our handle across the major platforms. Take a look.’ She handed her phone to Hazard, who looked at the screen and frowned. 
 
-Hazard frowned. ‘@nmlssband?’ he said.
+‘@nmlssband?’ he said.
 
-‘Pickings are slim these days, but not to worry. I’ve already started building your following. There’s a buy one get one free offer at the moment.’
+‘Pickings are slim these days, but not to worry. I’ve already started building your following.’
+
+‘So how many followers do we have?’ Hazard asked.
+
+‘Four thousand.’
+
+All the band gasped in unison save for Theo Stone, whose eyes narrowed.
+
+‘How many of those are real people?’ he asked.
+
+‘What do you mean?’ Gould asked, her voice suddenly sickly sweet.
+
+‘I’ve read about these bots people buy. To inflate their numbers.’
+
+'There’s a buy one get one free offer at the moment,’ Gould said, shrugging.
 
 ‘So they’re not real?’ Sunshine asked.
 
-‘Plenty of them are, I’m just giving them the sense of belonging they deserve. 
+‘Plenty of them are, I’m just giving them the sense of belonging they deserve.’
 
 ‘So what are these real people saying about us?’ Waltz said.
 
