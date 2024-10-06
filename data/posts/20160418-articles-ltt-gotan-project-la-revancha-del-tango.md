@@ -9,7 +9,7 @@ tags:
 featuredimage: album-artwork/la-revancha-del-tango-gotan-project.jpg
 featuredimageAlt: Album artwork of 'La Revancha Del Tango' by Gotan Project
 showFeaturedImage: true
-title: The timeless allure of &#8216;La Revancha Del Tango&#8217;
+title: The timeless allure of ‘La Revancha Del Tango’
 author: andrew-bridge
 blurb: This still makes for a great listen, especially for anyone with a penchant for hip-hop and breakbeat music looking something slightly different.
 

@@ -10,7 +10,7 @@ featuredimage: article-images/hyrules-lament-the-music-of-twilight-princess.jpg
 featuredimageAlt: Zelda-themed artwork of Link listening to sinister music
 showFeaturedImage: true
 featuredImageCaption: Image by Frederick O'Brien
-title: "Hyrule&#8217;s Lament: the music of &#8216;Twilight Princess&#8217;"
+title: "Hyrule’s Lament: the music of ‘Twilight Princess’"
 summary: Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack for Twilight Princess had bolder intentions than it is often given credit for
 author: andre-dack
 blurb: Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack for Twilight Princess had bolder intentions than it is often given credit for.

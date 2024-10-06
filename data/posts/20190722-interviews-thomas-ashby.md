@@ -11,7 +11,7 @@ tags:
 featuredimage: interview-images/thomas-ashby.jpg
 featuredimageAlt: Thomas Ashby performing onstage with a guitar
 showFeaturedImage: true
-title: "Thomas Ashby: &#8216;When you’re in a studio that’s your space to be the biggest you you can be.’"
+title: "Thomas Ashby: ‘When you’re in a studio that’s your space to be the biggest you you can be.’"
 summary: Thomas Ashby is a singer/songwriter from Herne Bay. For 16 long, miserable months we lived together in London. During that time he recorded and released his third EP – Backlash. Before he left we sat down to work out what on earth happened.
 author: frederick-obrien
 blurb: Thomas Ashby is a singer/songwriter from Herne Bay. We discuss living together during the time he recorded and released his third EP - 'Backlash'.

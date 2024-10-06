@@ -17,7 +17,7 @@ tags:
 featuredimage: interview-images/dylan-seeger.jpg
 featuredimageAlt: Photograph of American musician Dylan Seeger
 showFeaturedImage: true
-title: "Dylan Seeger: &#8216;Albums take you on journeys that 4-minute singles will never replicate.&#8217;"
+title: "Dylan Seeger: ‘Albums take you on journeys that 4-minute singles will never replicate.’"
 summary: Dylan Seeger is a musician and designer living in New York, as is tradition. He released his third album, Claye, in 2014. Keeping up my knack of being years late to the party, I caught up with Dylan to chat about Claye, the pressures of recording solo, and (sound) circumcision.
 author: frederick-obrien
 blurb: Dylan Seeger is a musician and designer living in New York, as is tradition. We talk Claye, the pressures of recording solo, and (sound) circumcision.

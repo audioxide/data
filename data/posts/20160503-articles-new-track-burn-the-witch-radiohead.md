@@ -13,7 +13,7 @@ featuredimage: article-images/radiohead-tease-continues-with-burn-the-witch.jpg
 featuredimageAlt: Screenshot from the music video for Radiohead's song "Burn the Witch"
 showFeaturedImage: true
 featuredImageCaption: Villagers having a grand old time in the “Burn The Witch” music video
-title: Radiohead tease continues with &#8220;Burn the Witch&#8221;
+title: Radiohead tease continues with “Burn the Witch”
 author: andre-dack
 blurb: “Burn the Witch” is a fine song; a satisfying introduction to a new Radiohead era that will naturally leave fans wanting more.
 
