@@ -10,16 +10,12 @@ tags:
   - art pop
 featuredimage: album-artwork/how-to-be-a-human-being-glass-animals.jpg
 featuredimageAlt: Album artwork of 'How to Be a Human Being' by Glass Animals
+showFeaturedImage: true
 title: A late love-in for &#8216;How To Be A Human Being&#8217;
 author: andrew-bridge
 summary: How To Be A Human Being is a great indie pop album in a year that hasn’t had many. So far, the band hasn’t made a misstep
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/how-to-be-a-human-being-glass-animals.jpg" alt="Album artwork of 'How to Be a Human Being' by Glass Animals" />
-  <figcaption></figcaption>
-</figure>
 
 I was immediately intrigued by Glass Animals from the first listen of “Gooey” off their debut album, *Zaba*. Between the soft warm synth bassline and the airy atmosphere the track was wrapped in, something felt distinct from similar bands. The rest of the album didn’t disappoint either, and I particularly enjoyed the experimentation and influence from a variety of styles, all while maintaining a surprisingly strong identity of its own. In August, the band returned with *How to Be a Human Being*, and it’s been on regularly rotation in my ‘Recently Played’ list. I’ve found that the entire 43 minute playthrough can fly by easily, with back-to-back plays occurring more than once.
 

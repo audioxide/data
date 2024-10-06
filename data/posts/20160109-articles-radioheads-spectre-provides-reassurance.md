@@ -10,16 +10,12 @@ tags:
   - alternative rock
 featuredimage: album-artwork/spectre-radiohead.jpg
 featuredimageAlt: Single artwork of the song "Spectre" by Radiohead
+showFeaturedImage: true
 title: Radiohead&#8217;s &#8220;Spectre&#8221; provides reassurance
 author: andre-dack
 blurb: This is the first Radiohead track to drop in years, and it serves far more than its original (intended) purpose as a Bond song.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/spectre-radiohead.jpg" alt="Single artwork of 'Spectre' by Radiohead" />
-  <figcaption></figcaption>
-</figure>
 
 Given their reputation for producing great records on a consistent basis, Radiohead’s previous album *The King of Limbs* had the curious quality of merely being ‘quite good.’ Whilst a case can be made for each of their releases since *The Bends*, you would be hard pressed to find anyone who’d declare that their favourite Radiohead record is *The King of Limbs.* It was surreal to see a release from one of the world’s greatest bands pass by without making any significant impact.
 

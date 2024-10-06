@@ -10,17 +10,14 @@ tags:
   - wolf alice
 featuredimage: article-images/streaming-minimum-wage-spotify-meat-grinder.jpg
 featuredimageAlt: Artwork of Spotify as a musical meat grinder
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: What would a music streaming minimum wage look like?
 summary: Artists aren’t working for pennies any more - they’re working for fractions of fractions of pennies, and pressure is growing for systemic changes to the music industry meat grinder
 author: frederick-obrien
 blurb: Business is booming for streaming services, but not for the musicians who make them possible. Is it time for a music streaming minium wage?
 
 ---
-
-<figure class="wide">
-  <img src="article-images/streaming-minimum-wage-spotify-meat-grinder.jpg" alt="Abstract artwork depicting Spotify as a musical meat grinder" />
-  <figcaption>Image by the author</figcaption>
-</figure>
 
 Music streaming royalty rates are bad for musicians. This is well covered ground, with _[The Trichordist](https://thetrichordist.com/2020/03/05/2019-2020-streaming-price-bible-youtube-is-still-the-1-problem-to-solve/)_, _[NME](https://www.nme.com/news/music/new-figures-show-how-many-streams-artists-need-to-earn-minimum-wage-2649715)_, _[Mashable](https://mashable.com/article/music-streaming-spotify-minimum-wage/)_, and plenty of other publications digging into the numbers last year. The long and short of it is artists aren’t even working for pennies these days - they’re working for fractions of pennies. Spotify, the world’s biggest audio streaming platform, is paying out around $3,500 for every million streams. If that doesn’t sound like a lot, that’s because it’s not.
 

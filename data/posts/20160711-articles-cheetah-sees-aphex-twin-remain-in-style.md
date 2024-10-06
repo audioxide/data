@@ -8,16 +8,12 @@ tags:
   - electronic
 featuredimage: album-artwork/cheetah-aphex-twin.jpg
 featuredimageAlt: EP artwork of 'Cheetah' by Aphex Twin
+showFeaturedImage: true
 title: "&#8216;Cheetah&#8217; sees Aphex Twin remain in style"
 author: andre-dack
 blurb: This is one of the purest and silky-smooth Aphex Twin releases yet, with steady tempos and smoothly layered synthesiser pads laying down the foundation
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/cheetah-aphex-twin.jpg" alt="EP artwork of 'Cheetah' by Aphex Twin" />
-  <figcaption></figcaption>
-</figure>
 
 Richard James has been ‘back’ for a couple of years now, and I’m still struggling to comprehend it. His influence never ceased during his years of inactivity: on the contrary, he has grown into an enigmatic, enlightening symbol of electronic music. 2014’s *Syro* was a greatly satisfying return, serving as proof that he’s still ‘got it’ whilst simultaneously embarrassing his peers in its attention to detail. That said, I struggle to compare it to his best works, and view it as an accomplished demonstration of James’s abilities as opposed to a proper record on the scale of *Selected Ambient Works 85-92*, or even the [*Richard D. James Album*](/reviews/aphex-twin-richard-d-james-album/). This latest EP may not be as exquisitely crafted, and may struggle to make a long term impact, but it blossoms in an entirely separate manner. *Cheetah* is a delightful throwback to classic Aphex Twin material that focuses on rich timbres opposed to dazzling rhythmic mastery.
 

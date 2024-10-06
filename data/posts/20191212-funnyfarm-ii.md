@@ -6,17 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/2-bas.jpg
 featuredimageAlt: Ink drawing of a stoned silly guitarist called Bas
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "II: Bas"
 summary: In which a second guitarist is sourced at a local car park
 author: frederick-obrien
 blurb: In which a second guitarist is sourced at a local car park.
 
 ---
-
-<figure class="wide">
-  <img src="funnyfarm-images/2-bas.jpg" alt="Illustration for Funnyfarm Part II: Bas" />
-  <figcaption></figcaption>
-</figure>
 
 They found him behind a Ford Focus with his head in a cloud. He was slumped at the base of a wall smoking a stupendously large spliff, watching as a ribbon of smoke rippled from its tip and faded into the cool night air.
 

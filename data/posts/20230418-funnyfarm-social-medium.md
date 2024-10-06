@@ -6,16 +6,13 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/10-social-medium.jpg
 featuredimageAlt: Ink drawing of a poo emoji with 12 thousand clicks
+featuredImageCaption: Image by the author
+showFeaturedImage: true
 title: "X: Social Medium"
 summary: In which followers are on sale
 author: frederick-obrien
 blurb: In which followers are on sale.
 ---
-
-<figure class="wide">
-  <img src="funnyfarm-images/10-social-medium.jpg" alt="Illustration for Funnyfarm Part X: Social Medium" />
-  <figcaption></figcaption>
-</figure>
 
 The Band with No Name blew town in a daze of hysteria. Word of their gig had spread like wildfire and the Neon Duck was desperate to book them again. Elaine Gould hadn’t let them. Instead they were beelining down the motorway.
 

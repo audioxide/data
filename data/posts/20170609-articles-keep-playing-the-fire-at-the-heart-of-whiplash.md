@@ -9,17 +9,14 @@ tags:
   - blues
 featuredimage: article-images/keep-playing-the-fire-at-the-heart-of-whiplash.jpg
 featuredimageAlt: Artwork combining the faces of Fletcher and Neiman from the film 'Whiplash'
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "Keep Playing: the fire at the heart of &#8216;Whiplash&#8217;"
 summary: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value
 author: frederick-obrien
 blurb: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value. 
 
 ---
-
-<figure class="wide">
-  <img src="article-images/keep-playing-the-fire-at-the-heart-of-whiplash.jpg" alt="Illustrations of Fletcher and Neiman from the film 'Whiplash'" />
-  <figcaption>Image by the author</figcaption>
-</figure>
 
 *Whiplash* hit — and shot — plenty of nerves when it was released in 2014. It lit up the year’s film awards season and will in all likelihood endure as a classic piece of cinema. But why? What about the film strikes so deep, is so morbidly absorbing? *Whiplash* is ostensibly about jazz, but its core speaks to something more fundamental than even music, and often in ways difficult to stomach. It speculates that love of a craft isn’t enough to master it; disdain for one’s shortcomings is crucial.
 
