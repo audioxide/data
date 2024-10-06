@@ -12,7 +12,7 @@ featuredimage: article-images/state-of-rapture-the-music-of-bioshock.jpg
 featuredimageAlt: BioShock-themed ink and pencil artwork
 showFeaturedImage: true
 featuredImageCaption: Image by the author
-title: "State of Rapture: the music of &#8216;BioShock&#8217;"
+title: "State of Rapture: the music of ‘BioShock’"
 summary: Splicing classical arrangements with avant-garde experimentation, Garry Schyman’s soundtrack reflected the game’s grand, warped, doomed vision of a new world
 author: frederick-obrien
 blurb: Splicing classical arrangements with avant-garde experimentation, Garry Schyman’s soundtrack reflected the game’s grand, warped, doomed vision of a new world.

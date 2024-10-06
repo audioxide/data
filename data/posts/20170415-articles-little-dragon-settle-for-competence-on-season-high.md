@@ -8,7 +8,7 @@ tags:
 featuredimage: album-artwork/season-high-little-dragon.jpg
 featuredimageAlt: Album artwork of 'Season High' by Little Dragon
 showFeaturedImage: true
-title: Little Dragon settle for competence on &#8216;Season High&#8217;
+title: Little Dragon settle for competence on ‘Season High’
 author: andre-dack
 
 ---

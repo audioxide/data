@@ -11,7 +11,7 @@ featuredimage: article-images/keep-playing-the-fire-at-the-heart-of-whiplash.jpg
 featuredimageAlt: Artwork combining the faces of Fletcher and Neiman from the film 'Whiplash'
 showFeaturedImage: true
 featuredImageCaption: Image by the author
-title: "Keep Playing: the fire at the heart of &#8216;Whiplash&#8217;"
+title: "Keep Playing: the fire at the heart of ‘Whiplash’"
 summary: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value
 author: frederick-obrien
 blurb: However grotesque Terence Fletcher may be, he leaves the impression he does because we recognise him in ourselves and understand his value. 

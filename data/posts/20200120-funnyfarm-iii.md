@@ -8,7 +8,7 @@ featuredimage: funnyfarm-images/3-4-1-2-3-4.jpg
 featuredimageAlt: Ink drawing of a metronome hanging in the air
 showFeaturedImage: true
 featuredImageCaption: Image by the author
-title: "III: 4, 1, 2, 3, 4&#8230;"
+title: "III: 4, 1, 2, 3, 4…"
 summary: In which the value of a rhythm section quickly becomes clear
 author: frederick-obrien
 blurb: In which the value of a rhythm section quickly becomes clear.

@@ -8,7 +8,7 @@ featuredimage: funnyfarm-images/6-whats-in-a-name.jpg
 featuredimageAlt: Ink drawing of two men in the front seat of a minibus
 showFeaturedImage: true
 featuredImageCaption: Image by the author
-title: "VI: What&#8217;s in a Name"
+title: "VI: What’s in a Name"
 summary: In which an astonishing lack of imagination is shown by the band, the manager, and the author
 author: frederick-obrien
 blurb: In which an astonishing lack of imagination is shown by the band, the manager, and the author.

@@ -12,7 +12,7 @@ featuredimage: article-images/death-grips-oddities-no-gimmick.jpg
 featuredimageAlt: Photograph of Death Grips performing onstage
 showFeaturedImage: true
 featuredImageCaption: One would do well to accuse Death Grips of being conventional. Photo by Montecruz Foto
-title: "&#8216;Bottomless Pit&#8217; shows Death Grips oddities are still no gimmick"
+title: "‘Bottomless Pit’ shows Death Grips oddities are still no gimmick"
 author: andre-dack
 blurb: The group have confidently cemented their status. If they stay together they can progress toward any direction they so desire.
 

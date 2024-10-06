@@ -14,7 +14,7 @@ tags:
 featuredimage: interview-images/rob-wilson.jpg
 featuredimageAlt: Blurred photograph of Rob Wilson, aka Colourful Sevens
 showFeaturedImage: true
-title: "Colourful Sevens: &#8216;I love making music by myself &#8211; I can treat my songs as diary entries.&#8217;"
+title: "Colourful Sevens: ‘I love making music by myself – I can treat my songs as diary entries.’"
 summary: Colourful Sevens (real name Rob Wilson) is a musician from Manchester who has released three albums, the third of which — Moon — came out in January. We caught up with him to discuss his latest work, the merits of working alone, and the wisdom of Roger Ebert.
 author: frederick-obrien
 blurb: The Manchester musician talks about his most recent project (Moon), the merits of working alone, and the wisdom of Roger Ebert.
