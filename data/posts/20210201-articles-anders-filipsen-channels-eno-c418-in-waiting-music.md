@@ -11,17 +11,14 @@ tags:
   - david bowie
 featuredimage: article-images/anders-filipsen-portrait.jpg
 featuredimageAlt: Photograph of Danish composer Anders Filipsen
+showFeaturedImage: true
+featuredImageCaption: 'Album artwork by <a href="http://www.dittebolt.dk/">Ditte Bolt</a>'
 title: Anders Filipsen channels Brian Eno and C418 in solo debut ‘Waiting Music’
 summary: Few people whinge about electronic music more than I do, but when the genre lands it truly is majestic. Danish composer Anders Filipsen delivers something serene and uncannily innocent in this record
 author: frederick-obrien
 blurb: Danish composer Anders Filipsen delivers something serene and uncannily innocent, bringing a playfulness to his sweeping ambient soundscapes. 
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/waiting-music-anders-filipsen.jpg" alt="Album artwork of 'Waiting Music' by Anders Filipsen" />
-  <figcaption>Album artwork by <a href="http://www.dittebolt.dk/">Ditte Bolt</a></figcaption>
-</figure>
 
 Last Friday, Danish composer [Anders Filipsen](https://www.andersfilipsen.com/) released an album called _[Waiting Music](https://andersfilipsen.bandcamp.com/album/waiting-music)_. It’s been a while since I’ve enjoyed an electronic project quite so much. Composed of unedited live takes of four synthesizers, the tracks - twelve in all, each a Roman numeral - flow with the gentleness and grace of a spring breeze. Although it has all the hallmarks of great ambient music, there are enough wildcard sounds sprinkled across the album to keep it from feeling at all samey.
 

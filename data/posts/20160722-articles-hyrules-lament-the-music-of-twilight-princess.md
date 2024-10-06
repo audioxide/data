@@ -8,17 +8,14 @@ tags:
   - the music of games
 featuredimage: article-images/hyrules-lament-the-music-of-twilight-princess.jpg
 featuredimageAlt: Zelda-themed artwork of Link listening to sinister music
+showFeaturedImage: true
+featuredImageCaption: Image by Frederick O'Brien
 title: "Hyrule&#8217;s Lament: the music of &#8216;Twilight Princess&#8217;"
 summary: Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack for Twilight Princess had bolder intentions than it is often given credit for
 author: andre-dack
 blurb: Under Koji Kondo's watchful eye, Toru Minegishi's soundtrack for Twilight Princess had bolder intentions than it is often given credit for.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/hyrules-lament-the-music-of-twilight-princess.jpg" alt="Link of the Zelda series listens to sinister tunes" />
-  <figcaption>Image by Frederick O'Brien</figcaption>
-</figure>
 
 The music of *The Legend of Zelda* ranks amongst the most iconic in gaming history, capturing the imaginations of millions of gamers for over 20 years. What started as simple 8-bit melodies have blossomed into fully orchestrated arrangements, which have effectively followed in the footsteps of fanfare film music. Although its universe may not be as vast or as intricately detailed, the *Zelda* series has clear parallels with the likes of *Star Wars* and *Indiana Jones*, and much like those beloved franchises it relies heavily on repeated themes and motifs to drive its narrative. This particular entry, 2006’s *Twilight Princess*, was initially well received, but has divided opinion in the time since its release. The game is often placed as one of the weaker entries on the 3D *Zelda* spectrum. Nonetheless, the score had notable changes from previous titles that gave *Twilight Princess* a distinctly destitute atmosphere.
 

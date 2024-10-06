@@ -10,17 +10,14 @@ tags:
   - experimental
 featuredimage: article-images/state-of-rapture-the-music-of-bioshock.jpg
 featuredimageAlt: BioShock-themed ink and pencil artwork
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "State of Rapture: the music of &#8216;BioShock&#8217;"
 summary: Splicing classical arrangements with avant-garde experimentation, Garry Schyman’s soundtrack reflected the game’s grand, warped, doomed vision of a new world
 author: frederick-obrien
 blurb: Splicing classical arrangements with avant-garde experimentation, Garry Schyman’s soundtrack reflected the game’s grand, warped, doomed vision of a new world.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/state-of-rapture-the-music-of-bioshock.jpg" alt="BioShock-themed ink and pencil artwork" />
-  <figcaption>Image by the author</figcaption>
-</figure>
 
 In any conversation about whether video games are art, odds are someone will wheel out *BioShock* as an example of why they are. And with good reason. The game was a revelation when it was released in 2007, and still garners write ups and analysis all these years later.
 

@@ -6,17 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/3-4-1-2-3-4.jpg
 featuredimageAlt: Ink drawing of a metronome hanging in the air
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "III: 4, 1, 2, 3, 4&#8230;"
 summary: In which the value of a rhythm section quickly becomes clear
 author: frederick-obrien
 blurb: In which the value of a rhythm section quickly becomes clear.
 
 ---
-
-<figure class="wide">
-  <img src="funnyfarm-images/3-4-1-2-3-4.jpg" alt="Illustration for Funnyfarm Part III: 4, 1, 2, 3, 4..." />
-  <figcaption></figcaption>
-</figure>
 
 The first time Alan Hazard, Ray Sunshine, and Bas practiced together the result was a temporal marvel. Although each played their part in perfect time, they were seemingly incapable of playing in the *same* time.
 

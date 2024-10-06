@@ -8,16 +8,12 @@ tags:
   - hip hop
 featuredimage: album-artwork/la-revancha-del-tango-gotan-project.jpg
 featuredimageAlt: Album artwork of 'La Revancha Del Tango' by Gotan Project
+showFeaturedImage: true
 title: The timeless allure of &#8216;La Revancha Del Tango&#8217;
 author: andrew-bridge
 blurb: This still makes for a great listen, especially for anyone with a penchant for hip-hop and breakbeat music looking something slightly different.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/la-revancha-del-tango-gotan-project.jpg" alt="Album artwork of 'La Revancha Del Tango' by Gotan Project" />
-  <figcaption></figcaption>
-</figure>
 
 Gotan Project made their debut with *La Revancha Del Tango*. Most well known for [“Época”](https://www.youtube.com/watch?v=Jc7Lt5FLRiA), the album brings the passion of Argentinian tango and the beats and sampling of hip-hop and breakbeat to produce an exceptional listen. Vocalist, Cristina Vilallonga, provides passionate, sultry vocal lines throughout the album, and along with tentative, considered passages of accordion and string at the forefront of tracks such as [“El Capitalismo Foráneo”](https://www.youtube.com/watch?v=zMFmk_eSBY0), the album takes on a mysterious, alluring character which keeps the listener engrossed.
 
