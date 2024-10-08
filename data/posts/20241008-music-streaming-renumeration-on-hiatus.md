@@ -15,6 +15,11 @@ blurb: Government-led working groups around royalty inequities are seeing labels
 
 ---
 
+<figure class="wide">
+  <img src="article-images/streaming-remuneration-on-hiatus.jpg" alt="Abstract illustration of pound symbol and sound waves" />
+  <figcaption></figcaption>
+</figure>
+
 After months of government-led working groups, a ‘voluntary solution’ to music streaming remuneration inequities has not been forthcoming.
 
 We’ve written previously about [the meat grinder remuneration practices of streaming services like Spotify](https://audioxide.com/articles/what-would-a-music-streaming-minimum-wage-look-like/) and though there has been plenty of noise in the years since, legislative change remains conspicuously absent.
