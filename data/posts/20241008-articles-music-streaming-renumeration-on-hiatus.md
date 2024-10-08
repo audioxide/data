@@ -17,7 +17,7 @@ blurb: Government-led working groups around royalty inequities are seeing labels
 
 <figure class="wide">
   <img src="article-images/streaming-remuneration-on-hiatus.jpg" alt="Abstract illustration of pound symbol and sound waves" />
-  <figcaption></figcaption>
+  <figcaption>Image by the author</figcaption>
 </figure>
 
 After months of government-led working groups, a ‘voluntary solution’ to music streaming remuneration inequities has not been forthcoming.
