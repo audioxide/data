@@ -25,7 +25,7 @@ jobs:
           path: website
       # Setup node (including yarn)
       - name: Use Node.js 18
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: 18
       # Setup caching for images to reduce processing time
