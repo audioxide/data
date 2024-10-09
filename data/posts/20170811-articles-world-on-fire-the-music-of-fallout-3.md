@@ -10,17 +10,14 @@ tags:
   - the music of games
 featuredimage: article-images/the-music-of-fallout-3-vault-boy.jpg
 featuredimageAlt: Vault Boy holding an old fashioned radio
-title: "World On Fire: the Music of &#8216;Fallout 3&#8217;"
+showFeaturedImage: true
+featuredImageCaption: Image by the author
+title: "World On Fire: the Music of ‘Fallout 3’"
 summary: From Galaxy News Radio to the old-school homages of Inon Zur's ambient soundtrack, Fallout 3 owes much of its brilliance to its music
 author: frederick-obrien
 blurb: From Galaxy News Radio to the old-school homages of Inon Zur's ambient soundtrack, Fallout 3 owes much of its brilliance to its music.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/the-music-of-fallout-3-vault-boy.jpg" alt="Vault Boy holding an old fashioned radio" />
-  <figcaption>Image by the author</figcaption>
-</figure>
 
 *Fallout 3* is a unique beast, something taken for granted sometimes. Generally — [though not quite universally](https://www.youtube.com/watch?v=mLJ1gyIzg78&t=154s) — adored, the game occupies a peculiar space between continuity and innovation. Inheriting the legacy of an acquired franchise, yet announcing itself to millions of console players, [*Fallout 3*’s soundtrack](https://www.youtube.com/watch?v=Q0D5IB3C14E) is crucial to both the game’s atmosphere and its lasting impact. Composer Inon Zur’s ambient work, juxtaposed with the warm, crackling tunes of Galaxy News Radio, provided the perfect accompaniment to the fresh, terrifying possibilities of the Wasteland.
 

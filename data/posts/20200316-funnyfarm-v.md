@@ -6,17 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/5-the-van.jpg
 featuredimageAlt: Ink drawing of a ratty old van in a ratty old car park
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "V: The Van"
 summary: In which Soviet manufacturing holds up surprisingly well
 author: frederick-obrien
 blurb: In which Soviet manufacturing holds up surprisingly well.
 
 ---
-
-<figure class="wide">
-  <img src="funnyfarm-images/5-the-van.jpg" alt="Illustration for Funnyfarm Part V: The Van" />
-  <figcaption></figcaption>
-</figure>
 
 The band’s first gig was a riot. Literally. Halfway through the second song the pub’s occupants broke out in a fit of frustration and despair, unwilling to distance themselves from the bar but also loathe to listen to another second of such astonishing drivel.
 

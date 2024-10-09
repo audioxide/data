@@ -11,17 +11,14 @@ tags:
   - folk
 featuredimage: article-images/elliott-smith-behind-the-lyrics.jpg
 featuredimageAlt: Memorial wall for the musician Elliott Smith
+showFeaturedImage: true
+featuredImageCaption: An Elliott Smith memorial on the wall of Solutions Audio in Los Angeles
 title: "Elliott Smith: behind the lyrics"
 summary: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott Smith’s words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they’ve ever been
 author: ruya-yonak
 blurb: Channeling the sounds of Bob Dylan, Simon & Garfunkel, and more, Elliott Smith's words still cut deep, as darkly precious now as they've ever been.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/elliott-smith-behind-the-lyrics.jpg" alt="Memorial wall for musician Elliott Smith." />
-  <figcaption>An Elliott Smith memorial on the wall of Solutions Audio in Los Angeles</figcaption>
-</figure>
 
 Chances are, if you listen to Elliott Smith when you are already feeling down, you will start feeling even worse after hearing his sweet voice tell you that he’d rather throw his life away. If you know [he did exactly that in October of 2003](https://www.theguardian.com/music/2003/oct/22/elliottsmith.popandrock), it will hurt even more. Especially well-known in Portland, Oregon, Elliott Smith was an indie/folk singer-songwriter who attained international fame after [performing his song “Miss Misery”](https://www.youtube.com/watch?v=wPf-hRoZDp4) (featured on the soundtrack for *Good Will Hunting* and nominated for Best Original Song) during the 1998 Oscars.
 

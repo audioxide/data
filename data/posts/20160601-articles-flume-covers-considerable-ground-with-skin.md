@@ -12,16 +12,12 @@ tags:
   - industrial
 featuredimage: album-artwork/skin-flume.jpg
 featuredimageAlt: Album artwork of 'Skin' by Flume
-title: Flume covers considerable ground with &#8216;Skin&#8217;
+showFeaturedImage: true
+title: Flume covers considerable ground with ‘Skin’
 author: andrew-bridge
 summary: This new record sees a heavy focus on collaborative production, exploring many sounds while seldom digging deeper into any one of them.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/skin-flume.jpg" alt="Album artwork of 'Skin' by Flume" />
-  <figcaption></figcaption>
-</figure>
 
 Flume has made huge strides since his eponymous debut in 2012, rocketing to notoriety earlier this year with his single “Never Be Like You”, which had huge success in his home country of Australia and on an international scale, making it onto primetime radio playlists in the weeks following its release. This has certainly led to an increase in interest surrounding the artist’s followup release, *Skin*.
 

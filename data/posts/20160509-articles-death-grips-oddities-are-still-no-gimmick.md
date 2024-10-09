@@ -10,16 +10,13 @@ tags:
   - james blake
 featuredimage: article-images/death-grips-oddities-no-gimmick.jpg
 featuredimageAlt: Photograph of Death Grips performing onstage
-title: "&#8216;Bottomless Pit&#8217; shows Death Grips oddities are still no gimmick"
+showFeaturedImage: true
+featuredImageCaption: One would do well to accuse Death Grips of being conventional. Photo by Montecruz Foto
+title: "‘Bottomless Pit’ shows Death Grips oddities are still no gimmick"
 author: andre-dack
 blurb: The group have confidently cemented their status. If they stay together they can progress toward any direction they so desire.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/death-grips-oddities-no-gimmick.jpg" alt="Death Grips performing in 2012" />
-  <figcaption>One would do well to accuse Death Grips of being conventional. Photo by Montecruz Foto</figcaption>
-</figure>
 
 They may not have set the precedent themselves, but Death Grips were ahead of the trend with surprise album drops. In the past week alone we’ve seen two major instances of how this movement has spread, with [James Blake announcing his third album would be available to stream in a matter of hours](http://pitchfork.com/news/65268-james-blakes-new-album-the-colour-in-anything-is-out-tonight/), and[ Radiohead doing something similar (though not quite so extreme) the following day](http://pitchfork.com/news/65297-radiohead-announce-new-album-release-date-share-daydreaming-video/). There’s likely some sort of promotional format that Blake and Radiohead stick to, yet in the case of Death Grips it’s likely down to sheer impulsiveness. With their latest record *Bottomless Pit* however, there has been a sense of structure to the release. The group dropped [“Hot Head”](https://www.youtube.com/watch?v=UQm8qpexnjo), which was a clear sign that Jenny Death was not to be their final album after all, before [announcing an actual release date for Bottomless Pit](http://pitchfork.com/news/61741-death-grips-announce-new-album-bottomless-pit-release-date-share-lyrics/), as well as [sharing the lyrics for the entire album](http://thirdworlds.net/pit.php). This was far too formal, even a little conventional–you had to wonder, what were they up to this time?
 
