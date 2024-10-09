@@ -1,12 +1,12 @@
 ---
 created: 2024-10-08T13:30:00.000Z
 modified: 2024-10-08T13:30:00.000Z
-slug: music-streaming-renumeration-on-hiatus
+slug: music-streaming-remuneration-on-hiatus
 type: articles
 tags:
   - music industry
   - spotify
-featuredimage: article-images/streaming-remuneration-on-hiatus.jpg
+featuredimage: article-images/music-streaming-remuneration-on-hiatus.jpg
 featuredimageAlt: Abstract illustration of pound symbol and sound waves
 title: With music streaming remuneration reform on hiatus, is it the government’s cue to step in?
 author: frederick-obrien
@@ -16,7 +16,7 @@ blurb: Government-led working groups around royalty inequities are seeing labels
 ---
 
 <figure class="wide">
-  <img src="article-images/streaming-remuneration-on-hiatus.jpg" alt="Abstract illustration of pound symbol and sound waves" />
+  <img src="article-images/music-streaming-remuneration-on-hiatus.jpg" alt="Abstract illustration of pound symbol and sound waves" />
   <figcaption>Image by the author</figcaption>
 </figure>
 
