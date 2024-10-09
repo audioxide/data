@@ -87,6 +87,6 @@ All the band gasped in unison save for Theo Stone, whose eyes narrowed.
 
 ‘And what does that mean?’
 
-‘It means,’ Gould said, as the van veered onto the off ramp, it’s time for your radio debut.’
+‘It means,’ Gould said, as the van veered onto the off ramp, ‘it’s time for your radio debut.’
 
-<center><p><strong>← <a href="funnyfarm/ix/">Previous</a></p></center>
+<center><p><strong>← <a href="funnyfarm/ix/">Previous</a> // <a href="funnyfarm/xi/">Next</a> →</strong></p></center>
