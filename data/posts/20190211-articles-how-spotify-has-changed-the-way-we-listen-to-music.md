@@ -9,17 +9,14 @@ tags:
   - music industry
 featuredimage: article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg
 featuredimageAlt: Woman standing in front of musically themed red neon signs
+showFeaturedImage: true
+featuredImageCaption: 'Image by <a href="https://unsplash.com/photos/JAHdPHMoaEA">Spencer Imbrock</a>'
 title: How Spotify has changed the way we listen to music
 summary: Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker
 author: ruya-yonak
 blurb: Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, it has become the definitive tastemaker.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/how-spotify-has-changed-the-way-we-listen-to-music.jpg" alt="Girl standing in front of musical themed neon signs" />
-  <figcaption>Image by <a href="https://unsplash.com/photos/JAHdPHMoaEA">Spencer Imbrock</a></figcaption>
-</figure>
 
 From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and access new music.
 

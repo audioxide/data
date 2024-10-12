@@ -10,17 +10,14 @@ tags:
   - experimental
 featuredimage: article-images/max-richter-portrait.jpg
 featuredimageAlt: A monochrome shot of Max Richter standing looking to the left.
+showFeaturedImage: true
+featuredImageCaption: 'Album artwork of by <a href="https://www.yuliamahr.com/">Yulia Mahr</a>'
 title: Max Richter’s evocative activism soothes the soul
 author: andrew-bridge
 summary: Deep, lush composition meets powerful spoken word delivery in Max Richter’s latest project, producing a potent, uplifting concoction
 blurb: Deep, lush composition meets powerful spoken word delivery in Max Richter’s latest project, producing a potent, uplifting concoction.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/voices-2-max-richter.jpg" alt="Album artwork of 'Voices 2' by Max Richter" />
-  <figcaption>Album artwork of by <a href="https://www.yuliamahr.com/">Yulia Mahr</a></figcaption>
-</figure>
 
 Having soundtracked sleep [with record-breaking success](https://www.bbc.co.uk/news/entertainment-arts-34378077), Max Richter has moved on to soothing activism. His _Voices_ project, which received a second volume of work last month, takes inspiration from the Universal Declaration of Human Rights and combines multi-lingual spoken word with Richter’s signature cinematic compositions.
 

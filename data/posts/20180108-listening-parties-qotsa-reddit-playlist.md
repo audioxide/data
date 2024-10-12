@@ -8,7 +8,7 @@ tags:
   - rock
 featuredimage: article-images/queens-of-the-stone-age-logo.jpg
 featuredimageAlt: Queens of the Stone age logo
-title: André and Fred listen to r/qotsa&#8217;s Best Of album
+title: André and Fred listen to r/qotsa’s Best Of album
 author:
   - andre-dack
   - frederick-obrien

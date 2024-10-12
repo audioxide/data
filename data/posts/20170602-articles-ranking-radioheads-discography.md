@@ -14,7 +14,7 @@ tags:
   - rankings
 featuredimage: article-images/radiohead-studio-albums-ranked.jpg
 featuredimageAlt: Lineup of the members of the band Radiohead
-title: "2 + 2 = 9: Radiohead&#8217;s studio albums ranked"
+title: "2 + 2 = 9: Radiohead’s studio albums ranked"
 summary: Be it anxious art-rock, spasmodic electronica, or jazz-tinged soundscapes, Thom & Co. have you covered
 author:
   - andrew-bridge

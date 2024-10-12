@@ -8,16 +8,12 @@ tags:
   - electronic
 featuredimage: album-artwork/since-i-left-you-the-avalanches.jpg
 featuredimageAlt: Album artwork of 'Since I Left You' by The Avalanches
+showFeaturedImage: true
 title: A retrospective look at The Avalanches
 author: andrew-bridge
 blurb: Since I Left You takes the listener on a whistle-stop tour of dance and electronica. All these years later it's still a serious trip.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/since-i-left-you-the-avalanches.jpg" alt="Album artwork of ''Since I Left You' by The Avalanches" />
-  <figcaption></figcaption>
-</figure>
 
 A massive release at the time, and still referenced today through the likes of [“Frontier Psychiatrist”](https://www.youtube.com/watch?v=qLrnkK2YEcE), The Avalanches’ *Since I Left You* is now nearing twenty years old and will likely have fallen out of consciousness for the modern audience. With sampling at its core—band member Robbie Chater estimates 3,500 samples went into the making of the record overall—and big drums and vast production kept as a characteristic, the band wanted to reflect back onto dance music at the time. *Since I Left You* takes the listener on a whistle-stop tour of dance and electronica.
 
