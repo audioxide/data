@@ -24,10 +24,10 @@ jobs:
         repository: audioxide/website
         path: website
     # Setup node (including yarn)
-    - name: Use Node.js 16
+    - name: Use Node.js 20
       uses: actions/setup-node@v1
       with:
-        node-version: 16
+        node-version: 20
     # Setup caching for images to reduce processing time
     - name: Cache images
       uses: actions/cache@v2.1.3
