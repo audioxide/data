@@ -9,8 +9,8 @@ tags:
   - ambient
   - brian eno
   - david bowie
-featuredimage: article-images/anders-filipsen-portrait.jpg
-featuredimageAlt: Photograph of Danish composer Anders Filipsen
+featuredimage: album-artwork/waiting-music-anders-filipsen.jpg
+featuredimageAlt: "Album artwork of 'Waiting Music' by Anders Filipsen"
 showFeaturedImage: true
 featuredImageCaption: 'Album artwork by <a href="http://www.dittebolt.dk/">Ditte Bolt</a>'
 title: Anders Filipsen channels Brian Eno and C418 in solo debut ‘Waiting Music’
