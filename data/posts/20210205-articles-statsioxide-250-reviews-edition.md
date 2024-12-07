@@ -39,13 +39,16 @@ tags:
   - lcd soundsystem
 featuredimage: article-images/statsioxide-250-featured-image.jpg
 featuredimageAlt: Collage of the first 250 albums reviewed by Audioxide
-showFeaturedImage: true
 title: "Statsioxide: our first 250 reviews in numbers"
 summary: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data
 author: frederick-obrien
 blurb: After six long, resolutely joyless years we passed another album review milestone. To celebrate here’s a look at some sweet, sweet data.
 
 ---
+
+<figure class="wide">
+  <img src="article-images/statsioxide-250-featured-image.jpg" alt="Collage of the first 250 albums reviewed by Audioxide" />
+</figure>
 
 In 2015, André, Andrew, and I started reviewing albums together. We’d choose a record, spend the week listening to it, spend an evening talking about it, then assign scores. It was a way to experience new music while learning more about ourselves and each other. We enjoyed the process, so we kept doing it, and in October of last year we hit our 250th review.
 

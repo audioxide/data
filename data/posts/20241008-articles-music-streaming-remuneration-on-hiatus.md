@@ -8,14 +8,17 @@ tags:
   - spotify
 featuredimage: article-images/music-streaming-remuneration-on-hiatus.jpg
 featuredimageAlt: Abstract illustration of pound symbol and sound waves
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: With music streaming remuneration reform on hiatus, is it the government’s cue to step in?
 author: frederick-obrien
 summary: Government-led working groups around royalty inequities are seeing labels dig in their heels. Labour have a layup political win in front of them, if they have the guts to take it
 blurb: Government-led working groups around royalty inequities are seeing labels dig in their heels. Labour have a layup political win in front of them, if they have the guts to take it
 
 ---
+
+<figure class="wide">
+  <img src="article-images/music-streaming-remuneration-on-hiatus.jpg" alt="Abstract illustration of pound symbol and sound waves" />
+  <figcaption>Image by the author</figcaption>
+</figure>
 
 After months of government-led working groups, a ‘voluntary solution’ to music streaming remuneration inequities has not been forthcoming.
 

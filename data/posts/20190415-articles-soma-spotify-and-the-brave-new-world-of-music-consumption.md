@@ -9,14 +9,17 @@ tags:
   - music industry
 featuredimage: article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg
 featuredimageAlt: Artwork depicting a man listening to music with medical pills as ear buds
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: Soma, Spotify, and the brave new world of music consumption
 summary: Streaming services like Spotify have revolutionised listening habits. Anyone, anywhere, can listen to just about anything. In 2012, David Byrne wrote that music risked becoming a soma-like drug. Today that may be the reality
 author: frederick-obrien
 blurb: In 2012, David Byrne wrote that music risked becoming a soma-like drug. Today his concerns are closer to reality than we would like to think.
 
 ---
+
+<figure class="wide">
+  <img src="article-images/soma-spotify-and-the-brave-new-world-of-music-consumption.jpg" alt="Artwork depicting a man listening to music with medical pills as ear buds" />
+  <figcaption>Image by the author</figcaption>
+</figure>
 
 In 2012 David Byrne asked whether music had become a ‘soma-like drug,’ a kind of emotional medication. He was referring to Aldous Huxley’s dystopian 1932 novel *Brave New World*, in which soma subdues society’s passions and keeps people apart. Faced with the rise of digital distribution and personal audio players, Byrne saw a similar fate awaiting music.
 

@@ -22,13 +22,16 @@ tags:
   - new order
 featuredimage: article-images/statsioxide-our-first-150-reviews-in-numbers.jpg
 featuredimageAlt: Collage of the first 150 albums reviewed by Audioxide
-showFeaturedImage: true
 title: "Statsioxide: our first 150 reviews in numbers"
 summary: Having recently passed a bit of a milestone, we thought it was high time for some statistics. What’s our favourite genre? Which records cracked the 27+ Club? Who’s the most miserable reviewer? All will be revealed
 author: frederick-obrien
 blurb: Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at the statistics.
-
 ---
+
+<figure class="wide">
+  <img src="article-images/statsioxide-our-first-150-reviews-in-numbers.jpg" alt="Collage of 150 album covers" />
+  <figcaption></figcaption>
+</figure>
 
 We’ve been [reviewing an album a week for over three years now](/reviews/). There have been lulls, bumps in the road, but we’ve finally got 150 under our belt. To celebrate the milestone we took some cues from [Statstano](https://www.youtube.com/watch?v=jJY3QrKQRWE) and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.
 

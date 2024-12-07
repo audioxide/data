@@ -11,14 +11,17 @@ tags:
   - 1980s
 featuredimage: article-images/the-80s-according-to-stewart-lee.jpg
 featuredimageAlt: Black and white photograph of Morrissey surrounded by smoke
-showFeaturedImage: true
-featuredImageCaption: 'Stewart Lee performs in Edinburgh. Photograph by <a href="http://www.samgehrkephotography.com/">Samuel Gehrke</a>'
-title: The ’80s according to Stewart Lee
+title: The &#8217;80s according to Stewart Lee
 author: frederick-obrien
 blurb: The most miserable man in comedy has five favourite albums from everyone's least favourite decade. We explore Stewart Lee's highlights of the '80s.
 summary: The most miserable man in comedy has five favourite albums from everyone’s least favourite decade. Who could turn down a trip through ’80s music in a Stewart Lee devotee vehicle? Don’t answer that
 
 ---
+
+<figure class="wide">
+  <img src="article-images/the-80s-according-to-stewart-lee.jpg" alt="Morrissey lets himself go" />
+  <figcaption>Stewart Lee performs in Edinburgh. Photograph by [Samuel Gehrke](http://www.samgehrkephotography.com/)</figcaption>
+</figure>
 
 Stewart Lee is a fat British comedian known for his unfunny routines and holding audiences in contempt. As a smug, pseudointellectual leftist, I naturally hold Stewart Lee in sycophantic high regard, to such an extent that I actually write a little bit like he does when I’m writing about him, though less articulately.[^*]
 

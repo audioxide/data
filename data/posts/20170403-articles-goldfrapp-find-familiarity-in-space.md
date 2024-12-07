@@ -8,12 +8,16 @@ tags:
   - electronic
 featuredimage: album-artwork/silver-eye-goldfrapp.jpg
 featuredimageAlt: Album artwork of 'Silver Eye' by Goldfrapp
-showFeaturedImage: true
 title: Goldfrapp find familiarity in space
 author: andrew-bridge
 summary: With a good handful of predictable and familiar moments, Silver Eye does little to eclipse Goldfrapp's formative releases.
 
 ---
+
+<figure class="wide">
+  <img src="album-artwork/silver-eye-goldfrapp.jpg" alt="Album artwork of 'Silver Eye' by Goldfrapp" />
+  <figcaption></figcaption>
+</figure>
 
 Since their debut at the turn of the millennium, Goldfrapp haven’t been afraid to toy with the components that characterise their music. Be it the cinematic, eerie quirk of the debut with tracks like [“Lovely Head”](https://www.youtube.com/watch?v=v8ZKgJLSoYI) and [“Oompah Radar”](https://www.youtube.com/watch?v=boxAAZ6Meoo), the thumping, rasping electronica of the two releases that followed it, well demonstrated by [“Crystalline Green”](https://www.youtube.com/watch?v=paLIQHZx7MM) and [“Ride a White Horse”](https://www.youtube.com/watch?v=nFF8bubMc40), or the warm, folksy, hug of their new direction that came eight years later, lead by the likes of [“A&E”](https://www.youtube.com/watch?v=p7Ptai9I6eo) and [“Happiness”](https://www.youtube.com/watch?v=mnHlGONToIc). Since then, the electronic duo have only continued to remain restless, returning to an, albeit cleaner, neo-retro, electronic sound in 2010, before U-turning back with a dramatic, string-soaked release in 2013.
 

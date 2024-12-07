@@ -8,13 +8,16 @@ tags:
   - music industry
 featuredimage: article-images/the-dmca-rabbit-hole.jpg
 featuredimageAlt: Alice in Wonderland themed illustration of people arguing about music rights on the internet
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: The DMCA rabbit hole
 author: frederick-obrien
 blurb: Debate surrounding DMCA reform requires nuance and flexibility, not trench warfare bullshitting.
 
 ---
+
+<figure class="wide">
+  <img src="article-images/the-dmca-rabbit-hole.jpg" alt="Alice in Wonderland-themed illustration of people arguing about music rights." />
+  <figcaption>Image by the author</figcaption>
+</figure>
 
 In the latest of an ongoing dialogue about revenue and copyright in the music industry, Big Name Musicians released a petition last week directed at the United States Congress. [‘THE DIGITAL MILLENIUM COPYRIGHT ACT IS BROKEN AND NO LONGER WORKS FOR CONTENT CREATORS’](https://www.yahoo.com/music/taylor-swift-paul-mccartney-among-180-artists-signing-100300269.html) is the all-caps gist of their concern. A worthy and important conversation to have, in good faith, without lip service. 
 

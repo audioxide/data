@@ -14,14 +14,17 @@ tags:
   - gorillaz
 featuredimage: article-images/we-will-always-love-you-the-avalanches.jpg
 featuredimageAlt: Album artwork of 'We Will Always Love You' by The Avalanches
-showFeaturedImage: true
-featuredImageCaption: 'Album artwork by <a href="http://zawada.art/">Jonathan Zawada</a>'
 title: The Avalanches marshal star-studded line up to delight in third album
 summary: Gliding in under the radar at the tail end of last year, the Australian duo earned their 70-minute playtime and showed they’ve plenty left in the tank
 author: andrew-bridge
 blurb: Gliding in under the radar at the tail end of last year, the Australian duo earn their 70-minute playtime and show they’ve plenty left in the tank.
 
 ---
+
+<figure class="wide">
+  <img src="album-artwork/we-will-always-love-you-the-avalanches.jpg" alt="Album artwork of 'We Will Always Love You' by The Avalanches" />
+  <figcaption>Album artwork by <a href="http://zawada.art/">Jonathan Zawada</a></figcaption>
+</figure>
 
 The Avalanches aren’t prolific with their output by any stretch. Their sophomore studio album, [_Wildflower_](/reviews/the-avalanches-wildflower/) was sixteen years in the making after their critically acclaimed debut. [_We Will Always Love You_](https://theavalanches.lnk.to/WeWillAlwaysLoveYou) was unexpectedly prompt in its arrival in comparison.
 
