@@ -9,16 +9,12 @@ tags:
   - alternative rock
 featuredimage: album-artwork/future-present-past-the-strokes.jpg
 featuredimageAlt: EP artwork of 'Future Present Past' by The Strokes
+showFeaturedImage: true
 title: The Strokes continue their search for a sound
 author: andre-dack
 blurb:  Though there remains a sizeable fanbase, The Strokes don’t have many chances left to convince the rest of us they actually know what they’re doing.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/future-present-past-the-strokes.jpg" alt="EP artwork of 'Future Present Past' by The Strokes" />
-  <figcaption></figcaption>
-</figure>
 
 Upon hearing the mundane misfortune of 2013’s *Comedown Machine*, I couldn’t help but wonder how such a decline had occurred in The Strokes. It seemed inconceivable that this was the same band who authored one of the most outstanding debut albums in contemporary music; a record responsible for the birth of some of todays most popular rock bands. *Is This It?*’s impact went far beyond music, and continues to be held as the record that defined an entire indie culture. [*First Impressions of Earth*](/reviews/the-strokes-first-impressions-of-earth/) had its issues, but doesn’t necessarily get the credit it deserves for its driven attempt to expand on the band’s initial sound. The divisive response from its audience resulted in a hiatus that The Strokes haven’t truly recovered from, as their relevancy continues to decrease with each release.
 

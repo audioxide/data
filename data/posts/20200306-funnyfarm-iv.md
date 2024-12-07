@@ -6,16 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/4-good-as-gould.jpg
 featuredimageAlt: Ink drawing of a contract drawn on a pub napkin
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "IV: Good as Gould"
 summary: In which the band members sign away their children’s inheritances. And their grandchildren’s
 author: frederick-obrien
 blurb: In which the band members sign away their children’s inheritances. And their grandchildren’s.
----
 
-<figure class="wide">
-  <img src="funnyfarm-images/4-good-as-gould.jpg" alt="Illustration for Funnyfarm Part IV: Good as Gould" />
-  <figcaption></figcaption>
-</figure>
+---
 
 Laina Gould had an eye for talent, an ear for hits, and a nose for the finest cocaine north of Grimsby. These qualities had contributed to a career that had been nothing if not eventful – the bits she could remember at any rate – and a personal fortune that had been nothing if not depleted. She was, as the old saying goes, finished. Washed up. Yesterday’s news. Broke.
 

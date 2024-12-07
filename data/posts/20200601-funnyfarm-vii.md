@@ -6,16 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/7-the-dealer-man-can.jpg
 featuredimageAlt: Ink drawing of Thenmayne III
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "VII: The Dealer Man Can"
 summary: In which Bas replenishes his supply of nectar
 author: frederick-obrien
 blurb: In which Bas replenishes his supply of nectar.
----
 
-<figure class="wide">
-  <img src="funnyfarm-images/7-the-dealer-man-can.jpg" alt="Illustration for Funnyfarm Part VII: The Dealer Man Can" />
-  <figcaption></figcaption>
-</figure>
+---
 
 When the Band with No Name pulled up outside the hotel they were greeted by a man clothed entirely in resplendent turqoise. With his waistcoat and bow tie and top hat and Cheshire Cat grin he looked like a dandy put through a strict regimen of hallucinogens. That wasn’t far off the truth.
 

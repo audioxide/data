@@ -6,17 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/1-genesis.jpg
 featuredimageAlt: Ink drawing of an upside down sunrise
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: "I: Genesis"
 summary: In which two hapless dreamers form a band
 author: frederick-obrien
 blurb: In the beginning there was Alan Hazard and Ray O. Sunshine. These were their real names.
 
 ---
-
-<figure class="wide">
-  <img src="funnyfarm-images/1-genesis.jpg" alt="Illustration for Funnyfarm Part I: Genesis" />
-  <figcaption></figcaption>
-</figure>
 
 In the beginning there was Alan Hazard and Raymond Oliver Sunshine. These were their real names.
 
