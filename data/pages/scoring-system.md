@@ -3,9 +3,9 @@ created: 2016-05-09T16:15:47.000Z
 blurb: Learn the convoluted, arbitrary system behind our convoluted, arbitrary album reviews. There is a method to the madness, we swear.
 ---
 
-Our [album reviews](/reviews/) have four scores, occasionally more. We don’t do this to be difficult. Each reviewer (there are usally three) assigns a personal score out of 10. These are combined to make the overall *Audioxide* score, which is out of 30.
+Our [album reviews](/reviews/) usually have four scores. Each reviewer (there are usally three) assigns a personal score out of 10 then these are combined to make the overall *Audioxide* score, which is out of 30.
 
-This system translates into the following brackets:
+This system translates into the following rating brackets:
 
 - **27-30:** [The 27+ Club](/tags/27-plus-club/)
 - **25-26:** Gold

@@ -6,16 +6,14 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/6-whats-in-a-name.jpg
 featuredimageAlt: Ink drawing of two men in the front seat of a minibus
-title: "VI: What&#8217;s in a Name"
+showFeaturedImage: true
+featuredImageCaption: Image by the author
+title: "VI: What’s in a Name"
 summary: In which an astonishing lack of imagination is shown by the band, the manager, and the author
 author: frederick-obrien
 blurb: In which an astonishing lack of imagination is shown by the band, the manager, and the author.
----
 
-<figure class="wide">
-  <img src="funnyfarm-images/6-whats-in-a-name.jpg" alt="Illustration for Funnyfarm Part VI: What's in a Name" />
-  <figcaption></figcaption>
-</figure>
+---
 
 ‘Soul Reel?’
 

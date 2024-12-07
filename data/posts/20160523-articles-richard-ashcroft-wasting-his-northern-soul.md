@@ -14,16 +14,13 @@ tags:
   - britpop
 featuredimage: article-images/richard-ashcroft-wasting-northern-soul.jpg
 featuredimageAlt: Photograph of Richard Ashcroft performing onstage
+showFeaturedImage: true
+featuredImageCaption: Ashcroft watching his spark float away. Photograph by Ashcroft10 on Flickr
 title: Richard Ashcroft is wasting his northern soul
 author: andre-dack
 blurb: There’s very little on These People to inspire much interest. Even die-hard fans will struggle to hear Richard Ashcroft at his best.
 
 ---
-
-<figure class="wide">
-  <img src="article-images/richard-ashcroft-wasting-northern-soul.jpg" alt="Richard Ashcroft performing in 2008" />
-  <figcaption>Ashcroft watching his spark float away. Photograph by Ashcroft10 on Flickr</figcaption>
-</figure>
 
 Those who saw fit to look beyond *Parklife*, *(What’s The Story) Morning Glory?*, *The Bends*, [*Different Class*](/reviews/pulp-different-class/), [*Ladies and Gentleman We Are Floating in Space*](/reviews/spiritualized-ladies-and-gentleman-we-are-floating-in-space/), and numerous other landmarks of British guitar music in the 90s, would have likely come across [*Urban Hymns*](/reviews/the-verve-urban-hymns/). Often referred to as ‘the one with “Bittersweet Symphony” on it’, The Verve’s third studio album is too frequently overlooked in spite of its other fantastic singles, and certainly deserves a better legacy. Unfortunately, former frontman Richard Ashcroft hasn’t exactly helped the cause. [“A Song For The Lovers”](https://www.youtube.com/watch?v=3FVwCm1u8mA), his first single as a solo artist, was a misleading success: Ashcroft’s solo career hasn’t been as dreadful as it has been a total non-entity, and his latest release does nothing to improve things.
 

@@ -8,16 +8,12 @@ tags:
   - electronic
 featuredimage: album-artwork/the-colour-in-anything-james-blake.jpg
 featuredimageAlt: Album artwork of 'The Colour in Anything' by James Blake
+showFeaturedImage: true
 title: James Blake returns with soul and experimentation
 author: andrew-bridge
 blurb: Fans of Blake's stripped back vocal/piano tracks are served well here, with the title track a particular highlight.
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/the-colour-in-anything-james-blake.jpg" alt="Album artwork of 'The Colour in Anything' by James Blake" />
-  <figcaption></figcaption>
-</figure>
 
 James Blake has been drip feeding fans with new tracks from his latest album since the beginning of the year, and teasers ramped up this week with [posts of Quentin Blake](https://www.instagram.com/p/BEvxJDQyMyO/) emblazoning walls with artwork. As Thursday evening rolled around, Blake announced his album would be released at midnight.
 

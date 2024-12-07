@@ -12,17 +12,14 @@ tags:
   - david byrne
 featuredimage: article-images/album-sides-and-beauty-from-circumstance.jpg
 featuredimageAlt: Artwork depicting the contrasting nature of album sides
+showFeaturedImage: true
+featuredImageCaption: Image by the author
 title: Album sides and beauty from circumstance
 summary: From the vinyl flip to the neverending streaming, unique expressions await those willing to immerse themselves in the media formats of their time
 author: frederick-obrien
 blurb: From the vinyl flip to the neverending streaming, unique expressions await those willing to immerse themselves in the media formats of their time
 
 ---
-
-<figure class="wide">
-  <img src="article-images/album-sides-and-beauty-from-circumstance.jpg" alt="Artwork visualising the contrasting nature of album sides" />
-  <figcaption>Image by the author</figcaption>
-</figure>
 
 Context shapes conduct more than we often care to admit, and the same is true of art. In his 2012 book *How Music Works*, [David Byrne](/reviews/david-byrne-american-utopia/) writes that artists ‘unconsciously and instinctively make work to fit preexisting formats […] pictures are created that fit and look good on white walls in galleries just as music is written that sounds good either in a dance club or a symphony hall (but probably not in both).’ Similarly, music is often composed to compliment the format that will house it. While the focus of Byrne’s book is, on the whole, cultural, this piece is directed more at the influence format can have on the sounds it stores. To peek behind music’s curtain is to lay eyes upon a near-boundless world; that of circumstance. The meeting of woolly artistic intent and the stern, rigid realities of the world give birth to necessarily unique forms of beauty. Format influences form. At its best, it elevates it, and for an example one likely needn’t look further than a favourite LP.
 
