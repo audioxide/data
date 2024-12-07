@@ -3,6 +3,7 @@ node_modules
 dist
 .idea
 .parcel-cache
+.env
 
 # Local Netlify folder
 .netlify

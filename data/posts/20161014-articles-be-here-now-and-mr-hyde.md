@@ -14,16 +14,14 @@ tags:
   - 1990s
 featuredimage: article-images/be-here-now-and-mr-hyde.jpg
 featuredimageAlt: Caricature of Liam Gallagher of Oasis
-title: "&#8216;Be Here Now&#8217; and Mr. Hyde"
+showFeaturedImage: true
+featuredImageCaption: Image by the author
+title: "‘Be Here Now’ and Mr. Hyde"
 summary: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album
 author: frederick-obrien
 blurb: Riding the crest of an unprecedented popular rise, veins caked thick with drugs, Oasis produced something profoundly overblown in their third album.
 
 ---
-<figure class="wide">
-  <img src="article-images/be-here-now-and-mr-hyde.jpg" alt="Drawing of late '90-era Liam Gallagher" />
-  <figcaption>Image by the author</figcaption>
-</figure>
 
 Oasis’s infamous 1997 mad fer it cocaine extravaganza *Be Here Now* was re-released today, joining last week’s documentary about the band’s early years - [*Supersonic*](http://www.imdb.com/title/tt5213534/). Both have generated press, which has got me thinking about the group. I have a lot of time for Oasis, which is fairly easy to get away with. I’m also quite fond of *Be Here Now*, which is harder to justify. I like it for many of the same reasons I like the band. There’s a mangled innocence about Oasis, and their third album showcases that quite well.
 

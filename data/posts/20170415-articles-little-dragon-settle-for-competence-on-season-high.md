@@ -7,15 +7,11 @@ tags:
   - little dragon
 featuredimage: album-artwork/season-high-little-dragon.jpg
 featuredimageAlt: Album artwork of 'Season High' by Little Dragon
-title: Little Dragon settle for competence on &#8216;Season High&#8217;
+showFeaturedImage: true
+title: Little Dragon settle for competence on ‘Season High’
 author: andre-dack
 
 ---
-
-<figure class="wide">
-  <img src="album-artwork/season-high-little-dragon.jpg" alt="Album artwork of 'Season High' by Little Dragon" />
-  <figcaption></figcaption>
-</figure>
 
 You know what you’re getting with a new Little Dragon album: mid-tempo R&B with a heavy ‘80s influence and a dash of modern dance. If nothing else, the Swedish group know how to strike a groove, and they have found success in the formula for ten years now. Though they’re perhaps more known for some [outstanding](https://www.youtube.com/watch?v=ZdUINbi4wSY) [collaborations](https://www.youtube.com/watch?gl=ID&feature=relmfu&hl=id&v=C-yP9f0gadU), Yukimi Nagano and company have deservedly built a reputation – when their name features at a festival, you know you’re in for a good time.
 
