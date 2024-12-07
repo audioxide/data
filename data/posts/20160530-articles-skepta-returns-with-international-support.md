@@ -8,12 +8,16 @@ tags:
   - grime
 featuredimage: album-artwork/konnichiwa-skepta.jpg
 featuredimageAlt: Album artwork of 'Konnichiwa' by Skepta
-showFeaturedImage: true
 title: Skepta returns with international support
 author: andrew-bridge
 blurb: Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export.
 
 ---
+
+<figure class="wide">
+  <img src="album-artwork/konnichiwa-skepta.jpg" alt="Album artwork of 'Konnichiwa' by Skepta" />
+  <figcaption></figcaption>
+</figure>
 
 Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export. His latest release goes a little further to prove this with featured appearances from British and American rappers including Pharrell Williams.
 

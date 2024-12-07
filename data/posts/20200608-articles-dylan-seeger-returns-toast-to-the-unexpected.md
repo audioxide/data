@@ -7,13 +7,17 @@ tags:
   - dylan seeger
 featuredimage: album-artwork/metropolitan-hospital-center-dylan-seeger.jpg
 featuredimageAlt: Album artwork of Metropolitan Hospital Center by Dylan Seeger
-showFeaturedImage: true
 title: Dylan Seeger returns, and a toast to the unexpected
 summary: After another fascinating, often beautiful independent album fell into my lap, I got to thinking about the passivity of music discovery. Most of us - me included - could stand to be more adventurous
 author: frederick-obrien
 blurb: A near delirious strain of baroque pop, the album is quite beautiful. It’s off the beaten track, true to itself and all the more alive because of it.
 
 ---
+
+<figure class="wide">
+  <img src="album-artwork/metropolitan-hospital-center-dylan-seeger.jpg" alt="Album artwork of 'Metropolitan Hospital Center' by Dylan Seeger" />
+  <figcaption></figcaption>
+</figure>
 
 Two and a half years ago an American musician called Dylan Seeger contacted us about an album of his called [*Claye*](https://www.dylanseeger.com/claye). Presumably mistaking us for a respectable publication, he asked if we’d listen to it. I did, and I liked it. We exchanged emails, and those emails eventually took the form of [an interview](https://audioxide.com/interviews/dylan-seeger/).
 

@@ -12,14 +12,17 @@ tags:
   - lianne la havas
 featuredimage: article-images/arlo-parks-portrait.jpg
 featuredimageAlt: Musician Arlo Parks staring offscreen to the left against a plain background. Photo by Chris Almeida
-showFeaturedImage: true
-featuredImageCaption: 'Album artwork by <a href="https://www.jackbridgland.com/">Jack Bridgeland</a> and <a href="http://www.godejong.com/">Go De Jong</a>'
 title: Arlo Parks debuts with moreish confidence
 author: andrew-bridge
 summary: Drawing from a melting pot of influences, Parks delivers ice cool nonchalance and honest intimacy in a debut record as exciting as it is impressive
 blurb: Drawing from a melting pot of influences, Parks delivers ice cool nonchalance and honest intimacy in a debut record as exciting as it is impressive.
 
 ---
+
+<figure class="wide">
+  <img src="album-artwork/collapsed-in-sunbeams-arlo-parks.jpg" alt="Album artwork of 'Collapsed in Sunbeams' by Arlo Parks" />
+  <figcaption>Album artwork by <a href="https://www.jackbridgland.com/">Jack Bridgeland</a> and <a href="http://www.godejong.com/">Go De Jong</a></figcaption>
+</figure>
 
 Signing to a major label, playing Glastonbury, making the cover of the _NME_, and releasing an album to wide critical acclaim are the goals of an entire career for many. For Arlo Parks, it’s what she’s achieved in the first three years of hers. _Collapsed in Sunbeams_ has received a wealth of positive attention, and I find myself returning to this debut over and again. A month on from its release it’s easy to see why.
 

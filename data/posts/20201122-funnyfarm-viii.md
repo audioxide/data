@@ -6,14 +6,17 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/8-hazardous.jpg
 featuredimageAlt: Ink drawing of Alan Hazard having one of his episodes
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: "VIII: Hazardous"
 summary: In which we hear the innermost thoughts of the world's most important person
 author: frederick-obrien
 blurb: In which we hear the innermost thoughts of the world's most important person.
 
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/8-hazardous.jpg" alt="Illustration for Funnyfarm Part VIII: Hazardous" />
+  <figcaption></figcaption>
+</figure>
 
 Alan Hazard gazed into the eyes before him. They were his eyes, and they were the most beautiful brown eyes in the world, muddy brown and full of mystery. His gaze flicked down to his nose which, well, it was a masterpiece. There was no other word for it. Then there was the mouth. Where others may have seen a wet, altogether sickly pair of lips, he knew better. He saw the smile that lurked behind them, and the laughter ready to tell anyone who heard it that he held all the cards, don’t you worry. It was all the mirror could do to keep itself from shattering into a thousand pieces when Hazard unleashed what he thought was an enigmatic grin. 
 

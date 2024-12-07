@@ -8,14 +8,17 @@ tags:
   - spotify
 featuredimage: article-images/spotify-alternatives-featured-image.jpg
 featuredimageAlt: Illustration of a wooden signpost with boards pointing to different music streaming services
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: Artist-friendly music streaming alternatives to Spotify et al.
 author: frederick-obrien
 summary: The big dogs of music streaming aren’t great for musicians, but there are fairer, more ethical options out there. Here are services putting artists first (or at least, not dead last)
 blurb: The big dogs of music streaming aren’t great for musicians, but there are other options. Here are services putting artists first (or at least, not dead last).
 
 ---
+
+<figure class="wide">
+  <img src="article-images/spotify-alternatives-featured-image.jpg" alt="Illustration of a wooden signpost with boards pointing to different music streaming services" />
+  <figcaption>Image by the author</figcaption>
+</figure>
 
 Royalty rates on popular music streaming services make it impossible for all but the biggest musicians to earn livable incomes. Consumer habits alone won’t save the world, but enough people spending conscientiously can make a huge difference to an awful lot of artists. With that in mind, this article contains a selection of more ethical alternatives to the likes of Spotify, Apple Music, and YouTube.
 

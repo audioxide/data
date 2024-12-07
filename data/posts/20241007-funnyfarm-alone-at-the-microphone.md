@@ -6,14 +6,16 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/11-alone-at-the-microphone.jpg
 featuredimageAlt: Ink drawing of a hanging microphone casting a noose-shaped shadow
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: "XI: Alone at the Microphone"
 summary: In which the band go to a radio interview
 author: frederick-obrien
 blurb: In which the band go to a radio interview.
-
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/11-alone-at-the-microphone.jpg" alt="Ink drawing of a hanging microphone casting a noose-shaped shadow" />
+  <figcaption>Image by the author</figcaption>
+</figure>
 
 ‘Welcomebacktotheshowitsabeautifulmorninghereonradiogoogooitsalwaysafinemorningwithnewmusiconthewayimdelightedtobejoinedbytheohsomysteriousandenigmaticbandwithnonamewelcomeguyswereveryexcitedtohaveyouhere.’
 

@@ -15,7 +15,7 @@ tags:
   - beyonce
 featuredimage: album-artwork/hardwired-to-self-destruct-metallica.jpg
 featuredimageAlt: Album artwork of 'Hardwired... to Self-Destruct' by Metallica
-title: "“Show those ruffians how it’s done” – André and Fred listen to Metallica"
+title: "&#8220;Show those ruffians how it&#8217;s done&#8221; &#8211; André and Fred listen to Metallica"
 author: 
   - andre-dack
   - frederick-obrien

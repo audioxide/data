@@ -6,14 +6,16 @@ type: funnyfarm
 tags: []
 featuredimage: funnyfarm-images/9-believe-the-hype.jpg
 featuredimageAlt: Ink drawing of a guitar with absurdly long strings
-showFeaturedImage: true
-featuredImageCaption: Image by the author
 title: "IX: Believe the Hype"
 summary: In which postmodern literature finally finds meaning
 author: frederick-obrien
 blurb: In which postmodern literature finally finds meaning.
-
 ---
+
+<figure class="wide">
+  <img src="funnyfarm-images/9-believe-the-hype.jpg" alt="Illustration for Funnyfarm Part IX: Believe the Hype" />
+  <figcaption></figcaption>
+</figure>
 
 Dozens of disaffected youths descended on the Neon Duck to watch the Band with No Name rock their socks off. Word was the group had been behind a riot up in Coppleton, and any act worth burning down a pub over had to be worth seeing. There wasn’t anticipation in the air, but there was at least mild curiosity.
 

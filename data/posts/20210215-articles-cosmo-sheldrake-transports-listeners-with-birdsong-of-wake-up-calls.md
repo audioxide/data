@@ -9,14 +9,17 @@ tags:
   - avant garde
 featuredimage: article-images/cosmo-sheldrake-portrait.jpg
 featuredimageAlt: Musician Cosmo Sheldrake standing in a forest wearing a boat hat
-showFeaturedImage: true
-featuredImageCaption: 'Album artwork by <a href="https://www.florawallace.com/illustrations">Flora Wallace</a>'
 title: Cosmo Sheldrake transports listeners to warmer, wilder climes with the birdsong of ‘Wake Up Calls’
 author: andrew-bridge
 summary: Using recordings from birds (mostly) on the red and amber endangered lists in Britain, Sheldrake layers and manipulates birdsong to produce music as calming as it is beautiful
 blurb: Using recordings from birds (mostly) on endangered lists in Britain, Sheldrake layers and manipulates birdsong to produce music as calming as it is beautiful.
 
 ---
+
+<figure class="wide">
+  <img src="album-artwork/wake-up-calls-cosmo-sheldrake.jpg" alt="Album artwork of 'Wake Up Calls' by Cosmo Sheldrake" />
+  <figcaption>Album artwork by <a href="https://www.florawallace.com/illustrations">Flora Wallace</a></figcaption>
+</figure>
 
 Although [Cosmo Sheldrake](https://www.cosmosheldrake.com/)’s album [_Wake Up Calls_](https://cosmosheldrake.bandcamp.com/album/wake-up-calls-2) could be considered a curious audio diversion to some, according to my last.fm profile - yes, I still scrobble alongside its three other users - it was some of my most listened to music in 2020, despite only coming out in September. Weeks into 2021 I’m still listening to it plenty.
 
