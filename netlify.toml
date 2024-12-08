@@ -2,7 +2,7 @@
   publish = "dist/"
   command = "sed -i \"s|ALLOWED_URL|${SITE_URL}|g\" netlify.toml && yarn && yarn build"
   functions = "functions"
-  environment = { SITE_URL = "https://audioxide.com", API_URL = "https://audioxide.com/api" }
+  environment = { SITE_URL = "https://audioxide.com", API_URL = "https://api.audioxide.com" }
 
 [[plugins]]
 package = "/plugins/netlify-plugin-cache-audioxide-data"
