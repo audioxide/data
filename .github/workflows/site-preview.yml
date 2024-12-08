@@ -54,7 +54,7 @@ jobs:
     - run: sed -i "s|^\s*environment.*$||g" netlify.toml
       working-directory: data
     # Build and deploy the data repo
-    - run: npx netlify deploy --build --alias data-preview-$CI_REF_NAME_SLUG
+    - run: npx netlify deploy --build --alias data-preview-${{ env.CI_REF_NAME_SLUG }}
       working-directory: data
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the repo specific token
