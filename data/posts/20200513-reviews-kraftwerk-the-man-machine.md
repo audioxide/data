@@ -36,6 +36,7 @@ colours:
   - "#e83c3c"
   - "#181818"
   - "#181818"
+  - "#181818"
 pullquote: Pioneering electronica
 summary: The album makes for hypnotic listening, bobbling along like a well-mannered German robot. All these years later it still sounds like the future.
 week: 233
