@@ -24,8 +24,8 @@ totalscore:
   fraction: 0.7333333333
 colours:
   - "#446d67"
-  - "#cbdddf"
-  - "#cbdddf"
+  - "#D9E6E8"
+  - "#D9E6E8"
 pullquote: Every inch a spectacle                                 
 summary: I wondered how BC, NR would follow up such a creatively charged debut record, and whilst it's not necessarily as ambitious as some had hoped it may be, Ants from Up There has certainly delivered the goods
 week: 285
