@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#AF9581"
-  - "#F7F6F8"
-  - "#F7F6F8"
+  - "#8C715A"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Powerful, righteous, and funny
 summary: Refreshingly sincere and positive in a time where artists are finding it easy to sensationalise and despair. Its instrumentals are tetchy and fast-paced as one might expect of punk rock, but they retain a weight that often gets lost in the blasts of drums and guitars synonymous with the genre.
 week: 162
