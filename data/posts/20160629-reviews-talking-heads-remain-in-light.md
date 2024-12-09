@@ -29,7 +29,7 @@ totalscore:
 colours:
   - "#000000"
   - "#fff"
-  - "#c22126"
+  - "#DC3238"
 pullquote: Impenetrable yet captivating
 summary: This is one for the audiophiles. Under the Midas wing of Brian Eno, Talking Heads juggle African genres with Western experimentation and innovative digital play, glazing the whole affair with almost delirious David Byrne lyrics and delivery.
 week: 59
