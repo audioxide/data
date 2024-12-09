@@ -25,8 +25,9 @@ totalscore:
   fraction: 0.8666666666666667
 colours:
   - "#ea8d0e"
-  - "#ffffff"
-  - "#323944"
+  - "#000000"
+  - "#000000"
+  - "#000000"
 pullquote: Breathless, explosive music
 summary: It’s breathless, explosive music; the kind that compels listeners to pick up an instrument or start a band. Origin of Symmetry listens like a spectacular jam — with all the unpolished, patchy, brazen energy that entails — and all in all it’s pretty rad, man.
 week: 17

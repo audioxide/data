@@ -27,6 +27,7 @@ colours:
   - "#f4afc2"
   - "#34302d"
   - "#34302d"
+  - "#34302d"
 pullquote: A good non-rap album
 summary: Tyler deliberately plays against his strengths and manages to push himself to make a good non-rap album. That in itself is pretty fucking fascinating.
 week: 193
