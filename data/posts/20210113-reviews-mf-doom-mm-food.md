@@ -25,8 +25,8 @@ totalscore:
   fraction: 0.83333333
 colours:
   - "#a84945"
-  - "#ecdfcc"
-  - "#ecdfcc"
+  - "#efe5d7"
+  - "#efe5d7"
 pullquote: A master at work
 summary: Everything about MM..FOOD feels effortless. MF DOOM doesn’t try too hard - in fact it feels like he’s barely trying at all. It’s pure, natural talent that cannot be taught, nor replicated. He defies the expectations of wordplay time and time again.
 week: 253
