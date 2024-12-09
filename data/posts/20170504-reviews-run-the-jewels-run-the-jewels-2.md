@@ -23,8 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#E42827"
-  - "#FACA20"
+  - "#E52826"
+  - "#ffffff"
+  - "#000600"
   - "#000600"
 pullquote: Commanding and hilarious
 summary: "The heavy, growling beats, echoing synths, and dark use of space lend themselves well to the cadence of El-P and Killer Mike’s delivery: severe, angry, and macho, but also intrinsically light-hearted and quick to generate grins amongst the intimidation."
