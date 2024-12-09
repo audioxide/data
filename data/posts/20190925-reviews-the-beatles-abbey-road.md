@@ -23,7 +23,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#658fae"
+  - "#4f7a96"
   - "#ffffff"
   - "#ffffff"
 pullquote: The last word
