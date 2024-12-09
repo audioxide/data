@@ -32,7 +32,7 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#f98b43"
+  - "#EC713C"
   - "#010101"
   - "#010101"
 pullquote: Tangled art pop
