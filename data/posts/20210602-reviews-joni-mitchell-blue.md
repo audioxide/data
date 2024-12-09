@@ -26,7 +26,7 @@ totalscore:
   fraction: 0.93333333333333
 colours:
   - "#022158"
-  - "#5b5f93"
+  - "#8cb7e1"
   - "#8cb7e1"
 pullquote: She’s so good you almost wonder why anyone else bothers                                 
 summary: The early 1970s was a golden era for singer-songwriters, but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocal performances.                 
