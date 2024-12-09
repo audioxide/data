@@ -27,9 +27,9 @@ totalscore:
   possible: 30
   fraction: 0.80
 colours:
-  - "#da0772"
-  - "#1a0f0b"
-  - "#1a0f0b"
+  - "#E40775"
+  - "#000000"
+  - "#000000"
 pullquote: Boiling point
 summary: "El-P and Mike may have been fighting for the cause before, but now they're on the frontline. On RTJ4, the duo stand up to be counted for what they really are: rappers, producers, activists, husbands, citizens."
 week: 236
