@@ -21,7 +21,7 @@ totalscore:
   possible: 30
   fraction: 0.5666666666666667
 colours:
-  - "#252a2c"
+  - "#181A1B"
   - "#F70B96"
   - "#FFF"
 pullquote: Drastically limited
