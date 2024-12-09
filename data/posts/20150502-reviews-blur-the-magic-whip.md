@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#c2ba8c"
-  - "#323944"
-  - "#323944"
+  - "#000101"
+  - "#bff8fa"
+  - "#ecfdfd"
 pullquote: An unbalanced comeback
 summary: The Magic Whip is a rather unbalanced comeback — a tired album that relies too heavily on its somber tone, resulting in forgettable and lifeless songs that drift by in apathetic fashion.
 week: 14
