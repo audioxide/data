@@ -24,9 +24,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#787878"
-  - "#d9d9d9"
   - "#1c1c1c"
+  - "#d9d9d9"
+  - "#d9d9d9"
 pullquote: Effortless
 summary: Full to the brim with ideas that are executed with such precision, skillfully mixed with care and delicacy, resulting in a complete work that seems somehow effortless in its construction.
 week: 15
