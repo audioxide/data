@@ -29,9 +29,9 @@ totalscore:
   possible: 30
   fraction: 0.83333333333
 colours:
-  - "#11b8ce"
-  - "#eef8ff"
-  - "#eef8ff"
+  - "#0A808F"
+  - "#FAFDFF"
+  - "#FAFDFF"
 pullquote: Bigger, bolder, and gentler than ever
 summary: Ellie Rowsell’s customary drift between spoken-word musings and operatic soarings is alive and well, and the band as a whole is as simpatico as ever - if not moreso. Their gifts are just in service of gentler shapes this time around.
 week: 273
