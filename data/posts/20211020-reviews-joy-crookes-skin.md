@@ -24,8 +24,8 @@ totalscore:
   fraction: 0.8
 colours:
   - "#876a64"
-  - "#cec9c5"
-  - "#cec9c5"
+  - "#f6f6f4"
+  - "#f6f6f4"
 pullquote: A confident, brilliant debut
 summary: Joy Crookes has given me another reason to think 2021 is the year of the confident, brilliant debut. Skin has a knack for swaying between intimate, soulful jazz cuts and grander, orchestral pieces, making for a satisfying, moreish sound.
 week: 282

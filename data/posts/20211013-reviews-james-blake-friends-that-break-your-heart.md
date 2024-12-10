@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.63333333333
 colours:
-  - "#5b9e18"
-  - "#ddd5c1"
-  - "#ddd5c1"
+  - "#457713"
+  - "#EFEBE1"
+  - "#EFEBE1"
 pullquote: A little too familiar
 summary: Blake’s vocals are, predictably, beautiful; Blake’s production is, predictably, meticulous; and I, predictably, have lapped it up. But where Assume Form felt like progress, Friends That Break Your Heart feels a little too familiar.
 week: 281

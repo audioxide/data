@@ -25,7 +25,7 @@ totalscore:
 colours:
   - "#c20235"
   - "#fffad1"
-  - "#f0bf1f"
+  - "#F5DA7F"
 pullquote: Beautiful, vague nonsense
 summary: In my mind, Yoshimi Battles the Pink Robots functions best as a fantastical journey of curious thoughts and emotions. It’s clumsy, yet very loveable, and there’s nothing else quite like it.
 week: 77

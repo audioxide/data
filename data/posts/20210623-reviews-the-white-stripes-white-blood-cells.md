@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.66666667
 colours:
-  - "#bc2711"
-  - "#fcfcfc"
-  - "#181818"
+  - "#E03015"
+  - "#fff"
+  - "#000"
 pullquote: Rock music’s answer to an ice-cold six-pack of decentish lager
 summary: The record listens like rock music’s answer to an ice-cold six-pack of decentish lager. What goes on is unrefined, but that only adds to the pleasure of a cheap and cheerful good time.
 week: 274

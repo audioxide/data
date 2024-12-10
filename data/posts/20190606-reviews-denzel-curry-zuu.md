@@ -20,7 +20,7 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#9CB8C1"
+  - "#477D8F"
   - "#fff"
   - "#fff"
 pullquote: Sweltering Summer rap
