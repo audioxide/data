@@ -29,7 +29,7 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#6abada"
+  - "#287D9F"
   - "#fff4cc"
   - "#F9CDD4"
 pullquote: Remarkably addictive
