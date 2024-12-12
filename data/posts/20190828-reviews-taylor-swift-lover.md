@@ -30,8 +30,8 @@ totalscore:
   fraction: 0.6666666666666666
 colours:
   - "#287D9F"
-  - "#fff4cc"
-  - "#F9CDD4"
+  - "#FFFCF5"
+  - "#FCFCFC"
 pullquote: Remarkably addictive
 summary: Hip, catchy… all that stuff. Lover isn’t as expansive as Kate Bush or as daring as St. Vincent, but it is accessible and intelligent, which I think are the hallmarks of Swift at her best.
 week: 205
