@@ -29,7 +29,7 @@ totalscore:
   possible: 30
   fraction: 0.8333333333333334
 colours:
-  - "#6397e0"
+  - "#496C9F"
   - "#f5f0f7"
   - "#f5f0f7"
 pullquote: Pop music of art students
