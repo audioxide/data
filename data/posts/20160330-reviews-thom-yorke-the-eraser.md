@@ -24,8 +24,8 @@ totalscore:
   fraction: 0.7
 colours:
   - "#0f0f0f"
-  - "#FFF"
-  - "#ed1a36"
+  - "#ffffff"
+  - "#ED2641"
 pullquote: Erratic ambience
 summary: The Eraser is a wonderful listen that comes with some baggage. It’s not on the level of OK Computer, In Rainbows, or Kid A — in fact, it doesn’t even attempt to stand on the same pedestal — but remains a significant entry in the Radiohead timeline.
 week: 47
