@@ -26,8 +26,8 @@ totalscore:
   fraction: 0.6666666666666666
 colours:
   - "#cb2d0c"
-  - "#e5c0a6"
-  - "#e5c0a6"
+  - "#F5EBE0"
+  - "#F5EBE0"
 pullquote: One big agreeable blur
 summary: Dreamy psychedelia takes centre stage, with very little shift in pace or tone. I'm hugely enamoured with the first handful of tracks, but gradually become numb to the music's whimsical nature.
 week: 221
