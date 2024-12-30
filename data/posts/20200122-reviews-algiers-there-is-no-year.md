@@ -28,8 +28,8 @@ totalscore:
   fraction: 0.6333333333333333
 colours:
   - "#2a2925"
-  - "#f23c31"
-  - "#283bb1"
+  - "#F45F57"
+  - "#ffffff"
 pullquote: "Mood: mood"
 summary: Following 2017’s brutally beautiful Underside of Power, There is No Year feels light in comparison, and even slightly unfinished. A record full to the brim, bursting with potential for something greater than what it ultimately settles for.
 week: 218
