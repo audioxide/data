@@ -21,9 +21,9 @@ totalscore:
   possible: 30
   fraction: 0.43333333333333335
 colours:
-  - "#B7C6E3"
-  - "#E8EEFC"
-  - "#323944"
+  - "#66738F"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Disappointingly drab
 summary: Songs often start with a groove that could quite easily develop into something interesting, but instead stagnate into nothing. Rhythmic repetition attempts to disguise a very obvious lack of development in ideas.
 week: 91
