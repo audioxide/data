@@ -28,7 +28,7 @@ totalscore:
   fraction: 0.7333333333333333
 colours:
   - "#33141d"
-  - "#c42421"
+  - "#dae0e3"
   - "#dae0e3"
 pullquote: Gloriously grubby
 summary: The record is a rich and gloriously grubby collage of sounds. It stands strong in a place somewhere between Pixies and Nirvana, with an added injection of psychedelic rock to ensure The Pumpkins nail down a sound of their own.
