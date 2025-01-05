@@ -29,7 +29,7 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#ec372c"
+  - "#E52015"
   - "#FFF"
   - "#FFF"
 pullquote: Clever, plucky glam music
