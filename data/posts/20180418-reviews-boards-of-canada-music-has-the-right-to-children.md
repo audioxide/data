@@ -24,9 +24,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#44958e"
-  - "#d5eded"
-  - "#FFF"
+  - "#377770"
+  - "#E3F3F3"
+  - "#FFFFFF"
 pullquote: An IDM milestone
 summary: Music has the Right to Children is immaculately layered. It often seems like very little is happening, but the subtle details drive the music along. It’s constantly evolving. The rare moments of tranquility take your breath away; they feel important and momentous due to the vast textural contrast.
 week: 142
