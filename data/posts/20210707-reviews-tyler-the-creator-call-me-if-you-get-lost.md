@@ -25,7 +25,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#6ea375"
+  - "#528058"
   - "#ffffff"
   - "#ffffff"
 pullquote: Impulsive in all the best ways
