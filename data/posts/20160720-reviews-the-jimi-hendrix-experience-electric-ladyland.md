@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#bd3e33"
-  - "#e3b456"
-  - "#f2c799"
+  - "#B13A2F"
+  - "#F9FAD1"
+  - "#F7DCC0"
 pullquote: Red-hot psychedelia
 summary: "To an extent, this is psychedelic background music, the kind only Hendrix, with his divine craft and exquisite ability, could muster. It plays like a vivid dream: beautiful, chaotic, and vigorous. This is prime Hendrix."
 week: 62
