@@ -27,7 +27,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#bdaa72"
+  - "#877440"
   - "#fefdf9"
   - "#fefdf9"
 pullquote: A spectacular musical safari
