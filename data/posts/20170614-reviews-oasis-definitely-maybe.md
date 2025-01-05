@@ -26,8 +26,8 @@ totalscore:
   fraction: 0.7333333333333333
 colours:
   - "#766680"
-  - "#FFF"
-  - "#ffde8f"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Relentless rock & roll
 summary: What a way to introduce yourselves to the world. Rock and roll delivered with swagger is such a buzz, and that’s the game on Definitely Maybe; relentless and unstoppable.
 week: 102
