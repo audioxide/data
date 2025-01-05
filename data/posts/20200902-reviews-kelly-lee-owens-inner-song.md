@@ -26,8 +26,8 @@ totalscore:
   fraction: 0.7
 colours:
   - "#565653"
-  - "#cacaca"
-  - "#cacaca"
+  - "#cccccc"
+  - "#cccccc"
 pullquote: A frozen wildflower
 summary: In a way the album is so delicate, so finely made, that it at times feels too fragile for its own good. It’s like a frozen wildflower - intricate and beautiful, but prone to shatter at any moment.
 week: 246
