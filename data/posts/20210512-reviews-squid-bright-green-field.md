@@ -28,7 +28,7 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#469057"
+  - "#3F834F"
   - "#ffffff"
   - "#ffffff"
 pullquote: Ambitious, varied, and explorative
