@@ -27,7 +27,7 @@ totalscore:
 colours:
   - "#476796"
   - "#f7f8fc"
-  - "#ccdfe6"
+  - "#DAE7EC"
 pullquote: A stunning work
 summary: Björk has not stopped searching, reinventing herself; and if this unending hunt is the driving force behind her art, Homogenic can be understood as the point at which she realised this – declaring herself ‘The Hunter’ – and the nadir of her brilliant work.
 week: 83
