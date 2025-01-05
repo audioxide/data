@@ -27,7 +27,7 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#8ca8d4"
+  - "#426DB3"
   - "#e8f5ff"
   - "#e8f5ff"
 pullquote: Meditative and self-limiting
