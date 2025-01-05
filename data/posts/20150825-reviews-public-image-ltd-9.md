@@ -20,7 +20,7 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#f76e59"
+  - "#E5280B"
   - "#ffffff"
   - "#000000"
 pullquote: Slick and silly
