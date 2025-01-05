@@ -24,9 +24,9 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#292628"
-  - "#8D8000"
-  - "#FFF"
+  - "#414142"
+  - "#BBAF58"
+  - "#BBAF58"
 pullquote: Vibrant British rock
 summary: Favourite Worst Nightmare may just be the best album to come from Arctic Monkeys yet. Riffs in giant proportions, subtleties hidden between the pedal switches, and Turner’s Sheffield charm in spades.
 week: 86
