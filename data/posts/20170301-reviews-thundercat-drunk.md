@@ -23,8 +23,8 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#4C4B47"
-  - "#DD9974"
+  - "#505b64"
+  - "#FFFFFF"
   - "#FFFFFF"
 pullquote: Mellow musical clutter
 summary: Thundercat doesn’t want to exhaust an idea, getting in and out of a song as soon as possible (often to its detriment), but has at the same time stuffed this album with so many ideas that it drags and becomes exhausting.
