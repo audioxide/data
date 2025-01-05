@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#e62786"
-  - "#f2fafa"
-  - "#f2fafa"
+  - "#E01A7D"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Quickfire West Coast hip hop
 summary: There’s an audacity to the concept that’s hard to ignore. FM! really does sound like a cartoonish snippet of overblown California radio, with all the pomp and sunshine and shadow that entails.
 week: 171
