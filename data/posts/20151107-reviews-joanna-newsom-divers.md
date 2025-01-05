@@ -23,7 +23,7 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#b0a479"
+  - "#84754D"
   - "#FFF"
   - "#FFF"
 pullquote: Beautifully crafted
