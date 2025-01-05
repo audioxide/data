@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#b4c5b9"
+  - "#5F7C65"
   - "#ffffff"
   - "#ffffff"
 pullquote: Muggy and sorrowful
