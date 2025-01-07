@@ -23,7 +23,7 @@ totalscore:
   fraction: 0.7333333333333333
 colours:
   - "#090808"
-  - "#c82135"
+  - "#DF3A4D"
   - "#FFF"
 pullquote: Model '80s pop
 summary: I don’t have a lot of time for pop, but when I do I want it to sound like Michael Jackson. I guess the problem is that by 1987 Michael Jackson knew that was true for a lot of people. There’s a gimmickry to Bad which doesn’t always sit right.
