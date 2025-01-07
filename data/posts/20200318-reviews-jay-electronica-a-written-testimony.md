@@ -27,7 +27,7 @@ totalscore:
 colours:
   - "#466582"
   - "#f4f5f7"
-  - "#e2dccc"
+  - "#E3DDCE"
 pullquote: The Jay-2 project
 summary: The sampling is seriously inventive and a joy to behold, the production is consistently phenomenal, and the thoughtful lyrical content rewards further listens.
 week: 224
