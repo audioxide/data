@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#ce98b8"
+  - "#AF558D"
   - "#fcfcfc"
-  - "#dbdde9"
+  - "#fcfcfc"
 pullquote: Lush lunacy
 summary: There's a glaring sense of lunacy throughout. It's as though JPEGMAFIA is snapping between multiple identities. I actually find the madness quite soothing, though I'm not really sure how or why.
 week: 208
