@@ -20,7 +20,7 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#C2712C"
+  - "#A94B37"
   - "#FDEBE4"
   - "#FDEBE4"
 pullquote: An alt-metal epic
