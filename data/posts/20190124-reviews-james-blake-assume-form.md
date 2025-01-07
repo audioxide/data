@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#17111d"
-  - "#826151"
-  - "#826151"
+  - "#120916"
+  - "#A56972"
+  - "#A56972"
 pullquote: A beautiful statement of love
 summary: Blake's words are far more direct than ever before, and it suits the more focused nature of his songwriting, particularly in the album's second half. Blake has always been excellent at setting a mood, but for the first time in his career he actually exudes genuine emotive qualities.
 week: 176
