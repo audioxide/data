@@ -20,9 +20,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#3a4444"
-  - "#807e42"
-  - "#FFF"
+  - "#2d4451"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A smooth fabric of sound
 summary: True to its reggae roots, the album’s mood is consistently mellow, providing an ideal vibe for those warm summer evenings. It flows at a steady tempo and seldom threatens to move away from it.
 week: 67
