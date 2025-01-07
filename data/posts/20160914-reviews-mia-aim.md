@@ -24,6 +24,7 @@ colours:
   - "#ff5c21"
   - "#240b04"
   - "#240b04"
+  - "#240b04"
 pullquote: A drab farewell
 summary: If any generalisation can be made about AIM, it’s that it’s splintered.
   Almost every song comes across like a hodgepodge of undeveloped ideas mixed in
