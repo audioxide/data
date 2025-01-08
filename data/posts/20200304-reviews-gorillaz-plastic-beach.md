@@ -27,7 +27,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#ec9742"
+  - "#b75c2b"
   - "#ffffff"
   - "#ffffff"
 pullquote: Synthetic luxury
