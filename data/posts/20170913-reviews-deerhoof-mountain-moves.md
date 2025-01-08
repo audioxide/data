@@ -24,9 +24,9 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#898071"
-  - "#eaf4eb"
-  - "#eaf4e9"
+  - "#7E7467"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Hip, spritely protests
 summary: Deerhoof cram dozens of ideas into a 40-minute album, which is not only technically impressive, but thoroughly amusing. Mountain Moves is a protest album at heart, yet it overflows with a spirit that is both defiant and joyous.
 week: 115
