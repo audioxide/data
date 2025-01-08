@@ -26,7 +26,7 @@ totalscore:
   fraction: 0.6
 colours:
   - "#6e526a"
-  - "#ab9091"
+  - "#DCD0D0"
   - "#d6ded5"
 pullquote: A disjointed patchwork
 summary: SOPHIE’s production style is her primary asset, and I’m certain that therein lies the illustrious future. Whilst there is a plethora of interesting production ideas here, there’s also a notable absence of creativity in actual song writing.
