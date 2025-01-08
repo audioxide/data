@@ -26,7 +26,7 @@ totalscore:
 colours:
   - "#a6327b"
   - "#faf1ed"
-  - "#e3bad8"
+  - "#EDD4E6"
 pullquote: Ridiculously groovy
 summary: In a lot of ways I love this album. But stood in a row with its successors I can’t help but see it as inferior for the lack of arrogant boundary warping, or the self-assured, unrepentant coolness with which every other album has been delivered.
 week: 167
