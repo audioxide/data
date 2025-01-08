@@ -30,7 +30,7 @@ totalscore:
   possible: 30
   fraction: 0.9666666666666667
 colours:
-  - "#79a1b8"
+  - "#6590AE"
   - "#ffffff"
   - "#000000"
 pullquote: Absolutely essential
