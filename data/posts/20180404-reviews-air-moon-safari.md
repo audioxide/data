@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#278aa8"
+  - "#55799B"
   - "#ffffff"
-  - "#000000"
+  - "#ffffff"
 pullquote: Irresistible
 summary: Air combined chillout aesthetic with downtempo percussion, whilst adding that crucial pop element that made the record such a success. It’s pleasant, comforting, and frequently absorbing.
 week: 140
