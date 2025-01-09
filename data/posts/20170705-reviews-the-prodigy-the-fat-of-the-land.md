@@ -24,8 +24,8 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#058CD0"
-  - "#000000"
+  - "#057CB8"
+  - "#fff"
   - "#fff"
 pullquote: A steady, confident dance drone
 summary: "Despite fluctuations in intensity, the general vibe is very much the same throughout. What The Fat of the Land lacks in diversity, it makes up in consistency: pulsating basslines and thrilling beats, polished with a grittiness that, at the time, was exclusive to The Prodigy."
