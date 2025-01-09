@@ -35,7 +35,7 @@ totalscore:
   possible: 30
   fraction: 0.83333333
 colours:
-  - "#dd4c1f"
+  - "#CD461D"
   - "#ffffff"
   - "#ffffff"
 pullquote: A hypnotic, woozy, weird anomaly
