@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#e3228f"
-  - "#efd8b8"
-  - "#050608"
+  - "#DE1B8A"
+  - "#fff"
+  - "#000"
 pullquote: Pick 'n' mix rock 'n' roll
 summary: The Desert Sessions project has always been a lot of fun. It's sincere music created in the moment by a bunch of talented artists. Returning from an absence of 16 (!!!) years, I'm pleased to report nothing has really changed on that front.
 week: 214
