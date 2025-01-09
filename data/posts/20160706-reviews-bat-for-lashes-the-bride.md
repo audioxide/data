@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.5
 colours:
-  - "#63896e"
-  - "#1c1c19"
-  - "#dfdee3"
+  - "#4A8253"
+  - "#000000"
+  - "#ffffff"
 pullquote: Flimsy
 summary: Interesting instrumentals are peppered throughout the album, but these largely don't evolve from the opening moments of each track. Natasha Khan's vocals are as beautiful and delicate as expected, but are noticeably safer than in tracks such as "Laura".
 week: 60
