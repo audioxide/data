@@ -25,8 +25,8 @@ totalscore:
   fraction: 0.63
 colours:
   - "#000000"
-  - "#d1120e"
-  - "#d1120e"
+  - "#EA1410"
+  - "#EA1410"
 pullquote: Purposefully provocative
 summary: The album is purposefully provocative, and whilst this brings exhilarating and hard-hitting moments, it can also result in disorientating frenzies. It feels messy, basically, though this isn't always a bad thing.
 week: 237
