@@ -28,7 +28,7 @@ totalscore:
 colours:
   - "#000000"
   - "#fff"
-  - "#cb3830"
+  - "#D1443D"
 pullquote: Powerful grunge
 summary: Superunknown is a sprawling record, spanning grunge, alternative metal, stoner rock, and psychedelia; streamlined under a pop supervision that makes it one of the most accessible and infectious rock albums of the '90s.
 week: 99
