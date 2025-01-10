@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.4666666666666667
 colours:
-  - "#B08C98"
+  - "#986777"
   - "#FFF"
   - "#FFF"
 pullquote: Undercooked pop
