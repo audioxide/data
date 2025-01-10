@@ -26,8 +26,8 @@ totalscore:
   fraction: 0.8
 colours:
   - "#0171A6"
-  - "#000000"
-  - "#000000"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Pleasantly neurotic
 summary: One of the most iconic albums of the ’90s. Weezer were unapologetically weird, yet strangely glamorous, which in itself brought a warming message; they showed us that it was cool to be uncool.
 week: 37
