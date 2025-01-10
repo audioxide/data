@@ -21,9 +21,9 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#1f1a0c"
-  - "#7d5f18"
-  - "#eddfce"
+  - "#2D3111"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: An imposing sensory experience
 summary: The delicate craft of Wiesenfeld’s earlier work is mostly gone, and the instrumentals are instead excitable, fidgety, and sometimes erratic. The music is generally well constructed, but flirts dangerously with sensory overload.
 week: 125
