@@ -30,7 +30,7 @@ totalscore:
   possible: 30
   fraction: 0.66666667
 colours:
-  - "#6EAC6B"
+  - "#4C7F48"
   - "#ffffff"
   - "#ffffff"
 pullquote: Part dramatic dream, part sun-soaked soliloquy
