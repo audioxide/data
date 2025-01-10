@@ -24,8 +24,8 @@ totalscore:
   fraction: 0.9333333333333333
 colours:
   - "#a6050a"
-  - "#e0ab09"
-  - "#e0ab09"
+  - "#F7CB45"
+  - "#F7CB45"
 pullquote: Worldly whimsy
 summary: An exhibition of seemingly boundless creativity, each track distinct, original, and memorable. Despite the liveliness, the album has a consistent thread of lounge-esque chill throughout — sit back and relax, you’re in the best of hands.
 week: 172
