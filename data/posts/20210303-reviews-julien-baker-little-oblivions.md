@@ -26,8 +26,8 @@ totalscore:
   fraction: 0.6
 colours:
   - "#474d4b"
-  - "#c2a12d"
-  - "#c2a12d"
+  - "#D6BA51"
+  - "#D6BA51"
 pullquote: Honest, unabashed, confessional
 summary: Whilst I welcome the shift away from skeletal guitars, I don’t think Baker’s strengths lie in creating expansive arrangements herself. These songs sound like they’ve been developed for arenas, which in itself is a strange paradox.
 week: 260
