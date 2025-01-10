@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#2d2727"
-  - "#FFF"
-  - "#C92B1F"
+  - "#000000"
+  - "#ffffff"
+  - "#DD2F22"
 pullquote: A rollicking debut
 summary: There is a remarkable degree of confidence that you wouldn’t usually expect from a debut, which is not only testament to Costello’s immense musical capabilities, but also his cheerfully bitter personality. This is a punk record, after all.
 week: 107

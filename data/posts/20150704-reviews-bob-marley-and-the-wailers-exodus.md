@@ -20,9 +20,10 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#c79c4d"
+  - "#BA8D3B"
   - "#ffffff"
-  - "#333333"
+  - "#ffffff"
+  - "#2e2e2e"
 pullquote: Laid back energy
 summary: It has moments of quite profound Marley charm, but such peaks are matched by (very pleasant) plateaus. When I listen to Exodus I don't hear a great album; I hear a good album with a handful of iconic songs.
 week: 21

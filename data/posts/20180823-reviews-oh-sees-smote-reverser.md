@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#877987"
-  - "#cbc9d4"
-  - "#cbc9d4"
+  - "#665462"
+  - "#D1CFD8"
+  - "#D1CFD8"
 pullquote: Filter-free
 summary: If you can tap into Oh Sees’ frequency there’s no reason why this can’t be a lovely hour in the haze. The record needs that buy-in, though. Without it I find it hard to escape the feeling the band are getting a lot more out of all this than I am.
 week: 160

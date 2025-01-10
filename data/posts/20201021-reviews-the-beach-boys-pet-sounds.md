@@ -24,8 +24,8 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#428d52"
-  - "#fee34c"
+  - "#377644"
+  - "#FEEB7B"
   - "#fdfffc"
 pullquote: One big lovey dovey hooby dooby yeah yeah yeah jingle
 summary: The harmonies are wonderful, the instrumentation is charming, and, well, everything sounds rather bloody marvellous. There’s a lot to love and little to dislike. Is it as extraordinary as so often cited? Perhaps not.

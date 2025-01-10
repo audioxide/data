@@ -31,7 +31,7 @@ totalscore:
   fraction: 0.6666666666666666
 colours:
   - "#465354"
-  - "#e68619"
+  - "#F0B97A"
   - "#e3c55b"
 pullquote: Cockney vaudeville
 summary: There’s a lot to like if you dig the general sound. The songwriting is hard to knock, and Damon Albarn leads the pack well with his social satires and cutting commentary.

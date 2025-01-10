@@ -22,9 +22,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#c8af87"
   - "#b3292b"
-  - "#FFF"
+  - "#FFFFFF"
+  - "#FFFFFF"
 pullquote: Fit for oblivion
 summary: It’s a rewarding experience, if not always a pleasant one. Whatever it is Swans are doing in The Glowing Man, they’re doing something. It’s healthy for ears to be bombarded with music like this every now and then.
 week: 58

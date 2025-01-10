@@ -26,7 +26,7 @@ totalscore:
 colours:
   - "#493f36"
   - "#c2ac95"
-  - "#fe5200"
+  - "#c2ac95"
 pullquote: Yorke does Yorke
 summary: ANIMA has the hallmark Yorke oddball jumpiness, but there are some really fluid sounds at play too. The production is top notch, and I expect the wanderings are pleasant enough to leave most fans satisfied. Does the album surprise and delight? No, but it does please.
 week: 199

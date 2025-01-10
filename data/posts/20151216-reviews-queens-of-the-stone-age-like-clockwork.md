@@ -24,7 +24,7 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#f30443"
+  - "#EC0442"
   - "#ffffff"
   - "#000000"
 pullquote: Grand and gritty

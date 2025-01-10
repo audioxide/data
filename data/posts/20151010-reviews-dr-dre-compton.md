@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#726c63"
-  - "#cccccc"
-  - "#FFF"
+  - "#367BA1"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A joyous celebration
 summary: A polished, lumbering beast of an album. Not so much concerned with peaks and troughs as with a steady, charismatic drone of all things Compton. Dr. Dre’s latest concoction rides a peculiar line between celebration and reflection.
 week: 26

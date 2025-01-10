@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.7333333333333333
 colours:
-  - "#79a386"
-  - "#e6d4aa"
-  - "#050505"
+  - "#587f60"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Unkempt, kooky, and completely at ease
 summary: "The record feels intentionally eroded: instrumentals strike upon funky yet claustrophobic grooves, awaiting Barrow’s vocals to emerge from the mire. It’s a weird but often wonderful formula."
 week: 65

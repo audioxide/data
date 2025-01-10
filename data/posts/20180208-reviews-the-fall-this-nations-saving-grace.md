@@ -28,7 +28,7 @@ totalscore:
 colours:
   - "#0e120c"
   - "#36b389"
-  - "#6c6e70"
+  - "#7A7D7F"
 pullquote: Chummy sleaze
 summary: Whilst I did expect a caustic, mocking tone, I did not foresee a package so pristinely produced. There’s a lot to be said for the album’s quirks, but when all is said and done, This Nation’s Saving Grace is in fact a great album in its own musical right.
 week: 131

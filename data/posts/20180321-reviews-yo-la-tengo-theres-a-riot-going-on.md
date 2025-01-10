@@ -23,8 +23,8 @@ totalscore:
   fraction: 0.5
 colours:
   - "#c25151"
-  - "#f2efe4"
-  - "#f2efe4"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Murky and unmemorable
 summary: There’s a Riot Going On is neither immersive nor memorable. The sonic palette is murky and the songwriting is lax. Any time the group stumbles onto a passable bass line or soothing melody they run it into the ground in some sort of slow motion indie panic.
 week: 137

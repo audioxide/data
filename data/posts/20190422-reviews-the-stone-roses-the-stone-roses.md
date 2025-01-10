@@ -26,9 +26,9 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#5f7f58"
-  - "#efc94e"
-  - "#ddae1e"
+  - "#475D41"
+  - "#F5DD8E"
+  - "#EBCB6B"
 pullquote: Well adored
 summary: Though clearly a product of the ‘80s the album wears its age with grace. It’s a broody, elegant, sometimes transcendent blend of rock and electronic music quite unlike anything made before or since, even by The Stone Roses.
 week: 189

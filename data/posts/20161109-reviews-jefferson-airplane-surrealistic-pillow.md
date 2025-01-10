@@ -28,7 +28,8 @@ totalscore:
   fraction: 0.8
 colours:
   - "#f086b4"
-  - "#3b2e37"
+  - "#050807"
+  - "#050807"
   - "#050807"
 pullquote: Seductive psychedelia
 summary: It remains a staple of the genre today, feeling as fresh and vibrant now as it did in 1967, and stands as tall as the finest works of the same era by The Rolling Stones and The Beatles.  It sounds like a wonderful montage of the ’60s.

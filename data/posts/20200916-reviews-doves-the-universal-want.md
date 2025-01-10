@@ -29,8 +29,8 @@ totalscore:
   fraction: 0.56666667
 colours:
   - "#361334"
-  - "#af6b9f"
-  - "#af6b9f"
+  - "#e7cee2"
+  - "#CAA0C1"
 pullquote: Plushy rock
 summary: The textures, vocals, and mixing are tediously uniform, and the instrumentation is too often basic in conceit and effects-laden in execution. There’s nothing to grab onto, nothing to shake the feeling that I’m listening to the soundtrack of a cul de sac dinner party.
 week: 248

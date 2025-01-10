@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#434830"
-  - "#050808"
-  - "#bdb693"
+  - "#524539"
+  - "#FAA352"
+  - "#FAA352"
 pullquote: All very Kinks-y
 summary: A good deal of the songs are beautiful in ways only Ray Davies can achieve, but the album’s scattered feel keeps it from being more than the sum of its parts.
 week: 4

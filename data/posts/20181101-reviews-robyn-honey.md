@@ -26,8 +26,9 @@ totalscore:
   fraction: 0.7666666666666667
 colours:
   - "#f0534a"
-  - "#d2d90d"
-  - "#d2d90d"
+  - "#212121"
+  - "#212121"
+  - "#212121"
 pullquote: Downtempo sensuality
 summary: From the lush, low-key title track to the gentle pleading of “Baby Forgive Me”, Honey delights in a downtempo sensuality. It finds voice in not being larger than life, delving instead into the deeply personal.
 week: 170

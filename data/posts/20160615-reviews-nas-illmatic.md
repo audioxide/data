@@ -20,9 +20,9 @@ totalscore:
   possible: 30
   fraction: 0.8333333333333334
 colours:
-  - "#995c43"
-  - "#e6d6bc"
-  - "#faf9f2"
+  - "#7d3e30"
+  - "#daddda"
+  - "#daddda"
 pullquote: An undisputed classic
 summary: For those looking to get into hip-hop, I would recommend Illmatic ahead of any record at my disposal. Better rap albums have been released since, but none have captured the heart and soul of hip-hop quite like this.
 week: 57

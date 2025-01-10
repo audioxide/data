@@ -28,7 +28,7 @@ totalscore:
   possible: 30
   fraction: 0.8333333333333334
 colours:
-  - "#d41313"
+  - "#EB1414"
   - "#070d06"
   - "#070d06"
 pullquote: A glimpse of the Swinging Sixties

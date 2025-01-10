@@ -26,7 +26,7 @@ totalscore:
 colours:
   - "#356da1"
   - "#f7f588"
-  - "#080a0a"
+  - "#ffffff"
 pullquote: Bombastic sunshine
 summary: Wildflower brims with positive energy, and is a worthy, if lopsided follow-up to the acclaimed Since I Left You. The music is carefree, graceful, and extremely accessible, with an open-ended structure that makes the listening experience feel like a vast and joyous journey.
 week: 61

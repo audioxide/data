@@ -25,8 +25,8 @@ totalscore:
   fraction: 0.6333333333333333
 colours:
   - "#ad1a2e"
-  - "#000000"
-  - "#000000"
+  - "#fff"
+  - "#fff"
 pullquote: Amazingly catchy riffs
 summary: Without the raw energy of Surfer Rosa and cohesiveness of Doolittle, Bossanova is simply a solid album from a remarkable band.
 week: 1

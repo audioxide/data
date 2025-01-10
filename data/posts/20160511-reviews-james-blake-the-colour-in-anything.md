@@ -21,9 +21,9 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#a8a592"
-  - "#e1e3d5"
   - "#4f6263"
+  - "#EDEFE7"
+  - "#EDEFE7"
 pullquote: Blake on autopilot
 summary: For an album that clocks in well over the hour mark, it’s regrettably unambitious and even a little safe. Dare I say it; this is effectively James Blake on autopilot. There is little progression between this and Overgrown.
 week: 53

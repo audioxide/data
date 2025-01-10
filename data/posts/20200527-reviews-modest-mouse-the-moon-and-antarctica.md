@@ -33,7 +33,7 @@ totalscore:
 colours:
   - "#59414f"
   - "#f3f2f6"
-  - "#000201"
+  - "#f3f2f6"
 pullquote: An indie high water mark
 summary: Provided you're in the right mood, The Moon & Antarctica is one of the standout indie rock releases of the 2000s. A volatile relief for all the potential nihilists out there.
 week: 235

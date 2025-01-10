@@ -23,8 +23,8 @@ totalscore:
   fraction: 0.6666666666666666
 colours:
   - "#302f2d"
-  - "#cc4c47"
-  - "#d14b49"
+  - "#DD7A78"
+  - "#DD7A78"
 pullquote: Whimsical indie rock
 summary: There's nothing mind-blowing here, and there's no pretence that there should be. This is instead a solid, albeit unassuming, indie rock record that makes for an enjoyable listen.
 week: 147

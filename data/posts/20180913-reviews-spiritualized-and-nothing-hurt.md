@@ -26,8 +26,8 @@ totalscore:
   fraction: 0.6
 colours:
   - "#596066"
-  - "#caccc6"
-  - "#b6c2be"
+  - "#DADAD8"
+  - "#DADAD8"
 pullquote: Lost in space
 summary: This is the first Spiritualized album in six years, so I’m left wondering why it feels like the product of artistic saturation. It’s certainly cohesive, and there are some gorgeous moments, but it ultimately winds up being forgettable.
 week: 163

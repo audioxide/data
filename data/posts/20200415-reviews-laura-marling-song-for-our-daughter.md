@@ -26,9 +26,9 @@ totalscore:
   possible: 30
   fraction: 0.8333333333333334
 colours:
-  - "#867e8b"
-  - "#cdced2"
-  - "#cdced2"
+  - "#79727E"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A Marling masterclass
 summary: Robed in ever so tasteful shades of pinkish beige, bluish beige, and beige, the album is an often sublime Marling masterclass.
 week: 229

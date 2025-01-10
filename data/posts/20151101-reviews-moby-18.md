@@ -21,9 +21,9 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#098db5"
-  - "#dce7f5"
-  - "#020301"
+  - "#087DA1"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Flat electronica
 summary: Strung together with down tempo drum beats, silky basslines, warming pads, and soulful vocals, it’s certainly a very consumable album, with little to jolt a listener’s senses. This, I feel, is the downfall of 18.
 week: 29

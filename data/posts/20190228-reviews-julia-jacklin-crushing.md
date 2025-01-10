@@ -22,9 +22,9 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#3de59e"
-  - "#eef5e6"
-  - "#eef5e6"
+  - "#128756"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: An intimate breakup album
 summary: In a time where singer-songwriters are ten a penny, Julia Jacklin has created an album that stands out from the crowd. It doesn't reach heady heights or make grand proclamations, but it's made for a wonderful listen.
 week: 181

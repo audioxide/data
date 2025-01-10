@@ -26,9 +26,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#d46713"
-  - "#f7f7f5"
-  - "#f7f7f5"
+  - "#CF492A"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Borderline delirious
 summary: Those expecting a Blackstar will be disappointed. American Utopia is far too playful for that, for better and for worse. The record isn’t a masterclass, but there are still enough dashes of genius to make it one of the stronger releases of the year.
 week: 136

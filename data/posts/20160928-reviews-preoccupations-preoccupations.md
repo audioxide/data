@@ -28,9 +28,9 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#3f77b8"
-  - "#222129"
-  - "#ebdeca"
+  - "#3B6FAB"
+  - "#F6F0EA"
+  - "#F6F0EA"
 pullquote: Intense, polished post-punk
 summary: It’s an intensely focused musical space, guided by a vocal delivery that seems simultaneously lethargic and passionate. Combined with the band’s rhythmic mauling, Matt Flegal’s harrowing snarls can feel fairly unsettling.
 week: 72

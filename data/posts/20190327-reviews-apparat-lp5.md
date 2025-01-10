@@ -25,7 +25,7 @@ totalscore:
 colours:
   - "#152572"
   - "#f1c677"
-  - "#da2f8b"
+  - "#E66BAC"
 pullquote: Luscious and overly comfortable
 summary: LP5 seems comfortable not pushing any boundaries. Tracks unravel steadily, with heavy attention shown towards atmosphere and production (both of which are the album's strong points). Rarely are there any momentous changes to melodic composition, such is the ambient nature of the work.
 week: 185

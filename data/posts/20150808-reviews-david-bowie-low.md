@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.9
 colours:
-  - "#eb7f53"
-  - "#ffffbf"
-  - "#323944"
+  - "#D5410B"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Timeless
 summary: Between the delicious bite-sized servings of vintage Bowie glam-rock and the brooding beauty of the instrumental pieces, Low is a model two-sided album; something that adapts the format and twists it to its own ends. What results is a delicate and insightful balance of showmanship and reflection.
 week: 23

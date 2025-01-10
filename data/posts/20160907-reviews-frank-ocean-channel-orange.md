@@ -28,6 +28,7 @@ colours:
   - "#DB6A1C"
   - "#ffffff"
   - "#ffffff"
+  - "#000000"
 pullquote: The antithesis of pop-fodder
 summary: Channel Orange represents personal freedom, and it’s a liberation that Ocean experiences as an artist as well as a man. It smoothly shifts from ’90s R&B to psychedelic funk, and pretty much everything else on the way as Ocean displays great skill and confidence as a songwriter.
 week: 69

@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#ccaeea"
-  - "#fff"
-  - "#fff"
+  - "#9150D3"
+  - "#F1F8FD"
+  - "#F1F8FD"
 pullquote: A nostalgia meme
 summary: "Dreamland is millennial nostalgia in a nutshell. Dave Bayley yearns for his youth. Enter: Pokemon; G.I. Joe; Scooby Doo; Nintendo 64; Grand Theft Auto; Doom..."
 week: 243

@@ -28,6 +28,7 @@ colours:
   - "#ef6c26"
   - "#ffffff"
   - "#ffffff"
+  - "#000000"
 pullquote: Google music
 summary: The songwriting, performances and production are all top notch. But my word is it sterile. The majority of these songs wouldn't feel out of place in an advert for Google, such is the clinical nature of their formation.
 week: 191

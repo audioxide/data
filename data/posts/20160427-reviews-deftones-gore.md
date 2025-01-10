@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#a5a2b2"
-  - "#FFF"
-  - "#323944"
+  - "#77748B"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Alluring brutality
 summary: Without sacrificing any of the gratifying brutality fans have come to expect from the band, Gore strikes a delightful balance, and is perhaps their most accessible record to date.
 week: 51

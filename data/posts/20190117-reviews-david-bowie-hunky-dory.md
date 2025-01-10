@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#a4914c"
-  - "#e9eae2"
-  - "#e9eae2"
+  - "#8D6D75"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A penny theatre musical
 summary: The songwriting is unbelievably good, to the point where it sounds effortless. Bowie, fresh from having his first child, shows sensitivity, humour, and even a little arrogance. In many ways, it was the sign of things to come.
 week: 175

@@ -33,9 +33,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#5d90ab"
-  - "#e2ebf0"
-  - "#b3c6d4"
+  - "#457087"
+  - "#E7EEF3"
+  - "#E7EEF3"
 pullquote: Black magic with a smile
 summary: With PJ Harvey it feels like you’ve stumbled across the ad hoc performance of a travelling mystic. It’s black magic with a smile. There’s blood trickling from the corner of its mouth, but then who are we to judge?
 week: 222

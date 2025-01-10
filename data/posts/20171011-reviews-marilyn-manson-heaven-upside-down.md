@@ -23,7 +23,8 @@ totalscore:
   possible: 30
   fraction: 0.6
 colours:
-  - "#999999"
+  - "#949494"
+  - "#000000"
   - "#000000"
   - "#000000"
 pullquote: Weirdly disposable

@@ -22,7 +22,7 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#8f8f8f"
+  - "#000000"
   - "#ffffff"
   - "#f0dd81"
 pullquote: A nocturnal journey

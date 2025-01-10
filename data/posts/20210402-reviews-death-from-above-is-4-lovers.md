@@ -27,7 +27,7 @@ totalscore:
   possible: 30
   fraction: 0.5666666667
 colours:
-  - "#a5a48d"
+  - "#8e5c40"
   - "#ffffff"
   - "#ffffff"
 pullquote: A failed experiment

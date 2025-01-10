@@ -23,8 +23,8 @@ totalscore:
   fraction: 0.7666666666666667
 colours:
   - "#14080a"
-  - "#a96479"
-  - "#a96479"
+  - "#CAA0AC"
+  - "#A96677"
 pullquote: Frankenstein in a dinner jacket
 summary: Creating a distinctive, ethereal sound that feels suitably of its time, there are some cracking moments to be had here. While I do grow weary of it towards the end, there's certainly nothing bad here. An excellent album that's stood the test of time.
 week: 200

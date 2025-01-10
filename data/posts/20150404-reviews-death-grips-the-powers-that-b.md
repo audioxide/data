@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#5a9091"
+  - "#4F7D7D"
   - "#ffffff"
-  - "#FFF"
+  - "#ffffff"
 pullquote: Fucking crazy
 summary: As with a lot of Death Grips' output, a great deal of The Powers That B seems like it shouldn't work. It's just a huge, crazy wall of sound, and that makes for an exhausting listen; yet it works well despite it all.
 week: 10

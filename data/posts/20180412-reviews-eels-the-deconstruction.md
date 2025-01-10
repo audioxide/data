@@ -21,9 +21,9 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#db408d"
-  - "#ede4ca"
-  - "#ede4ca"
+  - "#C92678"
+  - "#F4F2E6"
+  - "#F4F2E6"
 pullquote: Radio E frequency
 summary: E’s songwriting has found fresh form. His songs, and the immaculate production that goes with them, can be predictable, but they’re almost always worth it in the end. I can’t imagine anyone other than E writing something like “Sweet Scorched Earth”, which is the closest we’ve come to an Eels ‘classic’ in quite some time.
 week: 141

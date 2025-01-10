@@ -24,8 +24,8 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#d3494f"
-  - "#86a9a5"
+  - "#D14249"
+  - "#FFF"
   - "#FFF"
 pullquote: A distinct lack of thump
 summary: Mark Ronson’s production makes things sound pristine, which is impressive from a technical standpoint but not always appropriate. It makes the music sound kitschy, like a gigantic quiff’s greatest hits. Which all seems a bit unnecessary given that Josh Homme could slur his way through a phonebook and still be the coolest man in the room.

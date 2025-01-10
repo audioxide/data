@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666
 colours:
-  - "#ca7e06"
-  - "#fafafa"
-  - "#fafafa"
+  - "#DF018A"
+  - "#FCFCFC"
+  - "#FCFCFC"
 pullquote: Few records are better at making you feel worse
 summary: Bleeding Gums’ hard life is laid bare. From brotherly estrangement to Fabergéal financial ruin to dental calamity, the soulful howling and gravelly tone is magnificient.
 week: 264

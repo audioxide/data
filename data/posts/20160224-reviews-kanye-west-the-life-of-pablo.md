@@ -27,6 +27,7 @@ colours:
   - "#ed8a54"
   - "#000301"
   - "#000301"
+  - "#000301"
 pullquote: Totally erratic
 summary: Genuinely catchy, thought-out tracks sit beside tracks that — I can only hope — are fully invested in Kanye’s own irony and lunacy, which in turn sit beside tracks that feel like draft copies (and based on the rumours, they may well be).
 week: 42

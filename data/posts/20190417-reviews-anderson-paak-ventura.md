@@ -24,9 +24,10 @@ totalscore:
   possible: 30
   fraction: 0.7
 colours:
-  - "#d0b695"
-  - "#fefbf4"
-  - "#fefbf4"
+  - "#B68D58"
+  - "#ffffff"
+  - "#ffffff"
+  - "#000000"
 pullquote: A suave shade of beige
 summary: A bit of raucousness would be nice, a bit of grit. Ventura is nothing if not steady. It makes for a super consistent hip hop experience, but I can’t help but wonder what might have been achieved with the safety wheels off.
 week: 188

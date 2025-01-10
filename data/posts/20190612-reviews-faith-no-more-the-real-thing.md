@@ -21,7 +21,7 @@ totalscore:
   possible: 30
   fraction: 0.6333333333333333
 colours:
-  - "#6e6266"
+  - "#594F53"
   - "#c1d051"
   - "#f9e8de"
 pullquote: Ridiculous

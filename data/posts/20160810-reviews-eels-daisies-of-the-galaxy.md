@@ -24,9 +24,9 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#f54522"
-  - "#fff"
-  - "#444066"
+  - "#E02E0B"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: Summertime nihilism
 summary: Daisies of the Galaxy is a beautiful place to be for a time, but it isn’t a masterpiece. It’s the black dog curling up in your lap and wagging its tail. We savour that frame of mind more than we care to admit, I think.
 week: 65

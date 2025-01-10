@@ -27,9 +27,9 @@ totalscore:
   possible: 30
   fraction: 0.7666666666666667
 colours:
-  - "#a1856c"
-  - "#fafcfc"
-  - "#1d211c"
+  - "#2a2927"
+  - "#dfcab0"
+  - "#a8a3a4"
 pullquote: The '90s aggregated
 summary: Psyence Fiction attempts to be the sonic equivalent of the visual cinema experience — a lofty ambition, but UNKLE give it a bloody good go. It’s not quite the epic statement that Shadow and Lavelle so wished it to be, but it remains a fine achievement.
 week: 157

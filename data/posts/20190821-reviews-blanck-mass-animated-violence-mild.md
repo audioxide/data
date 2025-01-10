@@ -29,8 +29,8 @@ totalscore:
   fraction: 0.6333333333333333
 colours:
   - "#270a29"
-  - "#e1371e"
-  - "#e1371e"
+  - "#e94463"
+  - "#e94463"
 pullquote: Frenzied and exhausting
 summary: It’s like Blanck Mass put Marilyn Manson, Nine Inch Nails, Mario, and the blood of a sacrificial lamb into a kind of sonic blender.
 week: 204
