@@ -25,9 +25,10 @@ totalscore:
   possible: 30
   fraction: 0.5333333333333333
 colours:
-  - "#01aff1"
-  - "#d6edfc"
-  - "#d6edfc"
+  - "#019DDA"
+  - "#ffffff"
+  - "#ffffff"
+  - "#000000"
 pullquote: PG-13 Joy Division
 summary: It all winds up feeling a bit clean cut, a bit airbrushed. The album’s a perfectly pleasant smorgasbord of gothy synth pop which goes in one ear and out the other.
 week: 225
