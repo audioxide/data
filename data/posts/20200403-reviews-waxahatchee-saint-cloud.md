@@ -23,7 +23,7 @@ totalscore:
   possible: 30
   fraction: 0.6666666666666666
 colours:
-  - "#8aa6ad"
+  - "#5A7B81"
   - "#ffffff"
   - "#ffffff"
 pullquote: Warm, fuzzy country
