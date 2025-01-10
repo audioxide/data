@@ -22,7 +22,8 @@ totalscore:
   fraction: 0.6
 colours:
   - "#F55A60"
-  - "#FAE477"
+  - "#13120D"
+  - "#13120D"
   - "#13120D"
 pullquote: An inconsistent frenzy
 summary: The album’s songwriting is fairly subpar, suffering from attempting to say everything it can and ultimately saying nothing inspired or new. Humanz is by no means a terrible album, but it’s definitely a disappointing one.
