@@ -28,7 +28,7 @@ totalscore:
 colours:
   - "#644332"
   - "#FFF"
-  - "#8CA39D"
+  - "#FFF"
 pullquote: Bittersweet indie-rock
 summary: Some artists have a hard time returning after a lengthy hiatus, but Grandaddy has done it with aplomb. Avoiding sounding like a shadow of their former selves, Last Place is all you could want from the band.
 week: 88
