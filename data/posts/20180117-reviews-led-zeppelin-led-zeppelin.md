@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.8
 colours:
-  - "#0d0d0d"
+  - "#000000"
   - "#bdbdbd"
-  - "#d63204"
+  - "#DC3304"
 pullquote: Urgent and confident
 summary: The riffs, energy, and force of will grasp from the ’60s to the present day with the swagger of being brand new. Tapping into the bohemian change-the-world sensibilities of the era, Led Zeppelin feel like a sonic equivalent of the Beats in their indifference to the status quo and their willingness to swivel it on the tips of their middle fingers.
 week: 128
