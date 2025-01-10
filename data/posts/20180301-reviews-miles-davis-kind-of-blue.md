@@ -26,7 +26,7 @@ totalscore:
 colours:
   - "#000000"
   - "#fafaf7"
-  - "#126ea3"
+  - "#147CB8"
 pullquote: Luxurious and enchanting
 summary: Each player is a master of their craft, yet not one of them flaunts their talent. It’s seamless communication, a result of the immense understanding between the performers under the rule of improvisation. It plays out like a beautiful alien language.
 week: 134
