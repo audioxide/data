@@ -23,8 +23,8 @@ totalscore:
   fraction: 0.6
 colours:
   - "#292929"
-  - "#898a87"
-  - "#cc161c"
+  - "#999A98"
+  - "#C0C0BF"
 pullquote: A pleasant little oddity
 summary: With its contagious aura of revelry and high sense of spirituality, Natasha Khan’s latest project initially proves quite alluring. Impressive vocal performances and a rhythm section that proves immensely gratifying in its tribal nature ensure Sexwitch makes for an enjoyable — if limited — experience.
 week: 28
