@@ -26,9 +26,9 @@ totalscore:
   possible: 30
   fraction: 0.5333333333333333
 colours:
-  - "#5b7852"
-  - "#DED2C6"
-  - "#DED2C6"
+  - "#2E853E"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: A fabricated slog
 summary: "The least I anticipated was an array of huge, theatrical arrangements topped with sizzling guitar solos, but this wasn’t to be the case. Most of the songs on News of the World are weirdly tame: there’s no headbang-inducing rock epic, nor is there a funky dance number."
 week: 121
