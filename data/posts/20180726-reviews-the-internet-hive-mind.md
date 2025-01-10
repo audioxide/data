@@ -23,9 +23,9 @@ totalscore:
   possible: 30
   fraction: 0.5333333333333333
 colours:
-  - "#d4805f"
-  - "#e8e8e8"
-  - "#e8e8e8"
+  - "#3D719D"
+  - "#f0f0f0"
+  - "#f0f0f0"
 pullquote: Boring and nice
 summary: Each song starts promisingly enough, but Hive Mind is guilty of not taking its ideas further. The record stagnates into a smooth R&B mood, though admittedly a rather lavish one.
 week: 156
