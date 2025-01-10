@@ -24,7 +24,8 @@ totalscore:
   possible: 30
   fraction: 0.9
 colours:
-  - "#7ba6c9"
+  - "#6798C1"
+  - "#ffffff"
   - "#ffffff"
   - "#323944"
 pullquote: Therapeutically human
