@@ -26,9 +26,9 @@ totalscore:
   possible: 30
   fraction: 0.9
 colours:
-  - "#363130"
-  - "#bdbdbd"
-  - "#7d7b79"
+  - "#1D2023"
+  - "#bdc9c8"
+  - "#bdc9c8"
 pullquote: An instant classic
 summary: If Good Kid, M.A.A.D City introduced Kendrick Lamar to the masses, To Pimp A Butterfly cements his place in the hip-hop hall of fame. This is an instant classic.
 week: 8
