@@ -25,9 +25,9 @@ totalscore:
   possible: 30
   fraction: 0.8666666666666667
 colours:
-  - "#a6a395"
+  - "#787573"
   - "#ffffff"
-  - "#323944"
+  - "#ffffff"
 pullquote: Complex and affecting dance
 summary: "While LCD Soundsystem is undoubtedly a product of nostalgia, Murphy does well to interrogate this nostalgia: he’s not merely indulging his influences or recreating the past as if that would be sufficient, rather he’s delving into the past to forge something new."
 week: 124
