@@ -29,9 +29,9 @@ totalscore:
   possible: 30
   fraction: 0.8333333333333334
 colours:
-  - "#A274BC"
-  - "#DFC0DC"
-  - "#FBFBFB"
+  - "#9561B3"
+  - "#ffffff"
+  - "#ffffff"
 pullquote: An unrelenting curiosity
 summary: Whilst Hounds of Love is not without its defects, it’s held high on the pedestal of art-pop for good reason. That Bush could create something so deliriously weird and wild yet also break through to the mainstream world is great proof of her powers.
 week: 158
