@@ -37,7 +37,8 @@ reviewType: gag
 
 ---
 author: andre-dack
-review: Lorum ipsum dolor
+review: >-
+  _[Note from the editor: Following countless legal threats from Krusty The Clowns infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_
 tracks:
   - Track 1
   - Track 7
@@ -64,12 +65,9 @@ author: andrew-bridge
 review: >-
   It’s a tricky thing returning to an album like this. Hidden among Krustofsky’s considerably lower brow moments in his career as a musician, _Krustophenia_ was the release that was meant to rejuvenate his image, giving him a more serious persona as an artist. Critics have retrospectively pitched it against classics such as _The Yellow Album_, but having had time with it while writing this review, I’m starting to think it has far more in common with _Krusty Klowns Klezmer!_.
 
-
   Right off the bat, Krustofski gives us “I Am The Klown” and “The Real Shoe”. A two minute cut of the man quietly whining and grumbling into the mic, backed by his gravelly smoker’s wheeze before the drums kick in and he complains about his health issues for a further three minutes. In an interview at the time, Herschel described how this album explored themes of identity and authenticity, but if this is his authentic self, I don’t want anything to do with it. I have other grievances too, as much later on in this staggering near-hour-and-a-half deluge of sound, “Mel Boy (Mel’s theme)” mixes the eponymous sidekick’s love of the nose flute and violent intolerance to lactose in a grim affair of audio.
 
-
   Credit where it’s due though. Titular track, “Krustophenia” is a stand out among much of the filler here, largely because Herschella had little to do with it. Castellaneta and Elfman instead take to the fore, mixing orchestral and rock elements to provide something uniquely catchy, and using production techniques which, for the time, were incredibly cutting edge. It’s this six minute epic that I’ve returned to most when I’ve made it through the rest.
-
 
   That aside though, I don’t think _Krustophenia_ has aged well. Next to more experimental, albeit accomplished and acclaimed, albums such as _Krust_, this may feel like easier listening without the brash novelty of Yerucham’s other work, but unfortunately I’ve found myself yearning more for tracks from _Face Down on Mojito Beach_ and _S’Wonderful S’Marvelous S’Krusty_ than anything that can be found in this tracklist.
 tracks:
