@@ -46,6 +46,9 @@ jobs:
           website/node_modules
         # An explicit key for restoring and saving the cache
         key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+    - name: Install netlify CLI
+      run: npm install netlify-cli -g
+      working-directory: data
     - run: yarn
       working-directory: data
       env:
@@ -54,7 +57,7 @@ jobs:
     - run: sed -i "s|^\s*environment.*$||g" netlify.toml
       working-directory: data
     # Build and deploy the data repo
-    - run: npx netlify deploy --build --alias data-preview-$CI_REF_NAME_SLUG
+    - run: netlify deploy --build --alias data-preview-$CI_REF_NAME_SLUG
       working-directory: data
       env:
         GITHUB_REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the repo specific token
