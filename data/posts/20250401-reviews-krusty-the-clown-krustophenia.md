@@ -35,7 +35,7 @@ reviewType: gag
 
 ---
 author: andre-dack
-review: "_[Note from the editor: Following countless legal threats from Krusty the Clowns infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_"
+review: "_[Note from the editor: Following countless legal threats from Krusty the Clown's infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_"
 tracks:
 score:
   score: 0
