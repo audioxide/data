@@ -37,8 +37,7 @@ reviewType: gag
 
 ---
 author: andre-dack
-review: >-
-  _[Note from the editor: Following countless legal threats from Krusty The Clowns infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_
+review: "_[Note from the editor: Following countless legal threats from Krusty The Clowns infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_"
 tracks:
   - Track 1
   - Track 7
@@ -50,15 +49,21 @@ score:
 
 ---
 author: frederick-obrien
-review: Lorem ipsum dolor
+review: >-
+  It would be an easy thing to dismiss _Krustophenia_. To say it’s a mere cash grab, the kind of cultural dreg that can only exist through a cocktail of gambling debts and artistic bankruptcy; to shrug it off as the nadir of a clownish clown career; to entertain the thought that going back in time and killing baby Krusty the Clown would have been better for everyone. It would be an easy thing to do.
+
+
+  There is, however, a little more to the record than that. While I, like most, look at _Krustophenia_ with a combination of disgust and bemusement - and from as far away as possible - its grotesqueness is also striking. It has the freedom and fury of a man who knew he had nothing left to lose. While fellow Springfield outfit the Be Sharps were delighting audiences with crystal clear barbershop harmonies, Krusty was overdubbing synthesizer tracks to an extent not heard before or since. The results in tracks like “Mel Boy (Mel’s theme)” and “The Clown and the Rabbi Father” are migrainous, but then who said music has to be easy on the ears? Anyone who denies the obvious impact _Krustophenia_ had on _[The Downward Spiral](/reviews/nine-inch-nails-the-downward-spiral)_ is lying to themselves.
+
+
+  Still, there’s no getting around the record’s weaknesses. Like Krusty at the time, tracks are all too often bloated and revolting. Listening to _Krustophenia_ is a laborious, depressing experience. Glimpses of brilliance are fleeting. At just over four hours long it’s not so much a rock opera as a rock dirge, and the recurring clown horn motif remains especially grating.
 tracks:
-  - Track 3
-  - Track 6
-  - Track 5
+  - The Clown and the Rabbi Father
+  - Fill These Shoes
 score:
-  score: 8
+  score: 4
   max: 10
-  fraction: 0.8
+  fraction: 0.4
 
 ---
 author: andrew-bridge
