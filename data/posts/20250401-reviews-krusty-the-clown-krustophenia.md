@@ -9,27 +9,25 @@ tags:
   - the simpsons
   - krusty the clown
 featuredimage: album-artwork/krustophenia-krusty-the-clown.jpg
-artworkCredit: Lorem ipsum dolor
-artworkCreditSource: https://www.source.com/page/
 artist: Krusty The Clown
 album: Krustophenia
 essentialtracks:
-  - Acme Track
-  - Acme Track
+  - The Clown and the Rabbi Father
 favouritetracks:
-  - Acme Track
+  - Krustophenia
+  - The Dirty Job (For Sideshow Bob)
 totalscore:
-  given: 22
+  given: 6
   possible: 30
-  fraction: 0.7333333333333333
+  fraction: 0.2
 colours:
-  - "#46423e"
-  - "#e1dacf"
-  - "#e1dacf"
-pullquote: Lorem ipsum dolor
-summary: Lorem ipsum dolor
+  - "#66748F"
+  - "#fafafa"
+  - "#fafafa"
+pullquote: Not so much a rock opera as a rock dirge
+summary: In an interview at the time Herschel described how this album explored themes of identity and authenticity, but if this is his authentic self, I don’t want anything to do with it.
 week: 287
-blurb: Lorem ipsum dolor
+blurb: At just over four hours long it’s not so much a rock opera as a rock dirge, and the recurring clown horn motif remains especially grating
 artistMBID: 8b22acd6-20e6-4463-a75c-c14b5cfdb666
 albumMBID: 691c7eb4-b8b1-479c-bfa2-21ff1cee120f
 artistLink: https://thewho.com/
@@ -37,15 +35,12 @@ reviewType: gag
 
 ---
 author: andre-dack
-review: "_[Note from the editor: Following countless legal threats from Krusty The Clowns infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_"
+review: "_[Note from the editor: Following countless legal threats from Krusty the Clowns infamously litigious team, we've taken the difficult decision to remove André’s allegation laced review of_ Krustophenia _]_"
 tracks:
-  - Track 1
-  - Track 7
-  - Track 2
 score:
-  score: 7
+  score: 0
   max: 10
-  fraction: 0.7
+  fraction: 0.0
 
 ---
 author: frederick-obrien
@@ -56,7 +51,7 @@ review: >-
   There is, however, a little more to the record than that. While I, like most, look at _Krustophenia_ with a combination of disgust and bemusement - and from as far away as possible - its grotesqueness is also striking. It has the freedom and fury of a man who knew he had nothing left to lose. While fellow Springfield outfit [The Be Sharps](/reviews/the-be-sharps-meet-the-be-sharps) were delighting audiences with crystal clear barbershop harmonies, Krusty was overdubbing synthesizer tracks to an extent not heard before or since. The results in tracks like “Mel Boy (Mel’s theme)” and “The Clown and the Rabbi Father” are migrainous, but then who said music has to be easy on the ears? Anyone who denies the obvious impact _Krustophenia_ had on _[The Downward Spiral](/reviews/nine-inch-nails-the-downward-spiral)_ is lying to themselves.
 
 
-  Still, there’s no getting around the record’s weaknesses. Like Krusty at the time, tracks are all too often bloated and revolting. Listening to _Krustophenia_ is a laborious, depressing experience. Glimpses of brilliance are fleeting. At just over four hours long it’s not so much a rock opera as a rock dirge, and the recurring clown horn motif remains especially grating.
+  Still, there’s no getting around the record’s weaknesses. Like Krusty himself, tracks are all too often bloated and revolting. Listening to _Krustophenia_ is a laborious, depressing experience. Glimpses of brilliance are fleeting. At just over four hours long it’s not so much a rock opera as a rock dirge, and the recurring clown horn motif remains especially grating.
 tracks:
   - The Clown and the Rabbi Father
   - Fill These Shoes
