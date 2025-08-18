@@ -35,8 +35,7 @@ reviewType: retrospective
 
 ---
 author: andre-dack
-review: >-
-  Blah blah blah
+review: Blah blah blah
 tracks:
   - Blah
 score:
@@ -63,10 +62,18 @@ score:
 ---
 author: andrew-bridge
 review: >-
-  Blah blah blah
+  I think we might ruffle some feathers here. Luke warm receptions to a classic like _Fleetwood Mac_ is a surefire way to lose friends and attaching adjectives as tepid as “nice”, “pleasant”, and “easy listening” will probably have some reaching for their pitchforks. It’s telling, however, that we all sniffed out the Stevie Nicks cuts on this album as our favourites without even knowing it. This is an album from a band in transition, with Lindsey Buckingham and Stevie Nicks joining following Bob Welch’s departure, and a considerable portion of the track list repurposed from Buckingham and Nicks’ eponymous album, _Buckingham Nicks_.
+
+
+  Album opener, “Monday Morning”, sits alongside “Rhiannon” and “Crystal” as highlights in this track list, but with the former two initially earmarked for the Buckingham Nicks follow up album, and “Crystal” having already been released on their first album (with a warmer, brighter arrangement to boot), these tracks feel distinctly different to contributions from the rest of the band. “Landslide” makes for another, Nicks penned, highlight in the latter half, standing out with its paired back instrumental and Nicks’ pained, ponderous lyrics.
+
+
+  I do just find most of _Fleetwood Mac_ pleasant to listen to, as tepid a sentence as that may be. It’s got the beautiful mid-70s folk-rock sound throughout, and there’s some clear foundational work for a string of influential, excellent material from the band over the next decade. But between the dual personalities that come with writers getting comfortable with one another, the hand-me-down tracks and the lack of staying power from the rest, it’s hard to dwell on this album for long after it’s over.
 tracks:
-  - Blah
+  - Landslide
+  - Rhiannon
+  - Monday Morning
 score:
-  score: 8
+  score: 6
   max: 10
-  fraction: 0.8
+  fraction: 0.6
