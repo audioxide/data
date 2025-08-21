@@ -12,22 +12,23 @@ featuredimage: album-artwork/fleetwood-mac-fleetwood-mac.jpg
 artist: Fleetwood Mac
 album: Fleetwood Mac
 essentialtracks:
-  - Blah
+  - Rhiannon
+  - Landslide
 favouritetracks:
-  - Blah
-  - Blah
+  - Crystal
+  - Monday Morning
 totalscore:
-  given: 24
+  given: 19
   possible: 30
-  fraction: 0.8
+  fraction: 0.63333333333
 colours:
   - "#080808"
   - "#fefffe"
   - "#fefffe"
 pullquote: Like a half-remembered dream
-summary: "Archetypal Pulp: catchy, energetic and melancholic. The themes of each track have grown up just as the band have too, avoiding the revival landmine of talking like teenagers when you're old enough to parent one."
+summary: "Enjoyable and unspectacular, it's as universal as contemporary music gets, but without a bit of needle it can teeter into boring."
 week: 289
-blurb: "Archetypal Pulp: catchy, energetic and melancholic. The themes of each track have grown up just as the band have too, avoiding the revival landmine of talking like teenagers when you're old enough to parent one."
+blurb: "Enjoyable and unspectacular, it's as universal as contemporary music gets, but without a bit of needle it can teeter into boring."
 artistMBID: bd13909f-1c29-4c27-a874-d4aaf27c5b1a
 albumMBID: 6b5d9bf1-f496-34b5-9488-7df2533d6208
 artistLink: https://www.fleetwoodmacuk.store/
@@ -35,13 +36,20 @@ reviewType: retrospective
 
 ---
 author: andre-dack
-review: Blah blah blah
+review: >-
+  Since forming in the late 60s, Fleetwood Mac have been appreciated by a strikingly wide range of music listeners: fathers and songs, mothers and daughters. The band have dipped their musical toes into pop, rock, blues, country, folk, and everything in-between, remaining fiercely inoffensive throughout. Their songs are good enough to be enjoyed by multiple demographics without ever causing too much of a stir. It’s as universal as contemporary music gets. I don’t believe anyone has ever demanded to turn off _Fleetwood Mac_ at a party.
+
+  This is a level of pleasantness that can sometimes prove damaging. It’s said that the greatest art – whether it be music, film, painting, or whatever else – should at least evoke a reaction. Fleetwood Mac’s self-titled album is one of the most passive pop albums I’ve ever listened to, and my response is as placid as the music itself. That’s not to discredit the depth of the songwriting, nor the quality of the musicianship. It just doesn’t warm my cockles, so to speak.
+
+  _Fleetwood Mac_ is enjoyable throughout its running time, though “Rhiannon” stands out as an obvious highlight. Outside of that moody pop gem, the album lacks the staying power of its successor, which is why _Rumours_ went on to become one of the most commercially successful and critically acclaimed releases in contemporary music. That’s where the band struck gold. Here, they set a solid foundation to build upon. _Fleetwood Mac_ is enjoyable, unspectacular, and adored by aunty Nicky when she’s three glasses of wine down on a warm summer’s evening. Better than Bublé, I suppose.
 tracks:
-  - Blah
+  - Rhiannon
+  - Landslide
+  - Crystal
 score:
-  score: 8
+  score: 7
   max: 10
-  fraction: 0.8
+  fraction: 0.7
 
 ---
 author: frederick-obrien
